@@ -48,7 +48,7 @@ Obtener información sobre las características, actualizaciones de seguridad y 
                     <div class="cardText">
                         <h3>Office para Mac</h3>
                         <p><a href="release-notes-office-for-mac.md">Notas de la versión</a></p>
-                        <p><a href="update-history-office-for-mac.md">Historial de actualización</a></p>
+                        <p><a href="update-history-office-for-mac.md">Historial de actualizaciones</a></p>
                         <p><a href="release-history-microsoft-autoupdate.md">MAU versiones</a></p>
                      </div>
                 </div>
@@ -110,7 +110,7 @@ Obtener información sobre las características, actualizaciones de seguridad y 
                 <div class="card">
                     <div class="cardText">
                         <h3>Recursos de Microsoft</h3>
-                            <p><a href="https://www.microsoft.com/itpro/windows-10/release-information">Información de versión 10 de Windows</a></p>
+                            <p><a href="https://www.microsoft.com/itpro/windows-10/release-information">Información sobre la versión de Windows 10</a></p>
                             <p><a href="https://support.microsoft.com/lifecycle">Directiva de ciclo de vida de Microsoft</a></p>
                             <p><a href="https://portal.msrc.microsoft.com/">Guía de actualización de seguridad de Microsoft</a></p>
                             <p><a href="https://techcommunity.microsoft.com/">Comunidad de Microsoft Tech</a></p>
