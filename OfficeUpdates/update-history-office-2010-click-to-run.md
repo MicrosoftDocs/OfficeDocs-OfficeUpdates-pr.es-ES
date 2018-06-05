@@ -21,9 +21,9 @@ ms.locfileid: "19556376"
 
 Los siguientes productos de Office 2010 se mantienen actualizados automáticamente mediante el uso de una tecnología llamada Click-to-Run.
   
-- Office Hogar y pequeña empresa 2010
+- Office Hogar y Pequeña Empresa 2010
     
-- Office Hogar y estudiantes 2010
+- Office Hogar y Estudiantes 2010
     
 - Office Starter 2010
     
@@ -52,7 +52,7 @@ Nuevas versiones contienen todas las actualizaciones contenidas en las versiones
 > Los artículos KB enumerados a continuación son únicamente con fines de referencia. Actualizaciones de Click-to-Run incluyen todas las revisiones que aparecen en los artículos KB. No es necesario descargar las actualizaciones independientes enumeradas en los artículos KB.
 
   
-|**Año de lanzamiento**|**Fecha de lanzamiento**|**Número de versión**|**Obtener más información**|
+|**Año de lanzamiento**|**Fecha de lanzamiento**|**Número de versión**|**Más información**|
 |:-----|:-----|:-----|:-----|
 |2018  <br/> |8 de mayo  <br/> |14.0.7209.5000  <br/> |[KB 4133083](https://support.microsoft.com/en-us/help/4133083) <br/> |
 ||10 de abril  <br/> |14.0.7197.5000  <br/> |[KB 4098622](https://support.microsoft.com/en-us/help/4098622) <br/> |
