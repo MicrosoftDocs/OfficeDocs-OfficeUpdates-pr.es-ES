@@ -1,0 +1,69 @@
+---
+title: Información de publicación de actualizaciones para Office 365 ProPlus
+ms.author: andrewmo
+author: andymosten
+manager: andrewmo
+ms.date: 5/24/2018
+ms.audience: ITPro
+ms.topic: reference
+ms.service: o365-proplus-itpro
+localization_priority: Critical
+ms.collection: RelNotes_ProPlus
+description: Proporciona a los profesionales de TI una lista de las últimas versiones de Office 365 ProPlus para cada canal de actualización y vínculos a notas de la versión y el historial de actualizaciones.
+ms.openlocfilehash: 500d9c49e38386fcee2cc6d98c078bf9179d33df
+ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 06/04/2018
+ms.locfileid: "19556385"
+---
+# <a name="release-information-for-updates-to-office-365-proplus"></a><span data-ttu-id="a4ec5-103">Información de publicación de actualizaciones para Office 365 ProPlus</span><span class="sxs-lookup"><span data-stu-id="a4ec5-103">Release information for updates to Office 365 ProPlus</span></span>
+
+<span data-ttu-id="a4ec5-p101">Office 365 ProPlus se actualiza periódicamente con nuevas características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad. Estas actualizaciones se publican usando [canales de actualización](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus). Cada versión de cada canal de actualización tiene asignado un número de versión y compilación.</span><span class="sxs-lookup"><span data-stu-id="a4ec5-p101">Office 365 ProPlus is updated on a regular basis with new features, security updates, and non-security updates. These updates are released by using [update channels](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus). For each release in each update channel, there is a version and build number assigned to it.</span></span> 
+
+<span data-ttu-id="a4ec5-p102">En la tabla siguiente, se muestra la versión compatible y el número de compilación más reciente para cada canal de actualización. El número de compilación tiene un vínculo directo a las notas de la versión.</span><span class="sxs-lookup"><span data-stu-id="a4ec5-p102">The following table lists the supported version, and the most current build number, for each update channel. The build number links directly to the release notes for that release.</span></span> 
+
+  
+|<span data-ttu-id="a4ec5-109">**Canal**</span><span class="sxs-lookup"><span data-stu-id="a4ec5-109">**Channel**</span></span>|<span data-ttu-id="a4ec5-110">**Versión**</span><span class="sxs-lookup"><span data-stu-id="a4ec5-110">**Version**</span></span>|<span data-ttu-id="a4ec5-111">**Compilación**</span><span class="sxs-lookup"><span data-stu-id="a4ec5-111">**Build**</span></span>|<span data-ttu-id="a4ec5-112">**Fecha de publicación**</span><span class="sxs-lookup"><span data-stu-id="a4ec5-112">**Release Date**</span></span>|<span data-ttu-id="a4ec5-113">**Versión actual admitida hasta**</span><span class="sxs-lookup"><span data-stu-id="a4ec5-113">**Current version supported until**</span></span>|
+|:-----|:-----|:-----|:-----|:-----|
+|<span data-ttu-id="a4ec5-114">Mensual</span><span class="sxs-lookup"><span data-stu-id="a4ec5-114">Monthly</span></span>  <br/> |<span data-ttu-id="a4ec5-115">1805</span><span class="sxs-lookup"><span data-stu-id="a4ec5-115">1805</span></span>  <br/> |[<span data-ttu-id="a4ec5-116">9330.2087</span><span class="sxs-lookup"><span data-stu-id="a4ec5-116">9330.2087</span></span>](monthly-channel-2018.md#version-1805-may-24)  <br/> | <span data-ttu-id="a4ec5-117">24 de mayo de 2018</span><span class="sxs-lookup"><span data-stu-id="a4ec5-117">May 24, 2018</span></span>  <br/> |<span data-ttu-id="a4ec5-118">Se publica la versión 1806</span><span class="sxs-lookup"><span data-stu-id="a4ec5-118">Version 1806 is released</span></span> <br/>|
+|<span data-ttu-id="a4ec5-119">Semianual (dirigido)</span><span class="sxs-lookup"><span data-stu-id="a4ec5-119">Semi-Annual Channel (Targeted)</span></span>  <br/> |<span data-ttu-id="a4ec5-120">1803</span><span class="sxs-lookup"><span data-stu-id="a4ec5-120">1803</span></span>  <br/> |[<span data-ttu-id="a4ec5-121">9126.2210</span><span class="sxs-lookup"><span data-stu-id="a4ec5-121">9126.2210</span></span>](semi-annual-channel-targeted-2018.md#version-1803-may-18)  <br/> | <span data-ttu-id="a4ec5-122">18 de mayo de 2018</span><span class="sxs-lookup"><span data-stu-id="a4ec5-122">May 18, 2018</span></span>  <br/> |<span data-ttu-id="a4ec5-123">11 de septiembre de 2018</span><span class="sxs-lookup"><span data-stu-id="a4ec5-123">September 11, 2018</span></span> <br/>|
+|<span data-ttu-id="a4ec5-124">Semianual</span><span class="sxs-lookup"><span data-stu-id="a4ec5-124">Semi-Annual</span></span> <br/> |<span data-ttu-id="a4ec5-125">1708</span><span class="sxs-lookup"><span data-stu-id="a4ec5-125">Version 1708</span></span>  <br/> | [<span data-ttu-id="a4ec5-126">8431.2250</span><span class="sxs-lookup"><span data-stu-id="a4ec5-126">8431.2250</span></span>](semi-annual-channel-2018.md#version-1708-may-8) <br/> |<span data-ttu-id="a4ec5-127">8 de mayo de 2018</span><span class="sxs-lookup"><span data-stu-id="a4ec5-127">May 8, 2018</span></span>  <br/> |<span data-ttu-id="a4ec5-128">12 de marzo de 2019</span><span class="sxs-lookup"><span data-stu-id="a4ec5-128">March 12, 2019</span></span> <br/>|
+|<span data-ttu-id="a4ec5-129">Diferido</span><span class="sxs-lookup"><span data-stu-id="a4ec5-129">Deferred</span></span> <br/> |<span data-ttu-id="a4ec5-130">1705</span><span class="sxs-lookup"><span data-stu-id="a4ec5-130">Version 1705</span></span>  <br/> |[<span data-ttu-id="a4ec5-131">8201.2278</span><span class="sxs-lookup"><span data-stu-id="a4ec5-131">8201.2278</span></span>](semi-annual-channel-2018.md#version-1705-may-8)  <br/> | <span data-ttu-id="a4ec5-132">8 de mayo de 2018</span><span class="sxs-lookup"><span data-stu-id="a4ec5-132">May 8, 2018</span></span>  <br/> |<span data-ttu-id="a4ec5-133">10 de julio de 2018</span><span class="sxs-lookup"><span data-stu-id="a4ec5-133">July 10, 2018</span></span> <br/>|
+
+<span data-ttu-id="a4ec5-134">Para obtener información sobre los tamaños de descarga aproximados de las actualizaciones desde versiones anteriores de Office 365 ProPlus a la versión más reciente, vea [Tamaños de descarga de actualizaciones de Office 365 ProPlus](download-sizes-office365-proplus-updates.md).</span><span class="sxs-lookup"><span data-stu-id="a4ec5-134">For information about the approximate download size when updating from a previous release of Office 365 ProPlus to the most current release, see [Download sizes for updates to Office 365 ProPlus](download-sizes-office365-proplus-updates.md).</span></span>
+
+> [!NOTE]
+> - <span data-ttu-id="a4ec5-p103">Estos números de versión y de compilación también son válidos para Office 365 Empresa, Visio Pro para Office 365 y Cliente de escritorio de Project Online. Office 365 Empresa es la versión de Office que se incluye con algunos planes de Office 365, como Empresa Premium.</span><span class="sxs-lookup"><span data-stu-id="a4ec5-p103">This information also applies to Visio Pro for Office 365 and Project Online Desktop Client. It also applies to Office 365 Business, which is the version of Office that comes with some Office 365 plans, such as Business Premium.</span></span>
+> - <span data-ttu-id="a4ec5-p104">Las versiones de canales de actualización que no se muestran en la tabla ya no son compatibles. Por ejemplo, ya no se admite la versión 1704 del canal mensual.</span><span class="sxs-lookup"><span data-stu-id="a4ec5-p104">Versions of update channels that aren't listed in the table are no longer supported. For example, Version 1704 of Monthly Channel is no longer supported.</span></span> 
+
+
+## <a name="update-history-for-office-365-proplus-releases"></a><span data-ttu-id="a4ec5-139">Historial de actualizaciones de Office 365 ProPlus</span><span class="sxs-lookup"><span data-stu-id="a4ec5-139">Update history for Office 365 ProPlus releases</span></span>
+
+<span data-ttu-id="a4ec5-140">Para obtener una lista completa de versiones, vea los siguientes artículos:</span><span class="sxs-lookup"><span data-stu-id="a4ec5-140">For a complete list of update channel releases, refer to the following tables:</span></span>
+ - [<span data-ttu-id="a4ec5-141">Historial de actualizaciones de Office 365 ProPlus (ordenado por fecha)</span><span class="sxs-lookup"><span data-stu-id="a4ec5-141">Update history for Office 365 ProPlus (listed by date)</span></span>](update-history-office365-proplus-by-date.md)
+ - [<span data-ttu-id="a4ec5-142">Historial de actualizaciones de Office 365 ProPlus (ordenado por versión)</span><span class="sxs-lookup"><span data-stu-id="a4ec5-142">Update history for Office 365 ProPlus (listed by version)</span></span>](update-history-office365-proplus-by-version.md)
+
+## <a name="release-notes-for-office-365-proplus-releases"></a><span data-ttu-id="a4ec5-143">Notas de la versión para las versiones de Office 365 ProPlus</span><span class="sxs-lookup"><span data-stu-id="a4ec5-143">Release notes for Office 365 ProPlus releases</span></span>
+
+<span data-ttu-id="a4ec5-144">Para obtener una lista completa de notas de la versión por canal y año de la actualización, vea los siguientes artículos:</span><span class="sxs-lookup"><span data-stu-id="a4ec5-144">For a complete list of release notes by update channel and year, see the following articles:</span></span>
+ - <span data-ttu-id="a4ec5-145">Mensual: [2018](monthly-channel-2018.md), [2017](monthly-channel-2017.md), [2016](monthly-channel-2016.md), [2015](monthly-channel-2015.md)</span><span class="sxs-lookup"><span data-stu-id="a4ec5-145">Monthly: [2018](monthly-channel-2018.md), [2017](monthly-channel-2017.md), [2016](monthly-channel-2016.md), [2015](monthly-channel-2015.md)</span></span>
+ - <span data-ttu-id="a4ec5-146">Semianual (dirigido): [2018](semi-annual-channel-targeted-2018.md), [2017](semi-annual-channel-targeted-2017.md), [2016](semi-annual-channel-targeted-2016.md), [2015](semi-annual-channel-targeted-2015.md)</span><span class="sxs-lookup"><span data-stu-id="a4ec5-146">Semi-Annual (Targeted): [2018](semi-annual-channel-targeted-2018.md), [2017](semi-annual-channel-targeted-2017.md), [2016](semi-annual-channel-targeted-2016.md), [2015](semi-annual-channel-targeted-2015.md)</span></span>
+ - <span data-ttu-id="a4ec5-147">Semianual: [2018](semi-annual-channel-2018.md), [2017](semi-annual-channel-2017.md), [2016](semi-annual-channel-2016.md)</span><span class="sxs-lookup"><span data-stu-id="a4ec5-147">Semi-Annual: [2018](semi-annual-channel-2018.md), [2017](semi-annual-channel-2017.md), [2016](semi-annual-channel-2016.md)</span></span>
+
+## <a name="office-for-mac-release-information"></a><span data-ttu-id="a4ec5-148">Información de versiones de Office para Mac</span><span class="sxs-lookup"><span data-stu-id="a4ec5-148">Office for Mac, for purchasing information</span></span>
+
+<span data-ttu-id="a4ec5-149">Para obtener información sobre las actualizaciones de Office para Mac, que se incluye con cualquier plan de suscripción de Office 365 que incluya Office 365 ProPlus, vea los siguientes artículos:</span><span class="sxs-lookup"><span data-stu-id="a4ec5-149">For information about updates to Office for Mac, which is included with any Office 365 subscription plan that includes Office 365 ProPlus, see the following articles:</span></span>
+ - [<span data-ttu-id="a4ec5-150">Historial de actualizaciones de Office para Mac</span><span class="sxs-lookup"><span data-stu-id="a4ec5-150">Update history for Office for Mac</span></span>](update-history-office-for-mac.md)
+ - [<span data-ttu-id="a4ec5-151">Notas de la versión de Office para Mac</span><span class="sxs-lookup"><span data-stu-id="a4ec5-151">Release notes for Office for Mac</span></span>](release-notes-office-for-mac.md)
+
+
+## <a name="related-topics"></a><span data-ttu-id="a4ec5-152">Temas relacionados</span><span class="sxs-lookup"><span data-stu-id="a4ec5-152">Related topics</span></span>
+
+- [<span data-ttu-id="a4ec5-153">Información general de los canales de actualización para Office 365 ProPlus</span><span class="sxs-lookup"><span data-stu-id="a4ec5-153">Overview of update channels for Office 365 ProPlus</span></span>](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
+- [<span data-ttu-id="a4ec5-154">Implementación de Office</span><span class="sxs-lookup"><span data-stu-id="a4ec5-154">Office deployment</span></span>](https://docs.microsoft.com/deployoffice/)
+- [<span data-ttu-id="a4ec5-155">Novedades de Office 365</span><span class="sxs-lookup"><span data-stu-id="a4ec5-155">What's new in Office 365?</span></span>](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
+- [<span data-ttu-id="a4ec5-156">Guía básica de Office 365</span><span class="sxs-lookup"><span data-stu-id="a4ec5-156">Office 365 Roadmap</span></span>](https://products.office.com/business/office-365-roadmap)
+- [<span data-ttu-id="a4ec5-157">Información general del Centro de mensajes de Office 365</span><span class="sxs-lookup"><span data-stu-id="a4ec5-157">Overview of the Office 365 Message Center</span></span>](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
+- [<span data-ttu-id="a4ec5-158">Información sobre la versión de Windows 10</span><span class="sxs-lookup"><span data-stu-id="a4ec5-158">Windows 10 release information</span></span>](https://www.microsoft.com/itpro/windows-10/release-information)
+- [<span data-ttu-id="a4ec5-159">Guía de actualización de seguridad de Microsoft</span><span class="sxs-lookup"><span data-stu-id="a4ec5-159">Microsoft Security Update Guide</span></span>](https://portal.msrc.microsoft.com/)
