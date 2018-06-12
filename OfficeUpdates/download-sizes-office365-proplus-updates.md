@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Office 365 ProPlus según el canal de actualización.
-ms.openlocfilehash: 5b7f793ab49c492a5c92c0160276a47955d8835e
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: 17e4b2b81ec0002f6dae5777dc235f9738bb3b34
+ms.sourcegitcommit: 4aab01cd695d26b057faf9d0e7f301b5913266c7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19556382"
+ms.lasthandoff: 06/08/2018
+ms.locfileid: "19709731"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 
@@ -25,7 +25,7 @@ Proporcionamos esta información antes de la fecha de publicación real para que
   
 Nuestro objetivo es proporcionar información sobre el tamaño de la actualización una semana antes de la publicación; sin embargo, hay ocasiones en las que la información no está disponible con tanta anterioridad. Las publicaciones del canal semianual y del canal semianual (dirigido) están programadas para el segundo martes de cada mes. Las publicaciones del canal mensual no tienen programación.
 
-Para obtener información sobre las características, las actualizaciones de seguridad y otras que se incluyen en cada versión, vea [Notas de la versión para Office 365 ProPlus](release-notes-office365-proplus.md).
+Para obtener información sobre las características, las actualizaciones de seguridad y de otro tipo que se incluyen en cada versión, consulte [Información de la versión de actualizaciones de Office 365 ProPlus](release-notes-office365-proplus.md).
 
   
 > [!NOTE]
