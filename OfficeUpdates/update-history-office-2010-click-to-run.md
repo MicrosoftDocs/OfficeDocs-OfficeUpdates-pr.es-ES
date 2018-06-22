@@ -3,19 +3,19 @@ title: Historial de actualizaciones de productos de Office 2010 Click-to-Run
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 5/8/2018
+ms.date: 6/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Proporciona los profesionales de TI con un historial de actualización para perpetua, versiones de Office 2010 que usan Click-to-Run
-ms.openlocfilehash: 59181f717a0a7ecc57bc64ebe306f4c876c03074
-ms.sourcegitcommit: 4aab01cd695d26b057faf9d0e7f301b5913266c7
+ms.openlocfilehash: 709faa1fd3c73c17e518359d2facd8b2216f838b
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/08/2018
-ms.locfileid: "19709771"
+ms.lasthandoff: 06/22/2018
+ms.locfileid: "19886576"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Historial de actualizaciones de productos de Office 2010 Click-to-Run
 
@@ -30,9 +30,9 @@ Los siguientes productos de Office 2010 se mantienen actualizados automáticamen
 Si está utilizando uno de estos productos, y que le gustaría comprobar que está actualizado, compruebe su número de versión de Office y Office si es necesario para actualizar manualmente.
   
 > [!NOTE]
-> La versión más reciente de Office 2010 es **14.0.7209.5000**, que se lanzó en 8 de mayo de 2018. 
+> La versión más reciente de Office 2010 es **14.0.7210.5000**, que se lanzó en 12 de junio de 2018. 
   
-Para comprobar su versión de Office, haga lo siguiente:
+Para comprobar su versión de Office, siga estos pasos:
   
 1. Abra cualquier aplicación de Office 2010, como Word o Excel.
     
@@ -46,15 +46,16 @@ Para comprobar su versión de Office, haga lo siguiente:
 
 En la siguiente tabla proporciona una lista de actualizaciones para Office 2010, con la fecha de lanzamiento más reciente aparece en primer lugar. La tabla incluye el número de versión de la versión y los vínculos, si está disponible, para los artículos de Microsoft Knowledge Base (KB) o boletines de seguridad de Microsoft que contiene información acerca de las revisiones que se incluyen en la actualización.
   
-Nuevas versiones contienen todas las actualizaciones contenidas en las versiones anteriores.
+Las versiones nuevas incluyen todas las actualizaciones de versiones anteriores.
 
 > [!NOTE]
-> Los artículos KB enumerados a continuación son únicamente con fines de referencia. Actualizaciones de Click-to-Run incluyen todas las revisiones que aparecen en los artículos KB. No es necesario descargar las actualizaciones independientes enumeradas en los artículos KB.
+> Los artículos de Knowledge Base que se muestran a continuación son solo informativos. Las actualizaciones de Hacer clic y ejecutar incluyen todas las correcciones especificadas en los artículos de Knowledge Base. No es necesario descargar las actualizaciones independientes que se muestran en los artículos de Knowledge Base.
 
   
-|**Año de lanzamiento**|**Fecha de lanzamiento**|**Número de versión**|**Más información**|
+|**Año de publicación**|**Fecha de publicación**|**Número de versión**|**Más información**|
 |:-----|:-----|:-----|:-----|
-|2018 |8 de mayo  <br/> |14.0.7209.5000  <br/> |[KB 4133083](https://support.microsoft.com/en-us/help/4133083) <br/> |
+|2018 |12 de junio  <br/> |14.0.7210.5000  <br/> |[KB 4299875](https://support.microsoft.com/en-us/help/4299875) <br/> |
+||8 de mayo  <br/> |14.0.7209.5000  <br/> |[KB 4133083](https://support.microsoft.com/en-us/help/4133083) <br/> |
 ||10 de abril  <br/> |14.0.7197.5000  <br/> |[KB 4098622](https://support.microsoft.com/en-us/help/4098622) <br/> |
 ||13 de marzo  <br/> |14.0.7196.5000  <br/> |[KB 4090988](https://support.microsoft.com/en-us/help/4090988) <br/> |
 ||13 de febrero  <br/> |14.0.7194.5000  <br/> |[KB 4077965](https://support.microsoft.com/help/4077965) <br/> |
@@ -90,7 +91,7 @@ Nuevas versiones contienen todas las actualizaciones contenidas en las versiones
 ||9 de junio  <br/> |14.0.7151.5001  <br/> |[KB 3068507](https://support.microsoft.com/kb/3068507) <br/> |
 ||12 de mayo  <br/> |14.0.7149.5001  <br/> |[KB 3061974](https://support.microsoft.com/kb/3061974) <br/> |
 ||14 de abril  <br/> |14.0.7147.5001  <br/> |[KB 3050766](https://support.microsoft.com/kb/3050766) <br/> |
-||El 10 de marzo  <br/> |14.0.7145.5001  <br/> |[KB 3040794](https://support.microsoft.com/kb/3040794) <br/> |
+||10 de marzo  <br/> |14.0.7145.5001  <br/> |[KB 3040794](https://support.microsoft.com/kb/3040794) <br/> |
 ||10 de febrero  <br/> |14.0.7143.5001  <br/> |[KB 3032763](https://support.microsoft.com/kb/3032763) <br/> |
 |de 2014  <br/> |9 de diciembre  <br/> |14.0.7140.5002  <br/> |[KB 3020812](https://support.microsoft.com/kb/3020812) <br/> |
 ||11 de noviembre  <br/> |14.0.7137.5001  <br/> |[KB 3012392](https://support.microsoft.com/kb/3012392) <br/> |
