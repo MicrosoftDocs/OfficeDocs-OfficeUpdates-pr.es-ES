@@ -3,19 +3,19 @@ title: Notas de la versión para las versiones de Canal mensual en 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/24/2018
+ms.date: 6/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2018.
-ms.openlocfilehash: 3d0b5b16501bfb7816d9df8ffe79ca8926d75adb
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: 16c9ee31b150779f7ac56104d4bfacc0d1857bb6
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19556388"
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "19886966"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de la versión para las versiones de Canal mensual en 2018
 
@@ -25,11 +25,37 @@ En estas notas de la versión, se proporciona información sobre característica
 > - Lo siguiente también proporciona información sobre características nuevas, actualizaciones de seguridad y no relacionadas con la seguridad para Visio Pro para Office 365 y el cliente de escritorio de Project Online.
 > - Esta información también se aplica a Office 365 Empresa, que es la versión de Office que viene con algunos planes de Office 365, como Empresa Premium.
 
+## <a name="version-1805-june-13"></a>Versión 1805: 13 de junio
+*Versión 1805 (compilación 9330.2124)*
+
+### <a name="outlook-non-security-updates"></a>Actualizaciones de Outlook no relacionadas con la seguridad
+ - Se corrige un problema que podía desencadenar un bloqueo cuando una aplicación llamaba a la API de MAPI.
+
+
+
+## <a name="version-1805-june-12"></a>Versión 1805: 12 de junio
+*Versión 1805 (compilación 9330.2118)*
+
+### <a name="excel-security-updates"></a>Excel: Actualizaciones de seguridad
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8246): Vulnerabilidad de divulgación de información de Microsoft Excel
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8248): Vulnerabilidad de la ejecución remota de código de Microsoft Excel
+
+### <a name="outlook-security-updates"></a>Outlook: Actualizaciones de seguridad
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8244): Vulnerabilidad de elevación de privilegios de Microsoft Outlook
+
+### <a name="outlook-non-security-updates"></a>Actualizaciones de Outlook no relacionadas con la seguridad
+
+- Se corrige un problema que podía desencadenar un bloqueo cuando una aplicación llamaba a la API de MAPI.
+
+### <a name="project-non-security-updates"></a>Actualizaciones de Project no relacionadas con la seguridad
+
+- Se corrige un problema que impedía guardar un subproyecto al trabajar en él en el contexto de un proyecto principal.
+
 ## <a name="version-1805-may-24"></a>Versión 1805: 24 de mayo
 *Versión 1805 (compilación 9330.2087)*
 
-### <a name="outlook-non-security-updates"></a>Actualizaciones no relacionadas con la seguridad de Outlook
- - Se soluciona un problema que provocaba que Outlook se bloqueara al usar el complemento de iCloud.
+### <a name="outlook-non-security-updates"></a>Actualizaciones de Outlook no relacionadas con la seguridad
+ - Se corrige un problema que provocaba que Outlook se bloqueara al usar el complemento de iCloud.
  
 
 
@@ -295,11 +321,11 @@ En estas notas de la versión, se proporciona información sobre característica
 -   [Advertencia 170021](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/ADV170021): Actualización de defensa en profundidad de Microsoft Office
 
 ### <a name="outlook-security-updates"></a>Outlook: Actualizaciones de seguridad
--   [CVE-2018-0791](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-0791): Vulnerabilidad de ejecución remota de código de Microsoft Outlook
+-   [CVE-2018-0791](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-0791): Vulnerabilidad de la ejecución remota de código de Microsoft Outlook
 -   [CVE-2018-0793](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-0793): Vulnerabilidad de ejecución remota de código de Microsoft Outlook
 
 ### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
--   [CVE-2018-0792](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-0792): Vulnerabilidad de ejecución remota de código de Microsoft Word
+-   [CVE-2018-0792](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-0792): Vulnerabilidad de la ejecución remota de código de Microsoft Word
 -   [CVE-2018-0793](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-0793): Vulnerabilidad de ejecución remota de código de Microsoft Outlook
 -   [CVE-2018-0794](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-0794): Vulnerabilidad de ejecución remota de código de Microsoft Word
 -   [CVE-2018-0798](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-0798): Vulnerabilidad de los daños en la memoria de Microsoft Office
@@ -312,7 +338,7 @@ En estas notas de la versión, se proporciona información sobre característica
 -   [CVE-2018-0812](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-0812): Vulnerabilidad de daños en la memoria de Microsoft Word
 
 ### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones de seguridad
--   [CVE-2018-0795](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-0795): Vulnerabilidad de ejecución remota de código de Microsoft Office
+-   [CVE-2018-0795](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-0795): Vulnerabilidad de la ejecución remota de código de Microsoft Office
 -   [Advertencia 180003](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/ADV180003): Actualización de defensa en profundidad de Microsoft Office
 
 
