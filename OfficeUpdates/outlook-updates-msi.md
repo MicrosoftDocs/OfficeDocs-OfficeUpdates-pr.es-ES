@@ -3,19 +3,19 @@ title: Últimas actualizaciones para las versiones de Outlook que usan Windows I
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 5/8/2018
+ms.date: 6/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI vínculos a la información de las últimas actualizaciones de las versiones perpetuas de Outlook 2016, Outlook 2013 y Outlook 2010.
-ms.openlocfilehash: 503f09cc7f9e00abc8ff73ca548d4f35e551a254
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: e2befc11978970e4d9fd113ae248cc53f9090781
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19556374"
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "19886686"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Últimas actualizaciones para las versiones de Outlook que usan Windows Installer (MSI)
 
@@ -44,18 +44,18 @@ La compatibilidad de Outlook con Office 365 y el entorno local depende de los re
 
 |**Service Pack (SP) más reciente**|**Actualización mínima necesaria**|**Actualización pública (AP) más reciente**|
 |:-----|:-----|:-----|
-|N/D  <br/> |Actualización pública de marzo de 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Actualización pública de mayo de 2018 <br/>[KB4018372](https://support.microsoft.com/es-ES/help/4018372) <br/><br/> Actualización pública de agosto de 2016 para el filtro de correo electrónico no deseado de Outlook 2016  <br/>[KB3115407](https://support.microsoft.com/help/3115407) <br/> |
+|N/D  <br/> |Actualización pública de marzo de 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Actualización pública de junio de 2018 <br/>[KB4022160](https://support.microsoft.com/es-ES/help/4022160) <br/><br/> Actualización pública de agosto de 2016 para el filtro de correo electrónico no deseado de Outlook 2016  <br/>[KB3115407](https://support.microsoft.com/help/3115407) <br/> |
    
 ## <a name="outlook-2013-updates"></a>Actualizaciones de Outlook 2013
 
 |**Service Pack (SP) más reciente**|**Actualización mínima necesaria**|**Actualización pública (AP) más reciente**|
 |:-----|:-----|:-----|
-|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |Actualización pública de diciembre de 2015 <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |Actualización pública de mayo de 2018 <br/>[KB4018376](https://support.microsoft.com/es-ES/help/4018376) <br/><br/>  Actualización pública de agosto de 2016 para el filtro de correo electrónico no deseado de Outlook 2013 <br/> [KB3115404](https://support.microsoft.com/kb/3115404) <br/> |
+|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |Actualización pública de diciembre de 2015 <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |Actualización pública de junio de 2018 <br/>[KB4022169](https://support.microsoft.com/es-ES/help/4022169) <br/><br/>  Actualización pública de agosto de 2016 para el filtro de correo electrónico no deseado de Outlook 2013 <br/> [KB3115404](https://support.microsoft.com/kb/3115404) <br/> |
    
 ## <a name="outlook-2010-updates"></a>Actualizaciones de Outlook 2010
 
 |**Service Pack (SP) más reciente**|**Actualización mínima necesaria**|**Actualización pública (AP) más reciente**|
 |:-----|:-----|:-----|
-|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br/> |Actualización pública de octubre de 2015 <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Actualización pública de abril de 2015 de Office 2010 para MAPI/HTTP <br/> [KB2956191](https://support.microsoft.com/es-ES/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |Actualización pública de mayo de 2018 <br/>[KB4022144](https://support.microsoft.com/es-ES/help/4022144) <br/><br/>  Actualización pública de agosto de 2016 para el filtro de correo electrónico no deseado de Outlook 2010 <br/> [KB3115475](https://support.microsoft.com/kb/3115475) <br/> |
+|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br/> |Actualización pública de octubre de 2015 <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Actualización pública de abril de 2015 de Office 2010 para MAPI/HTTP <br/> [KB2956191](https://support.microsoft.com/es-ES/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |Actualización pública de junio de 2018 <br/>[KB4022205](https://support.microsoft.com/es-ES/help/4022205) <br/><br/>  Actualización pública de agosto de 2016 para el filtro de correo electrónico no deseado de Outlook 2010 <br/> [KB3115475](https://support.microsoft.com/kb/3115475) <br/> |
    
 
