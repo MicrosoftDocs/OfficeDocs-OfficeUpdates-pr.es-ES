@@ -3,19 +3,19 @@ title: Últimas actualizaciones para las versiones de Outlook que usan Windows I
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 6/12/2018
+ms.date: 7/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI vínculos a la información de las últimas actualizaciones de las versiones perpetuas de Outlook 2016, Outlook 2013 y Outlook 2010.
-ms.openlocfilehash: e2befc11978970e4d9fd113ae248cc53f9090781
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: b57eb5dacff2e6934724fa6a05c0c76bae7fc894
+ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886686"
+ms.lasthandoff: 07/10/2018
+ms.locfileid: "20246250"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Últimas actualizaciones para las versiones de Outlook que usan Windows Installer (MSI)
 
@@ -44,13 +44,13 @@ La compatibilidad de Outlook con Office 365 y el entorno local depende de los re
 
 |**Service Pack (SP) más reciente**|**Actualización mínima necesaria**|**Actualización pública (AP) más reciente**|
 |:-----|:-----|:-----|
-|N/D  <br/> |Actualización pública de marzo de 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Actualización pública de junio de 2018 <br/>[KB4022160](https://support.microsoft.com/es-ES/help/4022160) <br/><br/> Actualización pública de agosto de 2016 para el filtro de correo electrónico no deseado de Outlook 2016  <br/>[KB3115407](https://support.microsoft.com/help/3115407) <br/> |
+|N/D  <br/> |Actualización pública de marzo de 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Actualización pública de julio de 2018 <br/>[KB4022230](https://support.microsoft.com/es-ES/help/4022230) <br/><br/> Actualización pública de agosto de 2016 para el filtro de correo electrónico no deseado de Outlook 2016  <br/>[KB3115407](https://support.microsoft.com/help/3115407) <br/> |
    
 ## <a name="outlook-2013-updates"></a>Actualizaciones de Outlook 2013
 
 |**Service Pack (SP) más reciente**|**Actualización mínima necesaria**|**Actualización pública (AP) más reciente**|
 |:-----|:-----|:-----|
-|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |Actualización pública de diciembre de 2015 <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |Actualización pública de junio de 2018 <br/>[KB4022169](https://support.microsoft.com/es-ES/help/4022169) <br/><br/>  Actualización pública de agosto de 2016 para el filtro de correo electrónico no deseado de Outlook 2013 <br/> [KB3115404](https://support.microsoft.com/kb/3115404) <br/> |
+|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |Actualización pública de diciembre de 2015 <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |Actualización pública de julio de 2018 <br/>[KB4022242](https://support.microsoft.com/es-ES/help/4022242) <br/><br/>  Actualización pública de agosto de 2016 para el filtro de correo electrónico no deseado de Outlook 2013 <br/> [KB3115404](https://support.microsoft.com/kb/3115404) <br/> |
    
 ## <a name="outlook-2010-updates"></a>Actualizaciones de Outlook 2010
 

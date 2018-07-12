@@ -3,19 +3,19 @@ title: Información de publicación de actualizaciones para Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/25/2018
+ms.date: 7/10/18
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista de las últimas versiones de Office 365 ProPlus para cada canal de actualización y vínculos a notas de la versión y el historial de actualizaciones.
-ms.openlocfilehash: b4205abeb74342f9fcb4218bfc033e7a122ac5bd
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: d4a315cdb40d7cf60739fea14239f732d1f7d6a5
+ms.sourcegitcommit: 530b5f490b50d505920e9ec50d0528f368008565
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246450"
+ms.lasthandoff: 07/11/2018
+ms.locfileid: "20275756"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Información de publicación de actualizaciones para Office 365 ProPlus
 
@@ -28,7 +28,7 @@ En la tabla siguiente, se muestra la versión compatible y el número de compila
 |:-----|:-----|:-----|:-----|:-----|
 |Mensual  <br/> |1806  <br/> |[10228.20104](monthly-channel-2018.md#version-1806-july-10)  <br/> | 10 de julio de 2018  <br/> |Se ha publicado la versión 1807 <br/>|
 |Semianual (dirigido)  <br/> |1803  <br/> |[9126.2259](semi-annual-channel-targeted-2018.md#version-1803-july-10)  <br/> | 10 de julio de 2018  <br/> |11 de septiembre de 2018 <br/>|
-|Semianual <br/> |1803  <br/> | [9126.2259](semi-annual-channel-2018.md#version-1803-july-10) <br/> |10 de julio de 2018  <br/> |11 de septiembre de 2018 <br/>|
+|Semianual <br/> |1803  <br/> | [9126.2259](semi-annual-channel-2018.md#version-1803-july-10) <br/> |10 de julio de 2018  <br/> |11 de septiembre de 2019 <br/>|
 |Semianual extendido <br/> |1708  <br/> |[8431.2280](semi-annual-channel-2018.md#version-1708-july-10)  <br/> | 10 de julio de 2018  <br/> |12 de marzo de 2019 <br/>|
 
 Para obtener información sobre los tamaños de descarga aproximados de las actualizaciones desde versiones anteriores de Office 365 ProPlus a la versión más reciente, vea [Tamaños de descarga de actualizaciones de Office 365 ProPlus](download-sizes-office365-proplus-updates.md).
