@@ -3,27 +3,27 @@ title: Notas de la versión para las versiones de canal mensual en 2017
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/12/2017
+ms.date: 7/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Proporciona a que los profesionales de TI con notas de la versión para canal mensual libera para Office 365 ProPlus en 2017
-ms.openlocfilehash: 325036f301534ae903ec3e3693c31fac5356e30c
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: 51e8d963e0e7ed2780be29f882b8c92abc1e5179
+ms.sourcegitcommit: 752a269d6c047356b638bd8da669cfa646d3bc7b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19556399"
+ms.lasthandoff: 07/13/2018
+ms.locfileid: "20334450"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>Notas de la versión para las versiones de canal mensual en 2017
 
 Estas notas de la versión proporcionan información sobre nuevas características, actualizaciones de seguridad y las actualizaciones de seguridad comunes que se incluyen en las actualizaciones de canal mensual a Office 365 ProPlus en 2017.
  
 > [!NOTE]
-> - El siguiente también proporciona la información acerca de las nuevas características, actualizaciones de seguridad y las actualizaciones de seguridad que no sean para Visio Pro a para el cliente de escritorio de Project Online y Office 365.
-> - Esta información también se aplica a Office 365 empresarial, que es la versión de Office que se incluye con algunos planes de Office 365, como Business Premium.
+> - Lo siguiente también proporciona información sobre características nuevas, actualizaciones de seguridad y no relacionadas con la seguridad para Visio Pro para Office 365 y el cliente de escritorio de Project Online.
+> - Esta información también se aplica a Office 365 Empresa, que es la versión de Office que viene con algunos planes de Office 365, como Empresa Premium.
 > - Canal mensual se ha denominado canal actual antes de septiembre de 2017.
 
 ## <a name="version-1711-december-12"></a>Versión 1711: 12 de diciembre
@@ -68,10 +68,10 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 -   Se ha corregido un problema que causaba que los datos de LinkedIn no apareciesen en la tarjeta de contacto de Skype Empresarial.
 
 ### <a name="word-feature-updates"></a>Word: Actualizaciones de características
--   **Número de caracteres:** Se muestra el número de caracteres en la barra de estado mientras escribe. Puede habilitar esta opción en el menú Personalizar barra de estado.
--   **Acceder rápidamente a los sitios y a los grupos:** Use el menú Archivo para trabajar con los documentos almacenados en los sitios y grupos que usa a menudo.
+-   **Número de caracteres:** se muestra el número de caracteres en la barra de estado mientras escribe. Puede habilitar esta opción en el menú Personalizar barra de estado.
+-   **Obtener acceso rápidamente a los sitios y a los grupos:** use el menú Archivo para trabajar con los documentos almacenados en los sitios y grupos que usa a menudo.
 
-### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones no relacionadas con la seguridad
+### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones no relacionadas con la seguridad
 -   La opción "Actualizar ahora" está oculta en Archivo \> Cuenta \> Opciones de actualización cuando se habilita un objeto COM de Office para que System Center Configuration Manager administre las actualizaciones de cliente de Office 365.
 
 
@@ -90,7 +90,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 *Versión 1710 (compilación 8625.2132)*
 
 ### <a name="access-non-security-updates"></a>Access: Actualizaciones no relacionadas con la seguridad
--   Se ha corregido un problema que provocaba que, al abrir una aplicación de Access Runtime (archivo .accde), apareciese el mensaje de error “No se puede reconocer el formato de la base de datos” y que no se abriese la aplicación.
+-   Se ha solucionado un problema que provocaba que, al abrir una aplicación de Access Runtime (archivo .accde), apareciese el mensaje de error "No se puede reconocer el formato de la base de datos" y que no se abriese la aplicación.
 
 ### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
 -   Se ha corregido un problema que provocaba que Excel se bloqueara cuando el usuario hacía clic en Examinar al intentar insertar un objeto en un libro existente.
@@ -105,7 +105,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 ### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones no relacionadas con la seguridad
 -   Se ha solucionado un problema relacionado con el zoom y el escalado en Complementos de Office en el entorno de PPP dinámico.
 -   Se ha corregido un problema que provocaba que el nodo CurrentStatus del proveedor del servicio de configuración (CSP) de Office devolviera una cadena vacía incluso si Office 365 ProPlus está instalado.
--   Se ha solucionado un problema que provocaba cambios en los formatos de archivo .box. Esto afectaba la funcionalidad de versiones antiguas de Office instaladas en el mismo equipo, porque los archivos .box se comparten con todas las versiones de una aplicación de Office en el mismo equipo.
+-   Se ha corregido un problema que provocaba cambios en los formatos de archivo .box. Esto afectaba la funcionalidad de versiones antiguas de Office instaladas en el mismo equipo, porque los archivos .box se comparten con todas las versiones de una aplicación de Office en el mismo equipo.
 
 
 
@@ -132,16 +132,16 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 *Versión 1710 (compilación 8625.2121)*
 
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
--   **Lápiz digital:** Escriba o dibuje ideas con nuestra nueva textura de lápiz. Simplemente inclínelo para aplicar sombreado con lápices digitales compatibles.
--   **Configuración de características de LinkedIn:** Vaya a archivo \> Opciones \> General para controlar si se muestran las características de LinkedIn en las aplicaciones de Office. [Obtener más información](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
+-   **Lápiz digital:** escriba o dibuje ideas con nuestra nueva textura de lápiz. Simplemente inclínelo para aplicar sombreado con lápices digitales compatibles.
+-   **Configuración de características de LinkedIn:** vaya a Archivo \> Opciones \> General para controlar si se muestran las características de LinkedIn en las aplicaciones de Office. [Más información](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 
 ### <a name="outlook-feature-updates"></a>Outlook: Actualizaciones de características
--   **Configuración de características de LinkedIn:** Vaya a archivo \> Opciones \> General para controlar si se muestran las características de LinkedIn en las aplicaciones de Office. [Obtener más información](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
+-   **Configuración de características de LinkedIn:** vaya a Archivo \> Opciones \> General para controlar si se muestran las características de LinkedIn en las aplicaciones de Office. [Más información](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Actualizaciones de características
--   **Lápiz digital:** Escriba o dibuje ideas con nuestra nueva textura de lápiz. Simplemente inclínelo para aplicar sombreado con lápices digitales compatibles.
+-   **Lápiz digital:** escriba o dibuje ideas con nuestra nueva textura de lápiz. Simplemente inclínelo para aplicar sombreado con lápices digitales compatibles.
 -   **Publicar en Microsoft Stream:** Comparta una presentación como un vídeo de forma más segura en su organización mediante Microsoft Stream. [Más información](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83?#bkmk_microsoftstream)
--   **Configuración de características de LinkedIn:** Vaya a archivo \> Opciones \> General para controlar si se muestran las características de LinkedIn en las aplicaciones de Office. [Obtener más información](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
+-   **Configuración de características de LinkedIn:** vaya a Archivo \> Opciones \> General para controlar si se muestran las características de LinkedIn en las aplicaciones de Office. [Más información](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 
 ### <a name="project-feature-updates"></a>Project: Actualizaciones de características
 -   **Visualización Panel de tareas:** Ordene tareas en las tarjetas desde la visualización Panel de tareas. Reordene y mueva las tarjetas en las columnas del panel de la misma forma que con los proyectos ágiles.
@@ -168,9 +168,9 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 
 ### <a name="word-feature-updates"></a>Word: Actualizaciones de características
 -   **Microsoft Translator:** Traduzca palabras, frases o todo un documento a otro idioma mediante Microsoft Translator, directamente en Word. [Más información](https://support.office.com/article/24a987b3-03a1-4c17-8c1b-54495fca6b17)
--   **Lápiz digital:** Escriba o dibuje ideas con nuestra nueva textura de lápiz. Simplemente inclínelo para aplicar sombreado con lápices digitales compatibles.
+-   **Lápiz digital:** escriba o dibuje ideas con nuestra nueva textura de lápiz. Simplemente inclínelo para aplicar sombreado con lápices digitales compatibles.
 -   **Escriba su currículum vitae con la Ayuda de LinkedIn:** Con el Asistente de currículum, vea experiencias de trabajo, habilidades sugeridas, etc. para un determinado rol. [Obtener más información](https://support.office.com/article/444ff6f0-ef74-4a9c-9091-ffd7a9d1917a)
--   **Configuración de características de LinkedIn:** Vaya a archivo \> Opciones \> General para controlar si se muestran las características de LinkedIn en las aplicaciones de Office. [Obtener más información](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
+-   **Configuración de características de LinkedIn:** vaya a Archivo \> Opciones \> General para controlar si se muestran las características de LinkedIn en las aplicaciones de Office. [Más información](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 
 
 
@@ -181,12 +181,12 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 -   Se ha corregido un problema que provocaba que pareciera que se seleccionaba todo el texto al intentar seleccionar texto en un cuadro de texto o en un cuadro combinado, en lugar de mostrarse la selección real.
 
 ### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
--   Se ha solucionado un problema que provocaba que el desplazamiento de la información en pantalla quedara incorrectamente alineada al arrastrar elementos o rellenarlos arrastrando.
+-   Se ha corregido un problema que provocaba que el desplazamiento de la información en pantalla quedara incorrectamente alineada al arrastrar elementos o rellenarlos arrastrando.
 -   Se ha corregido un problema que, al guardar un libro con Archivo \> Guardar como, provocaba que los nombres de archivos que contuvieran puntos aparecieran en blanco o truncados en el cuadro de diálogo de guardar.
 -   Se ha solucionado un problema que provocaba que Office no pudiera escribir en el disco al guardar un archivo de copia de sincronización, pero Office siguiera cargando el archivo en OneDrive. Con esta corrección, ahora el usuario ve un mensaje de error y la carga no se realiza.
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Actualizaciones no relacionadas con la seguridad
--   Se ha solucionado un problema que provocaba que Office no pudiera escribir en el disco al guardar un archivo de copia de sincronización, pero Office siguiera cargando el archivo en OneDrive. Con esta corrección, ahora el usuario ve un mensaje de error y la carga no se realiza.
+-   Se ha corregido un problema que provocaba que Office no pudiera escribir en el disco al guardar un archivo de copia de sincronización, pero Office siguiera cargando el archivo en OneDrive. Con esta corrección, ahora el usuario ve un mensaje de error y la carga no se realiza.
 
 ### <a name="publisher-non-security-updates"></a>Publisher: Actualizaciones no relacionadas con la seguridad
 -   Se ha corregido un problema que, al filtrar campos de orígenes de datos que contuvieran valores nulos (vacíos), provocaba errores al ejecutar el Asistente para combinar correspondencia.
@@ -244,7 +244,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 *Versión 1708 (compilación 8431.2094)*
 
 ### <a name="access-non-security-updates"></a>Access: Actualizaciones no relacionadas con la seguridad
--   Soluciona un problema por el que una consulta no se ejecuta si tiene una unión con una clave principal de una tabla vinculada de Microsoft Dynamics.
+-   Se soluciona un problema por el que una consulta no se ejecuta si tiene una unión con una clave principal de una tabla vinculada de Microsoft Dynamics.
 -   Se soluciona un problema por el que no aparecen los decimales para los valores de moneda en una tabla de Microsoft Dynamics.
 
 ### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
@@ -260,7 +260,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 -   Se soluciona un problema por el que, cuando se utiliza el evento SheetBeforeRightClick, la inserción de una columna que forma una intersección con celdas combinadas no expande las celdas combinadas.
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Actualizaciones no relacionadas con la seguridad
--   Se soluciona un problema por el que el vínculo "Más información" de las sugerencias de la directiva no está visible cuando se utiliza el tema de color Gris oscuro.
+-   Se soluciona un problema por el que el vínculo “Más información” de las sugerencias de directiva no era visible al usar el tema “Gris oscuro”.
 -   Se soluciona un problema por el que Outlook se bloquea cuando un usuario está intentando configurar una nueva cuenta y cierra la ventana sin que haya finalizado la configuración de la cuenta.
 -   Se soluciona un problema por el que Marcar como leído y Marcar como no leído se muestran como opciones para los mensajes de la Bandeja de entrada compartida de un grupo.
 
@@ -289,9 +289,9 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 -   **Modelos 3D:** Use modelos 3D para aumentar el impacto visual y creativo de los libros.  Inserte fácilmente un modelo 3D y, después, podrá girarlo 360 grados. [Más información](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **Nuevos efectos de lápiz:** Exprese sus ideas con estilo con lápices metálicos y efectos de lápiz, como arcoíris, galaxia, lava, océano, oro, plata y más.
 -   **Mejoras de “Agregar columna a partir de los ejemplos”:** admite más transformaciones de fecha y hora, matemáticas y columna de índice.
--   **Mejora de rendimiento:** Excel abre libros complejos con varias hojas con mayor rapidez, para que pueda procesar fácilmente fórmulas con rangos extensos, filtrar un gran número de filas, o copiar y pegar más rápido.
+-   **Mejora de rendimiento:** Excel abre libros complejos con varias hojas con mayor rapidez, para que pueda procesar fácilmente fórmulas con rangos extensos, filtrar un gran número de filas, o copiar y pegar más rápido. 
 -   **Interfaz de usuario para compartir archivos:** En el caso de los archivos de OneDrive para la Empresa o SharePoint, haga clic en el botón Compartir que encontrará en la esquina superior derecha de la cinta de opciones o en Archivo \> Compartir. Aparecerá un cuadro de diálogo Compartir simplificado y mejorado. Para los archivos nuevos o guardados de forma local, la interfaz de usuario permite cargar los archivos fácilmente en OneDrive y empezar a colaborar.
--   **Bloquear extensiones peligrosas:** De forma predeterminada, se bloquea la activación de las extensiones consideradas de riesgo elevado y que se insertan como objetos de paquete OLE. Por ejemplo, .exe, .vbs y .js.
+-   **Bloquear extensiones peligrosas:** Las extensiones que se consideran alto riesgo y se incrustan como objetos de paquete OLE, están bloqueadas, de forma predeterminada, de activación. Por ejemplo, .exe, .vbs y .js. [Más información](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
 -   Se corrigió un problema por el que se omitían los caracteres de tabulación al copiar y pegar texto delimitado por tabulaciones desde Word, lo que causaba que el texto no se dividiera en columnas.
@@ -304,15 +304,15 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Actualizaciones de características
 -   **Modelos 3D:** Use modelos 3D para aumentar el impacto visual y creativo de sus presentaciones. Haga que sus modelos 3D cobren vida en sus presentaciones con transiciones como Transformación, que permite crear animaciones cinematográficas entre diapositivas. [Más información](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
--   **Nuevos efectos de lápiz:** Exprese sus ideas con estilo con lápices metálicos y efectos de lápiz, como arcoíris, galaxia, lava, océano, oro, plata y más.
+-   **Nuevos efectos de lápiz:** exprese sus ideas con estilo con lápices metálicos y efectos de lápiz, como arcoíris, galaxia, lava, océano, oro, plata y más.
 -   **Interfaz de usuario para compartir archivos:** En el caso de los archivos de OneDrive para la Empresa o SharePoint, haga clic en el botón Compartir que encontrará en la esquina superior derecha de la cinta de opciones o en Archivo \> Compartir. Aparecerá un cuadro de diálogo Compartir simplificado y mejorado. Para los archivos nuevos o guardados de forma local, la interfaz de usuario permite cargar los archivos fácilmente en OneDrive y empezar a colaborar.
--   **Bloquear extensiones peligrosas:** De forma predeterminada, se bloquea la activación de las extensiones consideradas de riesgo elevado y que se insertan como objetos de paquete OLE. Por ejemplo, .exe, .vbs y .js.
+-   **Bloquear extensiones peligrosas:** Las extensiones que se consideran alto riesgo y se incrustan como objetos de paquete OLE, están bloqueadas, de forma predeterminada, de activación. Por ejemplo, .exe, .vbs y .js. [Más información](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="project-feature-updates"></a>Project: Actualizaciones de características
 -   **Administrar una tarea en Planner:** vincule una tarea de Project a Planner y cree un plan para esta. Divida la tarea en subtareas, agregue un equipo, asigne tareas y administre el trabajo en un panel de tareas.
 
 ### <a name="project-non-security-updates"></a>Project: Actualizaciones no relacionadas con la seguridad
--   Se corrigió un problema por el que Inicio real podía borrarse por error al establecer trabajo restante.
+-   Se ha solucionado un problema por el que Inicio real podía borrarse por error al establecer trabajo restante.
 -   Se corrigió un problema por el que, en Fecha de inicio real de la tarea, podían mostrarse datos distintos de los indicados por el recurso en el estado de Project Web App.
 -   Se corrigió un problema que causaba que el trabajo real volviera a programarse si se cambiaba la fecha de finalización de la tarea.
 -   Se corrigió un problema que causaba que, al copiar y pegar campos de costos, los valores pegados no coincidieran exactamente con los valores copiados debido a un error de redondeo.
@@ -320,10 +320,10 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 -   Se ha solucionado un problema que causaba que el campo de estado no siempre se calculara correctamente para las tareas de resumen.
 
 ### <a name="publisher-feature-updates"></a>Publisher: actualizaciones de características
--   **Bloquear extensiones peligrosas:** De forma predeterminada, se bloquea la activación de las extensiones consideradas de riesgo elevado y que se insertan como objetos de paquete OLE. Por ejemplo, .exe, .vbs y .js.
+-   **Bloquear extensiones peligrosas:** Las extensiones que se consideran alto riesgo y se incrustan como objetos de paquete OLE, están bloqueadas, de forma predeterminada, de activación. Por ejemplo, .exe, .vbs y .js. [Más información](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: Actualizaciones no relacionadas con la seguridad
--   Se agrega un cuadro de diálogo en el que explica por qué un usuario no puede unirse a una reunión cuando determinados puertos están bloqueados o las direcciones IP no están en la lista de permitidos.
+-   Se agrega un cuadro de diálogo en el que se explica por qué un usuario no puede unirse a una reunión cuando determinados puertos están bloqueados o las direcciones IP no están en la lista de permitidos.
 -   Se ha solucionado un problema por el que los mensajes no leídos en salones de chat persistentes se marcaban como leídos cuando se hace clic en las pestañas de conversación de mensajería instantánea.
 -   Se ha solucionado un problema en la que las notificaciones de mensajería instantánea entrantes experimentaban un retraso de varios segundos.
 -   Se ha solucionado un problema en el que un contacto de AD se mostraba como un número de teléfono en lugar del nombre del contacto cuando está deshabilitada la sincronización con Exchange.
@@ -334,13 +334,13 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 -   Se ha solucionado un problema en el que se descartaba la notificación para compartir de una conversación de mensajería instantánea antes de que se dejara de compartir.
 
 ### <a name="visio-feature-updates"></a>Visio: actualizaciones de características
--   **Bloquear extensiones peligrosas:** De forma predeterminada, se bloquea la activación de las extensiones consideradas de riesgo elevado y que se insertan como objetos de paquete OLE. Por ejemplo, .exe, .vbs y .js.
+-   **Bloquear extensiones peligrosas:** Las extensiones que se consideran alto riesgo y se incrustan como objetos de paquete OLE, están bloqueadas, de forma predeterminada, de activación. Por ejemplo, .exe, .vbs y .js. [Más información](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="word-feature-updates"></a>Word: Actualizaciones de características
 -   **Modelos 3D:** Use modelos 3D para aumentar el impacto visual y creativo de los documentos.  Inserte fácilmente un modelo 3D y, después, podrá girarlo 360 grados. [Más información](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
--   **Nuevos efectos de lápiz:** Exprese sus ideas con estilo con lápices metálicos y efectos de lápiz, como arcoíris, galaxia, lava, océano, oro, plata y más.
+-   **Nuevos efectos de lápiz:** exprese sus ideas con estilo con lápices metálicos y efectos de lápiz, como arcoíris, galaxia, lava, océano, oro, plata y más.
 -   **Interfaz de usuario para compartir archivos:** En el caso de los archivos de OneDrive para la Empresa o SharePoint, haga clic en el botón Compartir que encontrará en la esquina superior derecha de la cinta de opciones o en Archivo \> Compartir. Aparecerá un cuadro de diálogo Compartir simplificado y mejorado. Para los archivos nuevos o guardados de forma local, la interfaz de usuario permite cargar los archivos fácilmente en OneDrive y empezar a colaborar.
--   **Bloquear extensiones peligrosas:** De forma predeterminada, se bloquea la activación de las extensiones consideradas de riesgo elevado y que se insertan como objetos de paquete OLE. Por ejemplo, .exe, .vbs y .js.
+-   **Bloquear extensiones peligrosas:** Las extensiones que se consideran alto riesgo y se incrustan como objetos de paquete OLE, están bloqueadas, de forma predeterminada, de activación. Por ejemplo, .exe, .vbs y .js. [Más información](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones no relacionadas con la seguridad
 -   Se corrigió un problema que impedía que se mostrara el cuadro de diálogo Novedades.
@@ -380,7 +380,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 *Versión 1707 (compilación 8326.2096)*
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Actualizaciones no relacionadas con la seguridad
--   Se soluciona un problema que causaba que no se mostraran los caracteres definidos por el usuario final (EUDC) que están vinculados a fuentes.
+-   Se soluciona un problema que causaba que no se mostraran los caracteres definidos por el usuario final (EUDC) que están vinculados a  fuentes.
 
 
 
@@ -401,11 +401,11 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 *Versión 1707 (compilación 8326.2076)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Actualizaciones no relacionadas con la seguridad
--   Se ha solucionado un problema que provocaba que no se pudiera configurar una cuenta IMAP en Outlook.
+-   Se soluciona un problema por el que no se podía configurar una cuenta IMAP en Outlook.
 -   Se ha solucionado un problema que provocaba un fallo intermitente al abrir Outlook.
 
 ### <a name="word-non-security-updates"></a>Word: Actualizaciones no relacionadas con la seguridad
--   Se ha solucionado un problema que provocaba que Word se cerrara inesperadamente al cargar el complemento Grammarly.
+-   Se soluciona un problema por el que Word se cerraba de forma inesperada al cargar el complemento Grammarly.
 -   Se ha solucionado un problema en el que, en determinadas condiciones, Word se bloqueaba al intentar recuperar los archivos en la nube.
 
 
@@ -414,7 +414,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 *Versión 1707 (compilación 8326.2073)*
 
 ### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
--   Se ha solucionado un problema que provocaba que no se realizara correctamente una actualización de datos o que Excel se bloqueara al usar datos de un servidor de SQL Server Analysis Services y la configuración regional de Excel difería de la del servidor de SQL Server Analysis Services.
+-   Se ha solucionado un problema por el que no se realizaba correctamente una actualización de datos o Excel se bloqueaba al usar datos de un servidor de SQL Server Analysis Services cuando la configuración regional de Excel no era la misma que la del servidor de SQL Server Analysis Services.
 
 
 
@@ -422,7 +422,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 *Versión 1707 (compilación 8326.2070)*
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: Actualizaciones no relacionadas con la seguridad
--   Se corrigió un problema que causaba que la pantalla de inicio de sesión se mostrara en blanco para algunos idiomas distintos del inglés.
+-   Se ha solucionado un problema que causaba que la pantalla de inicio de sesión se mostrara en blanco para algunos idiomas distintos del inglés.
 
 
 
@@ -430,7 +430,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 *Versión 1707 (compilación 8326.2062)*
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: Actualizaciones no relacionadas con la seguridad
--   Se ha corregido un problema que causaba que los caracteres que no pertenecieran al alfabeto inglés aparecieran cifrados en el chat y en el historial de chat.
+-   Se ha solucionado un problema que causaba que los caracteres que no pertenecieran al alfabeto inglés aparecieran cifrados en el chat y en el historial de chat.
 
 
 
@@ -446,7 +446,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 *Versión 1707 (compilación 8326.2058)*
 
 ### <a name="access-feature-updates"></a>Access: Actualizaciones de características
--   **Propiedad de nombre de etiqueta:** Mejorar la accesibilidad mediante la asociación de una etiqueta con un control en un formulario.
+-   **Propiedad de nombre de etiqueta:** mejore la accesibilidad mediante la asociación de una etiqueta con un control en un formulario.
 -   **Editar un nuevo elemento es más accesible:** Utilizar métodos abreviados de teclado rápido (CTRL+E) para editar un nuevo elemento de un cuadro combinado o cuadro de lista.
 
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
@@ -466,14 +466,14 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Actualizaciones de características
 -   **Autoguardar:** Los cambios se guardan automáticamente para las presentaciones almacenadas en la nube y puede ver las actualizaciones de otros en segundos. [Más información](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
--   **Resaltado de revisión:** Se realzan las diapositivas que han sido modificadas por otros usuarios.
+-   **Resaltado de revisión:** se resaltan las diapositivas que han sido modificadas por otros usuarios.
 -   **Mientras estuvo fuera:** PowerPoint muestra quién editó la presentación compartida desde su última visita.
 -   **Mejora del servicio Diseñador:** Diseñador ahora recomienda ideas de diseño para las escalas de tiempo en una lista con viñetas.
 -   **Sonidos útiles mejoran la accesibilidad:** Active las indicaciones de audio para guiarse mientras trabaja. Las encontrará en Archivo \> Opciones \> Accesibilidad. No se necesita ningún complemento. [Más información](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
 -   **Ubicaciones de archivo por cuenta:** Al abrir o guardar un archivo, la lista de ubicaciones se organiza en función de la cuenta asociada.
 
 ### <a name="project-non-security-updates"></a>Project: Actualizaciones no relacionadas con la seguridad
--   Corrección de un problema que producía que trabajo real se transfiriese de forma errónea a un recurso de empresa al sustituir un recurso local y cuando está habilitado el trabajo protegido.
+-   Se ha solucionado un problema que producía que trabajo real se transfiriese de forma errónea a un recurso de empresa al sustituir un recurso local y cuando está habilitado el trabajo protegido.
 -   Corrección de un problema que producía que Project se bloquease si tenía una tabla en la que la primera columna fuese Nombre de tarea, la columna estuviese bloqueada e hiciese clic en una tarea.
 -   Corrección de un problema que producía que pudiese asignar el mismo recurso varias veces a la misma tarea mediante la vista Uso de tareas.
 -   Corrección de un problema que producía que los valores en los campos personalizados de número se perdiesen al abrir archivos XML.
@@ -481,7 +481,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 -   Corrección de un problema que producía que, al importar información de una asignación, recurso o tarea de un libro de Excel, se ignorasen los valores en el campo de trabajo.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: Actualizaciones no relacionadas con la seguridad
--   Mostrar el número de teléfono del llamador para una llamada entrante, controlado por el Operador automático de la organización si no conoce el nombre del usuario.
+-   Se muestra el número de teléfono de una llamada entrante controlada por el Operador automático de la organización si no se conoce el nombre del usuario.
 -   Agregar una configuración de banda que permita la restricción de "Cualquiera (sin restricciones)" como una opción para "Estas personas no tienen que esperar en el vestíbulo".
 -   Agregar capacidad de activar o desactivar auto vídeo para videollamadas P2P en VDIv2.
 -   Se ha corregido un problema que mostraba los números duplicados de contactos en el menú desplegable llamar.
@@ -511,7 +511,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 -   Se ha ampliado el botón Unirse a la reunión para corregir un truncamiento en algunos de los idiomas localizados.
 
 ### <a name="word-non-security-updates"></a>Word: Actualizaciones no relacionadas con la seguridad
--   Se ha corregido un problema que no permitía girar las formas incluidas en los lienzos de dibujo.
+-   Se ha solucionado un problema que no permitía girar las formas incluidas en los lienzos de dibujo.
 -   Se ha corregido un problema que no permitía aplicar la separación correcta entre vocales y consonantes al escribir en coreano.
 
 ### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones no relacionadas con la seguridad
@@ -535,7 +535,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 *Versión 1706 (compilación 8229.2073)*
 
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
--   **Personalización del lápiz:** Elija un conjunto personal de lápices y marcadores de resaltado para las entradas manuscritas. Su conjunto personalizado estará disponible en todos sus equipos PC Windows.
+-   **Personalización del lápiz:** elija un conjunto personal de lápices y marcadores de resaltado para las entradas manuscritas. Su conjunto personalizado estará disponible en todos sus equipos PC Windows.
 -   **Insertar imágenes en línea:** Nueva página de destino para la selección de imágenes. Además, la información de atribución se inserta automáticamente con la imagen.
 -   **Conector Azure Data Lake Store:** Ahora, los usuarios pueden importar datos desde Azure Data Lake Store.
 -   **Mejoras en la opción “Agregar columna a partir de ejemplos”:** Admite sugerencias, más operaciones de fecha y hora, así como transformaciones adicionales.
@@ -544,16 +544,16 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 -   **Configuración de cuentas nuevas:** Configure las nuevas cuentas con un nuevo asistente que requiere menos pasos manuales.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Actualizaciones de características
--   **Personalización del lápiz:** Elija un conjunto personal de lápices y marcadores de resaltado para las entradas manuscritas. Su conjunto personalizado estará disponible en todos sus equipos PC Windows.
+-   **Personalización del lápiz:** elija un conjunto personal de lápices y marcadores de resaltado para las entradas manuscritas. Su conjunto personalizado estará disponible en todos sus equipos PC Windows.
 -   **Insertar imágenes en línea:** Nueva página de destino para la selección de imágenes. Además, la información de atribución se inserta automáticamente con la imagen.
 
 ### <a name="project-non-security-updates"></a>Project: Actualizaciones no relacionadas con la seguridad
--   Se corrige un problema que provocaba que los valores de Línea base de fase temporal no coincidieran con los valores iniciales al guardar un proyecto en el formato de archivo XML.
+-   Se ha solucionado un problema que provocaba que los valores de Línea base de fase temporal no coincidieran con los valores iniciales al guardar un proyecto en el formato de archivo XML.
 -   Se corrige un problema que provocaba que el cliente de Project no abriera un proyecto, ya que detectaba que se había extraído del repositorio cuando, realmente, no era así.
 -   Se corrige un problema que ralentizaba la apertura de los archivos de Project desde un servidor de archivos con una latencia alta.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: Actualizaciones no relacionadas con la seguridad
--   Se aumenta la prominencia de los mensajes de importancia alta en el chat.
+-   Se ha aumentado la prominencia de los mensajes de importancia alta en el chat.
 -   Se agregan tipos de extensión de archivo de Skype Empresarial y de Office a las listas de transferencias de archivos bloqueadas permitidas.
 -   Se aplican correcciones de ubicación en las invitaciones a reuniones de Outlook para el texto del pie de página establecido en un idioma diferente al inglés en las reuniones.
 -   Se corrige un problema que provocaba que los nombres de los remitentes se cambiaran a veces en las conversaciones de varios usuarios.
@@ -563,8 +563,8 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 -   Se ha agregado una nueva clave del Registro DWORD para corregir un problema que provocaba que, cuando un usuario iniciaba sesión en el cliente en una red externa con LyncAutoD, el cliente restableciese la clave del Registro de OAuthUsed a false. Para solucionar el problema, establezca el valor en 1 para EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket en HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Lync\\\<Id.SIP\>.
 
 ### <a name="word-feature-updates"></a>Word: Actualizaciones de características
--   **Personalización del lápiz:** Elija un conjunto personal de lápices y marcadores de resaltado para las entradas manuscritas. Su conjunto personalizado estará disponible en todos sus equipos PC Windows.
--   **Insertar imágenes en línea:** Nueva página de destino para la selección de imágenes. Además, la información de atribución se inserta automáticamente con la imagen.
+-   **Personalización del lápiz:** elija un conjunto personal de lápices y marcadores de resaltado para las entradas manuscritas. Su conjunto personalizado estará disponible en todos sus equipos PC Windows.
+-   **Insertar imágenes en línea:** nueva página de destino para la selección de imágenes. Además, la información de atribución se inserta automáticamente con la imagen.
 
 
 
@@ -616,7 +616,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 -   **Cuadro de diálogo de adjuntar vínculos:** Al adjuntar un vínculo mediante Adjuntar archivo en la cinta de opciones, puede seleccionar si desea agregarlo como un vínculo o como un archivo adjunto. Si no quiere ver este cuadro de diálogo cada vez, vaya a Archivo \> Opciones \> General y especifique cómo desea que los vínculos se asocien en “Opciones de datos adjuntos”.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Actualizaciones de características
--   **Subtítulos para los vídeos:** Agregue subtítulos a los vídeos para que sean más accesibles. [Más información](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
+-   **Subtítulos para los vídeos:** agregue subtítulos a los vídeos para que sean más accesibles. [Más información](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
 -   **Mejora del servicio Diseñador:** Ahora, Diseñador recomienda ideas de diseño para los gráficos que se agregan a las diapositivas.
 -   **Compatibilidad con Windows Information Protection (WIP):**   La aplicación PowerPoint ahora puede diferenciar entre los datos personales y los datos corporativos, y determinar correctamente cuáles se deben proteger basándose en las directivas configuradas.  [Más información](https://aka.ms/wiptechnet)
 
@@ -678,7 +678,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 -   **Bandeja de entrada Prioritarios:** La Bandeja de entrada se divide en dos pestañas: Prioritarios y Otros. Los mensajes se ordenan en función del contenido y de los usuarios con los que interactúa con más frecuencia. [Más información](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978)
 -   **Acceso rápido a los grupos de mayor uso:** Ahora, los grupos con los que es más probable que interactúe aparecen en la parte superior de la lista de la sección Grupos del panel de carpetas.
 -   **Insertar vínculos recientes:** Adjunte hipervínculos a sitios web o archivos basados en la nube recientes y cree nombres para mostrar significativos para los usuarios que usen lectores de pantalla. [Más información](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
--   **Los mensajes que se pueden procesar:** Los programadores pueden crear mensajes para facilitar a los usuarios aprovechar derecha acciones simple o rápido de Outlook sin tener que cambiar a un sitio web externo o independientes App [obtener más información](https://dev.office.com/blogs/create-more-engaging-conversations-with-new-actionable-messages-updates-announced-at-microsoft-build)
+-   **Mensajes accionables:** los desarrolladores pueden crear mensajes para facilitar a los usuarios la realización de acciones simples o rápidas y sin tener que cambiar a un sitio web externo o a otra aplicación, directamente desde Outlook. [Más información](https://dev.office.com/blogs/create-more-engaging-conversations-with-new-actionable-messages-updates-announced-at-microsoft-build)
 -   **Compatibilidad con archivos adjuntos locales:** Los archivos de la versión local de SharePoint Server se muestran como archivos recientes en Mensaje \> Adjuntar archivo. Los sitios de grupo de las versiones locales de OneDrive para la Empresa y SharePoint aparecen en Adjuntar archivo \> Explorar sitios web. Además, es posible cargar archivos locales en los sitios de la versión local de OneDrive para la Empresa.
 -   **Clasificaciones empresariales de los grupos:**  Al crear o editar un grupo, se le puede asignar un nivel de clasificación empresarial definido por el administrador del espacio empresarial (por ejemplo, Confidencial). La clasificación en cuestión aparecerá en el encabezado de grupo.
 
