@@ -3,19 +3,19 @@ title: Notas de la versión para las versiones de Canal semianual (dirigido) en 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/12/2018
+ms.date: 7/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual (dirigido) de Office 365 ProPlus en 2018.
-ms.openlocfilehash: ec8e532ab9583db5fa0d11fe5514eb50f421f6fb
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: b5b3cf82f2f59378f1309e7cd91540ad0689db47
+ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886636"
+ms.lasthandoff: 07/10/2018
+ms.locfileid: "20246390"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>Notas de la versión para las versiones de Canal semianual (dirigido) en 2018
 
@@ -24,6 +24,36 @@ En estas notas de la versión, se proporciona información sobre característica
 > [!NOTE]
 > - Lo siguiente también proporciona información sobre características nuevas, actualizaciones de seguridad y no relacionadas con la seguridad para Visio Pro para Office 365 y el cliente de escritorio de Project Online.
 > - Esta información también se aplica a Office 365 Empresa, que es la versión de Office que viene con algunos planes de Office 365, como Empresa Premium.
+
+## <a name="version-1803-july-10"></a>Versión 1803: 10 de julio
+*Version 1803 (compilación 9126.2259)*
+
+### <a name="access-security-updates"></a>Access: Actualizaciones de seguridad
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8312): vulnerabilidad de uso posterior gratis de la ejecución de código remoto de Microsoft Access
+
+### <a name="outlook-security-updates"></a>Outlook: Actualizaciones de seguridad
+-   [CVE-2018-8310](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8310): vulnerabilidad de manipulación de Microsoft Office
+
+### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones de seguridad
+-   [CVE-2018-8281](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8281): vulnerabilidad de la ejecución remota de código de Microsoft Office
+
+### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
+-   Se ha corregido un problema donde se mostraba el año incorrecto cuando se usaba el calendario japonés Era con formato de celda de fecha.
+-   Al importar datos en el modelo de datos de Excel, los valores entrantes de cero negativo crearían un error. La corrección importa esos valores como cero.
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: Actualizaciones no relacionadas con la seguridad
+-   Se ha corregido el problema en el que las tablas se representaban incorrectamente con un borde grueso.
+
+### <a name="project-non-security-updates"></a>Project: Actualizaciones no relacionadas con la seguridad
+-   Se ha corregido un problema en el que si se dividía una tarea con un recurso de costo, el recurso de costo no se actualiza correctamente y se perdía el costo.
+-   Se ha corregido un problema por el que solo se mostraban las tareas de la primera tarea de resumen en la vista Escala de tiempo del cuadro de diálogo Agregar tareas existentes a la escala de tiempo.
+-   Se ha corregido un problema por el que podía fallar Guardar como XML para proyectos principales de Project Online o Project Server.
+
+### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones no relacionadas con la seguridad
+-   Se ha corregido un error que causaba que la instalación de la actualización a tardase mucho tiempo en determinados escenarios. 
+-   Se ha corregido un problema en el que estaban fallando las pruebas SVG
+-   Se corrige un problema por el que, al implementar actualizaciones con System Center Configuration Manager en un cliente que tiene aplicaciones de Office en ejecución, la actualización no se aplica después de reiniciar el dispositivo mientras se ejecutan las aplicaciones de Office.
+
 
 ## <a name="version-1803-june-12"></a>Versión 1803: 12 de junio
 *Versión 1803 (compilación 9126.2227)*
