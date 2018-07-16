@@ -3,7 +3,7 @@ title: Notas de la versión de Office para Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/10/2018
+ms.date: 7/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
@@ -11,12 +11,12 @@ localization_priority: Critical
 ms.collection: RelNotes_Mac
 ms.custom: LIL_Placement
 description: Proporciona a los profesionales de TI las notas de la versión de las versiones de Office para Mac para los suscriptores de Office 356
-ms.openlocfilehash: f1b878e883d8b8494c8e13b4c6cf55e1d90ca8d7
-ms.sourcegitcommit: 530b5f490b50d505920e9ec50d0528f368008565
+ms.openlocfilehash: 8c3736486a5d0dc24fd99f2f382bd9bb426780b0
+ms.sourcegitcommit: 752a269d6c047356b638bd8da669cfa646d3bc7b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/11/2018
-ms.locfileid: "20275776"
+ms.lasthandoff: 07/13/2018
+ms.locfileid: "20334430"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de la versión de Office para Mac
 
@@ -42,10 +42,10 @@ En esta versión se incluyen las actualizaciones siguientes.
   
 |**Aplicación**|**Actualizaciones de características**|**Actualizaciones de seguridad**|**Vínculo de descarga para el paquete de actualización**|
 |:-----|:-----|:-----|
-|Word  <br/> |**Correcciones de un solo clic para los problemas de accesibilidad:** el Comprobador de accesibilidad es mejor que nunca con la asistencia actualizada para los estándares internacionales y las útiles recomendaciones para hacer los documentos más accesibles. [Más información](https://support.office.com/article/3b84295e-d55b-49f1-b443-523ec45a5232) <br/> ||[Paquete de actualización de Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.15.18070902_Updater.pkg) <br/>|
+|Word  <br/> |||[Paquete de actualización de Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.15.18070902_Updater.pkg) <br/>|
 |Excel  <br/> |||[Paquete de actualización de Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.15.18070902_Updater.pkg) <br/>|
 |PowerPoint  <br/> |**Anime su lanzamiento con vídeo:** agregue acción en directo a la diapositiva con un vídeo de YouTube y véalo sin salir de la aplicación. [Más información](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db=Office_2016_for_Mac) <br/> ||[Paquete de actualización de PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.15.18070902_Updater.pkg) <br/>|
-|Outlook  <br/> |||[Paquete de actualización de Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.15.18070902_Updater.pkg) <br/>|
+|Outlook  <br/> |**Seguridad mejorada para las cuentas de Google:** las mejoras relativas a la seguridad implican que ya no tendrá que permitir el acceso a "aplicaciones menos seguras" o establecer una contraseña de la aplicación para agregar su cuenta de Google a Outlook. [Más información](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b=Office_2016_for_Mac) <br/> ||[Paquete de actualización de Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.15.18070902_Updater.pkg) <br/>|
 |Microsoft AutoUpdate 4.1  <br/> |Actualización a Aria SDK 8.4. Corrige el problema de pérdida de memoria.<br/><br/>Cambios en el registro de la aplicación. Ahora es compatible con vista previa de Office 2019.||[Paquete de actualización de Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.1.18070902_Updater.pkg) <br/> | 
 |Conjunto de aplicaciones de Office  <br/> ||[CVE-2018-8281](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8281): vulnerabilidad de la ejecución remota de código de Microsoft Office  <br/> ||
 
