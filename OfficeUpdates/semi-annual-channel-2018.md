@@ -3,19 +3,19 @@ title: Notas de la versión para las versiones de Canal semianual en 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/11/2018
+ms.date: 7/17/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual de Office 365 ProPlus en 2018.
-ms.openlocfilehash: 558af54e5e7111d8c240fcf9fac2862cbf9294b1
-ms.sourcegitcommit: bcd93b2785bc38ae1b065f2a721cd043cdd2357e
+ms.openlocfilehash: c986913ae1c92e6f8e5e8992c71484ef141fc976
+ms.sourcegitcommit: 8abc8240e5b4b922070ac9498ed5ac311732e4b2
 ms.translationtype: HT
 ms.contentlocale: es-ES
 ms.lasthandoff: 07/17/2018
-ms.locfileid: "20397973"
+ms.locfileid: "20435679"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>Notas de la versión para las versiones de Canal semianual en 2018
 
@@ -331,7 +331,7 @@ En estas notas de la versión, se proporciona información sobre característica
 ## <a name="version-1708-july-10"></a>Versión 1708: 10 de julio
 *Versión 1708 (compilación 8431.2280)*
 
-* Esta es la versión del Canal semianual que ha estado disponible desde septiembre de 2017. Seguirá recibiendo soporte técnico y actualizaciones de seguridad hasta marzo de 2019. Pero ahora hay disponible una nueva versión del Canal semianual (versión 1803, compilación 16.0.9126.2259), que contiene nuevas características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad*
+*Esta es la versión del Canal semianual que ha estado disponible desde enero de 2018. Seguirá recibiendo soporte técnico y actualizaciones de seguridad hasta marzo de 2019. Pero ahora hay disponible una nueva versión del Canal semianual (versión 1803, compilación 16.0.9126.2259), que contiene nuevas características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad.*
 
 ### <a name="access-security-updates"></a>Access: Actualizaciones de seguridad
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8312): vulnerabilidad de uso posterior gratis de la ejecución de código remoto de Microsoft Access
