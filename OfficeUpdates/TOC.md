@@ -30,7 +30,7 @@
 # Office (permanente)
 ## [Actualizaciones de Office (MSI)](office-updates-msi.md)
 ## [Actualizaciones de Outlook (MSI)](outlook-updates-msi.md)
-## [Las actualizaciones de Skype para la empresa](https://technet.microsoft.com/office/dn788954.aspx)
+## [Las actualizaciones de Skype para la empresa](https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates)
 ## [Archivos .msp de 2016 de Office](msp-files-office-2016.md)
 ## [Archivos .msp de Office 2013](msp-files-office-2013.md)
 ## [Actualizaciones de Office 2013](update-history-office-2013.md)
@@ -40,7 +40,7 @@
 ## [Actualizaciones de Exchange Server](https://technet.microsoft.com/library/hh135098(v=exchg.150).aspx)
 ## [Actualizaciones de Project Server](project-server-updates.md)
 ## [Actualizaciones de SharePoint](sharepoint-updates.md)
-## [Skype para actualizaciones de Business Server](https://technet.microsoft.com/office/dn788954.aspx)
+## [Skype para actualizaciones de Business Server](https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates)
 
 # Vínculos relacionados
 ## [Versiones de Windows 10](https://www.microsoft.com/itpro/windows-10/release-information)
