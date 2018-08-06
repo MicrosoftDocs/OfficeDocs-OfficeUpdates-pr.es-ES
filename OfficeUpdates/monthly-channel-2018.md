@@ -3,19 +3,19 @@ title: Notas de la versión para las versiones de Canal mensual en 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/26/2018
+ms.date: 8/2/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2018.
-ms.openlocfilehash: 17f6be9de2ca59d5f5ec596c9c99fb83a3f0ad5a
-ms.sourcegitcommit: 73ff6091f19a0ba409da0357b21bb8804d41385d
+ms.openlocfilehash: 2bd6b8cf73c544a1e1267af686c4b98e950a9ade
+ms.sourcegitcommit: 3a7c59901d43bbff19d1ee3e675c66d0412ab8f7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/26/2018
-ms.locfileid: "21222951"
+ms.lasthandoff: 08/02/2018
+ms.locfileid: "21772507"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de la versión para las versiones de Canal mensual en 2018
 
@@ -39,7 +39,7 @@ En estas notas de la versión, se proporciona información sobre característica
  - **Crear un documento de Word a partir de formas de Visio:** agregue automáticamente contenido de diagramas, incluidas formas y metadatos, a un documento de Word. Después, personalice el documento para crear instrucciones de procesos y manuales de operaciones. [Más información](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
 ### <a name="word-feature-updates"></a>Word: actualizaciones de características
- - **Control de cambios con IRM:** ahora puede usar la característica Control de cambios en Word en documentos protegidos mediante IRM aunque no sea el propietario.
+ - **Control de cambios con IRM:** ahora puede usar la característica Control de cambios en Word en documentos protegidos mediante IRM sin necesitar el derecho de uso Control total.
 
 ### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones no relacionadas con la seguridad
  - Se ha corregido un conjunto de errores que evitaban que algunos usuarios pudiesen abrir documentos y correos electrónicos protegidos mediante IRM compartidos con ellos por gente de otras organizaciones.
@@ -420,3 +420,5 @@ En estas notas de la versión, se proporciona información sobre característica
 
 ### <a name="project-non-security-updates"></a>Project: Actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema por el que se perdía código VBA de proyectos.
+
+NOTA: Si necesita ayuda con algún problema de uso de Office, le recomendamos que publique la pregunta en el [foro de Answers de Microsoft] (https://answers.microsoft.com/) o [Tech Community] (https://techcommunity.microsoft.com/), o puede ponerse en contacto con el [servicio de soporte técnico] (https://support.microsoft.com/contactus).
