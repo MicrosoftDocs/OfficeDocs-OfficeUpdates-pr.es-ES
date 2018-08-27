@@ -11,10 +11,10 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Proporciona a que los profesionales de TI con notas de la versión para canal mensual libera para Office 365 ProPlus en 2016
 ms.openlocfilehash: 7a5f8b13f06fc236cedc50d394d361dc1d797dfd
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/04/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "19556394"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2016"></a>Notas de la versión para las versiones de canal mensual en 2016
@@ -22,8 +22,8 @@ ms.locfileid: "19556394"
 Estas notas de la versión proporcionan información sobre nuevas características, actualizaciones de seguridad y las actualizaciones de seguridad comunes que se incluyen en las actualizaciones de canal mensual a Office 365 ProPlus en 2016.
  
 > [!NOTE]
-> - El siguiente también proporciona la información acerca de las nuevas características, actualizaciones de seguridad y las actualizaciones de seguridad que no sean para Visio Pro a para el cliente de escritorio de Project Online y Office 365.
-> - Esta información también se aplica a Office 365 empresarial, que es la versión de Office que se incluye con algunos planes de Office 365, como Business Premium.
+> - Lo siguiente también proporciona información sobre características nuevas, actualizaciones de seguridad y no relacionadas con la seguridad para Visio Pro para Office 365 y el cliente de escritorio de Project Online.
+> - Esta información también se aplica a Office 365 Empresa, que es la versión de Office que viene con algunos planes de Office 365, como Empresa Premium.
 > - Canal mensual se ha denominado canal actual antes de septiembre de 2017.
 
 ## <a name="version-1611-december-13"></a>Versión 1611: 13 de diciembre
@@ -60,7 +60,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Actualizaciones de características
 -   **Imágenes SVG:** inserte y edite Scalable Vector Graphics (SVG) en presentaciones. [Más información](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 -   **Insertar iconos:** Use iconos de una biblioteca estándar de archivos Scalable Vector Graphics (SVG) seleccionando Insertar \> Ilustraciones \> Iconos. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
--   **Escribiendo en tiempo real cuando la co-autoría:** Vea donde otros usuarios están trabajando en la presentación y ver los cambios mientras escribe. [Obtener más información](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
+-   **Escribiendo en tiempo real cuando la co-autoría:** Vea donde otros usuarios están trabajando en la presentación y ver los cambios mientras escribe. [Más información](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **Guardar en carpetas recientes:** guarde una presentación en una carpeta que se ha usado recientemente mediante la pestaña Reciente cuando seleccione Archivo \> Guardar como.
 -   **Crear formas de lápiz precisas:** arrastre el borrador de segmentos para quitar el exceso de bits de lápiz, hasta la línea más cercana.
 -   **Seleccionar y manipular objetos con un lápiz:** Utilice un lápiz digital para cambiar el tamaño de objetos, moverlos o girarlos usando sus controladores, o utilice los botones de un lápiz admitido para la selección de lazo de lápiz.
@@ -279,7 +279,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 -   Se ha corregido un problema que provocaba que solo se mostrara la primera etiqueta de varias etiquetas para una línea de texto en el panel Resumen de etiquetas cuando se buscan etiquetas.
 
 ### <a name="outlook-feature-updates"></a>Outlook: Actualizaciones de características
--   ** \@menciones:** Asegúrese de que los destinatarios saben que se le solicita para la entrada o acción mediante la inclusión de la arroba seguido por el nombre de la persona en el cuerpo de un elemento de correo electrónico o calendario. Esto agrega también automáticamente a la línea para. [Obtener más información](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   ** \@menciones:** Asegúrese de que los destinatarios saben que se le solicita para la entrada o acción mediante la inclusión de la arroba seguido por el nombre de la persona en el cuerpo de un elemento de correo electrónico o calendario. Esto también los agregará automáticamente a la línea Para. [Más información](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Actualizaciones no relacionadas con la seguridad
 -   Se ha corregido un problema que provocaba que al usar diseños de fondo personalizados como tema predeterminado, se agregaran saltos de línea adicionales en mensajes de correo nuevos y se estableciera la fuente en Calibri.
@@ -632,7 +632,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 *Versión 1605 (compilación 6965.2053)*
 
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
--   **Obtener & transformación mejoras:** Transformación de datos nuevas o mejoradas y características de conectividad de datos de consulta de energía. [Obtener más información](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
+-   **Obtener & transformación mejoras:** Transformación de datos nuevas o mejoradas y características de conectividad de datos de consulta de energía. [Más información](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 
 ### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que las listas desplegables de validación de datos se dañan y se duplican en los libros con varias hojas de cálculo.
@@ -643,7 +643,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 ### <a name="outlook-feature-updates"></a>Outlook: Actualizaciones de características
 -   **Creación de perfiles simplificada:** Experiencia de interfaz de usuario simplificada para configurar perfiles de Outlook adicionales para buzones de Office 365 cuando se ha iniciado sesión con una cuenta de Office 365.
 
-    Nota: Esta característica se van a ejecutar durante un período de tiempo a los suscriptores, por lo que no es posible que vea esta característica inmediatamente. El momento oportuno de cuando se muestre esta característica también depende de cómo su organización las actualizaciones de Office.
+    Nota: Esta característica se está distribuyendo durante un período de tiempo a los suscriptores, por lo que es posible que no vea esta característica inmediatamente. El momento en el que recibirá esta característica también depende de cómo actualice Office su organización.
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que los caracteres de símbolo extendido se cambian a "1" al enviar un correo electrónico en el formato .rtf.
@@ -671,7 +671,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 -   **Se han agrupado las características de colaboración en la cinta de opciones:** Las características como Compartir, Chatear, los comentarios, la actividad de los documentos y los usuarios que están editando el documento se han agrupado en la cinta de opciones en Word y PowerPoint. [Más información](https://blogs.office.com/2016/04/26/new-to-office-365-in-april-skype-for-business-mac-preview-bringing-collaboration-to-the-forefront-in-office-and-more/)
 -   **Configuración de la plantilla de directiva de derechos de AD RMS:** Se asegura de que la configuración de "Grant propietario (autor) derecho de control total sin expiración" tiene en cuenta cuando se aplica a los nuevos documentos de Word, Excel y PowerPoint, especialmente si se deshabilita la configuración. Si se deshabilita, el usuario ve una advertencia de que la aplicación de la plantilla puede restringir el acceso al documento.
 
-    Nota: Los documentos existentes ya protegidos con una plantilla que tenía esta configuración configurada no cambiará. El propietario todavía tendrá control total y no hay expiración en esos documentos.
+    Nota: Los documentos existentes ya protegidos con una plantilla que tenga esta opción configurada no sufrirán ningún cambio. El propietario seguirá teniendo control total y sin expiración en esos documentos.
 
 ### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema de almacenamiento en caché que hacía que se eliminaran algunas licencias de Office 2013 e información de instalación del programa antes de una actualización iniciada por Microsoft de la versión de Office 2013 de un cliente de Office 365, como Office 365 ProPlus, a la versión de Office de 2016.
@@ -705,7 +705,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 ## <a name="version-1604-may-10"></a>Versión 1604: 10 de mayo
 *Versión 1604 (compilación 6868.2062)*
 
-### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
+### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Actualización de seguridad para Microsoft Office (3155544)
 
 ### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones de seguridad
@@ -835,18 +835,18 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 
 
 ## <a name="version-1601-march-4"></a>Versión 1601: 4 de marzo
-*Versión de 1601 (compilación 6568.2036)*
+*Versión 1601 (compilación 6568.2036)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que, si un servidor está configurado para usar POP3, todos los mensajes de correo que contiene dicho servidor se suprimen de la Bandeja de entrada después de que Outlook los descargue. [Más información sobre este problema](https://support.microsoft.com/kb/3145116)
--   Corregir un problema que, cuando se configura para usar POP3, los mensajes de correo se descargan varias veces, lo que provoca que los elementos duplicados. [Para obtener más información acerca de este problema](https://support.microsoft.com/kb/3145116)
+-   Corregir un problema que, cuando se configura para usar POP3, los mensajes de correo se descargan varias veces, lo que provoca que los elementos duplicados. [Más información sobre este problema](https://support.microsoft.com/kb/3145116)
 
 
 
 ## <a name="version-1601-march-3"></a>Versión 1601: 3 de marzo
-*Versión de 1601 (compilación 6568.2034)*
+*Versión 1601 (compilación 6568.2034)*
 
-### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
+### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS16-029](https://technet.microsoft.com/library/security/ms16-029): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3141806)
 
 ### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones de seguridad
@@ -858,7 +858,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 
 
 ## <a name="version-1601-february-16"></a>Versión 1601: 16 de febrero
-*Versión de 1601 (compilación 6568.2025)*
+*Versión 1601 (compilación 6568.2025)*
 
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
 -   **Gráficos de embudo:** Muestre valores como proporciones que disminuyen progresivamente. [Más información](https://support.office.com/article/ba21bcba-f325-4d9f-93df-97074589a70e)

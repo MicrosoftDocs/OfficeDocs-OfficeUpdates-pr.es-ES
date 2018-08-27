@@ -11,10 +11,10 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Proporciona los profesionales de TI con notas de la versión para las versiones delimitadas anuales del canal (destino) para Office 365 ProPlus en 2015
 ms.openlocfilehash: 4b6eb5b96fddc57d8a1f64adfaeb10166d541c42
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/04/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "19556428"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2015"></a>Notas de la versión para las versiones en 2015 delimitadas anuales del canal (destino)
@@ -22,8 +22,8 @@ ms.locfileid: "19556428"
 Estas notas de la versión proporcionan información sobre nuevas características, actualizaciones de seguridad y las actualizaciones de seguridad comunes que se incluyen en las actualizaciones anuales delimitadas del canal (destino) para Office 365 ProPlus en 2015.
  
 > [!NOTE]
-> - El siguiente también proporciona la información acerca de las nuevas características, actualizaciones de seguridad y las actualizaciones de seguridad que no sean para Visio Pro a para el cliente de escritorio de Project Online y Office 365.
-> - Esta información también se aplica a Office 365 empresarial, que es la versión de Office que se incluye con algunos planes de Office 365, como Business Premium.
+> - Lo siguiente también proporciona información sobre características nuevas, actualizaciones de seguridad y no relacionadas con la seguridad para Visio Pro para Office 365 y el cliente de escritorio de Project Online.
+> - Esta información también se aplica a Office 365 Empresa, que es la versión de Office que viene con algunos planes de Office 365, como Empresa Premium.
 > - Punto y anuales del canal (destino) se ha denominado primera versión para canal aplazada antes de septiembre de 2017.
 
 
@@ -104,7 +104,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 ### <a name="visio-security-updates"></a>Visio: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS15-116](https://technet.microsoft.com/library/security/ms15-116): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3104540)
 
-### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
+### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS15-116](https://technet.microsoft.com/library/security/ms15-116): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3104540)
 
 ### <a name="word-non-security-updates"></a>Word: Actualizaciones no relacionadas con la seguridad
@@ -205,7 +205,7 @@ Se trata de la versión inicial de este canal. Esta versión ofrece la primera d
 ### <a name="visio-security-updates"></a>Visio: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Ciertas vulnerabilidades de Microsoft Office podrían permitir la ejecución remota de código (3080790)
 
-### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
+### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Ciertas vulnerabilidades de Microsoft Office podrían permitir la ejecución remota de código (3080790)
 
 ### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones de seguridad

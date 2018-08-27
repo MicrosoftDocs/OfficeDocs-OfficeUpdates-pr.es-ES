@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Proporciona a que los profesionales de TI con notas de la versión para delimitadas anuales del canal libera para Office 365 ProPlus en 2017
 ms.openlocfilehash: 97df90f17529a2c3336e19a2954b6c596e7d3410
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/04/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "19556411"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2017"></a>Notas de la versión para las versiones delimitadas anuales del canal en 2017
 
 Estas notas de la versión proporcionan información sobre nuevas características, actualizaciones de seguridad y las actualizaciones de seguridad comunes que se incluyen en las actualizaciones para Office 365 ProPlus delimitadas anuales del canal en 2017. 
 > [!NOTE]
-> - El siguiente también proporciona la información acerca de las nuevas características, actualizaciones de seguridad y las actualizaciones de seguridad que no sean para Visio Pro a para el cliente de escritorio de Project Online y Office 365.
-> - Esta información también se aplica a Office 365 empresarial, que es la versión de Office que se incluye con algunos planes de Office 365, como Business Premium.
-> - Punto y anuales del canal se ha denominado canal aplazada antes de enero de 2018.
+> - Lo siguiente también proporciona información sobre características nuevas, actualizaciones de seguridad y no relacionadas con la seguridad para Visio Pro para Office 365 y el cliente de escritorio de Project Online.
+> - Esta información también se aplica a Office 365 Empresa, que es la versión de Office que viene con algunos planes de Office 365, como Empresa Premium.
+> - El Canal semianual se denominaba Canal diferido antes de enero de 2018.
 
 
 ## <a name="version-1705-december-12"></a>Versión 1705: 12 de diciembre
@@ -227,7 +227,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 -   **Eliminación del fondo:** Quite un fondo de imagen con una herramienta de dibujo de forma libre.
 -   **Imágenes SVG:** inserte y edite Scalable Vector Graphics (SVG) en presentaciones. [Más información](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 -   **Insertar iconos:** Use iconos de una biblioteca estándar de archivos Scalable Vector Graphics (SVG) seleccionando Insertar \> Ilustraciones \> Iconos. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
--   **Escribiendo en tiempo real cuando la co-autoría:** Vea donde otros usuarios están trabajando en la presentación y ver los cambios mientras escribe. [Obtener más información](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
+-   **Escribiendo en tiempo real cuando la co-autoría:** Vea donde otros usuarios están trabajando en la presentación y ver los cambios mientras escribe. [Más información](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **Guardar en carpetas recientes:** guarde una presentación en una carpeta que se ha usado recientemente mediante la pestaña Reciente cuando seleccione Archivo \> Guardar como.
 -   **Crear formas de lápiz precisas:** arrastre el borrador de segmentos para quitar el exceso de bits de lápiz, hasta la línea más cercana.
 -   **Seleccionar y manipular objetos con un lápiz:** Utilice un lápiz digital para cambiar el tamaño de objetos, moverlos o girarlos usando sus controladores, o utilice los botones de un lápiz admitido para la selección de lazo de lápiz.
@@ -356,7 +356,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 -   **Lectura mejorada con Herramientas de aprendizaje:** los nuevos comandos en el modo Lectura mejoran las habilidades de lectura ajustando el espaciado de texto, mostrando los saltos entre sílabas y resaltando cada palabra a medida que el documento se lee en voz alta. [Más información](https://support.office.com/article/29efa413-e2da-4cac-b2a5-2defc6d34fd9)
 -   **Reconocimiento de formas:** Transforme automáticamente sus dibujos en formas utilizando Dibujar \> Convertir en formas.[Más información](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
 
-### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
+### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS17-014](https://technet.microsoft.com/library/security/ms17-014): Actualización de seguridad para Microsoft Office (3217868)
 -   [CVE-2017-0254](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0254): Vulnerabilidad de los daños en la memoria de Microsoft Office
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): Vulnerabilidad de la ejecución remota de código de Microsoft Office
@@ -598,7 +598,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 
 ### <a name="skype-for-business-feature-updates"></a>Skype Empresarial: Actualizaciones de características
 -   **Estilo de notificación de Windows:** Cambios en el aspecto de las notificaciones de llamadas de entrada y conversaciones.[Más información](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/New-Skype-for-Business-2016-on-Windows-Notifications-look-and/ba-p/39885)
--   **Transferencia con consulta:** Desde dentro de una llamada, póngase en contacto con otro usuario a través de un mensaje instantáneo o llamada antes de transferir la llamada a ese usuario. [Obtener más información](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
+-   **Transferencia con consulta:** Desde dentro de una llamada, póngase en contacto con otro usuario a través de un mensaje instantáneo o llamada antes de transferir la llamada a ese usuario. [Más información](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
 -   **Notificaciones de micrófono:** Establezca que se muestre una notificación en la ventana de conversación cuando el micrófono esté silenciado en el sistema operativo o si el micrófono no está recibiendo ningún audio.
 -   **Deshabilitar "Mi número":** Use la entrada del Registro DisableDisplayMyNumber para deshabilitar "Mi número" en el teclado de marcado.
 
@@ -706,7 +706,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 -   **Compartidos conmigo:** Vea los documentos que otros usuarios han compartido con usted yendo a Archivo \> Abrir \> Compartidos conmigo. [Más información](https://support.office.com/article/e0476dc7-bf2f-4203-b9ad-c809578b03e7)
 -   **Cambiar los colores:** Use Información para establecer el color de la fuente, resaltado, relleno de forma y mucho más. [Más información](https://support.office.com/article/5bab7082-b772-427c-a106-14ae46f8687f)
 
-### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
+### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS17-014](https://technet.microsoft.com/library/security/ms17-014): Actualización de seguridad para Microsoft Office (3217868)
 -   [CVE-2017-0254](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0254): Vulnerabilidad de los daños en la memoria de Microsoft Office
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): Vulnerabilidad de la ejecución remota de código de Microsoft Office
@@ -927,7 +927,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 -   Corrección de un problema que hace que OneNote se bloquee al eliminar una tabla.
 
 ### <a name="outlook-feature-updates"></a>Outlook: Actualizaciones de características
--   ** \@menciones:** Asegúrese de que los destinatarios saben que se le solicita para la entrada o acción mediante la inclusión de la arroba seguido por el nombre de la persona en el cuerpo de un elemento de correo electrónico o calendario. Esto agrega también automáticamente a la línea para. [Obtener más información](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   ** \@menciones:** Asegúrese de que los destinatarios saben que se le solicita para la entrada o acción mediante la inclusión de la arroba seguido por el nombre de la persona en el cuerpo de un elemento de correo electrónico o calendario. Esto también los agregará automáticamente a la línea Para. [Más información](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 -   **Tarjetas de resumen para reservas y paquetes de viajes:** Comprobar y realizar un seguimiento de reservas de viajes, así como entregas de paquetes, mediante tarjetas de resumen que se crean automáticamente en la Bandeja de entrada y el calendario. [Más información](https://blogs.office.com/2016/06/28/stay-on-top-of-your-travel-and-deliveries-with-outlook/)
 -   **Minivistas previas de fotos adjuntas**: Cuando se adjunta una foto a un correo electrónico, Outlook muestra una pequeña vista previa de la foto en el mensaje.
 -   **Vínculo Recuperar elementos eliminados:** En la carpeta Elementos eliminados, aparece un vínculo "Recuperar elementos eliminados recientemente de esta carpeta" sobre la lista de elementos eliminados y abre el cuadro de diálogo Recuperar elementos eliminados cuando se selecciona el vínculo.
@@ -1035,7 +1035,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 -   **Se han agrupado las características de colaboración en la cinta de opciones:** Las características como Compartir, Chatear, los comentarios, la actividad de los documentos y los usuarios que están editando el documento se han agrupado en la cinta de opciones. [Más información](https://blogs.office.com/2016/04/26/new-to-office-365-in-april-skype-for-business-mac-preview-bringing-collaboration-to-the-forefront-in-office-and-more/)
 -   **Pulse:** Buscar y reutilizar contenido de los documentos pertinentes de la organización. [Más información](https://support.office.com/article/860118fc-1f61-41f6-922f-40084a284658)
 
-### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
+### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Actualización de seguridad para Microsoft Office (3170008)
 -   Boletín de seguridad Microsoft [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Actualización de seguridad para Microsoft Office (3177451)
 -   Boletín de seguridad Microsoft [MS16-121](https://technet.microsoft.com/library/security/ms16-121): Actualización de seguridad para Microsoft Office (3194063)
@@ -1088,7 +1088,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 ## <a name="version-1605-january-10"></a>Versión 1605: 10 de enero
 *Versión 1605 (compilación 6965.2117)*
 
-### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
+### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS17-002](https://technet.microsoft.com/library/security/ms17-002): Actualización de seguridad para Microsoft Office (3214291)
 
 
@@ -1098,5 +1098,5 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 
 *Esta es la versión de canal aplazado que ha estado disponible desde junio de 2016. Continuará ser compatibles y recibir actualizaciones de seguridad hasta febrero de 2017. Pero ahora está disponible una nueva versión de canal aplazado: versión 1605 (compilación 6965.2117), que contiene las nuevas características, actualizaciones de seguridad y las actualizaciones de seguridad que no sean.*
 
-### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
+### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS17-002](https://technet.microsoft.com/library/security/ms17-002): Actualización de seguridad para Microsoft Office (3214291)

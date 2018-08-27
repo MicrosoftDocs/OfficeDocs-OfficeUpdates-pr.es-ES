@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Proporciona a que los profesionales de TI con notas de la versión para delimitadas anuales del canal libera para Office 365 ProPlus en 2016
 ms.openlocfilehash: b70dda115d271a4ec0779c4b99927275dae7969d
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/04/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "19556404"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2016"></a>Notas de la versión para las versiones delimitadas anuales del canal en 2016
 
 Estas notas de la versión proporcionan información sobre nuevas características, actualizaciones de seguridad y las actualizaciones de seguridad comunes que se incluyen en las actualizaciones para Office 365 ProPlus delimitadas anuales del canal en 2016. 
 > [!NOTE]
-> - El siguiente también proporciona la información acerca de las nuevas características, actualizaciones de seguridad y las actualizaciones de seguridad que no sean para Visio Pro a para el cliente de escritorio de Project Online y Office 365.
-> - Esta información también se aplica a Office 365 empresarial, que es la versión de Office que se incluye con algunos planes de Office 365, como Business Premium.
-> - Punto y anuales del canal se ha denominado canal aplazada antes de enero de 2018.
+> - Lo siguiente también proporciona información sobre características nuevas, actualizaciones de seguridad y no relacionadas con la seguridad para Visio Pro para Office 365 y el cliente de escritorio de Project Online.
+> - Esta información también se aplica a Office 365 Empresa, que es la versión de Office que viene con algunos planes de Office 365, como Empresa Premium.
+> - El Canal semianual se denominaba Canal diferido antes de enero de 2018.
 
 
 ## <a name="version-1605-december-13"></a>Versión 1605: 13 de diciembre
@@ -89,7 +89,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 -   Corrección de un problema que provocaba que el menú desplegable Tamaño de campo para los tipos de datos Número no mostrase ningún valor, de modo que el usuario no podía especificar el tipo del campo Número al crear o modificar una tabla.
 
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
--   **Obtener & transformación mejoras:** Transformación de datos nuevas o mejoradas y características de conectividad de datos de consulta de energía. [Obtener más información](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
+-   **Obtener & transformación mejoras:** Transformación de datos nuevas o mejoradas y características de conectividad de datos de consulta de energía. [Más información](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **Conexiones de datos adicionales:** Consulte datos desde orígenes JSON y Almacén de datos SQL de Azure.
 -   **Mejoras de Power Query:** Transformación de datos nueva y mejorada y funciones de conectividad de datos. [Más información](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **Compatibilidad con direcciones largas:** Las versiones de Excel de 32 bits pueden usar más memoria, si la hay. [Más información](https://support.microsoft.com/kb/3160741)
@@ -220,7 +220,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 -   **Configuración de la plantilla de directiva de derechos de AD RMS:** Se asegura de que la configuración de "Grant propietario (autor) derecho de control total sin expiración" tiene en cuenta cuando se aplica a los nuevos documentos de Word, Excel y PowerPoint, especialmente si se deshabilita la configuración. Si se deshabilita, el usuario ve una advertencia de que la aplicación de la plantilla puede restringir el acceso al documento.
  
 
-    Nota: Los documentos existentes ya protegidos con una plantilla que tenía esta configuración configurada no cambiará. El propietario todavía tendrá control total y no hay expiración en esos documentos.
+    Nota: Los documentos existentes ya protegidos con una plantilla que tenga esta opción configurada no sufrirán ningún cambio. El propietario seguirá teniendo control total y sin expiración en esos documentos.
 
 ### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Actualización de seguridad para Microsoft Office (3155544)
@@ -451,7 +451,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 -   Se soluciona un problema en el que los elementos de la lista Desde no se destacan completamente en el modo de alto contraste.
 -   Se soluciona un problema en el que solo se selecciona el primer dato adjunto al usar Mayús + Clic para seleccionar varios datos adjuntos.
 -   Se soluciona un problema en el que, si un servidor está configurado para usar POP3, todos los mensajes de correo que contiene dicho servidor se suprimen de la Bandeja de entrada después de que Outlook los descargue. [Más información sobre este problema](https://support.microsoft.com/kb/3145116)
--   Corregir un problema que, cuando se configura para usar POP3, los mensajes de correo se descargan varias veces, lo que provoca que los elementos duplicados. [Para obtener más información acerca de este problema](https://support.microsoft.com/kb/3145116)
+-   Corregir un problema que, cuando se configura para usar POP3, los mensajes de correo se descargan varias veces, lo que provoca que los elementos duplicados. [Más información sobre este problema](https://support.microsoft.com/kb/3145116)
 -   Se soluciona un problema en el que los usuarios no pueden acceder a las carpetas públicas hospedadas en Exchange Server 2010.
 -   Se soluciona un problema en el que las imágenes se muestran con un tamaño incorrecto al enviar un correo entre un dispositivo con valores altos de PPP y un monitor con valores normales de PPP.
 -   Se soluciona un problema en el que, al arrastrar la barra de desplazamiento en una lista de mensajes, la lista salta al final de esta.
@@ -465,7 +465,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 -   **Transición de transformación:** cree transiciones perfectas entre diapositivas e incluya movimiento en las presentaciones para transmitir con mayor eficacia conceptos e información. [Más información](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **Diseñador de PowerPoint:** un nuevo servicio que le permite usar su contenido para generar automáticamente una amplia variedad de ideas entre las que puede elegir para mejorar la apariencia de sus diapositivas. [Más información](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    Este servicio requiere conectividad a Internet. Para deshabilitar esta característica, [Utilice los últimos archivos de plantilla administrativa de directiva de grupo](https://www.microsoft.com/download/details.aspx?id=49030) y habilitar a la configuración de opciones del Diseñador de PowerPoint. Puede encontrar esta configuración de directiva bajo Configuración de usuario\\plantillas administrativas\\Microsoft Office 2016\\herramientas | Opciones | General | Opciones de servicio... \\El Diseñador de PowerPoint.
+    Para usar este servicio se necesita conectividad a Internet. Para deshabilitar esta característica, [Utilice los últimos archivos de plantilla administrativa de directiva de grupo](https://www.microsoft.com/download/details.aspx?id=49030) y habilitar a la configuración de opciones del Diseñador de PowerPoint. Encontrará esta configuración de directiva en Configuración de usuario\\Plantillas administrativas\\Microsoft Office 2016\\Herramientas | Opciones | General | Opciones de servicios...\\Diseñador de PowerPoint.
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS15-116](https://technet.microsoft.com/library/security/ms15-116): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3104540)
@@ -582,7 +582,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 -   **Ordenar la funcionalidad en Archivo \> Abrir:** Ordenar por nombre o fecha modificada en Archivo \> Abrir en todas las aplicaciones excepto en Outlook. Para Word, Excel y PowerPoint, la ordenación también está disponible en Archivo \> Guardar como.
 -   **Funcionalidad de exploración en carpetas en Archivo \> Guardar como:** Use la navegación completa por carpetas en Archivo \> Guardar como en Word, Excel y PowerPoint para las carpetas de OneDrive, las carpetas de OneDrive para la Empresa y este equipo PC.
 -   **Opciones de Enviar como:** Envíe un documento como datos adjuntos o como un archivo PDF desde el panel Compartir en Word o en PowerPoint.
--   **Insertar imagen API:** Insertar imágenes en Word, Excel o PowerPoint mediante el [método document.setSelectedDataAsync](https://msdn.microsoft.com/library/office/fp142145.aspx) en la biblioteca de office.js común. La API de JavaScript de Word proporciona métodos específicos del host llamados insertInlinePictureFromBase64() para establecer las imágenes en línea en el [cuerpo](https://msdn.microsoft.com/library/office/mt598674.aspx), [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [párrafo](https://msdn.microsoft.com/library/office/mt598682.aspx)y objetos Range.
+-   **API de Insertar imagen:** Inserte imágenes en Word, Excel o PowerPoint con el [método document.setSelectedDataAsync](https://msdn.microsoft.com/library/office/fp142145.aspx) en la biblioteca office.js. La API de JavaScript de Word proporciona métodos específicos de hosts denominados insertInlinePictureFromBase64() para establecer imágenes incorporadas en los objetos [Body](https://msdn.microsoft.com/library/office/mt598674.aspx), [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [Párrafo](https://msdn.microsoft.com/library/office/mt598682.aspx)y Range.
 
 ### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Ciertas vulnerabilidades de Microsoft Office podrían permitir la ejecución remota de código (3080790)
@@ -663,7 +663,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 ## <a name="version-1509-may-10"></a>Versión 1509: 10 de mayo
 *Versión 1509 (compilación 6001.1078)*
 
-### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
+### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Actualización de seguridad para Microsoft Office (3155544)
 
 ### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones de seguridad
@@ -685,7 +685,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 ## <a name="version-1509-march-8"></a>Versión 1509: 8 de marzo
 *Versión 1509 (compilación 6001.1068)*
 
-### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
+### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS16-029](https://technet.microsoft.com/library/security/ms16-029): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3141806)
 
 ### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones de seguridad

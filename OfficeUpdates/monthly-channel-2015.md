@@ -11,10 +11,10 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Proporciona a que los profesionales de TI con notas de la versión para canal mensual libera para Office 365 ProPlus en 2015
 ms.openlocfilehash: 0b235ba177dd2378cbb953315e2ead6b692ed52b
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/04/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "19556398"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2015"></a>Notas de la versión para las versiones de canal mensual en 2015
@@ -22,8 +22,8 @@ ms.locfileid: "19556398"
 Estas notas de la versión proporcionan información sobre nuevas características, actualizaciones de seguridad y las actualizaciones de seguridad comunes que se incluyen en las actualizaciones de canal mensual a Office 365 ProPlus en 2015.
  
 > [!NOTE]
-> - El siguiente también proporciona la información acerca de las nuevas características, actualizaciones de seguridad y las actualizaciones de seguridad que no sean para Visio Pro a para el cliente de escritorio de Project Online y Office 365.
-> - Esta información también se aplica a Office 365 empresarial, que es la versión de Office que se incluye con algunos planes de Office 365, como Business Premium.
+> - Lo siguiente también proporciona información sobre características nuevas, actualizaciones de seguridad y no relacionadas con la seguridad para Visio Pro para Office 365 y el cliente de escritorio de Project Online.
+> - Esta información también se aplica a Office 365 Empresa, que es la versión de Office que viene con algunos planes de Office 365, como Empresa Premium.
 > - Canal mensual se ha denominado canal actual antes de septiembre de 2017.
 
 ## <a name="version-1511-december-11"></a>Versión 1511: 11 de diciembre
@@ -55,7 +55,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 -   **Transición de transformación:** cree transiciones perfectas entre diapositivas e incluya movimiento en las presentaciones para transmitir con mayor eficacia conceptos e información. [Más información](https://support.office.com/article/8dd1c7b2-b935-44f5-a74c-741d8d9244ea)
 -   **Diseñador de PowerPoint:** un nuevo servicio que le permite usar su contenido para generar automáticamente una amplia variedad de ideas entre las que puede elegir para mejorar la apariencia de sus diapositivas. [Más información](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    Este servicio requiere conectividad a Internet. Para deshabilitar esta característica, [Utilice los últimos archivos de plantilla administrativa de directiva de grupo](https://www.microsoft.com/download/details.aspx?id=49030) y habilitar a la configuración de opciones del Diseñador de PowerPoint. Puede encontrar esta configuración de directiva bajo Configuración de usuario\\plantillas administrativas\\Microsoft Office 2016\\herramientas | Opciones | General | Opciones de servicio... \\El Diseñador de PowerPoint.
+    Para usar este servicio se necesita conectividad a Internet. Para deshabilitar esta característica, [Utilice los últimos archivos de plantilla administrativa de directiva de grupo](https://www.microsoft.com/download/details.aspx?id=49030) y habilitar a la configuración de opciones del Diseñador de PowerPoint. Encontrará esta configuración de directiva en Configuración de usuario\\Plantillas administrativas\\Microsoft Office 2016\\Herramientas | Opciones | General | Opciones de servicios...\\Diseñador de PowerPoint.
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que los elementos gráficos SmartArt con animaciones no se muestran en la secuencia esperada en la vista de presentación con la vista Moderador.
@@ -159,7 +159,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 ### <a name="visio-security-updates"></a>Visio: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS15-116](https://technet.microsoft.com/library/security/ms15-116): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3104540)
 
-### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
+### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS15-116](https://technet.microsoft.com/library/security/ms15-116): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3104540)
 
 ### <a name="word-non-security-updates"></a>Word: Actualizaciones no relacionadas con la seguridad
@@ -260,7 +260,7 @@ Se trata de la versión inicial de este canal. Esta versión ofrece la primera d
 ### <a name="visio-security-updates"></a>Visio: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Ciertas vulnerabilidades de Microsoft Office podrían permitir la ejecución remota de código (3080790)
 
-### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
+### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Ciertas vulnerabilidades de Microsoft Office podrían permitir la ejecución remota de código (3080790)
 
 ### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones de seguridad
