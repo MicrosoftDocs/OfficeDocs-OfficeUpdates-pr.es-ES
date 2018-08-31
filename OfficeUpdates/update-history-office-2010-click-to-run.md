@@ -3,25 +3,25 @@ title: Historial de actualizaciones de productos de Office 2010 Click-to-Run
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 7/10/2018
+ms.date: 8/14/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Proporciona los profesionales de TI con un historial de actualización para perpetua, versiones de Office 2010 que usan Click-to-Run
-ms.openlocfilehash: dd6eb645d367ff319d84d6a2ac472e0505b72224
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: be133a3e9e86c9587dfeb741bb39ad2208698734
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246320"
+ms.lasthandoff: 08/27/2018
+ms.locfileid: "23520532"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Historial de actualizaciones de productos de Office 2010 Click-to-Run
 
 Los siguientes productos de Office 2010 se mantienen actualizados automáticamente mediante el uso de una tecnología llamada Click-to-Run.
   
-- Office Hogar y Pequeña Empresa 2010
+- Office Hogar y Empresas 2010
     
 - Office Hogar y Estudiantes 2010
     
@@ -30,7 +30,7 @@ Los siguientes productos de Office 2010 se mantienen actualizados automáticamen
 Si está utilizando uno de estos productos, y que le gustaría comprobar que está actualizado, compruebe su número de versión de Office y Office si es necesario para actualizar manualmente.
   
 > [!NOTE]
-> La versión más reciente de Office 2010 es **14.0.7211.5000**, que se lanzó en el 10 de julio de 2018. 
+> La versión más reciente de Office 2010 es **14.0.7212.5000**, que se lanzó en 14 de agosto de 2018. 
   
 Para comprobar su versión de Office, siga estos pasos:
   
@@ -54,7 +54,8 @@ Las versiones nuevas incluyen todas las actualizaciones de versiones anteriores.
   
 |**Año de publicación**|**Fecha de publicación**|**Número de versión**|**Más información**|
 |:-----|:-----|:-----|:-----|
-|2018 |El 10 de julio  <br/> |14.0.7211.5000  <br/> |[KB 4340798](https://support.microsoft.com/en-us/help/4340798) <br/> |
+|2018 |14 de agosto  <br/> |14.0.7212.5000  <br/> |[KB 4346823](https://support.microsoft.com/en-us/help/4346823) <br/> |
+||10 de julio  <br/> |14.0.7211.5000  <br/> |[KB 4340798](https://support.microsoft.com/en-us/help/4340798) <br/> |
 ||12 de junio  <br/> |14.0.7210.5000  <br/> |[KB 4299875](https://support.microsoft.com/en-us/help/4299875) <br/> |
 ||8 de mayo  <br/> |14.0.7209.5000  <br/> |[KB 4133083](https://support.microsoft.com/en-us/help/4133083) <br/> |
 ||10 de abril  <br/> |14.0.7197.5000  <br/> |[KB 4098622](https://support.microsoft.com/en-us/help/4098622) <br/> |
