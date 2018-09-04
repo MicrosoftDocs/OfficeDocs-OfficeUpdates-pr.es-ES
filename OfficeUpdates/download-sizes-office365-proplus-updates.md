@@ -3,19 +3,19 @@ title: Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/2/2018
+ms.date: 8/14/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Office 365 ProPlus según el canal de actualización.
-ms.openlocfilehash: 8ef3c924269c690e50766dc90caaa46a967879ba
-ms.sourcegitcommit: 3a7c59901d43bbff19d1ee3e675c66d0412ab8f7
+ms.openlocfilehash: 8590b1e56a9f3322947a890d9a94c8b57e4d468b
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/02/2018
-ms.locfileid: "21772497"
+ms.lasthandoff: 08/27/2018
+ms.locfileid: "23520602"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 
@@ -35,6 +35,37 @@ Para obtener información sobre las características, las actualizaciones de seg
 > - Se muestran solo las versiones de los últimos cuatro meses.
 > - En las tablas solo aparecen las versiones anteriores más recientes. Si va a realizar la actualización desde una versión más antigua, el tamaño de descarga será mayor.
 > - Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal semianual, el tamaño de actualización será considerablemente mayor que el que se muestra en la tabla, ya que puede comportar una descarga completa, con un mínimo de 1 GB. 
+
+  ## <a name="august-14-2018"></a>14 de agosto de 2018
+
+### <a name="monthly-channel"></a>Canal mensual
+
+La versión más actual es la 1807 (compilación 10325.20118).
+  
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1807 (compilación 10325.20082)  <br/> |25 de julio de 2018  <br/> |82  <br/> |
+|Versión 1807 (compilación 10228.20134)  <br/> |17 de julio de 2018  <br/> |183  <br/> |
+
+  
+### <a name="semi-annual-channel"></a>Canal semianual
+
+La versión más actual es la 1803 (compilación 9126.2275).
+  
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1803 (compilación 8431.2259)  <br/> |10 de julio de 2018  <br/> |86  <br/> |
+|Versión 1708 (compilación 8431.2270)  <br/> |12 de junio de 2018  <br/> |279  <br/> |
+
+  
+### <a name="semi-annual-channel-targeted"></a>Canal semianual (dirigido)
+
+La versión más actual es la 1803 (compilación 9126.2275).
+  
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1803 (compilación 8431.2259)  <br/> |10 de julio de 2018  <br/> |86  <br/> |
+|Versión 1803 (compilación 9126.2227)  <br/> |12 de junio de 2018  <br/> |94  <br/> |
 
   ## <a name="july-25-2018"></a>25 de julio de 2018
 
@@ -60,9 +91,6 @@ La versión más actual es la 1806 (compilación 10228.20104).
 |Versión 1805 (compilación 9330.2118)  <br/> |12 de junio de 2018  <br/> |401  <br/> |
 |Versión 1805 (compilación 9330.2087)  <br/> |24 de mayo de 2018  <br/> |150  <br/> |
 
-   
-### <a name="semi-annual-channel"></a>Canal semianual
-
 La versión más actual es la 1803 (compilación 9126.2259).
   
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
@@ -76,8 +104,8 @@ La versión más actual es la 1803 (compilación 9126.2259).
   
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
-|Versión 1803 (compilación 9126.2210)  <br/> |12 de junio de 2018  <br/> |78  <br/> |
-|Versión 1803 (compilación 9126.2191)  <br/> |18 de mayo de 2018  <br/> |85  <br/> | 
+|Versión 1803 (compilación 9126.2227)  <br/> |12 de junio de 2018  <br/> |78  <br/> |
+|Versión 1803 (compilación 9126.2210)  <br/> |18 de mayo de 2018  <br/> |85  <br/> | 
 
 
 ## <a name="june-25-2018"></a>25 de junio de 2018
@@ -127,6 +155,14 @@ La versión más actual es la 1708 (compilación 8431.2270).
 |Versión 1708 (compilación 8431.2242)  <br/> |10 de abril de 2018  <br/> |57  <br/> |
    
 ### <a name="semi-annual-channel-targeted"></a>Canal semianual (dirigido)
+
+La versión más actual es la 1803 (compilación 9126.2275).
+  
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1708 (compilación 8431.2227)  <br/> |12 de junio de 2018  <br/> |94  <br/> |
+|Versión 1708 (compilación 8431.2259)  <br/> |10 de julio de 2018  <br/> |86  <br/> |
+|Versión 1708 (compilación 8431.2270)  <br/> |12 de junio de 2018  <br/> |279  <br/> |
 
 La versión más actual es la 1803 (compilación 9126.2227).
   
@@ -386,4 +422,5 @@ La versión más actual es la 1801 (compilación 9001.2138).
 - [Historial de actualizaciones de Office 365 ProPlus (ordenado por fecha)](update-history-office365-proplus-by-date.md)
 - [Historial de actualizaciones de Office 365 ProPlus (ordenado por versión)](update-history-office365-proplus-by-version.md)
 
-NOTA: Si necesita ayuda con algún problema de uso de Office, le recomendamos que publique la pregunta en el [foro de preguntas de Microsoft] (https://answers.microsoft.com/) o [Tech Community] (https://techcommunity.microsoft.com/), o puede ponerse en contacto con el [servicio de soporte técnico] (https://support.microsoft.com/contactus).
+> [!NOTE]
+> Si necesita ayuda para solucionar un problema relacionado con Office, le recomendamos que publique su pregunta en el [foro de respuestas de Microsoft](https://answers.microsoft.com/) o en [Tech Community](https://techcommunity.microsoft.com/), o que se ponga en contacto con el [soporte](https://support.microsoft.com/contactus).
