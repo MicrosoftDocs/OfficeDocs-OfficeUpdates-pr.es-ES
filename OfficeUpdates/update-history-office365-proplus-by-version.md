@@ -3,19 +3,19 @@ title: Historial de actualizaciones de Office 365 ProPlus (ordenado por versión
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/15/2018
+ms.date: 9/5/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista completa de las versiones de Office 365 ProPlus, organizada por versión, con vínculos a las notas de la versión.
-ms.openlocfilehash: a9abb37f205f25c5cc755c20aded3bd696e01826
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: 189fbb1a1342046e9796d788a2dfa7d26e66b7c1
+ms.sourcegitcommit: fa4c6a1da115d4003b0d0f6a2d0fa1805e7829c6
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520672"
+ms.lasthandoff: 09/06/2018
+ms.locfileid: "23839188"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-version"></a>Historial de actualizaciones de Office 365 ProPlus (ordenado por versión)
  
@@ -30,7 +30,8 @@ En la tabla siguiente, se muestra una lista de los números de versión y compil
   
 |**Versión**|**Canal mensual**|**Canal semianual (dirigido)**|**Canal semianual**|
 |:-----|:-----|:-----|:-----|
-|1807  <br/> |**[10325.20118](monthly-channel-2018.md#version-1807-august-14) (14 de agosto de 2018)** <br/>[10325.20082](monthly-channel-2018.md#version-1807-july-25) (25 de julio de 2018) <br/> |  <br/> | <br> |
+|1808  <br/> |**[10730.20088](monthly-channel-2018.md#version-1808-september-5) (5 de septiembre de 2018)** <br/> |  <br/> | <br/> |  <br/> |
+|1807  <br/> |[10325.20118](monthly-channel-2018.md#version-1807-august-14) (14 de agosto de 2018) <br/>[10325.20082](monthly-channel-2018.md#version-1807-july-25) (25 de julio de 2018) <br/> |  <br/> | <br> |
 |1806  <br/> |[10228.20134](monthly-channel-2018.md#version-1806-july-17) (17 de julio de 2018) <br/> [10228.20104](monthly-channel-2018.md#version-1806-july-10) (10 de julio de 2018) <br/>  <br/> [10228.20080](monthly-channel-2018.md#version-1806-june-25) (25 de junio de 2018) |  <br/> | <br> |
 |1805  <br/> |[9330.2124](monthly-channel-2018.md#version-1805-june-13) (13 de junio de 2018) <br/> [9330.2118](monthly-channel-2018.md#version-1805-june-12) (12 de junio de 2018) <br/> [9330.2087](monthly-channel-2018.md#version-1805-may-24) (24 de mayo de 2018) <br/> [9330.2078](monthly-channel-2018.md#version-1805-may-23) (23 de mayo de 2018) <br/> |  <br/> |  <br/> |
 |1804  <br/> |[9226.2156](monthly-channel-2018.md#version-1804-may-14) (14 de mayo de 2018) <br/> [9226.2126](monthly-channel-2018.md#version-1804-may-8) (8 de mayo de 2018) <br/>  [9226.2114](monthly-channel-2018.md#version-1804-april-25) (25 de abril de 2018) <br/> |  <br/> |  <br/> |

@@ -3,19 +3,19 @@ title: Historial de actualizaciones de Office 365 ProPlus (ordenado por fecha)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/25/2018
+ms.date: 9/5/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista completa de las versiones de Office 365 ProPlus, organizada por fecha, con vínculos a las notas de la versión.
-ms.openlocfilehash: 408a4936d0e6da5710764cbc210647ea3d4ecb62
-ms.sourcegitcommit: 3a7c59901d43bbff19d1ee3e675c66d0412ab8f7
+ms.openlocfilehash: 02c3c000930ee25a98f1a96c0bb27ad12b639bae
+ms.sourcegitcommit: fa4c6a1da115d4003b0d0f6a2d0fa1805e7829c6
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/02/2018
-ms.locfileid: "21772517"
+ms.lasthandoff: 09/06/2018
+ms.locfileid: "23839208"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Historial de actualizaciones de Office 365 ProPlus (ordenado por fecha)
 
@@ -28,12 +28,17 @@ En la tabla siguiente, se muestra una lista de los números de versión y compil
 > - El número de versión y compilación en negrita indica el número de versión y compilación más reciente de ese canal de actualización en concreto.
 > - Para obtener más información sobre los canales de actualización, vea [Información general de los canales de actualización para Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus).
 
-  
 
-|**Año**|**Fecha de publicación**|**Canal mensual**|**Canal semianual (dirigido)**|**Canal semianual **|
+
+|**Año**|**Fecha de publicación**|**Canal mensual**|**Canal semianual (dirigido)**|**Canal semianual**|
 |:-----|:-----|:-----|:-----|:-----|
-|2018|25 de julio   |[**Versión 1807 (compilación 10325.20082)**](monthly-channel-2018.md#version-1807-july-25) | | |
+|2018|5 de septiembre   |[**Versión 1808 (compilación 10730.20088)**](monthly-channel-2018.md#version-1808-september-5) | | |
+||25 de julio   |[Versión 1807 (compilación 10325.20082)](monthly-channel-2018.md#version-1807-july-25) | | |
 |2018|10 de julio   |[Versión 1806 (compilación 10228.20104)](monthly-channel-2018.md#version-1806-july-10) |[Versión 1803 (compilación 9126.2259)](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[Versión 1803 (compilación 9126.2259)](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [Versión 1708 (compilación 8431.2280)](semi-annual-channel-2018.md#version-1708-july-10)   |
+|2018|14 de agosto   |**[Versión 1807 (compilación 10325.20118)](monthly-channel-2018.md#version-1807-august-14)** |**[Versión 1803 (compilación 9126.2275)](semi-annual-channel-targeted-2018.md#version-1803-august-14)**  |**[Versión 1803 (compilación 9126.2275)](semi-annual-channel-2018.md#version-1803-august-14)**  <br/>  [Versión 1708 (compilación 8431.2299)](semi-annual-channel-2018.md#version-1708-august-14)   |
+||25 de julio   |[Versión 1807 (compilación 10325.20082)](monthly-channel-2018.md#version-1807-july-25) | | |
+||17 de julio   |[Versión 1806 (compilación 10228.20134)](monthly-channel-2018.md#version-1806-july-17) | | |
+||10 de julio   |[Versión 1806 (compilación 10228.20104)](monthly-channel-2018.md#version-1806-july-10) |[Versión 1803 (compilación 9126.2259)](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[Versión 1803 (compilación 9126.2259)](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [Versión 1708 (compilación 8431.2280)](semi-annual-channel-2018.md#version-1708-july-10)   |
 ||25 de junio   |[Versión 1806 (compilación 10228.20080)](monthly-channel-2018.md#version-1806-june-25) |||
 ||13 de junio   |[Versión 1805 (compilación 9330.2124)](monthly-channel-2018.md#version-1805-june-13) |||
 ||12 de junio   |[Versión 1805 (compilación 9330.2118)](monthly-channel-2018.md#version-1805-june-12)  |[Versión 1803 (compilación 9126.2227)](semi-annual-channel-targeted-2018.md#version-1803-june-12)  |[Versión 1708 (compilación 8431.2270)](semi-annual-channel-2018.md#version-1708-june-12)  <br/>  [Versión 1705 (compilación 8201.2294)](semi-annual-channel-2018.md#version-1705-may-8)   |
@@ -153,6 +158,6 @@ En la tabla siguiente, se muestra una lista de los números de versión y compil
 - [Información de publicación de actualizaciones para Office 365 ProPlus](release-notes-office365-proplus.md)
 - [Tamaños de descarga de las actualizaciones de Office 365 ProPlus](download-sizes-office365-proplus-updates.md)
 
-
-NOTA: Si necesita ayuda con algún problema de uso de Office, le recomendamos que publique la pregunta en el [foro de Answers de Microsoft] (https://answers.microsoft.com/) o [Tech Community] (https://techcommunity.microsoft.com/), o puede ponerse en contacto con el [servicio de soporte técnico] (https://support.microsoft.com/contactus).
+> [!NOTE]
+> Si necesita ayuda para solucionar un problema relacionado con Office, le recomendamos que publique su pregunta en el [foro de respuestas de Microsoft](https://answers.microsoft.com/) o de [Tech Community](https://techcommunity.microsoft.com/), o que se ponga en contacto con [soporte](https://support.microsoft.com/contactus).
 
