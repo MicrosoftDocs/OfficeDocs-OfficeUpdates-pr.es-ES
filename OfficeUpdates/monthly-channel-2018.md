@@ -3,44 +3,74 @@ title: Notas de la versión para las versiones de Canal mensual en 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/15/2018
+ms.date: 9/5/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2018.
-ms.openlocfilehash: 34a789416bbd4f6ac436842d7d6ebb45a249a732
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: d4ec019cd46b154156dfc78e1aa4b9eb321a2913
+ms.sourcegitcommit: fa4c6a1da115d4003b0d0f6a2d0fa1805e7829c6
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520692"
+ms.lasthandoff: 09/06/2018
+ms.locfileid: "23839218"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de la versión para las versiones de Canal mensual en 2018
 
 En estas notas de la versión, se proporciona información sobre características nuevas, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones de Canal mensual para Office 365 ProPlus en 2018.
  
-> [!NOTE]
+ > [!NOTE]
 > - Lo siguiente también proporciona información sobre características nuevas, actualizaciones de seguridad y no relacionadas con la seguridad para Visio Pro para Office 365 y el cliente de escritorio de Project Online.
 > - Esta información también se aplica a Office 365 Empresa, que es la versión de Office que viene con algunos planes de Office 365, como Empresa Premium.
+
+## <a name="version-1808-september-5"></a>Versión 1808: 5 de septiembre
+*Versión 1808 (compilación 10730.20088)*
+
+### <a name="access-feature-updates"></a>Access: Actualizaciones de características
+ - **Actualizar, volver a vincular o quitar las tablas vinculadas** El Administrador de tablas vinculadas actualizado es la ubicación para administrar todos los orígenes de datos y las tablas vinculadas. [Obtener más información](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
+
+### <a name="outlook-feature-updates"></a>Outlook: Actualizaciones de características
+ - **Desactivar la transferencia de una reunión** Impide a los asistentes el reenvío de la reunión a otras personas. Solo tiene que ir a la cinta de opciones y hacer clic en Opciones de respuesta. [Obtener más información](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)
+ 
+### <a name="visio-feature-updates"></a>Visio: Actualizaciones de características
+ - **Disfrute de un momento icónico en el diagrama siguiente** Elija de entre 26 nuevas galerías de símbolos con iconos para análisis, arte, cumpleaños, caras, deportes y mucho más. 
+ - **Crear un documento de Word con formas de Visio** Agregue automáticamente el contenido del diagrama, incluidas las formas y los metadatos, a un documento de Word. A continuación, personalice el documento para crear manuales de operación e instrucciones de proceso. [Obtener más información](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+ - **Visio y Power BI: mejor juntos** Con unos pocos clics, convierta su diagrama de Visio en un visualización Power BI interactiva. [Obtener más información](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+
+ ### <a name="project-feature-updates"></a>Project: Actualizaciones de características
+ - **Vea más información en las tarjetas del panel de tareas** Cuando el título por sí solo no lo dice todo, personalice las tarjetas de panel de tareas para mostrar todos los detalles más importantes. [Obtener más información](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
+
+### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
+- Soluciona un problema en Excel por el cual la línea de puntos que marca el intervalo de celdas que un usuario ha seleccionado para la copia no desaparece y permanece en el portapapeles incluso después de una operación de usuario posterior como pegar. 
+
+### <a name="outlook-non-security-updates"></a>Outlook: Actualizaciones no relacionadas con la seguridad
+ - Resuelve un problema que causaba que el vínculo "Haga clic aquí para ver más..." faltara en la lista de resultados de búsqueda para algunos usuarios con varias cuentas de Exchange configuradas.
+
+### <a name="office-suite-non-security-updates"></a>Office Suite: Actualizaciones no relacionadas con la seguridad
+ - Se ha corregido un problema que causaba que la instalación de las actualizaciones tardase mucho tiempo en determinados escenarios.
+ 
+### <a name="lync-non-security-updates"></a>Lync: Actualizaciones no relacionadas con la seguridad
+ - Corrige un problema que impedía que se mostraran iconos gestuales en los mensajes de mensajería instantánea. 
+
 
 ## <a name="version-1807-august-14"></a>Versión 1807: 14 de agosto
 *Versión 1807 (compilación 10325.20118)*
 
-### <a name="access-security-updates"></a>Access: actualizaciones de seguridad
+### <a name="access-security-updates"></a>Access: Actualizaciones de seguridad
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): vulnerabilidad de uso posterior gratis de la ejecución de código remoto de Microsoft Access
 
-### <a name="excel-security-updates"></a>Excel: actualizaciones de seguridad
+### <a name="excel-security-updates"></a>Excel: Actualizaciones de seguridad
 -   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): vulnerabilidad de la ejecución remota de código de Microsoft Excel 
 -   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379): vulnerabilidad de la ejecución remota de código de Microsoft Excel 
 -   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): vulnerabilidad de divulgación de información de Microsoft Excel 
 
-### <a name="outlook-security-updates"></a>Outlook: actualizaciones de seguridad
--   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): actualizaciónn de defensa en profundidad de Microsoft Office 
+### <a name="outlook-security-updates"></a>Outlook: Actualizaciones de seguridad
+-   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): actualización de defensa en profundidad de Microsoft Office 
 
-### <a name="office-suite-security-updates"></a>Office Suite: actualizaciones de seguridad
--   [ CVE-2018-8378: vulnerabilidad de divulgación de información de Microsoft Office](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378) 
+### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones de seguridad
+-   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378): vulnerabilidad de divulgación de información de Microsoft Office 
 
 ## <a name="version-1807-july-25"></a>Versión 1807: 25 de julio
 *Versión 1807 (compilación 10325.20082)*
@@ -84,12 +114,12 @@ En estas notas de la versión, se proporciona información sobre característica
 *Versión 1806 (compilación 10228.20080)*
 
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
- - **Edición de la barra de fórmulas y las celdas mejorada:** ahora, puede usar CTRL + A para seleccionar el texto de una celda o de la barra de fórmulas. También se ha mejorado la compatibilidad con los emojis y otros caracteres complejos.
+ - **Edición mejorada de la barra de fórmulas y celdas:** Ahora puede usar CTRL+A para seleccionar texto en una celda o en la barra de fórmulas. También se ha mejorado la compatibilidad con los emojis y otros caracteres complejos.[Más información](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
  - **Compatibilidad con el formato SVG mejorada:** puede insertar imágenes SVG que tengan filtros aplicados. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-feature-updates"></a>Outlook: Actualizaciones de características
  - **Valor predeterminado de periodicidad: ** en el cuadro de diálogo Periodicidad de citas (en “Rango de periodicidad”), “Finalizar antes de” es la opción de configuración predeterminada (en lugar de “Sin fecha de finalización”) y es la primera opción de la lista; además, se establece una fecha de finalización predeterminada.
- - **Mejoras del Comprobador de accesibilidad:** el Comprobador de accesibilidad ha actualizado la asistencia técnica para las normas internacionales y recomendaciones para que los mensajes sean más accesible.
+ - **Mejoras del Comprobador de accesibilidad:** el Comprobador de accesibilidad ha actualizado la asistencia técnica para las normas internacionales y recomendaciones para que los mensajes sean más accesibles. [Obtener más información](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Actualizaciones de características
  - **Compatibilidad con el formato SVG mejorada:** puede insertar imágenes SVG que tengan filtros aplicados. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
@@ -152,10 +182,10 @@ En estas notas de la versión, se proporciona información sobre característica
 ### <a name="access-feature-updates"></a>Access: Actualizaciones de características
  - **Visualizar datos con nuevos gráficos:** elija entre 11 gráficos y agregue uno a los formularios e informes para visualizar mejor los datos y tomar decisiones fundamentadas. [Más información](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
 
-### <a name="excel-feature-updates"></a>Excel: actualizaciones de características
+### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
  - **Chat con coautores al editar:** colabore de forma más eficaz al chatear con los coautores sin salir de Excel. Tenga en cuenta que esta característica no está disponible en algunas regiones.[Más información](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
 
-### <a name="outlook-feature-updates"></a>Outlook: actualizaciones de características
+### <a name="outlook-feature-updates"></a>Outlook: Actualizaciones de características
  - **Escribir sin manos:** use su voz para crear correos electrónicos simplemente dictando. No es necesario escribir. [Más información](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
  - **Ver tres zonas horarias:** ¿necesita programar una reunión en distintas zonas horarias? Agregue varias zonas horarias al calendario para ver la disponibilidad de todos los usuarios fácilmente y seleccione una hora adecuada para todos. [Más información](https://support.office.com/article/5ab3e10e-5a6c-46af-ab48-156fedf70c04)
  - **Uso compartido de calendarios simplificado:** compartir sus calendarios es más fácil y ahora los calendarios compartidos desde el escritorio de Outlook están disponibles en la aplicación móvil de Outlook. [Más información](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
@@ -211,8 +241,8 @@ En estas notas de la versión, se proporciona información sobre característica
 *Versión 1804 (compilación 9226.2114)*
 
 ### <a name="outlook-feature-updates"></a>Outlook: Actualizaciones de características
--   **Escuchar sus correos electrónicos:** Outlook puede leer el correo electrónico en voz alta y resaltar texto a medida que se lee. [Más información](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
--   **Nunca pierda un aviso:** establezca avisos para que aparezcan elementos emergentes en las ventanas mientras está trabajando. En caso contrario, Outlook parpadeará en la barra de tareas para llamar su atención.
+-   **Escuche sus correos electrónicos:** Outlook puede leer el correo electrónico en voz alta y resaltar texto a medida que se lee. [Más información](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
+-   **Nunca pierda un aviso:** establezca avisos para que aparezcan elementos emergentes en las ventanas mientras está trabajando. En caso contrario, Outlook parpadeará en la barra de tareas para llamar su atención.[Más información](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 -   **Marcar los elementos eliminados como leído:** ahora puede establecer como leídos los mensajes que elimine. Para hacerlo, vaya a Archivo \> Opciones \> Correo \> Otros.
 -   **Opción de cifrar:** los usuarios de cifrado de mensajes de Office 365 pueden cifrar un mensaje y enviarlo a cualquier usuario dentro o fuera de su organización. La opción Cifrar aparece en Opciones \> Permisos al crear un mensaje. [Más información](https://aka.ms/omeoverview)
 
@@ -444,4 +474,4 @@ En estas notas de la versión, se proporciona información sobre característica
 -   Se ha solucionado un problema por el que se pierde código VBA de proyectos.
 
 > [!NOTE]
-> Si necesita ayuda para solucionar un problema relacionado con Office, le recomendamos que publique su pregunta en el [foro de respuestas de Microsoft](https://answers.microsoft.com/) o de [Tech Community](https://techcommunity.microsoft.com/), o que se ponga en contacto con el [soporte](https://support.microsoft.com/contactus).
+> Si necesita ayuda para solucionar un problema relacionado con Office, le recomendamos que publique su pregunta en el [foro de respuestas de Microsoft](https://answers.microsoft.com/) o en [Tech Community](https://techcommunity.microsoft.com/), o que se ponga en contacto con el [soporte](https://support.microsoft.com/contactus).

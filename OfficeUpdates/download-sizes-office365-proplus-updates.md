@@ -3,19 +3,19 @@ title: Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/5/2018
+ms.date: 9/6/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Office 365 ProPlus según el canal de actualización.
-ms.openlocfilehash: f77d49e65138e26f9dac827a04d64d8800312551
-ms.sourcegitcommit: fa4c6a1da115d4003b0d0f6a2d0fa1805e7829c6
+ms.openlocfilehash: dcd67d8313f05a51c041799cd3a3c642334e98d8
+ms.sourcegitcommit: 54d6714d1475760fbdc61dff43d252883dfbf505
 ms.translationtype: HT
 ms.contentlocale: es-ES
 ms.lasthandoff: 09/06/2018
-ms.locfileid: "23839198"
+ms.locfileid: "23848388"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 
@@ -44,8 +44,9 @@ La versión más actual es la 1808 (compilación 10730.20088).
   
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
-|Versión 1807 (compilación 10325.20082)  <br/> |25 de julio de 2018  <br/> |237  <br/> |
 |Versión 1807 (compilación 10325.20118)  <br/> |14 de agosto de 2018  <br/> |231  <br/> |
+|Versión 1807 (compilación 10325.20082)  <br/> |25 de julio de 2018  <br/> |237  <br/> |
+
   ## <a name="august-14-2018"></a>14 de agosto de 2018
 
 ### <a name="monthly-channel"></a>Canal mensual

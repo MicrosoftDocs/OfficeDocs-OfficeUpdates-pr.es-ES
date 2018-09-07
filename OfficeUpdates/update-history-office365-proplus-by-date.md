@@ -3,19 +3,19 @@ title: Historial de actualizaciones de Office 365 ProPlus (ordenado por fecha)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/5/2018
+ms.date: 9/6/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista completa de las versiones de Office 365 ProPlus, organizada por fecha, con vínculos a las notas de la versión.
-ms.openlocfilehash: 02c3c000930ee25a98f1a96c0bb27ad12b639bae
-ms.sourcegitcommit: fa4c6a1da115d4003b0d0f6a2d0fa1805e7829c6
+ms.openlocfilehash: 59b431cf0379a96d47a6b0d4e07b4b1e991441d2
+ms.sourcegitcommit: 54d6714d1475760fbdc61dff43d252883dfbf505
 ms.translationtype: HT
 ms.contentlocale: es-ES
 ms.lasthandoff: 09/06/2018
-ms.locfileid: "23839208"
+ms.locfileid: "23848378"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Historial de actualizaciones de Office 365 ProPlus (ordenado por fecha)
 
@@ -33,9 +33,7 @@ En la tabla siguiente, se muestra una lista de los números de versión y compil
 |**Año**|**Fecha de publicación**|**Canal mensual**|**Canal semianual (dirigido)**|**Canal semianual**|
 |:-----|:-----|:-----|:-----|:-----|
 |2018|5 de septiembre   |[**Versión 1808 (compilación 10730.20088)**](monthly-channel-2018.md#version-1808-september-5) | | |
-||25 de julio   |[Versión 1807 (compilación 10325.20082)](monthly-channel-2018.md#version-1807-july-25) | | |
-|2018|10 de julio   |[Versión 1806 (compilación 10228.20104)](monthly-channel-2018.md#version-1806-july-10) |[Versión 1803 (compilación 9126.2259)](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[Versión 1803 (compilación 9126.2259)](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [Versión 1708 (compilación 8431.2280)](semi-annual-channel-2018.md#version-1708-july-10)   |
-|2018|14 de agosto   |**[Versión 1807 (compilación 10325.20118)](monthly-channel-2018.md#version-1807-august-14)** |**[Versión 1803 (compilación 9126.2275)](semi-annual-channel-targeted-2018.md#version-1803-august-14)**  |**[Versión 1803 (compilación 9126.2275)](semi-annual-channel-2018.md#version-1803-august-14)**  <br/>  [Versión 1708 (compilación 8431.2299)](semi-annual-channel-2018.md#version-1708-august-14)   |
+|2018|14 de agosto   |[Versión 1807 (compilación 10325.20118)](monthly-channel-2018.md#version-1807-august-14)|**[Versión 1803 (compilación 9126.2275)](semi-annual-channel-targeted-2018.md#version-1803-august-14)**  |**[Versión 1803 (compilación 9126.2275)](semi-annual-channel-2018.md#version-1803-august-14)**  <br/>  [Versión 1708 (compilación 8431.2299)](semi-annual-channel-2018.md#version-1708-august-14)   |
 ||25 de julio   |[Versión 1807 (compilación 10325.20082)](monthly-channel-2018.md#version-1807-july-25) | | |
 ||17 de julio   |[Versión 1806 (compilación 10228.20134)](monthly-channel-2018.md#version-1806-july-17) | | |
 ||10 de julio   |[Versión 1806 (compilación 10228.20104)](monthly-channel-2018.md#version-1806-july-10) |[Versión 1803 (compilación 9126.2259)](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[Versión 1803 (compilación 9126.2259)](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [Versión 1708 (compilación 8431.2280)](semi-annual-channel-2018.md#version-1708-july-10)   |
