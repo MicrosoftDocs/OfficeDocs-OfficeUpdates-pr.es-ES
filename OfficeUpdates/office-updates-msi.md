@@ -3,19 +3,19 @@ title: Últimas actualizaciones para las versiones de Office que usan Windows In
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 7/10/2018
+ms.date: 8/14/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI vínculos a la información de las últimas actualizaciones de las versiones perpetuas de Office 2016, Office 2013 y Office 2010.
-ms.openlocfilehash: 9d2a01abd6ad4b742a65c230510a0d897e76e435
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: 3b865b44cd18fdf825c0969f9724b841b70df697
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246300"
+ms.lasthandoff: 08/27/2018
+ms.locfileid: "23520512"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Últimas actualizaciones para las versiones de Office que usan Windows Installer (MSI)
 
@@ -32,33 +32,35 @@ Use los vínculos de esta página para obtener más información sobre las actua
 
 |**Versiones y productos**|**Service Pack (SP) más reciente**|**Actualización pública (AP) más reciente**|
 |:-----|:-----|:-----|
-|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |N/D  <br/> |Actualización pública de julio de 2018  <br/> [KB4340798](https://support.microsoft.com/es-ES/help/4340798) <br/> |
+|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |N/D  <br/> |Actualización pública de agosto de 2018  <br/> [KB4346823](https://support.microsoft.com/en-us/help/4346823) <br/> |
    
 ## <a name="office-2013-updates"></a>Actualizaciones de Office 2013
 
 |**Versiones y productos**|**Service Pack (SP) más reciente**|**Actualización pública (AP) más reciente**|
 |:-----|:-----|:-----|:-----|
-|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |Actualización pública de julio de 2018  <br/> [KB4340798](https://support.microsoft.com/es-ES/help/4340798) <br/> |
+|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |Actualización pública de agosto de 2018  <br/> [KB4346823](https://support.microsoft.com/en-us/help/4346823) <br/> |
    
 ## <a name="office-2010-updates"></a>Actualizaciones de Office 2010
 
 |**Versiones y productos**|**Service Pack (SP) más reciente**|**Actualización pública (AP) más reciente**|
 |:-----|:-----|:-----|:-----|
-|**2010** <br/> Conjuntos de aplicaciones de Office 2010  <br/> Project 2010  <br/> Visio 2010  <br/> Servidores de Office 2010  <br/> Office Web Apps  <br/> Search Server 2010  <br/> Productos de SharePoint 2010  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |Actualización pública de julio de 2018 <br/>[KB4340798](https://support.microsoft.com/es-ES/help/4340798) <br/>|
+|**2010** <br/> Conjuntos de aplicaciones de Office 2010  <br/> Project 2010  <br/> Visio 2010  <br/> Servidores de Office 2010  <br/> Office Web Apps  <br/> Search Server 2010  <br/> Productos de SharePoint 2010  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |Actualización pública de agosto de 2018 <br/>[KB4346823](https://support.microsoft.com/en-us/help/4346823) <br/>|
    
 
    
 ## <a name="updates-released-in-past-12-months"></a>Actualizaciones publicadas en los últimos 12 meses
 
+[Actualizaciones de seguridad y no relacionadas con la seguridad de agosto de 2018: KB4346823](https://support.microsoft.com/help/4346823)   
+
 [Actualizaciones de seguridad y no relacionadas con la seguridad de julio de 2018: KB4340798](https://support.microsoft.com/help/4340798)   
 
 [Actualizaciones de seguridad y no relacionadas con la seguridad de junio de 2018: KB4299875](https://support.microsoft.com/help/4299875)  
 
-[Actualizaciones de seguridad y no relacionadas con la seguridad de mayo de 2018: KB4133083 ](https://support.microsoft.com/es-ES/help/4133083)
+[Actualizaciones de seguridad y no relacionadas con la seguridad de mayo de 2018: KB4133083 ](https://support.microsoft.com/en-us/help/4133083)
   
-[Actualizaciones de seguridad y otro tipo de abril de 2018: KB4098622](https://support.microsoft.com/es-ES/help/4098622) 
+[Actualizaciones de seguridad y otro tipo de abril de 2018: KB4098622](https://support.microsoft.com/en-us/help/4098622) 
   
-[Actualizaciones de seguridad y otro tipo de marzo de 2018: KB4090988](https://support.microsoft.com/es-ES/help/4090988)  
+[Actualizaciones de seguridad y otro tipo de marzo de 2018: KB4090988](https://support.microsoft.com/en-us/help/4090988)  
   
 [Actualizaciones de seguridad y otro tipo de febrero de 2018: KB4077965](https://support.microsoft.com/help/4077965)  
   
@@ -71,8 +73,7 @@ Use los vínculos de esta página para obtener más información sobre las actua
 [Actualizaciones de seguridad y otro tipo de octubre de 2017: KB4043461](https://support.microsoft.com/help/4043461)   
   
 [Actualizaciones de seguridad y otro tipo de septiembre de 2017: KB4040279](https://support.microsoft.com/help/4040279)   
-  
-[Actualizaciones de seguridad y no relacionadas con la seguridad de agosto de 2017: KB4036121](https://support.microsoft.com/help/4036121)   
+
   
 
    
