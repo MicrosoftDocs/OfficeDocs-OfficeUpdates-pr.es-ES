@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Office 365 ProPlus según el canal de actualización.
-ms.openlocfilehash: dcd67d8313f05a51c041799cd3a3c642334e98d8
-ms.sourcegitcommit: 6fd38e73cb0d5051b1107f30e1aaa10f6213ccb1
+ms.openlocfilehash: d67b2e60def009d3a266de701b939e901fdc6935
+ms.sourcegitcommit: 8389afa2087ea4470d99634b931baa28e35c7cd1
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/12/2018
-ms.locfileid: "23954826"
+ms.lasthandoff: 09/13/2018
+ms.locfileid: "23965146"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 
@@ -45,38 +45,38 @@ La versión más actual es la 1808 (compilación 10730.20088).
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
 |Versión 1807 (Compilación 10325.20118)  <br/> |14 de agosto de 2018  <br/> |231  <br/> |
-|Versión 1807 (Compilación 10325.20082)  <br/> |25 de julio de 2018  <br/> |237  <br/> |
+|Versión 1807 (compilación 10325.20082)  <br/> |25 de julio de 2018  <br/> |237  <br/> |
 
   ## <a name="august-14-2018"></a>14 de agosto de 2018
 
 ### <a name="monthly-channel"></a>Canal mensual
 
-La versión más actual es la 1807 (Compilación 10325.20118).
+La versión más actual es la 1807 (compilación 10325.20118).
   
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
-|Versión 1807 (Compilación 10325.20082)  <br/> |25 de julio de 2018  <br/> |82  <br/> |
+|Versión 1807 (compilación 10325.20082)  <br/> |25 de julio de 2018  <br/> |82  <br/> |
 |Versión 1807 (compilación 10228.20134)  <br/> |17 de julio de 2018  <br/> |183  <br/> |
 
   
-### <a name="semi-annual-channel"></a>Canal semestral
+### <a name="semi-annual-channel"></a>Canal semianual
 
-La versión más actual es la 1803 (Compilación 9126.2275).
+La versión más actual es la 1803 (compilación 9126.2275).
   
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
 |Versión 1803 (compilación 8431.2259)  <br/> |10 de julio de 2018  <br/> |86  <br/> |
-|Versión 1708 (Compilación 8431.2270)  <br/> |12 de junio de 2018  <br/> |279  <br/> |
+|Versión 1708 (compilación 8431.2270)  <br/> |12 de junio de 2018  <br/> |279  <br/> |
 
   
 ### <a name="semi-annual-channel-targeted"></a>Canal semestral (dirigido)
 
-La versión más actual es la 1803 (Compilación 9126.2275).
+La versión más actual es la 1803 (compilación 9126.2275).
   
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
 |Versión 1803 (compilación 8431.2259)  <br/> |10 de julio de 2018  <br/> |86  <br/> |
-|Versión 1803 (Compilación 9126.2227)  <br/> |12 de junio de 2018  <br/> |94  <br/> |
+|Versión 1803 (compilación 9126.2227)  <br/> |12 de junio de 2018  <br/> |94  <br/> |
 
   ## <a name="july-25-2018"></a>25 de julio de 2018
 
@@ -101,8 +101,9 @@ La versión más actual es la 1806 (compilación 10228.20104).
 |Versión 1805 (compilación 9330.2124)  <br/> |13 de junio de 2018  <br/> |149  <br/> |
 |Versión 1805 (compilación 9330.2118)  <br/> |12 de junio de 2018  <br/> |401  <br/> |
 |Versión 1805 (compilación 9330.2087)  <br/> |24 de mayo de 2018  <br/> |150  <br/> |
-
-La versión más actual es la 1803 (Compilación 9126.2259).
+  
+### <a name="semi-annual-channel"></a>Canal semianual
+La versión más actual es la 1803 (compilación 9126.2259).
   
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
@@ -115,7 +116,7 @@ La versión más actual es la 1803 (Compilación 9126.2259).
   
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
-|Versión 1803 (Compilación 9126.2227)  <br/> |12 de junio de 2018  <br/> |78  <br/> |
+|Versión 1803 (compilación 9126.2227)  <br/> |12 de junio de 2018  <br/> |78  <br/> |
 |Versión 1803 (Compilación 9126.2210)  <br/> |18 de mayo de 2018  <br/> |85  <br/> | 
 
 
@@ -167,15 +168,15 @@ La versión más actual es la 1708 (compilación 8431.2270).
    
 ### <a name="semi-annual-channel-targeted"></a>Canal semestral (dirigido)
 
-La versión más actual es la 1803 (Compilación 9126.2275).
+La versión más actual es la 1803 (compilación 9126.2275).
   
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
 |Versión 1708 (compilación 8431.2227)  <br/> |12 de junio de 2018  <br/> |94  <br/> |
 |Versión 1708 (Compilación 8431.2259)  <br/> |10 de julio de 2018  <br/> |86  <br/> |
-|Versión 1708 (Compilación 8431.2270)  <br/> |12 de junio de 2018  <br/> |279  <br/> |
+|Versión 1708 (compilación 8431.2270)  <br/> |12 de junio de 2018  <br/> |279  <br/> |
 
-La versión más actual es la 1803 (Compilación 9126.2227).
+La versión más actual es la 1803 (compilación 9126.2227).
   
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
