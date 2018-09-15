@@ -3,19 +3,19 @@ title: Notas de la versión de Office para Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/12/2018
+ms.date: 9/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales de TI las notas de la versión de las versiones de Office para Mac para los suscriptores de Office 356
-ms.openlocfilehash: 5ec4d94714d59fe29735faa4c5f138b14d8f7304
-ms.sourcegitcommit: 5b6837d06af9089e443466b04c286f104411c6c9
+ms.openlocfilehash: 866eaf85ce6be9e85b035e515bf321802941e112
+ms.sourcegitcommit: c58f7bb10aa58c3eb9d9d498bc3c0f27b5d17752
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/13/2018
-ms.locfileid: "23959335"
+ms.lasthandoff: 09/14/2018
+ms.locfileid: "23976911"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de la versión de Office para Mac
 
@@ -46,7 +46,7 @@ En esta versión se incluyen las actualizaciones siguientes.
 |Excel  <br/> |**Dibujar con entrada de lápiz:** use el ratón o touchpad y los lápices en la pestaña Dibujar para escribir, dibujar y resaltar. [Obtener más información](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**Insertar modelos 3D para ver todos los ángulos:** inserte fácilmente un modelo 3D y a continuación rótelo 360 grados. [Obtener más información](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**Los métodos abreviados personalizados han vuelto**: ¡le hemos escuchado! A su petición, hemos vuelto a traer las teclas de método abreviado personalizado. [Obtener más información](https://support.office.com/article/6bbeb90e-96d9-4e03-b199-fc026ebdc321) <br/>|[CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): vulnerabilidad de divulgación de información de Microsoft Excel <br/><br/>[CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): vulnerabilidad de la ejecución remota de código de Microsoft Excel <br/>  |[Paquete de actualización de Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg) <br/>|
 |PowerPoint  <br/> |**Obtenga su atención con \@mentions:** utilice @mentions en los comentarios para que los compañeros sepan que necesita su colaboración. [Obtener más información](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/><br/>**Dibujar con entrada de lápiz:** use el ratón o touchpad y los lápices en la pestaña Dibujar para escribir, dibujar y resaltar.[Más información](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**Insertar modelos 3D para ver todos los ángulos:** inserte fácilmente un modelo 3D y a continuación rótelo 360 grados. [Obtener más información](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**La fuente que elija es la fuente que verán:** incruste las fuentes personalizadas en los archivos de modo que dondequiera que vayan, las fuentes vayan también. [Obtener más información](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/>||[Paquete de actualización de PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.17.18090901_Updater.pkg) <br/>|
 |Outlook  <br/> |||[Paquete de actualización de Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.17.18090901_Updater.pkg) <br/>|
-|Microsoft AutoUpdate 4.2  <br/> |||[Paquete de actualización de Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.3.18090901_Updater.pkg) <br/> | 
+|Microsoft AutoUpdate 4.3  <br/> |||[Paquete de actualización de Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.3.18090901_Updater.pkg) <br/> | 
 |Office Suite  <br/> ||[CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332):  vulnerabilidad de la ejecución remota de código de Microsoft Graphics <br/>||
 
 ## <a name="august-2018-release"></a>Versión de agosto de 2018
