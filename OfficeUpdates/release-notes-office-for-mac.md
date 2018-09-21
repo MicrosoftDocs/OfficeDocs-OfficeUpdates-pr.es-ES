@@ -3,19 +3,19 @@ title: Notas de la versión de Office para Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/13/2018
+ms.date: 9/20/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales de TI las notas de la versión de las versiones de Office para Mac para los suscriptores de Office 356
-ms.openlocfilehash: 866eaf85ce6be9e85b035e515bf321802941e112
-ms.sourcegitcommit: c58f7bb10aa58c3eb9d9d498bc3c0f27b5d17752
+ms.openlocfilehash: c06385280194586ef995851505ac9faa9817409f
+ms.sourcegitcommit: 4f616612841c5fb841dc171d84528f9423967e5d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/14/2018
-ms.locfileid: "23976911"
+ms.lasthandoff: 09/20/2018
+ms.locfileid: "24056149"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de la versión de Office para Mac
 
@@ -27,8 +27,8 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 > [!NOTE]
 > - Para obtener una lista de todas las versiones de Office para Mac y vínculos de descarga adicionales, vea [Historial de actualizaciones de Office para Mac](update-history-office-for-mac.md). 
 > - Si participa en Office Insider, vea [Notas de la versión para las compilaciones del Modo anticipado de Insider](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a).
-> - Estas notas de la versión también se aplican a Office 2016 para Mac, que es la versión de licencia perpetua de Office para Mac y que está disponible como una compra de pago única en una tienda o a través de un contrato de licencias por volumen. Pero algunas de las características que se muestran en las notas de la versión solo están disponibles si tiene una suscripción de Office 365.
-> - Los vínculos de descarga solo se proporcionan para las versiones más recientes.
+> - Esta información ya no se aplica a Office 2016 para Mac, que es la versión de licencia perpetua de Office para Mac y está disponible como una compra de pago único en tiendas minoristas o a través de un contrato de licencias por volumen.  Las versiones más antiguas hasta la 16.16 incluida pueden activarse con una licencia por volumen de Office para Mac 2016. Sin embargo, a partir de la 16.17, la licencia por volumen de 2016 ya no es compatible.
+> - Los enlaces de descarga solo se proporcionan para las versiones más recientes.
 > - Microsoft AutoUpdate ofrece actualizaciones para distintos productos de Mac de Microsoft. Por tanto, es posible que reciba una notificación para actualizar Microsoft AutoUpdate, incluso si no está ejecutando Office para Mac.
 
 ## <a name="september-2018-release"></a>Versión de septiembre de 2018
@@ -43,7 +43,7 @@ En esta versión se incluyen las actualizaciones siguientes.
 |**Aplicación**|**Actualizaciones de características**|**Actualizaciones de seguridad**|**Vínculo de descarga para el paquete de actualización**|
 |:-----|:-----|:-----|
 |Word  <br/> |**Obtenga su atención con \@mentions:** utilice @mentions en los comentarios para que los compañeros sepan que necesita su colaboración. [Obtener más información](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/><br/>**Dibujar con entrada de lápiz:** use el ratón o touchpad y los lápices en la pestaña Dibujar para escribir, dibujar y resaltar. [Obtener más información](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>**Insertar modelos 3D para ver todos los ángulos:** inserte fácilmente un modelo 3D y a continuación rótelo 360 grados. [Obtener más información](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/>||[Paquete de actualización de Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.17.18090901_Updater.pkg) <br/>|
-|Excel  <br/> |**Dibujar con entrada de lápiz:** use el ratón o touchpad y los lápices en la pestaña Dibujar para escribir, dibujar y resaltar. [Obtener más información](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**Insertar modelos 3D para ver todos los ángulos:** inserte fácilmente un modelo 3D y a continuación rótelo 360 grados. [Obtener más información](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**Los métodos abreviados personalizados han vuelto**: ¡le hemos escuchado! A su petición, hemos vuelto a traer las teclas de método abreviado personalizado. [Obtener más información](https://support.office.com/article/6bbeb90e-96d9-4e03-b199-fc026ebdc321) <br/>|[CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): vulnerabilidad de divulgación de información de Microsoft Excel <br/><br/>[CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): vulnerabilidad de la ejecución remota de código de Microsoft Excel <br/>  |[Paquete de actualización de Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg) <br/>|
+|Excel  <br/> |**Dibujar con entrada de lápiz:** use el ratón o touchpad y los lápices en la pestaña Dibujar para escribir, dibujar y resaltar. [Obtener más información](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**Insertar modelos 3D para ver todos los ángulos:** inserte fácilmente un modelo 3D y a continuación rótelo 360 grados. [Obtener más información](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**Los métodos abreviados personalizados han vuelto**: ¡le hemos escuchado! A su petición, hemos vuelto a traer las teclas de método abreviado personalizado. [Obtener más información](https://support.office.com/article/6bbeb90e-96d9-4e03-b199-fc026ebdc321) <br/>|[CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): vulnerabilidad de divulgación de información de Microsoft Excel <br/><br/>[CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): vulnerabilidad de la ejecución del código remoto de Microsoft Excel <br/>  |[Paquete de actualización de Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg) <br/>|
 |PowerPoint  <br/> |**Obtenga su atención con \@mentions:** utilice @mentions en los comentarios para que los compañeros sepan que necesita su colaboración. [Obtener más información](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/><br/>**Dibujar con entrada de lápiz:** use el ratón o touchpad y los lápices en la pestaña Dibujar para escribir, dibujar y resaltar.[Más información](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**Insertar modelos 3D para ver todos los ángulos:** inserte fácilmente un modelo 3D y a continuación rótelo 360 grados. [Obtener más información](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**La fuente que elija es la fuente que verán:** incruste las fuentes personalizadas en los archivos de modo que dondequiera que vayan, las fuentes vayan también. [Obtener más información](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/>||[Paquete de actualización de PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.17.18090901_Updater.pkg) <br/>|
 |Outlook  <br/> |||[Paquete de actualización de Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.17.18090901_Updater.pkg) <br/>|
 |Microsoft AutoUpdate 4.3  <br/> |||[Paquete de actualización de Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.3.18090901_Updater.pkg) <br/> | 
@@ -60,7 +60,7 @@ En esta versión se incluyen las actualizaciones siguientes.
 |**Aplicación**|**Actualizaciones de características**|**Actualizaciones de seguridad**|**Vínculo de descarga para el paquete de actualización**|
 |:-----|:-----|:-----|
 |Word  <br/> |||[Paquete de actualización de Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.16.18081201_Updater.pkg) <br/>|
-|Excel  <br/> ||[CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): vulnerabilidad de la ejecución remota de código de Microsoft Excel  <br/>[CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): vulnerabilidad de divulgación de información de Microsoft Excel  <br/>  |[Paquete de actualización de Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18081402_Updater.pkg) <br/>|
+|Excel  <br/> ||[CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): vulnerabilidad de la ejecución remota de código de Microsoft Excel  <br/>[CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): vulnerabilidad de la divulgación de información de Microsoft Excel  <br/>  |[Paquete de actualización de Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18081402_Updater.pkg) <br/>|
 |PowerPoint  <br/> |||[Paquete de actualización de PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.16.18081201_Updater.pkg) <br/>|
 |Outlook  <br/> |||[Paquete de actualización de Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.16.18081201_Updater.pkg) <br/>|
 |Microsoft AutoUpdate 4.2  <br/> ||[CVE-2018-8412](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8412): vulnerabilidad de elevación de privilegios de Microsoft AutoUpdate Office  <br/>|[Paquete de actualización de Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.2.18081201_Updater.pkg) <br/> | 
