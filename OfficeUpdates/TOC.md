@@ -16,15 +16,16 @@
 #### [2017](semi-annual-channel-2017.md)
 #### [2016](semi-annual-channel-2016.md)
 
-### Canal semianual (dirigido)
+### Canal semestral (dirigido)
 #### [2018](semi-annual-channel-targeted-2018.md)
 #### [2017](semi-annual-channel-targeted-2017.md)
 #### [2016](semi-annual-channel-targeted-2016.md)
 #### [2015](semi-annual-channel-targeted-2015.md)
 
 # Office para Mac
-## [Historial de actualizaciones](update-history-office-for-mac.md)
-## [Notas de la versión](release-notes-office-for-mac.md)
+## [Actualizar historial (Office 365, 2019)](update-history-office-for-mac.md)
+## [Notas de la versión (Office 365, 2019)](release-notes-office-for-mac.md)
+## [Notas de la versión (2016)](release-notes-office-2016-mac.md)
 ## [Historial de versiones MAU](release-history-microsoft-autoupdate.md)
 
 # Office (permanente)
