@@ -3,19 +3,19 @@ title: Notas de la versión para las versiones del Canal semestral (dirigido) de
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/26/2018
+ms.date: 9/27/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones del Canal semestral (dirigido) de Office 365 ProPlus de 2018
-ms.openlocfilehash: c67197a9d1c431e33fe79ab608bdd097e311007f
-ms.sourcegitcommit: db43e848b1320ec6d5f32094facaf0b6994a1046
+ms.openlocfilehash: 7ec2469aa05f6885be6187cb3a733968c992a401
+ms.sourcegitcommit: d14086363fa72dc14ac0e56a379471ade069de85
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/26/2018
-ms.locfileid: "25092118"
+ms.lasthandoff: 09/27/2018
+ms.locfileid: "25341395"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>Notas de la versión para las versiones del Canal semestral (dirigido) de 2018
 
@@ -32,14 +32,14 @@ En estas notas de la versión, se proporciona información sobre característica
  - **Visualizar datos con nuevos gráficos:** elija entre 11 gráficos y agregue uno a los formularios e informes para visualizar mejor los datos y tomar decisiones fundamentadas. [Más información](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
  
  ### <a name="access-security-updates"></a>Access: actualizaciones de seguridad
--   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): uso de la ejecución remota de código de Microsoft Access tras vulnerabilidad gratuita
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): uso de ejecución de código remoto de Microsoft Access después de vulnerabilidad gratuita.
 
 ### <a name="excel-feature-updates"></a>Excel: actualizaciones de características
  - **Edición colaborativa:** trabaje con otras personas al mismo tiempo en el libro. [Obtener más información](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
- - **Ahora, el autoguardado para los archivos en la nube está habilitado de forma predeterminada:** el autoguardado está habilitado de forma predeterminada en la versión del canal semestral de septiembre de 2018 (objetivo). Este cambio implica que los usuarios no tienen que preocuparse por perder los cambios en los documentos almacenados en OneDrive o en SharePoint Online. Los cambios se guardarán en la nube automáticamente y los usuarios no tendrán que presionar Ctrl + S o el botón Guardar. Sin embargo, tienen que comprender este cambio de comportamiento para que no realicen cambios por error en los documentos. Tenga en cuenta que los usuarios pueden desactivar el autoguardado cambiando la opción de autoguardado que está en la parte superior de la pantalla. Le recomendamos informar a los usuarios de este próximo cambio y explicarles cómo aprovechar mejor las ventajas de esta nueva característica de Office 365. [Obtenga más información sobre el autoguardado](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [Obtenga más información sobre qué deben saber los administradores de TI del autoguardado](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
+ - **Ahora, el autoguardado para los archivos en la nube está habilitado de forma predeterminada:** el autoguardado está habilitado de forma predeterminada en la versión de canal semestral de septiembre de 2018 (destino). Este cambio implica que los usuarios no tienen que preocuparse por perder los cambios en los documentos almacenados en OneDrive o en SharePoint Online. Los cambios se guardarán en la nube automáticamente y los usuarios no tendrán que presionar Ctrl + S o el botón Guardar. Sin embargo, tienen que comprender este cambio de comportamiento para que no realicen cambios por error en los documentos. Tenga en cuenta que los usuarios pueden desactivar el autoguardado cambiando la opción de autoguardado que está en la parte superior de la pantalla. Le recomendamos informar a los usuarios de este próximo cambio y explicarles cómo aprovechar mejor las ventajas de esta nueva característica de Office 365. [Obtenga más información sobre el autoguardado](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [Obtenga más información sobre qué deben saber los administradores de TI del autoguardado](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
 - **Mejora de la edición de la barra de fórmulas y celdas:** ahora puede usar CTRL+A para seleccionar texto en una celda o en la barra de fórmulas. También se ha mejorado la compatibilidad con los emojis y otros caracteres complejos.[Más información](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
-- **Mejoras del Comprobador de accesibilidad:** el Comprobador de accesibilidad ha actualizado la compatibilidad con las normas internacionales y recomendaciones internacionales para que sus libros sean más accesibles. [Obtener más información](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
-- **Evitar ediciones no deseadas:** establezca los libros que serán de solo lectura para evitar cambios accidentales. Vaya a Archivo > Info > Proteger libro > Abrir siempre en modo de solo lectura
+- **Mejoras del Comprobador de accesibilidad:** el Comprobador de accesibilidad ha actualizado la compatibilidad con las normas y recomendaciones internacionales para que sus libros sean más accesibles. [Obtener más información](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+- **Evitar ediciones no deseadas:** establezca los libros que serán de sólo lectura para evitar cambios accidentales. Vaya a Archivo > Información > Proteger libro > Abrir siempre en modo de solo lectura
 
 ### <a name="excel-security-updates"></a>Excel: actualizaciones de seguridad
 -   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): vulnerabilidad de la ejecución remota de código de Microsoft Excel
@@ -60,11 +60,11 @@ En estas notas de la versión, se proporciona información sobre característica
 -   Corregir el problema que hace que no se recalcule al abrir, incluso si la propiedad FullCalcOnLoad está definida.  
 -   Se ha corregido un problema donde se mostraba el año incorrecto cuando se usaba el calendario japonés Era con formato de celda de fecha.
 -   Al importar datos en el modelo de datos de Excel, los valores entrantes de cero negativo generarían un error. La corrección importa esos valores como cero.
--   Se ha corregido un problema por el que en ocasiones se podía desencadenar un bloqueo en una operación de agrupación (o desagrupación) en una tabla dinámica de Excel.
--   Se ha corregido un problema por el que Excel se bloqueaba al realizar acciones de gráficos.
+-   Se ha corrigido el problema de que en ocasiones se podía desencadenar un bloqueo en una operación de agrupación (o desagrupación) en una tabla dinámica de Excel.
+-   Se ha corregido el problema de que Excel se bloqueaba al realizar acciones de gráficos.
 -   Se ha corregido un problema por el que el complemento de Power View se deshabilitaba involuntariamente para algunos usuarios.
 -   Se ha corregido un problema por el que los archivos de recuperación automática temporales creados durante la recuperación de documentos no se limpiaban nunca.
--   Se ha corregido un problema por el que, al intentar establecer una conexión nueva con un archivo de texto en un libro protegido, se recibía el mensaje de error "El libro está protegido y no se puede modificar".
+-   Se ha corregido el problema de que, al intentar establecer una conexión nueva con un archivo de texto en un libro protegido, se recibe el mensaje de error "El libro está protegido y no se puede modificar".
 -   Se ha corregido un problema por el que no se podía imprimir impresión rápida de un libro de Excel adjuntado a un correo electrónico de Outlook.
 -   Se ha corregido un problema por el que, al hacer clic en un hipervínculo, Excel podía bloquearse.
 -   Se ha corregido un problema por el que al usar las funciones de cubo, Excel se bloquea.
@@ -79,7 +79,6 @@ En estas notas de la versión, se proporciona información sobre característica
 - **Marcar los elementos eliminados como leídos:** ahora puede establecer como leídos los mensajes que elimine. Para hacerlo, vaya a Archivo \> Opciones \> Correo \> Otros.
 - **Ver tres zonas horarias:** ¿necesita programar una reunión en distintas zonas horarias? Agregue varias zonas horarias a su calendario para ver fácilmente la disponibilidad de todas las personas y elija la hora a la que pueden asistir. [Obtener más información](https://support.office.com/article/5ab3e10e-5a6c-46af-ab48-156fedf70c04)
 - **Experiencia de usuario mejorada para crear un grupo:** hemos mejorado la experiencia de usuario para crear un grupo, dándole un aspecto más moderno y claro.[Más información](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102)
-- **Advertencia de copia carbón oculta (CCO):** si decide responder a todos en un mensaje en el que su dirección estaba incluida en el campo CCO, aparecerá una advertencia.
 
 ### <a name="outlook-security-updates"></a>Outlook: actualizaciones de seguridad
 -   [CVE-2018-8310](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8310): vulnerabilidad de manipulación de Microsoft Office
@@ -90,12 +89,12 @@ En estas notas de la versión, se proporciona información sobre característica
 ### <a name="outlook-non-security-updates"></a>Outlook: actualizaciones no relacionadas con la seguridad
 -   Solucionar el siguiente problema: al cambiar el idioma del sistema a japonés e intentar escribir caracteres japoneses en el IDE de VBA cuando se carga en Outlook, se bloquea.
 -   Se ha corregido un problema por el que Outlook se bloqueaba al cambiar a la carpeta Elementos enviados o la Bandeja de salida.
--   Se ha corregido un problema por el que todos los asistentes recibían actualizaciones de la reunión cuando se cambiaba el cuerpo de la reunión o los datos adjuntos, en lugar de que fuese opcional que se enviase una actualización de la reunión a los asistentes.
+-   Se ha corregido un problema por el que todos los asistentes recibían actualizaciones de la reunión cuando cambiaban el cuerpo de la reunión o los datos adjuntos, en lugar de que fuese opcional que se enviase una actualización de la reunión a los asistentes.
 -   Se ha corregido un problema por el que los usuarios no podían conectarse a los puntos de conexión de REST y EWS debido a un cambio en la cadena de agente de usuario.
--   Se ha corregido un problema por el que una actualización de la ubicación de la reunión para los asistentes mostraba la ubicación anterior en lugar de la nueva.
+-   Se ha corregido un problema por el que una actualización de la ubicación de la reunión para los asistentes muestra la ubicación anterior en lugar de la nueva.
 -   Se ha corregido un problema por el que el usuario veía un error al obtener una vista previa de los datos adjuntos en el panel de lectura.
 -   Se ha corregido un problema por el que Outlook se bloqueaba al resolver nombres para mostrar en direcciones de correo electrónico cuando el usuario estaba redactando un correo electrónico.
--   Se ha corregido un problema por el que algunos usuarios no recibían características de soporte técnico que había habilitado su administrador de espacio empresarial.
+-   Se ha corregido un problema por el que algunos usuarios no reciben características de soporte técnico que ha habilitado su administrador de espacio empresarial.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características 
 - **Ahora, el autoguardado para los archivos en la nube está habilitado de forma predeterminada:** el autoguardado está habilitado de forma predeterminada en la versión del canal semestral de septiembre de 2018 (dirigido). Este cambio implica que los usuarios no tienen que preocuparse por perder los cambios en los documentos almacenados en OneDrive o en SharePoint Online. Los cambios se guardarán en la nube automáticamente y los usuarios no tendrán que presionar Ctrl + S o el botón Guardar. Sin embargo, tienen que comprender este cambio de comportamiento para que no realicen cambios por error en las presentaciones. Tenga en cuenta que los usuarios pueden desactivar el autoguardado cambiando la opción de autoguardado que está en la parte superior de la pantalla. Le recomendamos informar a los usuarios de este próximo cambio y explicarles cómo aprovechar mejor las ventajas de esta nueva característica de Office 365. [Obtenga más información sobre el autoguardado](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [Obtenga más información sobre qué deben saber los administradores de TI del autoguardado](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
@@ -104,15 +103,13 @@ En estas notas de la versión, se proporciona información sobre característica
 - **Compatibilidad con el formato SVG mejorada:** puede insertar imágenes SVG que tengan filtros aplicados. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **Escritura del título de las diapositivas con un lápiz:** use el lápiz para escribir un título y PowerPoint lo convertirá en texto. [Más información](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **Evitar ediciones no deseadas:** establezca los libros que serán de solo lectura para evitar cambios accidentales. Vaya a Archivo > Información > Proteger libro > Abrir siempre en modo de solo lectura
-- **Publicar en Microsoft Stream:** comparta una presentación como un vídeo de forma más segura en su organización mediante Microsoft Stream. [Más información](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83?#bkmk_microsoftstream)
-- **Microsoft Forms:** coloque un cuestionario o una encuesta en una diapositiva. Office recopila y almacena las respuestas automáticamente. [Más información](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 - **Mejoras del Comprobador de accesibilidad:** el Comprobador de accesibilidad ha actualizado la compatibilidad con las normas y recomendaciones internacionales para que sus presentaciones sean más accesibles. [Obtener más información](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: actualizaciones no relacionadas con la seguridad
 -   Se ha corregido un problema por el que las tablas se representaban incorrectamente con un borde grueso.
 -   Se ha corregido un problema que podía producir un posible bloqueo al cambiar la propiedad Shape.Visibile.
 -   Se ha corregido un problema por el que no podían combinarse los cambios efectuados en documentos en coautoría.
--   Se ha corregido un problema por el que no se realizaba la coautoría en documentos que contenían controles ActiveX.
+-   Se ha corrigido un problema por el que no se realizaba la coautoría en documentos que contenían controles ActiveX.
 -   Se ha corregido un problema por el que PowerPoint se bloqueaba al pasar el corrector ortográfico en formas.
 -   Se ha corregido un problema por el que PowerPoint se bloqueaba al abrir un archivo de SharePoint Online.
 -   Se ha corregido un problema por el que el Panel de recuperación aparecía incorrectamente cuando el autoguardado estaba activado.
@@ -147,7 +144,7 @@ En estas notas de la versión, se proporciona información sobre característica
  - **Crear un documento de Word con formas de Visio** Agregue automáticamente el contenido de diagramas, incluidos formas y metadatos, a un documento de Word. A continuación, personalice el documento para crear manuales de operación e instrucciones de proceso. [Obtener más información](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
 ### <a name="word-feature-updates"></a>Word: actualizaciones de características
-- **Ahora, el autoguardado para los archivos en la nube está habilitado de forma predeterminada:** el autoguardado está habilitado de forma predeterminada en la versión del canal semestral de septiembre de 2018 (dirigido). Este cambio implica que los usuarios no tienen que preocuparse por perder los cambios en los documentos almacenados en OneDrive o en SharePoint Online. Los cambios se guardarán en la nube automáticamente y los usuarios no tendrán que presionar Ctrl + S o el botón Guardar. Sin embargo, tienen que comprender este cambio de comportamiento para que no realicen cambios por error en las presentaciones. Tenga en cuenta que los usuarios pueden desactivar el autoguardado cambiando la opción de autoguardado que está en la parte superior de la pantalla. Le recomendamos informar a los usuarios de este próximo cambio y explicarles cómo aprovechar mejor las ventajas de esta nueva característica de Office 365. [Obtenga más información sobre el autoguardado](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [Obtenga más información sobre qué deben saber los administradores de TI del autoguardado]
+- **Ahora, el autoguardado para los archivos en la nube está habilitado de forma predeterminada:** el autoguardado está habilitado de forma predeterminada en la versión del canal semestral de septiembre de 2018 (dirigido). Este cambio implica que los usuarios no tienen que preocuparse por perder los cambios en los documentos almacenados en OneDrive o en SharePoint Online. Los cambios se guardarán en la nube automáticamente y los usuarios no tendrán que presionar Ctrl + S o el botón Guardar. Sin embargo, tienen que comprender este cambio de comportamiento para que no realicen cambios por error en las presentaciones. Tenga en cuenta que los usuarios pueden desactivar el autoguardado cambiando la opción de autoguardado que está en la parte superior de la pantalla. Le recomendamos informar a los usuarios de este cambio y explicarles cómo aprovechar mejor las ventajas de esta característica nueva de Office 365. [Obtenga más información sobre el autoguardado](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [Obtenga más información sobre qué deben saber los administradores de TI del autoguardado]
 - **Mejoras del comprobador de accesibilidad:** el comprobador de accesibilidad ha actualizado la asistencia para las normas internacionales y las recomendaciones para que sus documentos sean más accesibles. [Obtener más información](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 - **Compatibilidad con el formato SVG mejorada:** puede insertar imágenes SVG que tengan filtros aplicados. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
@@ -171,16 +168,16 @@ En estas notas de la versión, se proporciona información sobre característica
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030): vulnerabilidad de la ejecución remota de código de Microsoft Office
 -   **Se bloquea la activación de los controles de Flash, Silverlight y Shockwave en Office por motivos de seguridad:** por razones de seguridad, las nuevas compilaciones de Microsoft Office para Office 365 en Windows bloquean la activación de los controles Flash, Silverlight y Shockwave. Más información [aquí](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) y [aquí](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US).
 
-### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones no relacionadas con la seguridad
+### <a name="office-suite-non-security-updates"></a>Office Suite: actualizaciones no relacionadas con la seguridad
 -  Se ha corregido un problema que causaba que la instalación de las actualizaciones tardase mucho tiempo en determinados escenarios.
--  Se ha corregido un problema que causaba que, al abrir una aplicación, el usuario viera un mensaje sobre iniciar en modo seguro y después la aplicación no se abriera.
+-  Se ha corregido un problema que provocaba que, al abrir una aplicación, el usuario viera un mensaje sobre iniciar en modo seguro y después la aplicación no se abriera.
 -  Se solucionan algunos problemas de rendimiento.
 
 ## <a name="version-1803-august-14"></a>Versión 1803: 14 de agosto
 *Versión 1803 (compilación 9126.2275)*
 
 ### <a name="access-security-updates"></a>Access: actualizaciones de seguridad
--   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): uso de la ejecución remota de código de Microsoft Access tras vulnerabilidad gratuita
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): vulnerabilidad de uso posterior gratis de la ejecución de código remoto de Microsoft Access
 
 ### <a name="excel-security-updates"></a>Excel: actualizaciones de seguridad
 -   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): vulnerabilidad de la ejecución remota de código de Microsoft Excel 
@@ -190,7 +187,7 @@ En estas notas de la versión, se proporciona información sobre característica
 ### <a name="outlook-security-updates"></a>Outlook: actualizaciones de seguridad
 -   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): actualización de defensa en profundidad de Microsoft Office 
 
-### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones de seguridad
+### <a name="office-suite-security-updates"></a>Office Suite: actualizaciones de seguridad
 -   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378): vulnerabilidad de divulgación de información de Microsoft Office 
 
 ## <a name="version-1803-july-10"></a>Versión 1803: 10 de julio
@@ -262,7 +259,7 @@ En estas notas de la versión, se proporciona información sobre característica
 - Se ha corregido un problema por el que PowerPoint se bloqueaba al pasar el corrector ortográfico en formas.
 
 ### <a name="office-suite-non-security-updates"></a>Office Suite: actualizaciones no relacionadas con la seguridad
-- Se ha corregido un problema que causaba que, al abrir una aplicación, el usuario viera un mensaje sobre iniciar en modo seguro y después la aplicación no se abriera.
+- Se ha corregido un problema que provocaba que, al abrir una aplicación, el usuario viera un mensaje sobre iniciar en modo seguro y después la aplicación no se abriera.
 
 
 
@@ -284,7 +281,7 @@ En estas notas de la versión, se proporciona información sobre característica
 
 ### <a name="outlook-non-security-updates"></a>Outlook: actualizaciones no relacionadas con la seguridad
 -   Se ha corregido un problema por el que Outlook se bloqueaba al cambiar a la carpeta Elementos enviados o la Bandeja de salida.
--   Se ha corregido un problema por el que todos los asistentes recibían actualizaciones de la reunión cuando se cambiaba el cuerpo de la reunión o los datos adjuntos, en lugar de que fuese opcional que se enviase una actualización de la reunión a los asistentes.
+-   Se ha corregido un problema por el que todos los asistentes recibían actualizaciones de la reunión cuando cambiaban el cuerpo de la reunión o los datos adjuntos, en lugar de que fuese opcional que se enviase una actualización de la reunión a los asistentes.
 -   Se ha corregido un problema por el que los usuarios no podían conectarse a los puntos de conexión de REST y EWS debido a un cambio en la cadena de agente de usuario.
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: actualizaciones no relacionadas con la seguridad
@@ -364,15 +361,15 @@ En estas notas de la versión, se proporciona información sobre característica
 
 ### <a name="excel-feature-updates"></a>Excel: actualizaciones de características
 -   **Microsoft Translator:** traduzca palabras, frases u oraciones a otro idioma con Microsoft Translator. Puede hacerlo desde la pestaña Revisar de la cinta de opciones.
--   **Convierta iconos SVG en formas:** transforme todas las imágenes e iconos SVG en formas de Office para poder cambiar su color, tamaño o textura.
+-   **Convertir iconos SVG en formas:** transforme todas las imágenes e iconos SVG en formas de Office para poder cambiar su color, tamaño o textura.
 -   **Anule la selección de celdas:** realice selecciones en la hoja de cálculo y anule la selección de las celdas donde hizo clic por error sin tener que volver a empezar.
 -   **Acceda rápidamente a los sitios y a los grupos:** use el menú Archivo para trabajar con los documentos almacenados en los sitios y grupos que usa a menudo.
 -   **Lápiz digital:** escriba o dibuje ideas con nuestra nueva textura de lápiz. Simplemente inclínelo para aplicar sombreado con lápices digitales compatibles.
 -   **Configuración de características de LinkedIn:** vaya a Archivo \> Opciones \> General para controlar si se muestran las características de LinkedIn en las aplicaciones de Office. [Más información](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 -   **Modelos 3D:** use modelos 3D para aumentar el impacto visual y creativo de los libros.  Inserte fácilmente un modelo 3D y, a continuación, podrá girarlo 360 grados. [Más información](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **Nuevos efectos de lápiz:** exprese sus ideas con estilo con lápices metálicos y efectos de lápiz, como arcoíris, galaxia, lava, océano, oro, plata y más.
--   **Interfaz de usuario para compartir archivos:** en el caso de los archivos de OneDrive para la Empresa o SharePoint, haga clic en el botón Compartir que encontrará en la esquina superior derecha de la cinta de opciones o en Archivo \> Compartir. Aparecerá un cuadro de diálogo Compartir simplificado y mejorado. Para los archivos nuevos o guardados de forma local, la interfaz de usuario permite cargar los archivos fácilmente en OneDrive y empezar a colaborar.
--   **Bloquee las extensiones peligrosas:** de forma predeterminada, se bloquea la activación de las extensiones consideradas de riesgo elevado y que se insertan como objetos de paquete OLE. Por ejemplo, .exe, .vbs y .js. [Más información](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **Interfaz de usuario para compartir archivos:** en el caso de los archivos de OneDrive para la Empresa o SharePoint, haga clic en el botón Compartir que encontrará en la esquina superior derecha de la cinta de opciones o en Archivo \> Compartir. Aparecerá un cuadro de diálogo Compartir simplificado y mejorado. Para los archivos nuevos o guardados de forma local, la interfaz de usuario permite subir los archivos fácilmente en OneDrive y empezar a colaborar.
+-   **Bloquear las extensiones peligrosas:** de forma predeterminada, se bloquea la activación de las extensiones consideradas de riesgo elevado y que se insertan como objetos de paquete OLE. Por ejemplo, .exe, .vbs y .js. [Más información](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 -   **Sonidos útiles que mejoran la accesibilidad:** active las indicaciones de audio para guiarse mientras trabaja. Las encontrará en Archivo \> Opciones \> Accesibilidad. No se necesita ningún complemento. [Más información](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
 -   **Ubicaciones de archivo por cuenta:** al abrir o guardar un archivo, la lista de ubicaciones se organiza en función de la cuenta asociada.
 -   **Personalización del lápiz:** elija un conjunto personal de lápices y marcadores de resaltado para las entradas manuscritas. Su conjunto personalizado estará disponible en todos sus equipos PC Windows.
@@ -430,13 +427,13 @@ En estas notas de la versión, se proporciona información sobre característica
 -   **Animaciones 3D:** dé vida a sus modelos 3D con animaciones, como un balanceo ligero, o un salto y un giro.
 -   **Convertir iconos SVG en formas:** transforme todas las imágenes e iconos SVG en formas de Office para poder cambiar su color, tamaño o textura.
 -   **Itinerancia de la información de seguimiento de revisión:** el estado leído/no leído que se usa para resaltar diapositivas compartidas que han modificado otros usuarios ahora se almacena en un servicio de itinerancia (y no en el equipo local) para que la información pueda sincronizarse en varios dispositivos o plataformas.
--   **Acceder rápidamente a los sitios y a los grupos:** use el menú Archivo para trabajar con los documentos almacenados en los sitios y grupos que usa a menudo.
+-   **Acceda rápidamente a los sitios y a los grupos:** use el menú Archivo para trabajar con los documentos almacenados en los sitios y grupos que usa a menudo.
 -   **Lápiz digital:** escriba o dibuje ideas con nuestra nueva textura de lápiz. Simplemente inclínelo para aplicar sombreado con lápices digitales compatibles.
 -   **Configuración de características de LinkedIn:** vaya a Archivo \> Opciones \> General para controlar si se muestran las características de LinkedIn en las aplicaciones de Office. [Más información](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 -   **Ejecutar una presentación con diapositivas con el lápiz digital:** use su Lápiz para Surface, o bien otro lápiz con un botón de Bluetooth, para avanzar por las diapositivas. Se necesita Windows 10 Fall Creators Update. [Más información](https://support.office.com/article/e36da834-7d34-4b71-aafd-071727549f7a)
 -   **Modelos 3D:** use modelos 3D para aumentar el impacto visual y creativo de sus presentaciones. Haga que sus modelos 3D cobren vida en sus presentaciones con transiciones como Transformación, que permite crear animaciones cinematográficas entre diapositivas. [Más información](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **Nuevos efectos de lápiz:** exprese sus ideas con estilo con lápices metálicos y efectos de lápiz, como arcoíris, galaxia, lava, océano, oro, plata y más.
--   **Interfaz de usuario para compartir archivos:** en el caso de los archivos de OneDrive para la Empresa o SharePoint, haga clic en el botón Compartir que encontrará en la esquina superior derecha de la cinta de opciones o en Archivo \> Compartir. Aparecerá un cuadro de diálogo Compartir simplificado y mejorado. Para los archivos nuevos o guardados de forma local, la interfaz de usuario permite cargar los archivos fácilmente en OneDrive y empezar a colaborar.
+-   **Interfaz de usuario para compartir archivos:** en el caso de los archivos de OneDrive para la Empresa o SharePoint, haga clic en el botón Compartir que encontrará en la esquina superior derecha de la cinta de opciones o en Archivo \> Compartir. Aparecerá un cuadro de diálogo Compartir simplificado y mejorado. Para los archivos nuevos o guardados de forma local, la interfaz de usuario permite subir los archivos fácilmente en OneDrive y empezar a colaborar.
 -   **Bloquear las extensiones peligrosas:** de forma predeterminada, se bloquea la activación de las extensiones consideradas de riesgo elevado y que se insertan como objetos de paquete OLE. Por ejemplo, .exe, .vbs y .js. [Más información](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 -   **Resaltado de revisión:** se resaltan las diapositivas que han sido modificadas por otros usuarios.
 -   **Mientras estuvo fuera:** PowerPoint muestra quién editó la presentación compartida desde su última visita.
@@ -538,18 +535,18 @@ En estas notas de la versión, se proporciona información sobre característica
 ### <a name="word-feature-updates"></a>Word: actualizaciones de características
 -   **Convertir iconos SVG en formas:** transforme todas las imágenes e iconos SVG en formas de Office para poder cambiar su color, tamaño o textura.
 -   **Número de caracteres:** se muestra el número de caracteres en la barra de estado mientras escribe. Puede habilitar esta opción en el menú Personalizar barra de estado.
--   **Acceder rápidamente a los sitios y a los grupos:** use el menú Archivo para trabajar con los documentos almacenados en los sitios y grupos que usa a menudo.
+-   **Acceda rápidamente a los sitios y a los grupos:** use el menú Archivo para trabajar con los documentos almacenados en los sitios y grupos que usa a menudo.
 -   **Microsoft Translator:** traduzca palabras, frases o todo un documento a otro idioma mediante Microsoft Translator, directamente en Word. [Más información](https://support.office.com/article/24a987b3-03a1-4c17-8c1b-54495fca6b17)
 -   **Lápiz digital:** escriba o dibuje ideas con nuestra nueva textura de lápiz. Simplemente inclínelo para aplicar sombreado con lápices digitales compatibles.
 -   **Configuración de características de LinkedIn:** vaya a Archivo \> Opciones \> General para controlar si se muestran las características de LinkedIn en las aplicaciones de Office. [Más información](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 -   **Panel de propiedades de SharePoint:** muestre y edite valores de columna de la biblioteca de documentos de SharePoint desde el propio documento. El botón de la cinta de opciones de la pestaña Vista ofrece fácil acceso al panel. Además, los administradores de SharePoint pueden usar la configuración de la biblioteca de documentos para abrir automáticamente el panel de propiedades.
 -   **Modelos 3D:** use modelos 3D para aumentar el impacto visual y creativo de los documentos.  Inserte fácilmente un modelo 3D y, a continuación, podrá girarlo 360 grados. [Más información](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **Nuevos efectos de lápiz:** exprese sus ideas con estilo con lápices metálicos y efectos de lápiz, como arcoíris, galaxia, lava, océano, oro, plata y más.
--   **Interfaz de usuario para compartir archivos:** en el caso de los archivos de OneDrive para la Empresa o SharePoint, haga clic en el botón Compartir que encontrará en la esquina superior derecha de la cinta de opciones o en Archivo \> Compartir. Aparecerá un cuadro de diálogo Compartir simplificado y mejorado. Para los archivos nuevos o guardados de forma local, la interfaz de usuario permite cargar los archivos fácilmente en OneDrive y empezar a colaborar.
+-   **Interfaz de usuario para compartir archivos:** en el caso de los archivos de OneDrive para la Empresa o SharePoint, haga clic en el botón Compartir que encontrará en la esquina superior derecha de la cinta de opciones o en Archivo \> Compartir. Aparecerá un cuadro de diálogo Compartir simplificado y mejorado. Para los archivos nuevos o guardados de forma local, la interfaz de usuario permite subir los archivos fácilmente en OneDrive y empezar a colaborar.
 -   **Bloquear las extensiones peligrosas:** de forma predeterminada, se bloquea la activación de las extensiones consideradas de riesgo elevado y que se insertan como objetos de paquete OLE. Por ejemplo, .exe, .vbs y .js. [Más información](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 -   **Editar con las herramientas de aprendizaje:** las herramientas de aprendizaje ahora están disponibles en la vista de diseño web de Word. Ajuste el espaciado del texto y muestre sílabas mientras lo edita. En cualquier vista, vea cada palabra resaltada a medida que se vaya leyendo el documento en voz alta. [Más información](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
 -   **Sintaxis LaTeX:** cree y modifique ecuaciones matemáticas con la sintaxis LaTeX.
--   **Sonidos útiles mejoran la accesibilidad:** active las indicaciones de audio para guiarse mientras trabaja. Las encontrará en Archivo \> Opciones \> Accesibilidad. No se necesita ningún complemento. [Más información](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
+-   **Sonidos útiles que mejoran la accesibilidad:** active las indicaciones de audio para guiarse mientras trabaja. Las encontrará en Archivo \> Opciones \> Accesibilidad. No se necesita ningún complemento. [Más información](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
 -   **Ubicaciones de archivo por cuenta:** al abrir o guardar un archivo, la lista de ubicaciones se organiza en función de la cuenta asociada.
 -   **Personalización del lápiz:** elija un conjunto personal de lápices y marcadores de resaltado para las entradas manuscritas. Su conjunto personalizado estará disponible en todos sus equipos PC Windows.
 -   **Ayuda de escritura mejorada con el panel Editor:** use el panel Editor para ver las recomendaciones de estilo avanzadas de escritura, gramática y ortografía. Se ha creado para ser accesible con compatibilidad mejorada para las tecnologías de asistencia.
