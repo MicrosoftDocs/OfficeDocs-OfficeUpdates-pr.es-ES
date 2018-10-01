@@ -3,30 +3,30 @@ title: Información de publicación de actualizaciones para Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/11/18
+ms.date: 9/28/18
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Proporciona a los profesionales de TI una lista de las últimas versiones de Office 365 ProPlus para cada canal de actualización y vínculos a notas de la versión y el historial de actualizaciones.
-ms.openlocfilehash: 86a81b16337785d3d33046cd9e52edd0f26538c1
-ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
+description: Proporciona a los profesionales de TI una lista de las últimas versiones de Office 365 ProPlus para cada canal de actualización y vínculos a notas de la versión y el historial de actualizaciones
+ms.openlocfilehash: 56d4196a2927ab36e3f6155b9e47e02f58d2efcc
+ms.sourcegitcommit: aab293ffb82e0d84b3c9e8d80ca96c3368514d42
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/12/2018
-ms.locfileid: "23952390"
+ms.lasthandoff: 09/28/2018
+ms.locfileid: "25346986"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Información de publicación de actualizaciones para Office 365 ProPlus
 
-Office 365 ProPlus se actualiza periódicamente con nuevas características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad. Estas actualizaciones se publican usando [canales de actualización](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus). Cada versión de cada canal de actualización tiene asignado un número de versión y compilación. 
+Office 365 ProPlus se actualiza periódicamente con nuevas características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad. Estas actualizaciones se publican usando [canales de actualización](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus). Cada lanzamiento en cada canal de actualización tiene asignado un número de versión y compilación. 
 
 En la tabla siguiente, se muestra la versión compatible y el número de compilación más reciente para cada canal de actualización. El número de compilación tiene un vínculo directo a las notas de la versión. 
 
   
 |**Canal**|**Versión**|**Compilación**|**Fecha de publicación**|**Versión compatible hasta**|
 |:-----|:-----|:-----|:-----|:-----|
-|Mensual  <br/> |1808  <br/> |[10730.20102](monthly-channel-2018.md#version-1808-september-11)  <br/> | 11 de septiembre de 2018  <br/> |Se ha publicado la versión 1809 <br/>|
+|Mensual  <br/> |1809  <br/> |[10827.20138](monthly-channel-2018.md#version-1809-september-27)  <br/> | 27 de septiembre de 2018  <br/> |Se ha publicado la versión 1810 <br/>|
 |Semianual (dirigido)  <br/> |1808  <br/> |[10730.20102](semi-annual-channel-targeted-2018.md#version-1808-September-11)  <br/> | 11 de septiembre de 2018  <br/> | 13 de marzo de 2019 <br/>|
 |Semianual <br/> |1803  <br/> | [9126.2282](semi-annual-channel-2018.md#version-1803-september-11) <br/> | 11 de septiembre de 2018  <br/> | 10 de septiembre de 2019 <br/>|
 |Semianual <br/> |1708  <br/> |[8431.2309](semi-annual-channel-2018.md#version-1708-september-11)  <br/> | 11 de septiembre de 2018  <br/> | 13 de marzo de 2019 <br/>|
@@ -53,7 +53,7 @@ Para obtener una lista completa de notas de la versión por canal y año de la a
 
 ## <a name="office-for-mac-release-information"></a>Información de versiones de Office para Mac
 
-Para obtener información sobre las actualizaciones de Office para Mac, que se incluye con cualquier plan de suscripción de Office 365 que incluya Office 365 ProPlus, vea los siguientes artículos:
+Para obtener información sobre las actualizaciones de Office para Mac, que se incluye con cualquier plan de suscripción de Office 365 que incluya Office 365 ProPlus, consulte los siguientes artículos:
  - [Historial de actualizaciones de Office para Mac](update-history-office-for-mac.md)
  - [Notas de la versión de Office para Mac](release-notes-office-for-mac.md)
 
