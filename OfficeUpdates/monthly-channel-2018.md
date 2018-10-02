@@ -1,23 +1,8 @@
 ---
-title: Notas de la versión para las versiones de Canal mensual en 2018
-ms.author: andrewmo
-author: andymosten
-manager: andrewmo
-ms.date: 9/28/2018
-ms.audience: ITPro
-ms.topic: reference
-ms.service: o365-proplus-itpro
-localization_priority: Critical
-ms.collection: RelNotes_ProPlus
-description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2018
-ms.openlocfilehash: 60d4edfce49b15246cccf5ecbc441db2e0cfeb79
-ms.sourcegitcommit: aab293ffb82e0d84b3c9e8d80ca96c3368514d42
-ms.translationtype: HT
-ms.contentlocale: es-ES
-ms.lasthandoff: 09/28/2018
-ms.locfileid: "25347016"
+title: "Notas de la versión de las versiones de canal mensual de 2018" ms.author: andrewmo author: andymosten manager: andrewmo ms.date:10/1/2018 ms.audience: ITPro ms.topic: reference ms.service: o365-proplus-itpro localization_priority: Critical ms.collection: RelNotes_ProPlus description: "Proporciona a los profesionales de TI las notas de la versión de las versiones de canal mensual de Office 365 ProPlus de 2018"
 ---
-# <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de la versión para las versiones de Canal mensual en 2018
+
+# <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de la versión de las versiones de canal mensual de 2018
 
 En estas notas de la versión, se proporciona información sobre características nuevas, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones de Canal mensual para Office 365 ProPlus en 2018.
  
@@ -59,7 +44,7 @@ En estas notas de la versión, se proporciona información sobre característica
 ### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
 -   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430): vulnerabilidad de la ejecución remota de código de Word PDF
 
-### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones de seguridad
+### <a name="office-suite-security-updates"></a>Office Suite: actualizaciones de seguridad
 -   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): vulnerabilidad de ejecución remota de código de gráficos Win32k
 
 
@@ -69,13 +54,13 @@ En estas notas de la versión, se proporciona información sobre característica
 ### <a name="access-feature-updates"></a>Access: actualizaciones de características
  - **Actualizar, volver a vincular o quitar las tablas vinculadas** El Administrador de tablas vinculadas actualizado es la ubicación para administrar todos los orígenes de datos y las tablas vinculadas. [Más información](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
 
-### <a name="outlook-feature-updates"></a>Outlook: actualizaciones de características
+### <a name="outlook-feature-updates"></a>Outlook: Actualizaciones de características
  - **Desactivar la transferencia de una reunión** Impide a los asistentes el reenvío de la reunión a otras personas. Solo tiene que ir a la cinta de opciones y hacer clic en Opciones de respuesta. [Más información](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)
  
 ### <a name="visio-feature-updates"></a>Visio: Actualizaciones de características
  - **Disfrute de un momento icónico en el diagrama siguiente** Elija de entre 26 nuevas galerías de símbolos con iconos para análisis, arte, cumpleaños, caras, deportes y mucho más. 
  - **Crear un documento de Word con formas de Visio** Agregue automáticamente el contenido de diagramas, incluidos formas y metadatos, a un documento de Word. A continuación, personalice el documento para crear manuales de operación e instrucciones de proceso. [Más información](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
- - **Visio y Power BI: mejor juntos** Con unos pocos clics, convierta su diagrama de Visio en un visualización Power BI interactiva. [Más información](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+ - **Visio y Power BI: mejor juntos** Con unos pocos clics, convierta su diagrama de Visio en una visualización interactiva de Power BI. [Más información](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
 
  ### <a name="project-feature-updates"></a>Project: Actualizaciones de características
  - **Vea más información en las tarjetas del panel de tareas** Cuando el título por sí solo no lo dice todo, personalice las tarjetas de panel de tareas para mostrar todos los detalles más importantes. [Más información](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
@@ -124,10 +109,10 @@ En estas notas de la versión, se proporciona información sobre característica
  - **Crear un documento de Word a partir de formas de Visio:** agregue automáticamente contenido de diagramas, incluidas formas y metadatos, a un documento de Word. Después, personalice el documento para crear instrucciones de procesos y manuales de operaciones. [Más información](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
 ### <a name="word-feature-updates"></a>Word: actualizaciones de características
- - **Control de cambios con IRM:** ahora puede usar la característica Control de cambios en Word en documentos protegidos mediante IRM sin necesitar el derecho de uso Control total.
+ - **Control de cambios con IRM:** ahora puede usar la característica Control de cambios en Word en documentos protegidos mediante IRM sin que sea necesario el derecho de uso Control total.
 
 ### <a name="office-suite-non-security-updates"></a>Office Suite: actualizaciones no relacionadas con la seguridad
- - Se ha corregido un conjunto de errores que evitaban que algunos usuarios pudiesen abrir documentos y correos electrónicos protegidos mediante IRM compartidos con ellos por gente de otras organizaciones.
+ - Se ha corregido un conjunto de errores que evitaban que algunos usuarios pudiesen abrir documentos y correos electrónicos protegidos mediante IRM compartidos con ellos por personas de otras organizaciones.
 
 ## <a name="version-1806-july-17"></a>Versión 1806: 17 de julio
 *Versión 1806 (compilación 10228.20134)*
@@ -166,7 +151,7 @@ En estas notas de la versión, se proporciona información sobre característica
 
 ### <a name="project-feature-updates"></a>Project: actualizaciones de características
  - **Todo organizado con Ubicaciones de almacenamiento recientes:** Project mantiene una lista actualizada de las ubicaciones en las que ha guardado otros proyectos. Cuando quiera guardar su proyecto, simplemente elija una de sus ubicaciones de almacenamiento recientes y continúe con su día.
- - **Una nueva forma de administrar sprints:** tome un enfoque ágil para trabajar con paneles de tareas. Vaya a Administrar sprints para agregar y quitar sprints a medida que evoluciona el proyecto.
+ - **Una nueva forma de administrar sprints:** adopte un enfoque ágil para trabajar con paneles de tareas. Vaya a Administrar sprints para agregar y quitar sprints a medida que evoluciona el proyecto.
 
 
 ### <a name="project-non-security-updates"></a>Project: actualizaciones no relacionadas con la seguridad
@@ -221,7 +206,7 @@ En estas notas de la versión, se proporciona información sobre característica
  - **Visualizar datos con nuevos gráficos:** elija entre 11 gráficos y agregue uno a los formularios e informes para visualizar mejor los datos y tomar decisiones fundamentadas. [Más información](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
 
 ### <a name="excel-feature-updates"></a>Excel: actualizaciones de características
- - **Chat con coautores al editar:** colabore de forma más eficaz al chatear con los coautores sin salir de Excel. Tenga en cuenta que esta característica no está disponible en algunas regiones.[Más información](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
+ - **Chatee con los coautores mientras edita:** colabore de forma más eficaz chateando con los coautores sin salir de Excel. Tenga en cuenta que esta característica no está disponible en algunas regiones.[Más información](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
 
 ### <a name="outlook-feature-updates"></a>Outlook: actualizaciones de características
  - **Escribir sin manos:** use su voz para crear correos electrónicos simplemente dictando. No es necesario escribir. [Más información](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
@@ -281,7 +266,7 @@ En estas notas de la versión, se proporciona información sobre característica
 ### <a name="outlook-feature-updates"></a>Outlook: actualizaciones de características
 -   **Escuchar sus correos electrónicos:** Outlook puede leer el correo electrónico en voz alta y resaltar texto a medida que se lee. [Más información](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
 -   **Nunca pierda un aviso:** establezca avisos para que aparezcan elementos emergentes en las ventanas mientras está trabajando. En caso contrario, Outlook parpadeará en la barra de tareas para llamar su atención.[Más información](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
--   **Marcar los elementos eliminados como leído:** ahora puede establecer como leídos los mensajes que elimine. Para hacerlo, vaya a Archivo \> Opciones \> Correo \> Otros.
+-   **Marcar los elementos eliminados como leídos:** ahora puede establecer como leídos los mensajes que elimine. Para hacerlo, vaya a Archivo \> Opciones \> Correo \> Otros.
 -   **Opción de cifrar:** los usuarios de cifrado de mensajes de Office 365 pueden cifrar un mensaje y enviarlo a cualquier usuario dentro o fuera de su organización. La opción Cifrar aparece en Opciones \> Permisos al crear un mensaje. [Más información](https://aka.ms/omeoverview)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
@@ -290,7 +275,7 @@ En estas notas de la versión, se proporciona información sobre característica
 ### <a name="project-feature-updates"></a>Project: actualizaciones de características
 -   **Filtrado del panel de tareas:** simplifique los paneles de tareas filtrando las tareas de resumen o de recursos clave.
 -   ** Establecer el porcentaje completado de un panel de tareas:**  elija un porcentaje completado de cada columna y después actualice la finalización de tareas con arrastrar y colocar.
--   **Navegación sprint:** cambie de una vista de sprint a otra y desplácese rápidamente tareas entre sprints.
+-   **Navegación sprint:** cambie de una vista de sprint a otra y mueva rápidamente tareas entre sprints.
 
 ### <a name="word-feature-updates"></a>Word: actualizaciones de características
 -   **Buscar y corregir problemas de corrección relevantes:** el panel del editor ahora muestra información general sobre la corrección de problemas que se encuentran en el documento, por lo que el foco está en solucionar los que son más relevantes para usted.
@@ -306,7 +291,7 @@ En estas notas de la versión, se proporciona información sobre característica
 -   Se ha corregido un problema que provocaba que, cuando había varios usuarios trabajando en coautoría en la misma presentación, se duplicaran de forma incorrecta los patrones de diapositivas.
 -   Se ha corregido un problema por el que, al abrir un archivo guardado en OneDrive, se bloqueaba PowerPoint al salir de la Vista protegida.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: actualizaciones no relacionadas con la seguridad
+### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: actualizaciones no relacionadas con la seguridad
 -   Se ha corregido un problema relacionado con la compatibilidad del protocolo TLS 1.2.
 
 ### <a name="word-non-security-updates"></a>Word: actualizaciones no relacionadas con la seguridad
@@ -330,7 +315,7 @@ En estas notas de la versión, se proporciona información sobre característica
 -   Se ha corregido un problema por el que al usar las funciones de cubo Excel se bloqueaba.
 
 ### <a name="onedrive-for-business-non-security-updates"></a>OneDrive para la Empresa: actualizaciones no relacionadas con la seguridad
--   Se ha corregido un problema por el que OneDrive para la Empresa (Groove.exe) consume un núcleo de la CPU válido de CPU (por ejemplo, un 25 % en una CPU de 4 núcleos) en el Administrador de tareas durante amplios períodos de tiempo.
+-   Se ha corregido un problema por el que OneDrive para la Empresa (Groove.exe) consume un núcleo de la CPU válido de CPU (por ejemplo, un 25 % en una CPU de 4 núcleos) en el Administrador de tareas durante amplios períodos de tiempo.
 
 ### <a name="outlook-feature-updates"></a>Outlook: actualizaciones de características
 -   **Advertencia de copia carbón oculta (CCO):** si decide responder a todos en un mensaje en el que su dirección estaba incluida en el campo CCO, aparecerá una advertencia.
@@ -338,7 +323,7 @@ En estas notas de la versión, se proporciona información sobre característica
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
 -   **Microsoft Translator:** traduzca palabras, frases u oraciones a otro idioma con Microsoft Translator. Puede hacerlo desde la pestaña Revisar de la cinta de opciones.
--   **Compatibilidad mejorada con pantallas de alta definición**: si usa varios monitores o una base de conexión para portátil, las aplicaciones de Office ofrecen ahora una imagen nítida en todas las pantallas, incluso si tienen configuraciones de escala diferentes. [Más información](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
+-   **Compatibilidad mejorada con pantallas de alta definición**: si usa varios monitores o una base de conexión para portátil, las aplicaciones de Office ofrecen ahora una imagen nítida en todas las pantallas, incluso si tienen configuraciones de escala diferentes. [Obtener más información](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: actualizaciones no relacionadas con la seguridad
 -   Se ha corregido un problema por el que se recibía un error al agregar usuarios seleccionando “Llamada de Skype” en una reunión.
@@ -422,17 +407,17 @@ En estas notas de la versión, se proporciona información sobre característica
 -   Se ha corregido un problema por el que la ventana de llamada de audio P2P o de llamada de conferencia volvía transparente al intentar unirse.
 -   Se ha corregido un problema por el que las reuniones de Skype futuras no se mostraban en la pestaña de reuniones.
 -   Se ha corregido un problema por el que si Skype Empresarial estaba configurado para unirse a las reuniones sin audio, al agregar audio a una reunión, se iniciaba una llamada P2P nueva al mismo usuario en vez de agregar el audio a la reunión existente.
--   Se ha solucionado un problema en el que el usuario recibía el mensaje de error "No hemos podido encontrar esta reunión de Skype" al hacer clic en el vínculo "Unirse a la reunión de Skype" en una convocatoria de reunión de Outlook.
+-   Se ha solucionado un problema que provocaba que el usuario recibiera el mensaje de error "No hemos podido encontrar esta reunión de Skype" al hacer clic en el vínculo "Unirse a la reunión de Skype" en una convocatoria de reunión de Outlook.
 
 
 ## <a name="version-1712-january-30"></a>Versión 1712: 30 de enero
 *Versión 1712 (compilación 8827.2179)*
 
 ### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad
--   Se ha solucionado un problema por el que faltaban las barras de desplazamiento al abrir un libro mientras Excel estaba minimizado.
+-   Se ha solucionado un problema que provocaba que no se mostraran las barras de desplazamiento al abrir un libro mientras Excel estaba minimizado.
 
 ### <a name="outlook-non-security-updates"></a>Outlook: actualizaciones no relacionadas con la seguridad
--   Se ha solucionado un problema por el que la búsqueda daba el error "No se encontraron coincidencias" cuando el ámbito de la búsqueda era Todos los buzones.
+-   Se ha solucionado un problema que provocaba que la búsqueda mostrara el error "No se encontraron coincidencias" cuando el ámbito de la búsqueda era Todos los buzones.
 
 
 ## <a name="version-1712-january-17"></a>Versión 1712: 17 de enero
