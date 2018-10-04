@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista de las últimas versiones de Office 365 ProPlus para cada canal de actualización y vínculos a notas de la versión y el historial de actualizaciones
-ms.openlocfilehash: 56d4196a2927ab36e3f6155b9e47e02f58d2efcc
-ms.sourcegitcommit: aab293ffb82e0d84b3c9e8d80ca96c3368514d42
+ms.openlocfilehash: f5eb1057e2db9052cc11b636ca66b0053bd67dc6
+ms.sourcegitcommit: 116ff3898a6272bff303c954059ff487f91746b0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/28/2018
-ms.locfileid: "25346986"
+ms.lasthandoff: 10/04/2018
+ms.locfileid: "25363900"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Información de publicación de actualizaciones para Office 365 ProPlus
 
@@ -24,7 +24,7 @@ Office 365 ProPlus se actualiza periódicamente con nuevas características, act
 En la tabla siguiente, se muestra la versión compatible y el número de compilación más reciente para cada canal de actualización. El número de compilación tiene un vínculo directo a las notas de la versión. 
 
   
-|**Canal**|**Versión**|**Compilación**|**Fecha de publicación**|**Versión compatible hasta**|
+|**Canal**|**Versión**|**Compilación**|**Fecha de lanzamiento**|**Versión compatible hasta**|
 |:-----|:-----|:-----|:-----|:-----|
 |Mensual  <br/> |1809  <br/> |[10827.20138](monthly-channel-2018.md#version-1809-september-27)  <br/> | 27 de septiembre de 2018  <br/> |Se ha publicado la versión 1810 <br/>|
 |Semianual (dirigido)  <br/> |1808  <br/> |[10730.20102](semi-annual-channel-targeted-2018.md#version-1808-September-11)  <br/> | 11 de septiembre de 2018  <br/> | 13 de marzo de 2019 <br/>|
@@ -42,7 +42,6 @@ Para obtener información sobre los tamaños de descarga aproximados de las actu
 
 Para obtener una lista completa de versiones, vea los siguientes artículos:
  - [Historial de actualizaciones de Office 365 ProPlus (ordenado por fecha)](update-history-office365-proplus-by-date.md)
- - [Historial de actualizaciones de Office 365 ProPlus (ordenado por versión)](update-history-office365-proplus-by-version.md)
 
 ## <a name="release-notes-for-office-365-proplus-releases"></a>Notas de la versión para las versiones de Office 365 ProPlus
 

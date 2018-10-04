@@ -1,8 +1,23 @@
 ---
-title: "Notas de la versión de las versiones de canal mensual de 2018" ms.author: andrewmo author: andymosten manager: andrewmo ms.date:10/3/2018 ms.audience: ITPro ms.topic: reference ms.service: o365-proplus-itpro localization_priority: Critical ms.collection: RelNotes_ProPlus description: "Proporciona a los profesionales de TI las notas de la versión de las versiones de canal mensual de Office 365 ProPlus de 2018"
+title: Notas de la versión para las versiones de Canal mensual en 2018
+ms.author: andrewmo
+author: andymosten
+manager: andrewmo
+ms.date: 10/3/2018
+ms.audience: ITPro
+ms.topic: reference
+ms.service: o365-proplus-itpro
+localization_priority: Critical
+ms.collection: RelNotes_ProPlus
+description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2018
+ms.openlocfilehash: bdd37742401a72802e5e347cb9263d8e4a40eeda
+ms.sourcegitcommit: 3d0d776ed955ab7c8cc52c8f68986048c1f4b7e3
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362715"
 ---
-
-# <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de versión para las versiones de Canal mensual en 2018
+# <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de la versión para las versiones de Canal mensual en 2018
 
 En estas notas de la versión, se proporciona información sobre características nuevas, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones de Canal mensual para Office 365 ProPlus en 2018.
  
@@ -15,8 +30,7 @@ En estas notas de la versión, se proporciona información sobre característica
 
 ### <a name="excel-feature-updates"></a>Excel: actualizaciones de características
 - **Búsqueda rápida** Hemos acelerado los cálculos de VLOOKUP, HLOOKUP y MATCH para que pueda obtener respuestas más rápidamente. [Obtener más información](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
-- **Descubra más sobre sus datos** Las aplicaciones de Office 365 están dotadas de inteligencia artificial (IA) para ayudarle a hacer su mejor trabajo. El panel Ideas utiliza IA para crear sugerencias inteligentes y prácticas que le ahorrarán tiempo y mejorarán su contenido.[Más información](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
-- **Novedades para los amantes de Obtener y Transformar** Si usa mucho Obtener y Transformar, le gustará saber que la función Columna desde ejemplo se ha mejorado. Y también se han mejorado muchos conectores. [Obtener más información](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
+- **Novedades para los amantes de Obtener y Transformar** Si usa mucho Obtener y Transformar, le gustará saber que la función "Columna desde ejemplo" se ha mejorado. Y también se han mejorado muchos conectores. [Obtener más información](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
 - **Los iconos de la cinta de opciones tienen un nuevo aspecto** No se preocupe, todo funciona de la misma manera. Además, se ven muy bien en pantallas de todos los tamaños. [Obtener más información](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="outlook-feature-updates"></a>Outlook: actualizaciones de características
@@ -26,8 +40,8 @@ En estas notas de la versión, se proporciona información sobre característica
 - **Los iconos de la cinta de opciones tienen un nuevo aspecto** No se preocupe, todo funciona de la misma manera. Además, se ven muy bien en pantallas de todos los tamaños. [Obtener más información](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
-- **Vea cómo sus diapositivas cobran vida** Inserte gráficos animados en 3D para ver corazones latir, planetas orbitar y el alboroto de un T-Rex a través de la pantalla.  [Obtener más información](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
-- **Nuevas herramientas de revisión** Escriba sin preocupaciones. Ahora, PowerPoint proporciona sugerencias de escritura y de gramática. [Obtener más información](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
+- **Vea cómo sus diapositivas cobran vida** Inserte gráficos animados en 3D para ver los corazones latir, los planetas orbitar y el alboroto de T-Rex a través de la pantalla.  [Obtener más información](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
+- **Nuevas herramientas de revisión** No se preocupe por las palabras. Ahora, PowerPoint proporciona sugerencias de escritura y de gramática. [Obtener más información](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
 - **Los iconos de la cinta de opciones tienen un nuevo aspecto** No se preocupe, todo funciona de la misma manera. Además, se ven muy bien en pantallas de todos los tamaños. [Obtener más información](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="word-feature-updates"></a>Word: actualizaciones de características
