@@ -1,8 +1,8 @@
 ---
-title: "Notas de la versión de las versiones de canal mensual de 2018" ms.author: andrewmo author: andymosten manager: andrewmo ms.date:10/1/2018 ms.audience: ITPro ms.topic: reference ms.service: o365-proplus-itpro localization_priority: Critical ms.collection: RelNotes_ProPlus description: "Proporciona a los profesionales de TI las notas de la versión de las versiones de canal mensual de Office 365 ProPlus de 2018"
+title: "Notas de la versión de las versiones de canal mensual de 2018" ms.author: andrewmo author: andymosten manager: andrewmo ms.date:10/3/2018 ms.audience: ITPro ms.topic: reference ms.service: o365-proplus-itpro localization_priority: Critical ms.collection: RelNotes_ProPlus description: "Proporciona a los profesionales de TI las notas de la versión de las versiones de canal mensual de Office 365 ProPlus de 2018"
 ---
 
-# <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de la versión de las versiones de canal mensual de 2018
+# <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de versión para las versiones de Canal mensual en 2018
 
 En estas notas de la versión, se proporciona información sobre características nuevas, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones de Canal mensual para Office 365 ProPlus en 2018.
  
@@ -14,25 +14,26 @@ En estas notas de la versión, se proporciona información sobre característica
 *Versión 1809 (compilación 10827.20138)*
 
 ### <a name="excel-feature-updates"></a>Excel: actualizaciones de características
-- **Búsqueda rápida** Hemos acelerado los cálculos de VLOOKUP, HLOOKUP y MATCH para que pueda obtener respuestas más rápidamente.
+- **Búsqueda rápida** Hemos acelerado los cálculos de VLOOKUP, HLOOKUP y MATCH para que pueda obtener respuestas más rápidamente. [Obtener más información](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
 - **Descubra más sobre sus datos** Las aplicaciones de Office 365 están dotadas de inteligencia artificial (IA) para ayudarle a hacer su mejor trabajo. El panel Ideas utiliza IA para crear sugerencias inteligentes y prácticas que le ahorrarán tiempo y mejorarán su contenido.[Más información](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
-- **Novedades para los amantes de Obtener y Transformar** Si usa mucho Obtener y Transformar, le gustará saber que la función Columna desde ejemplo se ha mejorado. Y también se han mejorado muchos conectores. [Más información](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
-- **Los iconos de la cinta de opciones tienen un nuevo aspecto** No se preocupe, todo funciona de la misma manera. Además, se ven muy bien en pantallas de todos los tamaños. [Más información](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Novedades para los amantes de Obtener y Transformar** Si usa mucho Obtener y Transformar, le gustará saber que la función Columna desde ejemplo se ha mejorado. Y también se han mejorado muchos conectores. [Obtener más información](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
+- **Los iconos de la cinta de opciones tienen un nuevo aspecto** No se preocupe, todo funciona de la misma manera. Además, se ven muy bien en pantallas de todos los tamaños. [Obtener más información](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="outlook-feature-updates"></a>Outlook: actualizaciones de características
-- **Vea lo que está por venir** Pruebe nuevas experiencias de usuario antes de que salgan a la venta y háganos saber lo que piensa. [Más información](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
+- **Vea lo que está por venir** Pruebe nuevas experiencias de usuario antes de que salgan a la venta y háganos saber lo que piensa. [Obtener más información](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
 - **Vea la dirección URL detrás de los Vínculos seguros** Los Vínculos seguros ayudan a proteger el equipo contra direcciones URL malintencionadas recibidas por correo electrónico que ocultan la dirección URL original. Ahora simplemente tiene que pasar el ratón por encima de una dirección URL para ver la original, incluso en los vínculos protegidos por Vínculos seguros.
 - **Obtenga sugerencias de ortografía de búsqueda** Después de realizar una búsqueda, Outlook proporcionará una consulta de búsqueda sugerida con las correcciones ortográficas.
-- **Los iconos de la cinta de opciones tienen un nuevo aspecto** No se preocupe, todo funciona de la misma manera. Además, se ven muy bien en pantallas de todos los tamaños. [Más información](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Los iconos de la cinta de opciones tienen un nuevo aspecto** No se preocupe, todo funciona de la misma manera. Además, se ven muy bien en pantallas de todos los tamaños. [Obtener más información](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
-- **Nuevas herramientas de revisión** No se preocupe por las palabras. Ahora, PowerPoint proporciona sugerencias de escritura y de gramática. [Más información](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
-- **Los iconos de la cinta de opciones tienen un nuevo aspecto** No se preocupe, todo funciona de la misma manera. Además, se ven muy bien en pantallas de todos los tamaños. [Más información](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Vea cómo sus diapositivas cobran vida** Inserte gráficos animados en 3D para ver corazones latir, planetas orbitar y el alboroto de un T-Rex a través de la pantalla.  [Obtener más información](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
+- **Nuevas herramientas de revisión** Escriba sin preocupaciones. Ahora, PowerPoint proporciona sugerencias de escritura y de gramática. [Obtener más información](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
+- **Los iconos de la cinta de opciones tienen un nuevo aspecto** No se preocupe, todo funciona de la misma manera. Además, se ven muy bien en pantallas de todos los tamaños. [Obtener más información](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="word-feature-updates"></a>Word: actualizaciones de características
-- **Obtenga su atención con \@mentions** Utilice @mentions en los comentarios para que los compañeros sepan que necesita su colaboración. [Más información](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
-- **Los iconos de la cinta de opciones tienen un nuevo aspecto** No se preocupe, todo funciona de la misma manera. Además, se ven muy bien en pantallas de todos los tamaños. [Más información](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
-- **Convertidor de Editor de ecuaciones** El convertidor permite a los usuarios convertir ecuaciones creadas mediante el Editor de ecuaciones de Microsoft al formato de Office Math ML para habilitar la edición. 
+- **Obtenga su atención con \@mentions** Utilice @mentions en los comentarios para que los compañeros sepan que necesita su colaboración. [Obtener más información](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **Los iconos de la cinta de opciones tienen un nuevo aspecto** No se preocupe, todo funciona de la misma manera. Además, se ven muy bien en pantallas de todos los tamaños. [Obtener más información](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Convertidor de Editor de ecuaciones** El convertidor permite a los usuarios convertir ecuaciones creadas mediante el Editor de ecuaciones de Microsoft al formato de Office Math ML para habilitar la edición.
 
 ## <a name="version-1808-september-11"></a>Versión 1808: 11 de septiembre
 *Versión 1808 (compilación 10730.20102)*
@@ -52,18 +53,18 @@ En estas notas de la versión, se proporciona información sobre característica
 *Versión 1808 (compilación 10730.20088)*
 
 ### <a name="access-feature-updates"></a>Access: actualizaciones de características
- - **Actualizar, volver a vincular o quitar las tablas vinculadas** El Administrador de tablas vinculadas actualizado es la ubicación para administrar todos los orígenes de datos y las tablas vinculadas. [Más información](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
+ - **Actualizar, volver a vincular o quitar las tablas vinculadas** El Administrador de tablas vinculadas actualizado es la ubicación para administrar todos los orígenes de datos y las tablas vinculadas. [Obtener más información](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
 
 ### <a name="outlook-feature-updates"></a>Outlook: Actualizaciones de características
- - **Desactivar la transferencia de una reunión** Impide a los asistentes el reenvío de la reunión a otras personas. Solo tiene que ir a la cinta de opciones y hacer clic en Opciones de respuesta. [Más información](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)
+ - **Desactivar la transferencia de una reunión** Impide a los asistentes el reenvío de la reunión a otras personas. Solo tiene que ir a la cinta de opciones y hacer clic en Opciones de respuesta. [Obtener más información](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)
  
 ### <a name="visio-feature-updates"></a>Visio: Actualizaciones de características
  - **Disfrute de un momento icónico en el diagrama siguiente** Elija de entre 26 nuevas galerías de símbolos con iconos para análisis, arte, cumpleaños, caras, deportes y mucho más. 
- - **Crear un documento de Word con formas de Visio** Agregue automáticamente el contenido de diagramas, incluidos formas y metadatos, a un documento de Word. A continuación, personalice el documento para crear manuales de operación e instrucciones de proceso. [Más información](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
- - **Visio y Power BI: mejor juntos** Con unos pocos clics, convierta su diagrama de Visio en una visualización interactiva de Power BI. [Más información](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+ - **Crear un documento de Word con formas de Visio** Agregue automáticamente el contenido de diagramas, incluidos formas y metadatos, a un documento de Word. A continuación, personalice el documento para crear manuales de operación e instrucciones de proceso. [Obtener más información](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+ - **Visio y Power BI: mejor juntos** Con unos pocos clics, convierta su diagrama de Visio en una visualización interactiva de Power BI. [Obtener más información](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
 
  ### <a name="project-feature-updates"></a>Project: Actualizaciones de características
- - **Vea más información en las tarjetas del panel de tareas** Cuando el título por sí solo no lo dice todo, personalice las tarjetas de panel de tareas para mostrar todos los detalles más importantes. [Más información](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
+ - **Vea más información en las tarjetas del panel de tareas** Cuando el título por sí solo no lo dice todo, personalice las tarjetas de panel de tareas para mostrar todos los detalles más importantes. [Obtener más información](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
 
 ### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad
 -  Soluciona un problema en Excel por el cual la línea de puntos que marca el intervalo de celdas que un usuario ha seleccionado para la copia no desaparece y permanece en el portapapeles incluso después de una operación de usuario posterior como pegar. 
@@ -142,7 +143,7 @@ En estas notas de la versión, se proporciona información sobre característica
 
 ### <a name="outlook-feature-updates"></a>Outlook: actualizaciones de características
  - **Valor predeterminado de periodicidad:** en el cuadro de diálogo Periodicidad de citas (en "Rango de periodicidad"), "Finalizar antes de" es la opción de configuración predeterminada (en lugar de "Sin fecha de finalización") y es la primera opción de la lista; además, se establece una fecha de finalización predeterminada.
- - **Mejoras del Comprobador de accesibilidad:** el Comprobador de accesibilidad ha actualizado la asistencia técnica para las normas internacionales y recomendaciones para que los mensajes sean más accesibles. [Más información](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+ - **Mejoras del Comprobador de accesibilidad:** el Comprobador de accesibilidad ha actualizado la asistencia técnica para las normas internacionales y recomendaciones para que los mensajes sean más accesibles. [Obtener más información](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
  - **Compatibilidad con el formato SVG mejorada:** puede insertar imágenes SVG que tengan filtros aplicados. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
@@ -436,7 +437,7 @@ En estas notas de la versión, se proporciona información sobre característica
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
 -   **Animaciones 3D:** dé vida a modelos 3D con animaciones, como un balanceo ligero, o un salto y un giro.
--   **Convertir iconos SVG en formas:** transforme todas las imágenes e iconos SVG en formas de Office para poder cambiar su color, tamaño o textura.
+-   **Convierta iconos SVG en formas:** transforme todas las imágenes e iconos SVG en formas de Office para poder cambiar su color, tamaño o textura.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: actualizaciones no relacionadas con la seguridad
 -   Se agrega el botón "Transferir llamada" a la interfaz de usuario de notificaciones del sistema para llamadas RTC entrantes.
