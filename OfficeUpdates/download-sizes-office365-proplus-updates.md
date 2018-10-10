@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Office 365 ProPlus según el canal de actualización
-ms.openlocfilehash: a5c51a9ccaf7484360965371868b9d444f0b1eda
-ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
+ms.openlocfilehash: 78ab2d6fa201e495f4dcbb48ac1a331100119fd9
+ms.sourcegitcommit: 939cf28550ccb4a6a448ff315071f7f906b204b5
 ms.translationtype: HT
 ms.contentlocale: es-ES
 ms.lasthandoff: 10/10/2018
-ms.locfileid: "25456824"
+ms.locfileid: "25459417"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 
@@ -51,12 +51,12 @@ La versión más actual es la 1809 (compilación 10827.20150).
   
 ### <a name="semi-annual-channel"></a>Canal semianual
 
-La versión más actual es la 1808 (compilación 9126.2295).
+La versión más actual es la 1803 (Compilación 9126.2295).
   
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
 |Versión 1803 (compilación 9126.2275)  <br/> |14 de agosto de 2018  <br/> |104 <br/> |
-|Versión 11803 (compilación 9126.2282)  <br/> |11 de septiembre de 2018  <br/> |100<br/> |
+|Versión 1803 (compilación 9126.2282)  <br/> |11 de septiembre de 2018  <br/> |100<br/> |
 
   
 ### <a name="semi-annual-channel-targeted"></a>Canal semianual (dirigido)

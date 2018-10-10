@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista completa de las versiones de Office 365 ProPlus, organizada por fecha, con vínculos a las notas de la versión.
-ms.openlocfilehash: d432974218b8d9d7ffa7d31b5364aa70c48ac28f
-ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
+ms.openlocfilehash: b43645d1ee37144af913529d421986550776471a
+ms.sourcegitcommit: 939cf28550ccb4a6a448ff315071f7f906b204b5
 ms.translationtype: HT
 ms.contentlocale: es-ES
 ms.lasthandoff: 10/10/2018
-ms.locfileid: "25456774"
+ms.locfileid: "25459407"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Historial de actualizaciones de Office 365 ProPlus (ordenado por fecha)
 
@@ -32,7 +32,7 @@ En la tabla siguiente, se muestra una lista de los números de versión y compil
 
 |**Año**|**Fecha de lanzamiento**|**Canal mensual**|**Canal semianual (dirigido)**|**Canal semianual**|
 |:-----|:-----|:-----|:-----|:-----|
-|2018|9 de octubre |[**Versión 1809 (compilación 10827.20150)**](monthly-channel-2018.md#version-1809-october-9)|[**Versión 1808 (compilación 10730.20155)**](semi-annual-channel-targeted-2018.md#version-1808-october-9) |[**Versión 1808 (compilación 9126.2295)**](semi-annual-channel-2018.md#version-1808-october-9)  <br/>  [Versión 1708 (compilación 8431.2316)](semi-annual-channel-2018.md#version-1708-october-9)   |
+|2018|9 de octubre |[**Versión 1809 (compilación 10827.20150)**](monthly-channel-2018.md#version-1809-october-9)|[**Versión 1808 (compilación 10730.20155)**](semi-annual-channel-targeted-2018.md#version-1808-october-9) |[**Versión 1803 (compilación 9126.2295)**](semi-annual-channel-2018.md#version-1803-october-9)  <br/>  [Versión 1708 (compilación 8431.2316)](semi-annual-channel-2018.md#version-1708-october-9)   |
 |2018|27 de septiembre   |[Versión 1809 (compilación 10827.20138)](monthly-channel-2018.md#version-1809-september-27)| | |
 |2018|11 de septiembre   |[Versión 1808 (compilación 10730.20102)](monthly-channel-2018.md#version-1808-september-11)|[Versión 1808 (compilación 10730.20102)](semi-annual-channel-targeted-2018.md#version-1808-september-11) |[Versión 1803 (compilación 9126.2282)](semi-annual-channel-2018.md#version-1803-september-11)  <br/>  [Versión 1708 (compilación 8431.2309)](semi-annual-channel-2018.md#version-1708-september-11)   |
 |2018|5 de septiembre   |[Versión 1808 (compilación 10730.20088)](monthly-channel-2018.md#version-1808-september-5) | | |
