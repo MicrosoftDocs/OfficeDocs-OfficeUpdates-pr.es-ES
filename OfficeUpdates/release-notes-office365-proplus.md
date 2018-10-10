@@ -3,19 +3,19 @@ title: Información de publicación de actualizaciones para Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/28/18
+ms.date: 10/9/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista de las últimas versiones de Office 365 ProPlus para cada canal de actualización y vínculos a notas de la versión y el historial de actualizaciones
-ms.openlocfilehash: f5eb1057e2db9052cc11b636ca66b0053bd67dc6
-ms.sourcegitcommit: 116ff3898a6272bff303c954059ff487f91746b0
+ms.openlocfilehash: 671eb87440073b6ab096d4e9611e6b112baf3534
+ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/04/2018
-ms.locfileid: "25363900"
+ms.lasthandoff: 10/10/2018
+ms.locfileid: "25456754"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Información de publicación de actualizaciones para Office 365 ProPlus
 
@@ -26,10 +26,10 @@ En la tabla siguiente, se muestra la versión compatible y el número de compila
   
 |**Canal**|**Versión**|**Compilación**|**Fecha de lanzamiento**|**Versión compatible hasta**|
 |:-----|:-----|:-----|:-----|:-----|
-|Mensual  <br/> |1809  <br/> |[10827.20138](monthly-channel-2018.md#version-1809-september-27)  <br/> | 27 de septiembre de 2018  <br/> |Se ha publicado la versión 1810 <br/>|
-|Semianual (dirigido)  <br/> |1808  <br/> |[10730.20102](semi-annual-channel-targeted-2018.md#version-1808-September-11)  <br/> | 11 de septiembre de 2018  <br/> | 13 de marzo de 2019 <br/>|
-|Semianual <br/> |1803  <br/> | [9126.2282](semi-annual-channel-2018.md#version-1803-september-11) <br/> | 11 de septiembre de 2018  <br/> | 10 de septiembre de 2019 <br/>|
-|Semianual <br/> |1708  <br/> |[8431.2309](semi-annual-channel-2018.md#version-1708-september-11)  <br/> | 11 de septiembre de 2018  <br/> | 13 de marzo de 2019 <br/>|
+|Mensual  <br/> |1809  <br/> |[10827.20150)](monthly-channel-2018.md#version-1809-october-9)  <br/> | 9 de octubre de 2018  <br/> |Se ha publicado la versión 1810 <br/>|
+|Semianual (dirigido)  <br/> |1808  <br/> |[10730.20155)](semi-annual-channel-targeted-2018.md#version-1808-october-9)  <br/> | 9 de octubre de 2018  <br/> | 13 de marzo de 2019 <br/>|
+|Semianual <br/> |1803  <br/> | [9126.2282](semi-annual-channel-2018.md#version-1803-october-9) <br/> |9 de octubre de 2018  <br/> | 10 de diciembre de 2019 <br/>|
+|Semianual <br/> |1708  <br/> |[8431.2309](semi-annual-channel-2018.md#version-1708-october-9)  <br/> |9 de octubre de 2018  <br/> | 13 de marzo de 2019 <br/>|
 
 Para obtener información sobre los tamaños de descarga aproximados de las actualizaciones desde versiones anteriores de Office 365 ProPlus a la versión más reciente, vea [Tamaños de descarga de actualizaciones de Office 365 ProPlus](download-sizes-office365-proplus-updates.md).
 

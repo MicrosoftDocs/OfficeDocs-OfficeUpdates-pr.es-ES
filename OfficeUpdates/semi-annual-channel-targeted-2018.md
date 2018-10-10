@@ -3,19 +3,19 @@ title: Notas de la versión para las versiones del Canal semestral (dirigido) de
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/27/2018
+ms.date: 10/9/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones del Canal semestral (dirigido) de Office 365 ProPlus de 2018
-ms.openlocfilehash: 7ec2469aa05f6885be6187cb3a733968c992a401
-ms.sourcegitcommit: d14086363fa72dc14ac0e56a379471ade069de85
+ms.openlocfilehash: c3f16becd1676238d4c7af6754346f7d0d7a7d11
+ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/27/2018
-ms.locfileid: "25341395"
+ms.lasthandoff: 10/10/2018
+ms.locfileid: "25456804"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>Notas de la versión para las versiones del Canal semestral (dirigido) de 2018
 
@@ -25,7 +25,44 @@ En estas notas de la versión, se proporciona información sobre característica
 > - A continuación también se proporciona información sobre características nuevas, actualizaciones de seguridad y no relacionadas con la seguridad para Visio Pro para Office 365 y el cliente de escritorio de Project Online.
 > - Esta información también se aplica a Office 365 Empresa, que es la versión de Office que viene con algunos planes de Office 365, como Empresa Premium.
 
- ## <a name="version-1808-september-11"></a>Versión 1808 del 11 de septiembre
+## <a name="version-1808-october-9"></a>Versión 1808: 9 de octubre
+*Versión 1808 (compilación 10730.20155)*
+
+### <a name="excel-security-updates"></a>Excel: actualizaciones de seguridad
+-   [CVE-2018-8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8502): vulnerabilidad de la ejecución remota de código de Microsoft Excel 
+
+### <a name="outlook-security-updates"></a>Outlook: actualizaciones de seguridad 
+-   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): actualización de defensa en profundidad de Microsoft Office 
+
+### <a name="powerpoint-security-updates"></a>PowerPoint: actualizaciones de seguridad 
+-   [CVE-2018-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8501): vulnerabilidad de la ejecución remota de código de Microsoft PowerPoint
+
+### <a name="word-security-updates"></a>Word: actualizaciones de seguridad 
+-   [CVE-2018-8504](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8504): vulnerabilidad de la ejecución remota de código de Microsoft Word 
+-   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): actualización de defensa en profundidad de Microsoft Office 
+
+### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones de seguridad 
+-   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432):  vulnerabilidad de la ejecución remota de código de componentes de Microsoft Graphics 
+
+### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad 
+-   Se ha solucionado el problema que se producía cuando los símbolos del intervalo 2190...2194 se cambiaban a Cambria Math. Esto hace que la altura de la celda de Excel aumente 3 veces.
+-   Esto corrige el problema de Excel en el que Excel puede no responder cuando el usuario pasa el ratón por encima de las opciones de formato de un libro con muchos nombres definidos, y en el que Excel puede no responder en la herramienta de Análisis rápido incluso cuando la Vista previa activa está desactivada en las opciones.
+-   Actualmente estamos investigando el bajo rendimiento al mover la ventana de la aplicación de Excel de un escritorio a otro. Mientras tanto, si nota esta lentitud, entonces una solución a considerar es seleccionar "Optimizar para compatibilidad" en "Al usar varias pantallas" en la pestaña "General" en el cuadro de diálogo Opciones de archivo.
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: actualizaciones no relacionadas con la seguridad
+-   Corregido un problema de posibles corrupciones de archivos al guardar archivos con contenido ActiveX.
+
+### <a name="word-non-security-updates"></a>Word: actualizaciones no relacionadas con la seguridad
+-   Se ha solucionado un problema por el que al insertar un objeto de documento de Word, aparecía el editor de ecuaciones.
+
+### <a name="project-non-security-updates"></a>Project: actualizaciones no relacionadas con la seguridad
+-   Se ha solucionado un problema por el que si establecía un encabezado o pie de página para una impresión, el cambio no se mantenía la próxima vez que iba a imprimir el proyecto.
+
+### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones no relacionadas con la seguridad
+-   Se ha solucionado el problema de que las aplicaciones mostraban animaciones a pesar de haberlas desactivado a través de la configuración de accesibilidad y rendimiento. 
+-   Se ha solucionado el problema de que el fondo se quedaba en blanco cuando se utilizaba la herramienta de dibujo de marcador.
+
+## <a name="version-1808-september-11"></a>Versión 1808: 11 de septiembre
 *Versión 1808 (compilación 10730.20102)*
 
 ### <a name="access-feature-updates"></a>Access: actualizaciones de características
@@ -36,10 +73,10 @@ En estas notas de la versión, se proporciona información sobre característica
 
 ### <a name="excel-feature-updates"></a>Excel: actualizaciones de características
  - **Edición colaborativa:** trabaje con otras personas al mismo tiempo en el libro. [Obtener más información](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
- - **Ahora, el autoguardado para los archivos en la nube está habilitado de forma predeterminada:** el autoguardado está habilitado de forma predeterminada en la versión de canal semestral de septiembre de 2018 (destino). Este cambio implica que los usuarios no tienen que preocuparse por perder los cambios en los documentos almacenados en OneDrive o en SharePoint Online. Los cambios se guardarán en la nube automáticamente y los usuarios no tendrán que presionar Ctrl + S o el botón Guardar. Sin embargo, tienen que comprender este cambio de comportamiento para que no realicen cambios por error en los documentos. Tenga en cuenta que los usuarios pueden desactivar el autoguardado cambiando la opción de autoguardado que está en la parte superior de la pantalla. Le recomendamos informar a los usuarios de este próximo cambio y explicarles cómo aprovechar mejor las ventajas de esta nueva característica de Office 365. [Obtenga más información sobre el autoguardado](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [Obtenga más información sobre qué deben saber los administradores de TI del autoguardado](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
+ - **Ahora, el autoguardado para los archivos en la nube está habilitado de forma predeterminada:** el autoguardado está habilitado de forma predeterminada en la versión de canal semestral de septiembre de 2018 (destino). Este cambio implica que los usuarios no tienen que preocuparse por perder los cambios en los documentos almacenados en OneDrive o en SharePoint Online. Los cambios se guardarán en la nube automáticamente y los usuarios no tendrán que presionar Ctrl + S o el botón Guardar. Sin embargo, tienen que comprender este cambio de comportamiento para que no realicen cambios por error en los documentos. Tenga en cuenta que los usuarios pueden desactivar el autoguardado cambiando la opción de autoguardado que está en la parte superior de la pantalla. Le recomendamos informar a los usuarios de este cambio y explicarles cómo aprovechar mejor las ventajas de esta característica nueva de Office 365. [Obtenga más información sobre el autoguardado](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [Obtenga más información sobre qué deben saber los administradores de TI del autoguardado](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
 - **Mejora de la edición de la barra de fórmulas y celdas:** ahora puede usar CTRL+A para seleccionar texto en una celda o en la barra de fórmulas. También se ha mejorado la compatibilidad con los emojis y otros caracteres complejos.[Más información](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **Mejoras del Comprobador de accesibilidad:** el Comprobador de accesibilidad ha actualizado la compatibilidad con las normas y recomendaciones internacionales para que sus libros sean más accesibles. [Obtener más información](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
-- **Evitar ediciones no deseadas:** establezca los libros que serán de sólo lectura para evitar cambios accidentales. Vaya a Archivo > Información > Proteger libro > Abrir siempre en modo de solo lectura
+- **Evitar ediciones no deseadas:** establezca los libros que serán de solo lectura para evitar cambios accidentales. Vaya a Archivo > Info > Proteger libro > Abrir siempre en modo de solo lectura
 
 ### <a name="excel-security-updates"></a>Excel: actualizaciones de seguridad
 -   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): vulnerabilidad de la ejecución remota de código de Microsoft Excel
@@ -75,7 +112,7 @@ En estas notas de la versión, se proporciona información sobre característica
 - **Accesibilidad integrada:** haga que los mensajes sean accesibles para todos los usuarios añadiendo texto alternativo descriptivo a sus imágenes.
 - **Advertencias sobre los complementos de Outlook:** ocasionalmente un complemento COM de Outlook puede encontrar problemas que ralenticen los demás componentes de Outlook. Estos problemas podrían deberse a causas de latencia de eventos, como alternar entre carpetas de Outlook, la llegada de correo electrónico nuevo, la apertura de elementos de calendario, etc. Cuando se producen estos problemas, se mostrará una advertencia en la barra de notificaciones de Outlook.
 - **Saber quién se reunirá con usted:** a partir de ahora, podrá ver las respuestas de otros usuarios a las convocatorias de reunión aunque no sea el organizador.
-- **Nunca se pierda un aviso:** establezca avisos para que aparezcan elementos emergentes en las ventanas mientras está trabajando. En caso contrario, Outlook parpadeará en la barra de tareas para llamar su atención.[Más información](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
+- **Nunca pierda un aviso:** establezca avisos para que aparezcan elementos emergentes en las ventanas mientras está trabajando. En caso contrario, Outlook parpadeará en la barra de tareas para llamar su atención.[Más información](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 - **Marcar los elementos eliminados como leídos:** ahora puede establecer como leídos los mensajes que elimine. Para hacerlo, vaya a Archivo \> Opciones \> Correo \> Otros.
 - **Ver tres zonas horarias:** ¿necesita programar una reunión en distintas zonas horarias? Agregue varias zonas horarias a su calendario para ver fácilmente la disponibilidad de todas las personas y elija la hora a la que pueden asistir. [Obtener más información](https://support.office.com/article/5ab3e10e-5a6c-46af-ab48-156fedf70c04)
 - **Experiencia de usuario mejorada para crear un grupo:** hemos mejorado la experiencia de usuario para crear un grupo, dándole un aspecto más moderno y claro.[Más información](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102)
@@ -97,7 +134,7 @@ En estas notas de la versión, se proporciona información sobre característica
 -   Se ha corregido un problema por el que algunos usuarios no reciben características de soporte técnico que ha habilitado su administrador de espacio empresarial.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características 
-- **Ahora, el autoguardado para los archivos en la nube está habilitado de forma predeterminada:** el autoguardado está habilitado de forma predeterminada en la versión del canal semestral de septiembre de 2018 (dirigido). Este cambio implica que los usuarios no tienen que preocuparse por perder los cambios en los documentos almacenados en OneDrive o en SharePoint Online. Los cambios se guardarán en la nube automáticamente y los usuarios no tendrán que presionar Ctrl + S o el botón Guardar. Sin embargo, tienen que comprender este cambio de comportamiento para que no realicen cambios por error en las presentaciones. Tenga en cuenta que los usuarios pueden desactivar el autoguardado cambiando la opción de autoguardado que está en la parte superior de la pantalla. Le recomendamos informar a los usuarios de este próximo cambio y explicarles cómo aprovechar mejor las ventajas de esta nueva característica de Office 365. [Obtenga más información sobre el autoguardado](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [Obtenga más información sobre qué deben saber los administradores de TI del autoguardado](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
+- **Ahora, el autoguardado para los archivos en la nube está habilitado de forma predeterminada:** el autoguardado está habilitado de forma predeterminada en la versión del canal semestral de septiembre de 2018 (dirigido). Este cambio implica que los usuarios no tienen que preocuparse por perder los cambios en los documentos almacenados en OneDrive o en SharePoint Online. Los cambios se guardarán en la nube automáticamente y los usuarios no tendrán que presionar Ctrl + S o el botón Guardar. Sin embargo, tienen que comprender este cambio de comportamiento para que no realicen cambios por error en las presentaciones. Tenga en cuenta que los usuarios pueden desactivar el autoguardado cambiando la opción de autoguardado que está en la parte superior de la pantalla. Le recomendamos informar a los usuarios de este cambio y explicarles cómo aprovechar mejor las ventajas de esta característica nueva de Office 365. [Obtenga más información sobre el autoguardado](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [Obtenga más información sobre qué deben saber los administradores de TI del autoguardado](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
 - **Mejora de la edición de la barra de fórmulas y celdas:** ahora puede usar CTRL+A para seleccionar texto en una celda o en la barra de fórmulas. También se ha mejorado la compatibilidad con los emojis y otros caracteres complejos.[Más información](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **Convertir la entrada de lápiz:** dibuje y tome notas con garabatos y conviértalos en texto leíble y formas nítidas para crear una presentación elegante. [Más información](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
 - **Compatibilidad con el formato SVG mejorada:** puede insertar imágenes SVG que tengan filtros aplicados. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
@@ -118,10 +155,10 @@ En estas notas de la versión, se proporciona información sobre característica
 -   Se soluciona un problema que provocaba que, al abrir un archivo guardado en OneDrive, se bloqueara PowerPoint al salir de la Vista protegida.
 
 ### <a name="project-feature-updates"></a>Project: actualizaciones de características 
-- ** Administración de sprints: añadir, actualizar o eliminar sprints ágiles.**
+- **Administración de sprints**: añadir, actualizar o eliminar sprints ágiles.
 - **Filtrado del panel de tareas:** simplifique los paneles de tareas filtrando las tareas de resumen o de recursos clave.
 - ** Establecer el porcentaje completado de un panel de tareas:**  elija un porcentaje completado de cada columna y después actualice la finalización de tareas con arrastrar y colocar.
-- **Navegación sprint:** cambie de una vista de sprint a otra y desplácese rápidamente tareas entre sprints.
+- **Navegación sprint:** cambie de una vista de sprint a otra y mueva rápidamente tareas entre sprints.
 - **Una nueva forma de administrar sprints:** adopte un enfoque ágil para trabajar con paneles de tareas. Vaya a Administrar Sprints para agregar y quitar sprints a medida que evolucione el proyecto.
 - **Todo organizado con Ubicaciones de almacenamiento recientes:** Project mantiene una lista actualizada de las ubicaciones en las que ha guardado otros proyectos. Cuando quiera guardar su proyecto, simplemente elija una de sus ubicaciones de almacenamiento recientes y continúe con su día.
 
@@ -258,7 +295,7 @@ En estas notas de la versión, se proporciona información sobre característica
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: actualizaciones no relacionadas con la seguridad
 - Se ha corregido un problema por el que PowerPoint se bloqueaba al pasar el corrector ortográfico en formas.
 
-### <a name="office-suite-non-security-updates"></a>Office Suite: actualizaciones no relacionadas con la seguridad
+### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones no relacionadas con la seguridad
 - Se ha corregido un problema que provocaba que, al abrir una aplicación, el usuario viera un mensaje sobre iniciar en modo seguro y después la aplicación no se abriera.
 
 
@@ -297,7 +334,7 @@ En estas notas de la versión, se proporciona información sobre característica
 -   Se ha corregido un problema por el que Word se bloqueaba al abrir un archivo de SharePoint Online.
 -   Se ha corregido un problema por el que los números de página en número romanos en minúsculas se cambiaban incorrectamente a mayúsculas.
 
-### <a name="office-suite-security-updates"></a>Office Suite: actualizaciones de seguridad
+### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones de seguridad
 -   [CVE-2018-8157](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8157): vulnerabilidad de la ejecución remota de código de Microsoft Office
 -   [CVE-2018-8158](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8158): vulnerabilidad de la ejecución remota de código de Microsoft Office
 
@@ -319,7 +356,7 @@ En estas notas de la versión, se proporciona información sobre característica
 ### <a name="word-non-security-updates"></a>Word: actualizaciones no relacionadas con la seguridad
 -   Se ha corregido un problema que causaba que apareciera un mensaje de memoria insuficiente.
 
-### <a name="office-suite-security-updates"></a>Office Suite: actualizaciones de seguridad
+### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones de seguridad
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950): vulnerabilidad de divulgación de información de Microsoft Office
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026): vulnerabilidad de la ejecución remota de código de Microsoft Office
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030): vulnerabilidad de la ejecución remota de código de Microsoft Office
@@ -401,7 +438,7 @@ En estas notas de la versión, se proporciona información sobre característica
 ### <a name="outlook-feature-updates"></a>Outlook: actualizaciones de características
 -   **Ordenar el correo electrónico con facilidad:** gracias a sus comentarios, hemos vuelto a incorporar la ordenación encima de la lista de mensajes y el filtro de no leídos para los usuarios que no usan la Bandeja de entrada Prioritarios.
 -   **Convertir iconos SVG en formas:** transforme todas las imágenes e iconos SVG en formas de Office para poder cambiar su color, tamaño o textura.
--   **Mejoras en Grupos de Office 365:** ahora es más fácil que nunca leer y responder a conversaciones de grupo, ya que puede hacer doble clic en un mensaje de grupo para abrirlo en su propia ventana.
+-   **Mejoras en grupos de Office 365:** ahora es más fácil que nunca leer y responder a conversaciones de grupo, ya que puede hacer doble clic en un mensaje de grupo para abrirlo en su propia ventana.
 -   **Configuración de características de LinkedIn:** vaya a Archivo \> Opciones \> General para controlar si se muestran las características de LinkedIn en las aplicaciones de Office. [Más información](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 -   **Modelos 3D:** use modelos 3D para aumentar el impacto visual y creativo del correo electrónico.  Inserte fácilmente un modelo 3D y, a continuación, podrá girarlo 360 grados. [Más información](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **Tarjeta de perfil:** le muestra los detalles más relevantes sobre personas y grupos, independientemente de si está en el escritorio o en la web, o si usa una aplicación móvil.
@@ -437,7 +474,7 @@ En estas notas de la versión, se proporciona información sobre característica
 -   **Bloquear las extensiones peligrosas:** de forma predeterminada, se bloquea la activación de las extensiones consideradas de riesgo elevado y que se insertan como objetos de paquete OLE. Por ejemplo, .exe, .vbs y .js. [Más información](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 -   **Resaltado de revisión:** se resaltan las diapositivas que han sido modificadas por otros usuarios.
 -   **Mientras estuvo fuera:** PowerPoint muestra quién editó la presentación compartida desde su última visita.
--   **Mejora del servicio Diseñador:** Diseñador ahora recomienda ideas de diseño para las escalas de tiempo en una lista con viñetas.
+-   **Mejora del servicio Diseñador:** el Diseñador ahora recomienda ideas de diseño para las escalas de tiempo en una lista con viñetas.
 -   **Sonidos útiles que mejoran la accesibilidad:** active las indicaciones de audio para guiarse mientras trabaja. Las encontrará en Archivo \> Opciones \> Accesibilidad. No se necesita ningún complemento. [Más información](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
 -   **Ubicaciones de archivo por cuenta:** al abrir o guardar un archivo, la lista de ubicaciones se organiza en función de la cuenta asociada.
 -   **Personalización del lápiz:** elija un conjunto personal de lápices y marcadores de resaltado para las entradas manuscritas. Su conjunto personalizado estará disponible en todos sus equipos PC Windows.
@@ -546,7 +583,7 @@ En estas notas de la versión, se proporciona información sobre característica
 -   **Bloquear las extensiones peligrosas:** de forma predeterminada, se bloquea la activación de las extensiones consideradas de riesgo elevado y que se insertan como objetos de paquete OLE. Por ejemplo, .exe, .vbs y .js. [Más información](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 -   **Editar con las herramientas de aprendizaje:** las herramientas de aprendizaje ahora están disponibles en la vista de diseño web de Word. Ajuste el espaciado del texto y muestre sílabas mientras lo edita. En cualquier vista, vea cada palabra resaltada a medida que se vaya leyendo el documento en voz alta. [Más información](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
 -   **Sintaxis LaTeX:** cree y modifique ecuaciones matemáticas con la sintaxis LaTeX.
--   **Sonidos útiles que mejoran la accesibilidad:** active las indicaciones de audio para guiarse mientras trabaja. Las encontrará en Archivo \> Opciones \> Accesibilidad. No se necesita ningún complemento. [Más información](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
+-   **Sonidos útiles mejoran la accesibilidad:** active las indicaciones de audio para guiarse mientras trabaja. Las encontrará en Archivo \> Opciones \> Accesibilidad. No se necesita ningún complemento. [Más información](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
 -   **Ubicaciones de archivo por cuenta:** al abrir o guardar un archivo, la lista de ubicaciones se organiza en función de la cuenta asociada.
 -   **Personalización del lápiz:** elija un conjunto personal de lápices y marcadores de resaltado para las entradas manuscritas. Su conjunto personalizado estará disponible en todos sus equipos PC Windows.
 -   **Ayuda de escritura mejorada con el panel Editor:** use el panel Editor para ver las recomendaciones de estilo avanzadas de escritura, gramática y ortografía. Se ha creado para ser accesible con compatibilidad mejorada para las tecnologías de asistencia.
@@ -572,14 +609,14 @@ En estas notas de la versión, se proporciona información sobre característica
 -   Se ha corregido un problema que causaba que Office no pudiera escribir en el disco al guardar un archivo de copia de sincronización, pero Office siguiera subiendo el archivo a OneDrive. Con esta corrección, ahora el usuario ve un mensaje de error y la subida no se realiza.
 -   Se ha solucionado un problema que, al quitar la protección IRM de un documento, causaba que dicha protección no se eliminara.
 
-### <a name="office-suite-security-updates"></a>Office Suite: actualizaciones de seguridad
+### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones de seguridad
 -   [CVE-2017-11882](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11882): vulnerabilidad de los daños en la memoria de Microsoft Office
 -   [CVE-2018-0795](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0795): vulnerabilidad de la ejecución remota de código de Microsoft Office
 -   [CVE-2018-0851](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0851): vulnerabilidad de los daños en la memoria de Microsoft Office
 -   [CVE-2018-0853](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0853): vulnerabilidad de divulgación de información de Microsoft Office
 -   [Advertencia 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003): actualización de defensa en profundidad de Microsoft Office
 
-### <a name="office-suite-non-security-updates"></a>Office Suite: actualizaciones no relacionadas con la seguridad
+### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones no relacionadas con la seguridad
 -   Se ha corregido un problema que causaba que, al abrir una aplicación, el usuario viera un mensaje sobre iniciar en modo seguro y después la aplicación no se abriera.
 -   La opción "Actualizar ahora" está oculta en Archivo \>Cuenta\> Opciones de actualización cuando se habilita un objeto COM de Office para que System Center Configuration Manager administre las actualizaciones de cliente de Office 365.
 -   Se ha solucionado un problema que causaba que la aplicación de Office se bloquease cuando el usuario intentaba activar Office con el cuadro de diálogo Activar Office.
@@ -602,7 +639,7 @@ En estas notas de la versión, se proporciona información sobre característica
 -   [CVE-2018-0850](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0850): vulnerabilidad de elevación de privilegios de Microsoft Outlook
 -   [CVE-2018-0852](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0852): vulnerabilidad de los daños en la memoria de Microsoft Outlook
 
-### <a name="office-suite-security-updates"></a>Office Suite: actualizaciones de seguridad
+### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones de seguridad
 -   [CVE-2018-0851](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0851): vulnerabilidad de los daños en la memoria de Microsoft Office
 -   [CVE-2018-0853](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0853): vulnerabilidad de divulgación de información de Microsoft Office
 
@@ -635,11 +672,11 @@ En estas notas de la versión, se proporciona información sobre característica
 -   [CVE-2018-0807](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0807): vulnerabilidad de la ejecución remota de código de Microsoft Word
 -   [CVE-2018-0812](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0812): vulnerabilidad de daños en la memoria de Microsoft Word
 
-### <a name="office-suite-security-updates"></a>Office Suite: actualizaciones de seguridad
+### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones de seguridad
 -   [CVE-2018-0795](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0795): vulnerabilidad de la ejecución remota de código de Microsoft Office
 -   [Advertencia 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003): actualización de defensa en profundidad de Microsoft Office
 
-### <a name="office-suite-non-security-updates"></a>Office Suite: actualizaciones no relacionadas con la seguridad
+### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones no relacionadas con la seguridad
 -   Se agregó compatibilidad con el inicio de sesión único (SSO) para usuarios de dominio de planes de Office 365 Alemania donde la identidad está federada con un entorno local de Active Directory.
 -   Se agregó una funcionalidad para impedir que usuarios menores de edad puedan comprar y activar complementos de Office de la Tienda Office.
 

@@ -1,29 +1,66 @@
 ---
-title: Notas de la versión para las versiones de Canal mensual en 2018
+title: Notas de versión para las versiones de Canal mensual en 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/3/2018
+ms.date: 10/9/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2018
-ms.openlocfilehash: bdd37742401a72802e5e347cb9263d8e4a40eeda
-ms.sourcegitcommit: 3d0d776ed955ab7c8cc52c8f68986048c1f4b7e3
+ms.openlocfilehash: 0982cb8515d3fb9c5234ca72eb45b6b688e597e1
+ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362715"
+ms.lasthandoff: 10/10/2018
+ms.locfileid: "25456794"
 ---
-# <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de la versión para las versiones de Canal mensual en 2018
+# <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de versión para las versiones de Canal mensual en 2018
 
 En estas notas de la versión, se proporciona información sobre características nuevas, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones de Canal mensual para Office 365 ProPlus en 2018.
  
  > [!NOTE]
 > - Lo siguiente también proporciona información sobre características nuevas, actualizaciones de seguridad y no relacionadas con la seguridad para Visio Pro para Office 365 y el cliente de escritorio de Project Online.
 > - Esta información también se aplica a Office 365 Empresa, que es la versión de Office que viene con algunos planes de Office 365, como Empresa Premium.
+
+## <a name="version-1809-october-9"></a>Versión 1809: 9 de octubre
+*Versión 1809 (compilación 10827.20150)*
+
+### <a name="excel-security-updates"></a>Excel: actualizaciones de seguridad
+-   [CVE-2018-8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8502): vulnerabilidad de la ejecución remota de código de Microsoft Excel 
+
+### <a name="outlook-security-updates"></a>Outlook: actualizaciones de seguridad 
+-   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): actualización de defensa en profundidad de Microsoft Office 
+
+### <a name="powerpoint-security-updates"></a>PowerPoint: actualizaciones de seguridad 
+-   [CVE-2018-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8501): vulnerabilidad de la ejecución remota de código de Microsoft PowerPoint
+
+### <a name="word-security-updates"></a>Word: actualizaciones de seguridad 
+-   [CVE-2018-8504](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8504): vulnerabilidad de la ejecución remota de código de Microsoft Word 
+-   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): actualización de defensa en profundidad de Microsoft Office 
+
+### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones de seguridad 
+-   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432):  vulnerabilidad de la ejecución remota de código de componentes de Microsoft Graphics 
+
+### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad 
+-   Se ha solucionado el problema que se producía cuando los símbolos del intervalo 2190...2194 se cambiaban a Cambria Math. Esto hace que la altura de la celda de Excel aumente 3 veces.
+-   Esto corrige el problema de Excel en el que Excel puede no responder cuando el usuario pasa el ratón por encima de las opciones de formato de un libro con muchos nombres definidos, y en el que Excel puede no responder en la herramienta de Análisis rápido incluso cuando la Vista previa activa está desactivada en las opciones.
+-   Actualmente estamos investigando el bajo rendimiento al mover la ventana de la aplicación de Excel de un escritorio a otro. Mientras tanto, si nota esta lentitud, entonces una solución a considerar es seleccionar "Optimizar para compatibilidad" en "Al usar varias pantallas" en la pestaña "General" en el cuadro de diálogo Opciones de archivo.
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: actualizaciones no relacionadas con la seguridad
+-   Corregido un problema de posibles corrupciones de archivos al guardar archivos con contenido ActiveX.
+
+### <a name="word-non-security-updates"></a>Word: actualizaciones no relacionadas con la seguridad
+-   Se ha solucionado un problema por el que al insertar un objeto de documento de Word, aparecía el editor de ecuaciones.
+
+### <a name="project-non-security-updates"></a>Project: actualizaciones no relacionadas con la seguridad
+-   Se ha solucionado un problema por el que si establecía un encabezado o pie de página para una impresión, el cambio no se mantenía la próxima vez que iba a imprimir el proyecto.
+
+### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones no relacionadas con la seguridad
+-   Se ha solucionado el problema de que las aplicaciones mostraban animaciones a pesar de haberlas desactivado a través de la configuración de accesibilidad y rendimiento. 
+-   Se ha solucionado el problema de que el fondo se quedaba en blanco cuando se utilizaba la herramienta de dibujo de marcador.
 
 ## <a name="version-1809-september-27"></a>Versión 1809: 27 de septiembre
 *Versión 1809 (compilación 10827.20138)*
@@ -40,8 +77,8 @@ En estas notas de la versión, se proporciona información sobre característica
 - **Los iconos de la cinta de opciones tienen un nuevo aspecto** No se preocupe, todo funciona de la misma manera. Además, se ven muy bien en pantallas de todos los tamaños. [Obtener más información](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
-- **Vea cómo sus diapositivas cobran vida** Inserte gráficos animados en 3D para ver los corazones latir, los planetas orbitar y el alboroto de T-Rex a través de la pantalla.  [Obtener más información](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
-- **Nuevas herramientas de revisión** No se preocupe por las palabras. Ahora, PowerPoint proporciona sugerencias de escritura y de gramática. [Obtener más información](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
+- **Vea cómo sus diapositivas cobran vida** Inserte gráficos animados en 3D para ver corazones latir, planetas orbitar y el alboroto de un T-Rex a través de la pantalla.  [Obtener más información](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
+- **Nuevas herramientas de revisión** Escriba sin preocupaciones. Ahora, PowerPoint proporciona sugerencias de escritura y de gramática. [Obtener más información](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
 - **Los iconos de la cinta de opciones tienen un nuevo aspecto** No se preocupe, todo funciona de la misma manera. Además, se ven muy bien en pantallas de todos los tamaños. [Obtener más información](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="word-feature-updates"></a>Word: actualizaciones de características
@@ -59,7 +96,7 @@ En estas notas de la versión, se proporciona información sobre característica
 ### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
 -   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430): vulnerabilidad de la ejecución remota de código de Word PDF
 
-### <a name="office-suite-security-updates"></a>Office Suite: actualizaciones de seguridad
+### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones de seguridad
 -   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): vulnerabilidad de ejecución remota de código de gráficos Win32k
 
 
