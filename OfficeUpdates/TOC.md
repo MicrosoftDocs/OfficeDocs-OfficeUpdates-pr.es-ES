@@ -16,7 +16,7 @@
 #### [2017](semi-annual-channel-2017.md)
 #### [2016](semi-annual-channel-2016.md)
 
-### Canal semestral (dirigido)
+### Canal semianual (dirigido)
 #### [2018](semi-annual-channel-targeted-2018.md)
 #### [2017](semi-annual-channel-targeted-2017.md)
 #### [2016](semi-annual-channel-targeted-2016.md)
@@ -34,6 +34,7 @@
 ## [Las actualizaciones de Skype para la empresa](https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates)
 ## [Archivos .msp de 2016 de Office](msp-files-office-2016.md)
 ## [Archivos .msp de Office 2013](msp-files-office-2013.md)
+## [Actualizaciones de Office 2019](update-history-office-2019.md)
 ## [Actualizaciones de Office 2013](update-history-office-2013.md)
 ## [Actualizaciones de Office 2010](update-history-office-2010-click-to-run.md)
 
