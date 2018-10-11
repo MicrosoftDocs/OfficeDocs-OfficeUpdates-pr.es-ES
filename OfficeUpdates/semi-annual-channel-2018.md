@@ -3,19 +3,19 @@ title: Notas de la versión para las versiones de Canal semianual en 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/9/2018
+ms.date: 10/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual de Office 365 ProPlus en 2018.
-ms.openlocfilehash: 34d206085cf959c7dca3ab3e4cb2881efdb818b9
-ms.sourcegitcommit: 939cf28550ccb4a6a448ff315071f7f906b204b5
+ms.openlocfilehash: a9edf21d49e4d7d7946ac22f6f014d2a5d242b8a
+ms.sourcegitcommit: d0a66098beda134e12800930e4b236f673d5dd72
 ms.translationtype: HT
 ms.contentlocale: es-ES
 ms.lasthandoff: 10/10/2018
-ms.locfileid: "25459427"
+ms.locfileid: "25492780"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>Notas de la versión para las versiones de Canal semianual en 2018
 
@@ -43,8 +43,25 @@ En estas notas de la versión, se proporciona información sobre característica
 -   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): actualización de defensa en profundidad de Microsoft Office 
 
 ### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones de seguridad 
--   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432): vulnerabilidad de la ejecución remota de código de componentes de Microsoft Graphics 
+-   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432):  vulnerabilidad de la ejecución remota de código de componentes de Microsoft Graphics 
 
+### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad 
+-   Se ha solucionado el problema que se producía cuando los símbolos del intervalo 2190...2194 se cambiaban a Cambria Math. Esto hace que la altura de la celda de Excel aumente 3 veces.
+-   Esto corrige el problema de Excel en el que Excel puede no responder cuando el usuario pasa el ratón por encima de las opciones de formato de un libro con muchos nombres definidos, y en el que Excel puede no responder en la herramienta de Análisis rápido incluso cuando la Vista previa activa está desactivada en las opciones.
+-   Actualmente estamos investigando el bajo rendimiento al mover la ventana de la aplicación de Excel de un escritorio a otro. Mientras tanto, si nota esta lentitud, entonces una solución a considerar es seleccionar "Optimizar para compatibilidad" en "Al usar varias pantallas" en la pestaña "General" en el cuadro de diálogo Opciones de archivo.
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: actualizaciones no relacionadas con la seguridad
+-   Corregido un problema de posibles corrupciones de archivos al guardar archivos con contenido ActiveX.
+
+### <a name="word-non-security-updates"></a>Word: actualizaciones no relacionadas con la seguridad
+-   Se ha solucionado un problema por el que al insertar un objeto de documento de Word, aparecía el editor de ecuaciones.
+
+### <a name="project-non-security-updates"></a>Project: actualizaciones no relacionadas con la seguridad
+-   Se ha solucionado un problema por el que si establecía un encabezado o pie de página para una impresión, el cambio no se mantenía la próxima vez que iba a imprimir el proyecto.
+
+### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones no relacionadas con la seguridad
+-   Se ha solucionado el problema de que las aplicaciones mostraban animaciones a pesar de haberlas desactivado a través de la configuración de accesibilidad y rendimiento. 
+-   Se ha solucionado el problema de que el fondo se quedaba en blanco cuando se utilizaba la herramienta de dibujo de marcador.
 
 ## <a name="version-1708-october-9"></a>Versión 1708: 9 de octubre
 *Versión 1708 (compilación 8431.2316)*
@@ -65,8 +82,25 @@ En estas notas de la versión, se proporciona información sobre característica
 -   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): actualización de defensa en profundidad de Microsoft Office 
 
 ### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones de seguridad 
--   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432): vulnerabilidad de la ejecución remota de código de componentes de Microsoft Graphics 
+-   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432):  vulnerabilidad de la ejecución remota de código de componentes de Microsoft Graphics 
 
+### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad 
+-   Se ha solucionado el problema que se producía cuando los símbolos del intervalo 2190...2194 se cambiaban a Cambria Math. Esto hace que la altura de la celda de Excel aumente 3 veces.
+-   Esto corrige el problema de Excel en el que Excel puede no responder cuando el usuario pasa el ratón por encima de las opciones de formato de un libro con muchos nombres definidos, y en el que Excel puede no responder en la herramienta de Análisis rápido incluso cuando la Vista previa activa está desactivada en las opciones.
+-   Actualmente estamos investigando el bajo rendimiento al mover la ventana de la aplicación de Excel de un escritorio a otro. Mientras tanto, si nota esta lentitud, entonces una solución a considerar es seleccionar "Optimizar para compatibilidad" en "Al usar varias pantallas" en la pestaña "General" en el cuadro de diálogo Opciones de archivo.
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: actualizaciones no relacionadas con la seguridad
+-   Corregido un problema de posibles corrupciones de archivos al guardar archivos con contenido ActiveX.
+
+### <a name="word-non-security-updates"></a>Word: actualizaciones no relacionadas con la seguridad
+-   Se ha solucionado un problema por el que al insertar un objeto de documento de Word, aparecía el editor de ecuaciones.
+
+### <a name="project-non-security-updates"></a>Project: actualizaciones no relacionadas con la seguridad
+-   Se ha solucionado un problema por el que si establecía un encabezado o pie de página para una impresión, el cambio no se mantenía la próxima vez que iba a imprimir el proyecto.
+
+### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones no relacionadas con la seguridad
+-   Se ha solucionado el problema de que las aplicaciones mostraban animaciones a pesar de haberlas desactivado a través de la configuración de accesibilidad y rendimiento. 
+-   Se ha solucionado el problema de que el fondo se quedaba en blanco cuando se utilizaba la herramienta de dibujo de marcador.
 
 ## <a name="version-1803-september-11"></a>Versión 1803: 11 de septiembre
 *Versión 1803 (compilación 9126.2282)*
@@ -156,7 +190,7 @@ En estas notas de la versión, se proporciona información sobre característica
 -   **Configuración de características de LinkedIn:** vaya a Archivo \> Opciones \> General para controlar si se muestran las características de LinkedIn en las aplicaciones de Office. [Más información](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 -   **Modelos 3D:** use modelos 3D para aumentar el impacto visual y creativo de los libros.  Inserte fácilmente un modelo 3D y, a continuación, podrá girarlo 360 grados. [Más información](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **Nuevos efectos de lápiz:** exprese sus ideas con estilo con lápices metálicos y efectos de lápiz, como arcoíris, galaxia, lava, océano, oro, plata y más.
--   **Interfaz de usuario para compartir archivos:** en el caso de los archivos de OneDrive para la Empresa o SharePoint, haga clic en el botón Compartir que encontrará en la esquina superior derecha de la cinta de opciones o en Archivo \> Compartir. Aparecerá un cuadro de diálogo Compartir simplificado y mejorado. Para los archivos nuevos o guardados de forma local, la interfaz de usuario permite subir los archivos fácilmente en OneDrive y empezar a colaborar.
+-   **Interfaz de usuario para compartir archivos:** en el caso de los archivos de OneDrive para la Empresa o SharePoint, haga clic en el botón Compartir que encontrará en la esquina superior derecha de la cinta de opciones o en Archivo \> Compartir. Aparecerá un cuadro de diálogo Compartir simplificado y mejorado. Para los archivos nuevos o guardados de forma local, la interfaz de usuario permite subir los archivos fácilmente a OneDrive y empezar a colaborar.
 -   **Bloquear las extensiones peligrosas:** de forma predeterminada, se bloquea la activación de las extensiones consideradas de riesgo elevado y que se insertan como objetos de paquete OLE. Por ejemplo, .exe, .vbs y .js. [Más información](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 -   **Sonidos útiles que mejoran la accesibilidad:** active las indicaciones de audio para guiarse mientras trabaja. Las encontrará en Archivo \> Opciones \> Accesibilidad. No se necesita ningún complemento. [Más información](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
 -   **Ubicaciones de archivo por cuenta:** al abrir o guardar un archivo, la lista de ubicaciones se organiza en función de la cuenta asociada.
@@ -188,7 +222,7 @@ En estas notas de la versión, se proporciona información sobre característica
 -   Se ha corregido un problema por el que el complemento de Power View se deshabilitaba involuntariamente para algunos usuarios.
 -   Se soluciona un problema por el que los archivos de recuperación automática temporales que se crean durante la recuperación de documentos no se limpian nunca.
 -   Se ha corregido un problema por el que Excel se bloqueaba al abrir un archivo de SharePoint Online.
--   Se ha corregido un problema por el que no se podía imprimir impresión rápida de un libro de Excel adjuntado a un correo electrónico de Outlook.
+-   Se ha corregido un problema por el que no se podía realizar la impresión rápida de un libro de Excel adjuntado a un correo electrónico de Outlook.
 -   Se ha corregido un problema por el que, al hacer clic en un hipervínculo, Excel podía bloquearse.
 -   Se ha corregido un problema por el que al usar las funciones de cubo, Excel se bloquea.
 -   Se soluciona un problema por el que Imprimir o la Vista previa de impresión solo imprime o muestra una parte de la hoja de cálculo, con el contenido truncado a una segmentación en la hoja de cálculo.
@@ -211,7 +245,7 @@ En estas notas de la versión, se proporciona información sobre característica
 -   **Convertir iconos SVG en formas:** transforme todas las imágenes e iconos SVG en formas de Office para poder cambiar su color, tamaño o textura.
 -   **Mejoras en grupos de Office 365:** ahora es más fácil que nunca leer y responder a conversaciones de grupo, ya que puede hacer doble clic en un mensaje de grupo para abrirlo en su propia ventana.
 -   **Configuración de características de LinkedIn:** vaya a Archivo \> Opciones \> General para controlar si se muestran las características de LinkedIn en las aplicaciones de Office. [Más información](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
--   **Modelos 3D:** use modelos 3D para aumentar el impacto visual y creativo del correo electrónico.  Inserte fácilmente un modelo 3D y, a continuación, podrá girarlo 360 grados. [Más información](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
+-   **Modelos 3D:** use modelos 3D para aumentar el impacto visual y creativo del correo electrónico. Inserte fácilmente un modelo 3D y, a continuación, podrá girarlo 360 grados. [Más información](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **Tarjeta de perfil:** le muestra los detalles más relevantes sobre personas y grupos, independientemente de si está en el escritorio o en la web, o si usa una aplicación móvil.
 -   **Agregar una cita a un calendario de grupo:** ya puede informar de su disponibilidad a todos los miembros del grupo sin tener que enviar una convocatoria de reunión por correo electrónico.
 -   **Descarga de datos adjuntos de la nube:** cuando guarde o arrastre y coloque archivos adjuntos de OneDrive en su equipo, el archivo en cuestión se descargará.
@@ -251,7 +285,7 @@ En estas notas de la versión, se proporciona información sobre característica
 -   **Ejecutar una presentación con diapositivas con el lápiz digital:** use su Lápiz para Surface, o bien otro lápiz con un botón de Bluetooth, para avanzar por las diapositivas. Se necesita Windows 10 Fall Creators Update. [Más información](https://support.office.com/article/e36da834-7d34-4b71-aafd-071727549f7a)
 -   **Modelos 3D:** use modelos 3D para aumentar el impacto visual y creativo de sus presentaciones. Haga que sus modelos 3D cobren vida en sus presentaciones con transiciones como Transformación, que permite crear animaciones cinematográficas entre diapositivas. [Más información](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **Nuevos efectos de lápiz:** exprese sus ideas con estilo con lápices metálicos y efectos de lápiz, como arcoíris, galaxia, lava, océano, oro, plata y más.
--   **Interfaz de usuario para compartir archivos:** en el caso de los archivos de OneDrive para la Empresa o SharePoint, haga clic en el botón Compartir que encontrará en la esquina superior derecha de la cinta de opciones o en Archivo \> Compartir. Aparecerá un cuadro de diálogo Compartir simplificado y mejorado. Para los archivos nuevos o guardados de forma local, la interfaz de usuario permite subir los archivos fácilmente en OneDrive y empezar a colaborar.
+-   **Interfaz de usuario para compartir archivos:** en el caso de los archivos de OneDrive para la Empresa o SharePoint, haga clic en el botón Compartir que encontrará en la esquina superior derecha de la cinta de opciones o en Archivo \> Compartir. Aparecerá un cuadro de diálogo Compartir simplificado y mejorado. Para los archivos nuevos o guardados de forma local, la interfaz de usuario permite subir los archivos fácilmente a OneDrive y empezar a colaborar.
 -   **Bloquear las extensiones peligrosas:** de forma predeterminada, se bloquea la activación de las extensiones consideradas de riesgo elevado y que se insertan como objetos de paquete OLE. Por ejemplo, .exe, .vbs y .js. [Más información](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 -   **Resaltado de revisión:** se resaltan las diapositivas que han sido modificadas por otros usuarios.
 -   **Mientras estuvo fuera:** PowerPoint muestra quién editó la presentación compartida desde su última visita.
@@ -377,7 +411,7 @@ En estas notas de la versión, se proporciona información sobre característica
 -   **Panel de propiedades de SharePoint:** muestre y edite valores de columna de la biblioteca de documentos de SharePoint desde el propio documento. El botón de la cinta de opciones de la pestaña Vista ofrece fácil acceso al panel. Además, los administradores de SharePoint pueden usar la configuración de la biblioteca de documentos para abrir automáticamente el panel de propiedades.
 -   **Modelos 3D:** use modelos 3D para aumentar el impacto visual y creativo de los documentos.  Inserte fácilmente un modelo 3D y, a continuación, podrá girarlo 360 grados. [Más información](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **Nuevos efectos de lápiz:** exprese sus ideas con estilo con lápices metálicos y efectos de lápiz, como arcoíris, galaxia, lava, océano, oro, plata y más.
--   **Interfaz de usuario para compartir archivos:** en el caso de los archivos de OneDrive para la Empresa o SharePoint, haga clic en el botón Compartir que encontrará en la esquina superior derecha de la cinta de opciones o en Archivo \> Compartir. Aparecerá un cuadro de diálogo Compartir simplificado y mejorado. Para los archivos nuevos o guardados de forma local, la interfaz de usuario permite subir los archivos fácilmente en OneDrive y empezar a colaborar.
+-   **Interfaz de usuario para compartir archivos:** en el caso de los archivos de OneDrive para la Empresa o SharePoint, haga clic en el botón Compartir que encontrará en la esquina superior derecha de la cinta de opciones o en Archivo \> Compartir. Aparecerá un cuadro de diálogo Compartir simplificado y mejorado. Para los archivos nuevos o guardados de forma local, la interfaz de usuario permite subir los archivos fácilmente a OneDrive y empezar a colaborar.
 -   **Bloquear las extensiones peligrosas:** de forma predeterminada, se bloquea la activación de las extensiones consideradas de riesgo elevado y que se insertan como objetos de paquete OLE. Por ejemplo, .exe, .vbs y .js. [Más información](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 -   **Editar con las herramientas de aprendizaje:** las herramientas de aprendizaje ahora están disponibles en la vista de diseño web de Word. Ajuste el espaciado del texto y muestre sílabas mientras lo edita. En cualquier vista, vea cada palabra resaltada a medida que se vaya leyendo el documento en voz alta. [Más información](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
 -   **Sintaxis LaTeX:** cree y modifique ecuaciones matemáticas con la sintaxis LaTeX.
@@ -407,7 +441,7 @@ En estas notas de la versión, se proporciona información sobre característica
 -   Se soluciona un problema que provocaba que apareciera un mensaje de memoria insuficiente.
 -   Se ha corregido un problema por el que Word no se abre en un equipo con Windows 7 que no tiene la actualización de la experiencia del cliente y la telemetría de diagnóstico instalada.
 -   Se ha corregido un problema por el que no se imprimen las viñetas de listas.
--   Se ha corregido un problema que provocaba que Word se bloqueara cuando un usuario usaba "Guardar como" con un documento existente en OneDrive para la Empresa y, seguidamente, cancelaba o intentaba combinar cambios existentes.
+-   Se ha corregido un problema que provocaba que Word se bloqueara cuando un usuario intentaba usar Guardar como sobre un documento existente en OneDrive para la Empresa y, seguidamente, cancelaba o intentaba combinar cambios existentes.
 -   Se ha corregido un problema que, al filtrar campos de orígenes de datos que contuvieran valores nulos (vacíos), causaba errores al ejecutar el Asistente para combinar correspondencia.
 -   Se ha corregido un problema que causaba que Office no pudiera escribir en el disco al guardar un archivo de copia de sincronización, pero Office siguiera subiendo el archivo a OneDrive. Con esta corrección, ahora el usuario ve un mensaje de error y la subida no se realiza.
 -   Se ha solucionado un problema que, al quitar la protección IRM de un documento, causaba que dicha protección no se eliminara.
@@ -432,7 +466,7 @@ En estas notas de la versión, se proporciona información sobre característica
 -   Se ha solucionado un problema que causaba que la aplicación de Office se bloquease cuando el usuario intentaba activar Office con el cuadro de diálogo Activar Office.
 -   Se ha solucionado un problema relacionado con el zoom y el ajuste de escala en Complementos de Office en el entorno de PPP dinámico.
 -   Se ha corregido un problema que causaba que el nodo CurrentStatus del proveedor del servicio de configuración (CSP) de Office devolviera una cadena vacía incluso si Office 365 ProPlus estaba instalado.
--   Se ha corregido un problema que provocaba cambios de formato en los archivos .box, lo que afectaba a la funcionalidad de las versiones antiguas de Office instaladas en el mismo equipo, ya que los archivos .box se comparten con todas las versiones de una aplicación de Office en el mismo equipo.
+-   Se ha corregido un problema que provocaba cambios en los formatos de archivo .box. Esto afectaba a la funcionalidad de versiones antiguas de Office instaladas en el mismo equipo, porque los archivos .box se comparten con todas las versiones de una aplicación de Office en el mismo equipo.
 -   Se ha corregido un error que causaba que la instalación de la actualización a tardase mucho tiempo en determinados escenarios. 
 -   Se ha corregido un problema por el que fallaban las pruebas SVG
 -   Se corrige un problema por el que, al implementar actualizaciones con System Center Configuration Manager en un cliente que tiene aplicaciones de Office en ejecución, la actualización no se aplica después de reiniciar el dispositivo mientras se ejecutan las aplicaciones de Office.
@@ -486,7 +520,7 @@ En estas notas de la versión, se proporciona información sobre característica
 *Versión 1708 (compilación 8431.2250)*
 
 ### <a name="excel-security-updates"></a>Excel: actualizaciones de seguridad
--   [CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147): vulnerabilidad de la ejecución remota de código de Microsoft Excel
+-   [ CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147) : vulnerabilidad de la ejecución remota de código de Microsoft Excel
 -   [CVE-2018-8148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8148): vulnerabilidad de la ejecución remota de código de Microsoft Excel
 -   [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162): vulnerabilidad de la ejecución remota de código de Microsoft Excel
 -   [CVE-2018-8163](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8163): vulnerabilidad de divulgación de información de Microsoft Excel
@@ -506,7 +540,7 @@ En estas notas de la versión, se proporciona información sobre característica
 *Esta es la versión del Canal diferido que ha estado disponible desde septiembre de 2017. Seguirá recibiendo soporte técnico y actualizaciones de seguridad hasta julio de 2018. Pero ahora hay disponible una nueva versión del Canal semianual (versión 1708, compilación 8431.2250), que contiene características nuevas, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad.*
 
 ### <a name="excel-security-updates"></a>Excel: actualizaciones de seguridad
--   [CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147): vulnerabilidad de la ejecución remota de código de Microsoft Excel
+-   [ CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147) : vulnerabilidad de la ejecución remota de código de Microsoft Excel
 -   [CVE-2018-8148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8148): vulnerabilidad de la ejecución remota de código de Microsoft Excel
 -   [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162): vulnerabilidad de la ejecución remota de código de Microsoft Excel
 -   [CVE-2018-8163](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8163): vulnerabilidad de divulgación de información de Microsoft Excel
@@ -635,14 +669,14 @@ En estas notas de la versión, se proporciona información sobre característica
 ### <a name="excel-feature-updates"></a>Excel: actualizaciones de características
 -   **Mejoras de "Agregar columna a partir de los ejemplos":** admite más transformaciones de fecha y hora, matemáticas y columna de índice.
 -   **Mejora de rendimiento:** Excel abre libros complejos con varias hojas con mayor rapidez, para que pueda procesar fácilmente fórmulas con rangos extensos, filtrar un gran número de filas, o copiar y pegar más rápido.
--   **Insertar imágenes en línea:** nueva página de destino para la selección de imágenes. Además, la información de atribución se inserta automáticamente con la imagen.
+-   **Insertar imágenes en línea:** nueva página de aterrizaje para la selección de imágenes. Además, la información de atribución se inserta automáticamente con la imagen.
 -   **Conector Azure Data Lake Store:** Ahora, los usuarios pueden importar datos desde Azure Data Lake Store.
 -   **Mejoras en la opción "Agregar columna a partir de ejemplos":** admite sugerencias, más operaciones de fecha y hora, así como transformaciones adicionales.
 -   **Pestaña Datos**: los botones de la cinta de opciones de la pestaña Datos se han reorganizado en dos nuevos grupos: Obtener y transformar datos y Consultas y conexiones.
 -   **Uso compartido de consultas**: exporte cualquier definición de consulta en un archivo de conexión de base de datos de Office (ODC) y, a continuación, compártalo en libros o con otros usuarios.
 -   **Carga de datos:** cargue datos desde una consulta directamente en tablas dinámicas o gráficos dinámicos sin tener que guardar los datos en el modelo de datos.
 -   **Actividad de archivo compartido:** elija el botón Actividad en la esquina superior derecha del archivo para ver cuando un archivo compartido en OneDrive para la Empresa o SharePoint se compartió, se editó, se restauró o se cambió de nombre.
--   **Vínculos seguros:** cuando un usuario hace clic en un vínculo, Protección contra amenazas avanzada (ATP) de Office 365 lo inspecciona para comprobar si es malintencionado o no. Si el vínculo se considera malintencionado, se redirige al usuario a una página de advertencia en vez de redirigirlo a la URL de destino original. [Más información](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
+-   **Vínculos seguros:** cuando un usuario hace clic en un vínculo, Protección contra amenazas avanzada (ATP) de Office 365 lo inspecciona para comprobar si es malintencionado o no. Si el vínculo se considera malintencionado, se redirige al usuario a una página de advertencia en lugar de redirigirlo a la URL de destino original. [Más información](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 -   **Funcionalidad de importación de datos mejorada:** puede importar datos de varios orígenes y darles forma con facilidad. Administre las consultas y las conexiones de los libros con el panel lateral Consultas y conexiones y comparta las consultas con otros usuarios mediante archivos ODC. [Más información](https://support.office.com/article/ad78befd-eb1c-4ea7-a55d-79d1d67cf9b3)
 -   **Cambios en archivos compartidos**: vea quién ha realizado cambios en los libros compartidos y restaure versiones anteriores. [Más información](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
 -   **Selección de lazo con un botón del lápiz:** use los botones de un lápiz digital admitido para la selección de lazo de lápiz sin necesidad de ir a la cinta de opciones.
@@ -718,12 +752,12 @@ En estas notas de la versión, se proporciona información sobre característica
 -   Se ha corregido  un problema que provocaba un fallo intermitente al abrir Outlook.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
--   **Insertar imágenes en línea:** nueva página de destino para la selección de imágenes. Además, la información de atribución se inserta automáticamente con la imagen.
+-   **Insertar imágenes en línea:** nueva página de aterrizaje para la selección de imágenes. Además, la información de atribución se inserta automáticamente con la imagen.
 -   **Subtítulos para los vídeos:** agregue subtítulos a los vídeos para que sean más accesibles. [Más información](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
 -   **Incluir comentarios en una grabación:** incluya un vídeo con sus propios comentarios cuando grabe una presentación. Las grabaciones pueden incluir animaciones, entradas de lápiz, audio y vídeo.
 -   **Actividad de archivo compartido:** elija el botón Actividad situado en la esquina superior derecha del archivo para ver cuándo se compartió, se editó, se restauró o se renombró un archivo compartido en OneDrive para la Empresa o SharePoint
 -   **Creación de texto alternativo:** un servicio basado en la nube genera automáticamente texto alternativo para las imágenes de una presentación.
--   **Vínculos seguros:** cuando un usuario hace clic en un vínculo, Protección contra amenazas avanzada (ATP) de Office 365 lo inspecciona para comprobar si es malintencionado o no. Si el vínculo se considera malintencionado, se redirige al usuario a una página de advertencia en vez de redirigirlo a la URL de destino original. [Más información](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
+-   **Vínculos seguros:** cuando un usuario hace clic en un vínculo, Protección contra amenazas avanzada (ATP) de Office 365 lo inspecciona para comprobar si es malintencionado o no. Si el vínculo se considera malintencionado, se redirige al usuario a una página de advertencia en lugar de redirigirlo a la URL de destino original. [Más información](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 -   **Mejoras para diseñadores:** se recomiendan ideas de diseño profesional para las listas de acción.
 -   **Cambios en archivos compartidos:** vea quién ha realizado cambios en las presentaciones compartidas y restaure versiones anteriores. [Más información](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
 
@@ -733,7 +767,7 @@ En estas notas de la versión, se proporciona información sobre característica
 -   [CVE-2017-11934](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11934): vulnerabilidad de divulgación de información de Microsoft PowerPoint
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: actualizaciones no relacionadas con la seguridad
--   Se ha corregido un problema que causaba que Office no pudiera escribir en el disco al guardar un archivo de copia de sincronización, pero Office siguiera subiendo el archivo a OneDrive. Con esta corrección, ahora el usuario ve un mensaje de error y la subida no se realiza.
+-   Se ha corregido un problema que provocaba que impedía a Office escribir en el disco al guardar un archivo de copia de sincronización, mientras que continuaba cargando el archivo en OneDrive. Gracias a esta corrección, el usuario ve un mensaje de error y la carga no se realiza.
 -   Se ha corregido un problema que provocaba que PowerPoint se bloqueara al editar y aplicar formato al texto tras deshacer un cambio en una tabla.
 -   Se ha corregido  un problema que provocaba que se abriera una ventana nueva para reproducir el vídeo al usar referencias a Flash Player basadas en código para insertar de YouTube. Se han actualizado los códigos para insertar antiguos con referencias a HTML5 basadas en vídeos de YouTube para que se reproduzcan correctamente en su ubicación.
 -   Se ha corregido un problema por el que PowerPoint se bloquea al abrir una presentación desde un servidor de SharePoint anterior a SharePoint Server 2016.
@@ -752,11 +786,11 @@ En estas notas de la versión, se proporciona información sobre característica
 -   Se ha corregido  un problema que causaba que el campo de estado no siempre se calculara correctamente para las tareas de resumen.
 -   Se ha corregido  un problema que producía que trabajo real se transfiriese de forma errónea a un recurso de empresa al sustituir un recurso local y cuando está habilitado el trabajo protegido.
 -   Se ha corregido un problema que producía que Project se bloquease si tenía una tabla en la que la primera columna fuese Nombre de tarea, la columna estuviese bloqueada e hiciese clic en una tarea.
--   Se ha corregido  un problema que producía que pudiese asignar el mismo recurso varias veces a la misma tarea mediante la vista Uso de tareas.
+-   Se ha corregido un problema que producía que pudiese asignar el mismo recurso varias veces a la misma tarea mediante la vista Uso de tareas.
 -   Se ha corregido  un problema que producía que los valores en los campos personalizados de número se perdiesen al abrir archivos XML.
--   Se ha corregido  un problema que producía que la sangría de tareas de nivel superior no se sincronizase correctamente entre Project y la lista de tareas de SharePoint.
+-   Se ha corregido un problema que producía que la sangría de tareas de nivel superior no se sincronizase correctamente entre Project y la lista de tareas de SharePoint.
 -   Se ha corregido  un problema que producía que, al importar información de una asignación, recurso o tarea de un libro de Excel, se ignorasen los valores en el campo de trabajo.
--   Se ha corregido  un problema que provocaba que los valores de Línea base de fase temporal no coincidieran con los valores iniciales al guardar un proyecto en el formato de archivo XML.
+-   Se ha corregido un problema que provocaba que los valores de Línea base de fase temporal no coincidieran con los valores iniciales al guardar un proyecto en el formato de archivo XML.
 -   Se ha corregido  un problema que provocaba que el cliente de Project no abriera un proyecto, ya que detectaba que se había extraído del repositorio cuando, realmente, no era así.
 -   Se ha corregido  un problema que ralentizaba la apertura de los archivos de Project desde un servidor de archivos con una latencia alta.
 
@@ -768,27 +802,27 @@ En estas notas de la versión, se proporciona información sobre característica
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: actualizaciones no relacionadas con la seguridad
 -   Se agrega un cuadro de diálogo en el que se explica por qué un usuario no puede unirse a una reunión cuando determinados puertos están bloqueados o las direcciones IP no están en la lista de permitidos.
 -   Se ha corregido  un problema por el que los mensajes no leídos en salones de chat persistentes se marcaban como leídos cuando se hace clic en las pestañas de conversación de mensajería instantánea.
--   Se ha corregido  un problema en la que las notificaciones de mensajería instantánea entrantes experimentaban un retraso de varios segundos.
+-   Se ha corregido un problema en la que las notificaciones de mensajería instantánea entrantes experimentaban un retraso de varios segundos.
 -   Se ha corregido un problema por el que un contacto de AD se mostraba como un número de teléfono en lugar del nombre del contacto cuando está deshabilitada la sincronización con Exchange.
 -   Se ha corregido  un problema en el que se impedía a los usuarios anónimos unirse cuando estaba deshabilitada la federación y el organizador de la reunión no había bloqueado explícitamente las uniones anónimas.
 -   Se ha corregido  un problema en el que se mostraba de manera incorrecta al organizador de la reunión el número de invitados para reuniones que excedían el límite de la reunión.
 -   Se ha corregido  un problema en el que el número de teléfono no se mostraba en las notificaciones sobre llamadas RTC entrantes.
 -   Se ha corregido  un problema en el que, cuando se usaba la tecla Supr mientras se cambiaba el nombre de un grupo de la lista de contactos, se eliminaba todo el grupo.
--   Se ha corregido  un problema en el que se descartaba la notificación para compartir de una conversación de mensajería instantánea antes de que se dejara de compartir.
+-   Se ha corregido un problema en el que se descartaba la notificación para compartir de una conversación de mensajería instantánea antes de que se dejara de compartir.
 -   Se ha corregido  un problema que causaba que la pantalla de inicio de sesión se mostrara en blanco para algunos idiomas distintos del inglés.
--   Se ha corregido  un problema que causaba que los caracteres que no pertenecieran al alfabeto inglés aparecieran cifrados en el chat y en el historial de chat.
+-   Se ha corregido un problema que causaba que los caracteres que no pertenecieran al alfabeto inglés aparecieran ilegibles en el chat y en el historial de chat.
 -   Se muestra el número de teléfono de una llamada entrante controlada por el Operador automático de la organización si no se conoce el nombre del usuario.
--   Agrega una configuración de banda que permita la restricción de "Cualquiera (sin restricciones)" como una opción para "Estas personas no tienen que esperar en el vestíbulo".
+-   Agrega una configuración de banda que permite la restricción de "Cualquiera (sin restricciones)" como una opción para "Estas personas no tienen que esperar en el vestíbulo".
 -   Agrega capacidad de activar o desactivar auto vídeo para videollamadas P2P en VDIv2.
--   Se ha corregido un problema que mostraba los números duplicados de contactos en el menú desplegable llamar.
+-   Se ha corregido un problema que mostraba los números duplicados de contactos en el menú desplegable para llamar.
 -   Se ha corregido un problema que quitaba los delegados para los usuarios que se movían entre Skype for Business y Skype for Business Basic.
--   Se ha corregido  un problema en el que el estado Desconectado no era visible al usar las directivas de cliente Habilitar desconectado y URL de estado de cliente.
+-   Se ha corregido un problema en el que el estado Sin conexión no era visible al usar las directivas de cliente Habilitar desconectado y URL de estado de cliente.
 -   Se ha ampliado el botón Unirse a la reunión para corregir un truncamiento en algunos de los idiomas localizados.
--   Se ha aumentado la prominencia de los mensajes de importancia alta en el chat.
+-   Se ha aumentado la relevancia de los mensajes de importancia alta en el chat.
 -   Se agregan tipos de extensión de archivo de Skype for Business y de Office a las listas de transferencias de archivos bloqueadas permitidas.
--   Se aplican correcciones de ubicación en las invitaciones a reuniones de Outlook para el texto del pie de página establecido en un idioma diferente al inglés en las reuniones.
+-   Se aplican correcciones de localización en las invitaciones a reuniones de Outlook para el texto del pie de página establecido en un idioma diferente al inglés en las reuniones.
 -   Se ha corregido un problema que provocaba que los nombres de los remitentes se cambiaran a veces en las conversaciones de varios usuarios.
--   Se ha corregido un problema que provocaba que la ventana de las conversaciones en blanco no apareciera hasta que no se había unido correctamente a una reunión.
+-   Se ha corregido un problema que provocaba que la ventana de conversación en blanco no apareciera hasta que no se había unido correctamente a una reunión.
 -   Se ha corregido un problema que provocaba que la información del campo del departamento de una tarjeta de contacto no apareciera en los resultados de la búsqueda si el campo del título estaba vacío.
 -   Se han corregido los errores de inicio de sesión de los usuarios migrados de un entorno local a uno en línea que se producían a causa de las reglas de firewall.
 -   Se ha agregado una nueva clave del Registro DWORD para corregir un problema que provocaba que, cuando un usuario iniciaba sesión en el cliente en una red externa con LyncAutoD, el cliente restableciese la clave del Registro de OAuthUsed a false. Para solucionar el problema, establezca el valor en 1 para EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket en HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Lync\\\<Id.SIP\>.
@@ -798,7 +832,7 @@ En estas notas de la versión, se proporciona información sobre característica
 -   **Vínculos seguros:** cuando un usuario hace clic en un vínculo, Protección contra amenazas avanzada (ATP) de Office 365 lo inspecciona para comprobar si es malintencionado o no. Si el vínculo se considera malintencionado, se redirige al usuario a una página de advertencia en vez de redirigirlo a la URL de destino original. [Más información](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 
 ### <a name="visio-non-security-updates"></a>Visio: actualizaciones no relacionadas con la seguridad
--   Se ha corregido un problema en el que los complementos COM no recibían eventos abiertos de un documento cuando se abre un archivo de Visio mediante un doble clic en un icono de archivo o nombre de archivo.
+-   Se ha corregido un problema en el que los complementos COM no recibían eventos abiertos de un documento al abrir un archivo de Visio mediante un doble clic en un icono de archivo o nombre de archivo.
 
 ### <a name="word-feature-updates"></a>Word: actualizaciones de características
 -   **Insertar imágenes en línea:** nueva página de aterrizaje para la selección de imágenes. Además, la información de atribución se inserta automáticamente con la imagen.
@@ -850,7 +884,7 @@ En estas notas de la versión, se proporciona información sobre característica
 -   Se ha corregido un problema relacionado con el zoom y el ajuste de escala en Complementos de Office en el entorno de PPP dinámico.
 -   Se ha corregido un problema que causaba que el nodo CurrentStatus del proveedor del servicio de configuración (CSP) de Office devolviera una cadena vacía incluso si Office 365 ProPlus estaba instalado.
 -   Se ha corregido un problema que provocaba cambios de formato en los archivos .box, lo que afectaba a la funcionalidad de las versiones antiguas de Office instaladas en el mismo equipo, ya que los archivos .box se comparten con todas las versiones de una aplicación de Office en el mismo equipo.
--   Se ha corregido un problema por el que se, al usar la activación en equipos compartidos, en determinadas circunstancias se mostraba un mensaje de error donde se indicaba que un error en la aplicación impedía el correcto funcionamiento y se preguntaba al usuario si quería ejecutar una reparación.
+-   Se ha corregido un problema por el que, al usar la activación en equipos compartidos, en determinadas circunstancias se mostraba un mensaje de error donde se indicaba que un error en la aplicación impedía el correcto funcionamiento y se preguntaba al usuario si quería ejecutar una reparación.
 -   Se ha corregido un problema por el que no se mostraba al usuario el progreso de una reparación en línea.
 -   Se ha corregido un problema por el que no se muestran las propiedades de archivo de Office en el Explorador de archivos.
 -   Se ha corregido un problema por el que los botones de complementos de Office desaparecen de la cinta de opciones cuando hay un segundo documento abierto.
@@ -860,9 +894,9 @@ En estas notas de la versión, se proporciona información sobre característica
 -   Se ha corregido un problema en el que al mantener el puntero sobre un Control común que tiene una información sobre herramientas en él, hace que la aplicación se bloquee.
 -   Se ha corregido un problema en el que un mensaje de error de licencia aparece cuando se usan controles comunes.
 -   Se ha corregido un problema relacionado con la forma en que se firmaban algunos archivos de programa, lo que causaba que los programas antivirus marcaran esos archivos como potencialmente peligrosos, así como otros problemas de protección o acceso a datos en Windows Information Protection (WIP).
--   Se ha agregado compatibilidad para que los usuarios que trabajen en versiones de Office de 64 bits puedan abrir archivos de macro que contienen controles mscomctl.ocx.
+-   Se ha agregado compatibilidad para que los usuarios que trabajen en versiones de Office de 64 bits puedan abrir archivos de macro que contengan controles mscomctl.ocx.
 -   Se han mejorado los controles de accesibilidad que se usan en mscomctl.ocx.
--   Se ha corregido un problema que provocaba que los comandos no estuvieran disponibles en los cuadros de diálogo de personalización de la cinta o de la barra de herramientas de acceso rápido.
+-   Se ha corregido un problema que provocaba que los comandos no estuvieran disponibles en los cuadros de diálogo de personalización de la cinta de opciones o de la barra de herramientas de acceso rápido.
 
 
 

@@ -3,19 +3,19 @@ title: Notas de versión para las versiones de Canal mensual en 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/9/2018
+ms.date: 10/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2018
-ms.openlocfilehash: 0982cb8515d3fb9c5234ca72eb45b6b688e597e1
-ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
+ms.openlocfilehash: f84a3e87d99fec1687ef447f488ed9767313bbf0
+ms.sourcegitcommit: 1bbcc1cc115559c0a1f9c6a26584590203930f2e
 ms.translationtype: HT
 ms.contentlocale: es-ES
 ms.lasthandoff: 10/10/2018
-ms.locfileid: "25456794"
+ms.locfileid: "25493876"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de versión para las versiones de Canal mensual en 2018
 
@@ -42,25 +42,8 @@ En estas notas de la versión, se proporciona información sobre característica
 -   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): actualización de defensa en profundidad de Microsoft Office 
 
 ### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones de seguridad 
--   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432):  vulnerabilidad de la ejecución remota de código de componentes de Microsoft Graphics 
+-   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432): vulnerabilidad de la ejecución remota de código de componentes de Microsoft Graphics 
 
-### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad 
--   Se ha solucionado el problema que se producía cuando los símbolos del intervalo 2190...2194 se cambiaban a Cambria Math. Esto hace que la altura de la celda de Excel aumente 3 veces.
--   Esto corrige el problema de Excel en el que Excel puede no responder cuando el usuario pasa el ratón por encima de las opciones de formato de un libro con muchos nombres definidos, y en el que Excel puede no responder en la herramienta de Análisis rápido incluso cuando la Vista previa activa está desactivada en las opciones.
--   Actualmente estamos investigando el bajo rendimiento al mover la ventana de la aplicación de Excel de un escritorio a otro. Mientras tanto, si nota esta lentitud, entonces una solución a considerar es seleccionar "Optimizar para compatibilidad" en "Al usar varias pantallas" en la pestaña "General" en el cuadro de diálogo Opciones de archivo.
-
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: actualizaciones no relacionadas con la seguridad
--   Corregido un problema de posibles corrupciones de archivos al guardar archivos con contenido ActiveX.
-
-### <a name="word-non-security-updates"></a>Word: actualizaciones no relacionadas con la seguridad
--   Se ha solucionado un problema por el que al insertar un objeto de documento de Word, aparecía el editor de ecuaciones.
-
-### <a name="project-non-security-updates"></a>Project: actualizaciones no relacionadas con la seguridad
--   Se ha solucionado un problema por el que si establecía un encabezado o pie de página para una impresión, el cambio no se mantenía la próxima vez que iba a imprimir el proyecto.
-
-### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones no relacionadas con la seguridad
--   Se ha solucionado el problema de que las aplicaciones mostraban animaciones a pesar de haberlas desactivado a través de la configuración de accesibilidad y rendimiento. 
--   Se ha solucionado el problema de que el fondo se quedaba en blanco cuando se utilizaba la herramienta de dibujo de marcador.
 
 ## <a name="version-1809-september-27"></a>Versión 1809: 27 de septiembre
 *Versión 1809 (compilación 10827.20138)*
@@ -96,7 +79,7 @@ En estas notas de la versión, se proporciona información sobre característica
 ### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
 -   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430): vulnerabilidad de la ejecución remota de código de Word PDF
 
-### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones de seguridad
+### <a name="office-suite-security-updates"></a>Office Suite: actualizaciones de seguridad
 -   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): vulnerabilidad de ejecución remota de código de gráficos Win32k
 
 
@@ -299,7 +282,7 @@ En estas notas de la versión, se proporciona información sobre característica
 *Versión 1804 (compilación 9226.2126)*
 
 ### <a name="excel-security-updates"></a>Excel: actualizaciones de seguridad
--   [CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147): vulnerabilidad de la ejecución remota de código de Microsoft Excel
+-   [ CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147) : vulnerabilidad de la ejecución remota de código de Microsoft Excel
 -   [CVE-2018-8148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8148): vulnerabilidad de la ejecución remota de código de Microsoft Excel
 -   [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162): vulnerabilidad de la ejecución remota de código de Microsoft Excel
 -   [CVE-2018-8163](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8163): vulnerabilidad de divulgación de información de Microsoft Excel
@@ -343,13 +326,13 @@ En estas notas de la versión, se proporciona información sobre característica
 -   Se ha corregido un problema que provocaba que, cuando había varios usuarios trabajando en coautoría en la misma presentación, se duplicaran de forma incorrecta los patrones de diapositivas.
 -   Se ha corregido un problema por el que, al abrir un archivo guardado en OneDrive, se bloqueaba PowerPoint al salir de la Vista protegida.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: actualizaciones no relacionadas con la seguridad
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: actualizaciones no relacionadas con la seguridad
 -   Se ha corregido un problema relacionado con la compatibilidad del protocolo TLS 1.2.
 
 ### <a name="word-non-security-updates"></a>Word: actualizaciones no relacionadas con la seguridad
 -   Se ha corregido un problema que causaba que apareciera un mensaje de memoria insuficiente.
 
-### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones de seguridad
+### <a name="office-suite-security-updates"></a>Office Suite: actualizaciones de seguridad
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950): vulnerabilidad de divulgación de información de Microsoft Office
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026): vulnerabilidad de la ejecución remota de código de Microsoft Office
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030): vulnerabilidad de la ejecución remota de código de Microsoft Office
@@ -530,7 +513,7 @@ En estas notas de la versión, se proporciona información sobre característica
 -   [CVE-2018-0807](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0807): vulnerabilidad de la ejecución remota de código de Microsoft Word
 -   [CVE-2018-0812](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0812): vulnerabilidad de daños en la memoria de Microsoft Word
 
-### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones de seguridad
+### <a name="office-suite-security-updates"></a>Office Suite: actualizaciones de seguridad
 -   [CVE-2018-0795](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0795): vulnerabilidad de la ejecución remota de código de Microsoft Office
 -   [Advertencia 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003): actualización de defensa en profundidad de Microsoft Office
 
