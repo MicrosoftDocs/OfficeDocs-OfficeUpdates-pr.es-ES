@@ -3,19 +3,19 @@ title: Notas de la versión para las versiones de Canal semianual en 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/10/2018
+ms.date: 10/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual de Office 365 ProPlus en 2018.
-ms.openlocfilehash: a9edf21d49e4d7d7946ac22f6f014d2a5d242b8a
-ms.sourcegitcommit: d0a66098beda134e12800930e4b236f673d5dd72
+ms.openlocfilehash: b86989758569962d53d3bc3314ad3d5293dee79a
+ms.sourcegitcommit: 315bbe7877eefa63817f05967b5521a3047d8916
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/10/2018
-ms.locfileid: "25492780"
+ms.lasthandoff: 10/11/2018
+ms.locfileid: "25498271"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>Notas de la versión para las versiones de Canal semianual en 2018
 
@@ -42,25 +42,11 @@ En estas notas de la versión, se proporciona información sobre característica
 -   [CVE-2018-8504](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8504): vulnerabilidad de la ejecución remota de código de Microsoft Word 
 -   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): actualización de defensa en profundidad de Microsoft Office 
 
-### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones de seguridad 
--   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432):  vulnerabilidad de la ejecución remota de código de componentes de Microsoft Graphics 
-
-### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad 
--   Se ha solucionado el problema que se producía cuando los símbolos del intervalo 2190...2194 se cambiaban a Cambria Math. Esto hace que la altura de la celda de Excel aumente 3 veces.
--   Esto corrige el problema de Excel en el que Excel puede no responder cuando el usuario pasa el ratón por encima de las opciones de formato de un libro con muchos nombres definidos, y en el que Excel puede no responder en la herramienta de Análisis rápido incluso cuando la Vista previa activa está desactivada en las opciones.
--   Actualmente estamos investigando el bajo rendimiento al mover la ventana de la aplicación de Excel de un escritorio a otro. Mientras tanto, si nota esta lentitud, entonces una solución a considerar es seleccionar "Optimizar para compatibilidad" en "Al usar varias pantallas" en la pestaña "General" en el cuadro de diálogo Opciones de archivo.
-
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: actualizaciones no relacionadas con la seguridad
--   Corregido un problema de posibles corrupciones de archivos al guardar archivos con contenido ActiveX.
-
-### <a name="word-non-security-updates"></a>Word: actualizaciones no relacionadas con la seguridad
--   Se ha solucionado un problema por el que al insertar un objeto de documento de Word, aparecía el editor de ecuaciones.
-
-### <a name="project-non-security-updates"></a>Project: actualizaciones no relacionadas con la seguridad
--   Se ha solucionado un problema por el que si establecía un encabezado o pie de página para una impresión, el cambio no se mantenía la próxima vez que iba a imprimir el proyecto.
+### <a name="office-suite-security-updates"></a>Office Suite: actualizaciones de seguridad 
+-   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432): vulnerabilidad de la ejecución remota de código de componentes de Microsoft Graphics 
 
 ### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones no relacionadas con la seguridad
--   Se ha solucionado el problema de que las aplicaciones mostraban animaciones a pesar de haberlas desactivado a través de la configuración de accesibilidad y rendimiento. 
+-   Se ha solucionado el problema de que las aplicaciones mostraban animaciones a pesar de haberlas desactivado a través de la configuración de accesibilidad y rendimiento.
 -   Se ha solucionado el problema de que el fondo se quedaba en blanco cuando se utilizaba la herramienta de dibujo de marcador.
 
 ## <a name="version-1708-october-9"></a>Versión 1708: 9 de octubre
@@ -81,26 +67,9 @@ En estas notas de la versión, se proporciona información sobre característica
 -   [CVE-2018-8504](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8504): vulnerabilidad de la ejecución remota de código de Microsoft Word 
 -   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): actualización de defensa en profundidad de Microsoft Office 
 
-### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones de seguridad 
--   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432):  vulnerabilidad de la ejecución remota de código de componentes de Microsoft Graphics 
+### <a name="office-suite-security-updates"></a>Office Suite: actualizaciones de seguridad 
+-   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432): vulnerabilidad de la ejecución remota de código de componentes de Microsoft Graphics 
 
-### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad 
--   Se ha solucionado el problema que se producía cuando los símbolos del intervalo 2190...2194 se cambiaban a Cambria Math. Esto hace que la altura de la celda de Excel aumente 3 veces.
--   Esto corrige el problema de Excel en el que Excel puede no responder cuando el usuario pasa el ratón por encima de las opciones de formato de un libro con muchos nombres definidos, y en el que Excel puede no responder en la herramienta de Análisis rápido incluso cuando la Vista previa activa está desactivada en las opciones.
--   Actualmente estamos investigando el bajo rendimiento al mover la ventana de la aplicación de Excel de un escritorio a otro. Mientras tanto, si nota esta lentitud, entonces una solución a considerar es seleccionar "Optimizar para compatibilidad" en "Al usar varias pantallas" en la pestaña "General" en el cuadro de diálogo Opciones de archivo.
-
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: actualizaciones no relacionadas con la seguridad
--   Corregido un problema de posibles corrupciones de archivos al guardar archivos con contenido ActiveX.
-
-### <a name="word-non-security-updates"></a>Word: actualizaciones no relacionadas con la seguridad
--   Se ha solucionado un problema por el que al insertar un objeto de documento de Word, aparecía el editor de ecuaciones.
-
-### <a name="project-non-security-updates"></a>Project: actualizaciones no relacionadas con la seguridad
--   Se ha solucionado un problema por el que si establecía un encabezado o pie de página para una impresión, el cambio no se mantenía la próxima vez que iba a imprimir el proyecto.
-
-### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones no relacionadas con la seguridad
--   Se ha solucionado el problema de que las aplicaciones mostraban animaciones a pesar de haberlas desactivado a través de la configuración de accesibilidad y rendimiento. 
--   Se ha solucionado el problema de que el fondo se quedaba en blanco cuando se utilizaba la herramienta de dibujo de marcador.
 
 ## <a name="version-1803-september-11"></a>Versión 1803: 11 de septiembre
 *Versión 1803 (compilación 9126.2282)*
@@ -290,7 +259,7 @@ En estas notas de la versión, se proporciona información sobre característica
 -   **Resaltado de revisión:** se resaltan las diapositivas que han sido modificadas por otros usuarios.
 -   **Mientras estuvo fuera:** PowerPoint muestra quién editó la presentación compartida desde su última visita.
 -   **Mejora del servicio Diseñador:** el Diseñador ahora recomienda ideas de diseño para las escalas de tiempo en una lista con viñetas.
--   **Sonidos útiles que mejoran la accesibilidad:** active las indicaciones de audio para guiarse mientras trabaja. Las encontrará en Archivo \> Opciones \> Accesibilidad. No se necesita ningún complemento. [Más información](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
+-   **Sonidos útiles mejoran la accesibilidad:** active las indicaciones de audio para guiarse mientras trabaja. Las encontrará en Archivo \> Opciones \> Accesibilidad. No se necesita ningún complemento. [Más información](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
 -   **Ubicaciones de archivo por cuenta:** al abrir o guardar un archivo, la lista de ubicaciones se organiza en función de la cuenta asociada.
 -   **Personalización del lápiz:** elija un conjunto personal de lápices y marcadores de resaltado para las entradas manuscritas. Su conjunto personalizado estará disponible en todos sus equipos PC Windows.
 -   **Mejora del servicio Diseñador:** ahora, Diseñador recomienda ideas de diseño para los gráficos que se agregan a las diapositivas.
@@ -321,12 +290,12 @@ En estas notas de la versión, se proporciona información sobre característica
 
 ### <a name="project-non-security-updates"></a>Project: actualizaciones no relacionadas con la seguridad
 -   Se ha corregido un problema en el que si se dividía una tarea con un recurso de costo, el recurso de costo no se actualizaba correctamente y se perdía el costo.
--   Se corrige un problema por el que solo se mostraban las tareas de la primera tarea de resumen en la vista Escala de tiempo del cuadro de diálogo Agregar tareas existentes a la escala de tiempo.
+-   Se ha corregido un problema por el que solo se mostraban las tareas de la primera tarea de resumen en la vista Escala de tiempo del cuadro de diálogo Agregar tareas existentes a la escala de tiempo.
 -   Se ha corregido un problema por el que podía fallar Guardar como XML para proyectos principales de Project Online o Project Server.
--   Se corrige un problema por el que solo se mostraban las tareas de la primera tarea de resumen en la vista Escala de tiempo del cuadro de diálogo Agregar tareas existentes a la escala de tiempo.
+-   Se ha corregido un problema por el que solo se mostraban las tareas de la primera tarea de resumen en la vista Escala de tiempo del cuadro de diálogo Agregar tareas existentes a la escala de tiempo.
 -   Se ha corregido un problema por el que al usar el menú desplegable Filtro automático en una columna de fecha se ocultaban todas las tareas del proyecto.
--   Se soluciona un problema por el que solo se mostraban las tareas de la primera tarea de resumen en el cuadro de diálogo al agregar tareas existentes a una escala de tiempo en la vista Escala de tiempo.
--   Se soluciona un problema por el que, al configurar más de una línea base en una sesión, se establecía el mismo valor de MOD\_DATE.
+-   Se ha corregido un problema por el que solo se mostraban las tareas de la primera tarea de resumen en el cuadro de diálogo al agregar tareas existentes a una escala de tiempo en la vista Escala de tiempo.
+-   Se ha corregido un problema por el que, al configurar más de una línea base en una sesión, se establecía el mismo valor de MOD\_DATE.
 -   Se ha corregido un problema por el que el trabajo real se seguía mostrando en las tablas de informe después de quitarlo de una sesión Guardar para compartir.
 -   Se ha corregido un problema en la versión de idioma alemán en el que al usar un formato de fecha de semanas se devolvía un error al programar.
 -   Se ha corregido un problema por el que al editar las fechas de finalización en Programar elemento web, las tareas se concentraban en 8 horas al día en lugar de extenderse a lo largo del día.
@@ -438,7 +407,7 @@ En estas notas de la versión, se proporciona información sobre característica
 ### <a name="word-non-security-updates"></a>Word: actualizaciones no relacionadas con la seguridad
 -   Se ha corregido un problema por el que Word se bloqueaba al abrir un archivo de SharePoint Online.
 -   Se soluciona un problema por el que los números de página en número romanos en minúscula se cambian incorrectamente a mayúsculas.
--   Se soluciona un problema que provocaba que apareciera un mensaje de memoria insuficiente.
+-   Se ha corregido un problema que provocaba que apareciera un mensaje de memoria insuficiente.
 -   Se ha corregido un problema por el que Word no se abre en un equipo con Windows 7 que no tiene la actualización de la experiencia del cliente y la telemetría de diagnóstico instalada.
 -   Se ha corregido un problema por el que no se imprimen las viñetas de listas.
 -   Se ha corregido un problema que provocaba que Word se bloqueara cuando un usuario intentaba usar Guardar como sobre un documento existente en OneDrive para la Empresa y, seguidamente, cancelaba o intentaba combinar cambios existentes.
@@ -446,7 +415,7 @@ En estas notas de la versión, se proporciona información sobre característica
 -   Se ha corregido un problema que causaba que Office no pudiera escribir en el disco al guardar un archivo de copia de sincronización, pero Office siguiera subiendo el archivo a OneDrive. Con esta corrección, ahora el usuario ve un mensaje de error y la subida no se realiza.
 -   Se ha solucionado un problema que, al quitar la protección IRM de un documento, causaba que dicha protección no se eliminara.
 
-### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones de seguridad
+### <a name="office-suite-security-updates"></a>Office Suite: actualizaciones de seguridad
 -   [CVE-2017-11882](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11882): vulnerabilidad de los daños en la memoria de Microsoft Office
 -   [CVE-2018-0795](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0795): vulnerabilidad de la ejecución remota de código de Microsoft Office
 -   [CVE-2018-0851](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0851): vulnerabilidad de los daños en la memoria de Microsoft Office
@@ -460,7 +429,7 @@ En estas notas de la versión, se proporciona información sobre característica
 -   [Advertencia 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003): actualización de defensa en profundidad de Microsoft Office
 
 ### <a name="office-suite-non-security-updates"></a>Office Suite: actualizaciones no relacionadas con la seguridad
--   Se corrige un problema por el que, al implementar actualizaciones con System Center Configuration Manager en un cliente que tiene aplicaciones de Office en ejecución, la actualización no se aplica después de reiniciar el dispositivo mientras se ejecutan las aplicaciones de Office.
+-   Se ha corregido un problema por el que, al implementar actualizaciones con System Center Configuration Manager en un cliente que tiene aplicaciones de Office en ejecución, la actualización no se aplica después de reiniciar el dispositivo mientras se ejecutan las aplicaciones de Office.
 -   Se ha corregido un problema que provocaba que, al abrir una aplicación, el usuario viera un mensaje sobre iniciar en modo seguro y después la aplicación no se abriera.
 -   La opción "Actualizar ahora" está oculta en Archivo \>Cuenta\> Opciones de actualización cuando se habilita un objeto COM de Office para que System Center Configuration Manager administre las actualizaciones de cliente de Office 365.
 -   Se ha solucionado un problema que causaba que la aplicación de Office se bloquease cuando el usuario intentaba activar Office con el cuadro de diálogo Activar Office.
@@ -563,7 +532,7 @@ En estas notas de la versión, se proporciona información sobre característica
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: actualizaciones no relacionadas con la seguridad
 -   Se ha corregido un problema relacionado con la compatibilidad del protocolo TLS 1.2.
 
-### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones de seguridad
+### <a name="office-suite-security-updates"></a>Office Suite: actualizaciones de seguridad
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950): vulnerabilidad de divulgación de información de Microsoft Office
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026): vulnerabilidad de la ejecución remota de código de Microsoft Office
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030): vulnerabilidad de la ejecución remota de código de Microsoft Office
@@ -628,7 +597,7 @@ En estas notas de la versión, se proporciona información sobre característica
 -   [CVE-2018-0850](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0850): vulnerabilidad de elevación de privilegios de Microsoft Outlook
 -   [CVE-2018-0852](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0852): vulnerabilidad de los daños en la memoria de Microsoft Outlook
 
-### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones de seguridad
+### <a name="office-suite-security-updates"></a>Office Suite: actualizaciones de seguridad
 -   [CVE-2018-0851](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0851): vulnerabilidad de los daños en la memoria de Microsoft Office
 -   [CVE-2018-0853](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0853): vulnerabilidad de divulgación de información de Microsoft Office
 
@@ -646,7 +615,7 @@ En estas notas de la versión, se proporciona información sobre característica
 -   [CVE-2018-0850](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0850): vulnerabilidad de elevación de privilegios de Microsoft Outlook
 -   [CVE-2018-0852](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0852): vulnerabilidad de los daños en la memoria de Microsoft Outlook
 
-### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones de seguridad
+### <a name="office-suite-security-updates"></a>Office Suite: actualizaciones de seguridad
 -   [CVE-2018-0851](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0851): vulnerabilidad de los daños en la memoria de Microsoft Office
 -   [CVE-2018-0853](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0853): vulnerabilidad de divulgación de información de Microsoft Office
 
@@ -663,7 +632,7 @@ En estas notas de la versión, se proporciona información sobre característica
 
 ### <a name="access-non-security-updates"></a>Access: actualizaciones no relacionadas con la seguridad
 -   Se ha solucionado un problema que provocaba que pareciera que se seleccionaba todo el texto al intentar seleccionar texto en un cuadro de texto o en un cuadro combinado, en lugar de mostrarse la selección real.
--   Se soluciona un problema por el que una consulta no se ejecuta si tiene una unión con una clave principal de una tabla vinculada de Microsoft Dynamics.
+-   Se ha corregido un problema por el que una consulta no se ejecuta si tiene una unión con una clave principal de una tabla vinculada de Microsoft Dynamics.
 -   Se soluciona un problema por el que no aparecen los decimales para los valores de moneda en una tabla de Microsoft Dynamics.
 
 ### <a name="excel-feature-updates"></a>Excel: actualizaciones de características
@@ -869,7 +838,7 @@ En estas notas de la versión, se proporciona información sobre característica
 -   Se ha corregido un problema que no permitía aplicar la separación correcta entre vocales y consonantes al escribir en coreano.
 -   Al guardar un documento como archivo PDF, se guarda como PDF de versión 1.7.
 
-### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones de seguridad
+### <a name="office-suite-security-updates"></a>Office Suite: actualizaciones de seguridad
 -   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570): vulnerabilidad de la ejecución remota de código de Microsoft Office
 -   [CVE-2017-8630](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8630): vulnerabilidad de los daños en la memoria de Microsoft Office
 -   [CVE-2017-8744](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8744): vulnerabilidad de los daños en la memoria de Microsoft Office
