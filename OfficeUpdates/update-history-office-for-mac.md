@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a profesionales de TI información sobre las últimas actualizaciones de Office para Mac, incluidos los vínculos para descargar los paquetes y un historial de actualizaciones
-ms.openlocfilehash: 07fe8ff246504b0723b86f796bfa8a7f00b6cdb0
-ms.sourcegitcommit: 5626bb716f12dd31eccb33bf0e0e8ed024392017
+ms.openlocfilehash: 388da8841fc6cfd42bb9eaf2d087d104e980273c
+ms.sourcegitcommit: a9e626dc692bca5e768bae6aefc02d881bc777c5
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/17/2018
-ms.locfileid: "25597833"
+ms.lasthandoff: 10/18/2018
+ms.locfileid: "25607347"
 ---
 # <a name="update-history-for-office-for-mac"></a>Historial de actualizaciones de Office para Mac
 
@@ -54,13 +54,13 @@ En la siguiente tabla, se enumeran los paquetes más recientes de Office para Ma
 
 En la siguiente tabla, se proporciona información sobre los paquetes más recientes, incluido un vínculo de descarga para otros programas de Mac de Microsoft que pueden ser de interés para los profesionales de TI. La fecha de compilación se muestra entre paréntesis, con un formato AAMMDD, después del número de versión. 
   
-|**Programa**|**Versión**|**Paquete**|**Hash SHA-1 y SHA-256**|**Más información**|
+|**Programa**|**Versión**|**Paquete**|**Más información**|**Hash SHA-1 y SHA-256**|
 |:-----|:-----|:-----|:-----|:-----|
-|Microsoft AutoUpdate (MAU)  <br/> |4.4 (18101400)  <br/> |[Descargar](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> | 258A04EBC0359C2D6E3691B03200D3DCBF4DEE65CE08B9E3A78AC0469D416B59  <br/> | Este paquete de actualización es de 64 bits. <br/><br/>[Historial de versiones para MAU](release-history-microsoft-autoupdate.md) |
-|Skype for Business  <br/> |16.22.0.160 <br/> |[Descargar](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> | 0D12A7C2D31FC9D9438908B1F3D4448DEC41932D <br/> |La versión más reciente se ha publicado el 12 de octubre de 2018. <br/><br/>[Actualizaciones más recientes](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |
-|Escritorio remoto | 10.2.2 (1291)  | [Descargar](https://go.microsoft.com/fwlink/?linkid=868963) | a9df9b5d37707d0eeca3c9368d1219726f323d99 | Este paquete de instalación es de 64 bits. <br/> <br/>[Novedades](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |
-|Portal de empresa de Intune |1.5 (52.1805002.000) [180509] | [Descargar](https://go.microsoft.com/fwlink/?linkid=869655)| 6aa67dc0accea7a3745e29133d2591568ff9f1cb | [Novedades de Microsoft Intune](https://docs.microsoft.com/intune/whats-new)|
-|Complemento del explorador Safari local de Microsoft SharePoint de Office 2016 para Mac  <br/> |15.32.0 (170309)  <br/> |[Descargar](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/> | Este paquete de instalación es de 64 bits.  <br/> |
+|Microsoft AutoUpdate (MAU)  <br/> |4.4 (18101400)  <br/> |[Descargar](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |   Este paquete de actualización es de 64 bits. <br/><br/>[Historial de versiones para MAU](release-history-microsoft-autoupdate.md)<br/> |258A04EBC0359C2D6E3691B03200D3DCBF4DEE65CE08B9E3A78AC0469D416B59  <br/>|
+|Skype for Business  <br/> |16.22.0.160 <br/> |[Descargar](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> |La versión más reciente se ha publicado el 12 de octubre de 2018. <br/><br/>[Actualizaciones más recientes](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> | 0D12A7C2D31FC9D9438908B1F3D4448DEC41932D <br/> |
+|Escritorio remoto | 10.2.2 (1291)  | [Descargar](https://go.microsoft.com/fwlink/?linkid=868963) | Este paquete de instalación es de 64 bits. <br/> <br/>[Novedades](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |  a9df9b5d37707d0eeca3c9368d1219726f323d99 <br/> |
+|Portal de empresa de Intune |1.5 (52.1805002.000) [180509] | [Descargar](https://go.microsoft.com/fwlink/?linkid=869655)| [Novedades de Microsoft Intune](https://docs.microsoft.com/intune/whats-new) | 6aa67dc0accea7a3745e29133d2591568ff9f1cb <br/> |
+|Complemento del explorador Safari local de Microsoft SharePoint de Office 2016 para Mac  <br/> |15.32.0 (170309)  <br/> |[Descargar](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |Este paquete de instalación es de 64 bits.  <br/>| 45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/>  |
    
 
 ## <a name="release-history-for-office-for-mac"></a>Historial de versiones de Office para Mac

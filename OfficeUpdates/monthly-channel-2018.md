@@ -3,19 +3,19 @@ title: Notas de versión para las versiones de Canal mensual en 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/11/2018
+ms.date: 10/17/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2018
-ms.openlocfilehash: 092384d86793b9b3920009006865ab692a68db19
-ms.sourcegitcommit: a4fa28004f92de8169a06d2453fb67060c7fd6ff
+ms.openlocfilehash: c1d7be28e55cb87e07b5e2b36a3b6bd59683715d
+ms.sourcegitcommit: a9e626dc692bca5e768bae6aefc02d881bc777c5
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/12/2018
-ms.locfileid: "25504992"
+ms.lasthandoff: 10/18/2018
+ms.locfileid: "25607357"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de versión para las versiones de Canal mensual en 2018
 
@@ -24,6 +24,13 @@ En estas notas de la versión, se proporciona información sobre característica
  > [!NOTE]
 > - Lo siguiente también proporciona información sobre características nuevas, actualizaciones de seguridad y no relacionadas con la seguridad para Visio Pro para Office 365 y el cliente de escritorio de Project Online.
 > - Esta información también se aplica a Office 365 Empresa, que es la versión de Office que viene con algunos planes de Office 365, como Empresa Premium.
+
+## <a name="version-1809-october-16"></a>Versión 1809: 16 de octubre
+*Versión 1809 (compilación 10827.20138)* 
+
+### <a name="office-suite-non-security-updates"></a>Office Suite: actualizaciones no relacionadas con la seguridad 
+-  Se han corregido varios problemas de rendimiento.
+
 
 ## <a name="version-1809-october-9"></a>Versión 1809: 9 de octubre
 *Versión 1809 (compilación 10827.20150)*
@@ -61,11 +68,11 @@ En estas notas de la versión, se proporciona información sobre característica
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
 - **Vea cómo sus diapositivas cobran vida** Inserte gráficos animados en 3D para ver latir corazones, orbitar planetas y la embestida de un T-Rex en la pantalla. [Más información](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
-- **Los iconos de la cinta de opciones tienen un nuevo aspecto** No se preocupe, todo funciona de la misma manera. Además, se ven muy bien en pantallas de todos los tamaños. [Obtener más información](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Los iconos de la cinta de opciones tienen un nuevo aspecto** No se preocupe, todo sigue funcionando de la misma forma. Además, su aspecto es excelente en pantallas de cualquier tamaño. [Más información](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="word-feature-updates"></a>Word: actualizaciones de características
 - **Obtenga su atención con \@mentions** Utilice @mentions en los comentarios para que los compañeros sepan que necesita su colaboración. [Obtener más información](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
-- **Los iconos de la cinta de opciones tienen un nuevo aspecto** No se preocupe, todo funciona de la misma manera. Además, se ven muy bien en pantallas de todos los tamaños. [Obtener más información](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Los iconos de la cinta de opciones tienen un nuevo aspecto** No se preocupe, todo sigue funcionando de la misma forma. Además, su aspecto es excelente en pantallas de cualquier tamaño. [Más información](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 - **Convertidor de Editor de ecuaciones** El convertidor permite a los usuarios convertir ecuaciones creadas mediante el Editor de ecuaciones de Microsoft al formato de Office Math ML para habilitar la edición.
 
 ## <a name="version-1808-september-11"></a>Versión 1808: 11 de septiembre
