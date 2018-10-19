@@ -3,19 +3,19 @@ title: Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/17/2018
+ms.date: 10/18/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Office 365 ProPlus según el canal de actualización
-ms.openlocfilehash: a9d529bb4702f5006c7992af382e80ea8e008534
-ms.sourcegitcommit: a9e626dc692bca5e768bae6aefc02d881bc777c5
+ms.openlocfilehash: e95939a6e9f1c67ece3479a988ff3ca4103058d1
+ms.sourcegitcommit: 5610fbdb9179573d3fac69d744ca1e3efed83f7a
 ms.translationtype: HT
 ms.contentlocale: es-ES
 ms.lasthandoff: 10/18/2018
-ms.locfileid: "25607337"
+ms.locfileid: "25625042"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 
@@ -200,7 +200,7 @@ La versión más actual es la 1803 (Compilación 9126.2259).
 |Versión 1708 (compilación 8431.2270)  <br/> |12 de junio de 2018  <br/> |280  <br/> |
 |Versión 1708 (compilación 8431.2250)  <br/> |8 de mayo de 2018  <br/> |280  <br/> |
    
-### <a name="semi-annual-channel-targeted"></a>Canal semestral (dirigido)
+### <a name="semi-annual-channel-targeted"></a>Canal semianual (dirigido)
 
 La versión más actual es la 1803 (Compilación 9126.2259).
   
