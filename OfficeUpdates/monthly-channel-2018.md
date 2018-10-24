@@ -3,19 +3,19 @@ title: Notas de versión para las versiones de Canal mensual en 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/17/2018
+ms.date: 10/23/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2018
-ms.openlocfilehash: c1d7be28e55cb87e07b5e2b36a3b6bd59683715d
-ms.sourcegitcommit: a9e626dc692bca5e768bae6aefc02d881bc777c5
+ms.openlocfilehash: a14a4c99d586c58fc118182148acaf54adb37673
+ms.sourcegitcommit: 3744de1936f2f9bc46a3883f3ae684339630502f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2018
-ms.locfileid: "25607357"
+ms.lasthandoff: 10/23/2018
+ms.locfileid: "25718974"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de versión para las versiones de Canal mensual en 2018
 
@@ -24,9 +24,11 @@ En estas notas de la versión, se proporciona información sobre característica
  > [!NOTE]
 > - Lo siguiente también proporciona información sobre características nuevas, actualizaciones de seguridad y no relacionadas con la seguridad para Visio Pro para Office 365 y el cliente de escritorio de Project Online.
 > - Esta información también se aplica a Office 365 Empresa, que es la versión de Office que viene con algunos planes de Office 365, como Empresa Premium.
+> - Se suelen lanzar características (y a veces incluso revisiones) para las suscripciones mensuales durante un periodo de tiempo. Esto nos permite asegurarnos de que todo funciona correctamente antes de publicar la característica para una audiencia más amplia. Por tanto, si no ve algo de lo que se describe a continuación, no se preocupe, lo acabará obteniendo. [Obtener más información](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
 
 ## <a name="version-1809-october-16"></a>Versión 1809: 16 de octubre
-*Versión 1809 (compilación 10827.20138)* 
+*Versión 1809 (compilación 10827.20181)* 
 
 ### <a name="office-suite-non-security-updates"></a>Office Suite: actualizaciones no relacionadas con la seguridad 
 -  Se han corregido varios problemas de rendimiento.
@@ -48,7 +50,7 @@ En estas notas de la versión, se proporciona información sobre característica
 -   [CVE-2018-8504](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8504): vulnerabilidad de la ejecución remota de código de Microsoft Word 
 -   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): actualización de defensa en profundidad de Microsoft Office 
 
-### <a name="office-suite-security-updates"></a>Office Suite: actualizaciones de seguridad 
+### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones de seguridad 
 -   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432): vulnerabilidad de la ejecución remota de código de componentes de Microsoft Graphics 
 
 
@@ -58,7 +60,7 @@ En estas notas de la versión, se proporciona información sobre característica
 ### <a name="excel-feature-updates"></a>Excel: actualizaciones de características
 - **Búsqueda rápida** Hemos acelerado los cálculos de VLOOKUP, HLOOKUP y MATCH para que pueda obtener respuestas más rápidamente. [Más información](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
 - **Llamada a todos los fans de Get & Transform** Si utiliza con frecuencia Get & Transform, estará encantado de saber que se ha mejorado la característica de columna de ejemplo. Además, también se han mejorado muchos conectores. [Más información](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
-- **Los iconos de la cinta de opciones tienen un nuevo aspecto** No se preocupe, todo sigue funcionando de la misma forma. Además, su aspecto es excelente en pantallas de cualquier tamaño. [Más información](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Los iconos de la cinta de opciones tienen un nuevo aspecto** No se preocupe, todo sigue funcionando de la misma forma. Además, su aspecto es excelente en las pantallas de cualquier tamaño. [Más información](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="outlook-feature-updates"></a>Outlook: actualizaciones de características
 - **Vea lo que vendrá próximamente** Pruebe nuevas experiencias de usuario antes de su lanzamiento y háganos saber lo que piensa. [Más información](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
@@ -288,7 +290,7 @@ En estas notas de la versión, se proporciona información sobre característica
 *Versión 1804 (compilación 9226.2126)*
 
 ### <a name="excel-security-updates"></a>Excel: actualizaciones de seguridad
--   [ CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147) : vulnerabilidad de la ejecución remota de código de Microsoft Excel
+-   [CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147): vulnerabilidad de la ejecución remota de código de Microsoft Excel
 -   [CVE-2018-8148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8148): vulnerabilidad de la ejecución remota de código de Microsoft Excel
 -   [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162): vulnerabilidad de la ejecución remota de código de Microsoft Excel
 -   [CVE-2018-8163](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8163): vulnerabilidad de divulgación de información de Microsoft Excel
@@ -296,7 +298,7 @@ En estas notas de la versión, se proporciona información sobre característica
 ### <a name="outlook-security-updates"></a>Outlook: actualizaciones de seguridad
 -   [CVE-2018-8150](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8150): vulnerabilidad de omisión de característica de seguridad de Microsoft Outlook
 
-### <a name="office-suite-security-updates"></a>Office Suite: actualizaciones de seguridad
+### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones de seguridad
 -   [CVE-2018-8157](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8157): vulnerabilidad de la ejecución remota de código de Microsoft Office
 -   [CVE-2018-8158](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8158): vulnerabilidad de la ejecución remota de código de Microsoft Office
 

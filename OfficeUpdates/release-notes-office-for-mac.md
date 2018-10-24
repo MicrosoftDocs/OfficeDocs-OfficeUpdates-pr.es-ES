@@ -3,19 +3,19 @@ title: Notas de la versión de Office para Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/16/2018
+ms.date: 10/23/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales de TI las notas de las versiones de Office para Mac para los suscriptores de Office 356
-ms.openlocfilehash: a27ee420c88373802be4ec0b874ec5f7a70175fa
-ms.sourcegitcommit: f9fd919ac17ebaaea3d9c382f66210fe267b1cdb
+ms.openlocfilehash: 9c39c4845d600c86e2f0019fe4095ae3e64417da
+ms.sourcegitcommit: 3744de1936f2f9bc46a3883f3ae684339630502f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/19/2018
-ms.locfileid: "25676977"
+ms.lasthandoff: 10/23/2018
+ms.locfileid: "25718984"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de la versión de Office para Mac
 
@@ -29,9 +29,10 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 > - Para obtener una lista de todas las versiones de Office para Mac y vínculos de descarga adicionales, vea [Historial de actualizaciones de Office para Mac](update-history-office-for-mac.md). 
 > - Si participa en Office Insider, vea [Notas de la versión para las compilaciones del Modo anticipado de Insider](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a).
 > - Comenzando con la versión 16.17 de septiembre de 2018, estas notas de la versión también se aplican a Office 2019 para Mac, que es una versión de Office para Mac que se puede comprar mediante un pago único en tiendas minoristas o mediante un contrato de licencia de volumen. Sin embargo, algunas funciones incluidas en las notas de la versión solo están disponibles si dispone de una suscripción a Office 365.
-> - Las notas de la versión correspondientes a la versión 16.16 y a versiones anteriores también se aplican a Office 2016 para Mac, que también es una versión de Office para Mac que está disponible como una compra única. Las versiones anteriores hasta la 16.16, esta incluida, pueden activarse con una licencia por volumen de Office 2016 para Mac. No se puede activar la versión 16.17 ni las versiones posteriores con una licencia por volumen de Office 2016 para Mac. Para obtener información acerca de las versiones de Office 2016 para Mac a partir de septiembre, consulte [Notas de la versión de Office 2016 para Mac](release-notes-office-2016-mac.md).
+> - Las notas de la versión 16.16 y versiones anteriores también se aplican a Office 2016 para Mac, que es una versión de Office que también se puede comprar mediante un pago único. Las versiones anteriores, hasta la 16.16 incluida, pueden activarse con una licencia por volumen de Office 2016 para Mac. La versión 16.17 y las siguientes no se pueden activar con una licencia por volumen de Office 2016 para Mac. Para obtener información acerca de versiones de Office 2016 para Mac de septiembre en adelante, consulte [Notas de la versión de Office 2016 para Mac](release-notes-office-2016-mac.md)
 > - Los vínculos de descarga solo se proporcionan para las versiones más recientes.
-> - Microsoft AutoUpdate ofrece actualizaciones para distintos productos de Mac de Microsoft. Por tanto, es posible que reciba una notificación para actualizar Microsoft AutoUpdate, incluso si no está ejecutando Office para Mac.
+> - Microsoft AutoUpdate ofrece actualizaciones para distintos productos de Mac desde Microsoft. Por tanto, es posible que reciba una notificación para actualizar Microsoft AutoUpdate, incluso si no está ejecutando Office para Mac.
+> - Se suelen lanzar características (y a veces incluso revisiones) para las suscripciones mensuales durante un periodo de tiempo. Esto nos permite asegurarnos de que todo funciona correctamente antes de publicar la característica para un público más amplio. Por tanto, si no ve algo de lo que se describe a continuación, no se preocupe, lo acabará obteniendo. [Obtener más información](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 ## <a name="october-2018-release"></a>Versión de octubre de 2018
 
@@ -65,7 +66,7 @@ En esta versión se incluyen las siguientes actualizaciones.
 |PowerPoint  <br/> |<br/>**Dibujar con entrada de lápiz:** use el ratón o el panel táctil y los lápices en la pestaña Dibujar para escribir, dibujar y resaltar.[Más información](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**Insertar modelos 3D para ver todos los ángulos:** inserte fácilmente un modelo 3D y, a continuación, rótelo 360 grados. [Obtener más información](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**La fuente que elija es la fuente que verán:** incruste las fuentes personalizadas en los archivos de modo que dondequiera que vayan, las fuentes vayan también. [Obtener más información](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/>||[Paquete de actualización de PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.17.18090901_Updater.pkg) <br/>|
 |Outlook  <br/> |||[Paquete de actualización de Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.17.18090901_Updater.pkg) <br/>|
 |Microsoft AutoUpdate 4.3  <br/> |||[Paquete de actualización de Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.3.18090901_Updater.pkg) <br/> | 
-|Office Suite  <br/> ||[CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): vulnerabilidad de la ejecución remota de código de Microsoft Graphics <br/>||
+|Office Suite (conjunto de aplicaciones de Office)  <br/> ||[CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): vulnerabilidad de la ejecución remota de código de Microsoft Graphics <br/>||
 
 ## <a name="august-2018-release"></a>Versión de agosto de 2018
 
@@ -82,7 +83,7 @@ En esta versión se incluyen las siguientes actualizaciones.
 |PowerPoint  <br/> |||[Paquete de actualización de PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.16.18081201_Updater.pkg) <br/>|
 |Outlook  <br/> |||[Paquete de actualización de Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.16.18081201_Updater.pkg) <br/>|
 |Microsoft AutoUpdate 4.2  <br/> ||[CVE-2018-8412](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8412): vulnerabilidad de elevación de privilegios de Microsoft AutoUpdate Office  <br/>|[Paquete de actualización de Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.2.18081201_Updater.pkg) <br/> | 
-|Office Suite  <br/> ||||
+|Office Suite (conjunto de aplicaciones de Office)  <br/> ||||
 
 ## <a name="july-2018-release"></a>Versión de julio de 2018
 
@@ -99,7 +100,7 @@ En esta versión se incluyen las siguientes actualizaciones.
 |PowerPoint  <br/> |**Mejore sus diapositivas con vídeos:** agregue acción en directo a la diapositiva con vídeos de YouTube y véalos sin salir de la aplicación. [Más información](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db=Office_2016_for_Mac) <br/> ||[Paquete de actualización de PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.15.18070902_Updater.pkg) <br/>|
 |Outlook  <br/> |**Seguridad mejorada para las cuentas de Google:** las mejoras relativas a la seguridad implican que ya no tendrá que permitir el acceso a "aplicaciones menos seguras" o establecer una contraseña de la aplicación para agregar su cuenta de Google a Outlook. [Más información](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b=Office_2016_for_Mac) <br/> ||[Paquete de actualización de Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.15.18070902_Updater.pkg) <br/>|
 |Microsoft AutoUpdate 4.1  <br/> |Actualización a Aria SDK 8.4. Corrige el problema de pérdida de memoria.<br/><br/>Cambios en el registro de la aplicación. Ahora, es compatible con la versión preliminar de Office 2019.||[Paquete de actualización de Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.1.18070902_Updater.pkg) <br/> | 
-|Office Suite  <br/> ||[CVE-2018-8281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8281): vulnerabilidad de la ejecución remota de código de Microsoft Office  <br/> ||
+|Office Suite (conjunto de aplicaciones de Office)  <br/> ||[CVE-2018-8281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8281): vulnerabilidad de la ejecución remota de código de Microsoft Office  <br/> ||
 
 
 ## <a name="june-2018-release"></a>Versión de junio de 2018
@@ -203,7 +204,7 @@ En esta versión se incluyen las siguientes actualizaciones.
 |Excel  <br/> ||[CVE-2018-0907](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907): omisión de característica de seguridad de Microsoft Office Excel  <br/> |||
 |PowerPoint  <br/> |**Fuentes incrustadas:** las fuentes incrustadas garantizan que la presentación tenga el mismo aspecto en todos los equipos y que los usuarios experimenten el contenido de la forma prevista.  <br/> ||||
 |Outlook  <br/> |**Tablas:** inserte tablas en los mensajes y eventos del calendario, y agregue estructura al contenido. Se acabó el copiar y pegar desde otras aplicaciones de Office. [Más información](https://support.office.com/article/cb35806b-4174-41d2-9cba-b6b624d988b3)  <br/><br/> **Ver dos zonas horarias simultáneamente:** ¿quiere saber qué hora es en otra parte del mundo? Ahora puede agregar una segunda zona horaria en Outlook.  <br/><br/> **Programar entre zonas horarias:** ¿va a viajar entre zonas horarias? Cree un evento con zonas horarias de inicio y finalización diferentes, y Outlook se encargará de la conversión.   <br/><br/> **Cambiar el tamaño del texto:** aumente o disminuya el tamaño de fuente en la barra lateral, la lista de mensajes y el panel de lectura. [Más información](https://support.office.com/article/b225d877-1449-4757-9ee7-120d1c5da6b4) <br/> ||Se ha corregido un problema que provocaba que, si la zona horaria predeterminada del equipo cumplía el horario de verano y se seleccionaba la vista Semana, es posible que viera que todos los eventos se desplazan una hora en la cuadrícula del calendario de la semana de inicio del horario de verano.  <br/> |
-|Office Suite  <br/> ||[CVE-2018-0919](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0919): Vulnerabilidad de divulgación de información de Microsoft Office  <br/> |
+|Office Suite (conjunto de aplicaciones de Office)  <br/> ||[CVE-2018-0919](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0919): Vulnerabilidad de divulgación de información de Microsoft Office  <br/> |
 
    
 ## <a name="february-2018-release"></a>Versión de febrero de 2018
@@ -295,7 +296,7 @@ En esta versión se incluyen las siguientes actualizaciones.
 |Excel  <br/> |**Editor de Visual Basic mejorado:** cree y edite macros en el Editor de Visual Basic mediante IntelliSense, menús y barras de herramientas de VBA, herramientas de depuración, un explorador de objetos y mucho más.  |
 |PowerPoint  <br/> |**Editor de Visual Basic mejorado:** cree y edite macros en el Editor de Visual Basic mediante IntelliSense, menús y barras de herramientas de VBA, herramientas de depuración, un explorador de objetos y mucho más.  |
 |Outlook  <br/> |**Otras mejoras de legibilidad y accesibilidad:** ahora los encabezados de los mensajes de correo electrónico y las invitaciones de reunión son más fáciles para la vista. Menos desorden, mejor navegación con el teclado y VoiceOver mejorado.   |
-|Office Suite  <br/> ||[CVE-2017-11825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11825): Vulnerabilidad de la ejecución remota de código de Microsoft Office  |
+|Office Suite (conjunto de aplicaciones de Office)  <br/> ||[CVE-2017-11825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11825): Vulnerabilidad de la ejecución remota de código de Microsoft Office  |
 
    
 ## <a name="september-2017-release"></a>Versión de septiembre de 2017
@@ -310,7 +311,7 @@ En esta versión se incluyen las siguientes actualizaciones.
 |**Aplicación**|**Actualizaciones de características**|**Actualizaciones de seguridad**|
 |:-----|:-----|:-----|
 |Excel  <br/> ||[CVE-2017-8631](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8631): vulnerabilidad de los daños en la memoria de Microsoft Office   <br/><br/> [CVE-2017-8632](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8632): Vulnerabilidad de los daños en la memoria de Microsoft Office  |
-|Office Suite  <br/> ||[CVE-2017-8676](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8676): Vulnerabilidad de la revelación de información de GDI+ de Windows  |
+|Office Suite (conjunto de aplicaciones de Office)  <br/> ||[CVE-2017-8676](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8676): Vulnerabilidad de la revelación de información de GDI+ de Windows  |
 |Microsoft AutoUpdate 3.9.3  <br/> |Alerta a los usuarios para que vuelvan a instalar MAU cuando se detectan componentes que faltan o están rotos. |
    
 ## <a name="august-2017-release"></a>Versión de agosto de 2017
@@ -350,7 +351,7 @@ En esta versión se incluyen las siguientes actualizaciones.
 |:-----|:-----|:-----|
 |Excel  <br/> |**Imágenes en encabezados y pies de página:** personalice los libros impresos agregando imágenes en los encabezados y pies de página. ||
 |Outlook  <br/> |**Enviar correo electrónico según la programación:** retrase la entrega de un mensaje o elija cuándo se va a enviar. [Más información](https://support.office.com/article/a02097de-76c2-4895-9557-0818ef229024)  <br/><br/> **Todas las carpetas favoritas en un solo lugar:** cree accesos directos a todas las carpetas que usa con frecuencia. Todos los accesos directos se muestran en Favoritos en la parte superior de la barra lateral. [Más información](https://support.office.com/article/4357e516-8608-4bfd-b229-fb08ad29b08d)  <br/><br/> **Copiar formato:** disponible al crear correos electrónicos, eventos y tareas.  <br/> ||
-|Office Suite  <br/> ||[CVE-2017-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501): vulnerabilidad de los daños en la memoria de Microsoft Office |
+|Office Suite (conjunto de aplicaciones de Office)  <br/> ||[CVE-2017-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501): vulnerabilidad de los daños en la memoria de Microsoft Office |
    
 ## <a name="june-2017-release"></a>Versión de junio de 2017
 
@@ -389,7 +390,7 @@ En esta versión se incluyen las siguientes actualizaciones.
 |Excel  <br/> |**Fuente Dubái:** familia de fuentes que admite los idiomas de Europa occidental, así como los principales idiomas que usan el alfabeto árabe. [Más información](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |PowerPoint  <br/> |**Fuente Dubái:** familia de fuentes que admite los idiomas de Europa occidental, así como los principales idiomas que usan el alfabeto árabe. [Más información](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Outlook  <br/> |** Grupos: ** vea los 10 grupos principales y lea o responda a las conversaciones de grupo directamente desde las carpetas Grupos.  <br/> <br/> **Fuente Dubái:** familia de fuentes que admite los idiomas de Europa occidental, así como los principales idiomas que usan el alfabeto árabe. [Más información](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
-|Office Suite  <br/> ||[CVE-2017-0254](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0254): vulnerabilidad de los daños en la memoria de Microsoft Office   |
+|Office Suite (conjunto de aplicaciones de Office)  <br/> ||[CVE-2017-0254](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0254): vulnerabilidad de los daños en la memoria de Microsoft Office   |
 
 <br/><br/>
    
@@ -399,7 +400,7 @@ En esta versión se incluyen las siguientes actualizaciones.
   
 |**Aplicación**|**Actualizaciones no relacionadas con la seguridad**|
 |:-----|:-----|
-|Microsoft AutoUpdate 3.9.1  <br/> | - Se ha corregido un problema crítico que impedía las notificaciones de actualización automática cuando se selecciona "Comprobación automática".  <br/><br/>  - Se ha corregido un problema que provocaba el bloqueo de AutoUpdate en OS X 10.10.  <br/><br/> - Se ha corregido un problema que provocaba que las aplicaciones no se iniciaran si hay una actualización pendiente.   <br/><br/> **Importante:** si ha actualizado a Microsoft AutoUpdate 3.9.0 y tiene la configuración de AutoUpdate establecida en "Comprobación automática", deberá actualizar manualmente a Microsoft AutoUpdate 3.9.1 mediante cualquiera de los métodos siguientes:  <br/><br/>  - Vaya a **Ayuda** > **Buscar actualizaciones**y, luego, elija **Buscar actualizaciones**.  <br/><br/>  - Vaya a **Ayuda** > **Buscar actualizaciones** y, después, seleccione **Descargar e instalar automáticamente**.  |
+|Microsoft AutoUpdate 3.9.1  <br/> | - Se ha corregido un problema crítico que impedía las notificaciones de actualización automática cuando se seleccionaba "Comprobación automática".  <br/><br/>  - Se ha corregido un problema que provocaba el bloqueo de AutoUpdate en OS X 10.10.  <br/><br/> - Se ha corregido un problema que provocaba que las aplicaciones no se iniciaran si había una actualización pendiente.   <br/><br/> **Importante:** si ha actualizado a Microsoft AutoUpdate 3.9.0 y tiene la configuración de AutoUpdate establecida en "Comprobación automática", deberá actualizar manualmente a Microsoft AutoUpdate 3.9.1 mediante cualquiera de los métodos siguientes:  <br/><br/>  - Vaya a **Ayuda** > **Buscar actualizaciones** y, luego, elija **Buscar actualizaciones**.  <br/><br/>  - Diríjase a **Ayuda** > **Buscar actualizaciones** y, después, seleccione **Descargar e instalar automáticamente**.  |
    
 ## <a name="april-2017-release"></a>Versión de abril de 2017
 
@@ -412,7 +413,7 @@ En esta versión se incluyen las siguientes actualizaciones.
   
 |**Aplicación**|**Actualizaciones de características**|
 |:-----|:-----|
-|Microsoft AutoUpdate  <br/> | - Compatibilidad con las actualizaciones diferenciales del conjunto de aplicaciones, lo que reducirá el tamaño de la actualización mensual en un 50 %.  <br/><br/>  - Compatibilidad con las actualizaciones automáticas de MAU, que permiten que MAU se actualice sin necesidad de credenciales de administrador.  <br/> |Esta versión de MAU no está disponible para la descarga.  <br/> |
+|Microsoft AutoUpdate  <br/> | - Compatibilidad con las actualizaciones diferenciales del conjunto de aplicaciones, lo que reducirá el tamaño de la actualización mensual en un 50 %.  <br/><br/>  - Compatibilidad con las actualizaciones automáticas de MAU, que permiten que MAU se actualice sin necesidad de credenciales de administrador.  <br/> |Esta versión de MAU no está disponible para la descarga.  <br/> |
    
 ## <a name="march-2017-release"></a>Versión de marzo de 2017
 
@@ -426,7 +427,7 @@ En esta versión se incluyen las siguientes actualizaciones.
 |:-----|:-----|:-----|
 |Excel  <br/> ||Boletín de seguridad Microsoft [MS17-014](https://technet.microsoft.com/library/security/MS17-014): Actualización de seguridad para Microsoft Office (3217868)   |
 |Outlook  <br/> |**Compatibilidad con la Touch Bar:** los comandos más relevantes para el trabajo que esté realizando al alcance de la mano (solo compatible con MacBook Pro con Touch Bar).   <br/><br/> **Complemento Translator:** traduzca el correo electrónico sin salir de Outlook. Solo tiene que activar el complemento Translator para traducir con un solo toque. Elija entre 60 idiomas. [Más información](https://support.office.com/article/3d7e12ed-99d6-406e-a453-b9db0d9653fa#OutlookVersion=Mac)  <br/><br/> [Instalar el complemento desde la Tienda Office](https://go.microsoft.com/fwlink/p/?linkid=841914)  <br/><br/> **Obtener acceso a más características directamente desde la Bandeja de entrada:** los complementos para Outlook permiten crear tareas con Wunderlist, realizar el seguimiento de las respuestas de correo electrónico con Boomerang y mucho más. [Más información](https://support.office.com/article/1ee261f9-49bf-4ba6-b3e2-2ba7bcab64c8#OfficeVersion=Outlook_2016_for_Mac)  |
-|Office Suite  <br/> ||Boletín de seguridad Microsoft [MS17-014](https://technet.microsoft.com/library/security/MS17-014): Actualización de seguridad para Microsoft Office (3217868)  |
+|Office Suite (conjunto de aplicaciones de Office)  <br/> ||Boletín de seguridad Microsoft [MS17-014](https://technet.microsoft.com/library/security/MS17-014): Actualización de seguridad para Microsoft Office (3217868)  |
    
 ## <a name="february-2017-release"></a>Versión de febrero de 2017
 
@@ -480,7 +481,7 @@ En esta versión se incluyen las siguientes actualizaciones.
 |Word  <br/> | Mantenga la fidelidad del documento con hipervínculos funcionales al convertir a PDF. [Más información](https://support.office.com/article/aa183751-1f09-4b8b-88a4-099a0c7528da) <br/>  <br/> Compatibilidad mejorada para crear documentos accesibles y usar VoiceOver y otras tecnologías de asistencia para leer y editar documentos. [Más información](https://support.office.com/article/c681eb25-549e-4d1d-a970-e52450c701de) |
 |Excel  <br/> | Compatibilidad mejorada para crear documentos accesibles y usar VoiceOver y otras tecnologías de asistencia para leer y editar documentos. [Más información](https://support.office.com/article/1d014a46-3416-413d-909d-51c817e83580#PickTab=Mac) <br/> | Se ha corregido un problema que, al usar la validación de datos, provocaba el bloqueo de Excel si se escribía texto en el cuadro de mensaje de error.  <br/> |Boletín de seguridad Microsoft [MS16-148](https://technet.microsoft.com/library/security/MS16-148): Actualización de seguridad para Microsoft Office (3204068)   |
 |PowerPoint  <br/> | Compatibilidad mejorada para crear documentos accesibles y usar VoiceOver y otras tecnologías de asistencia para leer y editar documentos. [Más información](https://support.office.com/article/8f6382e8-280e-4c33-9fc0-1cd98065aca7) |
-|Office Suite  <br/> | Compatibilidad con tres idiomas adicionales: griego, húngaro y eslovaco  <br/> ||Boletín de seguridad Microsoft [MS16-148](https://technet.microsoft.com/library/security/MS16-148): Actualización de seguridad para Microsoft Office (3204068)  |
+|Office Suite (conjunto de aplicaciones de Office)  <br/> | Compatibilidad con tres idiomas adicionales: griego, húngaro y eslovaco  <br/> ||Boletín de seguridad Microsoft [MS16-148](https://technet.microsoft.com/library/security/MS16-148): Actualización de seguridad para Microsoft Office (3204068)  |
 |Microsoft AutoUpdate  <br/> || - Número de versión actualizado a 3.8.2.  <br/> - Mayor confiabilidad y correcciones de error menores.  <br/> |Boletín de seguridad Microsoft [MS16-148](https://technet.microsoft.com/library/security/MS16-148): Actualización de seguridad para Microsoft Office (3204068)  |
    
 ## <a name="november-2016-release"></a>Versión de noviembre de 2016
@@ -515,8 +516,8 @@ En esta versión se incluyen las siguientes actualizaciones.
 |Excel  <br/> || Se ha corregido un problema de larga duración que provocaba que Excel no pudiera guardar los cambios en determinadas configuraciones de almacenamiento empresarial como las unidades FAS de NetApp. Ahora en Excel se adopta el mismo modelo de guardado de archivos que en Word.  <br/> |Boletín de seguridad Microsoft [MS16-133](https://technet.microsoft.com/library/security/MS16-133): Actualización de seguridad para Microsoft Office (3199168)  <br/> |
 |PowerPoint  <br/> |Vea los resúmenes interactivos y vínculos de navegación automática que se crearon con el comando Zoom en PowerPoint 2016 para Windows.  <br/> | Se ha corregido un problema que provocaba que las imágenes no se mostraran y se reemplazaran por un error que hace referencia a rID#.  ||
 |Outlook  <br/> |Busque y corrija problemas de accesibilidad que se producen al redactar mensajes o invitaciones mediante el Comprobador de accesibilidad. [Más información](https://support.office.com/article/3b84295e-d55b-49f1-b443-523ec45a5232) <br/> | Se ha corregido un problema con la detección automática de idioma al redactar correos electrónicos. ||
-|Office Suite  <br/> || - Mejoras importantes para los usuarios con necesidades de accesibilidad.  <br/><br/>  - Informe de errores de Microsoft se puede configurar para guardar el último registro de bloqueo en disco (valor predeterminado: com.microsofterrorreporting IsStoreLastCrashEnabled -bool TRUE). <br/> <br/>  - Mensaje de activación mejorado para los usuarios de E1/K1. Ya no se sugiere a los usuarios que se ha producido un error y se les da la bienvenida a la experiencia de solo lectura.  <br/><br/> - Cambio del formato de nombre de archivo del instalador y el actualizador. Por ejemplo, Microsoft_Office_2016_15.28.16111300_Installer.pkg en lugar de Microsoft_Office_2016_15.28.0_161113_Installer.pkg.  ||
-|Microsoft AutoUpdate  <br/> |Se incluye una opción nueva para detectar, descargar e instalar las actualizaciones de manera automática.  <br/> | - Número de versión actualizado a 3.8.1.  <br/> <br/>- Se ha corregido un problema que provocaba el bloqueo de MAU cuando había versiones anteriores de Microsoft Silverlight instaladas, en concreto cuando Silverlight se registra con un LCID nulo.  <br/><br/>  - Se ha corregido un problema que provocaba que MAU pudiera bloquearse al usar la preferencia ManifestServer.  <br/><br/> - El nombre para mostrar del bundle Microsoft AU Daemon se ha cambiado por "Asistente de Microsoft Update".  <br/><br/> - En la fuente XML MAU para las aplicaciones de 2016 ya no se incluye un diccionario de desencadenadores y se basa en "Actualizar versión" para la detección de versiones.  <br/><br/> - Ahora en MAU se muestra la cadena de versión completa en la ventana de actualización de la aplicación. Por ejemplo, 15.28.16110300 en lugar de solo 15.28.  ||
+|Office Suite (conjunto de aplicaciones de Office)  <br/> || - Mejoras importantes para los usuarios con necesidades de accesibilidad.  <br/><br/>  - El servicio de informe de errores de Microsoft se puede configurar para guardar el último registro de bloqueo en el disco (valor predeterminado: com.microsofterrorreporting IsStoreLastCrashEnabled -bool TRUE). <br/> <br/>  - Mensaje de activación mejorado para los usuarios de E1/K1. Ya no se sugiere a los usuarios que se ha producido un error y se les da la bienvenida a la experiencia de solo vista.  <br/><br/> - Cambio del formato de nombre de archivo del instalador y el actualizador. Por ejemplo, Microsoft_Office_2016_15.28.16111300_Installer.pkg en lugar de Microsoft_Office_2016_15.28.0_161113_Installer.pkg.  ||
+|Microsoft AutoUpdate  <br/> |Se incluye una opción nueva para detectar, descargar e instalar las actualizaciones de manera automática.  <br/> | - Número de versión actualizado a 3.8.1.  <br/> <br/>- Se ha corregido un problema que provocaba que MAU pudiera bloquearse cuando había versiones anteriores de Microsoft Silverlight instaladas, en concreto cuando Silverlight se registraba con un LCID nulo.  <br/><br/>  - Se ha corregido un problema que provocaba que MAU pudiera bloquearse al usar la preferencia ManifestServer.  <br/><br/> - El nombre para mostrar del paquete Microsoft AU Daemon se ha cambiado por "Asistente de Microsoft Update".  <br/><br/> - En la fuente XML MAU para las aplicaciones de 2016 ya no se incluye un diccionario de desencadenadores y utiliza "Actualizar versión" para la detección de versiones.  <br/><br/> - Ahora en MAU se muestra la cadena de versión completa en la ventana de actualización de la aplicación. Por ejemplo, 15.28.16110300 en lugar de solo 15.28.  ||
    
 
    
