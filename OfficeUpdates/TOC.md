@@ -1,6 +1,5 @@
 # Office 365 ProPlus
 ## [Historial de actualización (por fecha)](update-history-office365-proplus-by-date.md)
-## [Historial de actualización (por versión)](update-history-office365-proplus-by-version.md)
 ## [Tamaños de las actualizaciones](download-sizes-office365-proplus-updates.md)
 
 ## [Notas de la versión](release-notes-office365-proplus.md)
