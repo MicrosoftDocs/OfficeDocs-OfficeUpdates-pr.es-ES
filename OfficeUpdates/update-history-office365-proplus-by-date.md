@@ -3,35 +3,35 @@ title: Historial de actualizaciones de Office 365 ProPlus (ordenado por fecha)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/18/2018
+ms.date: 10/29/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista completa de las versiones de Office 365 ProPlus, organizada por fecha, con vínculos a las notas de la versión.
-ms.openlocfilehash: bd92012c83b7438edac74990f3e18608d96fe251
-ms.sourcegitcommit: b9ddc8fa9e1993a95425dd2f89c1f369ed41a473
+ms.openlocfilehash: 8fd677a9fc2db7e44bfc771a062f4f4f8d0e88e8
+ms.sourcegitcommit: 8459bd8fb06c343e3664415b92a968c1912e925b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2018
-ms.locfileid: "25638180"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "25841266"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Historial de actualizaciones de Office 365 ProPlus (ordenado por fecha)
 
-Office 365 ProPlus se actualiza periódicamente con nuevas características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad. Estas actualizaciones se publican usando [canales de actualización](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus). Cada lanzamiento en cada canal de actualización tiene asignado un número de versión y compilación. 
+Office 365 ProPlus se actualiza periódicamente con nuevas características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad. Estas actualizaciones se publican usando [canales de actualización](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus). Cada versión de cada canal de actualización tiene asignado un número de versión y compilación. 
 
 
 > [!NOTE]
 > - Estos números de versión y de compilación también son válidos para Office 365 Empresa, Visio Pro para Office 365 y Cliente de escritorio de Project Online. Office 365 Empresa es la versión de Office que se incluye con algunos planes de Office 365, como Empresa Premium.
 > - La tabla está ordenada por fecha de lanzamiento, con la fecha del lanzamiento más reciente en primer lugar. 
-> - Para obtener más información sobre los canales de actualización, consulte [Información general de los canales de actualización de Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus).
+> - Para obtener más información sobre los canales de actualización, vea [Información general de los canales de actualización para Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus).
 
-En la siguiente tabla se enumera la versión admitida y el número de compilación más reciente para cada canal de actualización. 
+En la tabla siguiente se muestra la versión compatible y el número de compilación más actual para cada canal de actualización. 
  
-|**Canal**|**Versión**|**Compilación**|**Fecha de publicación**|**Versión compatible hasta**|
+|**Canal**|**Versión**|**Compilación**|**Fecha de publicación**|**Versión admitida hasta**|
 |:-----|:-----|:-----|:-----|:-----|
-|Mensual  <br/> |1809  <br/> |10827.20181 <br/> | 16 de octubre de 2018  <br/> |Se ha publicado la versión 1810 <br/>|
+|Mensual  <br/> |1810  <br/> |11001.20074<br/> | 29 de octubre de 2018  <br/> |Se ha publicado la versión 1811 <br/>|
 |Semianual (dirigido)  <br/> |1808  <br/> |10730.20155 <br/> | 9 de octubre de 2018  <br/> | 13 de marzo de 2019 <br/>|
 |Semianual <br/> |1803  <br/> | 9126.2295<br/> |9 de octubre de 2018  <br/> | 10 de diciembre de 2019 <br/>|
 |Semianual <br/> |1708  <br/> |8431.2316  <br/> |9 de octubre de 2018  <br/> | 13 de marzo de 2019 <br/>|
@@ -42,8 +42,9 @@ Para obtener información sobre los tamaños de descarga aproximados de las actu
 En la tabla siguiente, se muestra una lista de los números de versión y compilación para todas las actualizaciones de Office 365 ProPlus publicadas en los siguientes canales de actualización: mensual, semianual (dirigido) y semianual. Cada entrada en la tabla contiene un vínculo directo a las notas de esa versión. Las notas de la versión proporcionan información sobre características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad que se incluyen en la actualización de Office 365 ProPlus.
 
 
-|**Año**|**Fecha de publicación**|**Canal mensual**|**Canal semianual (dirigido)**|**Canal semianual**|
+|**Año**|**Fecha de publicación**|**Canal mensual**|**Canal semianual (dirigido)**|**Canal semianual **|
 |:-----|:-----|:-----|:-----|:-----|
+|2018|29 de octubre |[Versión 1810 (compilación 11001.20074)](monthly-channel-2018.md#version-1810-october-29)| | |
 |2018|16 de octubre |[Versión 1809 (compilación 10827.20181)](monthly-channel-2018.md#version-1809-october-16)| | |
 |2018|9 de octubre |[Versión 1809 (compilación 10827.20150)](monthly-channel-2018.md#version-1809-october-9)|[Versión 1808 (compilación 10730.20155)](semi-annual-channel-targeted-2018.md#version-1808-october-9) |[Versión 1803 (compilación 9126.2295)](semi-annual-channel-2018.md#version-1803-october-9)  <br/>  [Versión 1708 (compilación 8431.2316)](semi-annual-channel-2018.md#version-1708-october-9)   |
 |2018|27 de septiembre   |[Versión 1809 (compilación 10827.20138)](monthly-channel-2018.md#version-1809-september-27)| | |
@@ -169,9 +170,9 @@ En la tabla siguiente, se muestra una lista de los números de versión y compil
 ## <a name="related-topics"></a>Temas relacionados
 
 - [Información general de los canales de actualización para Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
-- [Información de lanzamiento de actualizaciones para Office 365 ProPlus](release-notes-office365-proplus.md)
+- [Información de publicación de actualizaciones para Office 365 ProPlus](release-notes-office365-proplus.md)
 - [Tamaños de descarga de las actualizaciones de Office 365 ProPlus](download-sizes-office365-proplus-updates.md)
 
 > [!NOTE]
-> Si necesita ayuda para solucionar un problema relacionado con Office, le recomendamos que publique su pregunta en el [foro de respuestas de Microsoft](https://answers.microsoft.com/) o en [Tech Community](https://techcommunity.microsoft.com/), o que se ponga en contacto con el [soporte técnico](https://support.microsoft.com/contactus).
+> Si necesita ayuda con algún problema de uso de Office, le recomendamos que publique la pregunta en el [foro de preguntas de Microsoft](https://answers.microsoft.com/) o [Tech Community](https://techcommunity.microsoft.com/), o bien puede ponerse en contacto con el [servicio de soporte técnico](https://support.microsoft.com/contactus).
 

@@ -3,27 +3,27 @@ title: Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/18/2018
+ms.date: 10/29/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
-description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Office 365 ProPlus según el canal de actualización
-ms.openlocfilehash: e95939a6e9f1c67ece3479a988ff3ca4103058d1
-ms.sourcegitcommit: 5610fbdb9179573d3fac69d744ca1e3efed83f7a
+description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Office 365 ProPlus según el canal de actualización.
+ms.openlocfilehash: 51e73f96f003e915c46031c0e39ccfda17abc885
+ms.sourcegitcommit: 6658c0f5db7d3600c6c6a3dd8030ee1f1d5c72a4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2018
-ms.locfileid: "25625042"
+ms.lasthandoff: 10/31/2018
+ms.locfileid: "25857158"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 
-En las siguientes tablas se muestran, ordenados por fecha de lanzamiento y actualización del canal, los tamaños de descarga aproximados de las actualizaciones desde versiones anteriores de Office 365 ProPlus a la más reciente. 
+En las siguientes tablas se muestran, ordenados por fecha de lanzamiento y actualización del canal, los tamaños de descarga aproximados de las actualizaciones desde versiones anteriores recientes de Office 365 ProPlus a la versión más reciente. 
   
-Proporcionamos esta información antes de la fecha de publicación real para que los clientes empresariales puedan planificar el ancho de banda de red necesario para estas actualizaciones de canal. Puesto que proporcionamos esta información con antelación, puede ser que algunas partes cambien cuando se publique la versión final.
+Proporcionamos esta información antes de la fecha de publicación real para que los clientes empresariales puedan planificar el ancho de banda de red necesario para estas actualizaciones de canal. Puesto que proporcionamos esta información con antelación, puede ser que algunas parte cambie cuando se publique la versión real.
   
-Nuestro objetivo es proporcionar información sobre el tamaño de la actualización una semana antes de la publicación; sin embargo, hay ocasiones en las que la información no está disponible con tanta antelación. Las publicaciones del canal semianual y del canal semianual (dirigido) están programadas para el segundo martes de cada mes. Las publicaciones del canal mensual no tienen programación.
+Nuestro objetivo es proporcionar información sobre el tamaño de la actualización una semana antes de la publicación; sin embargo, hay ocasiones en las que la información no está disponible con tanta anterioridad. Las publicaciones del canal semianual y del canal semianual (dirigido) están programadas para el segundo martes de cada mes. Las publicaciones del canal mensual no tienen programación.
 
 Para obtener información sobre las características, las actualizaciones de seguridad y de otro tipo que se incluyen en cada versión, consulte [Información de la versión de actualizaciones de Office 365 ProPlus](release-notes-office365-proplus.md).
 
@@ -31,10 +31,22 @@ Para obtener información sobre las características, las actualizaciones de seg
 > [!NOTE]
 > - El tamaño de descarga aproximado que aparece en las tablas solo se aplica a la versión en-us x86 de Office 365 ProPlus. 
 > - Los tamaños de descarga son aproximados. Los tamaños de descarga reales pueden variar, probablemente unos 50 MB como máximo. 
-> - Las fechas de lanzamiento y los números de compilación que están en cursiva y entre los símbolos "\< \>" están sujetos a cambios. 
+> - Las fechas de lanzamiento y los números de compilación que están en cursiva y entre los símbolos “\< \>” están sujetos a cambios. 
 > - Se muestran solo las versiones de los últimos cuatro meses.
 > - En las tablas solo aparecen las versiones anteriores más recientes. Si va a realizar la actualización desde una versión más antigua, el tamaño de descarga será mayor.
-> - Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al canal semianual, el tamaño de actualización será considerablemente mayor que el que se muestra en la tabla, ya que puede comportar una descarga completa, con un mínimo de 1 GB. 
+> - Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal semianual, el tamaño de actualización será considerablemente mayor que el que se muestra en la tabla, ya que puede comportar una descarga completa, con un mínimo de 1 GB. 
+
+## <a name="october-29-2018"></a>29 de octubre de 2018
+
+### <a name="monthly-channel"></a>Canal mensual
+
+La versión más actual es la 1810 (compilación 11001.20074). 
+  
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1809 (compilación 10827.20181)  <br/> |16 de octubre de 2018  <br/> |188<br/> |
+|Versión 1809 (compilación 10827.20150)  <br/> |9 de octubre de 2018  <br/> |188<br/> |
+
 
 ## <a name="october-16-2018"></a>16 de octubre de 2018
 
@@ -65,7 +77,7 @@ La versión más actual es la 1809 (compilación 10827.20150).
   
 ### <a name="semi-annual-channel"></a>Canal semianual
 
-La versión más actual es la 1803 (Compilación 9126.2295).
+La versión más actual es la 1803 (compilación 9126.2295).
   
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
@@ -193,7 +205,7 @@ La versión más actual es la 1806 (compilación 10228.20104).
 |Versión 1805 (compilación 9330.2087)  <br/> |24 de mayo de 2018  <br/> |150  <br/> |
   
 ### <a name="semi-annual-channel"></a>Canal semianual
-La versión más actual es la 1803 (Compilación 9126.2259).
+La versión más actual es la 1803 (compilación 9126.2259).
   
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
@@ -202,7 +214,7 @@ La versión más actual es la 1803 (Compilación 9126.2259).
    
 ### <a name="semi-annual-channel-targeted"></a>Canal semianual (dirigido)
 
-La versión más actual es la 1803 (Compilación 9126.2259).
+La versión más actual es la 1803 (compilación 9126.2259).
   
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
@@ -263,14 +275,14 @@ La versión más actual es la 1803 (compilación 9126.2275).
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
 |Versión 1708 (compilación 8431.2227)  <br/> |12 de junio de 2018  <br/> |94  <br/> |
-|Versión 1708 (Compilación 8431.2259)  <br/> |10 de julio de 2018  <br/> |86  <br/> |
+|Versión 1708 (compilación 8431.2259)  <br/> |10 de julio de 2018  <br/> |86  <br/> |
 |Versión 1708 (compilación 8431.2270)  <br/> |12 de junio de 2018  <br/> |279  <br/> |
 
 La versión más actual es la 1803 (compilación 9126.2227).
   
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
-|Versión 1803 (Compilación 9126.2210)  <br/> |18 de mayo de 2018  <br/> |94  <br/> |
+|Versión 1803 (compilación 9126.2210)  <br/> |18 de mayo de 2018  <br/> |94  <br/> |
 |Versión 1803 (compilación 9126.2191)  <br/> |8 de mayo de 2018  <br/> |96  <br/> |
 
 
@@ -522,7 +534,6 @@ La versión más actual es la 1801 (compilación 9001.2138).
 
 - [Información general de los canales de actualización para Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 - [Historial de actualizaciones de Office 365 ProPlus (ordenado por fecha)](update-history-office365-proplus-by-date.md)
-- [Historial de actualizaciones de Office 365 ProPlus (ordenado por versión)](update-history-office365-proplus-by-version.md)
 
 > [!NOTE]
-> Si necesita ayuda para solucionar un problema relacionado con Office, le recomendamos que publique su pregunta en el [foro de respuestas de Microsoft](https://answers.microsoft.com/) o en [Tech Community](https://techcommunity.microsoft.com/), o que se ponga en contacto con el [soporte técnico](https://support.microsoft.com/contactus).
+> Si necesita ayuda con algún problema de uso de Office, le recomendamos que publique la pregunta en el [foro de preguntas de Microsoft](https://answers.microsoft.com/) o [Tech Community](https://techcommunity.microsoft.com/), o bien puede ponerse en contacto con el [servicio de soporte técnico](https://support.microsoft.com/contactus).
