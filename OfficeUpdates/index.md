@@ -11,12 +11,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Landing
 description: Proporciona el contenido de la versión de los profesionales de TI con vínculos a Office para Office 365 ProPlus, Office para Mac, perpetua, Office y Office Server productos
-ms.openlocfilehash: 1d4801133b50bd1de838c43afc564c88237a6c50
-ms.sourcegitcommit: 8153b40a75720fd5d01f43c898ea227f17f7fbec
+ms.openlocfilehash: 7bd39ca0929047841f1f40333029cb63a8d2a10c
+ms.sourcegitcommit: 6782299423eaf5303519f637783555eab656fde2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/25/2018
-ms.locfileid: "25018523"
+ms.lasthandoff: 11/06/2018
+ms.locfileid: "26024564"
 ---
 # <a name="office-updates"></a>Actualizaciones de Office
 
@@ -62,7 +62,7 @@ Obtener información sobre las características, actualizaciones de seguridad y 
                 <div class="card">
                     <div class="cardText">
                         <h3>Productos de servidor de Office</h3>
-                        <p><a href="https://technet.microsoft.com/library/hh135098(v=exchg.150).aspx">Actualizaciones de Exchange Server</a></p>
+                        <p><a href="https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates">Actualizaciones de Exchange Server</a></p>
                         <p><a href="project-server-updates.md">Actualización de Project Server</a></p>
                         <p><a href="sharepoint-updates.md">Actualizaciones de SharePoint Server</a></p>
                         <p><a href="https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates">Skype para actualizaciones de Business Server</a></p>
@@ -97,8 +97,8 @@ Obtener información sobre las características, actualizaciones de seguridad y 
                     <div class="cardText">
                         <h3>Otros recursos de Office</h3>
                             <p><a href="https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426">Novedades de Office 365</a></p>
-                            <p><a href="https://products.office.com/business/office-365-roadmap">Guía básica de Office 365</a></p>
-                            <p><a href="https://support.office.com/article/719f4904-cbdd-4889-a0cf-fbd7837dfecd">Permanezca sobre cambios de Office 365</a></p>
+                            <p><a href="https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=O365">Guía básica de Office 365</a></p>
+                            <p><a href="https://support.office.com/article/719f4904-cbdd-4889-a0cf-fbd7837dfecd">Estar al día de los cambios de Office 365</a></p>
                             <p><a href="https://www.microsoft.com/microsoft-365/blog/office/">Blog de Office</a></p>
                     </div>
                 </div>
