@@ -3,7 +3,7 @@ title: Actualizaciones de Project Server
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 10/09/2018
+ms.date: 11/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -13,12 +13,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Encuentre y administre actualizaciones de Project Server 2013 y Project Server 2010 en una única ubicación. Use los vínculos de esta página para obtener más información sobre las actualizaciones y para descargarlas.
-ms.openlocfilehash: d8e5e8801d639d8a2b48ade63dc62571aed2c782
-ms.sourcegitcommit: 6782299423eaf5303519f637783555eab656fde2
+ms.openlocfilehash: 138bb48526568fd0349f270b9ee7f4f89afaaf3d
+ms.sourcegitcommit: 16edba1a25e04ae704903a63fcedefc31400ff05
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2018
-ms.locfileid: "26024594"
+ms.lasthandoff: 11/13/2018
+ms.locfileid: "26296620"
 ---
 # <a name="project-server-updates"></a>Actualizaciones de Project Server
 
@@ -30,6 +30,7 @@ Use los vínculos de esta página para obtener más información sobre las actua
   
 |**Fecha de publicación**|**Número de KB**|
 |:-----|:-----|:-----|
+|Noviembre de 2018  <br/> |[KB4461509](https://support.microsoft.com/kb/4461509) <br/>|
 |Octubre de 2018  <br/> |[KB4461456](https://support.microsoft.com/kb/4461456) <br/>|
 |Septiembre de 2018  <br/> |[KB4092475](https://support.microsoft.com/kb/4092475) <br/>|
 |Agosto de 2018  <br/> |[KB4032245](https://support.microsoft.com/kb/4032245) <br/>|
@@ -81,6 +82,7 @@ Use los vínculos de esta página para obtener más información sobre las actua
 
 |**Fecha de publicación**|**Número de KB**|
 |:-----|:-----|:-----|
+|Noviembre de 2018  <br/>  |[KB4461525](https://support.microsoft.com/kb/4461525) <br/>|
 |Octubre de 2018  <br/>  |[KB4461463](https://support.microsoft.com/kb/4461463) <br/>|
 |Septiembre de 2018  <br/>  |[KB4092484](https://support.microsoft.com/kb/4092484) <br/>|
 |Agosto de 2018  <br/>  |[KB4092438](https://support.microsoft.com/kb/4092438) <br/>|
