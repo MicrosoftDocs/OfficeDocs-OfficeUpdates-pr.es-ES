@@ -18,7 +18,7 @@
 | 9/10/2018 | [Historial de actualizaciones para Office 2013](/OfficeUpdates/update-history-office-2013) | Fecha de modificación |
 | 9/10/2018 | [Tamaños de descarga de las actualizaciones de Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | Fecha de modificación |
 | 9/10/2018 | [Notas de la versión para las versiones de Canal mensual en 2018](/OfficeUpdates/monthly-channel-2018) | Fecha de modificación |
-| 9/10/2018 | [Información de publicación de actualizaciones para Office 365 ProPlus](/OfficeUpdates/release-notes-office365-proplus) | Fecha de modificación |
+| 9/10/2018 | [Información sobre la publicación de actualizaciones para Office 365 ProPlus](/OfficeUpdates/release-notes-office365-proplus) | Fecha de modificación |
 | 9/10/2018 | [Notas de la versión para las versiones de Canal semianual en 2018](/OfficeUpdates/semi-annual-channel-2018) | Fecha de modificación |
 | 9/10/2018 | [Notas de la versión para las versiones de Canal semianual (dirigido) en 2018](/OfficeUpdates/semi-annual-channel-targeted-2018) | Fecha de modificación |
 | 9/10/2018 | [Historial de actualizaciones de Office 2019](/OfficeUpdates/update-history-office-2019) | agregado |
@@ -28,7 +28,7 @@
 | 11/10/2018 | [Notas de la versión para las versiones de Canal semianual en 2018](/OfficeUpdates/semi-annual-channel-2018) | Fecha de modificación |
 | 11/10/2018 | [Notas de la versión para las versiones de Canal mensual en 2018](/OfficeUpdates/monthly-channel-2018) | Fecha de modificación |
 | 11/10/2018 | [Notas de la versión de Office para Mac](/OfficeUpdates/release-notes-office-for-mac) | Fecha de modificación |
-| 10/12/2018 | [Información de publicación de actualizaciones para Office 365 ProPlus](/OfficeUpdates/release-notes-office365-proplus) | Fecha de modificación |
+| 10/12/2018 | [Información sobre la publicación de actualizaciones para Office 365 ProPlus](/OfficeUpdates/release-notes-office365-proplus) | Fecha de modificación |
 | 10/12/2018 | [Historial de actualizaciones de Office para Mac](/OfficeUpdates/update-history-office-for-mac) | Fecha de modificación |
 
 
@@ -39,14 +39,14 @@
 |------|------------|--------|
 | 16/10/2018 | [Notas de la versión de Office para Mac](/OfficeUpdates/release-notes-office-for-mac) | Fecha de modificación |
 | 16/10/2018 | [Historial de actualizaciones de Office para Mac](/OfficeUpdates/update-history-office-for-mac) | Fecha de modificación |
-| 16/10/2018 | [Notas de la versión de Office 2016 para Mac](/OfficeUpdates/release-notes-office-2016-mac) | Fecha de modificación |
+| 16/10/2018 | [Notas de la versión de 2016, Office para Mac](/OfficeUpdates/release-notes-office-2016-mac) | Fecha de modificación |
 | 17/10/2018 | [Historial de actualizaciones de Office para Mac](/OfficeUpdates/update-history-office-for-mac) | Fecha de modificación |
 | 17/10/2018 | [Tamaños de descarga de las actualizaciones de Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | Fecha de modificación |
 | 17/10/2018 | [Notas de la versión para las versiones de Canal mensual en 2018](/OfficeUpdates/monthly-channel-2018) | Fecha de modificación |
-| 17/10/2018 | [Información de publicación de actualizaciones para Office 365 ProPlus](/OfficeUpdates/release-notes-office365-proplus) | Fecha de modificación |
+| 17/10/2018 | [Información sobre la publicación de actualizaciones para Office 365 ProPlus](/OfficeUpdates/release-notes-office365-proplus) | Fecha de modificación |
 | 17/10/2018 | [Historial de actualizaciones de Office 365 ProPlus (ordenado por fecha)](/OfficeUpdates/update-history-office365-proplus-by-date) | Fecha de modificación |
 | 18/10/2018 | [Tamaños de descarga de las actualizaciones de Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | Fecha de modificación |
-| 18/10/2018 | [Información de publicación de actualizaciones para Office 365 ProPlus](/OfficeUpdates/release-notes-office365-proplus) | Fecha de modificación |
+| 18/10/2018 | [Información sobre la publicación de actualizaciones para Office 365 ProPlus](/OfficeUpdates/release-notes-office365-proplus) | Fecha de modificación |
 | 18/10/2018 | [Historial de actualizaciones de Office para Mac](/OfficeUpdates/update-history-office-for-mac) | Fecha de modificación |
 | 18/10/2018 | [Historial de actualizaciones de Office 365 ProPlus (ordenado por fecha)](/OfficeUpdates/update-history-office365-proplus-by-date) | Fecha de modificación |
 | 19/10/2018 | [Notas de la versión de Office para Mac](/OfficeUpdates/release-notes-office-for-mac) | Fecha de modificación |
@@ -70,7 +70,22 @@
 | 29/10/2018 | [Tamaños de descarga de las actualizaciones de Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | Fecha de modificación |
 | 29/10/2018 | [Notas de la versión para las versiones de Canal mensual en 2018](/OfficeUpdates/monthly-channel-2018) | Fecha de modificación |
 | 29/10/2018 | [Historial de actualizaciones de Office 365 ProPlus (ordenado por fecha)](/OfficeUpdates/update-history-office365-proplus-by-date) | Fecha de modificación |
-| 30/10/2018 | [Notas de la versión de Office 2016 para Mac](/OfficeUpdates/release-notes-office-2016-mac) | Fecha de modificación |
+| 30/10/2018 | [Notas de la versión de 2016, Office para Mac](/OfficeUpdates/release-notes-office-2016-mac) | Fecha de modificación |
 | 30/10/2018 | [Historial de actualizaciones de Office para Mac](/OfficeUpdates/update-history-office-for-mac) | Fecha de modificación |
 | 31/10/2018 | [Tamaños de descarga de las actualizaciones de Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | Fecha de modificación |
 | 31/10/2018 | Historial de actualizaciones de Office 365 ProPlus (ordenado por versión) | ha quitado |
+
+
+## <a name="week-of-november-05-2018"></a>Semana 05 de noviembre de 2018
+
+
+| Publicado en |Título del tema | Cambio |
+|------|------------|--------|
+| 6/11/2018 | [Actualizaciones de Office](/OfficeUpdates/index) | Fecha de modificación |
+| 6/11/2018 | [Últimas actualizaciones para las versiones de Outlook que usan Windows Installer (MSI)](/OfficeUpdates/outlook-updates-msi) | Fecha de modificación |
+| 6/11/2018 | [Actualizaciones de Project Server](/OfficeUpdates/project-server-updates) | Fecha de modificación |
+| 6/11/2018 | [Actualizaciones de SharePoint](/OfficeUpdates/sharepoint-updates) | Fecha de modificación |
+| 6/11/2018 | [Tamaños de descarga de las actualizaciones de Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | Fecha de modificación |
+| 6/11/2018 | [Historial de actualizaciones de Office 365 ProPlus (ordenado por fecha)](/OfficeUpdates/update-history-office365-proplus-by-date) | Fecha de modificación |
+| 6/11/2018 | [Notas de la versión para las versiones de Canal mensual en 2018](/OfficeUpdates/monthly-channel-2018) | Fecha de modificación |
+| 9/11/2018 | [Historial de versiones de Microsoft AutoUpdate (MAU)](/OfficeUpdates/release-history-microsoft-autoupdate) | Fecha de modificación |
