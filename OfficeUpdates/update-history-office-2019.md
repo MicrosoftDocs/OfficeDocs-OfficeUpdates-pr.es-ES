@@ -3,48 +3,50 @@ title: Historial de actualizaciones para Office 2019
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 10/9/2018
+ms.date: 11/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI un historial de actualizaciones para las versiones perpetuas de Office 2019 que usan Hacer clic y ejecutar.
-ms.openlocfilehash: 1e5bce4402470c436821a33ee4ac3d2560498415
-ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
+ms.openlocfilehash: a0133c76468487018701ba3d76c4f362490c2685
+ms.sourcegitcommit: 16edba1a25e04ae704903a63fcedefc31400ff05
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/10/2018
-ms.locfileid: "25459917"
+ms.lasthandoff: 11/13/2018
+ms.locfileid: "26296580"
 ---
 # <a name="update-history-for-office-2019"></a>Historial de actualizaciones para Office 2019
 
-Microsoft publica actualizaciones de seguridad y de calidad para Office 2019, como actualizaciones que proporcionan estabilidad o mejoras de rendimiento, según sea necesario. Estas actualizaciones se publican aproximadamente una vez al mes, generalmente el segundo martes de cada mes.
+Microsoft publica actualizaciones de seguridad y actualizaciones de calidad, como actualizaciones que ofrecen mejoras de rendimiento o estabilidad, para Office 2019 según sea necesario. Estas actualizaciones se publican aproximadamente una vez al mes, normalmente en el segundo martes del mes.
 
-Si desea comprobar que está actualizado, compruebe el número de versión de Office y actualice manualmente Office si es necesario. Para comprobar su versión de Office, siga estos pasos:
+Si desea comprobar que está actualizado, compruebe el número de versión de Office y actualice Office manualmente si es necesario. Para comprobar su versión de Office, siga estos pasos:
 
   1.    Abra cualquier aplicación de Office 2019, como Word o Excel.
-  2.    Elija **Archivo > Cuenta**.
-  3.    En **Información del producto**, vea el número de versión en la sección **Acerca de**.
+  2.    Elija **archivo > cuenta**.
+  3.    En **Información del producto**, vea el número de versión en la **sección Acerca de**.
 
-Si el número de versión coincide con la versión más reciente, está actualizado. Si no es así, puede actualizar manualmente para obtener la versión más reciente de Office 2019. Para actualizar Office, [siga estos pasos](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
+Si el número de versión coincide con la versión más reciente, está actualizado. Si no es así, actualice manualmente para obtener la última versión de Office 2019. Para actualizar Office, [siga estos pasos](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 
 
-En la siguiente tabla se proporciona el historial de actualización para Office 2019, la fecha de lanzamiento más reciente aparece en primer lugar. La tabla incluye la versión y el número de compilación de la versión y enumera las actualizaciones de seguridad que se incluyen en la versión, junto con un enlace a más información sobre la actualización de seguridad.
+La tabla siguiente contiene una el historial de actualizaciones para Office 2019, con la fecha de publicación más reciente en primer lugar. La tabla incluye el número de versión y compilación y muestra las actualizaciones de seguridad que se incluyen en la versión, junto con un vínculo para obtener más información sobre la actualización de seguridad.
 
 Las versiones nuevas incluyen todas las actualizaciones de versiones anteriores.
 
-## <a name="volume-licensed-versions-of-office-2019"></a>Versiones de licencia por volumen de Office 2019
-La siguiente información se aplica a las versiones con licencia por volumen de Office 2019, como Office Professional Plus 2019, adquiridas a través de un contrato de licencia de volumen.
+## <a name="volume-licensed-versions-of-office-2019"></a>Versiones de licencia por volumen de Office de 2019
+La siguiente información se aplica a las versiones de licencia por volumen de Office 2019, como las de Office Profesional Plus 2019 adquiridas a través de un contrato de licencia de volumen.
 
   
 |**Fecha de publicación**|**Número de versión**|**Más información**|
 |:-----|:-----|:-----|
-|9 de octubre de 2018   |Versión 1808 (compilación 10337.20021)  |[CVE-2018-8432](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8432) <br/> [CVE-2018-8501](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8501) <br/> [CVE-2018-8502](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8502) <br/> [CVE-2018-8504](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8504) <br/> [ADV-180026](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/ADV180026) <br/>|
+|13 de noviembre de 2018   |Versión 1808 (compilación 10338.20019)  |[CVE-2018-8522](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8522) <br/> [CVE-2018-8524](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8524) <br/> [CVE-2018-8546](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8546) <br/> [CVE-2018-8558](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8558) <br/> [CVE-2018-8573](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8573) <br/> [CVE-2018-8574](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8574) <br/> [CVE-2018-8575](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8575) <br/> [CVE-2018-8576](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8576) <br/> [CVE-2018-8577](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8577) <br/> [CVE-2018-8579](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8579) <br/> [CVE-2018-8582](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8582) <br/>|
+|9 de octubre de 2018   |Versión 1808 (compilación 10337.20021)  |[CVE-2018-8432](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8432) <br/> [CVE-2018-8501](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8501) <br/> [CVE-2018-8502](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8502) <br/> [CVE-2018-8504](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8504) <br/> [ADV-180026](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/ADV180026) <br/>|
 
-## <a name="retail-versions-of-office-2019"></a>Versiones comerciales de 2019 de Office
-La siguiente información se aplica a las versiones comerciales de Office 2019, como Office Professional 2019, compradas en una tienda.
+## <a name="retail-versions-of-office-2019"></a>Versiones comerciales de Office de 2019
+La siguiente información se aplica a las versiones comerciales de Office 2019, como las de Office Profesional 2019 compradas en tienda.
 
 |**Fecha de publicación**|**Número de versión**|**Más información**|
 |:-----|:-----|:-----|
-|9 de octubre de 2018   |Versión 1809 (compilación 10827.20150)  |[CVE-2018-8432](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8432) <br/> [CVE-2018-8501](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8501) <br/> [CVE-2018-8502](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8502) <br/> [CVE-2018-8504](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8504) <br/> [ADV-180026](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/ADV180026) <br/>|
+|13 de noviembre de 2018   |Versión 1810 (compilación 11001.20108)  |[CVE-2018-8522](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8522) <br/> [CVE-2018-8524](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8524) <br/> [CVE-2018-8546](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8546) <br/> [CVE-2018-8558](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8558) <br/> [CVE-2018-8573](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8573) <br/> [CVE-2018-8574](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8574) <br/> [CVE-2018-8575](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8575) <br/> [CVE-2018-8576](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8576) <br/> [CVE-2018-8577](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8577) <br/> [CVE-2018-8579](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8579) <br/> [CVE-2018-8582](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8582) <br/>|
+|9 de octubre de 2018   |Versión 1809 (compilación 10827.20150)  |[CVE-2018-8432](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8432) <br/> [CVE-2018-8501](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8501) <br/> [CVE-2018-8502](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8502) <br/> [CVE-2018-8504](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8504) <br/> [ADV-180026](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/ADV180026) <br/>|
