@@ -3,19 +3,19 @@ title: Notas de la versión para las versiones de Canal semianual (dirigido) en 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/14/2018
+ms.date: 11/19/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual (dirigido) de Office 365 ProPlus en 2018.
-ms.openlocfilehash: 4877f865b77fa11161c7180d1203bd2ee4066f59
-ms.sourcegitcommit: 7828d94c163b3cdb37305da2390d8a73964fdb51
+ms.openlocfilehash: 376dad984a376a21ee22e24647e72bd4bff95872
+ms.sourcegitcommit: fb77f95b01d2803216e0c57760085cea78f3b73f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2018
-ms.locfileid: "26526415"
+ms.lasthandoff: 11/19/2018
+ms.locfileid: "26618440"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>Notas de la versión para las versiones de Canal semianual (dirigido) en 2018
 
@@ -63,6 +63,10 @@ En estas notas de la versión, se proporciona información sobre característica
 - Corregido un problema que provocaba que los usuarios no pudieran usar correctamente el botón Control de cuentas para cambiar entre cuentas en formularios personalizados.
 - Corregido un problema que provocaba que los usuarios tuviesen un bloqueo al utilizar ScanPST para reparar un archivo PST u OST.
 - Corregido un problema que causaba que el campo CC: de determinados mensajes de correo no se mostrase a usuarios con perfiles de modo con conexión.
+
+### <a name="onenote-non-security-updates"></a>OneNote: actualizaciones no relacionadas con la seguridad 
+
+- Corregido un problema de estabilidad que podía producirse en relación con la sincronización y la navegación a una sección eliminada.
 
 ### <a name="project-non-security-updates"></a>Project: actualizaciones no relacionadas con la seguridad 
 
