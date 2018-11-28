@@ -76,7 +76,7 @@
 | 31/10/2018 | Historial de actualizaciones de Office 365 ProPlus (ordenado por versión) | ha quitado |
 
 
-## <a name="week-of-november-05-2018"></a>Semana 05 de noviembre de 2018
+## <a name="week-of-november-05-2018"></a>Semana 5 de noviembre de 2018
 
 
 | Publicado en |Título del tema | Cambio |
@@ -121,3 +121,13 @@
 | 14/11/2018 | [Notas de la versión de Office para Mac](/OfficeUpdates/release-notes-office-for-mac) | Fecha de modificación |
 | 14/11/2018 | [Historial de actualizaciones de Office para Mac](/OfficeUpdates/update-history-office-for-mac) | Fecha de modificación |
 | 15/11/2018 | [Notas de la versión de Office 2016 para Mac](/OfficeUpdates/release-notes-office-2016-mac) | Fecha de modificación |
+
+
+## <a name="week-of-november-19-2018"></a>Semana del 19 de noviembre de 2018
+
+
+| Publicado en |Título del tema | Cambio |
+|------|------------|--------|
+| 19/11/2018 | [Notas de la versión de Office 2016 para Mac](/OfficeUpdates/release-notes-office-2016-mac) | Fecha de modificación |
+| 19/11/2018 | [Notas de la versión para las versiones de Canal semianual (dirigido) en 2018](/OfficeUpdates/semi-annual-channel-targeted-2018) | Fecha de modificación |
+| 19/11/2018 | [Historial de actualizaciones de Office para Mac](/OfficeUpdates/update-history-office-for-mac) | Fecha de modificación |
