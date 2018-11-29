@@ -3,19 +3,19 @@ title: Notas de la versión para las versiones de Canal mensual en 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/14/2018
+ms.date: 11/27/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2018.
-ms.openlocfilehash: 80104d351a68861aa16cc4054f5ca99f6c73e78c
-ms.sourcegitcommit: 7828d94c163b3cdb37305da2390d8a73964fdb51
+ms.openlocfilehash: f221cf3ff6a67cdf36940de61c1c2be2aa450b7a
+ms.sourcegitcommit: d8df1436c1d2ce683cdac42bd4e14cf3407e2bf1
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2018
-ms.locfileid: "26526395"
+ms.lasthandoff: 11/27/2018
+ms.locfileid: "26706654"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de la versión para las versiones de Canal mensual en 2018
 
@@ -25,6 +25,28 @@ En estas notas de la versión, se proporciona información sobre característica
 > - Lo siguiente también proporciona información sobre características nuevas, actualizaciones de seguridad y no relacionadas con la seguridad para Visio Pro para Office 365 y el cliente de escritorio de Project Online.
 > - Esta información también se aplica a Office 365 Empresa, que es la versión de Office que viene con algunos planes de Office 365, como Empresa Premium.
 > - A menudo distribuimos características (y a veces incluso correcciones) para el Canal mensual durante un período de tiempo. Esto nos permite asegurarnos de que todo funciona correctamente antes de publicar la característica para un público más amplio. Por tanto, si a continuación no ve algo descrito, no se preocupe, lo recibirá con el tiempo. [Más información](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
+## <a name="version-1811-november-27"></a>Versión 1811: 27 de noviembre
+*Versión 1811 (compilación 11029.20079)* 
+
+### <a name="access-feature-updates"></a>Access: actualizaciones de características
+
+- **Píntalo negro, píntalo gris:** cambie el aspecto de Access tantas veces como quiera. Cuatro temas para elegir: multicolor, gris oscuro, negro y blanco. [Más información](https://support.office.com/article/9d76a8b4-bfff-48a9-b8c8-8e133461bc94)
+
+### <a name="outlook-feature-updates"></a>Outlook: actualizaciones de características
+
+- **Zoom y quieto:** en lugar de ajustar el Zoom cada vez que lee un mensaje, elija una configuración predeterminada para todos los mensajes. [Más información](https://support.office.com/article/351EF767-00C1-4B9F-8744-1391DCB8F974)
+- **Mover mensajes de forma asincrónica en Outlook:** al mover los mensajes asincrónicamente se aumenta la productividad de los usuarios de Outlook.
+- **Mejora de las experiencias con o sin la Bandeja de entrada Prioritarios:** el correo electrónico no leído se muestra en todas las carpetas, no solo en la bandeja de entrada, cuando esté desactivada la Bandeja de entrada Prioritarios. "Ordenar por estado de marca" agregado. Mejor interacción de la Bandeja de entrada Prioritarios con la búsqueda: la bandeja de entrada Prioritarios permanece hasta que se inicia la búsqueda. El texto de "Resultados" se muestra cuando se complete una búsqueda.
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
+
+- **Ver el número de diapositiva en documentos impresos:** agregue el número de diapositiva a la copia impresa de los documentos. [Más información](https://support.office.com/article/91c62c83-9032-497c-ab76-cae8f3e1a402)
+
+### <a name="office-suite-feature-updates"></a>Conjunto de aplicaciones de Office: actualizaciones de características
+
+- **Compartir y cargar los documentos con los nuevos botones expuestos en la página de información:** anteriormente, los botones de Compartir, Copiar ruta de acceso al Portapapeles y Abrir ubicación del archivo solo eran accesibles tras la ruta de guardado del documento. Ahora son botones que puede ver claramente en la página de información. Vaya a Archivo > Información como haría normalmente para ver estos nuevos botones.
+
 
 ## <a name="version-1810-november-13"></a>Versión 1810: 13 de noviembre
 *Versión 1810 (compilación 11001.20108)* 

@@ -3,19 +3,19 @@ title: Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/13/2018
+ms.date: 11/27/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Office 365 ProPlus según el canal de actualización.
-ms.openlocfilehash: 28cd4f213edada1ecb0cb10f240dfa30c7d950c5
-ms.sourcegitcommit: 9e7dba93366d357248b8b0af79ce436b0bd42c89
+ms.openlocfilehash: f57083dce6e2dcba5a728a92d634fa7a9ff4737a
+ms.sourcegitcommit: d8df1436c1d2ce683cdac42bd4e14cf3407e2bf1
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/14/2018
-ms.locfileid: "26299093"
+ms.lasthandoff: 11/27/2018
+ms.locfileid: "26706644"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 
@@ -35,6 +35,17 @@ Para obtener información sobre las características, las actualizaciones de seg
 > - Se muestran solo las versiones de los últimos cuatro meses.
 > - En las tablas solo aparecen las versiones anteriores más recientes. Si va a realizar la actualización desde una versión más antigua, el tamaño de descarga será mayor.
 > - Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal semianual, el tamaño de actualización será considerablemente mayor que el que se muestra en la tabla, ya que puede comportar una descarga completa, con un mínimo de 1 GB. 
+
+## <a name="november-27-2018"></a>27 de noviembre de 2018
+
+### <a name="monthly-channel"></a>Canal mensual
+
+La versión más actual es la 1811 (compilación 11029.20079). 
+  
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1811 (compilación 11001.20108)  <br/> |13 de noviembre de 2018  <br/> |167<br/> |
+|Versión 1810 (compilación 11001.20074)  <br/> |29 de octubre de 2018  <br/> |166<br/> |
 
 
 ## <a name="november-13-2018"></a>13 de noviembre de 2018
