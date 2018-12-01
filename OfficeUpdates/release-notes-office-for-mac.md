@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales de TI las notas de la versión de las versiones de Office para Mac para los suscriptores de Office 356
-ms.openlocfilehash: 61658846d208ec0acc99474df99100724670377a
-ms.sourcegitcommit: 7828d94c163b3cdb37305da2390d8a73964fdb51
+ms.openlocfilehash: 328487e7090602cdcfbddea520d3b46e99ba4077
+ms.sourcegitcommit: 8f9a27b81ce0767c4ddf76d43a1c0ae335f5bed6
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2018
-ms.locfileid: "26526425"
+ms.lasthandoff: 12/01/2018
+ms.locfileid: "27124031"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de la versión de Office para Mac
 
@@ -61,7 +61,7 @@ En esta versión se incluyen las actualizaciones siguientes:
 
 |**Aplicación**|**Actualizaciones de características**|**Actualizaciones de seguridad**|**Vínculo de descarga para el paquete de actualización**|
 |:-----|:-----|:-----|
-|Word  <br/>|**Hacer accesibles sus imágenes:** al insertar una imagen, Office sugiere títulos que las personas con deficiencias visuales pueden leer.  <br/> ||[Paquete de actualización de Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.18.18101400_Updater.pkg) <br/>|
+|Word  <br/>|||[Paquete de actualización de Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.18.18101400_Updater.pkg) <br/>|
 |Excel  <br/>|**Colaborar con comentarios:** mantenga la conversación activa directamente en la hoja de cálculo con el cuadro de respuesta integrado. [Más información](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8 ) <br/> <br/> **Obtener más información sobre los datos:** el nuevo botón Ideas busca patrones en los datos y los usa para crear sugerencias inteligentes y personalizadas. [Más información](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4) <br/><br/> **Más "Auto" en Autocompletar:** al escribir una fórmula, aparecerá el menú de ayuda Autocompletar, que mostrará opciones de argumento ntre las que elegir.  <br/><br/> **Mejorado: navegación de VoiceOver:** ¿usa VoiceOver en Excel? Desplacese por las hojas de cálculo presionando VO + U. También puede habilitar los comandos del trackpad de macOS para realizar esta acción. <br/> ||[Paquete de actualización de Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.18.18101400_Updater.pkg) <br/>|
 |PowerPoint  <br/>|**Hacer accesibles sus imágenes:** al insertar una imagen, Office sugiere títulos que las personas con deficiencias visuales pueden leer.  <br/><br/> **Llegan los desencadenadores de animación:** nos lo han pedido. Los desencadenadores de animación ya no son únicamente para Windows. Encuéntrelos en la pestaña animaciones. [Más información](https://support.office.com/article/651726d6-9454-4bfd-b8e5-11d84767a6da) <br/><br/> ||[Paquete de actualización de PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.18.18101400_Updater.pkg) <br/>|
 |Outlook  <br/>|**Búsqueda mejorada:** seleccione el cuadro de búsqueda para obtener sugerencias rápidas en función de su historial de búsqueda reciente. Sin escribir.  [Más información](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1) <br/><br/> ||[Paquete de actualización de Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.18.18101400_Updater.pkg) <br/>|
