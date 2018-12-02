@@ -3,19 +3,19 @@ title: Notas de la versión para las versiones de Canal mensual en 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/27/2018
+ms.date: 11/29/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2018.
-ms.openlocfilehash: f221cf3ff6a67cdf36940de61c1c2be2aa450b7a
-ms.sourcegitcommit: d8df1436c1d2ce683cdac42bd4e14cf3407e2bf1
+ms.openlocfilehash: 197357d549a52efaf45a42ca8aea667b3b63e18a
+ms.sourcegitcommit: c5b53c9081a44a6ce9e10f7c6d0469101a1f397e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/27/2018
-ms.locfileid: "26706654"
+ms.lasthandoff: 11/29/2018
+ms.locfileid: "26987100"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de la versión para las versiones de Canal mensual en 2018
 
@@ -37,7 +37,8 @@ En estas notas de la versión, se proporciona información sobre característica
 
 - **Zoom y quieto:** en lugar de ajustar el Zoom cada vez que lee un mensaje, elija una configuración predeterminada para todos los mensajes. [Más información](https://support.office.com/article/351EF767-00C1-4B9F-8744-1391DCB8F974)
 - **Mover mensajes de forma asincrónica en Outlook:** al mover los mensajes asincrónicamente se aumenta la productividad de los usuarios de Outlook.
-- **Mejora de las experiencias con o sin la Bandeja de entrada Prioritarios:** el correo electrónico no leído se muestra en todas las carpetas, no solo en la bandeja de entrada, cuando esté desactivada la Bandeja de entrada Prioritarios. "Ordenar por estado de marca" agregado. Mejor interacción de la Bandeja de entrada Prioritarios con la búsqueda: la bandeja de entrada Prioritarios permanece hasta que se inicia la búsqueda. El texto de "Resultados" se muestra cuando se complete una búsqueda.
+- **Vea los detalles de LinkedIn de contactos en Outlook:** ahora, al abrir la tarjeta de perfil de un contacto, puede obtener más información consultando su perfil de LinkedIn.
+- **Mejora de las experiencias con o sin la Bandeja de entrada Prioritarios:** para los clientes que no usen la Bandeja de entrada Prioritarios, hemos vuelto a implementar la pestaña de no leídos en la lista de mensajes en todas las carpetas. También hemos agregado una ordenación por marca para que sea más fácil encontrar los elementos marcados. Por último, la Bandeja de entrada tiene un modelo de interacción mejor con la búsqueda: la bandeja de entrada Prioritarios permanece hasta que se inicia la búsqueda y se muestra el texto "Resultados" cuando se completa una búsqueda.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
 
