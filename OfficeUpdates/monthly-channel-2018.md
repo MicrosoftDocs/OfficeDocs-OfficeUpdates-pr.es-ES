@@ -3,19 +3,19 @@ title: Notas de la versión para las versiones de Canal mensual en 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/29/2018
+ms.date: 12/04/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2018.
-ms.openlocfilehash: 197357d549a52efaf45a42ca8aea667b3b63e18a
-ms.sourcegitcommit: c5b53c9081a44a6ce9e10f7c6d0469101a1f397e
+ms.openlocfilehash: 70ed82679a17446751d9e9e4e3d7cc8a056ce668
+ms.sourcegitcommit: d37f49e4efc9d1b4187711951bcb7049e18138bb
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/29/2018
-ms.locfileid: "26987100"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "27154828"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de la versión para las versiones de Canal mensual en 2018
 
@@ -25,6 +25,7 @@ En estas notas de la versión, se proporciona información sobre característica
 > - Lo siguiente también proporciona información sobre características nuevas, actualizaciones de seguridad y no relacionadas con la seguridad para Visio Pro para Office 365 y el cliente de escritorio de Project Online.
 > - Esta información también se aplica a Office 365 Empresa, que es la versión de Office que viene con algunos planes de Office 365, como Empresa Premium.
 > - A menudo distribuimos características (y a veces incluso correcciones) para el Canal mensual durante un período de tiempo. Esto nos permite asegurarnos de que todo funciona correctamente antes de publicar la característica para un público más amplio. Por tanto, si a continuación no ve algo descrito, no se preocupe, lo recibirá con el tiempo. [Más información](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
 
 ## <a name="version-1811-november-27"></a>Versión 1811: 27 de noviembre
 *Versión 1811 (compilación 11029.20079)* 
@@ -39,6 +40,7 @@ En estas notas de la versión, se proporciona información sobre característica
 - **Mover mensajes de forma asincrónica en Outlook:** al mover los mensajes asincrónicamente se aumenta la productividad de los usuarios de Outlook.
 - **Vea los detalles de LinkedIn de contactos en Outlook:** ahora, al abrir la tarjeta de perfil de un contacto, puede obtener más información consultando su perfil de LinkedIn.
 - **Mejora de las experiencias con o sin la Bandeja de entrada Prioritarios:** para los clientes que no usen la Bandeja de entrada Prioritarios, hemos vuelto a implementar la pestaña de no leídos en la lista de mensajes en todas las carpetas. También hemos agregado una ordenación por marca para que sea más fácil encontrar los elementos marcados. Por último, la Bandeja de entrada tiene un modelo de interacción mejor con la búsqueda: la bandeja de entrada Prioritarios permanece hasta que se inicia la búsqueda y se muestra el texto "Resultados" cuando se completa una búsqueda.
+- **Bloquear la descarga de contenido externo de forma predeterminada en los correos electrónicos firmados y encriptados SMIME:** Debido a una vulnerabilidad en el protocolo SMIME, Outlook bloqueará la descarga de contenido externo en mensajes que se hayan cifrado o firmado mediante SMIME. Los usuarios no podrán descargar contenido externo con un solo clic en la interfaz de usuario de Outlook para protegerse de la vulnerabilidad de seguridad. Hay una nueva opción en el cuadro de diálogo Opciones para permitir que los usuarios vuelvan al comportamiento anterior. 
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
 
