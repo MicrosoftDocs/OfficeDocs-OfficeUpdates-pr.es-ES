@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Office 365 ProPlus según el canal de actualización.
-ms.openlocfilehash: 0d3dc6744b2811e69316afeeecfb34ad55a669fb
-ms.sourcegitcommit: 9aeaa78dc9be8f3dc8b2bdad0e3c203341e5ad1c
+ms.openlocfilehash: 17a7e5458382394128e85b024315cb19886c5eba
+ms.sourcegitcommit: 3c5daa87f8ef4e8dbc0185c2ab9080caf9cbd325
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "27180780"
+ms.lasthandoff: 12/07/2018
+ms.locfileid: "27194921"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 
@@ -90,7 +90,7 @@ La versión más actual es la 1803 (compilación 9126.2315).
   
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
-|Versión 1803 (compilación 9126.2282) <br/> |9 de octubre de 2018  <br/> |61 <br/> |
+|Versión 1803 (compilación 9126.2295) <br/> |9 de octubre de 2018  <br/> |61 <br/> |
 |Versión 1803 (compilación 9126.2282)  <br/> |11 de septiembre de 2018  <br/> |58<br/> |
 
 ### <a name="semi-annual-channel-targeted"></a>Canal semianual (dirigido)
@@ -192,7 +192,7 @@ La versión más actual es la 1803 (compilación 9126.2282).
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
 |Versión 1803 (compilación 9126.2259)  <br/> |10 de julio de 2018  <br/> |99  <br/> |
-|Versión 1708 (compilación 9126.2275)  <br/> |14 de agosto de 2018  <br/> |99 <br/> |
+|Versión 1803 (compilación 9126.2275)  <br/> |14 de agosto de 2018  <br/> |99 <br/> |
 
   
 ### <a name="semi-annual-channel-targeted"></a>Canal semianual (dirigido)
@@ -233,8 +233,8 @@ La versión más actual es la 1803 (compilación 9126.2275).
   
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
-|Versión 1803 (compilación 8431.2259)  <br/> |10 de julio de 2018  <br/> |86  <br/> |
-|Versión 1708 (compilación 8431.2270)  <br/> |12 de junio de 2018  <br/> |279  <br/> |
+|Versión 1803 (compilación 9126.2259)  <br/> |10 de julio de 2018  <br/> |86  <br/> |
+|Versión 1708 (compilación 8431.2280)  <br/> |10 de julio de 2018  <br/> |279  <br/> |
 
   
 ### <a name="semi-annual-channel-targeted"></a>Canal semianual (dirigido)
