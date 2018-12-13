@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión de las actualizaciones de seguridad de Office 365 ProPlus
-ms.openlocfilehash: 4476a4fba6d423eba0f40f7c98ec8c1fa65bf3c6
-ms.sourcegitcommit: c5b53c9081a44a6ce9e10f7c6d0469101a1f397e
+ms.openlocfilehash: 8ba613b04a8a91d438891cbcda75216cd4715456
+ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/29/2018
-ms.locfileid: "26999454"
+ms.lasthandoff: 12/12/2018
+ms.locfileid: "27241261"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Notas de la versión para las actualizaciones de seguridad de Office 365 ProPlus
 
@@ -24,6 +24,25 @@ Estas notas de la versión proporcionan información sobre las correcciones de s
 > [!NOTE]
 > - Lo siguiente también proporciona información sobre actualizaciones de seguridad para Visio Pro para Office 365 y el cliente de escritorio de Project Online.
 > - Esta información también se aplica a Office 365 Empresa, que es la versión de Office que viene con algunos planes de Office 365, como Empresa Premium.
+## <a name="december-11-2018"></a>11 de diciembre de 2018
+Canal mensual: Versión 1811 (compilación 11029.20108)  
+Canal semianual: Versión 1803 (compilación 9126.2336)  
+Canal semianual (dirigido): Versión 1808 (compilación 10730.20262)  
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8597)
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8627)
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8598)
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8636)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8587)
+
+### <a name="powerpoint"></a>PowerPoint
+
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8628)
 
 ## <a name="november-13-2018"></a>13 de noviembre de 2018
 Canal mensual: versión 1810 (compilación 11001.20108)  
