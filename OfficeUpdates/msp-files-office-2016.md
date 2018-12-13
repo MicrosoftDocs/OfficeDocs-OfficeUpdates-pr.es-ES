@@ -3,19 +3,19 @@ title: Lista de los archivos .msp más recientes para los productos de Office 20
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 11/13/2018
+ms.date: 12/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI con una lista de los archivos .msp más recientes para perpetua, versiones de Office 2016 que usan Windows Installer (MSI)
-ms.openlocfilehash: 47b4c9bcd20b9cb3f4d47ffdfa2ed9dfc77d382d
-ms.sourcegitcommit: 16edba1a25e04ae704903a63fcedefc31400ff05
+ms.openlocfilehash: 004c21ad9cdd6ba8da87547b349786b454dc15d5
+ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/13/2018
-ms.locfileid: "26296640"
+ms.lasthandoff: 12/12/2018
+ms.locfileid: "27241401"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2016-products"></a>Lista de los archivos .msp más recientes para los productos de Office 2016
 
@@ -25,20 +25,16 @@ Esta información sólo se aplica a los productos de Office 2016 que usan la tec
   
 ## <a name="most-recently-updated-msp-files"></a>Archivos .msp recientemente actualizado
 
-En la siguiente tabla se enumera los archivos .msp de que se han actualizado en **noviembre 2018**.
+En la siguiente tabla se enumera los archivos .msp de que se han actualizado en **diciembre 2018**.
   
-|**Actualizaciones no relacionadas con la seguridad**|**Actualizaciones de seguridad**|
+|Actualizaciones de seguridad no ***|Actualizaciones de seguridad ***|
 |:-----|:-----|
-|LIP -*ll-cc* <sup>1</sup> <br/>       |Excel-x-ninguno  <br/> |
-|MSO-x-ninguno<br/>          |gráfico-x-ninguno  <br/> |
-|msodll30-x-ninguno<br/>          |Lync-x-ninguno |      
-|msodll99l-x-ninguno  <br/>   |Outlook-x-ninguno|
-|PowerPoint-x-ninguno  <br/>     |proyecto-x-ninguno|
-|Visio-x-ninguno  <br/>  |Word-x-ninguno |
+|Lync-x-ninguno  <br/> |Excel-x-ninguno  <br/> |
+|proyecto-x-ninguno  <br/> |Outlook-x-ninguno  <br/> |
+|  <br/> |PowerPoint-x-ninguno  <br/> |
 
+<br/>
 
-
-  
 ## <a name="list-of-all-msp-files"></a>Lista de todos los archivos .msp
 
 En la siguiente tabla se enumera todos los archivos .msp que se han publicado desde el lanzamiento de Office 2016 en septiembre de 2015.
@@ -54,7 +50,7 @@ En la siguiente tabla se enumera todos los archivos .msp que se han publicado de
 |csisyncclient-x-ninguno  <br/> |Office 2016  <br/> |4 de octubre de 2016  <br/> |[3118264](https://support.microsoft.com/help/3118264) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
 |DCF-x-ninguno  <br/> |Office 2016  <br/> |4 de septiembre de 2018  <br/> |[3114853](https://support.microsoft.com/help/3114853) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
 |EQNEDT32-x-ninguno  <br/> |Office 2016  <br/> |No aplicable  <br/> |No aplicable  <br/> |9 de enero de 2018  <br/> |[4011574](https://support.microsoft.com/help/4011574) <br/> |[4011262](https://support.microsoft.com/help/4011262)  <br/> |
-|Excel-x-ninguno  <br/> |Excel 2016  <br/> |3 de julio de 2018  <br/> |[4022229](https://support.microsoft.com/help/4022229) <br/> |13 de noviembre de 2018  <br/> |[4461503](https://support.microsoft.com/en-us/help/4461503) <br/> |[4461448](https://support.microsoft.com/en-us/help/4461448) <br/> |
+|Excel-x-ninguno  <br/> |Excel 2016  <br/> |3 de julio de 2018  <br/> |[4022229](https://support.microsoft.com/help/4022229) <br/> |11 de diciembre 2018  <br/> |[4461542](https://support.microsoft.com/en-us/help/4461542) <br/> |[4461503](https://support.microsoft.com/en-us/help/4461503) <br/> |
 |excelpp-x-ninguno  <br/> |Office 2016  <br/> |5 de diciembre de 2017  <br/> |[4011218](https://support.microsoft.com/help/4011218) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
 |exppdf-x-ninguno  <br/> |Office 2016  <br/> |5 de abril de 2016  <br/> |[2920720](https://support.microsoft.com/help/2920720) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
 |FilterPack-x-ninguno  <br/> |Office 2016  <br/> |8 de diciembre de 2015  <br/> |[2920684](https://support.microsoft.com/help/2920684) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
@@ -65,7 +61,7 @@ En la siguiente tabla se enumera todos los archivos .msp que se han publicado de
 |ieawsdc-x-ninguno  <br/> |Office 2016  <br/> |13 de octubre de 2015  <br/> |[3085538](https://support.microsoft.com/help/3085538) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
 |kohhc-x-ninguno  <br/> |Office 2016  <br/> |6 de junio de 2017  <br/> |[3191929](https://support.microsoft.com/help/3191929) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
 |LIP -*ll-cc* <sup>1</sup> <br/> |Paquete de interfaz de idioma de Office 2016  <br/> |6 de noviembre de 2018  <br/> |[4461475](https://support.microsoft.com/en-us/help/4461475) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
-|Lync-x-ninguno  <br/> |Skype Empresarial 2016  <br/> |2 de octubre de 2018  <br/> |[4092445](https://support.microsoft.com/en-us/help/4092445) <br/> |13 de noviembre de 2018  <br/> |[4461473](https://support.microsoft.com/help/4461473) <br/> |[4022221](https://support.microsoft.com/help/4022221)  <br/> |
+|Lync-x-ninguno  <br/> |Skype Empresarial 2016  <br/> |11 de diciembre 2018  <br/> |[4461545](https://support.microsoft.com/en-us/help/4461545) <br/> |13 de noviembre de 2018  <br/> |[4461473](https://support.microsoft.com/help/4461473) <br/> |[4022221](https://support.microsoft.com/help/4022221)  <br/> |
 |mscomctlocx-x-ninguno  <br/> |Office 2016  <br/> |No aplicable  <br/> |No aplicable  <br/> |12 de enero de 2016  <br/> |[2920727](https://support.microsoft.com/help/2920727) <br/> |Ninguno  <br/> |
 |msmipc-x-ninguno  <br/> |Office 2016  <br/> |4 de abril de 2017  <br/> |[3178666](https://support.microsoft.com/help/3178666) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
 |MSO-x-ninguno  <br/> |Office 2016  <br/> |6 de noviembre de 2018  <br/> |[4461505](https://support.microsoft.com/en-us/help/4461505) <br/> |9 de octubre de 2018  <br/> |[4461437](https://support.microsoft.com/en-us/help/4461437) <br/> |[4032233](https://support.microsoft.com/en-us/help/4032233) <br/> |
@@ -86,11 +82,11 @@ En la siguiente tabla se enumera todos los archivos .msp que se han publicado de
 |otkruntimertl-x-ninguno  <br/> |Office 2016  <br/> |No aplicable  <br/> |No aplicable  <br/> |8 de marzo de 2016  <br/> |[3114690](https://support.microsoft.com/help/3114690) <br/> |Ninguno  <br/> |
 |outexum-x-ninguno  <br/> |Office 2016  <br/> |3 de julio de 2018  <br/> |[3191864](https://support.microsoft.com/help/3191864) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
 |Outlfltr-x-ninguno  <br/> |Office 2016  <br/> |2 de agosto de 2016  <br/> |[3115407](https://support.microsoft.com/help/3115407) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
-|Outlook-x-ninguno  <br/> |Outlook 2016  <br/> |4 de septiembre de 2018  <br/> |[4092462](https://support.microsoft.com/en-us/help/4092462) <br/> |13 de noviembre de 2018  <br/> |[4461506](https://support.microsoft.com/help/4461506) <br/> |[4461440](https://support.microsoft.com/help/4461440) <br/> |
+|Outlook-x-ninguno  <br/> |Outlook 2016  <br/> |4 de septiembre de 2018  <br/> |[4092462](https://support.microsoft.com/en-us/help/4092462) <br/> |11 de diciembre 2018  <br/> |[4461544](https://support.microsoft.com/help/4461544) <br/> |[4461506](https://support.microsoft.com/help/4461506) <br/> |
 |policytips-x-ninguno  <br/> |Office 2016  <br/> |7 de junio de 2016  <br/> |[3115081](https://support.microsoft.com/help/3115081) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
-|PowerPoint-x-ninguno  <br/> |PowerPoint 2016  <br/> |6 de noviembre de 2018  <br/> |[4461502](https://support.microsoft.com/en-us/help/4461502) <br/> |9 de octubre de 2018  <br/> |[4461434](https://support.microsoft.com/help/4461434) <br/> |[4011041](https://support.microsoft.com/en-us/help/4011041) <br/> |
+|PowerPoint-x-ninguno  <br/> |PowerPoint 2016  <br/> |6 de noviembre de 2018  <br/> |[4461502](https://support.microsoft.com/en-us/help/4461502) <br/> |11 de diciembre 2018  <br/> |[4461532](https://support.microsoft.com/help/4461532) <br/> |[4461434](https://support.microsoft.com/en-us/help/4461434) <br/> |
 |ppaddin-x-ninguno  <br/> |Office 2016  <br/> |5 de diciembre de 2017  <br/> |[4011225](https://support.microsoft.com/help/4011225) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
-|proyecto-x-ninguno  <br/> |Project 2016  <br/> |2 de octubre de 2018  <br/> |[4461443](https://support.microsoft.com/en-us/help/4461443) <br/> |13 de noviembre de 2018  <br/> |[4461478](https://support.microsoft.com/help/4461478) <br/> |[2920698](https://support.microsoft.com/help/2920698)  <br/> |
+|proyecto-x-ninguno  <br/> |Project 2016  <br/> |11 de diciembre 2018  <br/> |[4461540](https://support.microsoft.com/en-us/help/4461540) <br/> |13 de noviembre de 2018  <br/> |[4461478](https://support.microsoft.com/help/4461478) <br/> |[2920698](https://support.microsoft.com/help/2920698)  <br/> |
 |prueba-x-ninguno  <br/> |Office 2016  <br/> |2 de enero de 2018  <br/> |[3178662](https://support.microsoft.com/help/3178662) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
 |protocolhandler-x-ninguno  <br/> |Office 2016  <br/> |9 de febrero de 2016  <br/> |[2910954](https://support.microsoft.com/help/2910954) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
 |Publisher-x-ninguno  <br/> |Publisher 2016  <br/> |1 de agosto de 2017  <br/> |[3178696](https://support.microsoft.com/help/3178696) <br/> |10 de noviembre de 2015  <br/> |[2920680](https://support.microsoft.com/help/2920680) <br/> |Ninguno  <br/> |
