@@ -3,19 +3,19 @@ title: Notas de la versión para las versiones de Canal semianual en 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/14/2018
+ms.date: 12/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual de Office 365 ProPlus en 2018.
-ms.openlocfilehash: 8018fdf91a14b24f725f19a80298f951a14be7c0
-ms.sourcegitcommit: 7828d94c163b3cdb37305da2390d8a73964fdb51
+ms.openlocfilehash: ff46d626dc9c767e19da8e1a5bfacf7522c54b27
+ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2018
-ms.locfileid: "26526435"
+ms.lasthandoff: 12/12/2018
+ms.locfileid: "27241501"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>Notas de la versión para las versiones de Canal semianual en 2018
 
@@ -25,6 +25,62 @@ En estas notas de la versión, se proporciona información sobre característica
 > - Lo siguiente también proporciona información sobre características nuevas, actualizaciones de seguridad y no relacionadas con la seguridad para Visio Pro para Office 365 y el cliente de escritorio de Project Online.
 > - Esta información también se aplica a Office 365 Empresa, que es la versión de Office que viene con algunos planes de Office 365, como Empresa Premium.
 > - El Canal semianual se denominaba Canal diferido antes de enero de 2018.
+
+> [!NOTE]
+> - La información sobre las actualizaciones de seguridad de cada canal de actualización de Office 365 ProPlus se empezará a mostrar por separado en [Actualizaciones de seguridad](office365-proplus-security-updates.md).
+
+## <a name="version-1803-december-11"></a>Versión 1803: 11 de diciembre
+*Versión 1803 (compilación 9126.2336)*
+
+### <a name="excel-security-updates"></a>Excel: Actualizaciones de seguridad 
+
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8597): Vulnerabilidad de la ejecución remota de código de Microsoft Excel 
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8598): Vulnerabilidad de divulgación de información de Microsoft Excel 
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8627): vulnerabilidad de divulgación de información de Microsoft Excel 
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8636): Vulnerabilidad de la ejecución remota de código de Microsoft Excel 
+
+### <a name="outlook-security-updates"></a>Outlook: Actualizaciones de seguridad 
+
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8587): Vulnerabilidad de la ejecución remota de código de Microsoft Outlook 
+
+### <a name="powerpoint-security-updates"></a>PowerPoint: Actualizaciones de seguridad 
+
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8628): Vulnerabilidad de la ejecución remota de código de Microsoft PowerPoint 
+
+
+### <a name="outlook-non-secirity-updates"></a>Outlook: Actualizaciones no relacionadas con la seguridad
+
+- Corregido un problema que hacía que Outlook se cerrase inesperadamente al actualizar determinados campos de contactos.
+- Soluciona un problema que hacía que los usuarios viesen un error al iniciar el cuadro de diálogo "Administrar reglas y alertas".
+- Soluciona un problema que causaba bloqueos para los usuarios de Outlook al ejecutar algunos complementos.
+
+
+## <a name="version-1708-december-11"></a>Versión 1708: 11 de diciembre
+*Versión 1708 (compilación 8431.2351)*
+
+*Esta es la versión del Canal semianual que ha estado disponible desde enero de 2018. Seguirá recibiendo soporte técnico y actualizaciones de seguridad hasta marzo de 2019. Pero ahora hay disponible una nueva versión del Canal semianual (versión 1803, compilación 16.0.9126.2336), que contiene nuevas características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad.*
+
+### <a name="excel-security-updates"></a>Excel: Actualizaciones de seguridad 
+
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8597): Vulnerabilidad de la ejecución remota de código de Microsoft Excel 
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8598): Vulnerabilidad de divulgación de información de Microsoft Excel 
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8627): vulnerabilidad de divulgación de información de Microsoft Excel 
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8636): Vulnerabilidad de la ejecución remota de código de Microsoft Excel 
+
+### <a name="outlook-security-updates"></a>Outlook: Actualizaciones de seguridad 
+
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8587): Vulnerabilidad de la ejecución remota de código de Microsoft Outlook 
+
+### <a name="powerpoint-security-updates"></a>PowerPoint: Actualizaciones de seguridad 
+
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8628): Vulnerabilidad de la ejecución remota de código de Microsoft PowerPoint 
+
+### <a name="outlook-non-secirity-updates"></a>Outlook: Actualizaciones no relacionadas con la seguridad
+
+- Corregido un problema que hacía que Outlook se cerrase inesperadamente al actualizar determinados campos de contactos.
+- Soluciona un problema que hacía que los usuarios viesen un error al iniciar el cuadro de diálogo "Administrar reglas y alertas".
+- Soluciona un problema que causaba bloqueos para los usuarios de Outlook al ejecutar algunos complementos.
+
 
 ## <a name="version-1803-november-13"></a>Versión 1803: 13 de noviembre
 *Versión 1803 (compilación 9126.2315)*
