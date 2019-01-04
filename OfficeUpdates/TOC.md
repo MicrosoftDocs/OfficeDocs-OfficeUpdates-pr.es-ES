@@ -7,6 +7,7 @@
 ### [Actualizaciones de seguridad](office365-proplus-security-updates.md)
 
 ### Canal mensual
+#### [2019](monthly-channel-2019.md)
 #### [2018](monthly-channel-2018.md)
 #### [2017](monthly-channel-2017.md)
 #### [2016](monthly-channel-2016.md)
