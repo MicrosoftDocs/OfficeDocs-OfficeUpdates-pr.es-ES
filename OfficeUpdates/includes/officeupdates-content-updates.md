@@ -3,29 +3,6 @@
 
 
 
-## <a name="week-of-november-19-2018"></a>Semana del 19 de noviembre de 2018
-
-
-| Publicado en |Título del tema | Cambio |
-|------|------------|--------|
-| 19/11/2018 | [Notas de la versión de Office 2016 para Mac](/OfficeUpdates/release-notes-office-2016-mac) | Fecha de modificación |
-| 19/11/2018 | [Notas de la versión para las versiones de Canal semianual (dirigido) en 2018](/OfficeUpdates/semi-annual-channel-targeted-2018) | Fecha de modificación |
-| 19/11/2018 | [Historial de actualizaciones de Office para Mac](/OfficeUpdates/update-history-office-for-mac) | Fecha de modificación |
-
-
-## <a name="week-of-november-26-2018"></a>Semana del 26 de noviembre de 2018
-
-
-| Publicado en |Título del tema | Cambio |
-|------|------------|--------|
-| 27/11/2018 | [Tamaños de descarga de las actualizaciones de Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | Fecha de modificación |
-| 27/11/2018 | [Notas de la versión para las versiones de Canal mensual en 2018](/OfficeUpdates/monthly-channel-2018) | Fecha de modificación |
-| 27/11/2018 | [Historial de actualizaciones de Office 365 ProPlus (ordenado por fecha)](/OfficeUpdates/update-history-office365-proplus-by-date) | Fecha de modificación |
-| 29/11/2018 | [Notas de la versión para las versiones de Canal mensual en 2018](/OfficeUpdates/monthly-channel-2018) | Fecha de modificación |
-| 29/11/2018 | [Notas de la versión para las actualizaciones de seguridad de Office 365 ProPlus](/OfficeUpdates/office365-proplus-security-updates) | agregado |
-| 30/11/2018 | [Notas de la versión de Office para Mac](/OfficeUpdates/release-notes-office-for-mac) | Fecha de modificación |
-
-
 ## <a name="week-of-december-03-2018"></a>Semana del 03 de diciembre de 2018
 
 
@@ -80,3 +57,14 @@
 | 17/12/2018 | [Notas de la versión de Office 2016 para Mac](/OfficeUpdates/release-notes-office-2016-mac) | Fecha de modificación |
 | 17/12/2018 | [Historial de actualizaciones de Office para Mac](/OfficeUpdates/update-history-office-for-mac) | Fecha de modificación |
 | 19/12/2018 | [Historial de actualizaciones para Office 2013](/OfficeUpdates/update-history-office-2013) | Fecha de modificación |
+
+
+## <a name="week-of-december-31-2018"></a>Semana del 31 de diciembre de 2018
+
+
+| Publicado en |Título del tema | Cambio |
+|------|------------|--------|
+| 1/3/2019 | [Tamaños de descarga de las actualizaciones de Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | Fecha de modificación |
+| 1/3/2019 | [Notas de la versión para las versiones de Canal mensual en 2019](/OfficeUpdates/monthly-channel-2019) | agregado |
+| 1/3/2019 | [Historial de actualizaciones de Office 365 ProPlus (ordenado por fecha)](/OfficeUpdates/update-history-office365-proplus-by-date) | Fecha de modificación |
+| 4/1/2019 | [Tamaños de descarga de las actualizaciones de Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | Fecha de modificación |
