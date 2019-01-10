@@ -10,12 +10,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI un historial de actualizaciones para las versiones perpetuas de Office 2019 que usan Hacer clic y ejecutar.
-ms.openlocfilehash: 455b94312ee32139602ed925eb92f1389338f179
-ms.sourcegitcommit: 3a7ca9d5320f8d2b01d8ba7f0ee3b09dc41d2a7e
+ms.openlocfilehash: 7b4a0334bc9ad63c7fb28f8111cab157fb38ea08
+ms.sourcegitcommit: 19bde490bd56c4b49a6ed51d62a24048792bbf3b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "27770051"
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "27791648"
 ---
 # <a name="update-history-for-office-2019"></a>Historial de actualizaciones para Office 2019
 
@@ -37,7 +37,6 @@ Las versiones nuevas incluyen todas las actualizaciones de versiones anteriores.
 ## <a name="volume-licensed-versions-of-office-2019"></a>Versiones de licencia por volumen de Office de 2019
 La siguiente información se aplica a las versiones de licencia por volumen de Office 2019, como las de Office Profesional Plus 2019 adquiridas a través de un contrato de licencia de volumen.
 
-  
 |**Fecha de publicación**|**Número de versión**|**Más información**|
 |:-----|:-----|:-----|
 |8 de enero de 2019   |Versión 1808 (compilación 10340.20017)  |[CVE-2019-0541](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-0541) <br/> [CVE-2019-0559](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-0559) <br/> [CVE-2019-0560](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-0560) <br/> [CVE-2019-0561](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-0561) <br/> [CVE-2019-0585](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-0585) <br/> |
