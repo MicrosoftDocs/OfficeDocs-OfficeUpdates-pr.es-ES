@@ -3,19 +3,19 @@ title: Historial de actualizaciones de Office 365 ProPlus (ordenado por fecha)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/3/2019
+ms.date: 1/8/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista completa de las versiones de Office 365 ProPlus, organizada por fecha, con vínculos a las notas de la versión.
-ms.openlocfilehash: fb609e400e9c091545ee3a0ae7248a1046c3018b
-ms.sourcegitcommit: c678859ea543fb458e78de8dc43592159cc9c08b
+ms.openlocfilehash: 9bc0c8007bb551f1578eea1255a3e641e89fc510
+ms.sourcegitcommit: c61c91086d5d030946c9a1bfed0a3b5613fed14c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/04/2019
-ms.locfileid: "27525781"
+ms.lasthandoff: 01/11/2019
+ms.locfileid: "27801507"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Historial de actualizaciones de Office 365 ProPlus (ordenado por fecha)
 
@@ -31,10 +31,11 @@ En la tabla siguiente se muestra la versión compatible y el número de compilac
  
 |**Canal**|**Versión**|**Compilación**|**Fecha de publicación**|**Versión admitida hasta**|
 |:-----|:-----|:-----|:-----|:-----|
-|Mensual  <br/> |1812  <br/> |11126.20188<br/> | 3 de enero de 2019 <br/> |Se ha publicado la versión 1901 <br/>|
-|Semianual (dirigido)  <br/> |1808  <br/> |10730.20262 <br/> | 11 de diciembre 2018  <br/> | 12 de marzo de 2019 <br/>|
-|Semianual <br/> |1803  <br/> | 9126.2336<br/> | 11 de diciembre 2018 <br/> |  10 de septiembre de 2019 <br/>|
-|Semianual <br/> |1708  <br/> | 8431.2351  <br/> | 11 de diciembre 2018 <br/> |  12 de marzo de 2019 <br/>|
+|Mensual  <br/> |1812  <br/> |11126.20196 <br/> | 8 de enero de 2019 <br/> |Se ha publicado la versión 1901 <br/>|
+|Semianual (dirigido)  <br/> |1808  <br/> |10730.20264 <br/> |  8 de enero de 2019 <br/> | 12 de marzo de 2019 <br/>|
+|Semianual <br/> |1808  <br/> | 10730.20264<br/> | 8 de enero de 2019  <br/> |  10 de marzo de 2020 <br/>|
+|Semianual <br/> |1803  <br/> | 9126.2351  <br/> | 8 de enero de 2019  <br/> |  10 de septiembre de 2019 <br/>|
+|Semianual <br/> |1708  <br/> | 8431.2366  <br/> | 8 de enero de 2019  <br/> |  12 de marzo de 2019 <br/>|
 
 Para obtener información sobre los tamaños de descarga aproximados de las actualizaciones desde versiones anteriores de Office 365 ProPlus a la versión más reciente, vea [Tamaños de descarga de actualizaciones de Office 365 ProPlus](download-sizes-office365-proplus-updates.md).
 
@@ -44,6 +45,7 @@ En la tabla siguiente, se muestra una lista de los números de versión y compil
 
 |**Año**|**Fecha de publicación**|**Canal mensual**|**Canal semianual (dirigido)**|**Canal semianual**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|8 de enero |[Versión 1812 (compilación 11126.20196)](monthly-channel-2019.md#version-1812-january-8)|[Versión 1808 (compilación 10730.20264)](semi-annual-channel-targeted-2019.md#version-1808-january-8) |[Versión 1808 (compilación 10730.20264)](semi-annual-channel-2019.md#version-1808-january-8)  <br/>  [Versión 1803 (compilación 9126.2351)](semi-annual-channel-2019.md#version-1803-january-8)  <br/> [Versión 1708 (compilación 8431.2366)](office365-proplus-security-updates.md#january-8-2019) |
 |2019|3 de enero   |[Versión 1812 (compilación 11126.20188)](monthly-channel-2019.md#version-1812-january-3)| | |
 |2018|11 de diciembre |[Versión 1811 (compilación 11029.20108)](monthly-channel-2018.md#version-1811-december-11)|[Versión 1808 (compilación 10730.20262)](semi-annual-channel-targeted-2018.md#version-1808-december-11) |[Versión 1803 (compilación 9126.2336)](semi-annual-channel-2018.md#version-1803-december-11)  <br/>  [Versión 1708 (compilación 8431.2351)](semi-annual-channel-2018.md#version-1708-december-11)   |
 |2018|27 de noviembre   |[Versión 1811 (compilación 11029.20079)](monthly-channel-2018.md#version-1811-november-27)| | |
