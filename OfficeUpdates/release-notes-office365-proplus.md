@@ -33,8 +33,8 @@ Para obtener una lista completa de versiones, vea los siguientes artículos:
 
 Para obtener una lista completa de notas de la versión por canal y año de la actualización, vea los siguientes artículos:
  - Mensual: [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md), [2017](monthly-channel-2017.md), [2016](monthly-channel-2016.md), [2015](monthly-channel-2015.md)
- - Semianual (dirigido): [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md), [2017](semi-annual-channel-targeted-2017.md), [2016](semi-annual-channel-targeted-2016.md), [2015](semi-annual-channel-targeted-2015.md)
- - Semianual: [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md), [2017](semi-annual-channel-2017.md), [2016](semi-annual-channel-2016.md)
+ - semestral (dirigido): [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md), [2017](semi-annual-channel-targeted-2017.md), [2016](semi-annual-channel-targeted-2016.md), [2015](semi-annual-channel-targeted-2015.md)
+ - semestral: [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md), [2017](semi-annual-channel-2017.md), [2016](semi-annual-channel-2016.md)
 
 ## <a name="office-for-mac-release-information"></a>Información de versiones de Office para Mac
 
