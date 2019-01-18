@@ -3,19 +3,19 @@ title: Notas de la versión de Office para Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/14/2018
+ms.date: 01/16/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales de TI las notas de la versión de las versiones de Office para Mac para los suscriptores de Office 356
-ms.openlocfilehash: 99fef039dcc905c0d0e71df61941951f993570cc
-ms.sourcegitcommit: 6c090794632dc563050b8457ed2058dbe98791ea
+ms.openlocfilehash: b92a6a2af96d694576bcc4a51c31de0ba06b8140
+ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/14/2018
-ms.locfileid: "27279711"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "28325460"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de la versión de Office para Mac
 
@@ -33,6 +33,23 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 > - Los vínculos de descarga solo se proporcionan para las versiones más recientes.
 > - Microsoft AutoUpdate ofrece actualizaciones para distintos productos de Mac de Microsoft. Por tanto, es posible que reciba una notificación para actualizar Microsoft AutoUpdate, incluso si no está ejecutando Office para Mac.
 > - A menudo se lanzan características (y a veces incluso correcciones) para el canal mensual durante un período de tiempo. Esto nos permite asegurarnos de que todo funciona correctamente antes de publicar la característica para un público más amplio. Por tanto, si a continuación no ve algo descrito, no se preocupe, lo recibirá con el tiempo. [Más información](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
+## <a name="january-2019-release"></a>Versión de enero de 2019
+
+ **Fecha de lanzamiento:** 16 de enero de 2019 
+  
+ *Versión 16.21.0 (compilación 190101500)* 
+  
+En esta versión se incluyen las actualizaciones siguientes:
+
+|**Aplicación**|**Actualizaciones de características**|**Actualizaciones de seguridad**|**Vínculo de descarga para el paquete de actualización**|
+|:-----|:-----|:-----|
+|Word  <br/>| **Desde el iPhone a Word en un momento:** use la continuidad de cámara de Apple para insertar una foto desde su iPhone en el documento. Requiere macOS Mojave. [Más información](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> **Aplicar etiquetas de confidencialidad a los documentos**: aplique etiquetas de confidencialidad a sus documentos para que cumplan las directivas de protección de la información de su organización. [Más información](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>| [CVE-2019-0561](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-0561): vulnerabilidad de divulgación de información de Microsoft Word  <br/><br/> [CVE-2019-0585](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-0585): vulnerabilidad de la ejecución remota de código de Microsoft Word |[Paquete de actualización de Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011500_Updater.pkg) <br/>|
+|Excel  <br/>| **Colaborar con comentarios:** mantenga la conversación activa directamente en la hoja de cálculo con el cuadro de respuesta integrado. [Más información](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)<br/><br/> **Aplicar etiquetas de confidencialidad a las hojas de cálculo**: aplique etiquetas de confidencialidad a sus hojas de cálculo para que cumplan las directivas de protección de la información de su organización. [Más información](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/> | <br/><br/>  |[Paquete de actualización de Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19011500_Updater.pkg) <br/>|
+|PowerPoint  <br/>| **Imprimir números de diapositiva en documentos:** al imprimir una presentación en documentos, en cada diapositiva aparecerá el número de diapositiva correspondiente. <br/><br/> **Aplicar etiquetas de confidencialidad a las presentaciones**: aplique etiquetas de confidencialidad a sus presentaciones para que cumplan las directivas de protección de la información de su organización. [Más información](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/> | <br/>|[Paquete de actualización de PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.21.19011500_Updater.pkg) <br/>|
+|Outlook  <br/>| **Aplicar etiquetas de confidencialidad a los mensajes**: aplique etiquetas de confidencialidad a sus mensajes para que cumplan las directivas de protección de la información de su organización. [Más información](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>  ||[Paquete de actualización de Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg) <br/>|
+|Microsoft Auto Update 4.7 <br/>| Ahora se inicia el AutoUpdate Daemon como parte del proceso de instalación. Esto elimina los confusos cuadros de diálogo de seguridad que se mostraban anteriormente a los usuarios. <br/><br/> Se han mejorado las características de seguridad de Microsoft AutoUpdate para que sea compatible con los certificados SHA256. <br/>|<br/> | [Paquete de actualización de Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
+
 
 ## <a name="december-2018-release"></a>Versión de diciembre de 2018
 
