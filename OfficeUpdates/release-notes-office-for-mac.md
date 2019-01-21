@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales de TI las notas de la versión de las versiones de Office para Mac para los suscriptores de Office 356
-ms.openlocfilehash: b92a6a2af96d694576bcc4a51c31de0ba06b8140
-ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
+ms.openlocfilehash: 0bfbfe046a56b45c90653b90a9bc4db46dd2fe8f
+ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "28325460"
+ms.lasthandoff: 01/18/2019
+ms.locfileid: "28726713"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de la versión de Office para Mac
 
@@ -49,6 +49,9 @@ En esta versión se incluyen las actualizaciones siguientes:
 |PowerPoint  <br/>| **Imprimir números de diapositiva en documentos:** al imprimir una presentación en documentos, en cada diapositiva aparecerá el número de diapositiva correspondiente. <br/><br/> **Aplicar etiquetas de confidencialidad a las presentaciones**: aplique etiquetas de confidencialidad a sus presentaciones para que cumplan las directivas de protección de la información de su organización. [Más información](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/> | <br/>|[Paquete de actualización de PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.21.19011500_Updater.pkg) <br/>|
 |Outlook  <br/>| **Aplicar etiquetas de confidencialidad a los mensajes**: aplique etiquetas de confidencialidad a sus mensajes para que cumplan las directivas de protección de la información de su organización. [Más información](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>  ||[Paquete de actualización de Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg) <br/>|
 |Microsoft Auto Update 4.7 <br/>| Ahora se inicia el AutoUpdate Daemon como parte del proceso de instalación. Esto elimina los confusos cuadros de diálogo de seguridad que se mostraban anteriormente a los usuarios. <br/><br/> Se han mejorado las características de seguridad de Microsoft AutoUpdate para que sea compatible con los certificados SHA256. <br/>|<br/> | [Paquete de actualización de Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
+
+> [!NOTE]
+> Desde la versión 16.21, Microsoft Teams se instalará de forma predeterminada para ***nuevos*** paquetes de instalación. Para obtener más información, vea [Instalaciones de Microsoft Teams en Mac](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac).  
 
 
 ## <a name="december-2018-release"></a>Versión de diciembre de 2018
