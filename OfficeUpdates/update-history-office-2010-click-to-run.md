@@ -3,19 +3,19 @@ title: Historial de actualizaciones de productos de Office 2010 Click-to-Run
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 11/13/2018
+ms.date: 01/09/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Proporciona los profesionales de TI con un historial de actualización para perpetua, versiones de Office 2010 que usan Click-to-Run
-ms.openlocfilehash: a13085d71336e28d919e9d0097320afa6ebe67df
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: e0bae21f1bc795ab1e7e70f8b93784db2eed677b
+ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241391"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "27770161"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Historial de actualizaciones de productos de Office 2010 Click-to-Run
 
@@ -30,7 +30,7 @@ Los siguientes productos de Office 2010 se mantienen actualizados automáticamen
 Si está utilizando uno de estos productos, y que le gustaría comprobar que está actualizado, compruebe su número de versión de Office y Office si es necesario para actualizar manualmente.
   
 > [!NOTE]
-> La versión más reciente de Office 2010 es **14.0.7224.5000**, que se lanzó en el 13 de noviembre de 2018. 
+> La versión más reciente de Office 2010 es **14.0.7228.5000**, que se lanzó en 8 de enero de 2019. 
   
 Para comprobar su versión de Office, siga estos pasos:
   
@@ -54,6 +54,7 @@ Las versiones nuevas incluyen todas las actualizaciones de versiones anteriores.
   
 |**Año de publicación**|**Fecha de publicación**|**Número de versión**|**Más información**|
 |:-----|:-----|:-----|:-----|
+|2019|8 de enero  <br/> |14.0.7228.5000  <br/> |[KB 4484800](https://support.microsoft.com/en-us/help/4484800) <br/> |
 |2018|13 de noviembre  <br/> |14.0.7224.5000  <br/> |[KB 4469617](https://support.microsoft.com/en-us/help/4469617) <br/> |
 ||9 de octubre  <br/> |14.0.7214.5000  <br/> |[KB 4464656](https://support.microsoft.com/en-us/help/4464656) <br/> |
 | |11 de septiembre  <br/> |14.0.7213.5000  <br/> |[KB 4459402](https://support.microsoft.com/en-us/help/4459402) <br/> |

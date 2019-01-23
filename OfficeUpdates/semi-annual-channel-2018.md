@@ -3,19 +3,19 @@ title: Notas de la versión para las versiones de Canal semianual en 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/11/2018
+ms.date: 12/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual de Office 365 ProPlus en 2018.
-ms.openlocfilehash: ff46d626dc9c767e19da8e1a5bfacf7522c54b27
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: d7b404c7485bb526ae9cd153a5ebe9e012a6502a
+ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241501"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "27264121"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>Notas de la versión para las versiones de Canal semianual en 2018
 
@@ -48,7 +48,7 @@ En estas notas de la versión, se proporciona información sobre característica
 -   [CVE-2018-8628](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8628): Vulnerabilidad de la ejecución remota de código de Microsoft PowerPoint 
 
 
-### <a name="outlook-non-secirity-updates"></a>Outlook: Actualizaciones no relacionadas con la seguridad
+### <a name="outlook-non-security-updates"></a>Outlook: actualizaciones no relacionadas con la seguridad
 
 - Corregido un problema que hacía que Outlook se cerrase inesperadamente al actualizar determinados campos de contactos.
 - Soluciona un problema que hacía que los usuarios viesen un error al iniciar el cuadro de diálogo "Administrar reglas y alertas".
@@ -75,7 +75,7 @@ En estas notas de la versión, se proporciona información sobre característica
 
 -   [CVE-2018-8628](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8628): Vulnerabilidad de la ejecución remota de código de Microsoft PowerPoint 
 
-### <a name="outlook-non-secirity-updates"></a>Outlook: Actualizaciones no relacionadas con la seguridad
+### <a name="outlook-non-security-updates"></a>Outlook: actualizaciones no relacionadas con la seguridad
 
 - Corregido un problema que hacía que Outlook se cerrase inesperadamente al actualizar determinados campos de contactos.
 - Soluciona un problema que hacía que los usuarios viesen un error al iniciar el cuadro de diálogo "Administrar reglas y alertas".
