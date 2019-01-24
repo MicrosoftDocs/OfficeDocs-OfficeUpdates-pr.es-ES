@@ -3,19 +3,19 @@ title: Notas de la versión para las versiones de Canal mensual en 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/03/2019
+ms.date: 01/17/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2019
-ms.openlocfilehash: 7162611e9e525c7ee33ca23e9bd7f7f44712b51a
-ms.sourcegitcommit: c678859ea543fb458e78de8dc43592159cc9c08b
+ms.openlocfilehash: 790e984241f228ced8caf7ba00cf45aa0aef6dd0
+ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/04/2019
-ms.locfileid: "27724929"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "28723133"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal mensual en 2019
 
@@ -29,11 +29,14 @@ En estas notas de la versión, se proporciona información sobre característica
  > [!NOTE]
 > - La información sobre las actualizaciones de seguridad de cada canal de actualización de Office 365 ProPlus se empezará a mostrar por separado en [Actualizaciones de seguridad](office365-proplus-security-updates.md). 
 
+## <a name="version-1812-january-8"></a>Versión 1812: 8 de enero
+*Versión 1812 (compilación 11126.20196)* 
+
+### <a name="project-non-security-updates"></a>Project: actualizaciones no relacionadas con la seguridad
+- Se ha corregido un error que no dejaba desactivar los estilos de barra Tareas críticas, Demora y Tareas retrasadas para el Diagrama de Gantt después de activar uno de ellos.
+
 ## <a name="version-1812-january-3"></a>Versión 1812: 3 de enero
 *Versión 1812 (compilación 11126.20188)* 
-
-### <a name="access-feature-updates"></a>Access: actualizaciones de características
-- **Saque más de Microsoft Graph:** importe o vincule a datos inteligentes y reinvente la base de datos del escritorio con tecnología inteligente. [Más información](https://support.office.com/article/448d8bf1-0f54-46c4-91bc-490d5ebfdadd)
 
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
 
@@ -61,3 +64,5 @@ En estas notas de la versión, se proporciona información sobre característica
 
 
 
+> [!NOTE]
+> Si necesita ayuda con algún problema de uso de Office, le recomendamos que publique la pregunta en el [foro de preguntas de Microsoft](https://answers.microsoft.com/) o [Tech Community](https://techcommunity.microsoft.com/), o bien puede ponerse en contacto con el [servicio de soporte técnico](https://support.microsoft.com/contactus).
