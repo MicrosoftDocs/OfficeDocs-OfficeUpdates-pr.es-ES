@@ -3,19 +3,19 @@ title: Notas de la versión para las versiones de Canal semianual (dirigido) en 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/11/2018
+ms.date: 12/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual (dirigido) de Office 365 ProPlus en 2018.
-ms.openlocfilehash: 86d500a64c2d4cf56ffa3562a5eb2eccc7e4844b
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: 0a1b2bece50e0ff9b7c4bfe825881a0ecae8cd46
+ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241521"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "27258506"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>Notas de la versión para las versiones de Canal semianual (dirigido) en 2018
 
@@ -54,17 +54,17 @@ En estas notas de la versión, se proporciona información sobre característica
 - Corregido un posible bloqueo al crear varias segmentaciones de tabla enlazadas a la misma columna de datos y, después, eliminar la columna de datos.
 - Corregido un problema por el que Excel a veces podía bloquearse al actualizar una tabla de consulta filtrada que contenía texto ajustado en celdas cuando la opción para ajustar automáticamente el ancho de columna estaba desactivada.
 - Corregido un problema por el que las segmentaciones guardadas en Excel 2007 pueden desencadenar un bloqueo cuando se abren en versiones más recientes de Excel si cambia el número de elementos que se muestra en la segmentación.
-- Corregido un problema que provocaba que los usuarios experimentasen bloqueos al abrir la carpeta Historial de conversaciones.
 - Introduce la compatibilidad con el botón Obtener diagnósticos para simplificar la investigación de solicitudes de soporte.
 
-### <a name="outlook-non-secirity-updates"></a>Outlook: Actualizaciones no relacionadas con la seguridad
+### <a name="outlook-non-security-updates"></a>Outlook: actualizaciones no relacionadas con la seguridad
 
-- Corregido un problema que hacía que los usuarios viesen un error al iniciar el cuadro de diálogo "Administrar reglas y alertas".
+- Se ha corregido un problema por el que a los usuarios les daba un error al iniciar el cuadro de diálogo "Administrar reglas y alertas".
 - Corregido un problema que provocaba que los usuarios no pudiesen conectarse a sus buzones a través de DirectAccess al usar una conexión de uso medido.
 - Corregido un problema que causaba que los usuarios viesen documentos desprotegidos almacenados en carpetas públicas abrirse de forma errónea en "Vista protegida".
 - Corregido un problema que provocaba que los usuarios viesen datos adjuntos inesperados al reenviar elementos con datos adjuntos en línea.
 - Corregido un problema que provocaba que los archivos OFT no se representasen correctamente después de enviarlos como datos adjuntos.
-- Corregido un problema que provocaba que algunos usuarios de complementos experimentasen bloqueos al agregar una reunión a un calendario compartido.
+- Se ha corregido un problema que provocaba bloqueos cuando algunos usuarios de complementos agregaban una reunión a un calendario compartido.
+- Se ha corregido un problema por el que el programa dejaba de responder al abrir la carpeta Historial de conversaciones.
 
 ### <a name="project-non-security-updates"></a>Project: Actualizaciones no relacionadas con la seguridad
 

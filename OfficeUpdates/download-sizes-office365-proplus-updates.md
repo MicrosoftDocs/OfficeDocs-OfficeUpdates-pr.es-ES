@@ -3,19 +3,19 @@ title: Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/04/2019
+ms.date: 01/23/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Office 365 ProPlus según el canal de actualización.
-ms.openlocfilehash: 30e3215285589e1e576ab79efad70dd425585923
-ms.sourcegitcommit: 37c86e1ba884e8750c7376862b6b1d0151e62921
+ms.openlocfilehash: d65d738bdfd0f1a36cf2f09cdb4f1d9935099409
+ms.sourcegitcommit: 90b289350fc88e9f753464991feaa1c4c09b82c1
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/04/2019
-ms.locfileid: "27733117"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29442086"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 
@@ -36,11 +36,22 @@ Para obtener información sobre las características, las actualizaciones de seg
 > - En las tablas solo aparecen las versiones anteriores más recientes. Si va a realizar la actualización desde una versión más antigua, el tamaño de descarga será mayor.
 > - Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal semianual, el tamaño de actualización será considerablemente mayor que el que se muestra en la tabla, ya que puede comportar una descarga completa, con un mínimo de 1 GB. 
 
+## <a name="january-14-2019"></a>14 de enero de 2019
+
+### <a name="monthly-channel"></a>Canal mensual
+
+La versión más actual es la 1812 (compilación 11126.20266). 
+  
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1812 (compilación 11126.20188)  <br/> |3 de enero de 2019  <br/> | Por determinar<br/> |
+|Versión 1812 (compilación 11126.20196)  <br/> |8 de enero de 2019 <br/> |Por determinar<br/> |
+
 ## <a name="january-8-2019"></a>8 de enero de 2019
 
 ### <a name="monthly-channel"></a>Canal mensual
 
-La versión esperada es la 1812 (compilación 11126.20196). 
+La versión más actual es la 1812 (compilación 11126.20196). 
   
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
@@ -49,7 +60,7 @@ La versión esperada es la 1812 (compilación 11126.20196).
 
 ### <a name="semi-annual-channel"></a>Canal semianual
 
-La versión esperada es la 1808 (compilación 10730.20264).
+La versión más actual es la 1808 (compilación 10730.20264)
 
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
@@ -58,7 +69,7 @@ La versión esperada es la 1808 (compilación 10730.20264).
   
 ### <a name="semi-annual-channel-targeted"></a>Canal semianual (dirigido)
 
-La versión esperada es la 1808 (compilación 10730.20264).
+La versión más actual es la 1808 (compilación 10730.20264).
   
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
