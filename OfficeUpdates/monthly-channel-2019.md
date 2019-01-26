@@ -3,19 +3,19 @@ title: Notas de la versión para las versiones de Canal mensual en 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/17/2019
+ms.date: 01/23/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2019
-ms.openlocfilehash: 790e984241f228ced8caf7ba00cf45aa0aef6dd0
-ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
+ms.openlocfilehash: 9ea61602012e64525ef3e7c1a862c156597c4aa3
+ms.sourcegitcommit: 90b289350fc88e9f753464991feaa1c4c09b82c1
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "28723133"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29442066"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal mensual en 2019
 
@@ -28,6 +28,12 @@ En estas notas de la versión, se proporciona información sobre característica
 
  > [!NOTE]
 > - La información sobre las actualizaciones de seguridad de cada canal de actualización de Office 365 ProPlus se empezará a mostrar por separado en [Actualizaciones de seguridad](office365-proplus-security-updates.md). 
+
+## <a name="version-1812-january-14"></a>Versión 1812: 14 de enero
+*Versión 1812 (compilación 11126.20266)* 
+
+Solo actualizaciones no relacionadas con la seguridad. Más información próximamente.
+
 
 ## <a name="version-1812-january-8"></a>Versión 1812: 8 de enero
 *Versión 1812 (compilación 11126.20196)* 
