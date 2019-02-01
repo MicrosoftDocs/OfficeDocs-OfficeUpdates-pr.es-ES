@@ -3,19 +3,19 @@ title: Notas de la versión para las versiones de Canal mensual en 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/24/2019
+ms.date: 01/31/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2019
-ms.openlocfilehash: a49be8a79deb7b44c24411b17532f1b85d9760d3
-ms.sourcegitcommit: 17dbbdb71de9317f8a692128f49386123846393c
+ms.openlocfilehash: 3d3d89e04afc5b1db95e740c5064173bb5e465c2
+ms.sourcegitcommit: f9a57be62ba54fec2bf99224ac02b3d279867844
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/25/2019
-ms.locfileid: "29530255"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29690682"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal mensual en 2019
 
@@ -29,11 +29,30 @@ En estas notas de la versión, se proporciona información sobre característica
  > [!NOTE]
 > - La información sobre las actualizaciones de seguridad de cada canal de actualización de Office 365 ProPlus se empezará a mostrar por separado en [Actualizaciones de seguridad](office365-proplus-security-updates.md). 
 
+## <a name="version-1901-january-31"></a>Versión 1901: 31 de enero
+*Versión 1901 (compilación 11231.20130)* 
+
+### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
+
+- **Colaborar con comentarios:** mantenga la conversación activa directamente en la hoja de cálculo con el cuadro de respuesta integrado. [Más información](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)
+
+### <a name="outlook-feature-updates"></a>Outlook: actualizaciones de características
+
+- **Verán los memes que comparta:** cuando un texto o imágenes estáticas no consigan comunicar lo que desea, use un GIF animado para aclararlo. [Más información](https://support.office.com/article/114BB251-861F-41CD-B20F-7E7289630C5B)
+ 
+### <a name="visio-feature-updates"></a>Visio: actualizaciones de características
+
+- **Galerías de símbolos integradas en Azure:** diseñe una aplicación de nube o planee una arquitectura con las múltiples galerías de símbolos de Azure. [Más información](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+
+### <a name="office-suite-feature-updates"></a>Conjunto de aplicaciones de Office: actualizaciones de características
+
+- **Ahora, las aplicaciones de terceros de Office son compatibles con la inserción de SVG a través de la API office.js:** las aplicaciones de terceros, también conocidas como complementos de Office, ahora tienen la capacidad de insertar SVG. Ahora los usuarios pueden conectar a Office su colección personal de SVG. Los desarrolladores pueden usar esta característica mediante la API Office.js.
+
+
 ## <a name="version-1812-january-14"></a>Versión 1812: 14 de enero
 *Versión 1812 (compilación 11126.20266)* 
 
 Solo actualizaciones no relacionadas con la seguridad, soluciones a problemas de rendimiento.
-
 
 ## <a name="version-1812-january-8"></a>Versión 1812: 8 de enero
 *Versión 1812 (compilación 11126.20196)* 
