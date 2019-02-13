@@ -3,19 +3,19 @@ title: Notas de la versión para las versiones de Canal semianual en 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/29/2019
+ms.date: 02/12/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual de Office 365 ProPlus en 2019.
-ms.openlocfilehash: f63a635d72c11c940f295fe05be2ac12ed58a2d5
-ms.sourcegitcommit: f9a57be62ba54fec2bf99224ac02b3d279867844
+ms.openlocfilehash: 1290a8938e6d6308d2f59be900dd6d4e49105fd9
+ms.sourcegitcommit: 659d2bbb04f8ccfc7e03a9a23758e3feed9d5075
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29690732"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29954062"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal semianual en 2019
 
@@ -28,6 +28,68 @@ En estas notas de la versión, se proporciona información sobre característica
 
 > [!NOTE]
 > - La información sobre las actualizaciones de seguridad de cada canal de actualización de Office 365 ProPlus se empezará a mostrar por separado en [Actualizaciones de seguridad](office365-proplus-security-updates.md).
+> - OneNote 2016 no se incluirá de forma predeterminada cuando un usuario en el canal semianual descargue e instale Office 365 en Windows 10 desde el Portal de Office.
+
+## <a name="version-1808-february-12"></a>Versión 1808: 12 de febrero
+*Versión 1808 (compilación 10730.20280)*
+
+### <a name="access-non-security-updates"></a>Access: Actualizaciones no relacionadas con la seguridad 
+
+- Esta actualización agrega compatibilidad con las nuevas eras japonesas en Access.
+
+### <a name="outlook-non-security-updates"></a>Outlook: actualizaciones no relacionadas con la seguridad 
+
+- Soluciona un problema que provocaba que los usuarios con reglas que hacen referencia a una carpeta que ya no existe experimentasen dos problemas: 1. Un error al intentar administrar reglas y 2. Las reglas del lado cliente no se ejecutan.
+- Soluciona un problema que provocaba que los usuarios con buzones delegados en caché sufran bloqueos frecuentes en intervalos imprevisibles.
+- Soluciona un problema que causaba que todas las reuniones de día entero aparezcan un día más de lo previsto en algunas vistas debido a que la hora de finalización de la reunión se establece en la medianoche del día siguiente.
+- Corregido un bloqueo al crear citas o reuniones que hacen referencia a eras japonesas.
+
+### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones no relacionadas con la seguridad
+
+- Corregido el problema por el que los complementos implementados con la [implementación centralizada de Office O365](https://docs.microsoft.com/es-ES/office/dev/add-ins/publish/centralized-deployment) se bloqueaban y no se podían usar.
+
+
+## <a name="version-1803-february-12"></a>Versión 1803: 12 de febrero
+*Versión 1803 (compilación 9126.2356)*
+
+*Esta es la versión del Canal semianual que ha estado disponible desde julio de 2018. Seguirá recibiendo soporte técnico y actualizaciones de seguridad hasta septiembre de 2019. Pero ahora está disponible una nueva versión del Canal semianual (versión 1808, compilación 10730.20280), que contiene nuevas características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad.*
+
+### <a name="access-non-security-updates"></a>Access: Actualizaciones no relacionadas con la seguridad 
+
+- Esta actualización agrega compatibilidad con las nuevas eras japonesas en Access.
+
+### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad 
+
+- Esta actualización agrega compatibilidad con las nuevas eras japonesas en Excel.
+
+### <a name="outlook-non-security-updates"></a>Outlook: actualizaciones no relacionadas con la seguridad
+
+- Corregido un bloqueo al crear citas o reuniones que hacen referencia a eras japonesas.
+
+### <a name="project-non-security-updates"></a>Project: actualizaciones no relacionadas con la seguridad
+- Esta actualización agrega compatibilidad con las nuevas eras japonesas en Project.
+
+### <a name="word-non-security-updates"></a>Word: actualizaciones no relacionadas con la seguridad
+
+- Esta actualización agrega compatibilidad con las nuevas eras japonesas en Word.
+
+### <a name="visio-non-security-updates"></a>Visio: Actualizaciones no relacionadas con la seguridad
+
+- Esta actualización agrega compatibilidad con las nuevas eras japonesas en Visio.
+
+### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones no relacionadas con la seguridad
+
+- Corregido el problema por el que los complementos implementados con la [implementación centralizada de Office O365](https://docs.microsoft.com/es-ES/office/dev/add-ins/publish/centralized-deployment) se bloqueaban y no se podían usar.
+
+## <a name="version-1708-february-12"></a>Versión 1708: 12 de febrero
+*Versión 1708 (compilación 8431.2372)*
+
+*Esta es la versión del Canal semianual que ha estado disponible desde enero de 2018. Seguirá recibiendo soporte técnico y actualizaciones de seguridad hasta marzo de 2019. Pero ahora hay disponible una nueva versión del Canal semianual (versión 1808, compilación 10730.20280), que contiene nuevas características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad.*
+
+### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones no relacionadas con la seguridad
+
+- Corregido el problema por el que los complementos implementados con la [implementación centralizada de Office O365](https://docs.microsoft.com/es-ES/office/dev/add-ins/publish/centralized-deployment) se bloqueaban y no se podían usar.
+
 
 ## <a name="version-1808-january-8"></a>Versión 1808: 8 de enero
 *Versión 1808 (compilación 10730.20264)*
@@ -35,7 +97,6 @@ En estas notas de la versión, se proporciona información sobre característica
 ### <a name="access-feature-updates"></a>Access: actualizaciones de características
 
  - **Visualizar datos con nuevos gráficos:** elija entre 11 gráficos y agregue uno a los formularios e informes para visualizar mejor los datos y tomar decisiones fundamentadas. [Más información](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
-
 
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
  - **Edición colaborativa:** Trabajar con otras personas al mismo tiempo en el libro. [Más información](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
