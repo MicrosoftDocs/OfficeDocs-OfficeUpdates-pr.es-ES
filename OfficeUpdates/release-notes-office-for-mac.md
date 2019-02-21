@@ -1,21 +1,21 @@
 ---
 title: Notas de la versión de Office para Mac
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 01/24/2019
+ms.date: 2/12/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales de TI las notas de la versión de las versiones de Office para Mac para los suscriptores de Office 356
-ms.openlocfilehash: f8b981f23c1d18c9f7da435d95314844a1ab4165
-ms.sourcegitcommit: 17dbbdb71de9317f8a692128f49386123846393c
+ms.openlocfilehash: ff9655bce5ea379f9164c249f8d17c17c27b61da
+ms.sourcegitcommit: 7c98e6f5ca63da673f6c86b348ab620d351018b2
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/25/2019
-ms.locfileid: "29530295"
+ms.lasthandoff: 02/19/2019
+ms.locfileid: "29954102"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de la versión de Office para Mac
 
@@ -33,6 +33,23 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 > - Los vínculos de descarga solo se proporcionan para las versiones más recientes.
 > - Microsoft AutoUpdate ofrece actualizaciones para distintos productos de Mac de Microsoft. Por tanto, es posible que reciba una notificación para actualizar Microsoft AutoUpdate, incluso si no está ejecutando Office para Mac.
 > - A menudo se lanzan características (y a veces incluso correcciones) para el canal mensual durante un período de tiempo. Esto nos permite asegurarnos de que todo funciona correctamente antes de publicar la característica para un público más amplio. Por tanto, si a continuación no ve algo descrito, no se preocupe, lo recibirá con el tiempo. [Más información](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
+## <a name="february-2019-release"></a>Versión de febrero de 2019
+
+ **Fecha de lanzamiento:** 12 de febrero de 2019 
+  
+ *Versión 16.22.0 (compilación 19021100)*
+
+ En esta versión se incluyen las actualizaciones siguientes:
+
+|**Aplicación**|**Actualizaciones de características**|**Actualizaciones de seguridad**|**Vínculo de descarga para el paquete de actualización**|
+|:-----|:-----|:-----|
+|Word  <br/>| **Hacer esbozos con el panel táctil:** Mueva el dedo en el panel táctil y vea la entrada de lápiz fluir por la pantalla. [Más información](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/> | |[Paquete de actualización de Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.22.19021100_Updater.pkg) <br/>|
+|Excel  <br/>| **Hacer esbozos con el panel táctil:** Mueva el dedo en el panel táctil y vea la entrada de lápiz fluir por la pantalla. [Más información](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>  | [CVE-2019-0669](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-0669) <br/><br/>  |[Paquete de actualización de Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.22.19021100_Updater.pkg) <br/>|
+|PowerPoint  <br/>| **Hacer esbozos con el panel táctil:** Mueva el dedo en el panel táctil y vea la entrada de lápiz fluir por la pantalla. [Más información](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/> | <br/>|[Paquete de actualización de PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.22.19021100_Updater.pkg) <br/>|
+|Outlook  <br/>|  <br/><br/>  ||[Paquete de actualización de Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.22.19021100_Updater.pkg) <br/>|
+|Microsoft Auto Update 4.7 <br/>| <br/>|<br/> | [Paquete de actualización de Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
+
 
 ## <a name="january-2019-release"></a>Versión de enero de 2019
 
