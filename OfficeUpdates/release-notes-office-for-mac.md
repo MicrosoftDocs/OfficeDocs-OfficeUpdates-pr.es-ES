@@ -3,19 +3,19 @@ title: Notas de la versión de Office para Mac
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 2/12/2019
+ms.date: 2/20/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales de TI las notas de la versión de las versiones de Office para Mac para los suscriptores de Office 356
-ms.openlocfilehash: ff9655bce5ea379f9164c249f8d17c17c27b61da
-ms.sourcegitcommit: 7c98e6f5ca63da673f6c86b348ab620d351018b2
+ms.openlocfilehash: 76bb531d3d1ade277ee81256407cfeefdac4ac4b
+ms.sourcegitcommit: cbf28ac3d54fe873f17d57e40714c2647bd4363a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "29954102"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "30128126"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de la versión de Office para Mac
 
@@ -36,7 +36,18 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
 ## <a name="february-2019-release"></a>Versión de febrero de 2019
 
- **Fecha de lanzamiento:** 12 de febrero de 2019 
+**Fecha de lanzamiento:** 20 de febrero de 2019 
+  
+ *Versión 16.22.1 (compilación 19022000)*
+
+ En esta versión se incluyen las actualizaciones siguientes:
+
+|**Aplicación**|**Actualizaciones de características**|**Actualizaciones de seguridad**|**Vínculo de descarga para el paquete de actualización**|
+|:-----|:-----|:-----|
+|Outlook  <br/>| Se ha corregido un problema con la autenticación de cuentas de Google.<br/><br/> Se ha corregido un problema con la sincronización de calendario. <br/>  | |[Paquete de actualización de Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.22.19022000_Updater.pkg) <br/>|
+ 
+
+**Fecha de lanzamiento:** 12 de febrero de 2019 
   
  *Versión 16.22.0 (compilación 19021100)*
 
