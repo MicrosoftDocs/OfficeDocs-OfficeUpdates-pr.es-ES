@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a participantes del programa Insider el historial de actualizaciones de los lanzamientos del canal mensual de Office (dirigido) para versiones de escritorio de Windows
-ms.openlocfilehash: 54adf02c6a6955501988011fccfb505b55efeeb5
-ms.sourcegitcommit: f681559832b0ed0c65ba450ddf2c735c6ac33e90
+ms.openlocfilehash: 38dfeb237f513a1e8473c13f2bca43bb7034286d
+ms.sourcegitcommit: a5af28fd94e1c4fc54b4ce745ee3271e25c994bc
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210502"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30247712"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Historial de actualizaciones del canal mensual de Office (dirigido) para Windows
 
@@ -24,6 +24,8 @@ Hola, participantes de Insider. Si os estáis preguntando si tenéis instalada l
 ## <a name="office-insider-versions-and-builds"></a>Compilaciones y versiones de office Insider
 
 Si está inscrito en el nivel del canal mensual (dirigido), anteriormente denominado Modo aplazado de Insider, obtendrá una nueva actualización de características de Office aproximadamente una vez al mes, además de las compilaciones subsiguientes que contengan correcciones importantes o actualizaciones de seguridad. La siguiente lista muestra versiones y compilaciones recientes del canal mensual (dirigido), con **la compilación publicada más recientemente en primer lugar**. Las compilaciones nuevas incluyen todas las actualizaciones de compilaciones anteriores. Para obtener las notas de la versión, vea [Novedades para participantes de Office Insider](https://support.office.com/es-ES/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
+
+**25 de febrero de 2019**<br/> Versión 1902 (compilación 11328.20116)<br/>
 
 **21 de febrero de 2019**<br/> Versión 1902 (compilación 11328.20100)<br/>
 
