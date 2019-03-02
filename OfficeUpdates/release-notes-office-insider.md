@@ -1,12 +1,44 @@
 ---
-title: "Notas de la versión de Office Insiders" MS. Author: andrewmo Author: mikho Manager: andrewmo ms. Date: 2/15/2019 ms. Audience: Win32 Fast ms. topic: referencia ms. Service: o365-ProPlus-localization_priority: Critical ms. Collection: RelNotes_ProPlus Description: "proporciona una audiencia rápida de Insiders con la lista más reciente de nuevas características clave, correcciones o problemas conocidos
+title: "Notas de la versión de Office Insiders" MS. Author: andrewmo Author: mikho Manager: andrewmo ms. Date: 3/1/2019 ms. Audience: Win32 Fast ms. topic: referencia ms. Service: o365-ProPlus-localization_priority: Critical ms. Collection: RelNotes_ProPlus Description: "proporciona una audiencia rápida de Insiders con la lista más reciente de nuevas características clave, correcciones o problemas conocidos
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión para Office Insiders
 
 Este artículo contiene las notas de la versión para las versiones inSider de Word, Excel, PowerPoint, Outlook, Access y Project para el escritorio de Windows. Cada semana, resaltaremos las nuevas características interesantes, las correcciones importantes y cualquier problema importante que quiera conocer. Tenga en cuenta que a menudo implementamos características (y a veces incluso correcciones) en Insiders durante un período de tiempo. Esto nos permite garantizar que los elementos funcionan sin problemas antes de publicar la característica para una audiencia más amplia. Por lo tanto, si no ve algo que se describe a continuación, no se preocupe si lo consigue.  
 
-## <a name="february-12-2019-version-1902-build-1133020014"></a>Febrero de 12 2019 versión 1902 (compilación 11330,20014)
+## <a name="february-25-2019-version-1903-build-1133020014"></a>25 de febrero de 2019 versión 1903 (compilación 11330,20014)
+
+
+## <a name="notable-fixes"></a>Revisiones más importantes:
+
+### <a name="word"></a>Word 
+- Se ha corregido un problema que se producía al presionar "ESC" mientras estaba en las opciones
+- Se ha corregido un problema con Copy & Paste from Word to PowerPoint online
+
+### <a name="excel"></a>Excel
+- Se ha corregido un problema por el que, al copiar una celda en Excel, se producía un uso intensivo de la CPU cuando se abría un documento protegido y un documento editable
+
+### <a name="powerpoint"></a>PowerPoint
+- Se ha corregido un problema con el tamaño de la imagen de diapositiva al usar @Mentions en PowerPoint
+
+### <a name="outlook"></a>Outlook
+- Se ha corregido un problema por el que la búsqueda de Outlook no respetaba la ordenación cronológica seleccionada
+- Se ha corregido un problema por el que el botón de la cinta de flujo de trabajo "abrir esta tarea" no respondía a determinados correos electrónicos
+- Se ha corregido un problema por el que Outlook no borraba las salas locales después de que los usuarios seleccionaban un salón disponible en el buscador de salas
+
+### <a name="access"></a>Acceder
+- Se actualizó el texto del mensaje que se muestra al confirmar las tablas de revinculación con un origen de datos.
+- Se ha corregido el cuadro de diálogo de importación/exportación guardado que tenía el texto blanco sobre fondo blanco en el tema oscuro
+- Se ha corregido un problema por el que los usuarios no podían establecer la propiedad de control de pantalla de un campo sí/no en cuadro de texto en el diseño de tabla.
+
+### <a name="project"></a>Project
+- Varias correcciones de rendimiento y estabilidad
+
+</BR></BR>
+
+
+
+## <a name="february-12-2019-version-1903-build-1133020014"></a>Febrero de 12 2019 versión 1903 (compilación 11330,20014)
 
 ## <a name="whats-new"></a>Novedades:
 
@@ -73,6 +105,7 @@ Use Morph de la misma manera que lo haría con tablas
 El nuevo administrador de cuentas muestra todas sus cuentas personales y laborales en un solo punto y le permite cambiar de un control a otro. Esta experiencia actualizada indica cómo ha iniciado sesión y ahora puede alternar entre las cuentas de trabajo y personales sin tener que cerrar sesión primero o trabajar con cuadros de diálogo complejos.
 
 
+![MeMock. png](Images/MeMock.png)
 
 #### <a name="scenarios-to-try"></a>Escenarios para probar:
 - Cambiar entre cuentas
@@ -103,7 +136,7 @@ El nuevo administrador de cuentas muestra todas sus cuentas personales y laboral
 
 
 </BR></BR>
-## <a name="february-9-2019-version-1902-build-1133020014"></a>Febrero de 9 2019 versión 1902 (compilación 11330,20014)
+## <a name="february-9-2019-version-1903-build-1133020014"></a>Febrero de 9 2019 versión 1903 (compilación 11330,20014)
 
 
 ## <a name="notable-fixes"></a>Revisiones más importantes:
