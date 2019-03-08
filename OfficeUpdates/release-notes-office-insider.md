@@ -1,12 +1,17 @@
 ---
-title: "Notas de la versión de Office Insiders" MS. Author: andrewmo Author: mikho Manager: andrewmo ms. Date: 3/1/2019 ms. Audience: Win32 Fast ms. topic: referencia ms. Service: o365-ProPlus-localization_priority: Critical ms. Collection: RelNotes_ProPlus Description: "proporciona una audiencia rápida de Insiders con la lista más reciente de nuevas características clave, correcciones o problemas conocidos
+title: "Notas de la versión de Office Insiders" MS. Author: andrewmo Author: mikho Manager: andrewmo ms. Date: 3/07/2019 ms. Audience: Win32 Fast ms. topic: referencia ms. Service: o365-ProPlus-localization_priority: Critical ms. Collection: RelNotes_ProPlus Description: "proporciona una audiencia rápida de Insiders con la lista más reciente de nuevas características clave, correcciones o problemas conocidos
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión para Office Insiders
 
-Este artículo contiene las notas de la versión para las versiones inSider de Word, Excel, PowerPoint, Outlook, Access y Project para el escritorio de Windows. Cada semana, resaltaremos las nuevas características interesantes, las correcciones importantes y cualquier problema importante que quiera conocer. Tenga en cuenta que a menudo implementamos características (y a veces incluso correcciones) en Insiders durante un período de tiempo. Esto nos permite garantizar que los elementos funcionan sin problemas antes de publicar la característica para una audiencia más amplia. Por lo tanto, si no ve algo que se describe a continuación, no se preocupe si lo consigue.  
+Este artículo contiene las notas de la versión para las versiones inSider de Word, Excel, PowerPoint, Outlook, Access y Project para el escritorio de Windows. Cada semana, resaltaremos las nuevas características interesantes, las correcciones importantes y cualquier problema importante que quiera conocer. Tenga en cuenta que a menudo implementamos características (y a veces incluso correcciones) en Insiders durante un período de tiempo. Esto nos permite asegurarnos de que todo funciona correctamente antes de publicar la característica para un público más amplio. Por tanto, si a continuación no ve algo descrito, no se preocupe, lo recibirá con el tiempo.  
 
-## <a name="february-25-2019-version-1903-build-1133020014"></a>25 de febrero de 2019 versión 1903 (compilación 11330,20014)
+> [!NOTE]
+> - Las notas de la versión se publican semanalmente y pueden ser una compilación de varias compilaciones. 
+> - La fecha de publicación de las notas de la versión puede no coincidir con la fecha de lanzamiento de la compilación real.
+
+## <a name="march-1-2019"></a>1 de marzo de 2019 
+Versión 1903 (compilación 11414,20014)
 
 
 ## <a name="notable-fixes"></a>Revisiones más importantes:
@@ -26,7 +31,7 @@ Este artículo contiene las notas de la versión para las versiones inSider de W
 - Se ha corregido un problema por el que el botón de la cinta de flujo de trabajo "abrir esta tarea" no respondía a determinados correos electrónicos
 - Se ha corregido un problema por el que Outlook no borraba las salas locales después de que los usuarios seleccionaban un salón disponible en el buscador de salas
 
-### <a name="access"></a>Acceder
+### <a name="access"></a>Acceso
 - Se actualizó el texto del mensaje que se muestra al confirmar las tablas de revinculación con un origen de datos.
 - Se ha corregido el cuadro de diálogo de importación/exportación guardado que tenía el texto blanco sobre fondo blanco en el tema oscuro
 - Se ha corregido un problema por el que los usuarios no podían establecer la propiedad de control de pantalla de un campo sí/no en cuadro de texto en el diseño de tabla.
@@ -38,7 +43,8 @@ Este artículo contiene las notas de la versión para las versiones inSider de W
 
 
 
-## <a name="february-12-2019-version-1903-build-1133020014"></a>Febrero de 12 2019 versión 1903 (compilación 11330,20014)
+## <a name="february-15-2019"></a>15 de febrero de 2019 
+Versión 1903 (compilación 11310,20016)
 
 ## <a name="whats-new"></a>Novedades:
 
@@ -53,12 +59,12 @@ Especificar las formas que desea transformar
 
 - Para que transformación trate dos objetos como el mismo objeto, el usuario puede cambiar el nombre de las formas mediante el panel de selección.
 - El nombre debe ir precedido de "!!". (dos signos de exclamación) para que transformación la use para invalidar nuestro comportamiento de coincidencia predeterminado, por ejemplo, "!! Denomina
-- Los usuarios pueden seguir cambiando el nombre de las formas con cualquier nombre que no comience por "!!" sin preocuparse de que cambie la forma en que funciona transformación
+- Los usuarios pueden seguir renombrar las formas con cualquier nombre que no comience por "!!" sin preocuparse por que cambie la forma en que funciona transformación
 
 #### <a name="scenarios-to-try"></a>Escenarios para probar:
 
 - Insertar una forma en una diapositiva; a continuación, digamos rectángulo
-- Crear una nueva diapositiva
+- Crear una nueva diapositiva.
 - Insertar una forma diferente en la 2ª diapositiva, digamos triángulo
 - Abra SelectionPane, cambie el nombre del rectángulo en la diapositiva 1 a "!! Shape "y cambie el nombre del triángulo de la diapositiva 2 por"!! cambiar
 - Aplicar transformación en la 2ª diapositiva
@@ -128,7 +134,7 @@ El nuevo administrador de cuentas muestra todas sus cuentas personales y laboral
 ### <a name="outlook"></a>Outlook
 - Se ha corregido un problema con la presentación del botón Enviar a OneNote
 
-### <a name="access"></a>Acceder
+### <a name="access"></a>Acceso
 - Varias correcciones de rendimiento y estabilidad
 
 ### <a name="project"></a>Project
@@ -136,7 +142,8 @@ El nuevo administrador de cuentas muestra todas sus cuentas personales y laboral
 
 
 </BR></BR>
-## <a name="february-9-2019-version-1903-build-1133020014"></a>Febrero de 9 2019 versión 1903 (compilación 11330,20014)
+## <a name="february-11-2019"></a>11 de febrero de 2019
+Versión 1903 (compilación 11330,20014)
 
 
 ## <a name="notable-fixes"></a>Revisiones más importantes:
@@ -156,7 +163,7 @@ El nuevo administrador de cuentas muestra todas sus cuentas personales y laboral
 ### <a name="outlook"></a>Outlook
 - Varias correcciones de rendimiento y estabilidad
 
-### <a name="access"></a>Acceder
+### <a name="access"></a>Acceso
 - Varias correcciones de rendimiento y estabilidad
 
 ### <a name="project"></a>Project
@@ -165,7 +172,8 @@ El nuevo administrador de cuentas muestra todas sus cuentas personales y laboral
 </BR></BR>
 
 
-## <a name="january-30-2019-version-1902-build-1132620000"></a>30 de enero de 2019 versión 1902 (compilación 11326,20000)
+## <a name="february-1-2019"></a>1 de febrero de 2019 
+Versión 1902 (compilación 11326,20000)
 
 
 ## <a name="notable-fixes"></a>Revisiones más importantes
@@ -187,7 +195,7 @@ El nuevo administrador de cuentas muestra todas sus cuentas personales y laboral
 ### <a name="outlook"></a>Outlook
 - Se ha corregido un problema que provocaba que la vista de tareas del calendario no mostrara correctamente el asunto de la tarea
 
-### <a name="access"></a>Acceder
+### <a name="access"></a>Acceso
 - Se ha corregido un problema de escalamiento con los gráficos
 
 ### <a name="project"></a>Project
