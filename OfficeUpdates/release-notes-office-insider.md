@@ -1,5 +1,5 @@
 ---
-title: "Notas de la versión de Office Insiders" MS. Author: andrewmo Author: mikho Manager: andrewmo ms. Date: 3/07/2019 ms. Audience: Win32 Fast ms. topic: referencia ms. Service: o365-ProPlus-localization_priority: Critical ms. Collection: RelNotes_ProPlus Description: "proporciona una audiencia rápida de Insiders con la lista más reciente de nuevas características clave, correcciones o problemas conocidos
+title: "Notas de la versión de Office Insiders" MS. Author: andrewmo Author: mikho Manager: andrewmo ms. Date: 3/08/2019 ms. Audience: Win32 Fast ms. topic: referencia ms. Service: o365-ProPlus-localization_priority: Critical ms. Collection: RelNotes_ProPlus Description: "proporciona una audiencia rápida de Insiders con la lista más reciente de nuevas características clave, correcciones o problemas conocidos
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión para Office Insiders
@@ -7,8 +7,56 @@ title: "Notas de la versión de Office Insiders" MS. Author: andrewmo Author: mi
 Este artículo contiene las notas de la versión para las versiones inSider de Word, Excel, PowerPoint, Outlook, Access y Project para el escritorio de Windows. Cada semana, resaltaremos las nuevas características interesantes, las correcciones importantes y cualquier problema importante que quiera conocer. Tenga en cuenta que a menudo implementamos características (y a veces incluso correcciones) en Insiders durante un período de tiempo. Esto nos permite asegurarnos de que todo funciona correctamente antes de publicar la característica para un público más amplio. Por tanto, si a continuación no ve algo descrito, no se preocupe, lo recibirá con el tiempo.  
 
 > [!NOTE]
-> - Las notas de la versión se publican semanalmente y pueden ser una compilación de varias compilaciones. 
-> - La fecha de publicación de las notas de la versión puede no coincidir con la fecha de lanzamiento de la compilación real.
+> - Las notas de la versión se publican semanalmente y pueden ser una compilación de varias compilaciones
+> - La fecha de publicación de las notas de la versión puede no coincidir con la fecha de publicación de compilación real
+
+
+## <a name="march-8-2019"></a>8 de marzo de 2019 
+Versión 1903 (compilación 11425,20036)
+
+## <a name="whats-new"></a>Novedades:
+
+### <a name="word"></a>Word
+
+### <a name="find-what-youre-looking-for-with-microsoft-search"></a>Buscar lo que está buscando con Microsoft Search
+
+Con Microsoft Search, puede encontrar todos los archivos, acciones, personas y ayuda que necesita para realizar el trabajo.
+
+#### <a name="getting-started"></a>Introducción:
+
+- La característica se muestra de forma destacada en la parte superior de la interfaz de usuario del encabezado.
+
+#### <a name="scenarios-to-try"></a>Escenarios para probar:
+
+- Buscar una Universidad, un documento reciente o una búsqueda de los comandos de la cinta que usa más a menudo
+- Buscar un tema o asunto para obtener más información sobre él
+
+
+## <a name="notable-fixes"></a>Revisiones más importantes:
+
+### <a name="word"></a>Word 
+- Se ha corregido un problema que se producía al presionar "ESC" mientras estaba en las opciones
+- Se ha corregido un problema que se producía al responder a comentarios
+- Se ha corregido un problema con Copy & Paste from Word to PowerPoint online
+
+### <a name="excel"></a>Excel
+- Se ha corregido un problema por el que, al copiar una celda en Excel, se producía un uso intensivo de la CPU cuando se abría un documento protegido y un documento editable
+
+### <a name="powerpoint"></a>PowerPoint
+- Varias correcciones de rendimiento y estabilidad
+
+### <a name="outlook"></a>Outlook
+- Se ha corregido un problema por el que la búsqueda de Outlook no respetaba la ordenación cronológica seleccionada
+- Se ha corregido un problema por el que el botón de la cinta de flujo de trabajo "abrir esta tarea" no respondía a determinados correos electrónicos
+- Se ha corregido un problema por el que Outlook no borraba las salas locales después de que los usuarios seleccionaban un salón disponible en el buscador de salas
+
+### <a name="access"></a>Acceso
+- Se ha corregido el cuadro de diálogo de importación/exportación guardado que tenía el texto blanco sobre fondo blanco en el tema oscuro
+- Se ha corregido un problema por el que los usuarios no podían establecer la propiedad DisplayControl de un campo sí/no en un cuadro de texto en un diseño de tabla.
+
+### <a name="project"></a>Project
+- Varias correcciones de rendimiento y estabilidad
+
 
 ## <a name="march-1-2019"></a>1 de marzo de 2019 
 Versión 1903 (compilación 11414,20014)
