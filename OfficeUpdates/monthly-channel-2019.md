@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2019
-ms.openlocfilehash: 8d4c70ac17accd1aee22812aa9265264ffb10ee0
-ms.sourcegitcommit: 59cdc09af985820a6466d9ca24cd9736cf9e7517
+ms.openlocfilehash: b9588f15460d0f7cf09b0148fea33273e054cdb0
+ms.sourcegitcommit: 3d11a3ea3ecd0c6bd397bed9297f6d16571a8161
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30379365"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "30509303"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal mensual en 2019
 
@@ -46,10 +46,10 @@ En estas notas de la versión, se proporciona información sobre característica
 
 ### <a name="outlook-feature-updates"></a>Outlook: actualizaciones de características
 
-- **Dar tiempo de descanso entre reuniones seguidas:** configure las reuniones para que finalicen 5 o 10 minutos antes de forma predeterminada para dar a los asistentes tiempo para descansar o desplazarse a otras ubicaciones. [Más información aquí](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F) [y aquí](https://support.office.com/article/BE84396A-0903-4E25-B31C-1C99CE0DACF2)
+- 
+  **Dar tiempo de descanso entre reuniones seguidas:** configure las reuniones para que finalicen 5 o 10 minutos antes de forma predeterminada para dar a los asistentes tiempo para descansar o desplazarse a otras ubicaciones. [Más información](https://support.office.com/en-us/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
 - **Use Lectura en voz alta para escuchar el correo electrónico:** Outlook puede leer el correo electrónico en voz alta, resaltando el texto a medida que se lee. Para activar Lectura en voz alta, vaya a la configuración de Accesibilidad. [Más información](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
-- **Cifrado de mensajes: directiva IRM de solo cifrado:** la nueva opción de solo cifrado aparece en Opciones > Menú permisos para los usuarios de cifrado de mensajes de Office 365. Esta opción le permite cifrar un mensaje y enviárselo a cualquier usuario dentro o fuera de su organización. [Más información](https://aka.ms/omeoverview)
-- **Nuevo valor predeterminado para el intervalo de periodicidad:** para el cuadro de diálogo Periodicidad, el intervalo de periodicidad utilizado de forma predeterminada es "Sin fecha de finalización". Esto facilita la creación de serie periódicas de ejecución prolongada, que pueden dañarse con el tiempo. Vamos a actualizar el valor predeterminado del cuadro de diálogo Periodicidad a "Finalizar el", para que dicho valor coincida con los procedimientos recomendados de calendarios.
+
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
 
@@ -65,7 +65,8 @@ En estas notas de la versión, se proporciona información sobre característica
  
 ### <a name="office-suite-feature-updates"></a>Conjunto de aplicaciones de Office: actualizaciones de características
 
-- **Instalación de Microsoft Teams:** Microsoft Teams se instala de forma predeterminada para las nuevas instalaciones de Office 365 ProPlus. [Más información](https://docs.microsoft.com/es-ES/DeployOffice/teams-install)
+- 
+  **Instalación de Microsoft Teams:** Microsoft Teams se instala de forma predeterminada para las nuevas instalaciones de Office 365 ProPlus. [Más información](https://docs.microsoft.com/en-us/DeployOffice/teams-install)
 
 ## <a name="version-1901-february-12"></a>Versión 1901: 12 de febrero
 *Versión 1901 (compilación 11231.20174)* 
