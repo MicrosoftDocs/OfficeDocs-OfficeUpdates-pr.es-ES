@@ -3,19 +3,19 @@ title: Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 3/4/2019
+ms.date: 3/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Office 365 ProPlus según el canal de actualización.
-ms.openlocfilehash: a9860958b4d093b72d84b68b3681094cb3b2f19d
-ms.sourcegitcommit: 59cdc09af985820a6466d9ca24cd9736cf9e7517
+ms.openlocfilehash: c543451237304a048c53ff87923d28ba92807b18
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30379355"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568203"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 
@@ -35,6 +35,36 @@ Para obtener información sobre las características, las actualizaciones de seg
 > - Se muestran solo las versiones de los últimos cuatro meses.
 > - En las tablas solo aparecen las versiones anteriores más recientes. Si va a realizar la actualización desde una versión más antigua, el tamaño de descarga será mayor.
 > - Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal semianual, el tamaño de actualización será considerablemente mayor que el que se muestra en la tabla, ya que puede comportar una descarga completa, con un mínimo de 1 GB. 
+
+## <a name="march-12-2019"></a>12 de marzo de 2019
+
+### <a name="monthly-channel"></a>Canal mensual
+
+La versión más actual es la 1902 (compilación 11328.20158). 
+  
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1901 (compilación 11231.20130)  <br/> |31 de enero de 2019  <br/> |179<br/> |
+|Versión 1901 (compilación 11231.20174)  <br/> |12 de febrero de 2019  <br/> |177<br/> |
+|Versión 1902 (compilación 11328.20146)  <br/> |4 de marzo de 2019  <br/> |278<br/> |
+
+### <a name="semi-annual-channel"></a>Canal semianual
+
+La versión más actual es la 1808 (compilación 10730.20304).
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1808 (compilación 10730.20264)  <br/> |8 de enero de 2019  <br/> |84<br/> |
+|Versión 1808 (compilación 10730.20280) <br/> |12 de febrero de 2019  <br/> |74<br/> |
+
+### <a name="semi-annual-channel-targeted"></a>Canal semianual (dirigido)
+
+La versión más actual es la 1902 (compilación 11328.20158).
+  
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1808 (compilación 10730.20264)  <br/> |8 de enero de 2019  <br/> |257 <br/> |
+|Versión 1808 (compilación 10730.20280)  <br/> |12 de febrero de 2019  <br/> |256 <br/> |
 
 ## <a name="march-4-2019"></a>4 de marzo de 2019
 
