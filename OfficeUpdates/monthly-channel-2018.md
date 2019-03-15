@@ -3,19 +3,19 @@ title: Notas de la versión para las versiones de Canal mensual en 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/11/2019
+ms.date: 3/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2018.
-ms.openlocfilehash: 9a12200522acbb2f46f7a814affa4b2be5d8d7b9
-ms.sourcegitcommit: 213c572ed7392c994fc8c902bfb9d1e5aa412a4b
+ms.openlocfilehash: db7e95f6140b84b4f41c7172868ca124dbb9de3b
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/12/2019
-ms.locfileid: "27992134"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568383"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de la versión para las versiones de Canal mensual en 2018
 
@@ -57,7 +57,7 @@ En estas notas de la versión, se proporciona información sobre característica
 
 ### <a name="outlook-feature-updates"></a>Outlook: actualizaciones de características
 
-- **Zoom y quieto:** en lugar de ajustar el Zoom cada vez que lee un mensaje, elija una configuración predeterminada para todos los mensajes. [Más información](https://support.office.com/article/351EF767-00C1-4B9F-8744-1391DCB8F974)
+- **Zoom y quieto:** en lugar de ajustar el Zoom cada vez que lee un mensaje, elija una configuración predeterminada para todos los mensajes. [Más información](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **Mover mensajes de forma asincrónica en Outlook:** al mover los mensajes asincrónicamente se aumenta la productividad de los usuarios de Outlook.
 - **Vea los detalles de LinkedIn de contactos en Outlook:** ahora, al abrir la tarjeta de perfil de un contacto, puede obtener más información consultando su perfil de LinkedIn.
 - **Mejora de las experiencias con o sin la Bandeja de entrada Prioritarios:** para los clientes que no usen la Bandeja de entrada Prioritarios, hemos vuelto a implementar la pestaña de no leídos en la lista de mensajes en todas las carpetas. También hemos agregado una ordenación por marca para que sea más fácil encontrar los elementos marcados. Por último, la Bandeja de entrada tiene un modelo de interacción mejor con la búsqueda: la bandeja de entrada Prioritarios permanece hasta que se inicia la búsqueda y se muestra el texto "Resultados" cuando se completa una búsqueda.
