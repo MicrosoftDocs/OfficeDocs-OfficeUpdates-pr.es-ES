@@ -1,5 +1,5 @@
 ---
-title: "Notas de la versión de Office Insiders" MS. Author: andrewmo Author: mikho Manager: andrewmo ms. Date: 3/08/2019 ms. Audience: Win32 Fast ms. topic: referencia ms. Service: o365-ProPlus-localization_priority: Critical ms. Collection: RelNotes_ProPlus Description: "proporciona una audiencia rápida de Insiders con la lista más reciente de nuevas características clave, correcciones o problemas conocidos
+title: "Notas de la versión para usuarios de Office Insider" MS. Author: andrewmo Author: v-almuzz Manager: andrewmo ms. Date: 3/15/2019 ms. Audience: Win32 Fast ms. topic: referencia ms. Service: o365-ProPlus-localization_priority: Critical ms. Collection: RelNotes_ Descripción de proPlus: "proporciona una audiencia rápida de Insiders con la lista más reciente de nuevas características clave, correcciones o problemas conocidos
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión para Office Insiders
@@ -10,6 +10,32 @@ Este artículo contiene las notas de la versión para las versiones inSider de W
 > - Las notas de la versión se publican semanalmente y pueden ser una compilación de varias compilaciones
 > - La fecha de publicación de las notas de la versión puede no coincidir con la fecha de publicación de compilación real
 
+## <a name="march-15-2019"></a>15 de marzo de 2019 
+Versión 1904 (compilación 11504,20000)
+
+## <a name="notable-fixes"></a>Revisiones más importantes:
+
+### <a name="word"></a>Word 
+- Se ha corregido un problema por el que las imágenes de un documento guardadas como PDF tendrían un PPP incorrecto
+
+### <a name="excel"></a>Excel
+- Varias correcciones de rendimiento y estabilidad
+
+### <a name="powerpoint"></a>PowerPoint
+- Se ha corregido un problema por el que el panel comentarios no se abriría o se cerraba correctamente
+- Se ha corregido un problema que provocaba que la aplicación se bloqueara al eliminar un vídeo
+- Se ha corregido un problema en el que, en algunas instancias, la aplicación no pudo iniciarse
+
+### <a name="outlook"></a>Outlook
+- Se ha corregido un problema por el que las confirmaciones de lectura eran incorrectas cuando se mostraban en Japonés
+
+### <a name="access"></a>Access
+- Varias correcciones de rendimiento y estabilidad
+
+### <a name="project"></a>Project
+- Varias correcciones de rendimiento y estabilidad
+
+</BR></BR>
 
 ## <a name="march-8-2019"></a>8 de marzo de 2019 
 Versión 1903 (compilación 11425,20036)
@@ -50,7 +76,7 @@ Con Microsoft Search, puede encontrar todos los archivos, acciones, personas y a
 - Se ha corregido un problema por el que el botón de la cinta de flujo de trabajo "abrir esta tarea" no respondía a determinados correos electrónicos
 - Se ha corregido un problema por el que Outlook no borraba las salas locales después de que los usuarios seleccionaban un salón disponible en el buscador de salas
 
-### <a name="access"></a>Acceso
+### <a name="access"></a>Access
 - Se ha corregido el cuadro de diálogo de importación/exportación guardado que tenía el texto blanco sobre fondo blanco en el tema oscuro
 - Se ha corregido un problema por el que los usuarios no podían establecer la propiedad DisplayControl de un campo sí/no en un cuadro de texto en un diseño de tabla.
 
@@ -79,7 +105,7 @@ Versión 1903 (compilación 11414,20014)
 - Se ha corregido un problema por el que el botón de la cinta de flujo de trabajo "abrir esta tarea" no respondía a determinados correos electrónicos
 - Se ha corregido un problema por el que Outlook no borraba las salas locales después de que los usuarios seleccionaban un salón disponible en el buscador de salas
 
-### <a name="access"></a>Acceso
+### <a name="access"></a>Access
 - Se actualizó el texto del mensaje que se muestra al confirmar las tablas de revinculación con un origen de datos.
 - Se ha corregido el cuadro de diálogo de importación/exportación guardado que tenía el texto blanco sobre fondo blanco en el tema oscuro
 - Se ha corregido un problema por el que los usuarios no podían establecer la propiedad de control de pantalla de un campo sí/no en cuadro de texto en el diseño de tabla.
@@ -182,7 +208,7 @@ El nuevo administrador de cuentas muestra todas sus cuentas personales y laboral
 ### <a name="outlook"></a>Outlook
 - Se ha corregido un problema con la presentación del botón Enviar a OneNote
 
-### <a name="access"></a>Acceso
+### <a name="access"></a>Access
 - Varias correcciones de rendimiento y estabilidad
 
 ### <a name="project"></a>Project
@@ -211,7 +237,7 @@ Versión 1903 (compilación 11330,20014)
 ### <a name="outlook"></a>Outlook
 - Varias correcciones de rendimiento y estabilidad
 
-### <a name="access"></a>Acceso
+### <a name="access"></a>Access
 - Varias correcciones de rendimiento y estabilidad
 
 ### <a name="project"></a>Project
@@ -243,7 +269,7 @@ Versión 1902 (compilación 11326,20000)
 ### <a name="outlook"></a>Outlook
 - Se ha corregido un problema que provocaba que la vista de tareas del calendario no mostrara correctamente el asunto de la tarea
 
-### <a name="access"></a>Acceso
+### <a name="access"></a>Access
 - Se ha corregido un problema de escalamiento con los gráficos
 
 ### <a name="project"></a>Project
