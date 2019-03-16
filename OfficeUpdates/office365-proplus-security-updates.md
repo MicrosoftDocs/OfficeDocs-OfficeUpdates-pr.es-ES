@@ -3,19 +3,19 @@ title: Notas de la versión para las actualizaciones de seguridad de Office 365 
 ms.author: andrewmo
 author: ''
 manager: andrewmo
-ms.date: 1/16/2019
+ms.date: 3/12/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión de las actualizaciones de seguridad de Office 365 ProPlus
-ms.openlocfilehash: cfa6d6d844e06e3b14865a64e02c1064fbb8c8f5
-ms.sourcegitcommit: 659d2bbb04f8ccfc7e03a9a23758e3feed9d5075
+ms.openlocfilehash: 395767b1ebd1208c54e2bd07f6b75216d8b7fe24
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29954032"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568193"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Notas de la versión para las actualizaciones de seguridad de Office 365 ProPlus
 
@@ -24,6 +24,10 @@ Estas notas de la versión proporcionan información sobre las correcciones de s
 > [!NOTE]
 > - Lo siguiente también proporciona información sobre actualizaciones de seguridad para Visio Pro para Office 365 y el cliente de escritorio de Project Online.
 > - Esta información también se aplica a Office 365 Empresa, que es la versión de Office que viene con algunos planes de Office 365, como Empresa Premium.
+
+## <a name="march-12-2019"></a>12 de marzo de 2019
+Este mes no hay ninguna actualización no relacionada con la seguridad.
+
 ## <a name="february-12-2019"></a>12 de febrero de 2019
 Canal mensual: Versión 1901 (compilación 11231.20174)  
 Canal semianual (dirigido): Versión 1808 (compilación 10730.20280)   
