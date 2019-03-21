@@ -3,19 +3,19 @@ title: Historial de actualizaciones del canal mensual de Office (dirigido)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 03/08/2019
+ms.date: 03/18/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a participantes del programa Insider el historial de actualizaciones de los lanzamientos del canal mensual de Office (dirigido) para versiones de escritorio de Windows
-ms.openlocfilehash: a4b79be302debe7782f193ff15de65888c8d30a1
-ms.sourcegitcommit: 1efbc1c32ff19eed3fee3eb9ae5d67f1d6c036c7
+ms.openlocfilehash: 8d0dc92dffc1e7ef6b8b490243b41bd0aeec4ef7
+ms.sourcegitcommit: 9f82708539207fced44253bdd88060c19500cf38
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/09/2019
-ms.locfileid: "30512779"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "30568403"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Historial de actualizaciones del canal mensual de Office (dirigido) para Windows
 
@@ -28,6 +28,10 @@ Si está inscrito en el nivel del canal mensual (dirigido), anteriormente denomi
 > [!NOTE]
 > - A continuación, se muestra el historial de actualizaciones con todas las compilaciones publicadas
 > - Las notas de la versión se actualizan con una cadencia lenta y pueden ser una compilación de actualizaciones de varias compilaciones hasta el número de compilación publicado de las notas de la versión
+
+**18 de marzo de 2019**<br/> Versión 1903 (compilación 11425.20140)<br/>
+
+**12 de marzo de 2019**<br/> Versión 1903 (compilación 11425.20096)<br/>
 
 **2 de marzo de 2019**<br/> Versión 1902 (compilación 11328.20146)<br/>
 
