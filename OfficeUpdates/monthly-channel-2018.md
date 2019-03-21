@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2018.
-ms.openlocfilehash: db7e95f6140b84b4f41c7172868ca124dbb9de3b
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
+ms.openlocfilehash: ce3df05b49a2ab538401ef5133381855a34528eb
+ms.sourcegitcommit: 54d1b258be39cf29a0c62c0dbfe9a2b8292a991d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30568383"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "30697628"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de la versión para las versiones de Canal mensual en 2018
 
@@ -58,7 +58,7 @@ En estas notas de la versión, se proporciona información sobre característica
 ### <a name="outlook-feature-updates"></a>Outlook: actualizaciones de características
 
 - **Zoom y quieto:** en lugar de ajustar el Zoom cada vez que lee un mensaje, elija una configuración predeterminada para todos los mensajes. [Más información](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
-- **Mover mensajes de forma asincrónica en Outlook:** al mover los mensajes asincrónicamente se aumenta la productividad de los usuarios de Outlook.
+- **Seguir trabajando mientras mueve mensajes:** Outlook ahora mueve los mensajes en segundo plano, por lo que puede seguir trabajando mientras mueve una gran cantidad de mensajes entre carpetas.
 - **Vea los detalles de LinkedIn de contactos en Outlook:** ahora, al abrir la tarjeta de perfil de un contacto, puede obtener más información consultando su perfil de LinkedIn.
 - **Mejora de las experiencias con o sin la Bandeja de entrada Prioritarios:** para los clientes que no usen la Bandeja de entrada Prioritarios, hemos vuelto a implementar la pestaña de no leídos en la lista de mensajes en todas las carpetas. También hemos agregado una ordenación por marca para que sea más fácil encontrar los elementos marcados. Por último, la Bandeja de entrada tiene un modelo de interacción mejor con la búsqueda: la bandeja de entrada Prioritarios permanece hasta que se inicia la búsqueda y se muestra el texto "Resultados" cuando se completa una búsqueda.
 - **Bloquear la descarga de contenido externo de forma predeterminada en los correos electrónicos firmados y encriptados SMIME:** Debido a una vulnerabilidad en el protocolo SMIME, Outlook bloqueará la descarga de contenido externo en mensajes que se hayan cifrado o firmado mediante SMIME. Los usuarios no podrán descargar contenido externo con un solo clic en la interfaz de usuario de Outlook para protegerse de la vulnerabilidad de seguridad. Hay una nueva opción en el cuadro de diálogo Opciones para permitir que los usuarios vuelvan al comportamiento anterior. 
