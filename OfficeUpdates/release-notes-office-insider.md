@@ -1,5 +1,5 @@
 ---
-title: "Notas de la versión para usuarios de Office Insider" MS. Author: andrewmo Author: v-almuzz Manager: andrewmo ms. Date: 3/15/2019 ms. Audience: Win32 Fast ms. topic: referencia ms. Service: o365-ProPlus-localization_priority: Critical ms. Collection: RelNotes_ Descripción de proPlus: "proporciona una audiencia rápida de Insiders con la lista más reciente de nuevas características clave, correcciones o problemas conocidos
+title: "Notas de la versión para usuarios de Office Insider" MS. Author: andrewmo Author: v-almuzz Manager: andrewmo ms. Date: 3/22/2019 ms. Audience: Win32 Fast ms. topic: referencia ms. Service: o365-ProPlus-localization_priority: Critical ms. Collection: RelNotes_ Descripción de proPlus: "proporciona una audiencia rápida de Insiders con la lista más reciente de nuevas características clave, correcciones o problemas conocidos
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión para Office Insiders
@@ -10,7 +10,36 @@ Este artículo contiene las notas de la versión para las versiones inSider de W
 > - Las notas de la versión se publican semanalmente y pueden ser una compilación de varias compilaciones
 > - La fecha de publicación de las notas de la versión puede no coincidir con la fecha de publicación de compilación real
 
-## <a name="march-15-2019"></a>15 de marzo de 2019 
+## <a name="march-22-2019"></a>22 de marzo de 2019
+Versión 1904 (compilación 11514,20004)
+
+## <a name="notable-fixes"></a>Revisiones más importantes:
+
+### <a name="word"></a>Word 
+- Se ha corregido un problema por el que la interfaz de usuario mostraría constantemente "comprobando cambios"
+
+### <a name="excel"></a>Excel
+- Se ha corregido un problema por el que la aplicación podía bloquearse después de mover una hoja de cálculo
+- Se ha corregido un problema por el que la aplicación podía bloquearse después de guardar como PDF.
+- Se ha corregido un problema que provocaba que el cuadro de diálogo guardar no aceptara algunos caracteres coreanos
+
+### <a name="powerpoint"></a>PowerPoint
+- Varias correcciones de rendimiento y estabilidad
+
+### <a name="outlook"></a>Outlook
+- Varias correcciones de rendimiento y estabilidad
+
+### <a name="access"></a>Access
+- Se ha corregido el mensaje de error en Access donde se ha creado un acceso directo adicional a Access
+- Se ha corregido un problema por el que los datos de un SharePoint vinculado se mostraban incorrectamente
+
+### <a name="project"></a>Proyecto
+- Se ha corregido un problema por el que, al cambiar la configuración de idioma, se cambiaba de chino a Inglés
+- Se ha corregido un problema por el que la aplicación podía bloquearse al sincronizar con SharePoint
+
+</BR></BR>
+
+## <a name="march-15-2019"></a>15 de marzo de 2019
 Versión 1904 (compilación 11504,20000)
 
 ## <a name="notable-fixes"></a>Revisiones más importantes:
@@ -32,7 +61,7 @@ Versión 1904 (compilación 11504,20000)
 ### <a name="access"></a>Access
 - Varias correcciones de rendimiento y estabilidad
 
-### <a name="project"></a>Project
+### <a name="project"></a>Proyecto
 - Varias correcciones de rendimiento y estabilidad
 
 </BR></BR>
@@ -80,7 +109,7 @@ Con Microsoft Search, puede encontrar todos los archivos, acciones, personas y a
 - Se ha corregido el cuadro de diálogo de importación/exportación guardado que tenía el texto blanco sobre fondo blanco en el tema oscuro
 - Se ha corregido un problema por el que los usuarios no podían establecer la propiedad DisplayControl de un campo sí/no en un cuadro de texto en un diseño de tabla.
 
-### <a name="project"></a>Project
+### <a name="project"></a>Proyecto
 - Varias correcciones de rendimiento y estabilidad
 
 
@@ -110,7 +139,7 @@ Versión 1903 (compilación 11414,20014)
 - Se ha corregido el cuadro de diálogo de importación/exportación guardado que tenía el texto blanco sobre fondo blanco en el tema oscuro
 - Se ha corregido un problema por el que los usuarios no podían establecer la propiedad de control de pantalla de un campo sí/no en cuadro de texto en el diseño de tabla.
 
-### <a name="project"></a>Project
+### <a name="project"></a>Proyecto
 - Varias correcciones de rendimiento y estabilidad
 
 </BR></BR>
@@ -211,7 +240,7 @@ El nuevo administrador de cuentas muestra todas sus cuentas personales y laboral
 ### <a name="access"></a>Access
 - Varias correcciones de rendimiento y estabilidad
 
-### <a name="project"></a>Project
+### <a name="project"></a>Proyecto
 - Varias correcciones de rendimiento y estabilidad
 
 
@@ -240,7 +269,7 @@ Versión 1903 (compilación 11330,20014)
 ### <a name="access"></a>Access
 - Varias correcciones de rendimiento y estabilidad
 
-### <a name="project"></a>Project
+### <a name="project"></a>Proyecto
 - Varias correcciones de rendimiento y estabilidad
 
 </BR></BR>
@@ -272,5 +301,5 @@ Versión 1902 (compilación 11326,20000)
 ### <a name="access"></a>Access
 - Se ha corregido un problema de escalamiento con los gráficos
 
-### <a name="project"></a>Project
+### <a name="project"></a>Proyecto
 - Varias correcciones de rendimiento y estabilidad
