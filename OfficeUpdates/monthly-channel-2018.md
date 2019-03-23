@@ -3,19 +3,19 @@ title: Notas de la versión para las versiones de Canal mensual en 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 3/13/2019
+ms.date: 3/19/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2018.
-ms.openlocfilehash: ce3df05b49a2ab538401ef5133381855a34528eb
-ms.sourcegitcommit: 54d1b258be39cf29a0c62c0dbfe9a2b8292a991d
+ms.openlocfilehash: be158a65c166e7f40dc9e0cd9729d2eb7e211e93
+ms.sourcegitcommit: 1e6a6868eec0b2e43ba2d06c469bf07907c89b9e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/20/2019
-ms.locfileid: "30697628"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "30737570"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de la versión para las versiones de Canal mensual en 2018
 
@@ -184,7 +184,7 @@ En estas notas de la versión, se proporciona información sobre característica
 
 ### <a name="outlook-feature-updates"></a>Outlook: actualizaciones de características
 - **Vea las próximas novedades** Pruebe nuevas experiencias de usuario antes de que estén disponibles y cuéntenos su opinión. [Más información](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
-- **Ver la dirección URL de Vínculos seguros** Vínculos seguros ayuda a protegerse de direcciones URL malintencionadas recibidas por correo electrónico, pero ocultan la dirección URL original. Ahora simplemente pase el mouse sobre una dirección URL para ver el original, incluso en vínculos protegidos por Vínculos seguros.
+- **Ver la dirección URL de Vínculos seguros** los vínculos seguros le protegen de direcciones URL malintencionadas recibidas por correo electrónico, pero ocultan la dirección URL original. Para ver el original, mueva el puntero sobre la dirección URL. Requiere una licencia de Protección contra amenazas avanzada. [Más información](https://products.office.com/es-ES/exchange/advance-threat-protection)
 - **Obtener sugerencias de ortografía de búsqueda** Después de realizar una búsqueda, Outlook ofrecerá una consulta de búsqueda sugerida con correcciones de ortografía.
 - **Los iconos de la cinta tienen un aspecto nuevo** No se preocupe, todo funciona de la misma forma. Además, tendrán un aspecto excelente en pantallas de todos los tamaños. [Más información](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
