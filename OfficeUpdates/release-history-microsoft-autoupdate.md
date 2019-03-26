@@ -3,19 +3,19 @@ title: Historial de versiones de Microsoft AutoUpdate (MAU)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 02/26/2019
+ms.date: 3/14/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales informáticos un historial de versiones de Microsoft AutoUpdate (MAU).
-ms.openlocfilehash: 81becaf41e9d3d7c478dddb80c2c5e2382cfca51
-ms.sourcegitcommit: 3af5f3ced6b4775a320ba0305a84faa7ec31e69e
+ms.openlocfilehash: a4b0d70349ba1e6dfb8fc587b606b007298fdae8
+ms.sourcegitcommit: e9d79e90009b8984fdabd8aec267b0e767525f98
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/26/2019
-ms.locfileid: "30294633"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "30641405"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historial de versiones de Microsoft AutoUpdate (MAU)
  
@@ -31,7 +31,8 @@ En la siguiente tabla, se proporciona información del historial de versiones de
   
 |**Fecha de publicación**|**Versión**|**Más información**|**Vínculo de descarga para el paquete de actualización**|
 |:-----|:-----|:-----|:-----|
-|26 de febrero de 2019 <br/>|4.8.0 <br/> | [Notas de la versión](release-notes-office-for-mac.md#january-2019-release) <br/> |[Descargar MAU 4.8.0](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |
+|14 de marzo de 2019 <br/>|4.9.0 <br/> | [Notas de la versión](release-notes-office-for-mac.md#march-2019-release) <br/> |[Descargar MAU 4.9.0](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |
+|26 de febrero de 2019 <br/>|4.8.0 <br/> | [Notas de la versión](release-notes-office-for-mac.md#january-2019-release) <br/> |<br/> |
 |16 de enero de 2019 <br/>|4.7.0 <br/> | [Notas de la versión](release-notes-office-for-mac.md#january-2019-release) <br/> | |
 |11 de diciembre de 2018 <br/>|4.6.0 <br/> | [Notas de la versión](release-notes-office-for-mac.md#december-2018-release) <br/> ||
 |14 de noviembre de 2018 <br/> |4.5.0 <br/> |[Notas de la versión](release-notes-office-for-mac.md#november-2018-release) <br/> | |
