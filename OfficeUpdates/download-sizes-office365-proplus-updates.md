@@ -3,19 +3,19 @@ title: Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 3/19/2019
+ms.date: 3/27/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Office 365 ProPlus según el canal de actualización.
-ms.openlocfilehash: 649c2c37850c1a764515bd0dfb1217452d8640ab
-ms.sourcegitcommit: 1e6a6868eec0b2e43ba2d06c469bf07907c89b9e
+ms.openlocfilehash: 604b71c37813e37bde2d4e299f78508627a6121b
+ms.sourcegitcommit: 1f7171f728ce96b307858207cd04c59ae830291c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/21/2019
-ms.locfileid: "30737550"
+ms.lasthandoff: 03/28/2019
+ms.locfileid: "30936850"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 
@@ -34,7 +34,19 @@ Para obtener información sobre las características, las actualizaciones de seg
 > - Las fechas de lanzamiento y los números de compilación que están en cursiva y entre los símbolos “\< \>” están sujetos a cambios. 
 > - Se muestran solo las versiones de los últimos cuatro meses.
 > - En las tablas solo aparecen las versiones anteriores más recientes. Si va a realizar la actualización desde una versión más antigua, el tamaño de descarga será mayor.
-> - Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal semianual, el tamaño de actualización será considerablemente mayor que el que se muestra en la tabla, ya que puede comportar una descarga completa, con un mínimo de 1 GB. 
+> - Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal semianual, el tamaño de actualización será considerablemente mayor que el que se muestra en la tabla, ya que puede comportar una descarga completa, con un mínimo de 1 GB.
+
+## <a name="march-25-2019"></a>25 de marzo de 2019
+
+### <a name="monthly-channel"></a>Canal mensual
+
+La versión más actual es la 1902 (compilación 11328.20222). 
+  
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1902 (compilación 11328.20158)  <br/> |12 de marzo de 2019  <br/> |67<br/> |
+|Versión 1901 (compilación 11328.201460)  <br/> |04 de marzo de 2019  <br/> |67<br/> |
+|Versión 1901 (compilación 11328.20146)  <br/> |12 de febrero de 2019  <br/> |307<br/> |
 
 ## <a name="march-12-2019"></a>12 de marzo de 2019
 
