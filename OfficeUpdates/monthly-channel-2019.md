@@ -3,31 +3,47 @@ title: Notas de la versión para las versiones de Canal mensual en 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 3/25/2019
+ms.date: 4/1/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2019
-ms.openlocfilehash: 3936eadcf64bfcc75b5b7ea0afc6f57a848f2d5f
-ms.sourcegitcommit: 81fc7c2e457664fe0c50ef8877de61fa5fd21538
+ms.openlocfilehash: c8b1d204a39c443fe45feb087b99886ef1b2078d
+ms.sourcegitcommit: 7570500edd26426af50494223a56be02390cdc05
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/26/2019
-ms.locfileid: "30800530"
+ms.lasthandoff: 04/02/2019
+ms.locfileid: "31027890"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal mensual en 2019
 
-En estas notas de la versión, se proporciona información sobre características nuevas, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones de Canal mensual para Office 365 ProPlus en 2019.
+En estas notas de la versión, se proporciona información sobre características nuevas y actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones de Canal mensual para Office 365 ProPlus en 2019, incluyendo Visio Pro para Office 365 y el cliente de escritorio de Project Online.
  
  > [!NOTE]
-> - Lo siguiente también proporciona información sobre características nuevas, actualizaciones de seguridad y no relacionadas con la seguridad para Visio Pro para Office 365 y el cliente de escritorio de Project Online.
 > - Esta información también se aplica a Office 365 Empresa, que es la versión de Office que viene con algunos planes de Office 365, como Empresa Premium.
 > - A menudo distribuimos características (y a veces incluso correcciones) para el Canal mensual durante un período de tiempo. Esto nos permite asegurarnos de que todo funciona correctamente antes de publicar la característica para un público más amplio. Por tanto, si a continuación no ve algo descrito, no se preocupe, lo recibirá con el tiempo. [Más información](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
 > - La información sobre las actualizaciones de seguridad de cada canal de actualización de Office 365 ProPlus se empezará a mostrar por separado en [Actualizaciones de seguridad](office365-proplus-security-updates.md). 
+
+## <a name="version-1903-april-01"></a>Versión 1903: 01 de abril
+*Versión 1903 (compilación 11425.20202)*
+
+### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
+
+- **Aumentar el alcance de su contenido** ¿Necesita hacer que sus hojas de cálculo sean accesibles? Deje que el comprobador de accesibilidad le ayude sin estorbar. Pruébelo en Revisar > Comprobar accesibilidad y le informaremos en la barra de estado de cuando necesitemos que compruebe algo.
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
+
+- **Mejores transformaciones:** Asigne un nombre a las formas para tener más control sobre cómo se transforman. [Más información](https://support.office.com/article/9bc7f48ff-f152-4ee8-9081-d3121788024f)
+
+- **Aumentar el alcance de su contenido** ¿Necesita hacer que sus presentaciones sean accesibles? Deje que el comprobador de accesibilidad le ayude sin estorbar. Pruébelo en Revisar > Comprobar accesibilidad y le informaremos en la barra de estado de cuando necesitemos que compruebe algo.
+
+### <a name="word-feature-updates"></a>Word: actualizaciones de características
+
+- **Aumentar el alcance de su contenido** ¿Necesita hacer que sus documentos sean accesibles? Deje que el comprobador de accesibilidad le ayude sin estorbar. Pruébelo en Revisar > Comprobar accesibilidad y le informaremos en la barra de estado de cuando necesitemos que compruebe algo.
 
 ## <a name="version-1902-march-25"></a>Versión 1902: 25 de marzo
 *Versión 1902 (compilación 11328.20222)*
