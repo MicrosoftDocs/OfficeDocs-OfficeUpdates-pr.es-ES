@@ -1,7 +1,22 @@
 ---
-title: "Notas de la versión para usuarios de Office Insider" MS. Author: andrewmo Author: v-almuzz Manager: andrewmo ms. Date: 3/22/2019 ms. Audience: Win32 Fast ms. topic: referencia ms. Service: o365-ProPlus-localization_priority: Critical ms. Collection: RelNotes_ Descripción de proPlus: "proporciona una audiencia rápida de Insiders con la lista más reciente de nuevas características clave, correcciones o problemas conocidos
+title: Notas de la versión para Office Insiders
+ms.author: andrewmo
+author: v-almuzz
+manager: andrewmo
+ms.date: 3/22/2019
+ms.audience: Win32 Fast
+ms.topic: reference
+ms.service: o365-proplus-
+localization_priority: Critical
+ms.collection: RelNotes_ProPlus
+description: Proporciona a los usuarios una audiencia rápida de Insiders con la lista más reciente de nuevas características clave, correcciones o problemas conocidos.
+ms.openlocfilehash: b73a8554aa9ec08c7d496af45707b970ada83046
+ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
+ms.translationtype: MT
+ms.contentlocale: es-ES
+ms.lasthandoff: 04/05/2019
+ms.locfileid: "31478547"
 ---
-
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión para Office Insiders
 
 Este artículo contiene las notas de la versión para las versiones inSider de Word, Excel, PowerPoint, Outlook, Access y Project para el escritorio de Windows. Cada semana, resaltaremos las nuevas características interesantes, las correcciones importantes y cualquier problema importante que quiera conocer. Tenga en cuenta que a menudo implementamos características (y a veces incluso correcciones) en Insiders durante un período de tiempo. Esto nos permite asegurarnos de que todo funciona correctamente antes de publicar la característica para un público más amplio. Por tanto, si a continuación no ve algo descrito, no se preocupe, lo recibirá con el tiempo.  
@@ -127,7 +142,7 @@ Versión 1903 (compilación 11414,20014)
 - Se ha corregido un problema por el que, al copiar una celda en Excel, se producía un uso intensivo de la CPU cuando se abría un documento protegido y un documento editable
 
 ### <a name="powerpoint"></a>PowerPoint
-- Se ha corregido un problema con el tamaño de la imagen de diapositiva al usar @Mentions en PowerPoint
+- Se ha corregido un problema con el tamaño de @Mentions la imagen de diapositiva al usar en PowerPoint.
 
 ### <a name="outlook"></a>Outlook
 - Se ha corregido un problema por el que la búsqueda de Outlook no respetaba la ordenación cronológica seleccionada
