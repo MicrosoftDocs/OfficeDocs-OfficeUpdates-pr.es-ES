@@ -3,28 +3,26 @@ title: Notas de la versión para las versiones de Canal semianual en 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 3/6/2019
+ms.date: 4/9/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual de Office 365 ProPlus en 2019.
-ms.openlocfilehash: e08933da489cc58552762b002cd2f6bf942cf76d
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
+ms.openlocfilehash: d97398deefa5cca33463b26f8e4611392e7d59fe
+ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30568363"
+ms.lasthandoff: 04/05/2019
+ms.locfileid: "31478577"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal semianual en 2019
 
-En estas notas de la versión, se proporciona información sobre características nuevas, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones de Canal semianual para Office 365 ProPlus en 2019. 
+En estas notas de la versión, se proporciona información sobre características nuevas y actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones de Canal semianual para Office 365 ProPlus en 2019, incluyendo Visio Pro para Office 365 y el cliente de escritorio de Project Online.
 
 > [!NOTE]
-> - Lo siguiente también proporciona información sobre características nuevas, actualizaciones de seguridad y no relacionadas con la seguridad para Visio Pro para Office 365 y el cliente de escritorio de Project Online.
 > - Esta información también se aplica a Office 365 Empresa, que es la versión de Office que viene con algunos planes de Office 365, como Empresa Premium.
-> - El Canal semianual se denominaba Canal diferido antes de enero de 2019.
 
 > [!NOTE]
 > - La información sobre las actualizaciones de seguridad de cada canal de actualización de Office 365 ProPlus se empezará a mostrar por separado en [Actualizaciones de seguridad](office365-proplus-security-updates.md).
@@ -71,7 +69,7 @@ No hay ninguna actualización este mes.
 ## <a name="version-1803-february-12"></a>Versión 1803: 12 de febrero
 *Versión 1803 (compilación 9126.2356)*
 
-*Esta es la versión del Canal semianual que ha estado disponible desde julio de 2018. Seguirá recibiendo soporte técnico y actualizaciones de seguridad hasta septiembre de 2019. Pero ahora está disponible una nueva versión del Canal semianual (versión 1808, compilación 10730.20280), que contiene nuevas características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad.*
+*Esta es la versión de canal semianual que está disponible desde julio de 2018. Seguirá recibiendo soporte técnico y actualizaciones de seguridad hasta septiembre de 2019. Sin embargo, ahora hay disponible una nueva versión del Canal semianual (versión 1808, compilación 10730.20280), que contiene nuevas características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad.*
 
 ### <a name="access-non-security-updates"></a>Access: Actualizaciones no relacionadas con la seguridad 
 
@@ -103,7 +101,7 @@ No hay ninguna actualización este mes.
 ## <a name="version-1708-february-12"></a>Versión 1708: 12 de febrero
 *Versión 1708 (compilación 8431.2372)*
 
-*Esta es la versión del Canal semianual que ha estado disponible desde enero de 2018. Seguirá recibiendo soporte técnico y actualizaciones de seguridad hasta marzo de 2019. Pero ahora hay disponible una nueva versión del Canal semianual (versión 1808, compilación 10730.20280), que contiene nuevas características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad.*
+*Esta es la versión de Canal diferido que ha estado disponible desde enero de 2018. Seguirá recibiendo soporte técnico y actualizaciones de seguridad hasta marzo de 2019. Sin embargo, ahora hay disponible una nueva versión del Canal semianual (versión 1808, compilación 10730.20280), que contiene nuevas características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad.*
 
 ### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones no relacionadas con la seguridad
 
@@ -262,7 +260,7 @@ No hay ninguna actualización este mes.
 ## <a name="version-1803-january-8"></a>Versión 1803: 8 de enero
 *Versión 1803 (compilación 9126.2351)*
 
-*Esta es la versión del Canal semianual que ha estado disponible desde julio de 2018. Seguirá recibiendo soporte técnico y actualizaciones de seguridad hasta septiembre de 2019. Pero ahora está disponible una nueva versión del Canal semianual (versión 1808), que contiene nuevas características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad.*
+*Esta es la versión de canal semianual que está disponible desde julio de 2018. Seguirá recibiendo soporte técnico y actualizaciones de seguridad hasta septiembre de 2019. Sin embargo, ahora hay disponible una nueva versión del Canal semianual (versión 1808), que contiene nuevas características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad.*
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: actualizaciones no relacionadas con la seguridad
 - Se ha corregido un problema para garantizar la paridad de características de la opción de LinkedIn entre las aplicaciones de Office.

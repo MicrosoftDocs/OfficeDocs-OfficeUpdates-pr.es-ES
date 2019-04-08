@@ -3,19 +3,19 @@ title: Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 4/2/2019
+ms.date: 4/3/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Office 365 ProPlus según el canal de actualización.
-ms.openlocfilehash: b62212216545a690172901bef75543778b6dad64
-ms.sourcegitcommit: 7380adc27555df032fbc89fb3b68bafa82e0fad4
+ms.openlocfilehash: 89e16d8802ba6093b3ce0fb2d44dc3cc8fa61567
+ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/03/2019
-ms.locfileid: "31043436"
+ms.lasthandoff: 04/05/2019
+ms.locfileid: "31478567"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 
@@ -59,7 +59,7 @@ La versión esperada es la 1902 (compilación 11328.20230).
 
 ### <a name="monthly-channel"></a>Canal mensual
 
-La versión esperada es la 1903 (compilación 11425.20202). 
+La versión más actual es la 1903 (compilación 11425.20202). 
   
 |**Esta versión se actualiza a partir de**|**Fecha de lanzamiento**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
