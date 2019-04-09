@@ -3,19 +3,19 @@ title: Notas de la versión para las versiones de Canal mensual en 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/1/2019
+ms.date: 4/2/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2019
-ms.openlocfilehash: c8b1d204a39c443fe45feb087b99886ef1b2078d
-ms.sourcegitcommit: 7570500edd26426af50494223a56be02390cdc05
+ms.openlocfilehash: 7affb1cafbd86b6d2ac2098af501fd56079a7aa3
+ms.sourcegitcommit: d4f64674c19638db73a9706b105299dc0559ea64
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31027890"
+ms.lasthandoff: 04/08/2019
+ms.locfileid: "31516465"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal mensual en 2019
 
@@ -65,7 +65,7 @@ En estas notas de la versión, se proporciona información sobre característica
 
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
 
-- **Llame su atención con \@menciones:** use @menciones en los comentarios para que los compañeros de trabajo sepan cuándo necesita su opinión. [Más información](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **Llame su atención con \@menciones:** use @mentions en los comentarios para que los compañeros de trabajo sepan cuándo necesita su opinión. [Más información](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **Obtener más información sobre los datos:** el nuevo botón Ideas busca patrones en los datos y los usa para crear sugerencias inteligentes y personalizadas. [Más información](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 - **Guardar los cambios a medida que los realiza:** cargue el archivo en OneDrive para asegurarse de que todas las actualizaciones se guardan automáticamente.
 - **Capacidad de insertar SVG con filtros aplicados:** ahora, los usuarios de Office tienen la capacidad de insertar SVG con filtros aplicados. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
