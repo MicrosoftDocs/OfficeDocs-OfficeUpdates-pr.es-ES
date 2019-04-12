@@ -3,19 +3,19 @@ title: Notas de la versión para las versiones de Canal semianual en 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/9/2019
+ms.date: 4/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual de Office 365 ProPlus en 2019.
-ms.openlocfilehash: d97398deefa5cca33463b26f8e4611392e7d59fe
-ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
+ms.openlocfilehash: 994e266b351e3a8c8ca39fae5460473248d99a2b
+ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/05/2019
-ms.locfileid: "31478577"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31745552"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal semianual en 2019
 
@@ -27,6 +27,18 @@ En estas notas de la versión, se proporciona información sobre característica
 > [!NOTE]
 > - La información sobre las actualizaciones de seguridad de cada canal de actualización de Office 365 ProPlus se empezará a mostrar por separado en [Actualizaciones de seguridad](office365-proplus-security-updates.md).
 > - OneNote 2016 no se incluirá de forma predeterminada cuando un usuario en el canal semianual descargue e instale Office 365 en Windows 10 desde el Portal de Office.
+
+## <a name="version-1808-april-9"></a>Versión 1808: 9 de abril
+*Versión 1808 (compilación 10730.20334)*
+
+### <a name="word-non-security-updates"></a>Word: actualizaciones no relacionadas con la seguridad
+
+- Se ha corregido un problema que causaba que el usuario pudiese abrir documentos de forma anónima en IE o Edge.
+- Se ha corregido un problema que causaba que, al aplicar un color de resaltado de texto en el campo NUMPAGES o PAGE, en el encabezado o en el pie de página de un documento Word, el campo quedase en negro en lugar del color de resaltado aplicado.
+- Hemos agregado compatibilidad para el complemento del asistente para postales en japonés de Word para la nueva era japonesa. 
+
+## <a name="version-1803-april-9"></a>Versión 1803: 9 de abril
+No hay ninguna actualización este mes.
 
 ## <a name="version-1808-march-12"></a>Versión 1808: 12 de marzo
 *Versión 1808 (compilación 10730.20304)*
