@@ -3,19 +3,19 @@ title: Notas de la versión de Office para participantes de Office Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 4/5/2019
+ms.date: 4/11/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: a829ee5b17b51382cbb85dd7a135b271b62235fc
-ms.sourcegitcommit: d4f64674c19638db73a9706b105299dc0559ea64
+ms.openlocfilehash: cecd509883c6738c9640dabe15ec6f31ad5baf64
+ms.sourcegitcommit: 2e379740ddeb6f2e8f51da1d06002ffb2ddad02d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/08/2019
-ms.locfileid: "31516075"
+ms.lasthandoff: 04/11/2019
+ms.locfileid: "31818517"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -25,7 +25,38 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 > - Las notas de la versión se publican cada semana y pueden ser una compilación de varias compilaciones.
 > - La fecha de publicación de las notas de versión pueden no coincidir con la fecha real de lanzamiento de la compilación 
 
-## <a name="april-5th-2019"></a>5 de abril de 2019
+## <a name="april-11-2019"></a>11 de abril de 2019
+Versión 1905 (compilación 11601.20042)
+
+## <a name="notable-fixes"></a>Correcciones notables:
+
+### <a name="all-applications"></a>Todas las aplicaciones
+ - Se ha corregido un problema que impedía que algunos usuarios guardasen archivos en ubicaciones en la nube.
+ - Se ha corregido un problema por el que en ocasiones se abría el panel incorrecto desde la cinta
+
+### <a name="word"></a>Word 
+- Varias correcciones de rendimiento y estabilidad.
+
+### <a name="excel"></a>Excel
+- Se ha corregido un problema que generaba un mensaje de error para tipos de datos vinculados cuando el libro no contenía tipos de datos vinculados.
+- Se ha corregido un problema por el que los vínculos de direcciones URL de un documento de Word podían cambiar al verse de forma local o en línea.
+
+### <a name="powerpoint"></a>PowerPoint
+- Se ha corregido un problema por el que la aplicación podía bloquearse después de deshacer cambios desde la ficha de animaciones.
+
+### <a name="outlook"></a>Outlook
+- Se ha corregido un problema que impedía que algunos usuarios modificasen el campo Notas de los contactos de una carpeta pública
+- Se ha corregido un problema que podía producir un conflicto entre las fechas de vencimiento y eliminación.
+
+### <a name="access"></a>Access
+- Varias correcciones de rendimiento y estabilidad.
+
+### <a name="project"></a>Project
+- Varias correcciones de rendimiento y estabilidad.
+
+</BR></BR>
+
+## <a name="april-5-2019"></a>5 de abril de 2019
 Versión 1904 (compilación 11527.20014)
 
 ## <a name="notable-fixes"></a>Correcciones notables:
