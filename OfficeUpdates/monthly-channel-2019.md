@@ -3,19 +3,19 @@ title: Notas de la versión para las versiones de Canal mensual en 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/2/2019
+ms.date: 4/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2019
-ms.openlocfilehash: 7affb1cafbd86b6d2ac2098af501fd56079a7aa3
-ms.sourcegitcommit: d4f64674c19638db73a9706b105299dc0559ea64
+ms.openlocfilehash: d3a3f5ad4a4c7dd0caeb8b3fc268d00bd50590b2
+ms.sourcegitcommit: 2e379740ddeb6f2e8f51da1d06002ffb2ddad02d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/08/2019
-ms.locfileid: "31516465"
+ms.lasthandoff: 04/11/2019
+ms.locfileid: "31818507"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal mensual en 2019
 
@@ -28,8 +28,13 @@ En estas notas de la versión, se proporciona información sobre característica
  > [!NOTE]
 > - La información sobre las actualizaciones de seguridad de cada canal de actualización de Office 365 ProPlus se empezará a mostrar por separado en [Actualizaciones de seguridad](office365-proplus-security-updates.md). 
 
-## <a name="version-1903-april-01"></a>Versión 1903: 01 de abril
-*Versión 1903 (compilación 11425.20202)*
+## <a name="version-1903-april-9"></a>Versión 1903: 9 de abril
+*Versión 1903 (compilación 11425.20204)* 
+
+Las actualizaciones de seguridad se enumeran [aquí](office365-proplus-security-updates.md)
+
+## <a name="version-1903-april-01"></a>Versión 1903: 01 de abril 
+*Versión 1903 (compilación 11425.20202)* 
 
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
 
@@ -40,6 +45,15 @@ En estas notas de la versión, se proporciona información sobre característica
 - **Mejores transformaciones:** Asigne un nombre a las formas para tener más control sobre cómo se transforman. [Más información](https://support.office.com/article/9bc7f48ff-f152-4ee8-9081-d3121788024f)
 
 - **Aumentar el alcance de su contenido** ¿Necesita hacer que sus presentaciones sean accesibles? Deje que el comprobador de accesibilidad le ayude sin estorbar. Pruébelo en Revisar > Comprobar accesibilidad y le informaremos en la barra de estado de cuando necesitemos que compruebe algo.
+
+- **¿Por qué reinventar cuando puede reutilizar?**  Ahorre tiempo usando de nuevo las diapositivas que haya creado o que otros usuarios han compartido con usted.
+
+### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: actualizaciones no relacionadas con la seguridad
+
+- Corrección para el problema que causaba que Skype Empresarial dejase de responder al responder a las notificaciones de chat si había aplicaciones SDK de SfB/Lync de terceros.
+- Corrección del bloqueo de la aplicación al pegar contenido específico del portapapeles en un chat.
+- Corrección para el problema que impedía mostrar la información "aceptada por" para una llamada de la cola de llamadas atendida por uno de los agentes de llamada.
+- Se ha corregido un problema que producía que se ocultasen los iconos de llamada cuando un usuario de Teams se unía a una reunión de Skype Empresarial.
 
 ### <a name="word-feature-updates"></a>Word: actualizaciones de características
 
