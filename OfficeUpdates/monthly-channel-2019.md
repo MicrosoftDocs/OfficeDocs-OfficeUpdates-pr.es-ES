@@ -3,19 +3,19 @@ title: Notas de la versión para las versiones de Canal mensual en 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/11/2019
+ms.date: 4/18/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2019
-ms.openlocfilehash: d3a3f5ad4a4c7dd0caeb8b3fc268d00bd50590b2
-ms.sourcegitcommit: 2e379740ddeb6f2e8f51da1d06002ffb2ddad02d
+ms.openlocfilehash: f76fdeaa8a9d6e26cbdc9f26ae4a74b91567d4e2
+ms.sourcegitcommit: 3ebcb7f15a717f52cc33ec12e57792c00da09e10
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/11/2019
-ms.locfileid: "31818507"
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "31912576"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal mensual en 2019
 
@@ -27,6 +27,16 @@ En estas notas de la versión, se proporciona información sobre característica
 
  > [!NOTE]
 > - La información sobre las actualizaciones de seguridad de cada canal de actualización de Office 365 ProPlus se empezará a mostrar por separado en [Actualizaciones de seguridad](office365-proplus-security-updates.md). 
+
+## <a name="version-1903-april-17"></a>Versión 1903: 17 de abril
+*Versión 1903 (compilación 11425.20228)*
+
+- Varias correcciones de errores y rendimiento.
+
+## <a name="version-1903-april-16"></a>Versión 1903: 16 de abril
+*Versión 1903 (compilación 11425.20218)*
+
+- Varias correcciones de errores y rendimiento.
 
 ## <a name="version-1903-april-9"></a>Versión 1903: 9 de abril
 *Versión 1903 (compilación 11425.20204)* 
@@ -79,7 +89,7 @@ Las actualizaciones de seguridad se enumeran [aquí](office365-proplus-security-
 
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
 
-- **Llame su atención con \@menciones:** use @mentions en los comentarios para que los compañeros de trabajo sepan cuándo necesita su opinión. [Más información](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **Llame su atención con \@menciones:** use @menciones en los comentarios para que los compañeros de trabajo sepan cuándo necesita su opinión. [Más información](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **Obtener más información sobre los datos:** el nuevo botón Ideas busca patrones en los datos y los usa para crear sugerencias inteligentes y personalizadas. [Más información](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 - **Guardar los cambios a medida que los realiza:** cargue el archivo en OneDrive para asegurarse de que todas las actualizaciones se guardan automáticamente.
 - **Capacidad de insertar SVG con filtros aplicados:** ahora, los usuarios de Office tienen la capacidad de insertar SVG con filtros aplicados. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
