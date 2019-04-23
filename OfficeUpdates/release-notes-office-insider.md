@@ -3,19 +3,19 @@ title: Notas de la versión de Office para participantes de Office Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 4/11/2019
+ms.date: 4/19/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: cecd509883c6738c9640dabe15ec6f31ad5baf64
-ms.sourcegitcommit: 2e379740ddeb6f2e8f51da1d06002ffb2ddad02d
+ms.openlocfilehash: b5d7bffcab3fd526fbf059f8868f86f8d5ff80fd
+ms.sourcegitcommit: a9bf63c589b511ddc8c66c9221d20ea9654d60ea
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/11/2019
-ms.locfileid: "31818517"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31958141"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -25,7 +25,60 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 > - Las notas de la versión se publican cada semana y pueden ser una compilación de varias compilaciones.
 > - La fecha de publicación de las notas de versión pueden no coincidir con la fecha real de lanzamiento de la compilación 
 
-## <a name="april-11-2019"></a>11 de abril de 2019
+## <a name="april-19-2019"></a>19 de abril de 2019
+Versión 1905 (compilación 11609.20002)
+
+## <a name="whats-new"></a>Novedades:
+
+### <a name="excel"></a>Excel
+
+#### <a name="improved-filled-maps-experience-using-data-types"></a>Experiencia mejorada de Mapas coropléticos con Tipos de datos
+
+Esta característica es una mejora para los usuarios que trazan gráficos de mapas coropléticos con los tipos de datos geográficos de Excel. El beneficio para los usuarios finales será una integración más rica entre las características y una mayor precisión de la región que el usuario final quiere mostrar en el mapa. Entre otras ventajas adicionales está la capacidad de mostrar en el mapa polígonos urbanos.
+
+##### <a name="getting-started"></a>Introducción:
+
+- Esta característica es una mejora de las características existentes en Excel. Para usar la mejora: convertir ubicaciones en entidades enriquecidas y trazado con Mapas coropléticos. 
+
+##### <a name="scenarios-to-try"></a>Escenarios que puede probar:
+
+- Los usuarios pueden probar la creación de mapas de ciudades, estados, provincias, países y códigos postales. 
+
+
+## <a name="notable-fixes"></a>Correcciones notables:
+
+### <a name="all-applications"></a>Todas las aplicaciones
+- Se ha corregido un problema por el que el cuadro de diálogo de Primera ejecución se mostraba al iniciar una aplicación.
+- Se ha corregido un problema por el que podía faltar un vínculo de SharePoint en el cuadro de diálogo "Guardar como".
+- Se ha corregido un problema por el que los usuarios veían un cuadro de diálogo "Reparar ahora" incorrecto.
+
+### <a name="word"></a>Word 
+- Se ha corregido un problema por el que algunos usuarios podían recibir un error de memoria o espacio en disco insuficiente al solicitar una fuente.
+- Se ha corregido un problema por el que una ventana podía perder el foco al cambiar desde el panel de comentarios.
+
+### <a name="excel"></a>Excel
+- Varias correcciones de rendimiento y estabilidad.
+
+### <a name="powerpoint"></a>PowerPoint
+- Se ha corregido un problema que impedía el cambio de tamaño de las formas con marca.
+- Se ha corregido un problema por el que PowerPoint podía bloquearse al abrir un archivo en modo de vista protegida.
+
+### <a name="outlook"></a>Outlook
+- Se ha corregido un problema que impedía que algunos usuarios seleccionasen palabras chinas.
+- Se ha corregido un problema por el que las fechas de expiración no se calculaban correctamente.
+
+### <a name="access"></a>Access
+- Se ha corregido un problema que impedía que algunos usuarios usasen el Generador de macros.
+- Se ha corregido un problema por el que al imprimir un informe solo se imprimía la primera página.
+- Se ha corregido un problema por el que la aplicación podía bloquearse al pasar el puntero sobre un hipervínculo.
+- Se ha corregido un problema que provocaba que algunos elementos apareciesen fuera de la pantalla al usar la vista Relaciones.
+
+### <a name="project"></a>Project
+- Varias correcciones de rendimiento y estabilidad.
+
+</BR></BR>
+
+## <a name="april-12-2019"></a>12 de abril de 2019
 Versión 1905 (compilación 11601.20042)
 
 ## <a name="notable-fixes"></a>Correcciones notables:
@@ -213,7 +266,7 @@ Versión 1903 (compilación 11414.20014)
 - Se ha corregido un problema por el que al copiar una celda en Excel se producía un uso elevado de la CPU cuando al abrir un documento protegido y un documento editable
 
 ### <a name="powerpoint"></a>PowerPoint
-- Se ha corregido un problema con el tamaño de la imagen de diapositiva al usar @Mentions en PowerPoint.
+- Se ha corregido un problema con el tamaño de la imagen de diapositiva al usar @Menciones en PowerPoint
 
 ### <a name="outlook"></a>Outlook
 - Se ha corregido un problema por el que la búsqueda de Outlook no respetaba la ordenación cronológica seleccionada

@@ -3,19 +3,19 @@ title: Historial de actualizaciones del canal de Office Insider
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 03/19/2019
+ms.date: 04/19/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a participantes del programa Insider el historial de actualizaciones de los lanzamientos del canal mensual del modo anticipado de Insider para versiones de escritorio de Windows
-ms.openlocfilehash: c7ed3256c7253f2b1d42267447909a10479b636b
-ms.sourcegitcommit: d4f64674c19638db73a9706b105299dc0559ea64
+ms.openlocfilehash: b7eeee07099d7e1e32bad421d00c4a0570ff4e62
+ms.sourcegitcommit: a9bf63c589b511ddc8c66c9221d20ea9654d60ea
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/08/2019
-ms.locfileid: "31516475"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31958151"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Historial de actualizaciones del canal de Office Insider
 
@@ -33,7 +33,11 @@ Si está inscrito en el nivel de Insider, obtendrá actualizaciones frecuentes c
 
 Para obtener las notas de la versión, vea [notas de la versión de Insider de Office para escritorio de Windows](https://docs.microsoft.com/es-ES/OfficeUpdates/release-notes-office-insider).
 
-**1 de abril de 2019**<br/> Versión 1904 (compilación 11527.20004)<br/>
+[//]: # (NO ELIMINAR)
+
+**15 de abril de 2019**<br/> Version 1905 (compilación 11609.20002)<br/>
+
+**7 de abril de 2019**<br/> Versión 1904 (compilación 11601.20042)<br/>
 
 **18 de marzo de 2019**<br/> Versión 1904 (compilación 11520.20004)<br/>
 
@@ -66,9 +70,11 @@ Para obtener las notas de la versión, vea [notas de la versión de Insider de O
 
 ![Imagen que muestra el icono de twitter. ](images/twitter.png)<br/>
 **Office Insider en Twitter**<br/> En @OfficeInsider, realizamos publicaciones frecuentes sobre los lanzamientos de Insider y celebramos eventos especiales para participantes del programa.<br/> 
-[Síganos en Twitter:](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
+[Síganos en Twitter](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-[![IImagen que muestra el icono de Facebook.  ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
+
+  [
+  ![Imagen que muestra el icono de Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
 
 
 **Sea el primero en obtener nuevas características**
