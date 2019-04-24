@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de ti una lista de los archivos. MSP más recientes para las versiones perpetuas de Office 2013 que usan Windows Installer (MSI).
 ms.openlocfilehash: 5ef01434106b4225a440116d7c5bbc32cb0e72b7
-ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31745582"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32438615"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2013-products"></a>Lista de los archivos. MSP más recientes para los productos de Office 2013
 

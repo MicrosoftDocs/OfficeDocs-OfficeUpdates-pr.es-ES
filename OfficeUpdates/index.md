@@ -10,18 +10,18 @@ ms.topic: landing-page
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Landing
-description: Proporciona el contenido de la versión de los profesionales de TI con vínculos a Office para Office 365 ProPlus, Office para Mac, perpetua, Office y Office Server productos
+description: Proporciona a los profesionales de ti vínculos al contenido de la versión de Office para Office 365 proPlus, Office para Mac, Perpetual Office y productos de servidor de Office
 ms.openlocfilehash: 7bd39ca0929047841f1f40333029cb63a8d2a10c
-ms.sourcegitcommit: 6782299423eaf5303519f637783555eab656fde2
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2018
-ms.locfileid: "26024564"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32438772"
 ---
 # <a name="office-updates"></a>Actualizaciones de Office
 
   
-Obtener información sobre las características, actualizaciones de seguridad y las actualizaciones de seguridad comunes para los productos de Office, incluidos Office 365 ProPlus, Office para Mac, productos de Office Server y perpetua, versiones de Office.
+Obtenga información sobre características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad de los productos de Office, como Office 365 proPlus, Office para Mac, productos de servidor de Office y versiones perpetuas de Office.
   
 
 ---
@@ -34,8 +34,8 @@ Obtener información sobre las características, actualizaciones de seguridad y 
                     <div class="cardText">
                         <h3>Office 365 ProPlus</h3>
                         <p><a href="release-notes-office365-proplus.md">Notas de la versión</a></p>
-                        <p><a href="update-history-office365-proplus-by-date.md">Historial de actualización (por fecha)</a></p>
-                        <p><a href="download-sizes-office365-proplus-updates.md">Tamaños de las actualizaciones</a></p>
+                        <p><a href="update-history-office365-proplus-by-date.md">Historial de actualizaciones (por fecha)</a></p>
+                        <p><a href="download-sizes-office365-proplus-updates.md">Tamaños de actualización</a></p>
                     </div>
                 </div>
             </div>
@@ -48,9 +48,9 @@ Obtener información sobre las características, actualizaciones de seguridad y 
                     <div class="cardText">
                         <h3>Office para Mac</h3>
                         <p><a href="release-notes-office-for-mac.md">Notas de la versión (Office 365, 2019)</a></p>
-                        <p><a href="update-history-office-for-mac.md">Actualizar historial (Office 365, 2019)</a></p>
+                        <p><a href="update-history-office-for-mac.md">Historial de actualizaciones (Office 365, 2019)</a></p>
                         <p><a href="release-notes-office-2016-mac.md">Notas de la versión (2016)</a></p>
-                        <p><a href="release-history-microsoft-autoupdate.md">MAU versiones</a></p>
+                        <p><a href="release-history-microsoft-autoupdate.md">Versiones de MAU</a></p>
                      </div>
                 </div>
             </div>
@@ -65,7 +65,7 @@ Obtener información sobre las características, actualizaciones de seguridad y 
                         <p><a href="https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates">Actualizaciones de Exchange Server</a></p>
                         <p><a href="project-server-updates.md">Actualización de Project Server</a></p>
                         <p><a href="sharepoint-updates.md">Actualizaciones de SharePoint Server</a></p>
-                        <p><a href="https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates">Skype para actualizaciones de Business Server</a></p>
+                        <p><a href="https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates">Actualizaciones de Skype empresarial Server</a></p>
                </div>
                 </div>
             </div>
@@ -80,11 +80,11 @@ Obtener información sobre las características, actualizaciones de seguridad y 
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText">
-                        <h3>Office (permanente)</h3>
+                        <h3>Office (perpetua)</h3>
                             <p><a href="office-updates-msi.md">Actualizaciones de Office</a></p>
                             <p><a href="outlook-updates-msi.md">Actualizaciones de Outlook</a></p>
-                            <p><a href="https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates">Las actualizaciones de Skype para la empresa</a></p>
-                            <p><a href="msp-files-office-2016.md">Archivos .msp de 2016 de Office</a></p>
+                            <p><a href="https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates">Actualizaciones de Skype empresarial</a></p>
+                            <p><a href="msp-files-office-2016.md">Archivos. MSP de Office 2016</a></p>
                     </div>
                 </div>
             </div>
@@ -112,9 +112,9 @@ Obtener información sobre las características, actualizaciones de seguridad y 
                     <div class="cardText">
                         <h3>Recursos de Microsoft</h3>
                             <p><a href="https://www.microsoft.com/itpro/windows-10/release-information">Información sobre la versión de Windows 10</a></p>
-                            <p><a href="https://support.microsoft.com/lifecycle">Directiva de ciclo de vida de Microsoft</a></p>
+                            <p><a href="https://support.microsoft.com/lifecycle">Directiva de Microsoft vida</a></p>
                             <p><a href="https://portal.msrc.microsoft.com/">Guía de actualización de seguridad de Microsoft</a></p>
-                            <p><a href="https://techcommunity.microsoft.com/">Comunidad de Microsoft Tech</a></p>
+                            <p><a href="https://techcommunity.microsoft.com/">Microsoft Tech Community</a></p>
                     </div>
                 </div>
             </div>
