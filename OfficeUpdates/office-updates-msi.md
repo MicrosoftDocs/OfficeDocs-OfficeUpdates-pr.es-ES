@@ -11,11 +11,11 @@ localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI vínculos a la información de las últimas actualizaciones de las versiones perpetuas de Office 2016, Office 2013 y Office 2010.
 ms.openlocfilehash: 82f0e6e29bebaf99f87a91ef98bfe115f114954a
-ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31745422"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32438575"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Últimas actualizaciones para las versiones de Office que usan Windows Installer (MSI)
 
@@ -50,9 +50,9 @@ Use los vínculos de esta página para obtener más información sobre las actua
    
 ## <a name="updates-released-in-past-12-months"></a>Actualizaciones publicadas en los últimos 12 meses
 
-[Actualizaciones de seguridad y no relacionadas con la seguridad de abril de 2019: KB4495300](https://support.microsoft.com/en-us/help/4495300)
+[Actualizaciones de seguridad y no relacionadas con la seguridad de abril de 2019: KB4495300](https://support.microsoft.com/es-ES/help/4495300)
 
-[Actualizaciones de seguridad y no relacionadas con la seguridad de marzo de 2019: KB4491754](https://support.microsoft.com/en-us/help/4491754) 
+[Actualizaciones de seguridad y no relacionadas con la seguridad de marzo de 2019: KB4491754](https://support.microsoft.com/es-ES/help/4491754) 
 
 [Actualizaciones de seguridad y no relacionadas con la seguridad de febrero de 2019: KB4488446](https://support.microsoft.com/help/4488446)
 
@@ -72,7 +72,7 @@ Use los vínculos de esta página para obtener más información sobre las actua
 
 [Actualizaciones de seguridad y no relacionadas con la seguridad de junio de 2018: KB4299875](https://support.microsoft.com/help/4299875)  
 
-[Actualizaciones de seguridad y no relacionadas con la seguridad de mayo de 2018: KB4133083 ](https://support.microsoft.com/en-us/help/4133083)
+[Actualizaciones de seguridad y no relacionadas con la seguridad de mayo de 2018: KB4133083 ](https://support.microsoft.com/es-ES/help/4133083)
   
  
   
