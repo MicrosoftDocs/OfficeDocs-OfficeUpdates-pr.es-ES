@@ -3,19 +3,19 @@ title: Notas de la versión para las versiones de Canal semianual en 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/10/2019
+ms.date: 4/25/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual de Office 365 ProPlus en 2019.
-ms.openlocfilehash: 994e266b351e3a8c8ca39fae5460473248d99a2b
-ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
+ms.openlocfilehash: 0e8641b742db196ed58dc4ede93ee684ba5fce90
+ms.sourcegitcommit: 94e693acd861203b45043692b477f270f1610fe9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31745552"
+ms.lasthandoff: 04/24/2019
+ms.locfileid: "33234902"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal semianual en 2019
 
@@ -31,6 +31,9 @@ En estas notas de la versión, se proporciona información sobre característica
 ## <a name="version-1808-april-9"></a>Versión 1808: 9 de abril
 *Versión 1808 (compilación 10730.20334)*
 
+### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: actualizaciones no relacionadas con la seguridad
+- Se corrige un problema en Lync (Skype Empresarial) por el que en cualquier reunión en línea con más de 7 participantes, la ventana de reunión puede desaparecer.
+
 ### <a name="word-non-security-updates"></a>Word: actualizaciones no relacionadas con la seguridad
 
 - Se ha corregido un problema que causaba que el usuario pudiese abrir documentos de forma anónima en IE o Edge.
@@ -38,7 +41,7 @@ En estas notas de la versión, se proporciona información sobre característica
 - Hemos agregado compatibilidad para el complemento del asistente para postales en japonés de Word para la nueva era japonesa. 
 
 ## <a name="version-1803-april-9"></a>Versión 1803: 9 de abril
-No hay ninguna actualización este mes.
+- Las actualizaciones de seguridad se enumeran [aquí](office365-proplus-security-updates.md)
 
 ## <a name="version-1808-march-12"></a>Versión 1808: 12 de marzo
 *Versión 1808 (compilación 10730.20304)*
@@ -57,7 +60,7 @@ No hay ninguna actualización este mes.
 - Se ha corregido un problema por el que la actualización de Office puede quedarse bloqueada durante algún tiempo al intenta descargar.
 
 ## <a name="version-1803-march-12"></a>Versión 1803: 12 de marzo 
-No hay ninguna actualización este mes.
+- Las actualizaciones de seguridad se enumeran [aquí](office365-proplus-security-updates.md)
 
 ## <a name="version-1808-february-12"></a>Versión 1808: 12 de febrero
 *Versión 1808 (compilación 10730.20280)*
@@ -81,7 +84,7 @@ No hay ninguna actualización este mes.
 ## <a name="version-1803-february-12"></a>Versión 1803: 12 de febrero
 *Versión 1803 (compilación 9126.2356)*
 
-*Esta es la versión de canal semianual que está disponible desde julio de 2018. Seguirá recibiendo soporte técnico y actualizaciones de seguridad hasta septiembre de 2019. Sin embargo, ahora hay disponible una nueva versión del Canal semianual (versión 1808, compilación 10730.20280), que contiene nuevas características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad.*
+*Esta es la versión del Canal semianual que ha estado disponible desde julio de 2018. Seguirá recibiendo soporte técnico y actualizaciones de seguridad hasta septiembre de 2019. Pero ahora está disponible una nueva versión del Canal semianual (versión 1808, compilación 10730.20280), que contiene nuevas características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad.*
 
 ### <a name="access-non-security-updates"></a>Access: Actualizaciones no relacionadas con la seguridad 
 
@@ -113,7 +116,7 @@ No hay ninguna actualización este mes.
 ## <a name="version-1708-february-12"></a>Versión 1708: 12 de febrero
 *Versión 1708 (compilación 8431.2372)*
 
-*Esta es la versión de Canal diferido que ha estado disponible desde enero de 2018. Seguirá recibiendo soporte técnico y actualizaciones de seguridad hasta marzo de 2019. Sin embargo, ahora hay disponible una nueva versión del Canal semianual (versión 1808, compilación 10730.20280), que contiene nuevas características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad.*
+*Esta es la versión del Canal semianual que ha estado disponible desde enero de 2018. Seguirá recibiendo soporte técnico y actualizaciones de seguridad hasta marzo de 2019. Pero ahora hay disponible una nueva versión del Canal semianual (versión 1808, compilación 10730.20280), que contiene nuevas características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad.*
 
 ### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones no relacionadas con la seguridad
 
@@ -272,7 +275,7 @@ No hay ninguna actualización este mes.
 ## <a name="version-1803-january-8"></a>Versión 1803: 8 de enero
 *Versión 1803 (compilación 9126.2351)*
 
-*Esta es la versión de canal semianual que está disponible desde julio de 2018. Seguirá recibiendo soporte técnico y actualizaciones de seguridad hasta septiembre de 2019. Sin embargo, ahora hay disponible una nueva versión del Canal semianual (versión 1808), que contiene nuevas características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad.*
+*Esta es la versión del Canal semianual que ha estado disponible desde julio de 2018. Seguirá recibiendo soporte técnico y actualizaciones de seguridad hasta septiembre de 2019. Pero ahora está disponible una nueva versión del Canal semianual (versión 1808), que contiene nuevas características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad.*
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: actualizaciones no relacionadas con la seguridad
 - Se ha corregido un problema para garantizar la paridad de características de la opción de LinkedIn entre las aplicaciones de Office.
