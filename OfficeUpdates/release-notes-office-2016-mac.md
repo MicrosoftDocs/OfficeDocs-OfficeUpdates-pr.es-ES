@@ -11,11 +11,11 @@ localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales de TI las notas de la versión de las versiones de Office 2016 para Mac a partir de septiembre de 2018
 ms.openlocfilehash: 7b46ce1be815d252ab4493630ac18989282cbcb5
-ms.sourcegitcommit: 5a3394599c426087999ef0a7044a7a511405b665
+ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/24/2019
-ms.locfileid: "32460145"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "33370302"
 ---
 # <a name="release-notes-for-office-2016-for-mac"></a>Notas de la versión de Office 2016 para Mac
 
