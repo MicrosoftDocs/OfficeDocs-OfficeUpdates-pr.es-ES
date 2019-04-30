@@ -3,19 +3,19 @@ title: Notas de la versión de Office para participantes de Office Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 4/19/2019
+ms.date: 4/26/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: b5d7bffcab3fd526fbf059f8868f86f8d5ff80fd
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 8832e521d85c7049518bd5063250b934a7938fd2
+ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438915"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "33370192"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -24,6 +24,32 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 > [!NOTE]
 > - Las notas de la versión se publican cada semana y pueden ser una compilación de varias compilaciones.
 > - La fecha de publicación de las notas de versión pueden no coincidir con la fecha real de lanzamiento de la compilación 
+
+## <a name="april-26-2019"></a>26 de abril de 2019
+Version 1905 (compilación 11617.20002)
+
+## <a name="notable-fixes"></a>Correcciones notables:
+
+### <a name="word"></a>Word 
+- Varias correcciones de rendimiento y estabilidad.
+
+### <a name="excel"></a>Excel
+- Se ha corregido un problema que podría impedir ejecutar macros Solver
+- Se ha corregido un problema que puede impedir que los archivos de Excel se importen a SharePoint
+
+### <a name="powerpoint"></a>PowerPoint
+- Varias correcciones de rendimiento y estabilidad.
+
+### <a name="outlook"></a>Outlook
+- Varias correcciones de rendimiento y estabilidad.
+
+### <a name="access"></a>Access
+- Varias correcciones de rendimiento y estabilidad.
+
+### <a name="project"></a>Project
+- Varias correcciones de rendimiento y estabilidad.
+
+</BR></BR>
 
 ## <a name="april-19-2019"></a>19 de abril de 2019
 Versión 1905 (compilación 11609.20002)

@@ -3,19 +3,19 @@ title: Historial de actualizaciones de Office 365 ProPlus (ordenado por fecha)
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 4/18/2019
+ms.date: 4/24/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista completa de las versiones de Office 365 ProPlus, organizada por fecha, con vínculos a las notas de la versión.
-ms.openlocfilehash: d511ac266711293dbfc0a65b876861816ed6ab20
-ms.sourcegitcommit: 3ebcb7f15a717f52cc33ec12e57792c00da09e10
+ms.openlocfilehash: a919e2deb8bb244f93a10f479339a760b3b936d6
+ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "31912596"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "33370242"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Historial de actualizaciones de Office 365 ProPlus (ordenado por fecha)
 
@@ -31,7 +31,7 @@ En la tabla siguiente se muestra la versión compatible y el número de compilac
  
 |**Canal**|**Versión**|**Compilación**|**Fecha de publicación**|**Versión admitida hasta**|
 |:-----|:-----|:-----|:-----|:-----|
-|Cada mes  <br/> |1903 <br/> |11425.20228 <br/> | 17 de abril de 2019 <br/> |Se ha publicado la versión 1904 <br/>|
+|Cada mes  <br/> |1903 <br/> |11425.20244 <br/> | 22 de abril de 2019 <br/> |Se ha publicado la versión 1904 <br/>|
 |Semianual (dirigido)  <br/> |1902  <br/> |11328.20230 <br/> |  9 de abril de 2019 <br/> | 10 de septiembre de 2019 <br/>|
 |Semianual <br/> |1808  <br/> | 10730.20334<br/> | 9 de abril de 2019  <br/> |  10 de marzo de 2020 <br/>|
 |Semianual <br/> |1803  <br/> | 9126.2382  <br/> | 9 de abril de 2019  <br/> |  10 de septiembre de 2019 <br/>|
@@ -42,8 +42,9 @@ Para obtener información sobre los tamaños de descarga aproximados de las actu
 En la tabla siguiente, se muestra una lista de los números de versión y compilación para todas las actualizaciones de Office 365 ProPlus publicadas en los siguientes canales de actualización: mensual, semianual (dirigido) y semianual. Cada entrada en la tabla contiene un vínculo directo a las notas de esa versión. Las notas de la versión proporcionan información sobre características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad que se incluyen en la actualización de Office 365 ProPlus.
 
 
-|**Año**|**Fecha de publicación**|**Canal mensual**|**Canal semianual (dirigido)**|**Canal semianual**|
+|**Year**|**Fecha de publicación**|**Canal mensual**|**Canal semianual (dirigido)**|**Canal semianual**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|22 de abril |[Versión 1903 (compilación 11425.20244)](monthly-channel-2019.md#version-1903-april-22)| | |
 |2019|17 de abril |[Versión 1903 (compilación 11425.20228)](monthly-channel-2019.md#version-1903-april-17)| | |
 |2019|16 de abril |[Versión 1903 (compilación 11425.20218)](monthly-channel-2019.md#version-1903-april-16)| | |
 |2019|9 de abril |[Versión 1903 (compilación 11425.20204)](monthly-channel-2019.md#version-1903-april-9)|[Versión 1902 (compilación 11328.20230)](semi-annual-channel-targeted-2019.md#version-1903-april-9) |[Versión 1808 (compilación 10730.20334)](semi-annual-channel-2019.md#version-1808-april-9)  <br/>  [Versión 1803 (compilación 9126.2382)](semi-annual-channel-2019.md#version-1803-april-9) |
