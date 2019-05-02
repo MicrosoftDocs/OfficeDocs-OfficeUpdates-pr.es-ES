@@ -3,19 +3,19 @@ title: Notas de la versión para las versiones de Canal mensual en 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/25/2019
+ms.date: 4/30/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2019
-ms.openlocfilehash: 6c0b086c3dffe6f8942359714b304e81a711b360
-ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
+ms.openlocfilehash: 83962a846ab8671d147ed55681d982fe905455af
+ms.sourcegitcommit: 7180e0cecf76b5e7edc3a5d41238da15901ec1fd
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "33370292"
+ms.lasthandoff: 04/30/2019
+ms.locfileid: "33480096"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal mensual en 2019
 
@@ -27,6 +27,30 @@ En estas notas de la versión, se proporciona información sobre característica
 
  > [!NOTE]
 > - La información sobre las actualizaciones de seguridad de cada canal de actualización de Office 365 ProPlus se empezará a mostrar por separado en [Actualizaciones de seguridad](office365-proplus-security-updates.md). 
+
+## <a name="version-1904-april-29"></a>Versión 1904: 29 de abril
+*Versión 1904 (compilación 11601.20144)* 
+
+### <a name="excel-feature-updates"></a>Excel: actualizaciones de características
+
+- **Encuentre ese archivo rápido:** ¿Busca un archivo en el que trabajó recientemente? Basta con que escriba en el cuadro de búsqueda en la página Archivo > Inicio para encontrar el archivo que busca.
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
+
+- **Encuentre ese archivo rápido:** ¿Busca un archivo en el que trabajó recientemente? Basta con que escriba en el cuadro de búsqueda en la página Archivo > Inicio para encontrar el archivo que busca.
+
+### <a name="word-feature-updates"></a>Word: actualizaciones de características
+
+- **Encuentre ese archivo rápido:** ¿Busca un archivo en el que trabajó recientemente? Basta con que escriba en el cuadro de búsqueda en la página Archivo > Inicio para encontrar el archivo que busca.
+
+### <a name="office-suite-feature-updates"></a>Conjunto de aplicaciones de Office: actualizaciones de características
+
+- **Controles de privacidad:** nuevos controles para datos de diagnóstico y experiencias conectadas, actualizados y mejorados. [Más información](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
+
+- **Nuevos iconos de aplicación de Office**: nuevo diseño de iconos de la aplicación para reflejar las sencillas, eficaces e inteligentes experiencias de Office.
+
+### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones no relacionadas con la seguridad
+Se corrigió un problema de identificación del nombre de la nueva era "Reiwa" en Hiragana y Kanji como una expresión gramaticalmente incorrecta o mal escrita.
 
 ## <a name="version-1903-april-23"></a>Versión 1903: 23 de abril
 *Versión 1903 (compilación 11425.20244)*
