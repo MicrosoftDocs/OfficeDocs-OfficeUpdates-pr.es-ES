@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión de las actualizaciones de seguridad de Office 365 ProPlus
-ms.openlocfilehash: b96348d9dc180220cc604d644db27ee75bb7e927
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: dc34957ed448b9be20019988ce862ca9cad76c4d
+ms.sourcegitcommit: dee992f8ce988adc164ab492529e92db5e450a09
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438793"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33639621"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Notas de la versión para las actualizaciones de seguridad de Office 365 ProPlus
 
@@ -24,6 +24,8 @@ Estas notas de la versión proporcionan información sobre las correcciones de s
 > [!NOTE]
 > - Lo siguiente también proporciona información sobre actualizaciones de seguridad para Visio Pro para Office 365 y el cliente de escritorio de Project Online.
 > - Esta información también se aplica a Office 365 Empresa, que es la versión de Office que viene con algunos planes de Office 365, como Empresa Premium.
+
+[//]: # (NO QUITAR LA LÍNEA ANTERIOR, se usa para el espaciado)
 ## <a name="april-09-2019"></a>9 de abril de 2019
 Canal mensual: versión 1903 (compilación 11425.20204)  
 El canal semianual (dirigido): versión 1902 (compilación 11328.20230)  
