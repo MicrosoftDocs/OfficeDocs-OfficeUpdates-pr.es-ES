@@ -3,19 +3,18 @@ title: Notas de la versión para las versiones de Canal mensual en 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/30/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2019
-ms.openlocfilehash: 83962a846ab8671d147ed55681d982fe905455af
-ms.sourcegitcommit: 7180e0cecf76b5e7edc3a5d41238da15901ec1fd
+ms.openlocfilehash: b7719bf3c8fd69aa43a9a680a68ae26d00a63878
+ms.sourcegitcommit: 91533ef9a8358bfe6162b4f4913ebcc4c0f928cc
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/30/2019
-ms.locfileid: "33480096"
+ms.lasthandoff: 05/09/2019
+ms.locfileid: "33834819"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal mensual en 2019
 
@@ -28,6 +27,11 @@ En estas notas de la versión, se proporciona información sobre característica
  > [!NOTE]
 > - La información sobre las actualizaciones de seguridad de cada canal de actualización de Office 365 ProPlus se empezará a mostrar por separado en [Actualizaciones de seguridad](office365-proplus-security-updates.md). 
 
+## <a name="version-1904-may-08"></a>Versión 1904: 08 de mayo 
+*Versión 1904 (Compilación 11601.20178)* 
+
+ - Varias correcciones de errores y rendimiento.
+
 ## <a name="version-1904-april-29"></a>Versión 1904: 29 de abril
 *Versión 1904 (compilación 11601.20144)* 
 
@@ -35,15 +39,25 @@ En estas notas de la versión, se proporciona información sobre característica
 
 - **Encuentre ese archivo rápido:** ¿Busca un archivo en el que trabajó recientemente? Basta con que escriba en el cuadro de búsqueda en la página Archivo > Inicio para encontrar el archivo que busca.
 
+### <a name="outlook-feature-updates"></a>Outlook: actualizaciones de características
+
+- **Conecte su red de LinkedIn con Outlook:** Conecte de forma segura su cuenta de LinkedIn con su cuenta de Microsoft para ver la información de los perfiles de LinkedIn directamente en las tarjetas personales. [Más información](https://support.office.com/article/98253fdc-a3c2-47e4-8852-ebb4fbed0bc5)
+
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
 
 - **Encuentre ese archivo rápido:** ¿Busca un archivo en el que trabajó recientemente? Basta con que escriba en el cuadro de búsqueda en la página Archivo > Inicio para encontrar el archivo que busca.
 
 ### <a name="word-feature-updates"></a>Word: actualizaciones de características
 
+- **Exportar diagramas de proceso a Word:** Agregue automáticamente contenido del diagrama, como formas y metadatos, a un documento de Word. Después, personalice el documento para crear instrucciones de procesos y manuales de funcionamiento. [Más información](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+
+ - **Colores de control de cambios, comentarios y colaboración en tiempo real sincronizados:** Las correcciones de nuestro producto ahora aseguran que los comentarios, control de cambios y el cursor para un colaborador se muestren en el mismo color.
+
 - **Encuentre ese archivo rápido:** ¿Busca un archivo en el que trabajó recientemente? Basta con que escriba en el cuadro de búsqueda en la página Archivo > Inicio para encontrar el archivo que busca.
 
 ### <a name="office-suite-feature-updates"></a>Conjunto de aplicaciones de Office: actualizaciones de características
+
+- **Nuevos iconos:** agregamos más de 300 nuevos iconos basándonos en sus comentarios. Los encontrará mediante el botón Iconos en la pestaña Insertar de la cinta de opciones.
 
 - **Controles de privacidad:** nuevos controles para datos de diagnóstico y experiencias conectadas, actualizados y mejorados. [Más información](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
 
@@ -78,7 +92,9 @@ Se corrigió un problema de identificación del nombre de la nueva era "Reiwa" e
 ## <a name="version-1903-april-01"></a>Versión 1903: 01 de abril
 *Versión 1903 (compilación 11425.20202)* 
 
-### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
+### <a name="excel-feature-updates"></a>Excel: actualizaciones de características
+
+- **Insights en Excel:** Insights proporciona valor a una variedad de usuarios. Insights proporciona un enfoque más flexible para el análisis de datos y para otros proporciona una perspectiva diferente a sus datos. [Más información](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
 - **Aumentar el alcance de su contenido** ¿Necesita hacer que sus hojas de cálculo sean accesibles? Deje que el comprobador de accesibilidad le ayude sin estorbar. Pruébelo en Revisar > Comprobar accesibilidad y le informaremos en la barra de estado de cuando necesitemos que compruebe algo.
 
@@ -166,6 +182,8 @@ Las actualizaciones de seguridad se enumeran [aquí](office365-proplus-security-
 - **Verán los memes que comparta:** cuando un texto o imágenes estáticas no consigan comunicar lo que desea, use un GIF animado para aclararlo. [Más información](https://support.office.com/article/114BB251-861F-41CD-B20F-7E7289630C5B)
  
 ### <a name="visio-feature-updates"></a>Visio: actualizaciones de características
+
+- **Doble toma en diagramas de flujo de datos:** Los magníficos nuevos diseños para los diagramas de flujo del visualizador de datos son limpios, nítidos y fáciles de entender. [Más información](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 
 - **Galerías de símbolos integradas en Azure:** diseñe una aplicación de nube o planee una arquitectura con las múltiples galerías de símbolos de Azure. [Más información](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
