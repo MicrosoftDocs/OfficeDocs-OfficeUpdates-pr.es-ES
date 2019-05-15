@@ -3,19 +3,19 @@ title: Notas de la versión de Office para participantes de Office Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 4/26/2019
+ms.date: 5/10/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 8832e521d85c7049518bd5063250b934a7938fd2
-ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
+ms.openlocfilehash: d9354b646128cbcd4bb7f7fbba2fa78b2c0884ae
+ms.sourcegitcommit: 146625160572599e6f02b5129e6ac7bf518ce2f9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "33370192"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33882769"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -24,6 +24,65 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 > [!NOTE]
 > - Las notas de la versión se publican cada semana y pueden ser una compilación de varias compilaciones.
 > - La fecha de publicación de las notas de versión pueden no coincidir con la fecha real de lanzamiento de la compilación 
+
+## <a name="may-10-2019"></a>10 de mayo de 2019
+Version 1906 (compilación 11702.20000)
+
+## <a name="notable-fixes"></a>Correcciones notables:
+
+### <a name="all"></a>Todo
+- Se ha corregido un problema por el que el cuadro de diálogo Guardar como podría mostrar la ruta de acceso incorrecta.
+
+### <a name="word"></a>Word 
+- Se ha corregido un problema por el cual no se insertaban algunas selecciones de Tell Me
+
+### <a name="excel"></a>Excel
+- Varias correcciones de rendimiento y estabilidad.
+
+### <a name="powerpoint"></a>PowerPoint
+- Varias correcciones de rendimiento y estabilidad.
+
+### <a name="outlook"></a>Outlook
+- Varias correcciones de rendimiento y estabilidad.
+
+### <a name="access"></a>Access
+- Varias correcciones de rendimiento y estabilidad.
+
+### <a name="project"></a>Project
+- Se ha corregido un problema por el que las ID de tareas podrían requerir resaltado para verse
+
+</BR></BR>
+
+## <a name="may-3-2019"></a>3 de mayo de 2019
+Versión 1906 (compilación 11629.20008)
+
+## <a name="notable-fixes"></a>Correcciones notables:
+
+### <a name="all"></a>Todo
+- Se ha corregido un problema por el que algunos usuarios experimentan problemas de sincronización de OneDrive para la Empresa
+
+### <a name="word"></a>Word 
+
+### <a name="excel"></a>Excel
+- Se ha corregido un problema por el que a veces se eliminaban los enlaces externos de los libros de trabajo después de actualizar a una versión más reciente de Excel
+- Se ha corregido un problema por el que algunos usuarios podrían experimentar dificultades para seleccionar celdas en un libro nuevo
+
+### <a name="powerpoint"></a>PowerPoint
+- Se ha corregido un problema por el que los tamaños de fuente no eran consistentes al convertir dibujos a texto
+
+### <a name="outlook"></a>Outlook
+- Se ha corregido un problema por el que guardar un contacto de un archivo .VCF podía generar campos vacíos
+- Se ha corregido un problema por el que un mensaje podía bloquearse en la carpeta de la bandeja de salida, aunque se había enviado
+- Se ha corregido un problema por el cual Outlook podía fallar al ver un mensaje DRM
+
+### <a name="access"></a>Access
+- Varias correcciones de rendimiento y estabilidad.
+
+### <a name="project"></a>Project
+- Se ha solucionado un problema por el que el editor cambiaba del chino al inglés
+- Se ha corregido un problema por el cual las tareas no publicadas podían aparecer en la copia publicada de un proyecto maestro.
+
+</BR></BR>
 
 ## <a name="april-26-2019"></a>26 de abril de 2019
 Version 1905 (compilación 11617.20002)
