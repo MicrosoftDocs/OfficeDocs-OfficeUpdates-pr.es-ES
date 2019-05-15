@@ -3,19 +3,18 @@ title: Notas de la versión para las versiones de Canal semianual (dirigido) en 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/25/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual (dirigido) de Office 365 ProPlus en 2019.
-ms.openlocfilehash: 3afa1ce5d224beef17b8f7c2c4bdee8db7c05b9c
-ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
+ms.openlocfilehash: 597d96593b2b82a9d7e6e85c55c4fafa58bf2b63
+ms.sourcegitcommit: 7559f3b9d37f1f2d53dccd2c41a41aa17a9ccfc6
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "33370312"
+ms.lasthandoff: 05/15/2019
+ms.locfileid: "34034501"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de la versión para las versiones de Canal semianual (dirigido) en 2019
 
@@ -27,6 +26,37 @@ En estas notas de la versión, se proporciona información sobre característica
  
 > [!NOTE]
 > - La información sobre las actualizaciones de seguridad de cada canal de actualización de Office 365 ProPlus se empezará a mostrar por separado en [Actualizaciones de seguridad](office365-proplus-security-updates.md).
+
+## <a name="version-1902-may-14"></a>Versión 1902: 14 de mayo
+*Versión 1902 (compilación 11328.20286)*
+
+### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad
+ -  Se ha corregido un problema en el uso de la herramienta Cámara en Excel que podía provocar el bloqueo de la hoja de cálculo.
+
+### <a name="outlook-non-security-updates"></a>Outlook: actualizaciones no relacionadas con la seguridad
+ - Soluciona un problema por el que los clientes no podían editar algunos campos de los elementos que se han migrado.
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: actualizaciones no relacionadas con la seguridad
+- Se ha corregido un problema por el que PowerPoint dejaba de cargar los cambios del usuario en la nube en raras ocasiones.
+
+### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: actualizaciones no relacionadas con la seguridad
+ - Se corrige un problema en Lync (Skype Empresarial) por el que en cualquier reunión en línea con más de 7 participantes, la ventana de reunión puede desaparecer.
+ - Inicie sesión en Skype Empresarial con las credenciales que usa para iniciar sesión en otra aplicación de Office.
+ - Active correctamente la aplicación de Skype Empresarial cuando se instala con la activación en equipos compartidos.
+
+### <a name="visio-non-security-updates"></a>Visio: actualizaciones no relacionadas con la seguridad
+ - Se ha corregido un problema que causaba problemas de jerarquía de ventana errónea para soluciones de terceros que ampliaban Visio al deshabilitar la característica de PPP dinámico.
+
+### <a name="word-non-security-updates"></a>Word: actualizaciones no relacionadas con la seguridad
+ - Se ha corregido un problema por el que la edición de una Persona relacionada agregada por SharePoint podía bloquearse.
+ - Se ha corregido un problema en el cuadro de diálogo "Error al cargar el recurso" cuando se inicia Word.
+
+### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones no relacionadas con la seguridad
+ - Se corrigió un problema de identificación del nombre de la nueva era "Reiwa" en Hiragana y Kanji como una expresión gramaticalmente incorrecta o mal escrita.
+ - Se ha corregido un problema de varios usuarios de Windows 10 por el que parecía que la lista de archivos recientes se había borrado.
+ - Se ha corregido un problema por el que un usuario final veía una barra de Office Update, aunque durante una actualización activada por el administrador.
+ - Se han corregido problemas relacionados con indicaciones de inicio de sesión intermitentes en blanco.
+ 
 
 ## <a name="version-1902-april-9"></a>Versión 1902: 9 de abril
 *Versión 1902 (compilación 11328.20230)*
@@ -43,10 +73,7 @@ En estas notas de la versión, se proporciona información sobre característica
 - Soluciona un problema que hacía que los clientes experimentaran un bloqueo al cargar imágenes de la tarjeta de contacto.
 - Soluciona un problema que hacía que algunos clientes experimentaran bloqueos al iniciar aplicaciones de Office.
 - Corregido un problema en el que las ventanas no aparecían en la ubicación correcta cuando la barra de tareas del sistema se mantenía en la izquierda o en la parte superior de la pantalla.
-
-### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: actualizaciones no relacionadas con la seguridad
-
-- Se corrige un problema en Lync (Skype Empresarial) por el que en cualquier reunión en línea con más de 7 participantes, la ventana de reunión puede desaparecer.
+- Soluciona un problema por el que los clientes no podían editar algunos campos de los elementos que se han migrado.
 
 ### <a name="visio-non-security-updates"></a>Visio: actualizaciones no relacionadas con la seguridad
 
@@ -59,7 +86,7 @@ En estas notas de la versión, se proporciona información sobre característica
 ### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones no relacionadas con la seguridad
 
 - Corregido un problema por el que los elementos de una actualización de Office no usan el almacenamiento en caché del mismo nivel de optimización de entrega. 
-  [Más información]("https://docs.microsoft.com/en-us/windows/deployment/update/waas-delivery-optimization)
+  [Más información]("https://docs.microsoft.com/es-ES/windows/deployment/update/waas-delivery-optimization)
 - Corrección de un error que podría provocar que se eliminaran o no se activaran productos si Office se había instalado con la Herramienta de implementación de Office y había un caso de no coincidencia.
 - Corregido un problema que causaba indicaciones de inicio de sesión excesivas en dispositivos Windows 10 (versión 1803 o posterior).
 - Corregida regresión que producía bloqueos al descargar imágenes vinculadas.
@@ -97,7 +124,8 @@ En estas notas de la versión, se proporciona información sobre característica
 - **Nuevo valor predeterminado para el intervalo de periodicidad:** para el cuadro de diálogo Periodicidad, el intervalo de periodicidad utilizado de forma predeterminada es "Sin fecha de finalización". Esto facilita la creación de serie periódicas de ejecución prolongada, que pueden dañarse con el tiempo. Vamos a actualizar el valor predeterminado del cuadro de diálogo Periodicidad a "Finalizar el", para que dicho valor coincida con los procedimientos recomendados de calendarios.
 - **Unirse a reuniones de Teams desde el cuadro de diálogo Recordatorios de Outlook:** cuando Outlook recuerda a los usuarios que se aproxima una reunión, se mostrará un botón Unirse en línea si la reunión que se aproxima es una reunión en línea de Teams. Esta experiencia es similar a la de unión a una reunión de Skype Empresarial desde el cuadro de diálogo Recordatorios de Outlook.
 - **Dejar de ver avisos de eventos anteriores:** puede configurar el calendario para descartar de forma automática los avisos de eventos una vez que hayan finalizado. [Más información](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
-- **Ver la dirección URL de Vínculos seguros:** los vínculos seguros le protegen de direcciones URL malintencionadas recibidas por correo electrónico, pero ocultan la dirección URL original. Para ver el original, mueva el puntero sobre la dirección URL. Requiere una licencia de Protección contra amenazas avanzada. [Más información](https://products.office.com/es-ES/exchange/advance-threat-protection)
+- **Ver la dirección URL de Vínculos seguros:** los vínculos seguros le protegen de direcciones URL malintencionadas recibidas por correo electrónico, pero ocultan la dirección URL original. Para ver el original, mueva el puntero sobre la dirección URL. Requiere una licencia de Protección contra amenazas avanzada. 
+  [Más información](https://products.office.com/es-ES/exchange/advance-threat-protection)
 - **Zoom y quieto:** en lugar de ajustar el Zoom cada vez que lee un mensaje, elija una configuración predeterminada para todos los mensajes. [Más información](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **Cifrado de mensajes: directiva IRM de solo cifrado:** la nueva opción de solo cifrado aparece en Opciones > Menú permisos para los usuarios de cifrado de mensajes de Office 365. Esta opción le permite cifrar un mensaje y enviárselo a cualquier usuario dentro o fuera de su organización.
 - **Advertencia cuando está en CCO:** el recuadro CCO le avisará antes de que responda a todos accidentalmente en un correo electrónico en el que está en copia oculta.
@@ -116,7 +144,7 @@ En estas notas de la versión, se proporciona información sobre característica
 - **Retocamos sus bocetos:** convertimos las formas y el texto dibujado a mano en diagramas refinados. Solo tiene que seleccionar los trazos de lápiz para empezar. [Más información](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **Mostrar lo que esconde una imagen:** coloque una imagen en una hoja de cálculo, elija el valor predeterminado y vea cómo cambia la transparencia. [Más información](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
 - **Entrada de tinta para magníficas diapositivas:** convierta el texto de tinta en formas estándar y texto y obtenga ideas de diseño inteligente del Diseñador de PowerPoint. [Más información](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
-- **Publicar en Microsoft Stream:** comparta una presentación como un vídeo de forma más segura en su organización mediante Microsoft Stream. [Más información](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
+- **Publicar en Microsoft Stream:** comparta una presentación como un vídeo de forma más segura en su organización mediante Microsoft Stream. [Más información](https://support.office.com/article/C140551F-CB37-4818-B5D4-3E30815C3E83)
 - **Exportar a 4K:** ahora, la resolución 4K es una opción al exportar una presentación a vídeo.  [Más información](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **Capacidad de insertar SVG con filtros aplicados:** ahora, los usuarios de Office tienen la capacidad de insertar SVG con filtros aplicados. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
@@ -148,7 +176,8 @@ En estas notas de la versión, se proporciona información sobre característica
 ### <a name="office-suite-feature-updates"></a>Conjunto de aplicaciones de Office: actualizaciones de características
 
 - **Ahora, las aplicaciones de terceros de Office son compatibles con la inserción de SVG a través de la API office.js:** las aplicaciones de terceros, también conocidas como complementos de Office, ahora tienen la capacidad de insertar SVG. Ahora los usuarios pueden conectar a Office su colección personal de SVG. Los desarrolladores pueden usar esta característica mediante la API Office.js.
-- **Instalación de Microsoft Teams:** Microsoft Teams se instala de forma predeterminada para las NUEVAS instalaciones de Office 365 ProPlus. [Más información](https://docs.microsoft.com/es-ES/DeployOffice/teams-install)
+- **Instalación de Microsoft Teams:** Microsoft Teams se instala de forma predeterminada para las NUEVAS instalaciones de Office 365 ProPlus. 
+  [Más información](https://docs.microsoft.com/es-ES/DeployOffice/teams-install)
 
 ### <a name="skype-for-business-feature-updates"></a>Skype Empresarial: actualizaciones de características
 

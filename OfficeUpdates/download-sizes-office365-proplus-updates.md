@@ -3,19 +3,18 @@ title: Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 4/30/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Office 365 ProPlus según el canal de actualización.
-ms.openlocfilehash: 7020dd834265b708888f8bc7fc1caf5a48ccb652
-ms.sourcegitcommit: 7180e0cecf76b5e7edc3a5d41238da15901ec1fd
+ms.openlocfilehash: a9580e323499f1e3493a4fd07646363ba228e8d2
+ms.sourcegitcommit: 7559f3b9d37f1f2d53dccd2c41a41aa17a9ccfc6
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/30/2019
-ms.locfileid: "33480122"
+ms.lasthandoff: 05/15/2019
+ms.locfileid: "34034491"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 
@@ -27,7 +26,7 @@ Nuestro objetivo es proporcionar información sobre el tamaño de la actualizaci
 
 Para obtener información sobre las características, las actualizaciones de seguridad y de otro tipo que se incluyen en cada versión, consulte [Información de la versión de actualizaciones de Office 365 ProPlus](release-notes-office365-proplus.md).
 
-  
+ 
 > [!NOTE]
 > - El tamaño de descarga aproximado que aparece en las tablas solo se aplica a la versión en-us x64 de Office 365 ProPlus. (Todas las versiones anteriores al 13 de marzo de 2019 muestran tamaños x86).
 > - Los tamaños de descarga son aproximados. Los tamaños de descarga reales pueden variar, probablemente unos 50 MB como máximo. 
@@ -36,6 +35,34 @@ Para obtener información sobre las características, las actualizaciones de seg
 > - En las tablas solo aparecen las versiones anteriores más recientes. Si va a realizar la actualización desde una versión más antigua, el tamaño de descarga será mayor.
 > - Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal semianual, el tamaño de actualización será considerablemente mayor que el que se muestra en la tabla, ya que puede comportar una descarga completa, con un mínimo de 1 GB.
 
+## <a name="may-14-2019"></a>14 de mayo de 2019
+### <a name="monthly-channel"></a>Canal mensual
+
+La versión más actual es la 1904 (compilación 11601.20204).
+  
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1904 (compilación 11601.20178)  <br/> |8 de mayo de 2019  <br/> |185<br/> |
+|Versión 1904 (compilación 11601.20144)  <br/> |29 de abril de 2019  <br/> |188<br/> |
+
+### <a name="semi-annual-channel"></a>Canal semianual
+
+La versión más actual es la 1808 (compilación 10730.20344).
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1808 (compilación 10730.20334) <br/> |9 de abril de 2019  <br/> |72<br/> |
+|Versión 1808 (compilación 10730.20304)  <br/> |12 de marzo de 2019  <br/> |82<br/> |
+
+### <a name="semi-annual-channel-targeted"></a>Canal semianual (dirigido)
+
+La versión más actual es la 1902 (compilación 11328.20286).
+  
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1902 (compilación 11328.20230)  <br/> |9 de abril de 2019  <br/> |72 <br/> |
+|Versión 1902 (compilación 11328.20158)  <br/> |12 de marzo de 2019  <br/> |76 <br/> |
+
 ## <a name="april-29-2019"></a>29 de abril de 2019
 ### <a name="monthly-channel"></a>Canal mensual
 
@@ -43,15 +70,14 @@ La versión más actual es la 1904 (compilación 11601.20144).
   
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
+|Versión 1904 (Compilación 11425.20244)  <br/> |22 de abril de 2019  <br/> |151<br/> |
 |Versión 1903 (compilación 11425.20228)  <br/> |17 de abril de 2019  <br/> |156<br/> |
-|Versión 1903 (compilación 11425.20244)  <br/> |22 de abril de 2019  <br/> |146<br/> |
-
 
 
 ## <a name="april-22-2019"></a>22 de abril de 2019
 ### <a name="monthly-channel"></a>Canal mensual
 
-La versión más actualizada es la 1903 (compilación 11425.20244). 
+La versión más actualizada es la 1903 (compilación 11425.20244).
   
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
