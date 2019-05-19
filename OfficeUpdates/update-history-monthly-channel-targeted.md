@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a participantes del programa Insider el historial de actualizaciones de los lanzamientos del canal mensual de Office (dirigido) para versiones de escritorio de Windows
-ms.openlocfilehash: efa3ea366478529d033786c53f4c19a4ff893383
-ms.sourcegitcommit: 91533ef9a8358bfe6162b4f4913ebcc4c0f928cc
+ms.openlocfilehash: 79b699861abccf27f37a0f20f066f41667476df8
+ms.sourcegitcommit: a91987b2cd720f39376703edaed6283f968d8e5c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/09/2019
-ms.locfileid: "33834809"
+ms.lasthandoff: 05/17/2019
+ms.locfileid: "34107679"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Historial de actualizaciones del canal mensual de Office (dirigido) para Windows
 
@@ -30,6 +30,12 @@ Si está inscrito en el nivel del canal mensual (dirigido), anteriormente denomi
 > - Las notas de la versión se actualizan con una cadencia lenta y pueden ser una compilación de actualizaciones de varias compilaciones hasta el número de compilación publicado de las notas de la versión
 
 [//]: # (NO ELIMINAR)
+
+**16 de mayo de 2019**<br/>
+Versión 1905 (compilación 11629.20136)<br/>
+
+**14 de mayo de 2019**<br/>
+Versión 1904 (compilación 11601.20204)<br/>
 
 **08 de mayo de 2019**<br/>
 Versión 1904 (Compilación 11601.20178)<br/>
@@ -99,7 +105,7 @@ Versión 1903 (compilación 11425.20204)<br/>
 
 
   [
-  ![Imagen que muestra el icono de Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
+  ![Imagen que muestra el icono de Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/es-ES/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
 
 
 **Sea el primero en obtener nuevas características**
