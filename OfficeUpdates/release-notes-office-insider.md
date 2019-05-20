@@ -3,19 +3,19 @@ title: Notas de la versión de Office para participantes de Office Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 5/10/2019
+ms.date: 5/17/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: d9354b646128cbcd4bb7f7fbba2fa78b2c0884ae
-ms.sourcegitcommit: 146625160572599e6f02b5129e6ac7bf518ce2f9
+ms.openlocfilehash: a747d7cf04b1429ea81f0740f571708a1ff539d9
+ms.sourcegitcommit: 92ef2d0ee2d901d59288ffbbd0cf6d1da2d45bf7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/10/2019
-ms.locfileid: "33882769"
+ms.lasthandoff: 05/17/2019
+ms.locfileid: "34161569"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -24,6 +24,117 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 > [!NOTE]
 > - Las notas de la versión se publican cada semana y pueden ser una compilación de varias compilaciones.
 > - La fecha de publicación de las notas de versión pueden no coincidir con la fecha real de lanzamiento de la compilación 
+
+## <a name="may-17-2019"></a>17 de Mayo de 2019
+Versión 1906 (compilación 11708.20006)
+
+## <a name="whats-new"></a>Novedades:
+
+### <a name="outlook"></a>Outlook
+
+#### <a name="user-experience-updates"></a>Actualizaciones en la experiencia del usuario
+
+Las actualizaciones que han estado en "Próximamente" ahora están aquí, presentando la cinta simplificada y una actualización visual del panel de carpetas, la lista de mensajes y el panel de lectura.
+
+##### <a name="getting-started"></a>Introducción:
+
+Estos cambios formarán parte de la nueva interfaz de usuario predeterminada; ha estado disponible en la opción "Próximamente" desde mediados de diciembre para 100 % de los productos.
+
+#### <a name="customizable-simplified-ribbon"></a>Cinta simplificada personalizable
+
+Fácilmente personalizable para el cambio entre las vistas clásica y simplificada y los comandos anclar y desanclar.
+
+##### <a name="getting-started"></a>Introducción:
+
+Los usuarios pueden acceder a la cinta de opciones simplificada activando Próximamente (al principio) y haciendo clic en los corchetes angulares de la cinta de opciones para alternar entre la cinta clásica de varias líneas y la nueva cinta simplificada de una sola línea.
+
+##### <a name="scenarios-to-try"></a>Escenarios que puede probar:
+
+Cambiar de la cinta de opciones clásica a la simplificada
+
+#### <a name="pick-your-favorite-action"></a>Elija su acción favorita
+
+¿No usa Etiquetar ni Eliminar? ¿Qué hay de Archivar o Marcar como leído? Personalice el menú de acciones rápidas con los comandos que use más frecuentemente.
+
+##### <a name="getting-started"></a>Introducción:
+
+Para seleccionar las acciones rápidas, haga clic con el botón derecho en un correo electrónico en la lista de mensajes para que aparezca el menú contextual. Después, haga clic en "Establecer acciones rápidas...".
+
+##### <a name="scenarios-to-try"></a>Escenarios que puede probar:
+
+Cambiar los valores predeterminados de marcar y eliminar a archivar, mover, marcar como leído o ninguno para una lista de mensajes más limpia
+
+#### <a name="relaxed-or-tighter-layout-you-choose"></a>¿Quiere que su diseño tenga un espaciado menor o mayor? Usted elige
+
+Usar un espaciado menor le permite decidir si quiere más espacio entre los elementos o un diseño más ajustado para ver más elementos.
+
+##### <a name="getting-started"></a>Introducción:
+
+Pestaña vista, casilla Usar un espaciado menor (en el grupo Mensajes de la cinta clásica, Configuración de la vista actual para la cinta simplificada)
+
+##### <a name="scenarios-to-try"></a>Escenarios que puede probar:
+
+Use Outlook para clasificar y escribir correos electrónicos con y sin la configuración habilitada. Con el espaciado menor activado, se ajustará el tamaño de los controles en cada página y se simplificará el uso de los controles en los formularios de redacción.
+
+#### <a name="dedupe-mru-entries-when-using-the-onedrive-sync-client"></a>Eliminación de entradas duplicadas de elementos usados más recientemente al usar el cliente de sincronización de Onedrive
+
+Permitir una mejor integración con el cliente de sincronización de onedrive con datos adjuntos en la nube eliminando las entradas duplicadas de elementos usados más recientemente y habilitar la conexión más rápida como el comportamiento de copia para los datos sincronizados
+
+##### <a name="getting-started"></a>Introducción:
+
+Si usa el Cliente de sincronización de OneDrive, dejará de ver duplicados de archivos en la lista de elementos usados más recientemente en Adjuntar archivo.
+
+##### <a name="scenarios-to-try"></a>Escenarios que puede probar:
+
+Habilitar el Cliente de sincronización de OneDrive y usar el menú Adjuntar archivo en la versión de escritorio de Outlook
+
+#### <a name="improved-shared-folder-synchronization-for-mailboxes-with-many-folders"></a>Sincronización de carpetas compartidas mejorada para buzones con muchas carpetas
+
+Durante años, Outlook se ha limitado a un máximo de 500 carpetas al sincronizar los buzones compartidos. Con este cambio Outlook se ha mejorado para sincronizar de forma que ya no encontrará este límite de 500 carpetas.
+
+##### <a name="getting-started"></a>Introducción:
+
+Cree 1 000 carpetas en un buzón, conceda acceso a otra persona al buzón, cree un perfil de Outlook para "otra persona" y compruebe que la sincronización funciona.
+
+### <a name="word"></a>Word
+
+#### <a name="erase-just-a-little-bit"></a>Borrar solo un poco.
+
+##### <a name="getting-started"></a>Introducción:
+
+Vaya a la pestaña Dibujar. Seleccione la lista desplegable Borrador. Elija Borrador pequeño o Borrador mediano.
+
+##### <a name="scenarios-to-try"></a>Escenarios que puede probar:
+
+Vaya a la pestaña Dibujar. Seleccione un lápiz. Dibuje un trazo de lápiz. Seleccione la lista desplegable Borrador. Elija Borrador pequeño o Borrador mediano. Borre solo una parte del trazo de lápiz.
+
+## <a name="notable-fixes"></a>Correcciones notables:
+
+### <a name="all"></a>Todo 
+- Se ha corregido un problema que podría impedir que algunos usuarios guardasen como PDF.
+- Se ha corregido un problema que podría afectar a los usuarios que guardan archivos grandes en un sistema de 32 bits.
+
+### <a name="word"></a>Word 
+- Se ha mejorado significativamente la respuesta de la característica de dictado.
+
+### <a name="excel"></a>Excel
+- Se ha corregido un problema por el que los eventos de doble clic podrían dar error en los dispositivos de pantalla táctil.
+- Se ha corregido un problema que podría impedir que algunos usuarios pudieran editar macros de VBA.
+- Se ha corregido un problema que podría afectar al rendimiento al usar segmentaciones de datos.
+
+### <a name="powerpoint"></a>PowerPoint
+- Varias correcciones de rendimiento y estabilidad.
+
+### <a name="outlook"></a>Outlook
+- Se ha corregido un problema por el que podría mostrarse la plantilla incorrecta de lo que se ha seleccionado.
+
+### <a name="access"></a>Access
+- Se ha corregido un problema por el que al usar el generador de zoom para mostrar texto enriquecido largo podría ser difícil de leer.
+
+### <a name="project"></a>Project
+- Varias correcciones de rendimiento y estabilidad.
+
+</BR></BR>
 
 ## <a name="may-10-2019"></a>10 de mayo de 2019
 Version 1906 (compilación 11702.20000)
@@ -62,6 +173,7 @@ Versión 1906 (compilación 11629.20008)
 - Se ha corregido un problema por el que algunos usuarios experimentan problemas de sincronización de OneDrive para la Empresa
 
 ### <a name="word"></a>Word 
+- Se ha corregido un problema por el que, en algunos casos, Word tardaba mucho tiempo en iniciarse.
 
 ### <a name="excel"></a>Excel
 - Se ha corregido un problema por el que a veces se eliminaban los enlaces externos de los libros de trabajo después de actualizar a una versión más reciente de Excel
@@ -200,7 +312,7 @@ Versión 1904 (compilación 11527.20014)
 ## <a name="notable-fixes"></a>Correcciones notables:
 
 ### <a name="all-applications"></a>Todas las aplicaciones
- - Se ha corregido un problema por el que el icono de la aplicación incorrecta podía aparecer para Excel en los menús contextuales.
+- Se ha corregido un problema por el que el icono de la aplicación incorrecta podía aparecer para Excel en los menús contextuales.
 - Se ha corregido un problema por el que el botón del menú Archivo podía desaparecer después de instalar una actualización.
 - Se ha corregido un problema que podía cambiar la licencia de usuario.
 
