@@ -3,18 +3,19 @@ title: Notas de la versión para las versiones de Canal semianual (dirigido) en 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
+ms.date: 5/15/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual (dirigido) de Office 365 ProPlus en 2019.
-ms.openlocfilehash: 597d96593b2b82a9d7e6e85c55c4fafa58bf2b63
-ms.sourcegitcommit: 7559f3b9d37f1f2d53dccd2c41a41aa17a9ccfc6
+ms.openlocfilehash: 8408b1a62691dd56647ee3071da43233b712a772
+ms.sourcegitcommit: 5815b2af46b57f1435486ceca0125c06ca6be106
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34034501"
+ms.lasthandoff: 05/21/2019
+ms.locfileid: "34337114"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de la versión para las versiones de Canal semianual (dirigido) en 2019
 
@@ -32,6 +33,13 @@ En estas notas de la versión, se proporciona información sobre característica
 
 ### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad
  -  Se ha corregido un problema en el uso de la herramienta Cámara en Excel que podía provocar el bloqueo de la hoja de cálculo.
+ - Un problema que provocaba un bloqueo al usar la rueda de desplazamiento del ratón en una ventana activa con una hoja de gráfico se ha corregido.
+ - Se ha resuelto un problema que provocaba que apareciese un mensaje "Error inesperado" al importar una hoja de cálculo en SharePoint.
+ - Se ha solucionado un problema que provocaba que Excel se bloqueara al abrir un libro que contenía formato condicional usando un nombre para su regla y una vista personalizada.
+ - Las macros que usan la validación de datos con fórmulas de más de 255 caracteres pueden haber producido errores en tiempo de ejecución. Este problema se ha corregido.
+ - Un problema que provocaba que los archivos que contenían tablas dinámicas vinculadas a otros libros se cargaran despacio. Este problema se ha resuelto.
+ - Se ha resuelto un problema con la apertura de archivos HTML y el error "el formato de archivo y la extensión no coinciden".
+ - Se ha realizado un cambio para resolver problemas con el desplazamiento por la rueda del ratón en ventanas inactivas.  
 
 ### <a name="outlook-non-security-updates"></a>Outlook: actualizaciones no relacionadas con la seguridad
  - Soluciona un problema por el que los clientes no podían editar algunos campos de los elementos que se han migrado.
