@@ -3,19 +3,19 @@ title: Notas de la versión para las versiones de Canal semianual (dirigido) en 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/15/2019
+ms.date: 5/22/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual (dirigido) de Office 365 ProPlus en 2019.
-ms.openlocfilehash: 8408b1a62691dd56647ee3071da43233b712a772
-ms.sourcegitcommit: 5815b2af46b57f1435486ceca0125c06ca6be106
+ms.openlocfilehash: 6c91efb8abe61b4d8324a18f5448f667e7e25954
+ms.sourcegitcommit: d704c92753b85a8cd257167cdd0d641b9405f63d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/21/2019
-ms.locfileid: "34337114"
+ms.lasthandoff: 05/24/2019
+ms.locfileid: "34432428"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de la versión para las versiones de Canal semianual (dirigido) en 2019
 
@@ -60,6 +60,8 @@ En estas notas de la versión, se proporciona información sobre característica
  - Se ha corregido un problema en el cuadro de diálogo "Error al cargar el recurso" cuando se inicia Word.
 
 ### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones no relacionadas con la seguridad
+ - Esta es una solución para un problema en el que no se pueden guardar archivos en carpetas WebDAV de Apache.
+ - Corrige un problema en el que Office se cierra de forma abrupta cuando los clientes abren algunos archivos almacenados en la nube.
  - Se corrigió un problema de identificación del nombre de la nueva era "Reiwa" en Hiragana y Kanji como una expresión gramaticalmente incorrecta o mal escrita.
  - Se ha corregido un problema de varios usuarios de Windows 10 por el que parecía que la lista de archivos recientes se había borrado.
  - Se ha corregido un problema por el que un usuario final veía una barra de Office Update, aunque durante una actualización activada por el administrador.
