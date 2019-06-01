@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Office 365 ProPlus según el canal de actualización.
-ms.openlocfilehash: a9580e323499f1e3493a4fd07646363ba228e8d2
-ms.sourcegitcommit: 7559f3b9d37f1f2d53dccd2c41a41aa17a9ccfc6
+ms.openlocfilehash: ce40e3d5b770e13c163d3372525e248cd95c3df9
+ms.sourcegitcommit: 8d57be9ae77b5fc3275b0245103118a64d8dcc13
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34034491"
+ms.lasthandoff: 05/30/2019
+ms.locfileid: "34549737"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 
@@ -35,6 +35,28 @@ Para obtener información sobre las características, las actualizaciones de seg
 > - En las tablas solo aparecen las versiones anteriores más recientes. Si va a realizar la actualización desde una versión más antigua, el tamaño de descarga será mayor.
 > - Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal semianual, el tamaño de actualización será considerablemente mayor que el que se muestra en la tabla, ya que puede comportar una descarga completa, con un mínimo de 1 GB.
 
+## <a name="may-29-2019"></a>29 de mayo de 2019
+*Versión 1905 (compilación 11629.20196)*
+### <a name="monthly-channel"></a>Canal mensual
+
+La versión más actual es la 1905 (compilación 11629.20196). 
+  
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1904 (compilación 11601.20230)  <br/> |22 de mayo de 2019  <br/> |193<br/> |
+|Versión 1904 (compilación 11601.20204)  <br/> |14 de mayo de 2019  <br/> |60<br/> |
+
+## <a name="may-22-2019"></a>22 de mayo de 2019
+*Versión 1904 (compilación 11601.20230)*
+### <a name="monthly-channel"></a>Canal mensual
+
+La versión más actual es la 1904 (compilación 11601.20230).
+  
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1904 (compilación 11601.20204)  <br/> |14 de mayo de 2019  <br/> |193<br/> |
+|Versión 1904 (Compilación 11601.20178)  <br/> |8 de mayo de 2019  <br/> |62<br/> |
+
 ## <a name="may-14-2019"></a>14 de mayo de 2019
 ### <a name="monthly-channel"></a>Canal mensual
 
@@ -42,8 +64,8 @@ La versión más actual es la 1904 (compilación 11601.20204).
   
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
-|Versión 1904 (compilación 11601.20178)  <br/> |8 de mayo de 2019  <br/> |185<br/> |
-|Versión 1904 (compilación 11601.20144)  <br/> |29 de abril de 2019  <br/> |188<br/> |
+|Versión 1904 (compilación 11601.20178)  <br/> |8 de mayo de 2019  <br/> |60<br/> |
+|Versión 1904 (compilación 11601.20144)  <br/> |29 de abril de 2019  <br/> |71<br/> |
 
 ### <a name="semi-annual-channel"></a>Canal semianual
 
