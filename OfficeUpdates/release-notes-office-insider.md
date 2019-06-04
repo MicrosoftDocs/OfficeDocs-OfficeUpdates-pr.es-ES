@@ -3,19 +3,19 @@ title: Notas de la versión de Office para participantes de Office Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 5/17/2019
+ms.date: 5/31/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: cc9094e2f5a98268ef6df3099028b4dede16ae23
-ms.sourcegitcommit: d704c92753b85a8cd257167cdd0d641b9405f63d
+ms.openlocfilehash: 22652263c29133cab298e77dfe6d1b28e57ad34e
+ms.sourcegitcommit: b40c5785c762fde67d8d3ece151bf3d8c9ff4cc5
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/24/2019
-ms.locfileid: "34432418"
+ms.lasthandoff: 05/31/2019
+ms.locfileid: "34659787"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -24,6 +24,112 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 > [!NOTE]
 > - Las notas de la versión se publican cada semana y pueden ser una compilación de varias compilaciones.
 > - La fecha de publicación de las notas de versión pueden no coincidir con la fecha real de lanzamiento de la compilación 
+
+
+## <a name="may-31-2019"></a>31 de mayo de 2019
+Versión 1906 (compilación 11722.20008)
+
+## <a name="whats-new"></a>Novedades:
+
+### <a name="outlook"></a>Outlook
+
+#### <a name="dialog-for-contacting-support-now-is-dockable-and-appears-on-the-right"></a>El diálogo para ponerse en contacto con el servicio de atención al cliente ahora es acoplable y aparece a la derecha
+
+El cuadro de diálogo que se usa para ponerse en contacto con el servicio de asistencia al cliente aparecerá ahora en un panel a la derecha y se iniciará como una ventana acoplada.
+
+#### <a name="ink-in-your-email"></a>Entrada de lápiz en el correo electrónico.
+
+Ahora puede dibujar y realizar anotaciones en imágenes en sus correos electrónicos de Outlook.
+
+### <a name="word"></a>Word
+
+#### <a name="open-document-links-in-word"></a>Abrir vínculos de documentos en Word
+
+Al hacer clic en un vínculo a un documento en Office, puede actualizar sus preferencias para abrirlo en la aplicación de Word de forma predeterminada.  Para actualizar sus preferencias, vaya a Archivo -> Opciones -> Avanzadas -> Gestión de vínculos. Más información: https://support.office.com/es-ES/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+
+##### <a name="getting-started"></a>Introducción:
+
+La característica estará desactivada de forma predeterminada. Los usuarios pueden habilitar esta característica a través de la configuración en Opciones -> Avanzadas -> Gestión de vínculos, o pueden optar por activarla cuando las aplicaciones de Win32 WXP les dirijan a la experiencia de activación.
+Cuando los usuarios hagan clic en vínculos a archivos de Word/PowerPoint/Excel almacenados en OneDrive, OneDrive para la Empresa o SharePoint desde Outlook/Word/PowerPoint/Excel, estos vínculos se abrirán de forma predeterminada en la aplicación de Office correspondiente en lugar de en el explorador.
+
+Para cambiar este valor predeterminado, los usuarios pueden actualizar la siguiente configuración en Outlook/Word/Excel/PowerPoint:
+
+Archivo -> Opciones -> Avanzadas -> Gestión de vínculos
+
+Esta configuración se comparte entre Outlook/Word/PowerPoint/Excel y puede establecerse en cualquiera de estas aplicaciones.
+
+##### <a name="scenarios-to-try"></a>Escenarios que puede probar:
+
+Para activar la opción: abra un vínculo a un documento de Word almacenado en OneDrive o SharePoint desde Outlook/Word/PowerPoint/Excel y haga clic en Abrir en cliente desde Office Online (repita esto dos veces en un período de 30 días). Después de habilitar esta opción, los vínculos se iniciarán de forma predeterminada en las aplicaciones de Win32.
+
+### <a name="powerpoint"></a>PowerPoint
+
+#### <a name="open-presentation-links-in-powerpoint"></a>Abrir vínculos de presentación en PowerPoint
+
+Al hacer clic en un vínculo a una presentación en Office, puede actualizar sus preferencias para abrirlo en la aplicación de PowerPoint de forma predeterminada. Para actualizar sus preferencias, vaya a Archivo -> Opciones -> Avanzadas -> Gestión de vínculos. Más información: https://support.office.com/es-ES/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+
+##### <a name="getting-started"></a>Introducción:
+
+La característica estará desactivada de forma predeterminada. Los usuarios pueden habilitar esta característica a través de la configuración en Opciones -> Avanzadas -> Gestión de vínculos, o pueden optar por activarla cuando las aplicaciones de Win32 WXP les dirijan a la experiencia de activación.
+Cuando los usuarios hagan clic en vínculos a archivos de Word/PowerPoint/Excel almacenados en OneDrive, OneDrive para la Empresa o SharePoint desde Outlook/Word/PowerPoint/Excel, estos vínculos se abrirán de forma predeterminada en la aplicación de Office correspondiente en lugar de en el explorador.
+
+Para cambiar este valor predeterminado, los usuarios pueden actualizar la siguiente configuración en Outlook/Word/Excel/PowerPoint:
+
+Archivo -> Opciones -> Avanzadas -> Gestión de vínculos
+
+Esta configuración se comparte entre Outlook/Word/PowerPoint/Excel y puede establecerse en cualquiera de estas aplicaciones.
+
+##### <a name="scenarios-to-try"></a>Escenarios que puede probar:
+
+Para activar la opción: abra un vínculo a una presentación de PowerPoint almacenada en OneDrive o SharePoint desde Outlook/Word/PowerPoint/Excel y haga clic en Abrir en cliente desde Office Online (repita esto dos veces en un período de 30 días). Después de habilitar esta opción, los vínculos se iniciarán de forma predeterminada en las aplicaciones de Win32.
+
+### <a name="excel"></a>Excel
+
+#### <a name="open-workbook-links-in-excel"></a>Abrir vínculos de libros en Excel
+
+Al hacer clic en un vínculo a un libro en Office, puede actualizar sus preferencias para abrirlo en la aplicación de Excel de forma predeterminada. Para actualizar sus preferencias, vaya a Archivo -> Opciones -> Avanzadas -> Gestión de vínculos. Más información: https://support.office.com/es-ES/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+
+##### <a name="getting-started"></a>Introducción:
+
+La característica estará desactivada de forma predeterminada. Los usuarios pueden habilitar esta característica a través de la configuración en Opciones -> Avanzadas -> Gestión de vínculos, o pueden optar por activarla cuando las aplicaciones de Win32 WXP les dirijan a la experiencia de activación.
+Cuando los usuarios hagan clic en vínculos a archivos de Word/PowerPoint/Excel almacenados en OneDrive, OneDrive para la Empresa o SharePoint desde Outlook/Word/PowerPoint/Excel, estos vínculos se abrirán de forma predeterminada en la aplicación de Office correspondiente en lugar de en el explorador.
+
+Para cambiar este valor predeterminado, los usuarios pueden actualizar la siguiente configuración en Outlook/Word/Excel/PowerPoint:
+
+Archivo -> Opciones -> Avanzadas -> Gestión de vínculos
+
+Esta configuración se comparte entre Outlook/Word/PowerPoint/Excel y puede establecerse en cualquiera de estas aplicaciones.
+
+##### <a name="scenarios-to-try"></a>Escenarios que puede probar:
+
+Para activar la opción: abra un vínculo a un libro de Excel almacenado en OneDrive o SharePoint desde Outlook/Word/PowerPoint/Excel y haga clic en Abrir en cliente desde Office Online (repita esto dos veces en un período de 30 días). Después de habilitar esta opción, los vínculos se iniciarán de forma predeterminada en las aplicaciones de Win32.
+
+## <a name="notable-fixes"></a>Correcciones notables:
+
+### <a name="all"></a>Todo
+- Se ha corregido un problema por el que, en ocasiones, los archivos podían guardarse automáticamente, incluso si el guardado automático estaba deshabilitado.
+
+### <a name="word"></a>Word 
+- Se ha corregido un problema que podía impedir que algunos usuarios guardaran en SharePoint.
+
+### <a name="excel"></a>Excel
+- Se ha corregido un problema por el que podía mostrarse un icono incorrecto para los filtros inactivos.
+
+### <a name="powerpoint"></a>PowerPoint
+- Varias correcciones de rendimiento y estabilidad.
+
+### <a name="outlook"></a>Outlook
+- Se ha corregido un problema por el que algunos usuarios aparecen de forma incorrecta como sin conexión en la vista de Programación de grupo.
+- Se ha corregido un problema que impedía que SafeLink pudiera analizar una URL con un espacio final.
+- Se ha corregido un problema por el que las salas se mostraban como disponibles fuera de las horas no laborables.
+
+### <a name="access"></a>Access
+- Varias correcciones de rendimiento y estabilidad.
+
+### <a name="project"></a>Project
+- Varias correcciones de rendimiento y estabilidad.
+
+</BR></BR>
 
 ## <a name="may-24-2019"></a>24 de mayo de 2019
 Versión 1906 (compilación 11715.20002)
