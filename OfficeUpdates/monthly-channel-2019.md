@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2019
-ms.openlocfilehash: 0cd1edf42de244ab240241fdc4af61044fb2d98e
-ms.sourcegitcommit: 8d57be9ae77b5fc3275b0245103118a64d8dcc13
+ms.openlocfilehash: e51c94a9660afb2e1bfebf609fbbc8e65b7d2e11
+ms.sourcegitcommit: 23d07012db5d772ef0eb233777326a509fc4ef26
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/30/2019
-ms.locfileid: "34549747"
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34683996"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal mensual en 2019
 
@@ -26,6 +26,11 @@ En estas notas de la versión, se proporciona información sobre característica
 
  > [!NOTE]
 > - La información sobre las actualizaciones de seguridad de cada canal de actualización de Office 365 ProPlus se empezará a mostrar por separado en [Actualizaciones de seguridad](office365-proplus-security-updates.md).
+
+## <a name="version-1905-june-03"></a>Versión 1905: 03 de junio
+*Versión 1905 (compilación 11629.20214)*
+
+ - Se ha corregido un problema por el que algunos complementos producían errores inesperados alrededor de las formas en gráficos.
 
 ## <a name="version-1905-may-29"></a>Versión 1905: 29 de mayo
 *Versión 1905 (compilación 11629.20196)*
@@ -77,6 +82,14 @@ En estas notas de la versión, se proporciona información sobre característica
 - **El modo herramientas de aprendizaje tiene soporte adicional para más colores de página: **las herramientas de aprendizaje de Word son compatibles con más colores de tema de página, lo que permite cambiar el color de fondo de la página.  Muchas personas tienen dificultades para leer con un fondo totalmente blanco o negro, por lo que hemos ampliado la elección de colores en Word para PC y Mac.
 
 - **Próximamente:** vea los cambios interesantes que se añadirán pronto a Office, pruébelos y envíenos sus comentarios. [Más información](https://support.office.com/article/7800e0cf0-812f-475a-80aa-d47376e076f2)
+
+### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: actualizaciones no relacionadas con la seguridad
+
+- Ofrece la opción para que los usuarios de Skype Empresarial Online deshabiliten la sugerencia contextual "Agregue su foto: ayudará a los usuarios a conocerlo". Para habilitar esta corrección, puede [Obtener más información](https://support.microsoft.com/help/4503469).
+
+- Impide que la configuración de timbres secundarios se habilite siempre después de reiniciar Skype Empresarial. Para habilitar esta corrección, puede [Obtener más información](https://support.microsoft.com/help/4503470).
+
+ - Corrección para el problema que hacía que Skype Empresarial dejara de responder al unirse a una reunión de gran tamaño mientras se estaba usando una aplicación basada en el SDK de Lync. Para habilitar esta corrección, puede [Obtener más información](https://support.microsoft.com/help/4503472).
 
 ## <a name="version-1904-may-22"></a>Versión 1904: 22 de mayo
 *Versión 1904 (compilación 11601.20230)*
