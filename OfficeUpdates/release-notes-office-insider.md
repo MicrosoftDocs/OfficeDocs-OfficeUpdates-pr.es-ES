@@ -3,19 +3,19 @@ title: Notas de la versión de Office para participantes de Office Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 5/31/2019
+ms.date: 6/7/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 22652263c29133cab298e77dfe6d1b28e57ad34e
-ms.sourcegitcommit: b40c5785c762fde67d8d3ece151bf3d8c9ff4cc5
+ms.openlocfilehash: 6fca274c0acf56aa2ba5d926e7b4f61a1c8f33d1
+ms.sourcegitcommit: 664eea7a20324858da3503f54d0efac97e2299e4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/31/2019
-ms.locfileid: "34659787"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34773756"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -25,6 +25,35 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 > - Las notas de la versión se publican cada semana y pueden ser una compilación de varias compilaciones.
 > - La fecha de publicación de las notas de versión pueden no coincidir con la fecha real de lanzamiento de la compilación 
 
+
+## <a name="june-7-2019"></a>7 de junio de 2019
+Versión 1907 (compilación 11727.20064)
+
+## <a name="notable-fixes"></a>Correcciones notables:
+
+### <a name="word"></a>Word 
+- Se ha corregido un problema por el que, a veces, Word podía bloquearse cuando Autocorrección se configuraba para poner en mayúscula la primera letra de una oración.
+- Se ha mejorado el rendimiento al editar un documento en SharePoint.
+- Se ha corregido un problema por el que las imágenes basada en vectores creadas en Adobe Illustrator no se mostraban correctamente.
+
+### <a name="excel"></a>Excel
+- Se ha corregido un problema por el que, a veces, los campos de ordenación no se establecían correctamente al grabar una macro.
+- Se ha corregido un problema que provocaba bloqueos al volver a calcular una fórmula de matriz.
+
+### <a name="powerpoint"></a>PowerPoint
+- Varias correcciones de rendimiento y estabilidad.
+
+### <a name="outlook"></a>Outlook
+- Se ha corregido un problema por el que los datos adjuntos en línea a veces se mostraban con una escala incorrecta.
+
+### <a name="access"></a>Access
+- Varias correcciones de rendimiento y estabilidad.
+
+### <a name="project"></a>Project
+- Se ha corregido un problema por el que los partes de horas con una duración fija podían cambiar la fecha de finalización de la asignación.
+- Se ha corregido un problema por el que los valores de Porcentaje completado podían ser incorrectos al abrir un proyecto desde una versión anterior.
+
+</BR></BR>
 
 ## <a name="may-31-2019"></a>31 de mayo de 2019
 Versión 1906 (compilación 11722.20008)
