@@ -3,19 +3,19 @@ title: Notas de la versión para las versiones de Canal mensual en 2019
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-//: ''
+ms.date: 6/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2019
-ms.openlocfilehash: 9e452797e4250fa859ec725005a87f21115482e7
-ms.sourcegitcommit: d8ac84be012031d41fc29caf7e5b0bc32425a523
+ms.openlocfilehash: 1495252aab347ba172e0094da296b2bda0bb25b6
+ms.sourcegitcommit: 2a0b5f0a6ef18194f8a8591ff2fd3e6894d162b2
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/11/2019
-ms.locfileid: "34857750"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34910390"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal mensual en 2019
 
@@ -113,7 +113,9 @@ En estas notas de la versión, se proporciona información sobre característica
 ## <a name="version-1904-may-22"></a>Versión 1904: 22 de mayo
 *Versión 1904 (compilación 11601.20230)*
 
-Esto aborda un problema en el que los usuarios ven el nuevo Aviso de privacidad en cada inicio de aplicación, incluso después de seleccionar y confirmar una opción para su nivel de privacidad.
+### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones no relacionadas con la seguridad
+
+- Esto aborda un problema en el que los usuarios ven el nuevo Aviso de privacidad en cada inicio de aplicación, incluso después de seleccionar y confirmar una opción para su nivel de privacidad.
 
 ## <a name="version-1904-may-14"></a>Versión 1904: 14 de mayo 
 *Versión 1904 (compilación 11601.20204)*
