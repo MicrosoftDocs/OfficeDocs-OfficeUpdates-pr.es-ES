@@ -3,19 +3,19 @@ title: Notas de la versión de Office para participantes de Office Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-//: ''
+ms.date: 6/14/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 8cc5c8c9b11dabce030095a2d56404856850377a
-ms.sourcegitcommit: d8ac84be012031d41fc29caf7e5b0bc32425a523
+ms.openlocfilehash: 8a2bf54f60b7d35a0f3b2f023e0100ff65d09ed2
+ms.sourcegitcommit: 288bea365b4c0265fb9ff182b19ff4eb30b4c7d7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/11/2019
-ms.locfileid: "34857760"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "34948796"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -27,6 +27,40 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
  > [!NOTE]
 > - Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a partir de finales de junio, Microsoft Teams se incluirá en instalaciones existentes de Office 365 ProPlus (y Office 365 Empresa) a la hora de actualizar dichas instalaciones. La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/es-ES/deployoffice/teams-install).
+
+## <a name="june-14-2019"></a>14 de junio de 2019
+Versión 1907 (compilación 11807.20000)
+
+## <a name="notable-fixes"></a>Correcciones notables:
+
+### <a name="word"></a>Word 
+- Se ha corregido un problema que podía impedir que un usuario iniciase sesión al guardar en OneDrive
+- Se ha corregido un problema que podía impedir que un usuario cambiase las propiedades de SharePoint mientras estaba en el modo de acceso restringido
+- Se ha corregido un problema por el que el contenido del encabezado y pie de página podría cambiar al ajustar márgenes
+- Se ha corregido un problema en el que se podía perder el formato al cambiar a la vista web
+- Se ha corregido un problema que podía impedir que un usuario usase campos personalizados cuando se abría desde SharePoint
+
+### <a name="excel"></a>Excel
+- Se ha corregido un problema de rendimiento al eliminar filas de un conjunto filtrado
+- Se ha corregido un problema que a veces podía causar que el ratón parpadease en la vista protegida
+- Se ha corregido un problema por el que la aplicación podía bloquearse al eliminar una serie
+- Se ha corregido un problema por el que algunos usuarios tendían la opción de agregar el historial de versiones cuando no estaba disponible
+- Se ha corregido un problema por el que la aplicación podía bloquearse al usar la herramienta de comparación de hojas de cálculo
+
+### <a name="powerpoint"></a>PowerPoint
+- Se ha corregido un problema por el que la aplicación podía bloquearse al hacer clic en un vínculo a SharePoint
+- Se ha corregido un problema que podía cambiar al usuario a la página siguiente mientras escribía con un Lápiz para Surface
+
+### <a name="outlook"></a>Outlook
+- Se ha corregido un problema en el que, en algunos casos, el campo Para era más grande de lo normal.
+
+### <a name="access"></a>Access
+- Varias correcciones de rendimiento y estabilidad.
+
+### <a name="project"></a>Project
+- Varias correcciones de rendimiento y estabilidad.
+
+</BR></BR>
 
 ## <a name="june-7-2019"></a>7 de junio de 2019
 Versión 1907 (compilación 11727.20064)
