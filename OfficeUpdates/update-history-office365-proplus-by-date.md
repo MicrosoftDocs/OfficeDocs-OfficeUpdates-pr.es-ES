@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista completa de las versiones de Office 365 ProPlus, organizada por fecha, con vínculos a las notas de la versión.
-ms.openlocfilehash: 3eae3d3143d7e774ae785ce56f7934eb35dfac0e
-ms.sourcegitcommit: eaa9ab73dea88c18d1d23474c21457d8656af821
+ms.openlocfilehash: 44abaebed9d32ef279a600d28c54002c42d144c5
+ms.sourcegitcommit: 0ef085de6bb68019197fcc791cd661dddb30fa43
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "34935912"
+ms.lasthandoff: 06/17/2019
+ms.locfileid: "35017380"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Historial de actualizaciones de Office 365 ProPlus (ordenado por fecha)
 
@@ -49,16 +49,16 @@ En la tabla siguiente, se muestra una lista de los números de versión y compil
 |**Year**|**Fecha de publicación**|**Canal mensual**|**Canal semianual (dirigido)**|**Canal semianual**|
 |:-----|:-----|:-----|:-----|:-----|
 |2019|11 de junio|[Versión 1905 (compilación 11629.20246)](monthly-channel-2019.md#version-1905-june-11)|[Versión 1902 (compilación 11328.20318)](semi-annual-channel-targeted-2019.md#version-1902-june-11)|[Versión 1808 (compilación 10730.20348)](semi-annual-channel-2019.md#version-1808-june-11)<br/>[Versión 1803 (compilación 9126.2388)](semi-annual-channel-2019.md#version-1803-june-11)|
-|2019|3 de junio|[Versión 1905 (compilación 11629.20214)](monthly-channel-2019.md#version-1905-june-3)| | |
+|2019|3 de junio |[Versión 1905 (compilación 11629.20214)](monthly-channel-2019.md#version-1905-june-3)| | |
 |2019|29 de mayo |[Versión 1905 (compilación 11629.20196)](monthly-channel-2019.md#version-1905-may-29)| | |
 |2019|22 de mayo |[Versión 1904 (compilación 11601.20230)](monthly-channel-2019.md#version-1904-may-22)| | |
 |2019|14 de mayo |[Versión 1904 (compilación 11601.20204)](monthly-channel-2019.md#version-1904-may-14)|[Versión 1902 (compilación 11328.20286)](semi-annual-channel-targeted-2019.md#version-1902-may-14) |[Versión 1808 (compilación 10730.20344)](semi-annual-channel-2019.md#version-1808-may-14)  <br/>  [Versión 1803 (compilación 9126.2387)](semi-annual-channel-2019.md#version-1803-may-14) |
 |2019|8 de mayo |[Versión 1904 (Compilación 11601.20178)](monthly-channel-2019.md#version-1904-may-8)| | |
 |2019|Abril 29 |[Versión 1904 (compilación 11601.20144)](monthly-channel-2019.md#version-1904-april-29)| | |
-|2019|22 de abril |[Versión 1903 (compilación 11425.20244)](monthly-channel-2019.md#version-1903-april-22)| | |
+|2019|23 de abril |[Versión 1903 (compilación 11425.20244)](monthly-channel-2019.md#version-1903-april-23)| | |
 |2019|17 de abril |[Versión 1903 (compilación 11425.20228)](monthly-channel-2019.md#version-1903-april-17)| | |
 |2019|16 de abril |[Versión 1903 (compilación 11425.20218)](monthly-channel-2019.md#version-1903-april-16)| | |
-|2019|9 de abril |[Versión 1903 (compilación 11425.20204)](monthly-channel-2019.md#version-1903-april-9)|[Versión 1902 (compilación 11328.20230)](semi-annual-channel-targeted-2019.md#version-1903-april-9) |[Versión 1808 (compilación 10730.20334)](semi-annual-channel-2019.md#version-1808-april-9)  <br/>  [Versión 1803 (compilación 9126.2382)](semi-annual-channel-2019.md#version-1803-april-9) |
+|2019|9 de abril |[Versión 1903 (compilación 11425.20204)](monthly-channel-2019.md#version-1903-april-9)|[Versión 1902 (compilación 11328.20230)](semi-annual-channel-targeted-2019.md#version-1902-april-9) |[Versión 1808 (compilación 10730.20334)](semi-annual-channel-2019.md#version-1808-april-9)  <br/>  [Versión 1803 (compilación 9126.2382)](semi-annual-channel-2019.md#version-1803-april-9) |
 |2019|1 de abril |[Versión 1903 (compilación 11425.20202)](monthly-channel-2019.md#version-1903-april-01)| | |
 |2019|25 de marzo |[Versión 1902 (compilación 11328.20222)](monthly-channel-2019.md#version-1902-march-25)| | |
 |2019|12 de marzo |[Versión 1902 (compilación 11328.20158)](monthly-channel-2019.md#version-1902-march-12)|[Versión 1902 (compilación 11328.20158)](semi-annual-channel-targeted-2019.md#version-1902-march-12) |[Versión 1808 (compilación 10730.20304)](semi-annual-channel-2019.md#version-1808-march-12)  <br/> | |
