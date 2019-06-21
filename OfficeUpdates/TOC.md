@@ -34,7 +34,7 @@
 # Office para Mac
 ## [Historial de actualizaciones (Office 365, 2019)](update-history-office-for-mac.md)
 ## [Notas de la versión (Office 365, 2019)](release-notes-office-for-mac.md)
-## [Notas de la versión (2016)](release-notes-office-2016-mac.md)
+## [Historial de actualizaciones (2016)](release-notes-office-2016-mac.md)
 ## [Historial de versiones de MAU](release-history-microsoft-autoupdate.md)
 
 # Office (permanente)
