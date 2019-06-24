@@ -3,19 +3,19 @@ title: Notas de la versión de Office para participantes de Office Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 6/14/2019
+ms.date: 6/21/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 8a2bf54f60b7d35a0f3b2f023e0100ff65d09ed2
-ms.sourcegitcommit: 288bea365b4c0265fb9ff182b19ff4eb30b4c7d7
+ms.openlocfilehash: d59dfd6abece5cefb49d2da86bf28ac24d1cebc7
+ms.sourcegitcommit: 61132166c48f967340a1579185728b5c3acd7bd8
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "34948796"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130649"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -27,6 +27,76 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
  > [!NOTE]
 > - Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a partir de finales de junio, Microsoft Teams se incluirá en instalaciones existentes de Office 365 ProPlus (y Office 365 Empresa) a la hora de actualizar dichas instalaciones. La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/es-ES/deployoffice/teams-install).
+
+## <a name="june-21-2019"></a>21 de junio de 2019
+Versión 1907 (compilación 11815.20002)
+
+## <a name="whats-new"></a>Novedades:
+
+### <a name="outlook"></a>Outlook
+
+#### <a name="dark-mode-for-black-theme-in-outlook-desktop"></a>Modo oscuro para tema negro en Outlook para escritorio
+
+Con el modo oscuro, los usuarios con tema negro ahora también verán el panel de lectura con un fondo oscuro al leer mensajes de correo electrónico y la experiencia de redacción con un fondo oscuro al escribir correos electrónicos. Hay un botón de alternancia sol y luna en el panel de lectura y en la cinta de opciones, en caso de que los usuarios quieran obtener una vista previa del aspecto que tendrá el mensaje con un fondo claro.
+
+#### <a name="getting-started"></a>Introducción:
+
+1. Active el tema negro y se activará el modo oscuro de manera predeterminada.
+2. Use el botón de alternancia luna y sol (en el panel de lectura y en la cinta de opciones) para obtener una vista previa del aspecto que tiene el mensaje para los usuarios que no están en modo oscuro.
+
+#### <a name="scenarios-to-try"></a>Escenarios que puede probar
+
+1. Lea los correos electrónicos en modo oscuro. Si no puede leer, use el botón de alternancia de sol en el panel de lectura para cambiar a un fondo claro. 
+2. Redacte correos electrónicos en modo oscuro. Obtenga una vista previa del aspecto que tendrá el mensaje con un fondo claro con el botón de alternancia de sol en la cinta de opciones. 
+
+Si encuentra mensajes de correo electrónico que no se procesan correctamente, envíelos (como datos adjuntos) a OutlookDarkModeFail.
+
+#### <a name="get-location-suggestions"></a>Obtener sugerencias de ubicación
+
+Comience a escribir y Outlook buscará las ubicaciones coincidentes.
+
+Esto se aplica al campo Ubicación al crear citas y reuniones.
+
+#### <a name="getting-started"></a>Introducción:
+
+- Cree una cita o una reunión en un calendario de O365 o Outlook.com en Outlook. 
+- Haga clic en el campo Ubicación y comience a escribir...
+
+#### <a name="scenarios-to-try"></a>Escenarios que puede probar
+
+Cuando agregue una sala de conferencias a una reunión, haga clic en el campo Ubicación, en lugar de usar el complemento del buscador de salas o la libreta de direcciones.
+Para citas en un lugar físico con una ubicación pública, como un restaurante, cafetería o incluso el consultorio del dentista, pruebe a buscar la ubicación exacta con el nuevo selector. De esta forma, podrá obtener una notificación de Outlook Mobile cuando llegue el momento de salir.
+
+## <a name="notable-fixes"></a>Correcciones notables:
+
+### <a name="all"></a>Todo
+- Se ha corregido un problema por el que el cuadro de búsqueda seguía activado sin conexión.
+
+### <a name="word"></a>Word 
+- Se ha corregido un problema por el que, en ocasiones, era difícil ver el foco del teclado.
+- Se ha corregido un problema por el que el texto que se pegó en un documento nuevo, en ocasiones, podía tener una alineación de texto incorrecta.
+- Se ha corregido un problema que impedía que algunos usuarios guardaran cambios después de suspender el equipo.
+- Se ha corregido un problema por el que, en ciertos casos, se imprimía un documento completo en lugar del rango seleccionado.
+- Se ha corregido un problema que podía hacer que los comentarios fueran difíciles de leer en pantallas más pequeñas.
+- Se ha corregido un problema que podía provocar un bloqueo al capturar en un dispositivo.
+
+### <a name="excel"></a>Excel
+- Varias correcciones de rendimiento y estabilidad.
+
+### <a name="powerpoint"></a>PowerPoint
+- Se ha corregido un problema por el que, en ocasiones, era difícil ver el foco del teclado.
+
+### <a name="outlook"></a>Outlook
+- Se ha corregido un problema por el que se mostraba incorrectamente un complemento como activado cuando no lo estaba.
+- Se ha corregido un problema que impedía que los clientes vieran todas las directivas de retención si había varias.
+
+### <a name="access"></a>Access
+- Varias correcciones de rendimiento y estabilidad.
+
+### <a name="project"></a>Project
+- Varias correcciones de rendimiento y estabilidad.
+
+</BR></BR>
 
 ## <a name="june-14-2019"></a>14 de junio de 2019
 Versión 1907 (compilación 11807.20000)
@@ -484,22 +554,6 @@ Esta característica es una mejora para los usuarios que trazan gráficos de map
 
 ## <a name="april-12-2019"></a>12 de abril de 2019
 Versión 1905 (compilación 11601.20042)
-
-## <a name="whats-new"></a>Novedades:
-
-### <a name="access"></a>Access
-
-#### <a name="new-in-access---data-connector-to-microsoft-graph"></a>Novedad de Access - Conector de datos para Microsoft Graph
-
-Vincular o importar el formulario de servicios de Microsoft Graph para crear aplicaciones que puedan aprovechar los datos contextuales inteligentes almacenados en Graph
-
-#### <a name="getting-started"></a>Introducción:
-
-Vaya a la pestaña de Datos Externos de la cinta de opciones, haga clic en Nuevas Fuentes de Datos y busque el nuevo Conector para Graph en el menú Servicios en Línea
-
-#### <a name="scenarios-to-try"></a>Escenarios que puede probar:
-
-Importar o vincular a diversos servicios de Graph, como personas, grupos y elementos de OneDrive.
 
 ## <a name="notable-fixes"></a>Correcciones notables:
 
