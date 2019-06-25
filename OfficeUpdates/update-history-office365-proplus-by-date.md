@@ -3,19 +3,18 @@ title: Historial de actualizaciones de Office 365 ProPlus (ordenado por fecha)
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 6/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista completa de las versiones de Office 365 ProPlus, organizada por fecha, con vínculos a las notas de la versión.
-ms.openlocfilehash: 44abaebed9d32ef279a600d28c54002c42d144c5
-ms.sourcegitcommit: 0ef085de6bb68019197fcc791cd661dddb30fa43
+ms.openlocfilehash: 0e719fa7c142989d3099b1ce43f24b9b8c084316
+ms.sourcegitcommit: f83fafdefd4fdb5f8f21eec6c99553708b553b7a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/17/2019
-ms.locfileid: "35017380"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35203709"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Historial de actualizaciones de Office 365 ProPlus (ordenado por fecha)
 
@@ -32,10 +31,8 @@ En la tabla siguiente se muestra la versión compatible y el número de compilac
 
 |**Canal**|**Versión**|**Compilación**|**Fecha de publicación**|**Versión admitida hasta**|
 |:-----|:-----|:-----|:-----|:-----|
-|Cada mes<br/>|1905<br/>|11629.20246<br/>|11 de junio de 2019<br/>|Se ha publicado la versión 1906<br/>|
-|Semianual (dirigido)<br/>|1902<br/>|11328.20318<br/>|11 de junio de 2019<br/>|10 de septiembre de 2019<br/>|
+|Cada mes<br/>|1906<br/>|11727.20210<br/>|24 de junio de 2019<br/>|Se ha publicado la versión 1907<br/>|
 |Semianual<br/>|1808<br/>|10730.20348<br/>|11 de junio de 2019<br/>|10 de marzo de 2020<br/>|
-|Semianual<br/>|1803<br/>|9126.2388<br/>|11 de junio de 2019<br/>|10 de septiembre de 2019<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -48,6 +45,7 @@ En la tabla siguiente, se muestra una lista de los números de versión y compil
 
 |**Year**|**Fecha de publicación**|**Canal mensual**|**Canal semianual (dirigido)**|**Canal semianual**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|24 de junio|[Versión 1906 (compilación 11727.20210)](monthly-channel-2019.md#version-1906-june-24)| | |
 |2019|11 de junio|[Versión 1905 (compilación 11629.20246)](monthly-channel-2019.md#version-1905-june-11)|[Versión 1902 (compilación 11328.20318)](semi-annual-channel-targeted-2019.md#version-1902-june-11)|[Versión 1808 (compilación 10730.20348)](semi-annual-channel-2019.md#version-1808-june-11)<br/>[Versión 1803 (compilación 9126.2388)](semi-annual-channel-2019.md#version-1803-june-11)|
 |2019|3 de junio |[Versión 1905 (compilación 11629.20214)](monthly-channel-2019.md#version-1905-june-3)| | |
 |2019|29 de mayo |[Versión 1905 (compilación 11629.20196)](monthly-channel-2019.md#version-1905-may-29)| | |
