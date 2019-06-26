@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Office 365 ProPlus según el canal de actualización.
-ms.openlocfilehash: 5112dbbe6587b2301207d59a9f485f792dd3421a
-ms.sourcegitcommit: 2223813cb55c65a6bec9a6afce3eb1d8c6ddc2f3
+ms.openlocfilehash: d5a915184658c9be53282986c057455b4e3362b5
+ms.sourcegitcommit: f83fafdefd4fdb5f8f21eec6c99553708b553b7a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34737952"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35203699"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 
@@ -34,10 +34,38 @@ Para obtener información sobre las características, las actualizaciones de seg
 > - En las tablas solo aparecen las versiones anteriores más recientes. Si va a realizar la actualización desde una versión más antigua, el tamaño de descarga será mayor.
 > - Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal semianual, el tamaño de actualización será considerablemente mayor que el que se muestra en la tabla, ya que puede comportar una descarga completa, con un mínimo de 1 GB.
 
-## <a name="jun-5-2019"></a>5 de junio de 2019
+[//]: # (NO ELIMINAR)
+
+## <a name="june-24-2019"></a>24 de junio de 2019
+
+[//]: # (NO ELIMINAR COMIENZO DEL CONTENIDO 24 de junio de 2019)
+
+### <a name="monthly-channel"></a>Canal mensual
+
+La versión más actual es la 1906 (compilación 11727.20210).
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1905 (compilación 11629.20246) <br/> |11 de junio de 2019 <br/> |171<br/> |
+|Versión 1905 (compilación 11629.20214) <br/> |3 de junio de 2019 <br/> |175<br/> |
+
+
+[//]: # (NO ELIMINAR FINALES DEL CONTENIDO 24 de junio de 2019)
+
+## <a name="jun-11-2019"></a>11 de junio de 2019
+
+### <a name="monthly-channel"></a>Canal mensual
+
+La versión más actual es la 1905 (compilación 11629.20246).
+  
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1905 (compilación 111629.20214)  <br/> |3 de junio de 2019  <br/> |72<br/> |
+|Versión 1904 (compilación 11629.20196)  <br/> |29 de mayo de 2019  <br/> |71<br/> |
+|
 ### <a name="semi-annual-channel"></a>Canal semianual
 
-La versión esperada es la 1808 (compilación 10730.20348).
+La versión más actual es la 1808 (compilación 10730.20348).
 
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
@@ -46,7 +74,7 @@ La versión esperada es la 1808 (compilación 10730.20348).
 
 ### <a name="semi-annual-channel-targeted"></a>Canal semianual (dirigido)
 
-La versión esperada es la 1902 (compilación 11328.20318).
+La versión más actual es la 1902 (compilación 11328.20318).
   
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
