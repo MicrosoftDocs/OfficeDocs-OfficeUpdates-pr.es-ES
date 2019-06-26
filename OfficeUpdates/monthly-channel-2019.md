@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2019
-ms.openlocfilehash: 392932611e8005ece5ef460f6f2fc9b80230468c
-ms.sourcegitcommit: f83fafdefd4fdb5f8f21eec6c99553708b553b7a
+ms.openlocfilehash: 83a63aafcddafeab5eae641b13f7563f030286a8
+ms.sourcegitcommit: 138a3eb0d7e9eda71fae28ee580441c88bd39fea
 ms.translationtype: HT
 ms.contentlocale: es-ES
 ms.lasthandoff: 06/25/2019
-ms.locfileid: "35203719"
+ms.locfileid: "35226870"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal mensual en 2019
 
@@ -26,7 +26,7 @@ En estas notas de la versión, se proporciona información sobre característica
 > - A menudo distribuimos características (y a veces incluso correcciones) para el Canal mensual durante un período de tiempo. Esto nos permite asegurarnos de que todo funciona correctamente antes de publicar la característica para un público más amplio. Por tanto, si a continuación no ve algo descrito, no se preocupe, lo recibirá con el tiempo. [Más información](https://support.office.com/es-ES/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
-> - Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a partir de finales de junio, Microsoft Teams se incluirá en instalaciones existentes de Office 365 ProPlus (y Office 365 Empresa) a la hora de actualizar dichas instalaciones. La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/es-ES/deployoffice/teams-install).
+> - Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a partir de principios de julio, Microsoft Teams se incluirá en instalaciones existentes de Office 365 ProPlus (y Office 365 Empresa) a la hora de actualizar dichas instalaciones. La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/es-ES/deployoffice/teams-install).
 
 ## <a name="version-1906-june-24"></a>Versión 1906: 24 de junio
 *Versión 1906 (compilación 11727.20210)*
@@ -54,7 +54,7 @@ En estas notas de la versión, se proporciona información sobre característica
 - **Hemos actualizado la experiencia de usuario de Outlook para usted:** una experiencia simplificada, anteriormente disponible para su vista previa con Próximamente, diseñada para ayudarle a centrarse en lo más importante. 
   [Más información](https://support.office.com/es-ES/article/db503157-1b45-45d5-af52-e9c978cd8bed)
 
-- **Entrada de lápiz en el correo electrónico.** Ahora puede dibujar y realizar anotaciones en imágenes en sus correos electrónicos de Outlook. 
+- **Deja que lo dibuje:** garabatee sobre las imágenes o agregue un Lienzo de dibujo para enviar sus pensamientos con la entrada de lápiz. 
   [Más información](https://support.office.com/es-ES/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
 
 ### <a name="word-feature-updates"></a>Word: actualizaciones de características
@@ -67,7 +67,7 @@ En estas notas de la versión, se proporciona información sobre característica
 
 - Recorte correcto de vídeo en una reunión con un monitor 4K cuando se habilita la opción "Recortar y centrar mi vídeo en las reuniones".
 
-- Permitir la transferencia de archivos a clientes heredados de Office Communicator desde un equipo con Windows 10 con varios adaptadores de red. [Más información] (https://support.microsoft.com/help/4508477)
+- Permitir la transferencia de archivos a clientes heredados de Office Communicator desde un equipo con Windows 10 con varios adaptadores de red. [Más información](https://support.microsoft.com/help/4508477)
 
 - Experiencia mejorada para la comunicación entre los participantes de Skype Empresarial y Microsoft Teams.
 
