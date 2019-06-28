@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Office 365 ProPlus según el canal de actualización.
-ms.openlocfilehash: d5a915184658c9be53282986c057455b4e3362b5
-ms.sourcegitcommit: f83fafdefd4fdb5f8f21eec6c99553708b553b7a
+ms.openlocfilehash: d3d0fe11ec529c17f232eed13513e8149ad662c9
+ms.sourcegitcommit: edc5a5ef00487215091a2e1bf978b33868e62e4a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35203699"
+ms.lasthandoff: 06/27/2019
+ms.locfileid: "35345567"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 
@@ -35,6 +35,38 @@ Para obtener información sobre las características, las actualizaciones de seg
 > - Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal semianual, el tamaño de actualización será considerablemente mayor que el que se muestra en la tabla, ya que puede comportar una descarga completa, con un mínimo de 1 GB.
 
 [//]: # (NO ELIMINAR)
+
+## <a name="june-27-2019"></a>27 de junio de 2019
+
+[//]: # (NO ELIMINAR COMIENZO DEL CONTENIDO 27 de junio de 2019)
+
+### <a name="monthly-channel"></a>Canal mensual
+
+La versión más actual es la 1906 (compilación 11727.20230).
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1906 (compilación 11727.20224) <br/> |26 de junio de 2019 <br/> |187<br/> |
+|Versión 1906 (compilación 11727.20210) <br/> |24 de junio de 2019 <br/> |287<br/> |
+
+
+[//]: # (NO ELIMINAR FINAL DEL CONTENIDO 27 de junio de 2019)
+
+## <a name="june-26-2019"></a>26 de junio de 2019
+
+[//]: # (NO ELIMINAR COMIENZO DEL CONTENIDO 26 de junio de 2019)
+
+### <a name="monthly-channel"></a>Canal mensual
+
+La versión más actual es la 1906 (compilación 11727.20224).
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1906 (compilación 11727.20210) <br/> |24 de junio de 2019 <br/> |60<br/> |
+|Versión 1905 (compilación 11629.20246) <br/> |11 de junio de 2019 <br/> |170<br/> |
+
+
+[//]: # (NO ELIMINAR FINAL DEL CONTENIDO 26 de junio de 2019)
 
 ## <a name="june-24-2019"></a>24 de junio de 2019
 
