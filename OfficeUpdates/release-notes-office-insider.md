@@ -3,19 +3,19 @@ title: Notas de la versión de Office para participantes de Office Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 6/21/2019
+ms.date: 6/28/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: d59dfd6abece5cefb49d2da86bf28ac24d1cebc7
-ms.sourcegitcommit: 61132166c48f967340a1579185728b5c3acd7bd8
+ms.openlocfilehash: b050450f851ddf70ec45d34319ad845b88ef3d58
+ms.sourcegitcommit: a25e1449c286ef70f68ed1eca5d303f2874050cc
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35130649"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35393344"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -27,6 +27,41 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
  > [!NOTE]
 > - Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a partir de finales de junio, Microsoft Teams se incluirá en instalaciones existentes de Office 365 ProPlus (y Office 365 Empresa) a la hora de actualizar dichas instalaciones. La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/es-ES/deployoffice/teams-install).
+
+## <a name="june-28-2019"></a>28 de junio de 2019
+Versión 1907 (compilación 11819.20002)
+
+## <a name="whats-new"></a>Novedades:
+
+### <a name="word-excel-powerpoint-and-visio"></a>Word, Excel, PowerPoint y Visio
+
+#### <a name="recommended-documents"></a>Documentos recomendados
+
+Busque documentos con actividad relevante recomendados para usted.
+
+## <a name="notable-fixes"></a>Correcciones notables:
+
+### <a name="word"></a>Word 
+- Se ha corregido un problema que podía impedir que se abriesen archivos .DOC.
+- Se ha corregido un problema que podía impedir que los comentarios se cargasen correctamente.
+
+### <a name="excel"></a>Excel
+- Se ha mejorado el rendimiento de Power Queries.
+
+### <a name="powerpoint"></a>PowerPoint
+- Se ha corregido un problema relacionado con el uso de un lápiz en un dispositivo Surface que podía provocar que la pantalla parpadease.
+
+### <a name="outlook"></a>Outlook
+- Se ha corregido un problema que podía cambiar el estado de disponibilidad de una cita al convertirla en una reunión.
+- Se ha corregido un problema por el que se mostraba la plantilla y la descripción incorrecta al proteger un correo electrónico con una plantilla ad-hoc.
+
+### <a name="access"></a>Access
+- Varias correcciones de rendimiento y estabilidad.
+
+### <a name="project"></a>Project
+- Varias correcciones de rendimiento y estabilidad.
+
+</BR></BR>
 
 ## <a name="june-21-2019"></a>21 de junio de 2019
 Versión 1907 (compilación 11815.20002)
