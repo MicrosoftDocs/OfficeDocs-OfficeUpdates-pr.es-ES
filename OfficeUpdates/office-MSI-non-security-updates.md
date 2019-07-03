@@ -3,19 +3,19 @@ title: Últimas actualizaciones no relacionadas con la seguridad para las versio
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 05/08/2019
+ms.date: 07/03/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI vínculos a la información de las últimas actualizaciones no relacionadas con la seguridad de las versiones perpetuas de Office 2016, Office 2013 y Office 2010.
-ms.openlocfilehash: eeb5d5141eb2626c83b39134c63aaf2362d06ef2
-ms.sourcegitcommit: 3851db1b0d239bf34187d1e7c98f5d5c3a567367
+ms.openlocfilehash: 7dd49883aa369c02b2a41972a48a8f256403b497
+ms.sourcegitcommit: 74ea0d0bc86d111be5cbe93a8f02aa69dbb40c90
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/08/2019
-ms.locfileid: "33663324"
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "35430183"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Últimas actualizaciones no relacionadas con la seguridad para las versiones de Office que usan Windows Installer (MSI)
 
@@ -24,9 +24,42 @@ Esta página enumera las actualizaciones de Office no relacionadas con la seguri
 > [!NOTE]
 > - La información de este artículo solo se aplica a las versiones perpetuas de Office que usan la tecnología de instalación de Windows Installer (MSI). Por ejemplo, Office Profesional Plus 2016.
 > - La información de este artículo no se aplica a las versiones de Office 365 de Office, como Office 365 ProPlus.
-> - Para obtener más información sobre la instalación de actualizaciones de Office, vea [Instalar actualizaciones de Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
+> - Para obtener más información sobre la instalación de actualizaciones de Office, vea [Instalación de actualizaciones de Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
 
+## <a name="july-2-2019"></a>2 de julio de 2019
+
+**Office 2016**<br/>
+Actualización de Microsoft Access 2016 ([KB4462237](https://support.microsoft.com/help/4462237))<br/>
+Actualización de Microsoft Office 2016 ([KB4032236](https://support.microsoft.com/help/4032236))<br/>
+Actualización de Microsoft Office 2016 ([KB4464582](https://support.microsoft.com/help/4464582))<br/>
+Actualización de Microsoft Office 2016 ([KB4464595](https://support.microsoft.com/help/4464595))<br/>
+Actualización del paquete de interfaz de idiomas de Microsoft Office 2016 ([KB4475515](https://support.microsoft.com/help/4475515))<br/>
+Actualización de Microsoft Project 2016 ([KB4475518](https://support.microsoft.com/help/4475518))<br/>
+Actualización de Microsoft Word 2016 ([KB4475521](https://support.microsoft.com/help/4475521))<br/>
+
+
+**Office 2013**<br/>
+Actualización de Microsoft Word 2013 ([KB4475525](https://support.microsoft.com/help/4475525))<br/>
+
+
+**Office 2010**<br/>
+Actualización para Microsoft Filter Pack 2,0 ([KB3114879](https://support.microsoft.com/help/3114879))<br/>Actualización de Microsoft Office 2010 ([KB3114397](https://support.microsoft.com/help/3114397))<br/><br/>
+
+## <a name="june-4-2019"></a>4 de junio de 2019
+
+**Office 2016**<br/>
+Actualización de Microsoft Excel 2016 ([KB4464578](https://support.microsoft.com/help/4464578))<br/>
+Actualización de Microsoft Office 2016 ([KB4464539](https://support.microsoft.com/help/4464539))<br/>
+Actualización de Microsoft Office 2016 ([KB4464579](https://support.microsoft.com/help/4464579))<br/>
+Actualización del paquete de interfaz de idiomas de Microsoft Office 2016 ([KB4464581](https://support.microsoft.com/help/4464581))<br/>
+Actualización de Microsoft Outlook 2016 ([KB4464585](https://support.microsoft.com/help/4464585))<br/>
+Actualización de Microsoft Project 2016 ([KB4464589](https://support.microsoft.com/help/4464589))<br/>
+Actualización de Skype Empresarial 2016 ([KB4464576](https://support.microsoft.com/help/4464576))<br/>
+
+**Office 2013**<br/>
+Actualización de Skype Empresarial 2015 ([KB4464593](https://support.microsoft.com/help/4464593))<br/>
+<br/>
 ## <a name="may-7-2019"></a>7 de mayo de 2019
 
 **Office 2016**<br/>
