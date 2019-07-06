@@ -3,19 +3,19 @@ title: Notas de la versión de Office para participantes de Office Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 6/28/2019
+ms.date: 7/5/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: b050450f851ddf70ec45d34319ad845b88ef3d58
-ms.sourcegitcommit: a25e1449c286ef70f68ed1eca5d303f2874050cc
+ms.openlocfilehash: 69d4e3cbe3bf6c57f08e5b8f3eb90f8abb47e459
+ms.sourcegitcommit: cb86c338e3a58b21bd6ed9dc5480388075c0194d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35393344"
+ms.lasthandoff: 07/05/2019
+ms.locfileid: "35575171"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -27,6 +27,60 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
  > [!NOTE]
 > - Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a partir de finales de junio, Microsoft Teams se incluirá en instalaciones existentes de Office 365 ProPlus (y Office 365 Empresa) a la hora de actualizar dichas instalaciones. La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/es-ES/deployoffice/teams-install).
+
+## <a name="july-5-2019"></a>5 de julio de 2019
+Versión 1908 (compilación 11901.20002)
+
+## <a name="whats-new"></a>Novedades:
+
+### <a name="word-excel-powerpoint"></a>Word, Excel, PowerPoint
+
+#### <a name="sketchy-shapes"></a>¡Formas incompletas!
+
+¿Estás realizando una presentación? Aplique el estilo incompleto para indicar que todavía está trabajando en él. Ofrece un toque personal a los objetos sin convertirlos en un forma libre o en formas a mano.
+
+## <a name="notable-fixes"></a>Correcciones notables:
+
+### <a name="all"></a>Todo
+- Mejoramos significativamente el rendimiento de las KeyTips de la cinta de opciones
+- Se ha corregido un problema que evitó que aparezca el cuadro de diálogo "Ver pronto lo que está disponible"
+- Se ha corregido un problema que podría causar que las fotografías estén mal alineadas en el control flotante de la galería de Coauth
+
+### <a name="word"></a>Word 
+- Se ha corregido un problema que a veces podría impedir agregar nuevos comentarios
+- Se ha corregido un problema por el que en ocasiones las tablas podrían causar un error 
+- Se ha corregido un problema por el que a veces se pueden agregar datos no válidos al final de una combinación de correspondencia
+- Se ha corregido un problema que podría provocar que algunas ecuaciones LaTeX se representen de forma incorrecta
+
+### <a name="excel"></a>Excel
+- Se ha corregido un problema en el que, al cambiar los tipos de gráfico, se podría producir una excepción en el tiempo de ejecución
+- Se ha corregido un problema por el que es posible que se muestre la cinta de opciones incorrecta cuando se abren varias ventanas
+- Se ha corregido un problema que podría provocar un error cuando una macro abrió una segunda instancia de un libro
+- Se ha corregido un problema que podría provocar un error al abrir o crear un libro, o al cambiar entre libros
+- Se ha corregido un problema que impide que los usuarios abran un archivo PDF creado a partir de Word en Teams
+
+### <a name="powerpoint"></a>PowerPoint
+- Se ha corregido un problema que degradaría la calidad de un gráfico cuando se exportó a un PDF
+- Se ha corregido un problema que impedía que una información sobre herramienta mostrara la distancia al centro
+
+### <a name="outlook"></a>Outlook
+- Se ha corregido un problema que a veces podía evitar que se mostrara un error de disco lleno
+- Se ha corregido un problema que podría provocar que los datos adjuntos se dupliquen al actualizar una convocatoria de reunión
+
+### <a name="access"></a>Acceso
+- Se ha corregido un problema que impedía a algunas consultas devolver valores enteros grandes
+- Se ha corregido un problema que haría que el cuadro de texto SQL no se pudiera editar.
+- Se ha corregido un problema por el que es difícil ver información sobre herramientas en algunas pantallas altas de PPP
+
+### <a name="project"></a>Proyecto
+- Se ha corregido un problema que podría provocar que los valores del indicador no se puedan editar en nuevas tareas
+- Se ha corregido un problema que podría provocar que una actualización de estado se estableciera de forma incorrecta en la fecha de inicio real de las asignaciones y tareas
+- Se ha corregido un problema que podría provocar que algunos recursos aparezcan incorrectamente sobreasignados
+- Se ha corregido un problema por el que el método TaskDependencies Add puede fallar cuando se agrega un retardo, el separador decimal es una coma y al estar conectado a un servidor
+- Se ha corregido un problema por el que la actualización de los valores de la tabla de búsqueda de campo personalizado local a través del CSOM podía fallar
+- Se ha corregido un problema en el que los valores de trabajo totales podían aparecer como incorrectos si contienen un decimal
+
+</BR></BR>
 
 ## <a name="june-28-2019"></a>28 de junio de 2019
 Versión 1907 (compilación 11819.20002)
