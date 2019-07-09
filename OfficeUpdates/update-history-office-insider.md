@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a participantes del programa Insider el historial de actualizaciones de los lanzamientos del canal mensual del modo anticipado de Insider para versiones de escritorio de Windows
-ms.openlocfilehash: eab9d344a24ed2790e540ed97517b3795b80f74e
-ms.sourcegitcommit: ada739d9c67ec77ce55b23453096f2fa8154297a
+ms.openlocfilehash: a17141d23993f66c45b90cdcd5fd068b012146f9
+ms.sourcegitcommit: 36e3abcb2903810b8e0704564fa140fee9904bd7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "35192625"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35587911"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Historial de actualizaciones del canal de Office Insider
 
@@ -33,6 +33,12 @@ Si está inscrito en el nivel de Insider, obtendrá actualizaciones frecuentes c
 Para obtener las notas de la versión, vea [notas de la versión de Insider de Office para escritorio de Windows](https://docs.microsoft.com/es-ES/OfficeUpdates/release-notes-office-insider).
 
 [//]: # (NO ELIMINAR)
+
+**3 de julio de 2019**<br/>
+Versión 1907 (compilación 11901.20018)<br/>
+
+**1 de julio de 2019**<br/>
+Versión 1907 (compilación 11827.20002)<br/>
 
 **24 de junio de 2019**<br/>
 Versión 1907 (compilación 11819.20002)<br/>

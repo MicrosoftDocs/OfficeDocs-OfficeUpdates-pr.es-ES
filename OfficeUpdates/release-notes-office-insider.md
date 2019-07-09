@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 69d4e3cbe3bf6c57f08e5b8f3eb90f8abb47e459
-ms.sourcegitcommit: cb86c338e3a58b21bd6ed9dc5480388075c0194d
+ms.openlocfilehash: 68d4862af628444ade76ebfa2e70e85753f83c28
+ms.sourcegitcommit: 36e3abcb2903810b8e0704564fa140fee9904bd7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/05/2019
-ms.locfileid: "35575171"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35587901"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -136,9 +136,9 @@ Con el modo oscuro, los usuarios con tema negro ahora también verán el panel d
 #### <a name="scenarios-to-try"></a>Escenarios que puede probar
 
 1. Lea los correos electrónicos en modo oscuro. Si no puede leer, use el botón de alternancia de sol en el panel de lectura para cambiar a un fondo claro. 
-2. Redacte correos electrónicos en modo oscuro. Obtenga una vista previa del aspecto que tendrá el mensaje con un fondo claro con el botón de alternancia de sol en la cinta de opciones. 
+2. Redacte correos electrónicos en modo oscuro. Obtenga una vista previa del aspecto que tendrá el mensaje con un fondo claro mediante el botón de alternancia de sol en la cinta de opciones. 
 
-Si encuentra mensajes de correo electrónico que no se procesan correctamente, envíelos (como datos adjuntos) a OutlookDarkModeFail.
+Si encuentra mensajes de correo electrónico que no se visualizan correctamente, envíelos como datos adjuntos a OutlookDarkModeFail@service.microsoft.com
 
 #### <a name="get-location-suggestions"></a>Obtener sugerencias de ubicación
 

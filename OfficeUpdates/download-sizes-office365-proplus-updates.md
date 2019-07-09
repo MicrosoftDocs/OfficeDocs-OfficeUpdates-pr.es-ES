@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Office 365 ProPlus según el canal de actualización.
-ms.openlocfilehash: d3d0fe11ec529c17f232eed13513e8149ad662c9
-ms.sourcegitcommit: edc5a5ef00487215091a2e1bf978b33868e62e4a
+ms.openlocfilehash: f353cd54355468e4eed9cc8cde8eae2429c65236
+ms.sourcegitcommit: 44ee03955100dfadfe6bd551c5c2552d8fd371b4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/27/2019
-ms.locfileid: "35345567"
+ms.lasthandoff: 07/08/2019
+ms.locfileid: "35585568"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 
@@ -35,6 +35,34 @@ Para obtener información sobre las características, las actualizaciones de seg
 > - Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal semianual, el tamaño de actualización será considerablemente mayor que el que se muestra en la tabla, ya que puede comportar una descarga completa, con un mínimo de 1 GB.
 
 [//]: # (NO ELIMINAR)
+## <a name="july-8-2019"></a>8 de julio de 2019
+
+### <a name="monthly-channel"></a>Canal mensual
+
+La versión esperada es la 1906 (compilación 11727.20244).
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1906 (compilación 11727.20230) <br/> |27 de junio de 2019 <br/> |202<br/> |
+|Versión 1906 (compilación 11727.20224) <br/> |26 de junio de 2019 <br/> |51<br/> |
+
+### <a name="semi-annual-channel"></a>Canal semianual
+
+La versión esperada es la 1902 (compilación 11328.20368).
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1808 (compilación 10730.20348) <br/> |11 de junio de 2019  <br/> |307<br/> |
+|Versión 1808 (compilación 10730.20344) <br/> |14 de mayo de 2019  <br/> |307<br/> |
+
+### <a name="semi-annual-channel-targeted"></a>Canal semianual (dirigido)
+
+La versión esperada es la 1902 (compilación 11328.20368).
+  
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1902 (compilación 11328.20318)  <br/> |11 de junio de 2019  <br/> |71 <br/> |
+|Versión 1902 (compilación 11328.20286)  <br/> |14 de mayo de 2019  <br/> |74 <br/> |
 
 ## <a name="june-27-2019"></a>27 de junio de 2019
 
