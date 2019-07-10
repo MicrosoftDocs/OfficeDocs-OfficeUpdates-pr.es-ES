@@ -3,19 +3,19 @@ title: Historial de actualizaciones para productos de Hacer clic y ejecutar de O
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 04/10/2019
+ms.date: 07/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI un historial de actualizaciones para las versiones perpetuas de Office 2010 que usan Hacer clic y ejecutar.
-ms.openlocfilehash: 3f2e2ebdf24184d3452682a5116787ba5bd0f2ae
-ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
+ms.openlocfilehash: d393785c16090e6925ee6735b51ce290d1ff5a1c
+ms.sourcegitcommit: f0762345dc203481117f080f41fba451bffbac65
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31745532"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35594568"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Historial de actualizaciones para productos de Hacer clic y ejecutar de Office 2010
 
@@ -30,7 +30,7 @@ Los siguientes productos de Office 2010 se actualizan automáticamente mediante 
 Si usa uno de estos productos y desea asegurarse de que dispone de las últimas actualizaciones, compruebe su número de versión de Office y actualice manualmente Office si es necesario.
   
 > [!NOTE]
-> La versión más reciente de Office 2010 es **14.0.7232.5000**, que se ha lanzado el 9 de abril de 2019. 
+> La versión más reciente de Office 2010 es **14.0.7235.5000**, que se ha lanzado el 9 de julio de 2019.
   
 Para comprobar su versión de Office, siga estos pasos:
   
@@ -52,9 +52,12 @@ Las versiones nuevas incluyen todas las actualizaciones de versiones anteriores.
 > Los artículos de Knowledge Base que se muestran a continuación son solo informativos. Las actualizaciones de Hacer clic y ejecutar incluyen todas las correcciones especificadas en los artículos de Knowledge Base. No es necesario descargar las actualizaciones independientes que se muestran en los artículos de Knowledge Base.
 
   
-|**Año de publicación**|**Fecha de lanzamiento**|**Número de versión**|**Más información**|
+|**Año de publicación**|**Fecha de publicación**|**Número de versión**|**Más información**|
 |:-----|:-----|:-----|:-----|
-|2019|9 de abril  <br/> |14.0.7232.5000  <br/> |[KB 4495300](https://support.microsoft.com/en-us/help/4495300) <br/> |
+|2019|9 de julio  <br/> |14.0.7235.5000  <br/> |[KB 4509295](https://support.microsoft.com/en-us/help/4509295) <br/> |
+||11 de junio  <br/> |14.0.7234.5000  <br/> |[KB 4505743](https://support.microsoft.com/en-us/help/4505743) <br/> |
+||14 de mayo  <br/> |14.0.7233.5000  <br/> |[KB 4501270](https://support.microsoft.com/en-us/help/4501270) <br/> |
+||9 de abril  <br/> |14.0.7232.5000  <br/> |[KB 4495300](https://support.microsoft.com/en-us/help/4495300) <br/> |
 ||12 de marzo  <br/> |14.0.7230.5000  <br/> |[KB 4491754](https://support.microsoft.com/en-us/help/4491754) <br/> |
 ||15 de febrero  <br/> |14.0.7229.5000  <br/> |[KB 4488446](https://support.microsoft.com/en-us/help/4488446) <br/> |
 ||8 de enero  <br/> |14.0.7228.5000  <br/> |[KB 4484800](https://support.microsoft.com/en-us/help/4484800) <br/> |

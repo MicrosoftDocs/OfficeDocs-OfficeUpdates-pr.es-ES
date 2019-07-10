@@ -1,5 +1,5 @@
 ---
-title: Notas de la versión para las versiones en 2015 delimitadas anuales del canal (destino)
+title: Notas de la versión para las versiones de canal semianual (dirigido) en 2015
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -9,28 +9,28 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: Proporciona los profesionales de TI con notas de la versión para las versiones delimitadas anuales del canal (destino) para Office 365 ProPlus en 2015
+description: Proporciona a los profesionales de ti las notas de la versión para las versiones de canal semianual (dirigido) para Office 365 ProPlus en 2015
 ms.openlocfilehash: 4b6eb5b96fddc57d8a1f64adfaeb10166d541c42
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "19556428"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32439145"
 ---
-# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2015"></a>Notas de la versión para las versiones en 2015 delimitadas anuales del canal (destino)
+# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2015"></a>Notas de la versión para las versiones de canal semianual (dirigido) en 2015
 
-Estas notas de la versión proporcionan información sobre nuevas características, actualizaciones de seguridad y las actualizaciones de seguridad comunes que se incluyen en las actualizaciones anuales delimitadas del canal (destino) para Office 365 ProPlus en 2015.
+Estas notas de la versión proporcionan información sobre las nuevas características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones de canal semianual (dirigido) a Office 365 ProPlus en 2015.
  
 > [!NOTE]
 > - Lo siguiente también proporciona información sobre características nuevas, actualizaciones de seguridad y no relacionadas con la seguridad para Visio Pro para Office 365 y el cliente de escritorio de Project Online.
 > - Esta información también se aplica a Office 365 Empresa, que es la versión de Office que viene con algunos planes de Office 365, como Empresa Premium.
-> - Punto y anuales del canal (destino) se ha denominado primera versión para canal aplazada antes de septiembre de 2017.
+> - El canal semianual (dirigido) se llamaba First Release para el canal diferido antes de septiembre de 2017.
 
 
-## <a name="version-1509-december-8"></a>Versión 1509: 8 de diciembre
+## <a name="version-1509-december-8"></a>Versión 1509:8 de diciembre
 *Versión 1509 (compilación 6001.1043)*
 
-### <a name="onenote-non-security-updates"></a>OneNote: Actualizaciones no relacionadas con la seguridad
+### <a name="onenote-non-security-updates"></a>OneNote: actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que los documentos XPS o las copias impresas creadas con el cliente de escritorio de Windows aparecen como una X roja en clientes de escritorio distintos de Windows, ya que esos clientes no son compatibles con la representación de XPS nativa.
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Actualizaciones no relacionadas con la seguridad
@@ -56,7 +56,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 
 
 
-## <a name="version-1509-november-10"></a>Versión 1509: 10 de noviembre
+## <a name="version-1509-november-10"></a>Versión 1509:10 de noviembre
 *Versión 1509 (compilación 6001.1038)*
 
 ### <a name="access-security-updates"></a>Access: Actualizaciones de seguridad
@@ -66,7 +66,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 -   Boletín de seguridad Microsoft [MS15-116](https://technet.microsoft.com/library/security/ms15-116): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3104540)
 
 ### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
--   Se soluciona un problema en el que al grabar una macro para la creación de consultas se produce un error de compilación.
+-   Se soluciona un problema en el que, al grabar una macro para la creación de consultas, se produce un error de compilación.
 -   Se soluciona un problema en el que, después de eliminar una columna en el Editor de consultas, aparece una columna en blanco al final de la tabla después de actualizar la consulta.
 -   Se soluciona un problema en el que se produce un error inesperado al elegir la pestaña Minigráficos en Análisis rápido de una tabla de consulta.
 -   Se soluciona un problema en el que, tras realizar una operación de cortar y pegar en una tabla de consulta, no se puede actualizar la consulta mediante el panel Consultas del libro.
@@ -84,17 +84,17 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 ### <a name="powerpoint-security-updates"></a>PowerPoint: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS15-116](https://technet.microsoft.com/library/security/ms15-116): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3104540)
 
-### <a name="project-security-updates"></a>Project: Actualizaciones de seguridad
+### <a name="project-security-updates"></a>Project: actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS15-116](https://technet.microsoft.com/library/security/ms15-116): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3104540)
 
 ### <a name="publisher-security-updates"></a>Publisher: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS15-116](https://technet.microsoft.com/library/security/ms15-116): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3104540)
 
-### <a name="skype-for-business-security-updates"></a>Skype Empresarial: Actualizaciones de seguridad
+### <a name="skype-for-business-security-updates"></a>Skype Empresarial: actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS15-116](https://technet.microsoft.com/library/security/ms15-116): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3104540)
 -   Boletín de seguridad Microsoft [MS15-123](https://technet.microsoft.com/library/security/ms15-123): Actualización de seguridad de Skype Empresarial y Microsoft Lync para abordar la divulgación de información (3105872)
 
-### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: Actualizaciones no relacionadas con la seguridad
+### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema con el ruido de audio en los dispositivos que tienen dos micrófonos de entrada.
 -   Se soluciona un problema en el que los usuarios no se pueden unir correctamente una reunión después de reanudar un equipo portátil en modo de suspensión y antes de que el cliente de Skype cliente vuelve a iniciar sesión.
 -   Se agrega compatibilidad para mensajes contextuales para ayudar a advertir a los usuarios sobre las características.
@@ -104,7 +104,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 ### <a name="visio-security-updates"></a>Visio: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS15-116](https://technet.microsoft.com/library/security/ms15-116): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3104540)
 
-### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
+### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS15-116](https://technet.microsoft.com/library/security/ms15-116): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3104540)
 
 ### <a name="word-non-security-updates"></a>Word: Actualizaciones no relacionadas con la seguridad
@@ -125,17 +125,17 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 
 
 
-## <a name="version-1509-october-21"></a>Versión 1509: 21 de octubre
+## <a name="version-1509-october-21"></a>Versión 1509:21 de octubre
 *Versión 1509 (compilación 6001.1034)*
 
-### <a name="onenote-non-security-updates"></a>OneNote: Actualizaciones no relacionadas con la seguridad
+### <a name="onenote-non-security-updates"></a>OneNote: actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema por el que OneNote se bloquea cuando se selecciona dos veces el mismo color para un borde en el Selector de colores.
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que un lector de pantalla solo lee el primer párrafo de una firma de correo electrónico de varios párrafos al editar la firma de correo electrónico.
 -   Se soluciona un problema en el que el cursor no se encuentra en la posición correcta al escribir o responder a un correo electrónico.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: Actualizaciones no relacionadas con la seguridad
+### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que, en condiciones de memoria insuficiente, al intentar visualizar un escritorio o una aplicación compartidos se produce la desconexión e intentos repetidos para volver a unirse automáticamente y ver el escritorio o la aplicación compartidos.
 -   Se soluciona un problema en el que, a medida que aumenta el número de participantes, empeora la experiencia de escritorio compartido.
 -   Se soluciona un problema por el que, cuando se configura la autenticación multifactor, se reciben varias solicitudes de autenticación por teléfono durante el día.
@@ -144,7 +144,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 -   Se soluciona un problema en el que, si se inserta un objeto de Word para mostrarlo como un icono, el objeto queda vacío después de cerrar y volver a abrir Visio.
 
 ### <a name="word-non-security-updates"></a>Word: Actualizaciones no relacionadas con la seguridad
--   Se soluciona un problema en el que la co-autoría no está disponible y el documento se puede quedar bloqueado si se encuentra en SharePoint Server 2013.
+-   Se soluciona un problema en el que la coautoría no está disponible y el documento se puede quedar bloqueado si se encuentra en SharePoint Server 2013.
 -   Se soluciona un problema en el que, en documentos docx, una tabla es visible aunque el contenido de la tabla tenga aplicado un estilo que incluya la opción Oculto.
 -   Se soluciona un problema en el que los documentos con hipervínculos relativos no se pueden guardar después de ejecutar una autocorrección.
 -   Se soluciona un problema en el que se saltan líneas al editar un párrafo en un documento con sangrías simétricas.
@@ -168,10 +168,10 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 
 
 
-## <a name="version-1509-october-5"></a>Versión 1509: 5 de octubre
+## <a name="version-1509-october-5"></a>Versión 1509:5 de octubre
 *Versión 1509 (compilación 4229.1029)*
 
-### <a name="onenote-non-security-updates"></a>OneNote: Actualizaciones no relacionadas con la seguridad
+### <a name="onenote-non-security-updates"></a>OneNote: actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema con Office 365 Empresa en el que, cuando se intenta usar OneNote con SharePoint, se recibe un mensaje de error que indica a los usuarios que tienen que actualizar a una versión diferente de Office.
 -   Se soluciona un problema para Surface Pro 3 en el que la vista previa de grabación de vídeo no muestra lo que se está grabando.
 
@@ -193,7 +193,7 @@ Estas notas de la versión proporcionan información sobre nuevas característic
 
 
 
-## <a name="version-1509-september-22"></a>Versión 1509: 22 de septiembre
+## <a name="version-1509-september-22"></a>Versión 1509:22 de septiembre
 *Versión 1509 (compilación 4229.1024)*
 
 Se trata de la versión inicial de este canal. Esta versión ofrece la primera disponibilidad de las aplicaciones de Office 2016.
@@ -205,7 +205,7 @@ Se trata de la versión inicial de este canal. Esta versión ofrece la primera d
 ### <a name="visio-security-updates"></a>Visio: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Ciertas vulnerabilidades de Microsoft Office podrían permitir la ejecución remota de código (3080790)
 
-### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
+### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Ciertas vulnerabilidades de Microsoft Office podrían permitir la ejecución remota de código (3080790)
 
 ### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones de seguridad
