@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual (dirigido) de Office 365 ProPlus en 2019.
-ms.openlocfilehash: eabd0a3bf3c7c44a74e0991b78e11e6d079dc7f3
-ms.sourcegitcommit: 2a0b5f0a6ef18194f8a8591ff2fd3e6894d162b2
+ms.openlocfilehash: 715250022d6bf9172f4e1c47d1437099a63b1ff1
+ms.sourcegitcommit: eea73f35ff3045e556ae603f9c6e18fa4fed6158
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34910400"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35607364"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de la versión para las versiones de Canal semianual (dirigido) en 2019
 
@@ -27,6 +27,49 @@ En estas notas de la versión, se proporciona información sobre característica
  
 > [!NOTE]
 > - La información sobre las actualizaciones de seguridad de cada canal de actualización de Office 365 ProPlus se empezará a mostrar por separado en [Actualizaciones de seguridad](office365-proplus-security-updates.md).
+
+## <a name="version-1902-july-09"></a>Versión 1902: 09 de julio
+*Versión 1902 (compilación 11328.20368)*
+
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/es-ES/officeupdates/office365-proplus-security-updates)
+
+
+### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad
+- Se ha corregido un problema de lentitud extremo en la eliminación de las filas de Excel filtradas.
+- Se ha corregido un desplazamiento fijo con dos dedos que provoca que los rectángulos grises se dibujen en la hoja de cálculo y Excel se bloquee.
+
+
+### <a name="outlook-non-security-updates"></a>Outlook: actualizaciones no relacionadas con la seguridad
+- Se ha corregido un problema que provocaba que los usuarios vieran ocasionalmente Outlook insertando letras pinyin en inglés, en lugar de mantener abierta la ventana del candidato IME para permitir la selección de palabras en chino.
+- Se ha corregido un problema que provocaba que los usuarios vieran las salas sugeridas para reuniones que estaban programadas fuera de la disponibilidad de la sala.
+- Se ha corregido un problema que provocaba que los usuarios intentaran abrir una excepción a una serie de reuniones para abrir la serie principal.
+- Se ha corregido un problema que provocaba que los usuarios vieran fechas de expiración calculadas incorrectamente para elementos de la carpeta elementos eliminados.
+
+
+### <a name="teams-non-security-updates"></a>Teams: actualizaciones no relacionadas con la seguridad
+
+- Teams Installer ahora tiene una política disponible para desactivar el arranque automático cuando se complete la instalación.
+
+
+### <a name="visio-non-security-updates"></a>Visio: actualizaciones no relacionadas con la seguridad
+
+- Se ha corregido un problema en el que las soluciones de ActiveX para Visio no funcionan con Office 365, mostrando un mensaje de error que indica que no se encuentra el elemento riched20.dll.
+
+
+### <a name="word--non-security-updates"></a>Word: actualizaciones no relacionadas con la seguridad
+
+- Fue corregida la configuración fija de GPO para deshabilitar la barra de búsqueda de plantillas
+- Se ha corregido un problema en el que los usuarios pueden perder algunos de los cambios después de desconectarse y editar un documento que solo tenía un servidor.
+- Fue mejorado el rendimiento al habilitar elementos rápidos para las propiedades del documento
+- Se ha corregido un problema por el que podía producirse un error en la primera revisión de descarga del servidor
+
+
+### <a name="office-suite--non-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones no relacionadas con la seguridad
+
+- Se ha corregido un problema por el que los dispositivos que usan la activación compartida de equipos pueden volver a la activación basada en el usuario de forma inesperada al instalar productos de Office o paquetes de idioma adicionales.
+- Se ha corregido un problema que impedía las actualizaciones de Office al ejecutar la autenticación de proxy como sistema.
+- Se han hecho correcciones para solucionar los complementos de Office que desaparecen al cambiar el perfil de usuario.
+
 
 ## <a name="version-1902-june-11"></a>Versión 1902: 11 de junio
 *Versión 1902 (compilación 11328.20318)*
