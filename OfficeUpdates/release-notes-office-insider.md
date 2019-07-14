@@ -3,19 +3,19 @@ title: Notas de la versión de Office para participantes de Office Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 7/5/2019
+ms.date: 7/12/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: c6d380fac5fa002179597a7e32002e1889482063
-ms.sourcegitcommit: eea73f35ff3045e556ae603f9c6e18fa4fed6158
+ms.openlocfilehash: 29b2cf8edb700db4b887c603570a43bc62ca7356
+ms.sourcegitcommit: 433c9f63b2b868767c23672ccc1845d2d90327aa
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/10/2019
-ms.locfileid: "35607374"
+ms.lasthandoff: 07/12/2019
+ms.locfileid: "35643042"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -27,6 +27,39 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
  > [!NOTE]
 > - Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a partir de finales de junio, Microsoft Teams se incluirá en instalaciones existentes de Office 365 ProPlus (y Office 365 Empresa) a la hora de actualizar dichas instalaciones. La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/es-ES/deployoffice/teams-install).
+
+## <a name="july-12-2019"></a>12 de julio de 2019
+Versión 1907 (compilación 11901.20038)
+
+## <a name="whats-new"></a>Novedades:
+
+### <a name="powerpoint"></a>PowerPoint
+ 
+#### <a name="use-ink-replay-in-your-presentations"></a>Usar la reproducción de entrada de lápiz en sus presentaciones
+ 
+Aplique una animación de reproducción para la entrada de lápiz en PowerPoint para expresarse y comunicarse más efectivamente en presentaciones. 
+
+## <a name="notable-fixes"></a>Correcciones notables:
+
+### <a name="word"></a>Word 
+- Varias correcciones de rendimiento y estabilidad.
+
+### <a name="excel"></a>Excel
+- Varias correcciones de rendimiento y estabilidad.
+
+### <a name="powerpoint"></a>PowerPoint
+- Varias correcciones de rendimiento y estabilidad.
+
+### <a name="outlook"></a>Outlook
+- Varias correcciones de rendimiento y estabilidad.
+
+### <a name="access"></a>Access
+- Varias correcciones de rendimiento y estabilidad.
+
+### <a name="project"></a>Project
+- Varias correcciones de rendimiento y estabilidad.
+
+</BR></BR>
 
 ## <a name="july-5-2019"></a>5 de julio de 2019
 Versión 1907 (compilación 11901.20018)
