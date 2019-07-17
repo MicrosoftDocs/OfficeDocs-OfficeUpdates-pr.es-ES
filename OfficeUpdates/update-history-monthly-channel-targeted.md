@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a participantes del programa Insider el historial de actualizaciones de los lanzamientos del canal mensual de Office (dirigido) para versiones de escritorio de Windows
-ms.openlocfilehash: f649456c3549647d8e80d44b1c5c1d8b13f818ce
-ms.sourcegitcommit: c75a988f6e9414866f0f0d73d0ea788c4ec33c4d
+ms.openlocfilehash: 000b1e225d0dc7400a04231ffe289c534ac1a451
+ms.sourcegitcommit: dbd7a9ad8194eaf6c1e560e6b1345adeddb9dcc8
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/11/2019
-ms.locfileid: "35630477"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35701513"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Historial de actualizaciones del canal mensual de Office (dirigido) para Windows
 
@@ -33,6 +33,9 @@ Si está inscrito en el nivel del canal mensual (dirigido), anteriormente denomi
 > - Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a partir de finales de junio, Microsoft Teams se incluirá en instalaciones existentes de Office 365 ProPlus (y Office 365 Empresa) a la hora de actualizar dichas instalaciones. La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/es-ES/deployoffice/teams-install).
 
 [//]: # (NO ELIMINAR)
+
+**15 de julio de 2019**<br/>
+Versión 1907 (compilación 11901.20080)<br/>
 
 **9 de julio de 2019**<br/>
 Versión 1906 (compilación 11727.20244)<br/>
