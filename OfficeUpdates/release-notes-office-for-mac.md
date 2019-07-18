@@ -3,19 +3,19 @@ title: Notas de la versión de Office para Mac
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 6/28/2019
+ms.date: 7/17/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales de TI las notas de la versión de las versiones de Office para Mac para los suscriptores de Office 356
-ms.openlocfilehash: 5ddf84e1bae91ad0a610859078e8523f5987b955
-ms.sourcegitcommit: e6c9f7c47fa3ef117b6b234d9ac17777102e89ad
+ms.openlocfilehash: 86905ca4df7f2fd35c69ea4ec996c4275cbe5b9c
+ms.sourcegitcommit: acb18b76345b4635d96c14bed1f0d9b0c219dc4f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35390978"
+ms.lasthandoff: 07/17/2019
+ms.locfileid: "35759460"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de la versión de Office para Mac
 
@@ -37,6 +37,38 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
   **Nota:** la información de la versión de Microsoft AutoUpdate (Mau) se ha trasladado a la página [Historial de versiones MAU](https://docs.microsoft.com/es-ES/officeupdates/release-history-microsoft-autoupdate).<br/>
 
+## <a name="july-16-2019-release"></a>Versión del 16 de julio de 2019
+*Versión 16.27 (compilación 19071500)*
+
+
+### <a name="word-feature-updates"></a>Word: actualizaciones de características
+
+- Se han corregido varios problemas de rendimiento.
+
+
+
+
+### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
+
+- Se han corregido varios problemas de rendimiento.
+
+
+### <a name="excel-security-updates"></a>Excel: Actualizaciones de seguridad
+
+- [CVE-2019-1110](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1110): Vulnerabilidad de la ejecución remota de código de Microsoft Excel
+- [CVE-2019-1111](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1111): Vulnerabilidad de la ejecución remota de código de Microsoft Excel
+### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
+
+- Se han corregido varios problemas de rendimiento.
+
+
+### <a name="outlook-feature-updates"></a>Outlook: actualizaciones de características
+
+- **Compartir datos adjuntos desde los archivos en la nube:** adjuntar fácilmente archivos en la nube a los mensajes de correo electrónico para mejorar la colaboración.<br/>
+
+### <a name="outlook-security-updates"></a>Outlook: Actualizaciones de seguridad
+
+- [CVE-2019-1084](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1084): Vulnerabilidad de divulgación de información de Microsoft Excel<br/><br/>
 ## <a name="june-11-2019-release"></a>Versión del 11 de junio de 2019
 *Versión 16.26 (compilación 19060901)*
 
