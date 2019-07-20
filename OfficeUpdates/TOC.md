@@ -1,35 +1,34 @@
 # Office 365 ProPlus
+## [Información sobre la versión](release-notes-office365-proplus.md)
+## [Actualizaciones de seguridad](office365-proplus-security-updates.md)
 ## [Historial de actualizaciones (por fecha)](update-history-office365-proplus-by-date.md)
 ## [Tamaños de actualizaciones](download-sizes-office365-proplus-updates.md)
 
-## [Notas de la versión](release-notes-office365-proplus.md)
 
-### [Actualizaciones de seguridad](office365-proplus-security-updates.md)
-
-### Canal mensual
-#### [2019](monthly-channel-2019.md)
-#### [2018](monthly-channel-2018.md)
-#### [2017](monthly-channel-2017.md)
-#### [2016](monthly-channel-2016.md)
+## Canal mensual
+### [2019](monthly-channel-2019.md)
+### [2018](monthly-channel-2018.md)
+### [2017](monthly-channel-2017.md)
+### [2016](monthly-channel-2016.md)
 
 
-### Canal semianual
-#### [2019](semi-annual-channel-2019.md)
-#### [2018](semi-annual-channel-2018.md)
-#### [2017](semi-annual-channel-2017.md)
-#### [2016](semi-annual-channel-2016.md)
+## Canal semianual
+### [2019](semi-annual-channel-2019.md)
+### [2018](semi-annual-channel-2018.md)
+### [2017](semi-annual-channel-2017.md)
+### [2016](semi-annual-channel-2016.md)
 
-### Canal semianual (dirigido)
-#### [2019](semi-annual-channel-targeted-2019.md)
-#### [2018](semi-annual-channel-targeted-2018.md)
-#### [2017](semi-annual-channel-targeted-2017.md)
-#### [2016](semi-annual-channel-targeted-2016.md)
+## Canal semianual (dirigido)
+### [2019](semi-annual-channel-targeted-2019.md)
+### [2018](semi-annual-channel-targeted-2018.md)
+### [2017](semi-annual-channel-targeted-2017.md)
+### [2016](semi-annual-channel-targeted-2016.md)
 
 
-### Programa Office Insider  
-#### [Historial de actualizaciones del canal de Insider](update-history-office-insider.md)
-#### [Historial de actualizaciones del canal mensual (dirigido)](update-history-monthly-channel-targeted.md)
-####[Notas de la versión del canal de Insider](release-notes-office-insider.md)
+## Programa Office Insider  
+### [Historial de actualizaciones del canal de Insider](update-history-office-insider.md)
+### [Historial de actualizaciones del canal mensual (dirigido)](update-history-monthly-channel-targeted.md)
+###[Notas de la versión del canal de Insider](release-notes-office-insider.md)
 
 # Office para Mac
 ## [Historial de actualizaciones (Office 365, 2019)](update-history-office-for-mac.md)
