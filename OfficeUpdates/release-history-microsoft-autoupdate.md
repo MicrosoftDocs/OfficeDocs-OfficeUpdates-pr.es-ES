@@ -3,19 +3,19 @@ title: Historial de versiones de Microsoft AutoUpdate (MAU)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/17/2019
+ms.date: 7/19/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales informáticos un historial de versiones de Microsoft AutoUpdate (MAU).
-ms.openlocfilehash: e5905b289963cb91a61f2a29f3c97bd9df895610
-ms.sourcegitcommit: acb18b76345b4635d96c14bed1f0d9b0c219dc4f
+ms.openlocfilehash: ff8d4ef4bf8082a1c1d40dbf7c850f29c6689f20
+ms.sourcegitcommit: bdc3b17bf45b9ce2decbcfe752b1a1bf1efdbe9b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/17/2019
-ms.locfileid: "35759400"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35795546"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historial de versiones de Microsoft AutoUpdate (MAU)
  
@@ -28,10 +28,12 @@ En la siguiente tabla, se proporciona información del historial de versiones de
 > 
 > - Los vínculos de descarga solo se proporcionan para la versión más reciente de Microsoft AutoUpdate.
 > - Microsoft AutoUpdate ofrece actualizaciones para distintos productos de Mac de Microsoft. Por tanto, es posible que reciba una notificación para actualizar Microsoft AutoUpdate, incluso si no está ejecutando Office para Mac.
-  
+
+Para ver las notas de la versión, consulte [Notas de la versión.](release-notes-office-for-mac.md)<br/><br/>
+
 ## <a name="july-2019-release"></a>Versión de julio de 2019
 
-**Fecha de lanzamiento:** 16 de julio de 2019
+**Fecha de publicación** : 18 de julio de 2019
 
 *Microsoft Auto Update 4.13*
 
@@ -43,23 +45,23 @@ En la siguiente tabla, se proporciona información del historial de versiones de
 
 **Vínculo de actualización de MAU:**
 
-[Descargar el paquete de actualización automática de Microsoft 4.13](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.13.19071500_Updater.pkg)<br/>
+[Descargar el paquete de actualización automática de Microsoft 4.13](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.13.19071800_Updater.pkg)<br/>
 <br/>
-**Hash SHA-1/ SHA-256**
+**SHA-256 Hash:**
 
-2f86ed6bba92bb57ac1189ba561de8b5e36c90003c178d50d7c71960050ea667
+9FDCEAFA05AB070531ECEE50E1E977839C1E2DE2312569F816C59F35DE162B08
 <br/><br/>
 
 ## <a name="release-history"></a>Historial de versiones
 
 |**Fecha de publicación**|**Versión**|**Más información**||
 |:-----|:-----|:-----|:-----|
-|16 de julio de 2019 <br/>|4.13 <br/> |  [Notas de la versión](release-notes-office-for-mac.md) <br/> ||
-|11 de junio de 2019 <br/>|4.12 <br/> |  <br/> ||
-|14 de mayo de 2019 <br/>|4.11 <br/> | [Notas de la versión](release-notes-office-for-mac.md#May-2019-release) <br/> | <br/> |
-|16 de abril de 2019 <br/>|4.10 <br/> | [Notas de la versión](release-notes-office-for-mac.md#April-2019-release) <br/> |<br/> |
+|18 de julio de 2019 <br/>|4.13 <br/> |  <br/> ||
+|11 de junio de 2019 <br/>|4.12 <br/> | <br/> ||
+|14 de mayo de 2019 <br/>|4.11 <br/> |  <br/> | <br/> |
+|16 de abril de 2019 <br/>|4.10 <br/> |  <br/> |<br/> |
 |14 de marzo de 2019 <br/>|4.9.0 <br/> | [Notas de la versión](release-notes-office-for-mac.md#march-2019-release) <br/> | <br/> |
-|26 de febrero de 2019 <br/>|4.8.0 <br/> | [Notas de la versión](release-notes-office-for-mac.md#january-2019-release) <br/> |<br/> |
+|26 de febrero de 2019 <br/>|4.8.0 <br/> | [Notas de la versión](release-notes-office-for-mac.md#february-2019-release) <br/> |<br/> |
 |16 de enero de 2019 <br/>|4.7.0 <br/> | [Notas de la versión](release-notes-office-for-mac.md#january-2019-release) <br/> | |
 |11 de diciembre de 2018 <br/>|4.6.0 <br/> | [Notas de la versión](release-notes-office-for-mac.md#december-2018-release) <br/> ||
 |14 de noviembre de 2018 <br/> |4.5.0 <br/> |[Notas de la versión](release-notes-office-for-mac.md#november-2018-release) <br/> | |
