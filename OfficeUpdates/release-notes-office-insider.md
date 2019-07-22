@@ -3,19 +3,19 @@ title: Notas de la versión de Office para participantes de Office Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 7/12/2019
+ms.date: 7/19/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 29b2cf8edb700db4b887c603570a43bc62ca7356
-ms.sourcegitcommit: 433c9f63b2b868767c23672ccc1845d2d90327aa
+ms.openlocfilehash: ae18351dbb8d37786892e622bcb6c86624dcbb23
+ms.sourcegitcommit: bc0fc6203e00628704639923db8de54affbe2005
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/12/2019
-ms.locfileid: "35643042"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35803167"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -26,7 +26,51 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 > - La fecha de publicación de las notas de versión pueden no coincidir con la fecha real de lanzamiento de la compilación 
 
  > [!NOTE]
-> - Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a partir de finales de junio, Microsoft Teams se incluirá en instalaciones existentes de Office 365 ProPlus (y Office 365 Empresa) a la hora de actualizar dichas instalaciones. La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/es-ES/deployoffice/teams-install).
+> - Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a partir de finales de junio, Microsoft Teams se incluirá en instalaciones existentes de Office 365 ProPlus (y Office 365 Empresa) a la hora de actualizar dichas instalaciones. La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, consulte [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/es-ES/deployoffice/teams-install).
+
+## <a name="july-19-2019"></a>19 de julio de 2019
+Versión 1908 (versión 11911.20000)
+
+## <a name="whats-new"></a>Novedades:
+
+### <a name="word"></a>Word
+
+#### <a name="learn-what-acronyms-mean-when-you-read-in-word-online"></a>Aprenda acerca del significado de los acrónimos cuando los lee en Word online
+
+Cuando encuentre un acrónimo, intentaremos definirlo con datos provenientes de su organización.
+
+#### <a name="coauthoring-improvements"></a>Mejoras en la coautoría
+
+Se ha mejorado la experiencia de coautoría al aumentar la probabilidad de que otros usuarios reciban los cambios de contenido en tiempo real.
+
+## <a name="notable-fixes"></a>Correcciones notables:
+
+### <a name="word"></a>Word 
+- Hemos arreglado un problema en el que la etiqueta BookMarkEnd.estaba faltando.
+- Hemos arreglado un problema en el que la selección de fuente podía cambiar mientras el usuario escribía caracteres especiales.
+- Hemos arreglado un problema que a veces podía causar respuestas en blanco a una nueva tarjeta de comentario.
+- Hemos arreglado un problema que podía provocar que se perdiera el formato al compartir un correo electrónico.
+
+### <a name="excel"></a>Excel
+- Hemos arreglado un problema en el que en una matriz con un gran rango ocasiones, podía causar un bloqueo.
+- Hemos mejorado significativamente el rendimiento al copiar datos de rangos filtrados.
+- Hemos arreglado un problema que impedía que algunos archivos se abrieran si el nombres del archivo contenía caracteres especiales.
+
+### <a name="powerpoint"></a>PowerPoint
+- Hemos arreglado un problema en el que el nombre de la sección no se seleccionaba de forma predeterminada en las secciones recién creadas en PowerPoint.
+- Hemos arreglado un problema que podía provocar que la interfaz de usuario fuese difícil de usar al usar una pantalla de 4:3.
+
+### <a name="outlook"></a>Outlook
+- Hemos arreglado un problema que impedía que se mostraran las salas en listados.
+- Hemos arreglado un problema que impedía usar el formato HTML para algunos usuarios de POP3.
+
+### <a name="access"></a>Access
+- Varias correcciones de rendimiento y estabilidad.
+
+### <a name="project"></a>Project
+- Varias correcciones de rendimiento y estabilidad.
+
+</BR></BR>
 
 ## <a name="july-12-2019"></a>12 de julio de 2019
 Versión 1907 (compilación 11901.20038)
