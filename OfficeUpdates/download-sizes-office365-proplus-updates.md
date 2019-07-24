@@ -9,30 +9,27 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Office 365 ProPlus según el canal de actualización.
-ms.openlocfilehash: 39c60b6d84ffff836a1f89735e357cbcd1901793
-ms.sourcegitcommit: 3583f7d48360ffc79d0d26b1b2385fec0d99be14
+ms.openlocfilehash: 618ba47e894e43df22fced1370f24c05421d0a19
+ms.sourcegitcommit: 75261a0a6da741286e89750a6035e398c041972c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35601469"
+ms.lasthandoff: 07/23/2019
+ms.locfileid: "35834260"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 
-En las siguientes tablas se muestran, ordenados por fecha de lanzamiento y actualización del canal, los tamaños de descarga aproximados de las actualizaciones desde versiones anteriores recientes de Office 365 ProPlus a la versión más reciente.
-  
-Proporcionamos esta información antes de la fecha de publicación real para que los clientes empresariales puedan planificar el ancho de banda de red necesario para estas actualizaciones de canal. Puesto que proporcionamos esta información con antelación, puede ser que algunas parte cambie cuando se publique la versión real.
-  
-Nuestro objetivo es proporcionar información sobre el tamaño de la actualización una semana antes de la publicación; sin embargo, hay ocasiones en las que la información no está disponible con tanta anterioridad. Las publicaciones del canal semianual y del canal semianual (dirigido) están programadas para el segundo martes de cada mes. Las publicaciones del canal mensual no tienen programación.
 
-Para obtener información sobre las características, las actualizaciones de seguridad y de otro tipo que se incluyen en cada versión, consulte [Información de la versión de actualizaciones de Office 365 ProPlus](release-notes-office365-proplus.md).
+Cuando sea posible, queremos dar información sobre el tamaño de las actualizaciones, para que los clientes empresariales puedan planificar el uso del ancho de banda de su red. 
+
+En las siguientes tablas se muestran los tamaños de descarga aproximados de las actualizaciones desde versiones anteriores recientes de Office 365 ProPlus a la versión más reciente. Los tamaños de descarga reales pueden variar unos 50 MB como máximo. Si va a realizar la actualización desde una versión más antigua a la más actual, el tamaño de descarga podría ser mayor. 
+
+Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal semianual, el tamaño de actualización será considerablemente mayor que el que se muestra en la tabla. Puede comportar una descarga completa, que podría ser de un 1 GB o más.
 
  
 > [!NOTE]
 > - El tamaño de descarga aproximado que aparece en las tablas solo se aplica a la versión en-us x64 de Office 365 ProPlus. (Todas las versiones anteriores al 13 de marzo de 2019 muestran tamaños x86).
-> - Los tamaños de descarga son aproximados. Los tamaños de descarga reales pueden variar, probablemente unos 50 MB como máximo. 
-> - Se muestran solo las versiones de los últimos cuatro meses.
-> - En las tablas solo aparecen las versiones anteriores más recientes. Si va a realizar la actualización desde una versión más antigua, el tamaño de descarga será mayor.
-> - Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal semianual, el tamaño de actualización será considerablemente mayor que el que se muestra en la tabla, ya que puede comportar una descarga completa, con un mínimo de 1 GB.
+> - Se muestran las versiones de los últimos cuatro meses.
+
 
 [//]: # (NO ELIMINAR)
 
@@ -346,43 +343,16 @@ La versión más actual es la 1902 (compilación 11328.20146).
 |Versión 1901 (compilación 11231.20130)  <br/> |31 de enero de 2019  <br/> |180<br/> |
 |Versión 1901 (compilación 11231.20174)  <br/> |12 de febrero de 2019  <br/> |178<br/> |
 
-## <a name="february-12-2019"></a>12 de febrero de 2019
 
-### <a name="monthly-channel"></a>Canal mensual
-
-La versión más actual es la 1901 (compilación 11231.20174). 
-  
-|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
-|:-----|:-----|:-----|
-|Versión 1901 (compilación 11231.20130)  <br/> |31 de enero de 2019  <br/> |66<br/> |
-|Versión 1812 (compilación 11126.20266)  <br/> |14 de enero de 2019  <br/> |158<br/> |
-
-
-### <a name="semi-annual-channel"></a>Canal semianual
-
-La versión más actual es la 1808 (compilación 10730.20280).
-
-|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
-|:-----|:-----|:-----|
-|Versión 1808 (compilación 10730.20264)  <br/> |8 de enero de 2019  <br/> |79<br/> |
-|Versión 1803 (compilación 9126.2336) <br/> |11 de diciembre de 2018  <br/> |280<br/> |
-
-  
-### <a name="semi-annual-channel-targeted"></a>Canal semianual (dirigido)
-
-La versión más actual es la 1808 (compilación 10730.20280).
-  
-|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
-|:-----|:-----|:-----|
-|Versión 1808 (compilación 10730.20264)  <br/> |8 de enero de 2019  <br/> |79 <br/> |
-|Versión 1808 (compilación 10730.20262)  <br/> |11 de diciembre de 2018  <br/> |280 <br/> |
-
-
-    
 ## <a name="related-topics"></a>Temas relacionados
 
+
 - [Información general de los canales de actualización para Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+
+
+
 - [Historial de actualizaciones de Office 365 ProPlus (ordenado por fecha)](update-history-office365-proplus-by-date.md)
+
 
 > [!NOTE]
 > Si necesita ayuda con algún problema de uso de Office, le recomendamos que publique la pregunta en el [foro de preguntas de Microsoft](https://answers.microsoft.com/) o [Tech Community](https://techcommunity.microsoft.com/), o bien puede ponerse en contacto con el [servicio de soporte técnico](https://support.microsoft.com/contactus).
