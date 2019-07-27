@@ -3,19 +3,19 @@ title: Notas de la versión de Office para participantes de Office Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 7/19/2019
+ms.date: 7/26/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: ae18351dbb8d37786892e622bcb6c86624dcbb23
-ms.sourcegitcommit: bc0fc6203e00628704639923db8de54affbe2005
+ms.openlocfilehash: cc2966f80bdedb937de10ba909a4e60ba6169617
+ms.sourcegitcommit: da76d85450dc1743e839d4874d2e90af1b729391
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35803167"
+ms.lasthandoff: 07/26/2019
+ms.locfileid: "35916973"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -27,6 +27,44 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
  > [!NOTE]
 > - Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a partir de finales de junio, Microsoft Teams se incluirá en instalaciones existentes de Office 365 ProPlus (y Office 365 Empresa) a la hora de actualizar dichas instalaciones. La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, consulte [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/es-ES/deployoffice/teams-install).
+
+## <a name="july-26-2019"></a>26 de julio de 2019
+Versión 1908 (versión 11916.20000)
+
+## <a name="whats-new"></a>Novedades:
+
+### <a name="word-excel-powerpoint"></a>Word, Excel, PowerPoint
+
+#### <a name="create-more-accessible-pdfs"></a>Crear PDF más accesibles
+
+Crear un archivo PDF y el comprobador de accesibilidad indicará si hay problemas de accesibilidad para solucionar el problema antes de guardar.
+
+## <a name="notable-fixes"></a>Correcciones notables:
+
+### <a name="all"></a>Todo
+
+- Se ha corregido un problema por el que la asociación de tipo de archivo y los iconos de Office podría romperse en ocasiones, tras una actualización de Office
+
+### <a name="word"></a>Word 
+- Varias correcciones de rendimiento y estabilidad.
+
+### <a name="excel"></a>Excel
+- Se ha corregido un problema por el que mover un gráfico puede causar un error en ocasiones.
+- Se ha corregido un problema por el que al obtener el objeto de hoja de cálculo después de cambiar de tipo de gráfico en ocasiones podría producirse un error
+
+### <a name="powerpoint"></a>PowerPoint
+- Varias correcciones de rendimiento y estabilidad.
+
+### <a name="outlook"></a>Outlook
+- Se ha corregido un problema en el que, en la cinta de opciones simplificada, un control deshabilitado a veces puede no estar atenuado en la cinta de opciones
+
+### <a name="access"></a>Access
+- Varias correcciones de rendimiento y estabilidad.
+
+### <a name="project"></a>Project
+- Varias correcciones de rendimiento y estabilidad.
+
+</BR></BR>
 
 ## <a name="july-19-2019"></a>19 de julio de 2019
 Versión 1908 (versión 11911.20000)
