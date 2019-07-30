@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2019
-ms.openlocfilehash: 0aaff25b48109f843c6eccbaf650da4006e83f1d
-ms.sourcegitcommit: 3583f7d48360ffc79d0d26b1b2385fec0d99be14
+ms.openlocfilehash: 1677b097fd249eec67dee4600adcb212b26999b8
+ms.sourcegitcommit: b4644c48a3fb2106d9e4939e6b1b210b9be027e5
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35601519"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35931170"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal mensual en 2019
 
@@ -26,7 +26,52 @@ En estas notas de la versión, se proporciona información sobre característica
 > - A menudo distribuimos características (y a veces incluso correcciones) para el Canal mensual durante un período de tiempo. Esto nos permite asegurarnos de que todo funciona correctamente antes de publicar la característica para un público más amplio. Por tanto, si a continuación no ve algo descrito, no se preocupe, lo recibirá con el tiempo. [Más información](https://support.office.com/es-ES/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
-> - Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a partir de principios de julio, Microsoft Teams se incluirá en instalaciones existentes de Office 365 ProPlus (y Office 365 Empresa) a la hora de actualizar dichas instalaciones. La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/es-ES/deployoffice/teams-install).
+> - Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a partir de principios de julio, Microsoft Teams se incluirá en instalaciones existentes de Office 365 ProPlus (y Office 365 Empresa) a la hora de actualizar dichas instalaciones. La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, consulte [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/es-ES/deployoffice/teams-install).
+
+## <a name="version-1907-july-29"></a>Versión 1907: 29 de julio
+*Versión 1907 (compilación 11901.20176)*
+* Varias correcciones de errores y rendimiento.
+
+### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
+
+- **Se acabaron los saltos al explorador:** usted decide cómo se abren los vínculos a los documentos de Office: en el explorador o en la aplicación. 
+
+- **Programar rápidamente con mejoras de Power Query:** termine rápidamente el código con colores de sintaxis y la función de autocompletar. Además, descubra fácilmente funciones, columnas y parámetros. 
+  [Más información](https://support.office.com/es-ES/article/66eef01e-0fd5-4d26-ab2b-e08378f74ac5)
+
+- **Crear un gráfico de mapa:** esta característica es una mejora para los usuarios que trazan gráficos de mapas coropléticos con los tipos de datos geográficos de Excel. El beneficio para los usuarios finales será una integración más rica entre las características y una mayor precisión de la región que el usuario final quiere mostrar en el mapa. Entre otras ventajas adicionales está la capacidad de mostrar en el mapa polígonos urbanos. 
+  [Más información](https://support.office.com/es-ES/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+- **Unir tablas en columnas similares:** Obtener y transformar (Power Query) ahora ofrece una lógica de coincidencia de texto (también denominada coincidencia aproximada) al comparar columnas en la combinación de tablas. 
+  [Más información](https://support.office.com/es-ES/article/ffdd5082-c0c8-4c8e-a794-bd3962b90649)
+
+### <a name="outlook-feature-updates"></a>Outlook: actualizaciones de características
+
+- **Obtener sugerencias de correo electrónico cuando busca un contacto:** cuando escriba el nombre de una persona en el cuadro de búsqueda, se incluirán los mensajes de correo electrónico más relevantes con las sugerencias de búsqueda. 
+  [Más información](https://support.office.com/es-ES/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
+
+- **Se acabaron los saltos al explorador:** usted decide cómo se abren los vínculos a los documentos de Office: en el explorador o en la aplicación. 
+
+- **Los vídeos en línea tienen un nuevo hogar:** guarde un vídeo en Microsoft Stream para que puedan verlo todas las personas de su organización. Inserte el vínculo del vídeo y disfrute de una presentación multimedia en una fracción del tamaño del archivo. 
+  [Más información](https://support.office.com/es-ES/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+
+- **Crear un gráfico de mapa:** esta característica es una mejora para los usuarios que trazan gráficos de mapas coropléticos con los tipos de datos geográficos de Excel. El beneficio para los usuarios finales será una integración más rica entre las características y una mayor precisión de la región que el usuario final quiere mostrar en el mapa. Entre otras ventajas adicionales está la capacidad de mostrar en el mapa polígonos urbanos. 
+  [Más información](https://support.office.com/es-ES/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+### <a name="word-feature-updates"></a>Word: actualizaciones de características
+
+- **Diga adiós a las distracciones:** llega a Windows una de las característica favoritas de Mac. Cambie al modo Focalizado en el menú Vista para eliminar las distracciones y concentrarse en su trabajo. 
+  [Más información](https://support.office.com/es-ES/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
+
+- **Se acabaron los saltos al explorador:** usted decide cómo se abren los vínculos a los documentos de Office: en el explorador o en la aplicación. 
+
+- **Crear un gráfico de mapa:** esta característica es una mejora para los usuarios que trazan gráficos de mapas coropléticos con los tipos de datos geográficos de Excel. El beneficio para los usuarios finales será una integración más rica entre las características y una mayor precisión de la región que el usuario final quiere mostrar en el mapa. Entre otras ventajas adicionales está la capacidad de mostrar en el mapa polígonos urbanos. 
+  [Más información](https://support.office.com/es-ES/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+- **Borrar con precisión:** elija entre dos tamaños de borrador para arreglar pequeñas imperfecciones de la entrada de lápiz. 
+  [Más información](https://support.office.com/es-ES/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 ## <a name="version-1906-july-09"></a>Versión 1906: 09 de julio
 *Versión 1906 (compilación 11727.20244)*
