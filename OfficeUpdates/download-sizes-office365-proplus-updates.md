@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Office 365 ProPlus según el canal de actualización.
-ms.openlocfilehash: d50e91c05448279e940bc0c83eac1d1d549f7469
-ms.sourcegitcommit: ec236a31e8d4bcd0278236f6bba5f37258cffd42
+ms.openlocfilehash: f6a9080906c257e6a1cc426d69b77eb1e1a64203
+ms.sourcegitcommit: 4bcb4a9e319494a6d66a3234e1295b979d73ed0a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/29/2019
-ms.locfileid: "35924917"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "36045002"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 
@@ -27,7 +27,7 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 
  
 > [!NOTE]
-> - El tamaño de descarga aproximado que aparece en las tablas solo se aplica a la versión en-us x64 de Office 365 ProPlus. (Todas las versiones anteriores al 13 de marzo de 2019 muestran tamaños x86).
+> - El tamaño de descarga aproximado que aparece en las tablas solo se aplica a la versión en inglés de Estados Unidos x64 de Office 365 ProPlus.
 > - Se muestran las versiones de los últimos cuatro meses.
 
 
@@ -305,60 +305,6 @@ La versión más actual es la 1903 (compilación 11425.20202).
 |:-----|:-----|:-----|
 |Versión 1902 (compilación 11328.20158)  <br/> |12 de marzo de 2019  <br/> |204<br/> |
 |Versión 1902 (compilación 11328.20222)  <br/> |25 de marzo de 2019  <br/> |205<br/> |
-
-## <a name="march-25-2019"></a>25 de marzo de 2019
-
-### <a name="monthly-channel"></a>Canal mensual
-
-La versión más actual es la 1902 (compilación 11328.20222). 
-  
-|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
-|:-----|:-----|:-----|
-|Versión 1902 (compilación 11328.20158)  <br/> |12 de marzo de 2019  <br/> |67<br/> |
-|Versión 1901 (compilación 11328.201460)  <br/> |04 de marzo de 2019  <br/> |67<br/> |
-|Versión 1901 (compilación 11328.20146)  <br/> |12 de febrero de 2019  <br/> |307<br/> |
-
-## <a name="march-12-2019"></a>12 de marzo de 2019
-
-### <a name="monthly-channel"></a>Canal mensual
-
-La versión más actual es la 1902 (compilación 11328.20158). 
-  
-|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
-|:-----|:-----|:-----|
-|Versión 1901 (compilación 11231.20130)  <br/> |31 de enero de 2019  <br/> |179<br/> |
-|Versión 1901 (compilación 11231.20174)  <br/> |12 de febrero de 2019  <br/> |177<br/> |
-|Versión 1902 (compilación 11328.20146)  <br/> |4 de marzo de 2019  <br/> |278<br/> |
-
-### <a name="semi-annual-channel"></a>Canal semianual
-
-La versión más actual es la 1808 (compilación 10730.20304).
-
-|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
-|:-----|:-----|:-----|
-|Versión 1808 (compilación 10730.20264)  <br/> |8 de enero de 2019  <br/> |84<br/> |
-|Versión 1808 (compilación 10730.20280) <br/> |12 de febrero de 2019  <br/> |74<br/> |
-
-### <a name="semi-annual-channel-targeted"></a>Canal semianual (dirigido)
-
-La versión más actual es la 1902 (compilación 11328.20158).
-  
-|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
-|:-----|:-----|:-----|
-|Versión 1808 (compilación 10730.20264)  <br/> |8 de enero de 2019  <br/> |257 <br/> |
-|Versión 1808 (compilación 10730.20280)  <br/> |12 de febrero de 2019  <br/> |256 <br/> |
-
-## <a name="march-4-2019"></a>4 de marzo de 2019
-
-### <a name="monthly-channel"></a>Canal mensual
-
-La versión más actual es la 1902 (compilación 11328.20146). 
-  
-|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
-|:-----|:-----|:-----|
-|Versión 1901 (compilación 11231.20130)  <br/> |31 de enero de 2019  <br/> |180<br/> |
-|Versión 1901 (compilación 11231.20174)  <br/> |12 de febrero de 2019  <br/> |178<br/> |
-
 
 ## <a name="related-topics"></a>Temas relacionados
 

@@ -3,31 +3,39 @@ title: Información de publicación de actualizaciones para Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/8/2018
+ms.date: 7/23/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista de las últimas versiones de Office 365 ProPlus para cada canal de actualización y vínculos a notas de la versión y el historial de actualizaciones.
-ms.openlocfilehash: 28fcd7169df09e40384b695083120f33856cfc4a
-ms.sourcegitcommit: 288bea365b4c0265fb9ff182b19ff4eb30b4c7d7
+ms.openlocfilehash: b100110d36b730901339c3db1d78edae64099612
+ms.sourcegitcommit: c8c625824fd574e9365f60afee5c816b5845a8db
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "34948786"
+ms.lasthandoff: 07/23/2019
+ms.locfileid: "35823959"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Información de publicación de actualizaciones para Office 365 ProPlus
 
-> [!NOTE]
-> - La tabla que muestra las versiones compatibles de cada canal de actualización se ha movido al [Historial de actualizaciones de Office 365 ProPlus (ordenado por fecha)](update-history-office365-proplus-by-date.md).
 
+## <a name="security-updates-for-office-365-proplus-releases"></a>Actualizaciones de seguridad de las versiones de Office 365 ProPlus
+
+Para obtener una lista completa de las actualizaciones de seguridad, vea el artículo siguiente:
+ - [Actualizaciones de seguridad de Office 365 ProPlus](office365-proplus-security-updates.md)
 
 
 ## <a name="update-history-for-office-365-proplus-releases"></a>Historial de actualizaciones de las versiones de Office 365 ProPlus
 
-Para obtener una lista completa de versiones, vea los siguientes artículos:
+Para obtener una lista completa de las versiones y las versiones admitidas para cada canal, vea el artículo siguiente:
  - [Historial de actualizaciones de Office 365 ProPlus (ordenado por fecha)](update-history-office365-proplus-by-date.md)
+
+
+ ## <a name="update-sizes-for-office-365-proplus-releases"></a>Tamaños de actualizaciones de las versiones de Office 365 ProPlus
+
+Para obtener una lista completa de los tamaños de versiones de actualizaciones, vea los siguientes artículos:
+ - [Tamaños de descarga de las actualizaciones de Office 365 ProPlus](download-sizes-office365-proplus-updates.md)
 
 ## <a name="release-notes-for-office-365-proplus-releases"></a>Notas de la versión para las versiones de Office 365 ProPlus
 
@@ -41,6 +49,7 @@ Para obtener una lista completa de notas de la versión por canal y año de la a
 Para obtener información sobre las actualizaciones de Office para Mac, que se incluye con cualquier plan de suscripción de Office 365 que incluya Office 365 ProPlus, vea los siguientes artículos:
  - [Historial de actualizaciones de Office para Mac](update-history-office-for-mac.md)
  - [Notas de la versión de Office para Mac](release-notes-office-for-mac.md)
+ - [Historial de versiones de MAU](release-history-microsoft-autoupdate.md)
 
 
 ## <a name="related-topics"></a>Temas relacionados
