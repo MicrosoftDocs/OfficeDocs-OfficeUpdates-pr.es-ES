@@ -3,19 +3,19 @@ title: Notas de la versión de Office para participantes de Office Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 7/26/2019
+ms.date: 8/2/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: cc2966f80bdedb937de10ba909a4e60ba6169617
-ms.sourcegitcommit: da76d85450dc1743e839d4874d2e90af1b729391
+ms.openlocfilehash: 929d3747d64abb491787dec5cc32604230581614
+ms.sourcegitcommit: 58a9a2eb76f7cceda8f1a4ddd062512495f2f899
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/26/2019
-ms.locfileid: "35916973"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "36168335"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -26,7 +26,98 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 > - La fecha de publicación de las notas de versión pueden no coincidir con la fecha real de lanzamiento de la compilación 
 
  > [!NOTE]
-> - Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a partir de finales de junio, Microsoft Teams se incluirá en instalaciones existentes de Office 365 ProPlus (y Office 365 Empresa) a la hora de actualizar dichas instalaciones. La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, consulte [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/es-ES/deployoffice/teams-install).
+> - Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a partir de finales de junio, Microsoft Teams se incluirá en instalaciones existentes de Office 365 ProPlus (y Office 365 Empresa) a la hora de actualizar dichas instalaciones. La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/es-ES/deployoffice/teams-install).
+
+[//]: # (NO ELIMINAR)
+
+
+## <a name="august-02-2019br"></a>**2 de agosto de 2019**<br/>
+Versión 1908 (compilación 11929.20002)<br/>
+
+### <a name="excel-feature-updates"></a>Actualizaciones de características de Excel:
+
+- **Convertir los archivos para mejorar la accesibilidad**: Actualice los archivos al formato moderno para que sean más accesibles para todos los usuarios.
+
+
+- **Aplicar etiquetas de confidencialidad a los documentos:** Aplique etiquetas de confidencialidad a sus archivos y correos electrónicos para que cumplan las directivas de protección de la información de su organización.
+
+
+### <a name="outlook-feature-updates"></a>Actualizaciones de características de Outlook:
+
+- **Aplicar etiquetas de confidencialidad a los documentos:** Aplique etiquetas de confidencialidad a sus archivos y correos electrónicos para que cumplan las directivas de protección de la información de su organización.
+
+
+### <a name="powerpoint-feature-updates"></a>Actualizaciones de características de PowerPoint:
+
+- **Convertir los archivos para mejorar la accesibilidad**: Actualice los archivos al formato moderno para que sean más accesibles para todos los usuarios.
+
+
+- **Aplicar etiquetas de confidencialidad a los documentos:** Aplique etiquetas de confidencialidad a sus archivos y correos electrónicos para que cumplan las directivas de protección de la información de su organización.
+
+
+### <a name="word-feature-updates"></a>Actualizaciones de características de Word:
+
+- **Convertir los archivos para mejorar la accesibilidad**: Actualice los archivos al formato moderno para que sean más accesibles para todos los usuarios.
+
+
+- **Reescribir al rescate:** ¿Quiere decirlo de otra forma? Use Reescribir para ver diferentes sugerencias para transmitir su mensaje. 
+
+
+- **Aplicar etiquetas de confidencialidad a los documentos:** Aplique etiquetas de confidencialidad a sus archivos y correos electrónicos para que cumplan las directivas de protección de la información de su organización.
+
+
+
+
+## <a name="non-security-updates"></a>Actualizaciones que no son de seguridad:
+
+### <a name="access"></a>Access
+- Varias correcciones de rendimiento y estabilidad.
+
+### <a name="excel"></a>Excel
+
+- <div><span>Corregimos un problema que hacía que parezca que &quot;repetir todas las etiquetas&quot; se aplicaba al imprimir en PDF</span></div>
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- <div><span>Corregimos un problema que podría impedir que los usuarios abrieran un documento desde el escritorio</span></div>
+
+- <div><span>Corregimos un problema en el cual se podía evitar una actualización con un mensaje de error incorrecto indicando que &quot;Hay otra instalación en curso&quot;</span></div>
+
+- <div><span>Corregimos un problema en el que un usuario podía ver mensajes de error al instalar las actualizaciones de seguridad</span></div>
+
+- <div><span>Corregimos un problema que podría provocar la desaparición del cursor</span></div>
+
+- <div><span>Corregimos un problema en el que un usuario podía tener cómo valor predeterminado la pestaña dibujar en lugar de la pestaña de inicio</span></div>
+
+- <div><span>Corregimos un problema por el que las vistas de árboles grandes podían dar lugar a un bloqueo</span></div>
+
+### <a name="outlook"></a>Outlook
+
+- <div></div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">Corregimos un problema que puede provocar reiteradas solicitudes de contraseña</span>
+
+- <div><span>Corregimos un problema que podría impedir que una dirección de correo electrónico se pueda consultar correctamente</span></div>
+
+- <div><span>Corregimos un problema que podría impedir que los usuarios abran los elementos del calendario creados con las versiones heredadas de Outlook</span></div>
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>Corregimos un problema que podría impedir que comiencen algunas animaciones</span></div>
+
+### <a name="project"></a>Proyecto
+- Varias correcciones de rendimiento y estabilidad.
+
+### <a name="word"></a>Word
+
+- <div><span>Corregimos un problema en el que las respuestas a los comentarios podrían aparecer desordenadas</span></div>
+
+- <div><span>Corregimos un problema en el que en algunas situaciones, se mostrarían las sugerencias en lugar de los comentarios</span></div>
+
+- <div><span>Corregimos un problema en el cual panel de revisiones podía mostrar cuándo el usuario intentó agregar un nuevo comentario</span></div>
+
+- <div><span>Corregimos un problema que podría impedir que aparezca la lista desplegable deshacer</span></div>
+
+- <div><span>Corregimos un problema que podría impedir agregar comentarios</span></div>
+
 
 ## <a name="july-26-2019"></a>26 de julio de 2019
 Versión 1908 (versión 11916.20000)
