@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2019
-ms.openlocfilehash: f62ad82facc0ca89163cf57c774fbd2b4ae9db1c
-ms.sourcegitcommit: 17facf664b8e512d51a2059fdfeea2693b4294cb
+ms.openlocfilehash: 38bf1f7662af29427878afd9e015f30bb9b6e554
+ms.sourcegitcommit: 4a43961fb9786e6f8b7cc25ee45beaf62665db83
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35936342"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36222968"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal mensual en 2019
 
@@ -36,10 +36,9 @@ En estas notas de la versión, se proporciona información sobre característica
 
 - **Se acabaron los saltos al explorador:** usted decide cómo se abren los vínculos a los documentos de Office: en el explorador o en la aplicación. 
 
-- **Programar rápidamente con mejoras de Power Query:** termine rápidamente el código con colores de sintaxis y la función de autocompletar. Además, descubra fácilmente funciones, columnas y parámetros. 
-  [Más información](https://support.office.com/es-ES/article/66eef01e-0fd5-4d26-ab2b-e08378f74ac5)
+- **Programar rápidamente con mejoras de Power Query:** termine rápidamente el código con colores de sintaxis y la función de autocompletar. Además, descubra fácilmente funciones, columnas y parámetros.
 
-- **Crear un gráfico de mapa:** esta característica es una mejora para los usuarios que trazan gráficos de mapas coropléticos con los tipos de datos geográficos de Excel. El beneficio para los usuarios finales será una integración más rica entre las características y una mayor precisión de la región que el usuario final quiere mostrar en el mapa. Entre otras ventajas adicionales está la capacidad de mostrar en el mapa polígonos urbanos. 
+- **Crear un gráfico de mapa:** Esta característica es una mejora para los usuarios que dibujan gráficos de mapas completos usando los tipos de datos geográficos de Excel. El beneficio para los usuarios finales será una integración más rica entre las características y una mayor precisión de la región que el usuario final quiere mostrar en el mapa. Entre otras ventajas adicionales está la capacidad de mostrar en el mapa polígonos urbanos. 
   [Más información](https://support.office.com/es-ES/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
 - **Unir tablas en columnas similares:** Obtener y transformar (Power Query) ahora ofrece una lógica de coincidencia de texto (también denominada coincidencia aproximada) al comparar columnas en la combinación de tablas. 
@@ -275,10 +274,12 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - **Controles de privacidad:** nuevos controles para datos de diagnóstico y experiencias conectadas, actualizados y mejorados. [Más información](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
 
-- **Nuevos iconos de aplicación de Office**: nuevo diseño de iconos de la aplicación para reflejar las sencillas, eficaces e inteligentes experiencias de Office.
+### <a name="outlook-non-security-updates"></a>Outlook: actualizaciones no relacionadas con la seguridad
+
+- Se ha corregido un problema que provocaba que el asunto apareciera en un tamaño demasiado pequeño.
 
 ### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones no relacionadas con la seguridad
-Se corrigió un problema de identificación del nombre de la nueva era "Reiwa" en Hiragana y Kanji como una expresión gramaticalmente incorrecta o mal escrita.
+- Se corrigió un problema de identificación del nombre de la nueva era "Reiwa" en Hiragana y Kanji como una expresión gramaticalmente incorrecta o mal escrita.
 
 ## <a name="version-1903-april-23"></a>Versión 1903: 23 de abril
 *Versión 1903 (compilación 11425.20244)*
