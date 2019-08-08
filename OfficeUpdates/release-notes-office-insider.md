@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 929d3747d64abb491787dec5cc32604230581614
-ms.sourcegitcommit: 58a9a2eb76f7cceda8f1a4ddd062512495f2f899
+ms.openlocfilehash: 21bfa08b20bc7f809913cfb4ddf30da31ca58054
+ms.sourcegitcommit: 092ddd24dee36b99293d3d9231bef014cc21fbc1
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/02/2019
-ms.locfileid: "36168335"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36231605"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -57,13 +57,13 @@ Versión 1908 (compilación 11929.20002)<br/>
 
 ### <a name="word-feature-updates"></a>Actualizaciones de características de Word:
 
-- **Convertir los archivos para mejorar la accesibilidad**: Actualice los archivos al formato moderno para que sean más accesibles para todos los usuarios.
+- **Convertir los archivos para mejorar la accesibilidad**: actualice los archivos al formato moderno para que sean más accesibles para todos los usuarios.
 
 
-- **Reescribir al rescate:** ¿Quiere decirlo de otra forma? Use Reescribir para ver diferentes sugerencias para transmitir su mensaje. 
+- **Decirlo de otra forma:** si lo quiere decir de forma diferente, la reescritura le puede ayudar. La reescritura ofrece alternativas para afinar sus frases.
 
 
-- **Aplicar etiquetas de confidencialidad a los documentos:** Aplique etiquetas de confidencialidad a sus archivos y correos electrónicos para que cumplan las directivas de protección de la información de su organización.
+- **Aplicar etiquetas de confidencialidad a los documentos:** aplique etiquetas de confidencialidad a sus archivos y correos electrónicos para que cumplan las directivas de protección de la información de su organización.
 
 
 
