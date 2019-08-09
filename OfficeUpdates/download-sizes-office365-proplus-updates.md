@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Office 365 ProPlus según el canal de actualización.
-ms.openlocfilehash: f6a9080906c257e6a1cc426d69b77eb1e1a64203
-ms.sourcegitcommit: 4bcb4a9e319494a6d66a3234e1295b979d73ed0a
+ms.openlocfilehash: 5b5f4f92db3b767c557506bc755c5755bdd0f938
+ms.sourcegitcommit: b8462ca4bb2759e492f6dac4b1f9e9e32fa5aa0e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36045002"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36210688"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 
@@ -32,6 +32,32 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 
 
 [//]: # (NO ELIMINAR)
+
+## <a name="august-6-2019"></a>6 de agosto de 2019
+
+[//]: # (NO ELIMINAR INICIO DE CONTENIDO DE PREVISIÓN)
+
+### <a name="semi-annual-channel"></a>Canal semianual
+
+<i>La versión esperada es la 1902 (compilación 11328.20388).</i>
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1902 (compilación 11328.20368) <br/> |9 de julio de 2019 <br/> |61<br/> |
+|Versión 1808 (compilación 10730.20348) <br/> |11 de junio de 2019 <br/> |307<br/> |
+
+
+### <a name="semi-annual-targeted-channel"></a>Canal semianual (dirigido)
+
+<i>La versión esperada es la 1902 (compilación 11328.20388).</i>
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1902 (compilación 11328.20368) <br/> |9 de julio de 2019 <br/> |61<br/> |
+|Versión 1902 (compilación 11328.20318) <br/> |11 de junio de 2019 <br/> |73<br/> |
+
+
+[//]: # (NO ELIMINAR FIN DE CONTENIDO DE PREVISIÓN)
 
 ## <a name="july-29-2019"></a>29 de julio de 2019
 
