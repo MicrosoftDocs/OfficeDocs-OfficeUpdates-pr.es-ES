@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 21bfa08b20bc7f809913cfb4ddf30da31ca58054
-ms.sourcegitcommit: 092ddd24dee36b99293d3d9231bef014cc21fbc1
+ms.openlocfilehash: c97fb384e093e8bbbc3e4e43b70de3b2cba773ee
+ms.sourcegitcommit: 03ffa84860ba8b6274641eedef588619ea389316
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231605"
+ms.lasthandoff: 08/10/2019
+ms.locfileid: "36285987"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -31,7 +31,61 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 [//]: # (NO ELIMINAR)
 
 
-## <a name="august-02-2019br"></a>**2 de agosto de 2019**<br/>
+## <a name="august-09-2019br"></a>**09 de agosto de 2019**<br/>
+Versión 1909 (compilación 12001.20000)<br/>
+
+### <a name="excel-feature-updates"></a>Actualizaciones de características de Excel:
+
+- **La colaboración es ahora más fácil**: las mejoras en la coautoría significan que al trabajar con el formato condicional, los estilos de celda y otros elementos, los cambios se combinan perfectamente con los de los colaboradores.
+
+
+- **Buscar y disfrutar:** hemos agregado una búsqueda para insertar iconos que hacen que sea más fácil encontrar el icono que desea. Y, mientras hace la selección, el botón Insertar le indica cuántos ha elegido.
+
+
+### <a name="office-suite-feature-updates"></a>Conjunto de aplicaciones de Office, actualizaciones de características:
+
+- **Nuevos iconos de aplicación de Office**: nuevo diseño de iconos de la aplicación para reflejar las sencillas, eficaces e inteligentes experiencias de Office.
+
+
+### <a name="outlook-feature-updates"></a>Actualizaciones de características de Outlook:
+
+- **Protección avanzada frente a ataques**: con la Protección contra amenazas avanzada de Office 365, estará protegido frente a ataques mediante hipervínculos en asuntos de correos electrónicos, mensajes adjuntos, mensajes firmados, rutas de red, etc.
+
+
+- **Buscar y disfrutar:** hemos agregado una búsqueda para insertar iconos que hacen que sea más fácil encontrar el icono que desea. Y, mientras hace la selección, el botón Insertar le indica cuántos ha elegido.
+
+
+### <a name="powerpoint-feature-updates"></a>Actualizaciones de características de PowerPoint:
+
+- **Buscar y disfrutar:** hemos agregado una búsqueda para insertar iconos que hacen que sea más fácil encontrar el icono que desea. Y, mientras hace la selección, el botón Insertar le indica cuántos ha elegido.
+
+
+### <a name="word-feature-updates"></a>Actualizaciones de características de Word:
+
+- **Otros usuarios verán los cambios rápidamente**: las mejoras en la coautoría significan que los colaboradores podrán ver los cambios más rápido que nunca.
+
+
+- **Buscar y disfrutar:** hemos agregado una búsqueda para insertar iconos que hacen que sea más fácil encontrar el icono que desea. Y, mientras hace la selección, el botón Insertar le indica cuántos ha elegido.
+
+
+
+
+## <a name="non-security-updates"></a>Actualizaciones que no son de seguridad:
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Se ha corregido un problema que provocaba que los destinatarios de la reunión recibiesen dos notificaciones después de que se cancelara una reunión</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>Se ha corregido un problema que podía provocar un bloqueo cuando el usuario seleccionaba Sin contorno o Sin relleno para formas e iconos.</span></div>
+
+
+
+
+
+## <a name="august-02-2019br"></a>**02 de agosto de 2019**<br/>
 Versión 1908 (compilación 11929.20002)<br/>
 
 ### <a name="excel-feature-updates"></a>Actualizaciones de características de Excel:
@@ -168,9 +222,6 @@ Versión 1908 (versión 11911.20000)
 
 Cuando encuentre un acrónimo, intentaremos definirlo con datos provenientes de su organización.
 
-#### <a name="coauthoring-improvements"></a>Mejoras en la coautoría
-
-Se ha mejorado la experiencia de coautoría al aumentar la probabilidad de que otros usuarios reciban los cambios de contenido en tiempo real.
 
 ## <a name="notable-fixes"></a>Correcciones notables:
 
@@ -293,6 +344,12 @@ Versión 1907 (compilación 11819.20002)
 
 ## <a name="whats-new"></a>Novedades:
 
+### <a name="excel"></a>Excel
+
+- **Programar rápidamente con mejoras de Power Query:** termine rápidamente el código con colores de sintaxis y la función de autocompletar. Además, descubra fácilmente funciones, columnas y parámetros.
+
+- **Unir tablas en columnas similares:** obtener y transformar (Power Query) ahora ofrece una lógica de coincidencia de texto (también denominada coincidencia aproximada) al comparar columnas en la combinación de tablas.
+ 
 ### <a name="word-excel-powerpoint-and-visio"></a>Word, Excel, PowerPoint y Visio
 
 #### <a name="recommended-documents"></a>Documentos recomendados
@@ -771,6 +828,18 @@ Versión 1906 (compilación 11629.20008)
 ## <a name="april-26-2019"></a>26 de abril de 2019
 Version 1905 (compilación 11617.20002)
 
+## <a name="new-features"></a>Características nuevas
+
+### <a name="excel"></a>Excel
+
+#### <a name="coauthoring-improvements"></a>Mejoras en la coautoría
+
+Se ha mejorado la experiencia de coautoría al aumentar la probabilidad de que otros usuarios reciban los cambios de contenido en tiempo real.
+
+### <a name="visio"></a>Visio
+
+- **Exportar objetos visuales de Visio desde Power BI**: los objetos visuales de Visio para Power BI ahora se mostrarán correctamente al exportar informes de Power BI como archivos PDF, archivos de PowerPoint, etc.
+
 ## <a name="notable-fixes"></a>Correcciones notables:
 
 ### <a name="word"></a>Word 
@@ -969,6 +1038,12 @@ Office es ahora compatible con modelos animados que se reproducirán en el edito
 
 ## <a name="march-22-2019"></a>22 de marzo de 2019
 Versión 1904 (compilación 11514.20004)
+
+## <a name="new-features"></a>Características nuevas
+
+- **Controles de privacidad:** nuevos controles para datos de diagnóstico y experiencias conectadas, actualizados y mejorados. Más información <https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json>
+
+- **Los iconos de Office tienen un nuevo aspecto:** los iconos de Office se han rediseñado para reflejar las sencillas, inteligentes y eficaces experiencias de Office.
 
 ## <a name="notable-fixes"></a>Correcciones notables:
 
