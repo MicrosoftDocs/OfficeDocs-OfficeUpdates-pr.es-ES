@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: c97fb384e093e8bbbc3e4e43b70de3b2cba773ee
-ms.sourcegitcommit: 03ffa84860ba8b6274641eedef588619ea389316
+ms.openlocfilehash: dc7b82e85b061d840aa4b780d22b7abfd63d9c23
+ms.sourcegitcommit: c74d193b1673075d4f0550bf37fa5f2fb9bd08c9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/10/2019
-ms.locfileid: "36285987"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36302489"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -294,7 +294,11 @@ Versión 1907 (compilación 11901.20018)
 
 #### <a name="sketchy-shapes"></a>¡Formas incompletas!
 
-¿Estás realizando una presentación? Aplique el estilo incompleto para indicar que todavía está trabajando en él. Ofrece un toque personal a los objetos sin convertirlos en un forma libre o en formas a mano.
+¿Estás realizando una presentación? Aplique el estilo incompleto para indicar que todavía está trabajando en él. Ofrece un toque personal a los objetos sin convertirlos en alguno de forma libre o en alguno de formas a mano.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **La configuración para imprimir números de diapositiva en documentos se ha movido al menú Imprimir para facilitar el acceso:** búsquelo en la lista desplegable imprimir > diseño de impresión cuando haya seleccionado un diseño de documento. Esto también permite que la configuración se alterne fácilmente por presentación. 
 
 ## <a name="notable-fixes"></a>Correcciones notables:
 
