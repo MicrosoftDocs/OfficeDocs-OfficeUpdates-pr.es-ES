@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2019
-ms.openlocfilehash: 38bf1f7662af29427878afd9e015f30bb9b6e554
-ms.sourcegitcommit: 4a43961fb9786e6f8b7cc25ee45beaf62665db83
+ms.openlocfilehash: 6369209a28bebce07241d12a798dbf47a9a54183
+ms.sourcegitcommit: c74d193b1673075d4f0550bf37fa5f2fb9bd08c9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36222968"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36302479"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal mensual en 2019
 
@@ -58,6 +58,8 @@ En estas notas de la versión, se proporciona información sobre característica
 
 - **Crear un gráfico de mapa:** esta característica es una mejora para los usuarios que trazan gráficos de mapas coropléticos con los tipos de datos geográficos de Excel. El beneficio para los usuarios finales será una integración más rica entre las características y una mayor precisión de la región que el usuario final quiere mostrar en el mapa. Entre otras ventajas adicionales está la capacidad de mostrar en el mapa polígonos urbanos. 
   [Más información](https://support.office.com/es-ES/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+- **La configuración para imprimir números de diapositiva en documentos se ha movido al menú Imprimir para facilitar el acceso:** búsquelo en la lista desplegable imprimir > diseño de impresión cuando haya seleccionado un diseño de documento. Esto también permite que la configuración se alterne fácilmente por presentación. 
 
 ### <a name="word-feature-updates"></a>Word: actualizaciones de características
 
@@ -311,6 +313,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - **Insights en Excel:** Insights proporciona valor a una variedad de usuarios. Insights proporciona un enfoque más flexible para el análisis de datos y para otros proporciona una perspectiva diferente a sus datos. [Más información](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
+
 - **Aumentar el alcance de su contenido** ¿Necesita hacer que sus hojas de cálculo sean accesibles? Deje que el comprobador de accesibilidad le ayude sin estorbar. Pruébelo en Revisar > Comprobar accesibilidad y le informaremos en la barra de estado de cuando necesitemos que compruebe algo.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
@@ -320,6 +323,10 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 - **Aumentar el alcance de su contenido** ¿Necesita hacer que sus presentaciones sean accesibles? Deje que el comprobador de accesibilidad le ayude sin estorbar. Pruébelo en Revisar > Comprobar accesibilidad y le informaremos en la barra de estado de cuando necesitemos que compruebe algo.
 
 - **¿Por qué reinventar cuando puede reutilizar?**  Ahorre tiempo usando de nuevo las diapositivas que haya creado o que otros usuarios han compartido con usted.
+
+### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad
+
+- Se ha corregido un problema de conflicto de combinación en Excel que hacía que los usuarios tuvieran que abrir de nuevo el libro para elegir los cambios.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: actualizaciones no relacionadas con la seguridad
 
