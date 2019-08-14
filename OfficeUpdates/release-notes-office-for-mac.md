@@ -3,19 +3,19 @@ title: Notas de la versión de Office para Mac
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 7/17/2019
+ms.date: 8/14/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales de TI las notas de la versión de las versiones de Office para Mac para los suscriptores de Office 356
-ms.openlocfilehash: 04bd800cf823e9c3ad9400da0a004cca7bb19dad
-ms.sourcegitcommit: e3ff8b5b96149cb4bf5e011a11bddb57a9d760f9
+ms.openlocfilehash: 3b2065e8c457507ce70415e346befaac06395b27
+ms.sourcegitcommit: ab7ce44030f562d10025ffd5de7555132b0f191c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35937628"
+ms.lasthandoff: 08/14/2019
+ms.locfileid: "36396604"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de la versión de Office para Mac
 
@@ -36,6 +36,55 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
 
   **Nota:** la información de la versión de Microsoft AutoUpdate (Mau) se ha trasladado a la página [Historial de versiones MAU](https://docs.microsoft.com/es-ES/officeupdates/release-history-microsoft-autoupdate).<br/>
+
+## <a name="august-13-2019-release"></a>Versión de agosto de 13, 2019
+*Versión 16.28 (compilación 19081202)*
+
+
+### <a name="word-feature-updates"></a>Word: actualizaciones de características
+
+- **Un toque humano**: dé un aspecto informal y de dibujado a mano a las formas de Office en su presentación. [Más información](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
+- **Borrar con precisión:** elija entre dos tamaños de borrador para arreglar pequeñas imperfecciones de la entrada de lápiz. [Más información](https://support.office.com/article/6D76C674-7F4B-414D-B67F-B3FFEF6CCF53)
+- **Gráficos de mapa mejorados:** hemos integrado los gráficos de mapa con los tipos de datos geográficos de Excel, para que revelen información de todo tipo sobre las ubicaciones que desee. [Más información](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
+
+- [CVE-2019-1201](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1201): vulnerabilidad de la ejecución remota de código de Microsoft Word
+- [CVE-2019-1205](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1205): vulnerabilidad de la ejecución remota de código de Microsoft Word
+
+
+
+
+### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
+
+- **Un toque humano**: dé un aspecto informal y de dibujado a mano a las formas de Office en su presentación. [Más información](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
+- **Resalte lo que queda por hacer**: seleccione Resolver para contraer los comentarios y hacer que resalten los elementos abiertos.
+- **Gráficos de mapa mejorados:** hemos integrado los gráficos de mapa con los tipos de datos geográficos de Excel, para que revelen información de todo tipo sobre las ubicaciones que desee. [Más información](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+
+
+
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
+
+- **Un toque humano**: dé un aspecto informal y de dibujado a mano a las formas de Office en su presentación. [Más información](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
+- **Entrada manuscrita persistente durante la presentación con diapositivas**: dibuje en sus diapositivas durante una presentación y el lápiz permanecerá activo hasta el final. Guarde también las anotaciones. [Más información](https://support.office.com/article/80a78a11-cb5d-4dfc-a1ad-a26e877da770)
+- **Gráficos de mapa mejorados:** hemos integrado los gráficos de mapa con los tipos de datos geográficos de Excel, para que revelen información de todo tipo sobre las ubicaciones que desee. [Más información](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+
+
+
+### <a name="outlook-feature-updates"></a>Outlook: actualizaciones de características
+
+- **Compartir datos adjuntos desde los archivos en la nube:** adjuntar fácilmente archivos en la nube a los mensajes de correo electrónico para mejorar la colaboración. [Más información](https://support.office.com/article/96490541-8b0c-462e-aacf-fd939c1f22f3)
+
+### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones de seguridad
+
+- [CVE-2019-1148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1148): vulnerabilidad de divulgación de información de componente de gráficos de Microsoft
+- [CVE-2019-1149](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1149): vulnerabilidad de la ejecución remota de código de gráficos de Microsoft
+- [CVE-2019-1151](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1151): vulnerabilidad de la ejecución remota de código de gráficos de Microsoft
+- [CVE-2019-1153](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1153): vulnerabilidad de divulgación de información de componente de gráficos de Microsoft
+
 
 ## <a name="july-16-2019-release"></a>Versión del 16 de julio de 2019
 *Versión 16.27 (compilación 19071500)*
