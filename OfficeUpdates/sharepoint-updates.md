@@ -3,7 +3,7 @@ title: Actualizaciones de SharePoint
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 07/10/2019
+ms.date: 08/14/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: sharepoint-server-itpro
@@ -14,12 +14,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: Encuentre y administre actualizaciones de SharePoint Server 2016, SharePoint 2013 y SharePoint 2010 en una única ubicación. Use los vínculos de esta página para obtener más información sobre las actualizaciones y luego descárguelas.
-ms.openlocfilehash: 524daf206278e9115b0d313dbac5dc40b76bd401
-ms.sourcegitcommit: f0762345dc203481117f080f41fba451bffbac65
+ms.openlocfilehash: d0f20e7b549ec988799ae885f46e9ed4861f5423
+ms.sourcegitcommit: 72b12def03a145b379c518a4e3c29e14585ca256
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35594608"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36384601"
 ---
 # <a name="sharepoint-updates"></a>Actualizaciones de SharePoint
 
@@ -33,6 +33,8 @@ Para obtener las últimas actualizaciones de SharePoint Online y Office 365, vea
 
 |**Nombre del paquete**|**Número de KB**|**Version**|**Fecha de publicación**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Server 2019  <br/>  |
+  [KB 4475555](https://support.microsoft.com/es-ES/help/4475555)  <br/> |16.0.10349.20000  |Agosto de 2019  <br/> |
 |SharePoint Server 2019  <br/>  |
   [KB 4475529](https://support.microsoft.com/es-ES/help/4475529)  <br/> |16.0.10348.12104|Julio de 2019  <br/> |
 |SharePoint Server 2019  <br/>  |
@@ -58,6 +60,9 @@ Para obtener las últimas actualizaciones de SharePoint Online y Office 365, vea
 
 |**Nombre del paquete**|**Número de KB**|**Version**|**Fecha de publicación**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Server 2016  <br/> Revisión de idioma/MUI de SharePoint Server 2016  <br/> |
+  [KB 4475549](https://support.microsoft.com/es-ES/help/4475549) <br/> 
+  [KB 4464553](https://support.microsoft.com/es-ES/help/4464553) <br/> |16.0.4888.1000  |Agosto de 2019  <br/> |
 |SharePoint Server 2016  <br/>  |
   [KB 4475520](https://support.microsoft.com/es-ES/help/4475520) <br/>  |16.0.4873.1000|Julio de 2019  <br/> |
 |SharePoint Server 2016  <br/>  |
@@ -137,6 +142,9 @@ Se proporcionan los siguientes paquetes para actualizaciones acumulativas:
     
 |**Nombre del paquete**|**Número de KB**|**Version**|**Fecha de publicación**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |
+  [KB 4475559](https://support.microsoft.com/es-ES/help/4475559) <br/> 
+  [KB 4475561](https://support.microsoft.com/es-ES/help/4475561) <br/> |15.0.5163.1000  |Agosto de 2019  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |
   [KB 4475523](https://support.microsoft.com/es-ES/help/4475523) <br/> 
   [KB 4475526](https://support.microsoft.com/es-ES/help/4475526) <br/> |15.0.5153.1000|Julio de 2019  <br/> |
@@ -241,6 +249,7 @@ Se proporcionan los siguientes paquetes para actualizaciones acumulativas:
 
 |**Nombre del paquete**|**Número de KB**|**Version**|**Fecha de publicación**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4475575](https://support.microsoft.com/help/4475575) <br/> [KB 4475572](https://support.microsoft.com/help/4475572) <br/> |14.0.7236.5000  |Agosto de 2019  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4475510](https://support.microsoft.com/help/4475510) <br/> [KB 4475535](https://support.microsoft.com/help/4475535) <br/> |14.0.7235.5000|Julio de 2019  <br/> |
 |SharePoint Server 2010  <br/> |
   [KB 4475508](https://support.microsoft.com/es-ES/help/4475508) <br/> |14.0.7234.5000|Junio de 2019  <br/> |
