@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales informáticos un historial de versiones de Microsoft AutoUpdate (MAU).
-ms.openlocfilehash: 6f9c5e78135b3311077445c6de6fb593b5796875
-ms.sourcegitcommit: ab7ce44030f562d10025ffd5de7555132b0f191c
+ms.openlocfilehash: 9b86b9c383805cc6f29bdeaad9416b951443f21a
+ms.sourcegitcommit: fa36d5fbddce8fc94c98eaf81acdfa2fce370958
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/14/2019
-ms.locfileid: "36396594"
+ms.lasthandoff: 08/15/2019
+ms.locfileid: "36429944"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historial de versiones de Microsoft AutoUpdate (MAU)
  
@@ -45,7 +45,7 @@ Para ver las notas de la versión, consulte [Notas de la versión.](release-note
 
 **Vínculo para actualización de MAU:**
 
-[Descargar el paquete de actualización automática para Microsoft 4.14](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.14.19081202_Updater.pkg)<br/>
+[Descargar el paquete de actualización automática para Microsoft 4.14](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
 <br/>
 **SHA-256 Hash:**
 
