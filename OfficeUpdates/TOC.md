@@ -30,6 +30,8 @@
 ### [Historial de actualizaciones del canal mensual (dirigido)](update-history-monthly-channel-targeted.md)
 ###[Notas de la versión del canal de Insider](release-notes-office-insider.md)
 
+## [Historial de versiones de ODT](ODT-release-history.md)
+
 # Office para Mac
 ## [Historial de actualizaciones (Office 365, 2019)](update-history-office-for-mac.md)
 ## [Notas de la versión (Office 365, 2019)](release-notes-office-for-mac.md)
