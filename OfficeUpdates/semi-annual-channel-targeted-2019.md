@@ -3,30 +3,49 @@ title: Notas de la versión para las versiones de Canal semianual (dirigido) en 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual (dirigido) de Office 365 ProPlus en 2019.
-ms.openlocfilehash: c310abe1ae582684e7e59ffbd3b15939fbcc2039
-ms.sourcegitcommit: 03e9e308f4791aeebda4ad284591e8ddb973f56c
+ms.openlocfilehash: ff0d92073df62c8b12b9c78559a6189e7901e471
+ms.sourcegitcommit: 1b1bf8dde78540f7953f2faad614f3862c363921
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054812"
+ms.lasthandoff: 08/21/2019
+ms.locfileid: "36488522"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de la versión para las versiones de Canal semianual (dirigido) en 2019
 
-En estas notas de la versión, se proporciona información sobre características nuevas y actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones de Canal semianual (dirigido) para Office 365 ProPlus en 2019, incluyendo Visio Pro para Office 365 y el cliente de escritorio de Project Online.
+En estas notas de la versión, se proporciona información sobre características nuevas y actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones del Canal semianual (dirigido) de Office 365 ProPlus 2019, Visio Pro para Office 365, el Cliente de escritorio de Project Online y Office 365 Empresa.
  
 > [!NOTE]
-> - Esta información también se aplica a Office 365 Empresa, que es la versión de Office que viene con algunos planes de Office 365, como Empresa Premium.
+> - A menudo distribuimos características (y a veces incluso correcciones) para el Canal semianual (dirigido) durante un período de tiempo. Si no ve algo que se describe a continuación de inmediato, lo verá pronto. 
+  [Más información](https://support.office.com/es-ES/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  
-> [!NOTE]
-> - La información sobre las actualizaciones de seguridad de cada canal de actualización de Office 365 ProPlus se empezará a mostrar por separado en [Actualizaciones de seguridad](office365-proplus-security-updates.md).
+## <a name="version-1902-august-13"></a>Versión 1902: 13 de agosto
+*Versión 1902 (compilación 11328.20392)*
+
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/es-ES/officeupdates/office365-proplus-security-updates)
+
+### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad
+- Se ha corregido un problema por el que se mostraba el icono borrar filtro de las segmentaciones de datos filtrados y sin filtrar de las tablas.
+
+### <a name="outlook-non-security-updates"></a>Outlook: actualizaciones no relacionadas con la seguridad
+- Se ha corregido un problema por el que los usuarios que actualizaban el buzón de la autenticación básica a la moderna, terminaban con una cuenta incorrecta asociada.
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: actualizaciones no relacionadas con la seguridad
+- Se ha corregido un problema por el que la aplicación finalizaba de forma inesperada al colaborar en un documento con otros usuarios.
+
+### <a name="word-non-security-updates"></a>Word: actualizaciones no relacionadas con la seguridad
+- Se ha corregido un problema por el que los campos de actualización de VBA eran lentos.
+- Se ha corregido un problema por el que al abrir un archivo DOC, indicaba que estaba dañado.
+- Se ha corregido un problema por el que la aplicación finalizaba de forma inesperada al colaborar en un documento con otros usuarios.
+
+### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones no relacionadas con la seguridad
+- Se ha corregido un problema por el que la API de configuración no funcionaba en la biblioteca JavaScript de Office en ciertos escenarios. [Más información](https://support.microsoft.com/es-ES/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
 
 ## <a name="version-1902-july-09"></a>Versión 1902: 09 de julio
 *Versión 1902 (compilación 11328.20368)*
@@ -164,7 +183,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones no relacionadas con la seguridad
 
 - Corregido un problema por el que los elementos de una actualización de Office no usan el almacenamiento en caché del mismo nivel de optimización de entrega. 
-  [Más información]("https://docs.microsoft.com/es-ES/windows/deployment/update/waas-delivery-optimization)
+  [Más información](https://docs.microsoft.com/es-ES/windows/deployment/update/waas-delivery-optimization)
 - Corrección de un error que podría provocar que se eliminaran o no se activaran productos si Office se había instalado con la Herramienta de implementación de Office y había un caso de no coincidencia.
 - Corregido un problema que causaba indicaciones de inicio de sesión excesivas en dispositivos Windows 10 (versión 1803 o posterior).
 - Corregida regresión que producía bloqueos al descargar imágenes vinculadas.

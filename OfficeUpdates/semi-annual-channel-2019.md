@@ -9,23 +9,61 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual de Office 365 ProPlus en 2019.
-ms.openlocfilehash: 65c4e73c6696d1d7056a1b15397b7256c448660a
-ms.sourcegitcommit: 03e9e308f4791aeebda4ad284591e8ddb973f56c
+ms.openlocfilehash: 8dfdc0e4e21c037aba0adccc0e86b6c16b96872f
+ms.sourcegitcommit: 1b1bf8dde78540f7953f2faad614f3862c363921
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054822"
+ms.lasthandoff: 08/21/2019
+ms.locfileid: "36488517"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal semianual en 2019
 
-En estas notas de la versión, se proporciona información sobre características nuevas y actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones de Canal semianual para Office 365 ProPlus en 2019, incluyendo Visio Pro para Office 365 y el cliente de escritorio de Project Online.
+En estas notas de la versión, se proporciona información sobre características nuevas y actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones del Canal semianual de Office 365 ProPlus 2019, Visio Pro para Office 365, el Cliente de escritorio de Project Online y Office 365 Empresa.
 
 > [!NOTE]
-> - Esta información también se aplica a Office 365 Empresa, que es la versión de Office que viene con algunos planes de Office 365, como Empresa Premium.
-
-> [!NOTE]
-> - La información sobre las actualizaciones de seguridad de cada canal de actualización de Office 365 ProPlus se empezará a mostrar por separado en [Actualizaciones de seguridad](office365-proplus-security-updates.md).
+> - A menudo distribuimos características (y a veces incluso correcciones) para el Canal semianual durante un período de tiempo. Si no ve algo que se describe a continuación de inmediato, lo verá pronto. 
+  [Más información](https://support.office.com/es-ES/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - OneNote 2016 no se incluirá de forma predeterminada cuando un usuario en el canal semianual descargue e instale Office 365 en Windows 10 desde el Portal de Office.
+
+## <a name="version-1902-august-13"></a>Versión 1902: 13 de agosto
+*Versión 1902 (compilación 11328.20392)*
+
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/es-ES/officeupdates/office365-proplus-security-updates)
+
+### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad
+- Se ha corregido un problema por el que se mostraba el icono borrar filtro de las segmentaciones de datos filtrados y sin filtrar de las tablas.
+
+### <a name="outlook-non-security-updates"></a>Outlook: actualizaciones no relacionadas con la seguridad
+- Se ha corregido un problema por el que los usuarios que actualizaban el buzón de la autenticación básica a la moderna, terminaban con una cuenta incorrecta asociada.
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: actualizaciones no relacionadas con la seguridad
+- Se ha corregido un problema por el que la aplicación finalizaba de forma inesperada al colaborar en un documento con otros usuarios.
+
+### <a name="word-non-security-updates"></a>Word: actualizaciones no relacionadas con la seguridad
+- Se ha corregido un problema por el que los campos de actualización de VBA eran lentos.
+- Se ha corregido un problema por el que al abrir un archivo DOC, indicaba que estaba dañado.
+- Se ha corregido un problema por el que la aplicación finalizaba de forma inesperada al colaborar en un documento con otros usuarios.
+
+### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones no relacionadas con la seguridad
+- Se ha corregido un problema por el que la API de configuración no funcionaba en la biblioteca JavaScript de Office en ciertos escenarios. [Más información](https://support.microsoft.com/es-ES/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
+
+## <a name="version-1808-august-13"></a>Versión 1808: 13 de agosto
+*Versión 1808 (compilación 10730.20370)*
+
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/es-ES/officeupdates/office365-proplus-security-updates)
+
+### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones no relacionadas con la seguridad
+- Se ha corregido un problema por el que la API de configuración no funcionaba en la biblioteca JavaScript de Office en ciertos escenarios. [Más información](https://support.microsoft.com/es-ES/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
+
+
+## <a name="version-1803-august-13"></a>Versión 1803: 13 de agosto
+*Versión 1803 (compilación 9126.2432)*
+
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/es-ES/officeupdates/office365-proplus-security-updates)
+
+### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones no relacionadas con la seguridad
+- Se ha corregido un problema por el que la API de configuración no funcionaba en la biblioteca JavaScript de Office en ciertos escenarios. [Más información](https://support.microsoft.com/es-ES/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
+
 
 ## <a name="version-1902-july-09"></a>Versión 1902: 09 de julio
 *Versión 1902 (compilación 11328.20368)*
