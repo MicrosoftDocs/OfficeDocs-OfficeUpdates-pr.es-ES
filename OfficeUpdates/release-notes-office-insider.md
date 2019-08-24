@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 4d9125fa3f1765da7012737359a28b1e2d1adf68
-ms.sourcegitcommit: 79b250d484e34750a64d28d0883c59d8c7aa0e5a
+ms.openlocfilehash: f77370fab0937b4880738de0188b42db1d77dedc
+ms.sourcegitcommit: f84f754f105631e81585397a1795418ff26ea5d7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36393225"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620529"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -28,6 +28,122 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 > - Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a partir de finales de junio, Microsoft Teams se incluirá en instalaciones existentes de Office 365 ProPlus (y Office 365 Empresa) a la hora de actualizar dichas instalaciones. La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/es-ES/deployoffice/teams-install).
 
 [//]: # (NO ELIMINAR)
+
+
+## <a name="august-23-2019br"></a>**23 de agosto de 2019**<br/>
+Versión 1909 (compilación 12015.20004)<br/>
+
+
+
+## <a name="non-security-updates"></a>Actualizaciones que no son de seguridad:
+
+### <a name="excel"></a>Excel
+
+- <div><span>Rendimiento significativamente superior al eliminar columnas con celdas combinadas</span></div>
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- <div><span>Se ha corregido un problema que impedía mostrar algunos caracteres unicode en un explorador.</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Se ha corregido un problema que podía impedir guardar archivos en una ubicación de WebDAV</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>Antes, cuando un usuario hacía clic en un comentario, a veces se seleccionaba otro distinto. Este problema se ha solucionado.</span></div>
+
+
+
+
+
+## <a name="august-16-2019br"></a>**16 de agosto de 2019**<br/>
+Versión 1909 (compilación 12013.20000)<br/>
+
+### <a name="powerpoint-feature-updates"></a>Actualizaciones de características de PowerPoint:
+
+- **Impresión de números de diapositiva en documentos:** los números de diapositiva se incluyen automáticamente en los documentos. Ahora es usted quien decide si los deja o los quita.
+
+
+
+
+## <a name="non-security-updates"></a>Actualizaciones que no son de seguridad:
+
+### <a name="excel"></a>Excel
+
+- <div><span>Se ha corregido un problema que podía activar de forma no deseada la opción Autoguardado.</span></div>
+
+
+- <div>Se ha corregido un problema que podía provocar mediciones incorrectas de la altura de las celdas</div>
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- <div><span>Se ha corregido un problema para mejorar considerablemente el rendimiento de la característica Comentarios.</span></div>
+
+
+- <div><span>Se ha corregido un problema que podía provocar un bloqueo cuando se usaban las flechas en la búsqueda.</span></div>
+
+
+- <div><span>Se ha corregido un problema que podía interferir con una mención con @ cuando el símbolo @ estaba detrás de determinados caracteres.</span></div>
+
+
+- <div><span>Se ha corregido un problema que podía bloquear el equipo al eliminar menciones con @.</span></div>
+
+
+- <div><span>Se ha corregido un problema que impedía que los emojis se mostrarán correctamente en las tarjetas de comentario.</span></div>
+
+
+- <div><span>Se ha corregido un problema con el Portapapeles Activo que podía bloquear el equipo.</span></div>
+
+
+- <div><span>Se ha corregido un problema que podía provocar que los botones de la barra de herramientas de acceso rápido dejaran de funcionar</span></div>
+
+
+- <div><span>Se ha corregido un problema que podía impedir que la vista previa del Formato del documento pasara al fondo.</span></div>
+
+### <a name="onenote"></a>OneNote
+
+- Se ha corregido un problema por el que los nombres de las secciones aparecían en blanco en la lista desplegable de la sección cuando el tema de Office se configuraba en color negro.
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Se ha corregido un problema al enviar eventos que podía provocar que Outlook se enfocara y desenfocara reiteradamente.</span></div>
+
+
+- <div><span>Se ha corregido un problema que impedía el correcto funcionamiento del acceso directo Exponer respuesta a la Carpeta.</span></div>
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>Se ha corregido un error con la Vista protegida que podía causar problemas en las colaboraciones.</span></div>
+
+
+- <div><span>Se ha corregido un problema que impedía que las tareas en los paneles de comentario se mostraran correctamente.</span></div>
+
+
+- <div><span>Se ha corregido un problema que podía bloquear el equipo al insertar nuevas diapositivas.</span></div>
+
+
+### <a name="user-lifecycle"></a>Ciclo de vida del usuario:
+
+- <div><span>Se ha corregido un problema que podía hacer desaparecer las características de suscripción.</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>Se ha corregido un problema por el que los hipervínculos podían no funcionar si contenían determinados caracteres.</span></div>
+
+
+- <div><span>Se ha corregido un problema por el que las imágenes podían tener el tamaño incorrecto cuando el usuario veía un comentario de dicha imagen.</span></div>
+
+
+- <div><span>Se ha corregido un problema con el menú desplegable de la lista de viñetas que podía bloquear el equipo.</span></div>
+
+
+
 
 
 ## <a name="august-09-2019br"></a>**09 de agosto de 2019**<br/>
