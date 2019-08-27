@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista completa de las versiones de Office 365 ProPlus, organizada por fecha, con vínculos a las notas de la versión.
-ms.openlocfilehash: d67b2233ee605a43993548a8cc13a89d3ef1aa93
-ms.sourcegitcommit: ec236a31e8d4bcd0278236f6bba5f37258cffd42
+ms.openlocfilehash: 33c5882494fc6dc407eb9cd1438d65008935173d
+ms.sourcegitcommit: ba31adfbc9514f2c98d8420923696b1b77872621
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/29/2019
-ms.locfileid: "35924947"
+ms.lasthandoff: 08/26/2019
+ms.locfileid: "36631238"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Historial de actualizaciones de Office 365 ProPlus (ordenado por fecha)
 
@@ -31,11 +31,11 @@ En la tabla siguiente se muestra la versión compatible y el número de compilac
 
 |**Canal**|**Versión**|**Compilación**|**Fecha de publicación**|**Versión admitida hasta**|
 |:-----|:-----|:-----|:-----|:-----|
-|Cada mes<br/>|1907<br/>|11901.20176<br/>|29 de julio de 2019<br/>|Se ha publicado la versión 1908<br/>|
-|Semianual<br/>|1902<br/>|11328.20368<br/>|9 de julio de 2019<br/>|8 de septiembre de 2020<br/>|
-|Semianual (dirigido)<br/>|1902<br/>|11328.20368<br/>|9 de julio de 2019<br/>|10 de septiembre de 2019<br/>|
-|Semianual<br/>|1808<br/>|10730.20360<br/>|9 de julio de 2019<br/>|10 de marzo de 2020<br/>|
-|Semianual<br/>|1803<br/>|9126.2428<br/>|9 de julio de 2019<br/>|10 de septiembre de 2019<br/>|
+|Cada mes<br/>|1908<br/>|11929.20254<br/>|26 de agosto de 2019<br/>|Se ha publicado la versión 1909<br/>|
+|Semianual (dirigido)<br/>|1902<br/>|11328.20392<br/>|13 de agosto de 2019<br/>|10 de septiembre de 2019<br/>|
+|Semianual<br/>|1902<br/>|11328.20392<br/>|13 de agosto de 2019<br/>|8 de septiembre de 2020<br/>|
+|Semianual<br/>|1808<br/>|10730.20370<br/>|13 de agosto de 2019<br/>|10 de marzo de 2020<br/>|
+|Semianual<br/>|1803<br/>|9126.2432<br/>|13 de agosto de 2019<br/>|10 de septiembre de 2019<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -48,6 +48,8 @@ En la tabla siguiente, se muestra una lista de los números de versión y compil
 
 |**Year**|**Fecha de publicación**|**Canal mensual**|**Canal semianual (dirigido)**|**Canal semianual**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|26 de agosto|[Versión 1908 (compilación 11929.20254)](monthly-channel-2019.md#version-1908-august-26)| | |
+|2019|13 de agosto|[Versión 1907 (compilación 11901.20218)](monthly-channel-2019.md#version-1907-august-13)|[Versión 1902 (compilación 11328.20392)](semi-annual-channel-targeted-2019.md#version-1902-august-13)|[Versión 1902 (compilación 11328.20392)](semi-annual-channel-2019.md#version-1902-august-13)<br/>[Versión 1808 (compilación 10730.20370)](semi-annual-channel-2019.md#version-1808-august-13)<br/>[Versión 1803 (compilación 9126.2432)](semi-annual-channel-2019.md#version-1803-august-13)|
 |2019|29 de julio|[Versión 1907 (compilación 11901.20176)](monthly-channel-2019.md#version-1907-july-29)| | |
 |2019|9 de julio|[Versión 1906 (compilación 11727.20244)](monthly-channel-2019.md#version-1906-july-9)|[Versión 1902 (compilación 11328.20368)](semi-annual-channel-targeted-2019.md#version-1902-july-9)|[Versión 1902 (compilación 11328.20368)](semi-annual-channel-2019.md#version-1902-july-9)<br/>[Versión 1808 (compilación 10730.20360)](semi-annual-channel-2019.md#version-1902-july-9)<br/>[Versión 1803 (compilación 9126.2428)](semi-annual-channel-2019.md#version-1902-july-9)|
 |2019|27 de junio|[Versión 1906 (compilación 11727.20230)](monthly-channel-2019.md#version-1906-june-27)| | |

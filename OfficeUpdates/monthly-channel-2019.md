@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2019
-ms.openlocfilehash: d1303df71491b1ed244f70fcd4d135d308815d69
-ms.sourcegitcommit: a7326cf3aad7eb2a0f336d7558b4701a3a6037ca
+ms.openlocfilehash: 9a6e0bbc189ebb970647fae2f9810505e327cfd8
+ms.sourcegitcommit: ba31adfbc9514f2c98d8420923696b1b77872621
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/20/2019
-ms.locfileid: "36473450"
+ms.lasthandoff: 08/26/2019
+ms.locfileid: "36631242"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal mensual en 2019
 
@@ -25,6 +25,48 @@ En estas notas de la versión, se proporciona información sobre característica
   [Más información](https://support.office.com/es-ES/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a comienzos de julio, las actualizaciones de Office 365 ProPlus (y Office 365 Empresa) incluirán Microsoft Teams.  La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/es-ES/deployoffice/teams-install).
 
+
+## <a name="version-1908-august-26"></a>Versión 1908: 26 de agosto
+*Versión 1908 (compilación 11929.20254)*
+* Varias correcciones de errores y rendimiento.
+
+### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
+
+- **Un toque humano**: dé un aspecto informal y de dibujado a mano a las formas de Office en su libro. 
+  [Más información](https://support.office.com/es-ES/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+
+- **Buscar y disfrutar:** hemos agregado una búsqueda para insertar iconos que hacen que sea más fácil encontrar el icono que desea. Y, mientras hace la selección, el botón Insertar le indica cuántos ha elegido. 
+  [Más información](https://support.office.com/es-ES/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+- **Resalte lo que queda por hacer**: seleccione Resolver para contraer los comentarios y hacer que resalten los elementos abiertos.
+
+### <a name="office-suite-feature-updates"></a>Conjunto de aplicaciones de Office: actualizaciones de características
+
+- **Los iconos de Office tienen un nuevo aspecto:** los iconos de Office se han rediseñado para reflejar las sencillas, inteligentes y eficaces experiencias de Office.
+
+### <a name="outlook-feature-updates"></a>Outlook: actualizaciones de características
+
+- **Obtenga sugerencias de ubicaciones:** Empiece a escribir en Ubicación cuando programe citas y reuniones, Outlook le sugerirá salas, direcciones y otros lugares recientes. 
+  [Más información](https://support.office.com/es-ES/article/1d8631be-611a-4e3d-9109-b153e4622d53)
+
+- **Buscar y disfrutar:** hemos agregado una búsqueda para insertar iconos que hacen que sea más fácil encontrar el icono que desea. Y, mientras hace la selección, el botón Insertar le indica cuántos ha elegido. 
+  [Más información](https://support.office.com/es-ES/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
+
+- **Un toque humano**: dé un aspecto informal y de dibujado a mano a las formas de Office en su presentación. 
+  [Más información](https://support.office.com/es-ES/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+
+- **Buscar y disfrutar:** hemos agregado una búsqueda para insertar iconos que hacen que sea más fácil encontrar el icono que desea. Y, mientras hace la selección, el botón Insertar le indica cuántos ha elegido. 
+  [Más información](https://support.office.com/es-ES/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### <a name="word-feature-updates"></a>Word: actualizaciones de características
+
+- **Un toque humano**: dé un aspecto informal y de dibujado a mano a las formas de Office en su documento. 
+  [Más información](https://support.office.com/es-ES/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+
+- **Buscar y disfrutar:** hemos agregado una búsqueda para insertar iconos que hacen que sea más fácil encontrar el icono que desea. Y, mientras hace la selección, el botón Insertar le indica cuántos ha elegido. 
+  [Más información](https://support.office.com/es-ES/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ## <a name="version-1907-august-13"></a>Versión 1907: 13 de agosto
 *Versión 1907 (compilación 11901.20218)*
