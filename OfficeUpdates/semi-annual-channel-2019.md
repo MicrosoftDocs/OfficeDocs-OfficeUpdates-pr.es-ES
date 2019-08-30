@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual de Office 365 ProPlus en 2019.
-ms.openlocfilehash: 8dfdc0e4e21c037aba0adccc0e86b6c16b96872f
-ms.sourcegitcommit: 1b1bf8dde78540f7953f2faad614f3862c363921
+ms.openlocfilehash: fbd9e068fe2a258020e81b06550656d781fb447f
+ms.sourcegitcommit: e46cbcba082c5f2394cc3282a9edb756a33cbc85
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/21/2019
-ms.locfileid: "36488517"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36672910"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal semianual en 2019
 
 En estas notas de la versión, se proporciona información sobre características nuevas y actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones del Canal semianual de Office 365 ProPlus 2019, Visio Pro para Office 365, el Cliente de escritorio de Project Online y Office 365 Empresa.
 
 > [!NOTE]
-> - A menudo distribuimos características (y a veces incluso correcciones) para el Canal semianual durante un período de tiempo. Si no ve algo que se describe a continuación de inmediato, lo verá pronto. 
+> - A menudo publicamos características (y a veces incluso correcciones) para el Canal semianual durante un período de tiempo. Si no ve algo que se describe a continuación de inmediato, lo verá pronto. 
   [Más información](https://support.office.com/es-ES/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - OneNote 2016 no se incluirá de forma predeterminada cuando un usuario en el canal semianual descargue e instale Office 365 en Windows 10 desde el Portal de Office.
 
