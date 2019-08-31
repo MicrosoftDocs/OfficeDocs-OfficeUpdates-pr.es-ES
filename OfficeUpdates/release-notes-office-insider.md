@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: f77370fab0937b4880738de0188b42db1d77dedc
-ms.sourcegitcommit: f84f754f105631e81585397a1795418ff26ea5d7
+ms.openlocfilehash: 0e33b8b29604cf5ada95a5d996dc8959750a0f7b
+ms.sourcegitcommit: 309b405d7fdfe3ca7d6c9da179b6c7ddb34378b1
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36620529"
+ms.lasthandoff: 08/30/2019
+ms.locfileid: "36693887"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -29,6 +29,102 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
 [//]: # (NO ELIMINAR)
 
+
+## <a name="version-1909-august-30"></a>Versión 1909: 30 de agosto
+*Versión 1909 (compilación 12026.20000)*
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="powerpoint"></a>PowerPoint
+
+- **Guarde una ilustración como SVG:** guarde un gráfico, una forma o una ilustración como un gráfico vectorial escalable, que se puede cambiar de tamaño sin perder calidad de imagen. 
+  [Más información](https://support.office.com/es-ES/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="non-security-updates"></a>Actualizaciones que no son de seguridad
+### <a name="excel"></a>Excel
+
+- <div>Se ha corregido un problema por el que el KeyTip para &nbsp;Sensibilidad </span>causaba&nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);">un conflicto con otro KeyTip.</div>
+
+- <div><span>Se ha corregido un problema al trabajar en un libro compartido cuando se intentaba guardar.</span></div>
+
+- <div><span>Se ha corregido un problema por el que Excel solo mostraba los 16 primeros complementos ubicados en los valores del registro "\Excel\Add-in Manager".<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);"></span></span></div>
+
+
+- <div><span>Se ha corregido un problema por el que la función Frecuencia() no daba el resultado correcto.</span></div>
+
+
+- <div><span>Mejoramos significativamente el rendimiento del filtrado por colores.</span></div>
+
+
+- <div><span>Hemos corregido un problema para los usuarios de Surface, en el que mover el ratón podía interpretarse como un clic.</span></div>
+
+
+- <div><span>Se ha corregido un problema que evitaba navegar con el teclado en el cuadro de diálogo Buscar y reemplazar.</span></div>
+
+
+- <div><span>Se ha corregido un problema por el que el nombre de algunas fuentes no se mostraba correctamente</span></div>
+
+
+- <div><span>Se ha corregido un problema por el que CSV no aparecía como tipo de archivo compatible</span></div>
+
+
+### <a name="access"></a>Access
+
+- <div>Se ha corregido un problema en el que los usuarios podían recibir un error de &quot;estado incoherente&quot; al usar una base de datos compartida.</div>
+
+
+- <div><span>Se ha corregido un problema que podía provocar que aparezca el selector de fecha cuando no debía</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Hemos arreglado un problema que impedía que el contenido HTML les apareciera a algunos usuarios de POP3.</span></div>
+
+
+- <div><span>Hemos evitado que un vínculo no funcional de "Planner" del menú de desbordamiento en la tarjeta de contacto aparezca cuando se trabaja en entornos en los que no está disponible.</span></div>
+
+### <a name="onenote"></a>OneNote
+
+- <div>Se ha corregido un problema por el que &nbsp;la sincronización de fondo de OneNote en ocasiones se llevaba el foco.</div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>Se ha corregido un problema que afectaba a la orientación de rotación de un Giro sin parar en 3D.</span></div>
+
+- <div><span>Se ha corregido un problema que impedía que funcionaran algunos hipervínculos si contenían caracteres especiales.</span></div>
+
+- <div><span>Se ha corregido un problema que provocaba la apertura de varios paneles de comentarios al mismo tiempo.</span></div>
+
+### <a name="project"></a>Project
+
+- <div><span>Se ha corregido un problema que podía bloquear el equipo después de imprimir una vista del Organizador de equipo</span></div>
+
+### <a name="word"></a>Word
+
+- <div>Se ha a<span>rreglado un problema en el que los caracteres multibyte en un cuadro de texto vertical se solapaban en la vista de lectura.<br></span></div>
+
+- <div><span>Se&nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);color:rgba(0, 0, 0, 0.9);"> ha corregido un problema por el que no se encontraban los recursos de complemento relacionados con la tarjeta postal japonesa y la tarjeta de bienvenida cuando el usuario realiza una acción en el asistente del complemento.</span></span></div>
+
+- <div><span>Se ha corregido un problema que podría causar problemas con la interfaz de usuario de la barra de título en la vista protegida</span></div>
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- <div><span><span style="display:inline !important;background-color:rgba(255, 255, 255, 1);"> Se ha corregido un problema de archivo corrupto que tenía lugar al cambiar la forma en una selección con una forma normal y una forma de conector.</span></span></div>
+
+- <div>Se ha corregido un problema <span style="display:inline !important;background-color:rgba(255, 255, 255, 1);color:rgba(0, 0, 0, 0.9);">en las aplicaciones al acoplar o desacoplar desde varias pantallas externas. </div>
+
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
 
 ## <a name="august-23-2019br"></a>**23 de agosto de 2019**<br/>
 Versión 1909 (compilación 12015.20004)<br/>
@@ -1038,6 +1134,14 @@ Esta característica es una mejora para los usuarios que trazan gráficos de map
 
 ## <a name="april-12-2019"></a>12 de abril de 2019
 Versión 1905 (compilación 11601.20042)
+
+## <a name="whats-new"></a>Novedades:
+
+### <a name="access"></a>Access
+
+#### <a name="get-smart-with-microsoft-graph"></a>Trabajar de forma más inteligente con Microsoft Graph
+
+Importe o vincule a datos inteligentes y reinvente la base de datos de su escritorio con la Tecnología inteligente.
 
 ## <a name="notable-fixes"></a>Correcciones notables:
 
