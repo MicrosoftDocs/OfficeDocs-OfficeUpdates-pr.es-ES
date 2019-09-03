@@ -53,8 +53,7 @@ Versión 16.28 (19081202)
 
 En la siguiente tabla, se proporciona información sobre los paquetes más recientes, incluido un vínculo de descarga para otros programas de Mac de Microsoft que pueden ser de interés para los profesionales de TI. La fecha de compilación se muestra entre paréntesis, con un formato AAMMDD, después del número de versión.
 
-
-  **Nota:** la información de la versión de Microsoft AutoUpdate (Mau) se ha trasladado a la página [Historial de versiones MAU](https://docs.microsoft.com/es-ES/officeupdates/release-history-microsoft-autoupdate).<br/><br/>
+**Nota:** la información de la versión de Microsoft AutoUpdate (Mau) se ha trasladado a la página [Historial de versiones MAU](https://docs.microsoft.com/es-ES/officeupdates/release-history-microsoft-autoupdate).<br/><br/>
 
   
 |**Programa**|**Versión**|**Paquete**|**Más información**|**Hash SHA-1/ SHA-256**|

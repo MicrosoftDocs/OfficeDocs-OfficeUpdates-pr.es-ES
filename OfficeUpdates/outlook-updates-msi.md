@@ -56,7 +56,6 @@ La compatibilidad de Outlook con Office 365 y el entorno local depende de los re
 
 |**Service Pack (SP) más reciente**|**Actualización mínima necesaria**|**Actualización pública (AP) más reciente**|
 |:-----|:-----|:-----|
-|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |Actualización pública de octubre de 2015 <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Actualización pública de abril de 2015 de Office 2010 para MAPI/HTTP <br/> 
-  [KB2956191](https://support.microsoft.com/es-ES/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |Actualización pública de julio de 2019 <br/>[KB4475509](https://support.microsoft.com/help/4475509) <br><br><br><br/>|
+|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |Actualización pública de octubre de 2015 <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Actualización pública de abril de 2015 de Office 2010 para MAPI/HTTP <br/> [KB2956191](https://support.microsoft.com/es-ES/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |Actualización pública de julio de 2019 <br/>[KB4475509](https://support.microsoft.com/help/4475509) <br><br><br><br/>|
    
 

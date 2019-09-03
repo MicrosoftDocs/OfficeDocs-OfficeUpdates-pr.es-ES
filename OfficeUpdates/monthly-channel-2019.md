@@ -21,8 +21,7 @@ ms.locfileid: "36631242"
 En estas notas de la versión, se proporciona información sobre características nuevas y actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones del Canal mensual de Office 365 ProPlus 2019, Visio Pro para Office 365, el Cliente de escritorio de Project Online y Office 365 Empresa.
  
  > [!NOTE]
->- A menudo distribuimos características (y a veces incluso correcciones) para el Canal mensual durante un período de tiempo.  Si no ve algo que se describe a continuación de inmediato, lo verá pronto. 
-  [Más información](https://support.office.com/es-ES/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+>- A menudo distribuimos características (y a veces incluso correcciones) para el Canal mensual durante un período de tiempo.  Si no ve algo que se describe a continuación de inmediato, lo verá pronto. [Más información](https://support.office.com/es-ES/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a comienzos de julio, las actualizaciones de Office 365 ProPlus (y Office 365 Empresa) incluirán Microsoft Teams.  La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/es-ES/deployoffice/teams-install).
 
 
@@ -32,11 +31,9 @@ En estas notas de la versión, se proporciona información sobre característica
 
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
 
-- **Un toque humano**: dé un aspecto informal y de dibujado a mano a las formas de Office en su libro. 
-  [Más información](https://support.office.com/es-ES/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+- **Un toque humano**: dé un aspecto informal y de dibujado a mano a las formas de Office en su libro. [Más información](https://support.office.com/es-ES/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
-- **Buscar y disfrutar:** hemos agregado una búsqueda para insertar iconos que hacen que sea más fácil encontrar el icono que desea. Y, mientras hace la selección, el botón Insertar le indica cuántos ha elegido. 
-  [Más información](https://support.office.com/es-ES/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Buscar y disfrutar:** hemos agregado una búsqueda para insertar iconos que hacen que sea más fácil encontrar el icono que desea. Y, mientras hace la selección, el botón Insertar le indica cuántos ha elegido. [Más información](https://support.office.com/es-ES/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 - **Resalte lo que queda por hacer**: seleccione Resolver para contraer los comentarios y hacer que resalten los elementos abiertos.
 
@@ -46,27 +43,21 @@ En estas notas de la versión, se proporciona información sobre característica
 
 ### <a name="outlook-feature-updates"></a>Outlook: actualizaciones de características
 
-- **Obtenga sugerencias de ubicaciones:** Empiece a escribir en Ubicación cuando programe citas y reuniones, Outlook le sugerirá salas, direcciones y otros lugares recientes. 
-  [Más información](https://support.office.com/es-ES/article/1d8631be-611a-4e3d-9109-b153e4622d53)
+- **Obtenga sugerencias de ubicaciones:** Empiece a escribir en Ubicación cuando programe citas y reuniones, Outlook le sugerirá salas, direcciones y otros lugares recientes. [Más información](https://support.office.com/es-ES/article/1d8631be-611a-4e3d-9109-b153e4622d53)
 
-- **Buscar y disfrutar:** hemos agregado una búsqueda para insertar iconos que hacen que sea más fácil encontrar el icono que desea. Y, mientras hace la selección, el botón Insertar le indica cuántos ha elegido. 
-  [Más información](https://support.office.com/es-ES/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Buscar y disfrutar:** hemos agregado una búsqueda para insertar iconos que hacen que sea más fácil encontrar el icono que desea. Y, mientras hace la selección, el botón Insertar le indica cuántos ha elegido. [Más información](https://support.office.com/es-ES/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
 
-- **Un toque humano**: dé un aspecto informal y de dibujado a mano a las formas de Office en su presentación. 
-  [Más información](https://support.office.com/es-ES/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+- **Un toque humano**: dé un aspecto informal y de dibujado a mano a las formas de Office en su presentación. [Más información](https://support.office.com/es-ES/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
-- **Buscar y disfrutar:** hemos agregado una búsqueda para insertar iconos que hacen que sea más fácil encontrar el icono que desea. Y, mientras hace la selección, el botón Insertar le indica cuántos ha elegido. 
-  [Más información](https://support.office.com/es-ES/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Buscar y disfrutar:** hemos agregado una búsqueda para insertar iconos que hacen que sea más fácil encontrar el icono que desea. Y, mientras hace la selección, el botón Insertar le indica cuántos ha elegido. [Más información](https://support.office.com/es-ES/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="word-feature-updates"></a>Word: actualizaciones de características
 
-- **Un toque humano**: dé un aspecto informal y de dibujado a mano a las formas de Office en su documento. 
-  [Más información](https://support.office.com/es-ES/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+- **Un toque humano**: dé un aspecto informal y de dibujado a mano a las formas de Office en su documento. [Más información](https://support.office.com/es-ES/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
-- **Buscar y disfrutar:** hemos agregado una búsqueda para insertar iconos que hacen que sea más fácil encontrar el icono que desea. Y, mientras hace la selección, el botón Insertar le indica cuántos ha elegido. 
-  [Más información](https://support.office.com/es-ES/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Buscar y disfrutar:** hemos agregado una búsqueda para insertar iconos que hacen que sea más fácil encontrar el icono que desea. Y, mientras hace la selección, el botón Insertar le indica cuántos ha elegido. [Más información](https://support.office.com/es-ES/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ## <a name="version-1907-august-13"></a>Versión 1907: 13 de agosto
 *Versión 1907 (compilación 11901.20218)*
@@ -90,42 +81,33 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - **Programar rápidamente con mejoras de Power Query:** termine rápidamente el código con colores de sintaxis y la función de autocompletar. Además, descubra fácilmente funciones, columnas y parámetros.
 
-- **Crear un gráfico de mapa:** Esta característica es una mejora para los usuarios que dibujan gráficos de mapas completos usando los tipos de datos geográficos de Excel. El beneficio para los usuarios finales será una integración más rica entre las características y una mayor precisión de la región que el usuario final quiere mostrar en el mapa. Entre otras ventajas adicionales está la capacidad de mostrar en el mapa polígonos urbanos. 
-  [Más información](https://support.office.com/es-ES/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+- **Crear un gráfico de mapa:** Esta característica es una mejora para los usuarios que dibujan gráficos de mapas completos usando los tipos de datos geográficos de Excel. El beneficio para los usuarios finales será una integración más rica entre las características y una mayor precisión de la región que el usuario final quiere mostrar en el mapa. Entre otras ventajas adicionales está la capacidad de mostrar en el mapa polígonos urbanos. [Más información](https://support.office.com/es-ES/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-- **Unir tablas en columnas similares:** Obtener y transformar (Power Query) ahora ofrece una lógica de coincidencia de texto (también denominada coincidencia aproximada) al comparar columnas en la combinación de tablas. 
-  [Más información](https://support.office.com/es-ES/article/ffdd5082-c0c8-4c8e-a794-bd3962b90649)
+- **Unir tablas en columnas similares:** Obtener y transformar (Power Query) ahora ofrece una lógica de coincidencia de texto (también denominada coincidencia aproximada) al comparar columnas en la combinación de tablas. [Más información](https://support.office.com/es-ES/article/ffdd5082-c0c8-4c8e-a794-bd3962b90649)
 
 ### <a name="outlook-feature-updates"></a>Outlook: actualizaciones de características
 
-- **Obtener sugerencias de correo electrónico cuando busca un contacto:** cuando escriba el nombre de una persona en el cuadro de búsqueda, se incluirán los mensajes de correo electrónico más relevantes con las sugerencias de búsqueda. 
-  [Más información](https://support.office.com/es-ES/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
+- **Obtener sugerencias de correo electrónico cuando busca un contacto:** cuando escriba el nombre de una persona en el cuadro de búsqueda, se incluirán los mensajes de correo electrónico más relevantes con las sugerencias de búsqueda. [Más información](https://support.office.com/es-ES/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
 
 - **Se acabaron los saltos al explorador:** usted decide cómo se abren los vínculos a los documentos de Office: en el explorador o en la aplicación. 
 
-- **Los vídeos en línea tienen un nuevo hogar:** guarde un vídeo en Microsoft Stream para que puedan verlo todas las personas de su organización. Inserte el vínculo del vídeo y disfrute de una presentación multimedia en una fracción del tamaño del archivo. 
-  [Más información](https://support.office.com/es-ES/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+- **Los vídeos en línea tienen un nuevo hogar:** guarde un vídeo en Microsoft Stream para que puedan verlo todas las personas de su organización. Inserte el vínculo del vídeo y disfrute de una presentación multimedia en una fracción del tamaño del archivo. [Más información](https://support.office.com/es-ES/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
-- **Crear un gráfico de mapa:** esta característica es una mejora para los usuarios que trazan gráficos de mapas coropléticos con los tipos de datos geográficos de Excel. El beneficio para los usuarios finales será una integración más rica entre las características y una mayor precisión de la región que el usuario final quiere mostrar en el mapa. Entre otras ventajas adicionales está la capacidad de mostrar en el mapa polígonos urbanos. 
-  [Más información](https://support.office.com/es-ES/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+- **Crear un gráfico de mapa:** esta característica es una mejora para los usuarios que trazan gráficos de mapas coropléticos con los tipos de datos geográficos de Excel. El beneficio para los usuarios finales será una integración más rica entre las características y una mayor precisión de la región que el usuario final quiere mostrar en el mapa. Entre otras ventajas adicionales está la capacidad de mostrar en el mapa polígonos urbanos. [Más información](https://support.office.com/es-ES/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-- **La configuración para imprimir números de diapositiva en documentos se ha movido al menú Imprimir para facilitar el acceso:** búsquelo en la lista desplegable imprimir > diseño de impresión cuando haya seleccionado un diseño de documento. Esto también permite que la configuración se alterne fácilmente por presentación. 
-  [Más información](https://support.office.com/es-ES/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+- **La configuración para imprimir números de diapositiva en documentos se ha movido al menú Imprimir para facilitar el acceso:** búsquelo en la lista desplegable imprimir > diseño de impresión cuando haya seleccionado un diseño de documento. Esto también permite que la configuración se alterne fácilmente por presentación. [Más información](https://support.office.com/es-ES/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 ### <a name="word-feature-updates"></a>Word: actualizaciones de características
 
-- **Diga adiós a las distracciones:** llega a Windows una de las característica favoritas de Mac. Cambie al modo Focalizado en el menú Vista para eliminar las distracciones y concentrarse en su trabajo. 
-  [Más información](https://support.office.com/es-ES/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
+- **Diga adiós a las distracciones:** llega a Windows una de las característica favoritas de Mac. Cambie al modo Focalizado en el menú Vista para eliminar las distracciones y concentrarse en su trabajo. [Más información](https://support.office.com/es-ES/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
 
 - **Se acabaron los saltos al explorador:** usted decide cómo se abren los vínculos a los documentos de Office: en el explorador o en la aplicación. 
 
-- **Crear un gráfico de mapa:** esta característica es una mejora para los usuarios que trazan gráficos de mapas coropléticos con los tipos de datos geográficos de Excel. El beneficio para los usuarios finales será una integración más rica entre las características y una mayor precisión de la región que el usuario final quiere mostrar en el mapa. Entre otras ventajas adicionales está la capacidad de mostrar en el mapa polígonos urbanos. 
-  [Más información](https://support.office.com/es-ES/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+- **Crear un gráfico de mapa:** esta característica es una mejora para los usuarios que trazan gráficos de mapas coropléticos con los tipos de datos geográficos de Excel. El beneficio para los usuarios finales será una integración más rica entre las características y una mayor precisión de la región que el usuario final quiere mostrar en el mapa. Entre otras ventajas adicionales está la capacidad de mostrar en el mapa polígonos urbanos. [Más información](https://support.office.com/es-ES/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-- **Borrar con precisión:** elija entre dos tamaños de borrador para arreglar pequeñas imperfecciones de la entrada de lápiz. 
-  [Más información](https://support.office.com/es-ES/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **Borrar con precisión:** elija entre dos tamaños de borrador para arreglar pequeñas imperfecciones de la entrada de lápiz. [Más información](https://support.office.com/es-ES/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 ## <a name="version-1906-july-09"></a>Versión 1906: 09 de julio
 *Versión 1906 (compilación 11727.20244)*
@@ -161,28 +143,23 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
 
-- **Vea cómo la hoja de cálculo cobra vida**: inserte gráficos 3D animados para ver corazones que laten, planetas en órbita y dinosaurios a toda velocidad por el libro. 
-  [Más información](https://support.office.com/es-ES/article/6f08009a-3da5-400d-a706-8e23f304cd72)
+- **Vea cómo la hoja de cálculo cobra vida**: inserte gráficos 3D animados para ver corazones que laten, planetas en órbita y dinosaurios a toda velocidad por el libro. [Más información](https://support.office.com/es-ES/article/6f08009a-3da5-400d-a706-8e23f304cd72)
 
 ### <a name="outlook-feature-updates"></a>Outlook: actualizaciones de características
 
-- **Una cinta simplificada que además es personalizable:** disfrute de una sola fila simplificada con los botones más usados. Cambie fácilmente entre la vista clásica y la simplificada, y ancle o desancle comandos. 
-  [Más información](https://support.office.com/es-ES/article/44bef9c3-295d-4092-b7f0-f471fa629a98)
+- **Una cinta simplificada que además es personalizable:** disfrute de una sola fila simplificada con los botones más usados. Cambie fácilmente entre la vista clásica y la simplificada, y ancle o desancle comandos. [Más información](https://support.office.com/es-ES/article/44bef9c3-295d-4092-b7f0-f471fa629a98)
 
 - **Seleccione su acción favorita:** ¿no usa Etiquetar ni Eliminar? ¿Qué hay de Archivar o Marcar como leído? Personalice el menú de acciones rápidas con los comandos que use más frecuentemente.
 
 - **Sincronización de carpetas compartidas mejorada para buzones con muchas carpetas:** durante años, Outlook se ha limitado a un máximo de 500 carpetas al sincronizar los buzones compartidos. Con este cambio, Outlook se ha mejorado para sincronizar de forma que ya no encontrará este límite de 500 carpetas.
 
-- **La configuración de la bandeja de entrada prioritaria permanece igual en todos los dispositivos:** ahora, las preferencias de la Bandeja de entrada Prioritarios se almacenan en la nube. Disfrute de la misma experiencia al usar Outlook para Windows en cualquier equipo y Outlook en la Web. 
-  [Más información](https://support.office.com/es-ES/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
+- **La configuración de la bandeja de entrada prioritaria permanece igual en todos los dispositivos:** ahora, las preferencias de la Bandeja de entrada Prioritarios se almacenan en la nube. Disfrute de la misma experiencia al usar Outlook para Windows en cualquier equipo y Outlook en la Web. [Más información](https://support.office.com/es-ES/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
 
 - **¿Quiere que su diseño tenga un espaciado menor o mayor? Usted elige:** la opción de un espaciado más ajustado le permite decidir si quiere más espacio entre los elementos o un diseño más ajustado para ver más elementos.
 
-- **Hemos actualizado la experiencia de usuario de Outlook para usted:** una experiencia simplificada, anteriormente disponible para su vista previa con Próximamente, diseñada para ayudarle a centrarse en lo más importante. 
-  [Más información](https://support.office.com/es-ES/article/db503157-1b45-45d5-af52-e9c978cd8bed)
+- **Hemos actualizado la experiencia de usuario de Outlook para usted:** una experiencia simplificada, anteriormente disponible para su vista previa con Próximamente, diseñada para ayudarle a centrarse en lo más importante. [Más información](https://support.office.com/es-ES/article/db503157-1b45-45d5-af52-e9c978cd8bed)
 
-- **Deja que lo dibuje:** garabatee sobre las imágenes o agregue un Lienzo de dibujo para enviar sus pensamientos con la entrada de lápiz. 
-  [Más información](https://support.office.com/es-ES/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
+- **Deja que lo dibuje:** garabatee sobre las imágenes o agregue un Lienzo de dibujo para enviar sus pensamientos con la entrada de lápiz. [Más información](https://support.office.com/es-ES/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
 
 ### <a name="word-feature-updates"></a>Word: actualizaciones de características
 
@@ -291,7 +268,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-1904-may-14"></a>Versión 1904: 14 de mayo 
 *Versión 1904 (compilación 11601.20204)*
 
- - Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/es-ES/OfficeUpdates/office365-proplus-security-updates)
+ - Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/es-ES/officeupdates/office365-proplus-security-updates)
 
 ## <a name="version-1904-may-8"></a>Versión 1904: 8 de mayo
 *Versión 1904 (Compilación 11601.20178)*
@@ -356,7 +333,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-1903-april-9"></a>Versión 1903: 9 de abril
 *Versión 1903 (compilación 11425.20204)* 
 
-- Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/es-ES/OfficeUpdates/office365-proplus-security-updates)
+- Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/es-ES/officeupdates/office365-proplus-security-updates)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: actualizaciones no relacionadas con la seguridad
 - Se corrige un problema en Lync (Skype Empresarial) por el que en cualquier reunión en línea con más de 7 participantes, la ventana de reunión puede desaparecer.
@@ -421,8 +398,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 ### <a name="outlook-feature-updates"></a>Outlook: actualizaciones de características
 
-- 
-  **Dar tiempo de descanso entre reuniones seguidas:** configure las reuniones para que finalicen 5 o 10 minutos antes de forma predeterminada para dar a los asistentes tiempo para descansar o desplazarse a otras ubicaciones. [Más información](https://support.office.com/es-ES/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
+- **Dar tiempo de descanso entre reuniones seguidas:** configure las reuniones para que finalicen 5 o 10 minutos antes de forma predeterminada para dar a los asistentes tiempo para descansar o desplazarse a otras ubicaciones. [Más información](https://support.office.com/es-ES/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
 - **Use Lectura en voz alta para escuchar el correo electrónico:** Outlook puede leer el correo electrónico en voz alta, resaltando el texto a medida que se lee. Para activar Lectura en voz alta, vaya a la configuración de Accesibilidad. [Más información](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
 - **Capacidad de insertar SVG con filtros aplicados:** ahora, los usuarios de Office tienen la capacidad de insertar SVG con filtros aplicados. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
@@ -441,8 +417,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
  
 ### <a name="office-suite-feature-updates"></a>Conjunto de aplicaciones de Office: actualizaciones de características
 
-- 
-  **Instalación de Microsoft Teams:** Microsoft Teams se instala de forma predeterminada para las nuevas instalaciones de Office 365 ProPlus. [Más información](https://docs.microsoft.com/es-ES/DeployOffice/teams-install)
+- **Instalación de Microsoft Teams:** Microsoft Teams se instala de forma predeterminada para las nuevas instalaciones de Office 365 ProPlus. [Más información](https://docs.microsoft.com/es-ES/deployoffice/teams-install)
 
 ## <a name="version-1901-february-12"></a>Versión 1901: 12 de febrero
 *Versión 1901 (compilación 11231.20174)* 

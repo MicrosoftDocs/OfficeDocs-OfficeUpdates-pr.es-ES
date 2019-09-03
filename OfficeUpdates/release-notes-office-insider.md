@@ -39,8 +39,7 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Guarde una ilustración como SVG:** guarde un gráfico, una forma o una ilustración como un gráfico vectorial escalable, que se puede cambiar de tamaño sin perder calidad de imagen. 
-  [Más información](https://support.office.com/es-ES/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **Guarde una ilustración como SVG:** guarde un gráfico, una forma o una ilustración como un gráfico vectorial escalable, que se puede cambiar de tamaño sin perder calidad de imagen. [Más información](https://support.office.com/es-ES/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
@@ -509,8 +508,7 @@ Versión 1907 (compilación 11901.20018)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **La configuración para imprimir números de diapositiva en documentos se ha movido al menú Imprimir para facilitar el acceso:** búsquelo en la lista desplegable imprimir > diseño de impresión cuando haya seleccionado un diseño de documento. Esto también permite que la configuración se alterne fácilmente por presentación. 
-  [Más información](https://support.office.com/es-ES/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+- **La configuración para imprimir números de diapositiva en documentos se ha movido al menú Imprimir para facilitar el acceso:** búsquelo en la lista desplegable imprimir > diseño de impresión cuando haya seleccionado un diseño de documento. Esto también permite que la configuración se alterne fácilmente por presentación. [Más información](https://support.office.com/es-ES/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 ## <a name="notable-fixes"></a>Correcciones notables:
 
