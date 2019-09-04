@@ -3,19 +3,19 @@ title: Últimas actualizaciones no relacionadas con la seguridad para las versio
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 08/07/2019
+ms.date: 09/04/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI vínculos a la información de las últimas actualizaciones no relacionadas con la seguridad de las versiones perpetuas de Office 2016, Office 2013 y Office 2010.
-ms.openlocfilehash: 4109b10a199d09b2bcf4515d9f63f1107de71846
-ms.sourcegitcommit: 092ddd24dee36b99293d3d9231bef014cc21fbc1
+ms.openlocfilehash: 8e9dbe270b0cd2104f73f363b865f6c3d8b498df
+ms.sourcegitcommit: bd6e681bdde320ee6d55f7d4e4434d4f0cde7a81
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231595"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36713543"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Últimas actualizaciones no relacionadas con la seguridad para las versiones de Office que usan Windows Installer (MSI)
 
@@ -26,6 +26,23 @@ Esta página enumera las actualizaciones de Office no relacionadas con la seguri
 > - La información de este artículo no se aplica a las versiones de Office 365 de Office, como Office 365 ProPlus.
 > - Para obtener más información sobre la instalación de actualizaciones de Office, vea [Instalación de actualizaciones de Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
+
+## <a name="september-3-2019"></a>3 de septiembre de 2019
+
+**Office 2016**<br/>
+Actualización de Microsoft Office 2016 ([KB3114852](https://support.microsoft.com/help/3114852))<br/>
+Actualización de Microsoft Office 2016 ([KB4011629](https://support.microsoft.com/help/4011629))<br/>
+Actualización de Microsoft Office 2016 ([KB4464531](https://support.microsoft.com/help/4464531))<br/>
+Actualización de Microsoft Office 2016 ([KB4464584](https://support.microsoft.com/help/4464584))<br/>
+Actualización de Microsoft Office 2016 ([KB4475580](https://support.microsoft.com/help/4475580))<br/>
+Actualización de Microsoft Outlook 2016 ([KB4475593](https://support.microsoft.com/help/4475593))<br/>
+Actualización de Microsoft Word 2016 ([KB4475592](https://support.microsoft.com/help/4475592))<br/>
+Actualización de Skype Empresarial 2016 ([KB4475577](https://support.microsoft.com/help/4475577))<br/>
+
+**Office 2013**<br/>
+Actualización de Microsoft Office 2013 ([KB4475562](https://support.microsoft.com/help/4475562))<br/><br/>
+
+
 
 ## <a name="august-6-2019"></a>6 de agosto de 2019
 
