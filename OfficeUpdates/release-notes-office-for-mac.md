@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales de TI las notas de la versión de las versiones de Office para Mac para los suscriptores de Office 356
-ms.openlocfilehash: 2a7afe03d5c5ba0b99dad4844ae8c71b8abc9217
-ms.sourcegitcommit: 4880505c8bb9bf7692755ba54faa980a6bff94de
+ms.openlocfilehash: e5a7cf72e1b8c98f877f469c664139a3663d4ff4
+ms.sourcegitcommit: fc06058bc54e91f57e3a147e6f3a02565e245e9f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36567210"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36758214"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de la versión de Office para Mac
 
@@ -115,6 +115,7 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 ### <a name="word-feature-updates"></a>Word: actualizaciones de características
 
 - **Llame su atención con \@Menciones:** use @menciones en los comentarios para avisar a otros cuando necesite su participación.
+- **Mejoras en la coautoría**: mejora en el rendimiento de Word al usar la coautoría en documentos.
 
 ### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
 

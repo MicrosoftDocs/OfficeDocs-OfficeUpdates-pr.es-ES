@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 0e33b8b29604cf5ada95a5d996dc8959750a0f7b
-ms.sourcegitcommit: 309b405d7fdfe3ca7d6c9da179b6c7ddb34378b1
+ms.openlocfilehash: e670e0faf90aa736a5270bd525c5020c0f547524
+ms.sourcegitcommit: 899d752cdb5c5b77c6247499ea4ac74b5ac5cc9a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/30/2019
-ms.locfileid: "36693887"
+ms.lasthandoff: 09/06/2019
+ms.locfileid: "36785417"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -29,6 +29,60 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
 [//]: # (NO ELIMINAR)
 
+
+## <a name="version-1910-september-06"></a>Versión 1910: 06 de septiembre
+*Versión 1910 (compilación 12030.20004)*
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Listo, preparado, a dibujar:** cuando agarre el Lápiz para Surface, estará listo para dibujar. [Más información](https://support.office.com/es-ES/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Listo, preparado, a dibujar:** cuando agarre el Lápiz para Surface, estará listo para dibujar. [Más información](https://support.office.com/es-ES/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+### <a name="word"></a>Word
+
+- **Listo, preparado, a dibujar:** cuando agarre el Lápiz para Surface, estará listo para dibujar. [Más información](https://support.office.com/es-ES/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="non-security-updates"></a>Actualizaciones que no son de seguridad
+### <a name="excel"></a>Excel
+
+- <div><span>Se ha corregido un problema por el que el nombre de la fuente de la cinta de opciones podía ser diferente de la fuente que se usa</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Se ha corregido un problema que podía dar lugar a un consumo inadecuado de recursos con Outlook cuando el modo protegido estaba deshabilitado para sitios restringidos en Internet Explorer</span></div>
+
+
+- <div><span>Se ha corregido un problema por el que a veces aparecían caracteres Unicode al pegar texto desde un origen ANSI</span></div>
+
+
+- <div><span>Se ha corregido un problema por el que algunos usuarios aparecían de forma incorrecta como sin conexión en la vista de Programación de grupo</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>Se ha corregido un problema por el que se podía perder el formato de tabla</span></div>
+
+
+- <div><span>Se ha corregido un problema por el que el método abreviado de teclado Ctrl+V podía dejar de funcionar</span></div>
+
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
 
 ## <a name="version-1909-august-30"></a>Versión 1909: 30 de agosto
 *Versión 1909 (compilación 12026.20000)*
@@ -50,7 +104,7 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 ### <a name="non-security-updates"></a>Actualizaciones que no son de seguridad
 ### <a name="excel"></a>Excel
 
-- <div>Se ha corregido un problema por el que el KeyTip para &nbsp;Sensibilidad </span>causaba&nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);">un conflicto con otro KeyTip.</div>
+- <div><span>Se ha corregido un problema por el que el KeyTip para &nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);">Sensibilidad </span>causaba&nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);">un conflicto con otro KeyTip.</span></span></div>
 
 - <div><span>Se ha corregido un problema al trabajar en un libro compartido cuando se intentaba guardar.</span></div>
 
@@ -92,7 +146,7 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
 ### <a name="onenote"></a>OneNote
 
-- <div>Se ha corregido un problema por el que &nbsp;la sincronización de fondo de OneNote en ocasiones se llevaba el foco.</div>
+- <div><span>Se ha corregido un problema por el que &nbsp;la sincronización de fondo de OneNote en ocasiones se llevaba el foco.</span></div>
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -119,7 +173,7 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
 - <div><span><span style="display:inline !important;background-color:rgba(255, 255, 255, 1);"> Se ha corregido un problema de archivo corrupto que tenía lugar al cambiar la forma en una selección con una forma normal y una forma de conector.</span></span></div>
 
-- <div>Se ha corregido un problema <span style="display:inline !important;background-color:rgba(255, 255, 255, 1);color:rgba(0, 0, 0, 0.9);">en las aplicaciones al acoplar o desacoplar desde varias pantallas externas. </div>
+- <div><span>Se ha corregido un problema <span style="display:inline !important;background-color:rgba(255, 255, 255, 1);color:rgba(0, 0, 0, 0.9);">en las aplicaciones al acoplar o desacoplar desde varias pantallas externas. </span></span></div>
 
 
 
