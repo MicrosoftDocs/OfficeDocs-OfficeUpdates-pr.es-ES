@@ -3,19 +3,19 @@ title: Notas de la versión de Office para Mac
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/2019
+ms.date: 9/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales de TI las notas de la versión de las versiones de Office para Mac para los suscriptores de Office 356
-ms.openlocfilehash: e5a7cf72e1b8c98f877f469c664139a3663d4ff4
-ms.sourcegitcommit: fc06058bc54e91f57e3a147e6f3a02565e245e9f
+ms.openlocfilehash: 9459036de8424fcd9a9c0dc86a4f69aa8e8d88fa
+ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36758214"
+ms.lasthandoff: 09/11/2019
+ms.locfileid: "36838247"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de la versión de Office para Mac
 
@@ -33,9 +33,34 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 > > 
 > - A menudo se lanzan características (y a veces incluso correcciones) para el canal mensual durante un período de tiempo. Esto nos permite asegurarnos de que todo funciona correctamente antes de publicar la característica para un público más amplio. Por tanto, si a continuación no ve algo descrito, no se preocupe, lo recibirá con el tiempo. [Más información](https://support.office.com/es-ES/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
-**Nota:** la información de la versión de Microsoft AutoUpdate (Mau) se ha trasladado a la página [Historial de versiones MAU](https://docs.microsoft.com/es-ES/officeupdates/release-history-microsoft-autoupdate).<br/>
+**Nota:** la información de la versión de Microsoft AutoUpdate (MAU) se ha trasladado a la página [Historial de versiones MAU](https://docs.microsoft.com/es-ES/officeupdates/release-history-microsoft-autoupdate).<br/>
 
-## <a name="august-13-2019-release"></a>Versión de agosto de 13, 2019
+## <a name="september-10-2019-release"></a>Versión del 10 de septiembre de 2019
+*Versión 16.29 (compilación 19090802)*
+
+### <a name="word-feature-updates"></a>Word: actualizaciones de características
+
+- Se han corregido varios problemas de rendimiento.
+### <a name="excel--feature-updates"></a>Excel: actualizaciones de características
+
+- **Pestañas de hojas de color completas:** cuando elige un color de pestaña para la hoja de cálculo, ocupa ahora toda la pestaña para que sea más fácil de ver.
+
+- **Actualizar los datos de los archivos locales en Mac:** actualice las consultas de Power Query en un equipo Mac desde los archivos de texto, CSV, XLSX, XML y JSON. 
+
+ ### <a name="excel-security-updates"></a>Excel: actualizaciones de seguridad
+
+- [CVE-2019-1263](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-1263): Vulnerabilidad de divulgación de información de Microsoft Excel
+- [CVE-2019-1297](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-1297): Vulnerabilidad de la ejecución remota de código de Microsoft Excel
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
+
+- Se han corregido varios problemas de rendimiento.
+
+### <a name="outlook-feature-updates"></a>Outlook: actualizaciones de características
+
+- Se han corregido varios problemas de rendimiento.
+
+## <a name="august-13-2019-release"></a>Versión del 13 de agosto de 2019
 *Versión 16.28 (compilación 19081202)*
 
 ### <a name="word-feature-updates"></a>Word: actualizaciones de características

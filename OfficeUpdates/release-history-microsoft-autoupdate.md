@@ -3,19 +3,19 @@ title: Historial de versiones de Microsoft AutoUpdate (MAU)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/2019
+ms.date: 9/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales informáticos un historial de versiones de Microsoft AutoUpdate (MAU).
-ms.openlocfilehash: 9b86b9c383805cc6f29bdeaad9416b951443f21a
-ms.sourcegitcommit: fa36d5fbddce8fc94c98eaf81acdfa2fce370958
+ms.openlocfilehash: e4340d6a2d77f7b99febad35f8a5c046f89f023c
+ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/15/2019
-ms.locfileid: "36429944"
+ms.lasthandoff: 09/11/2019
+ms.locfileid: "36838190"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historial de versiones de Microsoft AutoUpdate (MAU)
  
@@ -31,6 +31,26 @@ En la siguiente tabla, se proporciona información del historial de versiones de
 
 Para ver las notas de la versión, consulte [Notas de la versión.](release-notes-office-for-mac.md)<br/><br/>
 
+## <a name="september-2019-release"></a>Versión de septiembre de 2019
+
+**Fecha de lanzamiento:** 10 de septiembre de 2019
+
+*Actualización automática para Microsoft 4.15*
+
+ **Actualizaciones de características:**
+
+- Las notificaciones de fecha límite de actualización de MAU ahora mostrarán la hora de la fecha límite para los usuarios finales en el formato de hora de su dispositivo local.
+- El demonio MAU AU se llama ahora asistente de Microsoft Update.
+- Se ha corregido un problema que provocaba que se robara el enfoque de la aplicación en primer plano al ejecutar el comando "msupdate".
+
+
+**Vínculo para actualización de MAU:**
+
+[Descargar el paquete de actualización automática para Microsoft 4.15](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 Hash:**
+
+E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 ## <a name="august-2019-release"></a>Versión de agosto de 2019
 
 **Fecha de lanzamiento:** 13 de agosto de 2019
@@ -49,7 +69,7 @@ Para ver las notas de la versión, consulte [Notas de la versión.](release-note
 <br/>
 **SHA-256 Hash:**
 
-76FA706E9E5B717D333B7EFB5AB95FCF9EE3E571A7FF171CA25E77CA6E9EBD97
+76FA706E9E5B717D333B7EFB5AB95FCF9EE3E571A7FF171CA25E77CA6E9EBD97<br/><br/>
 ## <a name="july-2019-release"></a>Versión de julio de 2019
 
 **Fecha de publicación** : 18 de julio de 2019
@@ -154,6 +174,8 @@ FF676870D5B3521202095810B85DEF36538B59E00AEA44A2ED0D7EA8B3B99D6C
 
 |**Fecha de publicación**|**Versión**|**Más información**||
 |:-----|:-----|:-----|:-----|
+|10 de septiembre de 2019 <br/>|4.15 <br/> |  <br/> ||
+|13 de agosto de 2019 <br/>|4.14 <br/> |  <br/> ||
 |18 de julio de 2019 <br/>|4.13 <br/> |  <br/> ||
 |27 de junio de 2019 <br/>9 de junio de 2019|4.12 <br/> | <br/> ||
 |14 de mayo de 2019 <br/>|4.11 <br/> |  <br/> | <br/> |
