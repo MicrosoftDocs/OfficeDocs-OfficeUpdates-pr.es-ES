@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2019
-ms.openlocfilehash: 9a6e0bbc189ebb970647fae2f9810505e327cfd8
-ms.sourcegitcommit: ba31adfbc9514f2c98d8420923696b1b77872621
+ms.openlocfilehash: 7972f00672f3f195695617a10d22a98d8a25ebe3
+ms.sourcegitcommit: f8b6acb84a922aa7fadb4c789bbd49f95c560c62
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631242"
+ms.lasthandoff: 09/13/2019
+ms.locfileid: "36973389"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal mensual en 2019
 
@@ -24,6 +24,37 @@ En estas notas de la versión, se proporciona información sobre característica
 >- A menudo distribuimos características (y a veces incluso correcciones) para el Canal mensual durante un período de tiempo.  Si no ve algo que se describe a continuación de inmediato, lo verá pronto. [Más información](https://support.office.com/es-ES/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a comienzos de julio, las actualizaciones de Office 365 ProPlus (y Office 365 Empresa) incluirán Microsoft Teams.  La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/es-ES/deployoffice/teams-install).
 
+## <a name="version-1908-september-10"></a>Versión 1908: 10 de septiembre
+*Versión 1908 (Build 11929,20300)*
+
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/es-ES/officeupdates/office365-proplus-security-updates)
+
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO INICIAL)
+
+### <a name="non-security-updates"></a>Actualizaciones no relacionadas con la seguridad
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema por el que los usuarios no obtenían acceso a las sugerencias de ubicación a través de un lector de pantalla.
+
+- Se ha corregido un problema por el que algunos usuarios obtenían errores de autenticación al intentar recuperar la configuración de la nube para Outlook.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha corregido un problema para restaurar el nombre accesible de los controles de vídeo de PowerPoint.
+
+- Se ha corregido un problema que impedía que algunas animaciones se iniciaran.
+
+### <a name="word"></a>Word
+
+- Se ha corregido un problema que provocaba que los usuarios recibían el mensaje "Hay algo que impide compartir esto" al intentar compartir archivos almacenados en SharePoint 2016.
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Se ha corregido un problema que provocaba errores en las vistas de árbol grandes.
+
+
+
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
 
 ## <a name="version-1908-august-26"></a>Versión 1908: 26 de agosto
 *Versión 1908 (compilación 11929.20254)*
@@ -97,7 +128,9 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - **Crear un gráfico de mapa:** esta característica es una mejora para los usuarios que trazan gráficos de mapas coropléticos con los tipos de datos geográficos de Excel. El beneficio para los usuarios finales será una integración más rica entre las características y una mayor precisión de la región que el usuario final quiere mostrar en el mapa. Entre otras ventajas adicionales está la capacidad de mostrar en el mapa polígonos urbanos. [Más información](https://support.office.com/es-ES/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-- **La configuración para imprimir números de diapositiva en documentos se ha movido al menú Imprimir para facilitar el acceso:** búsquelo en la lista desplegable imprimir > diseño de impresión cuando haya seleccionado un diseño de documento. Esto también permite que la configuración se alterne fácilmente por presentación. [Más información](https://support.office.com/es-ES/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+- **Agregar títulos de diapositivas para hacer que sus presentaciones sean accesibles:** el Comprobador de accesibilidad le ayuda a buscar y corregir los títulos de diapositivas que faltan.
+
+- **La configuración para Imprimir números de diapositiva en documentos se ha movido al menú Imprimir para facilitar el acceso:** búsquelo en la lista desplegable imprimir > Diseño de impresión cuando haya seleccionado un diseño de documento. Esto también permite que la configuración se alterne fácilmente por presentación. [Más información](https://support.office.com/es-ES/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 ### <a name="word-feature-updates"></a>Word: actualizaciones de características
 
