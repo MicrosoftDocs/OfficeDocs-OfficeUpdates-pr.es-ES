@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 22fccba2af26eb0f8effd8ff516fbb57fb26fcfb
-ms.sourcegitcommit: d4f156d8437e56965f74a3add79f7aa7a42c00ed
+ms.openlocfilehash: 372816fa81f0f5284a795f02edd9b1b4bb00c3f6
+ms.sourcegitcommit: d92c236702bae7efd84bd21b539cb7343b6973ba
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/12/2019
-ms.locfileid: "36972861"
+ms.lasthandoff: 09/13/2019
+ms.locfileid: "36980456"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -29,6 +29,44 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
 [//]: # (NO ELIMINAR)
 
+
+## <a name="version-1910-september-13"></a>Versión 1910: 13 de septiembre
+*Versión 1910 (compilación 12105.20000)*
+
+
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO INICIAL)
+
+### <a name="non-security-updates"></a>Actualizaciones que no son de seguridad
+### <a name="excel"></a>Excel
+
+- <div><span>Se corrigió un problema que impedía a un usuario pegar hipervínculos en algunas hojas protegidas</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Se ha corregido un problema por el que la UI podría quedarse atascada en una vista compacta</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>Se corrigió un problema en el cual un usuario experimentaba un error al imprimir en PDF</span></div>
+
+
+### <a name="project"></a>Project
+
+- <div><span>Se corrigió un problema en el que <span style="display:inline !important;background-color:rgb(255, 255, 255);font-size:13.33px;">los cambios en un valor de trabajo de una tarea de resumen provocaban un fallo si se habilitaba el trabajo protegido</span></span></div>
+
+
+- <font size=2 style="background-color:rgb(255, 255, 255);">Se corrigió un problema que podía inhibir la capacidad de sincronizar eventos con los calendarios de la empresa</font>
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- <div><span>Se corrigió un problema que causaba una advertencia repetida para descartar versiones locales de un archivo</span></div>
+
+
+
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
 
 ## <a name="version-1910-september-06"></a>Versión 1910: 06 de septiembre
 *Versión 1910 (compilación 12030.20004)*
