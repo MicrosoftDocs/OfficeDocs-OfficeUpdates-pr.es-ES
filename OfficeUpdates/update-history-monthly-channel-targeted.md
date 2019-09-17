@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a participantes del programa Insider el historial de actualizaciones de los lanzamientos del canal mensual de Office (dirigido) para versiones de escritorio de Windows
-ms.openlocfilehash: 97418d7e2550bb4cd00795e37fc467a35fecb264
-ms.sourcegitcommit: 40287cc78e58338d63dc01c5361dc46417f51a5e
-ms.translationtype: HT
+ms.openlocfilehash: d906239f2973a7d8f5e3b7585f27b8a77c02db94
+ms.sourcegitcommit: 387fdd3ae168f420e1ed93ce7d486c5e0ff39e88
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/28/2019
-ms.locfileid: "35919124"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998626"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Historial de actualizaciones del canal mensual de Office (dirigido) para Windows
 
@@ -23,60 +23,75 @@ Hola, participantes de Insider. Si os estáis preguntando si tenéis instalada l
 
 ## <a name="office-insider-versions-and-builds"></a>Compilaciones y versiones de office Insider
 
-Si está inscrito en el nivel del canal mensual (dirigido), anteriormente denominado Modo aplazado de Insider, obtendrá una nueva actualización de características de Office aproximadamente una vez al mes, además de las compilaciones subsiguientes que contengan correcciones importantes o actualizaciones de seguridad. La siguiente lista muestra versiones y compilaciones recientes del canal mensual (dirigido), con **la compilación publicada más recientemente en primer lugar**. Las compilaciones nuevas incluyen todas las actualizaciones de compilaciones anteriores. Para obtener las notas de la versión, vea [Novedades para participantes de Office Insider](https://support.office.com/es-ES/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
+Si está inscrito en el nivel del canal mensual (dirigido), anteriormente denominado Modo aplazado de Insider, obtendrá una nueva actualización de características de Office aproximadamente una vez al mes, además de las compilaciones subsiguientes que contengan correcciones importantes o actualizaciones de seguridad. La siguiente lista muestra versiones y compilaciones recientes del canal mensual (dirigido), con **la compilación publicada más recientemente en primer lugar**. Las compilaciones nuevas incluyen todas las actualizaciones de compilaciones anteriores. Para obtener las notas de la versión, vea [Novedades para participantes de Office Insider](https://support.office.com/en-us/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
 
 > [!NOTE]
 > - A continuación, se muestra el historial de actualizaciones con todas las compilaciones publicadas
 > - Las notas de la versión se actualizan con una cadencia lenta y pueden ser una compilación de actualizaciones de varias compilaciones hasta el número de compilación publicado de las notas de la versión
 
  > [!NOTE]
-> - Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a partir de finales de junio, Microsoft Teams se incluirá en instalaciones existentes de Office 365 ProPlus (y Office 365 Empresa) a la hora de actualizar dichas instalaciones. La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/es-ES/deployoffice/teams-install).
+> - Microsoft Teams en las instalaciones existentes de Office 365 ProPlus: a partir de finales de junio, Microsoft Teams se incluirá en las instalaciones existentes de Office 365 ProPlus (y Office 365 Business) cuando se actualicen estas instalaciones. La fecha en la que se agregarán los equipos depende de cuál sea el canal de actualización que esté usando. Para obtener más información, consulte [implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/en-us/deployoffice/teams-install) .
 
 [//]: # (NO ELIMINAR)
 
+**16 de septiembre de 2019**<br/>
+Versión 1909 (compilación 12026,20190)<br/>
+
+**10 de septiembre de 2019**<br/>
+Versión 1909 (compilación 12026,20108)<br/>
+
+**25 de agosto de 2019**<br/>
+Versión 1908 (compilación 11929,20254)<br/>
+
+**16 de agosto de 2019**<br/>
+Versión 1908 (compilación 11929,20182)<br/>
+
+**13 de agosto de 2019**<br/>
+Versión 1908 (compilación 11929,20114)<br/>
+
 **27 de julio de 2019**<br/>
-Versión 1907 (compilación 11901.20176)<br/>
+Versión 1907 (compilación 11901,20176)<br/>
 
 **25 de julio de 2019**<br/>
-Versión 1907 (compilación 11901.20156)<br/>
+Versión 1907 (compilación 11901,20156)<br/>
 
 **22 de julio de 2019**<br/>
-Versión 1907 (compilación 11901.20120)<br/>
+Versión 1907 (compilación 11901,20120)<br/>
 
 **15 de julio de 2019**<br/>
-Versión 1907 (compilación 11901.20080)<br/>
+Versión 1907 (compilación 11901,20080)<br/>
 
 **9 de julio de 2019**<br/>
-Versión 1906 (compilación 11727.20244)<br/>
+Versión 1906 (compilación 11727,20244)<br/>
 
 **27 de junio de 2019**<br/>
-Versión 1906 (compilación 11727.20230)<br/>
+Versión 1906 (compilación 11727,20230)<br/>
 
 **26 de junio de 2019**<br/>
-Versión 1906 (compilación 11727.20224)<br/>
+Versión 1906 (compilación 11727,20224)<br/>
 
 **23 de junio de 2019**<br/>
-Versión 1906 (compilación 11727.20210)<br/>
+Versión 1906 (compilación 11727,20210)<br/>
 
 **20 de junio de 2019**<br/>
-Versión 1906 (compilación 11727.20188)<br/>
+Versión 1906 (compilación 11727,20188)<br/>
 
 **11 de junio de 2019**<br/>
-Versión 1906 (compilación 11727.20104)<br/>
+Versión 1906 (compilación 11727,20104)<br/>
 
 **3 de junio de 2019**<br/>
-Versión 1905 (compilación 11629.20214)<br/>
+Versión 1905 (compilación 11629,20214)<br/>
 
 **25 de mayo de 2019**<br/>
-Versión 1905 (compilación 11629.20196)<br/>
+Versión 1905 (compilación 11629,20196)<br/>
 
-**22 de mayo de 2019**<br/> Versión 1905 (compilación 11629.20164)<br/>
+**22 de mayo de 2019**<br/> Versión 1905 (compilación 11629,20164)<br/>
 
 **16 de mayo de 2019**<br/>
-Versión 1905 (compilación 11629.20136)<br/>
+Versión 1905 (compilación 11629,20136)<br/>
 
 **14 de mayo de 2019**<br/>
-Versión 1904 (compilación 11601.20204)<br/>
+Versión 1904 (compilación 11601,20204)<br/>
 
 **08 de mayo de 2019**<br/>
 Versión 1904 (Compilación 11601.20178)<br/>
@@ -144,8 +159,9 @@ Versión 1903 (compilación 11425.20204)<br/>
 **Office Insider en Twitter**<br/> En @OfficeInsider, realizamos publicaciones frecuentes sobre los lanzamientos de Insider y celebramos eventos especiales para participantes del programa.<br/> 
 [Síganos en Twitter](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-[
-  ![Imagen que muestra el icono de Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/es-ES/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
+
+  [
+  ![Imagen que muestra el icono de Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
 
 
 **Sea el primero en obtener nuevas características**
