@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a participantes del programa Insider el historial de actualizaciones de los lanzamientos del canal mensual del modo anticipado de Insider para versiones de escritorio de Windows
-ms.openlocfilehash: aa36eeaa6eb95cbbf0675f0f6852fc43bfedda87
-ms.sourcegitcommit: ba31adfbc9514f2c98d8420923696b1b77872621
+ms.openlocfilehash: f83de6b5c8a56e0bc7ff83c3c4ac039171839ebc
+ms.sourcegitcommit: 387fdd3ae168f420e1ed93ce7d486c5e0ff39e88
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631252"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998636"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Historial de actualizaciones del canal de Office Insider
 
@@ -24,8 +24,6 @@ Hola, participantes de Insider. Si os estáis preguntando si tenéis instalada l
 > - A continuación, se muestra el historial de actualizaciones con todas las compilaciones publicadas
 > - Las notas de la versión se actualizan con una cadencia lenta y pueden ser una compilación de actualizaciones de varias compilaciones hasta el número de compilación publicado de las notas de la versión.
 
-
-
 ## <a name="office-insider-versions-and-builds"></a>Compilaciones y versiones de office Insider
 
 Si está inscrito en el nivel de Insider, obtendrá actualizaciones frecuentes con nuevas características y mejoras. La siguiente lista muestra un historial de versiones y compilaciones con **la compilación publicada más recientemente en primer lugar**. Las compilaciones nuevas incluyen todas las actualizaciones de compilaciones anteriores. 
@@ -33,6 +31,18 @@ Si está inscrito en el nivel de Insider, obtendrá actualizaciones frecuentes c
 Para obtener las notas de la versión, vea [notas de la versión de Insider de Office para escritorio de Windows](https://docs.microsoft.com/es-ES/OfficeUpdates/release-notes-office-insider).
 
 [//]: # (NO ELIMINAR)
+
+**16 de septiembre de 2019**<br/>
+Versión 1910 (compilación 12112.20000)<br/>
+
+**10 de septiembre de 2019**<br/>
+Versión 1910 (compilación 12105.20000)<br/>
+
+**04 de septiembre de 2019**<br/>
+Versión 1910 (compilación 12030.20004)<br/>
+
+**28 de agosto de 2019**<br/>
+Versión 1909 (compilación 12026.20000)<br/>
 
 **26 de agosto de 2019**<br/>
 Versión 1909 (compilación 12022.20000)<br/>
@@ -126,7 +136,6 @@ Versión 1905 (compilación 11624.20000)<br/>
 **17 de enero de 2019**<br/> Versión 1902 (compilación 11231.20080)<br/>
 
 **10 de enero de 2019**<br/> Versión 1902 (compilación 11231.20066)<br/> 
-
 
 ## <a name="insider-community"></a>Comunidad de Insider
 
