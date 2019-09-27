@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Historial de versiones de la Herramienta de implementación de Office (ODT) para los profesionales de TI
-ms.openlocfilehash: b0f53ad140880f7ef173efc544892d56f0658bb1
-ms.sourcegitcommit: 917d87752cde322a74251b6d23b12815587d1e51
+ms.openlocfilehash: 1622ddf9a89767c2d0e456737362eecf4123b3fd
+ms.sourcegitcommit: a5da36df390868d76bddfc78e9481ed8e9c5b673
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/16/2019
-ms.locfileid: "36444955"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37275491"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Historial de versiones de la Herramienta de implementación de Office
 
 La Herramienta de implementación de Office (ODT) es una herramienta de línea de comandos que puede usar para descargar e implementar versiones de hacer clic y ejecutar de Office, como Office 365 ProPlus, en sus equipos cliente. 
 
 
-ODT le ofrece más control de la instalación de Office. Le permite definir los productos e idiomas que se instalarán, cómo se actualizarán esos productos y si quiere o no mostrar la experiencia de instalación a los usuarios. Para obtener información sobre cómo usar la ODT, vea Información general sobre la herramienta de implementación de Office](https://docs.microsoft.com/es-ES/deployoffice/overview-of-the-office-2016-deployment-tool).
+ODT le ofrece más control de la instalación de Office. Le permite definir los productos e idiomas que se instalarán, cómo se actualizarán esos productos y si quiere o no mostrar la experiencia de instalación a los usuarios. Para obtener información sobre cómo usar la ODT, vea [Información general sobre la herramienta de implementación de Office](https://docs.microsoft.com/es-ES/deployoffice/overview-of-the-office-2016-deployment-tool).
 
  **Sistemas operativos compatibles**: Windows 10, Windows 7, Windows 8, Windows 8.1, Windows Server 2008 R2, Windows Server 2012 y Windows Server 2012 R2. 
  
@@ -62,4 +62,4 @@ Versión 16.0.11306.33602
 
 ## <a name="related-links"></a>Vínculos relacionados
 
-[Notas de la versión de ODT](https://www.microsoft.com/en-us/download/details.aspx?id=49117)
+[Centro de descarga de ODT](https://www.microsoft.com/en-us/download/details.aspx?id=49117)

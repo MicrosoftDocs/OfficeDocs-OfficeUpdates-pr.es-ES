@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Ofrece información acerca de los problemas conocidos de Office 365 ProPlus
-ms.openlocfilehash: a8b385e197a6f61c10797bf160101cdd70285aaf
-ms.sourcegitcommit: a6d8dba3ee51727c2d3a2dad89cb986595c1a7b8
+ms.openlocfilehash: 7c24098c7a160c3d6391bc8e8e51a73d69c44b0c
+ms.sourcegitcommit: a5da36df390868d76bddfc78e9481ed8e9c5b673
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/20/2019
-ms.locfileid: "37068064"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37275501"
 ---
 # <a name="office-365-proplus-known-issues"></a>Problemas conocidos de Office 365 ProPlus
 
@@ -31,13 +31,17 @@ En esta tabla se ofrece un resumen de los problemas actualmente activos y los pr
 
 |Resumen|Investigando|Resuelto|
 |:-------------------------------------------------------------------------------------|:-----|:-----|
+|**Excel**
+Se encontró un problema que impide que los hipervínculos se peguen en algunas hojas protegidas.|Mensuales y SACT versión 1908 y SAC versión 1902||
+Se encontró un problema en la característica ideas de Excel, error al cargar el complemento haciendo clic en el botón ideas en el cliente de Win32.|Versión mensual 1908||
+Encontramos un problema en el que solo se muestran 16 complementos al buscar en el administrador de complementos.|Mensuales y SACT versión 1908 ||
 |**Outlook**
 Se ha encontrado un problema que podía impedir guardar archivos en una ubicación de WebDAV|Versión mensual 1909||
 |**Proyecto**
-Tenga en cuenta el siguiente escenario. Abra un proyecto Haga clic en el menú Archivo, haga clic en exportar y haga clic en el botón Crear PDF/XPS. En el cuadro de diálogo Examinar, escriba un nombre de archivo y haga clic en Aceptar. En esta situación, descubre que no se crea el archivo PDF de XPS. |Versión SAC 1902||
+Encontramos un problema al crear un PDF o XPS desde el menú Archivo, el archivo no se ha creado. |Versión SAC 1902||
 |**Word**
 Encontramos un problema que se presenta a los usuarios al abrir un archivo.|Versión mensual 1908||
-En el caso de archivos de Office sincronizados con el motor de sincronización de OneDrive, los metadatos de los documentos, como Requerir propiedades y requisitos de Tipo de contenido, ya no se validan al usar los comandos Guardar y Guardar como.|Versión SAC 1902||
+Encontramos un problema con los archivos de Office sincronizados por el motor de sincronización de OneDrive, los metadatos de documentos como las propiedades de los requisitos y el tipo de información ya no son validados en Guardar y guardar como.|Versión SAC 1902||
 
 ## <a name="may-2019---sample"></a>Mayo de 2019 - MUESTRA
 
