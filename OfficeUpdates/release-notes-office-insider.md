@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 372816fa81f0f5284a795f02edd9b1b4bb00c3f6
-ms.sourcegitcommit: d92c236702bae7efd84bd21b539cb7343b6973ba
+ms.openlocfilehash: 7b27ee8a99e987aea1d4e9f89e2816f570bbbe74
+ms.sourcegitcommit: a3d7811ec43bc314f1a90cbd2de5fb2a105c794a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/13/2019
-ms.locfileid: "36980456"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37300497"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -29,6 +29,92 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
 [//]: # (NO ELIMINAR)
 
+
+## <a name="version-1910-september-27"></a>Versión 1910: 27 de septiembre
+*Versión 1910 (compilación 12119.20000)*
+
+
+[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="non-security-updates"></a>Actualizaciones que no son de seguridad
+### <a name="excel"></a>Excel
+
+- <div><span>Hemos corregido un problema que podría haber provocado que los gráficos de líneas de dispersión se representaron correctamente al cambiar la colección de series</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Hemos corregido un problema que podría haber reportado un error de permisos al interactuar con las carpetas de calendario compartidas</span></div>
+
+
+- <div><span>Hemos corregimos un problema que podría impedir que los usuarios añadieran eventos en los calendarios</span></div>
+
+
+- <div><span>Hemos corregido un problema que provocaba que se mostraran mensajes de error al responder a un mensaje firmado digitalmente</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>Hemos corregido un problema que podría haber provocado problemas de escala al imprimir en impresoras Deskjet</span></div>
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- <div><span>Hemos corregido un problema en el que el texto medio en negrita podría estar en un estilo erróneo</span></div>
+
+
+- <div><span>Hemos corregido un problema en el que un usuario podría recibir un mensaje de error incorrecto al cerrar un archivo con una carga pendiente</span></div>
+
+
+
+[//]: # (NO QUITAR DETALLES DEL ERROR DEL CONTENIDO FINAL)
+
+## <a name="version-1910-september-20"></a>Versión 1910: 20 de septiembre
+*Versión 1910 (compilación 12112.20000)*
+
+
+[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
+
+
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="non-security-updates"></a>Actualizaciones que no son de seguridad
+### <a name="excel"></a>Excel
+
+- <div><span>Hemos corregido un problema en el que Excel puede colgarse en ocasiones durante el inicio</span></div>
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Hemos mejorado significativamente el rendimiento de la selección de sala cuando hay un gran número de salas disponibles</span></div>
+
+
+- <div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">Hemos corregido un problema que puede impedir la sincronización del buzón de correo para los clientes con varios buzones en Outlook al cambiarse a la autenticación moderna en Office 365.</span><br></div>
+
+
+- <div><span>Hemos corregido un problema en el que algunos caracteres de las etiquetas de firma podrían no aparecer en el menú desplegable</span></div>
+
+
+### <a name="project"></a>Proyecto
+
+- <div><span>Se ha corregido un problema que podría provocar un bloqueo al reemplazar un recurso de empresa por un recurso local</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>Hemos corregido un problema que podría impedir que el desplazamiento sincrónico funcione correctamente en la vista en borrador</span></div>
+
+
+- <div>Hemos corregido un problema que podría impedir que la Información de herramientas se muestre correctamente después de guardar un documento por primera vez.</div>
+
+
+
+[//]: # (NO QUITAR DETALLES DEL ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-1910-september-13"></a>Versión 1910: 13 de septiembre
 *Versión 1910 (compilación 12105.20000)*
@@ -856,7 +942,7 @@ Ahora puede dibujar y realizar anotaciones en imágenes en sus correos electrón
 
 #### <a name="open-document-links-in-word"></a>Abrir vínculos de documentos en Word
 
-Al hacer clic en un vínculo a un documento en Office, puede actualizar sus preferencias para abrirlo en la aplicación de Word de forma predeterminada.  Para actualizar sus preferencias, vaya a Archivo -> Opciones -> Avanzadas -> Gestión de vínculos. Más información: https://support.office.com/es-ES/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+Al hacer clic en un vínculo a un documento en Office, puede actualizar sus preferencias para abrirlo en la aplicación de Word de forma predeterminada.  Para actualizar sus preferencias, vaya a Archivo -> Opciones -> Avanzadas -> Gestión de vínculos. Más información: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>Introducción:
 
@@ -877,7 +963,7 @@ Para activar la opción: abra un vínculo a un documento de Word almacenado en O
 
 #### <a name="open-presentation-links-in-powerpoint"></a>Abrir vínculos de presentación en PowerPoint
 
-Al hacer clic en un vínculo a una presentación en Office, puede actualizar sus preferencias para abrirlo en la aplicación de PowerPoint de forma predeterminada. Para actualizar sus preferencias, vaya a Archivo -> Opciones -> Avanzadas -> Gestión de vínculos. Más información: https://support.office.com/es-ES/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+Al hacer clic en un vínculo a una presentación en Office, puede actualizar sus preferencias para abrirlo en la aplicación de PowerPoint de forma predeterminada. Para actualizar sus preferencias, vaya a Archivo -> Opciones -> Avanzadas -> Gestión de vínculos. Más información: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>Introducción:
 
@@ -898,7 +984,7 @@ Para activar la opción: abra un vínculo a una presentación de PowerPoint alma
 
 #### <a name="open-workbook-links-in-excel"></a>Abrir vínculos de libros en Excel
 
-Al hacer clic en un vínculo a un libro en Office, puede actualizar sus preferencias para abrirlo en la aplicación de Excel de forma predeterminada. Para actualizar sus preferencias, vaya a Archivo -> Opciones -> Avanzadas -> Gestión de vínculos. Más información: https://support.office.com/es-ES/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+Al hacer clic en un vínculo a un libro en Office, puede actualizar sus preferencias para abrirlo en la aplicación de Excel de forma predeterminada. Para actualizar sus preferencias, vaya a Archivo -> Opciones -> Avanzadas -> Gestión de vínculos. Más información: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>Introducción:
 
