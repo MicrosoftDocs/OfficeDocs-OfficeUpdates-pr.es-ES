@@ -9,20 +9,112 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2019
-ms.openlocfilehash: 39d280c0752083408c2cd3b8b370cdf04e1efd23
-ms.sourcegitcommit: d1718077f44805d5a7d0a7a0288847413a3e9d4f
+ms.openlocfilehash: d9c9698fd7248bbf951295d774b2f75db3db24dd
+ms.sourcegitcommit: 425403be7c370a7c6980ba5f5696dcf3ffdb5ada
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/17/2019
-ms.locfileid: "37011680"
+ms.lasthandoff: 09/30/2019
+ms.locfileid: "37329258"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal mensual en 2019
 
 En estas notas de la versión, se proporciona información sobre características nuevas y actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones del Canal mensual de Office 365 ProPlus 2019, Visio Pro para Office 365, el Cliente de escritorio de Project Online y Office 365 Empresa.
  
  > [!NOTE]
->- A menudo distribuimos características (y a veces incluso correcciones) para el Canal mensual durante un período de tiempo.  Si no ve algo que se describe a continuación de inmediato, lo verá pronto. [Más información](https://support.office.com/es-ES/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+>- A menudo distribuimos características (y a veces incluso correcciones) para el Canal mensual durante un período de tiempo.  Si no ve algo que se describe a continuación de inmediato, lo verá pronto. [Más información](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a comienzos de julio, las actualizaciones de Office 365 ProPlus (y Office 365 Empresa) incluirán Microsoft Teams.  La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/es-ES/deployoffice/teams-install).
+
+## <a name="version-1909-september-30"></a>Versión 1909: 30 de septiembre
+*Versión 1909 (compilación 12026.20264)*
+* Varias correcciones de errores y rendimiento.
+
+
+[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="access"></a>Access
+
+- **Buscar tablas vinculadas rápidamente:** nuestro nuevo cuadro de búsqueda hace que buscar tablas vinculadas sea mucho más sencillo. [Más información](https://support.office.com/es-ES/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
+
+### <a name="excel"></a>Excel
+
+- **Uso compartido de archivos más rápido:** comparta sus documentos directamente desde la lista usada recientemente sin tener que abrir el archivo.
+
+### <a name="outlook"></a>Outlook
+
+- **Insertar el menú de vínculos en Outlook inserta un vínculo con el permiso definido por el administrador de inquilinos:** un vínculo desde Insertar vínculo utilizado recientemente en Outlook insertaba un vínculo que solo funcionaba para los usuarios que ya tenían permisos. A menudo esto causaba un intercambio continuo de mensajes de correo electrónico entre los usuarios que pedían acceso a un documento. Hemos actualizado esta experiencia para que ahora el vínculo se inserte con el permiso predeterminado establecido por el administrador de inquilinos.
+
+- **Actualización visual de Outlook:** esto forma parte de la actualización visual de las experiencias básicas de Outlook sobre el diseño de los mensajes de correo en el panel de lectura y el inspector.
+
+- **Las actualizaciones del calendario compartido son más rápidas:** Outlook puede actualizar los calendarios compartidos en Office 365 con la API de REST. Active la vista previa para obtener actualizaciones más rápidas y confiables en los calendarios compartidos.
+
+- **Ver mensajes relevantes en los resultados de búsqueda:** Outlook analiza los términos de búsqueda y muestra los mensajes de correo electrónico más relevantes en la parte superior de los resultados de búsqueda. También verá todos los resultados ordenados por fecha en la sección de Resultados principales.
+
+- **Enviar el correo electrónico a la persona adecuada:** haga clic en la línea Para: y elija entre los contactos sugeridos. Un indicador de presencia y de imagen le ayudará a elegir a la persona adecuada.
+
+- **Protección avanzada frente a ataques**: con la Protección contra amenazas avanzada de Office 365, estará protegido frente a ataques mediante hipervínculos en asuntos de correos electrónicos, mensajes adjuntos, mensajes firmados, rutas de red, etc.
+
+- **Ver los mensajes bajo otra luz:** use el botón sol/luna para cambiar entre fondos claros y oscuros en el panel de lectura. [Más información](https://support.office.com/es-ES/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Guarde una ilustración como SVG:** guarde un gráfico, una forma o una ilustración como un gráfico vectorial escalable, que se puede cambiar de tamaño sin perder calidad de imagen. [Más información](https://support.office.com/es-ES/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+- **Repetición de entrada de lápiz:** anime un dibujo para que se reproduzca hacia adelante o hacia atrás durante la presentación con diapositivas. [Más información](https://support.office.com/es-ES/article/fa4f044f-810b-43fe-b774-da04a0b37496)
+
+- **Uso compartido de archivos más rápido:** comparta sus documentos directamente desde la lista usada recientemente sin tener que abrir el archivo.
+
+### <a name="word"></a>Word
+
+- **Decirlo de otra forma:** si lo quiere decir de forma diferente, la reescritura le puede ayudar. La reescritura ofrece alternativas para afinar sus frases.
+
+- **Mejoras de la coautoría:** mejora de la confiabilidad de la coautoría.
+
+- **Uso compartido de archivos más rápido:** comparta sus documentos directamente desde la lista usada recientemente sin tener que abrir el archivo.
+
+- **Otros usuarios verán los cambios rápidamente**: con las mejoras en la coautoría, los colaboradores podrán ver los cambios más rápido que nunca.
+
+
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="non-security-updates"></a>Actualizaciones que no son de seguridad
+### <a name="excel"></a>Excel
+
+- <div><span style="background-color:rgb(255, 255, 255);display:inline !important;">Se ha solucionado un problema por el que los hipervínculos no se podían pegar en algunas hojas protegidas.</span><br></div>
+
+
+- <div>Se han habilitado más de 16 complementos para mostrar&nbsp;<span style="font-size:13.3333px;background-color:rgb(255, 255, 255);display:inline !important;">en la navegación en el administrador de complementos.</span></div>
+
+
+### <a name="insights-services"></a>Servicios de información
+
+- <div>Se ha corregido un problema de la característica Ideas de Excel al cargar el complemento haciendo clic en el botón Ideas en el cliente de Win32.&nbsp;</div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div>Se ha corregido un problema que provocaba errores en la visualización de las direcciones URL de desplazamiento simple en algunos vínculos seguros.</div>
+
+
+- <span style="background-color:rgb(255, 255, 255);display:inline !important;">Se ha actualizado la lógica de bloqueo de datos adjuntos en Outlook para bloquear también los datos adjuntos de Python.</span>
+
+
+- <span style="background-color:rgb(255, 255, 255);display:inline !important;">Se ha corregido un problema por el que los usuarios notaban una pérdida de memoria en el proceso de Outlook.</span>
+
+- Se ha corregido un problema que podía impedir que los archivos se guardaran en una ubicación de WebDAV.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- <div><p style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri, sans-serif;">Se ha corregido el problema que ocurría cuando los usuarios abrían un archivo.</p></div>
+
+
+
+[//]: # (NO QUITAR DETALLES DEL ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-1908-september-10"></a>Versión 1908: 10 de septiembre
 *Versión 1908 (Build 11929,20300)*
