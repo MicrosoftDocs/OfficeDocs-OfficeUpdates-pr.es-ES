@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2018.
-ms.openlocfilehash: 5c8a5e252be302622dab9f041bfd84b4b511f8f2
-ms.sourcegitcommit: 6b645cfab4e6b232ccc97f9805cd1c168783ba43
+ms.openlocfilehash: a56ceef84a0af1ad73e17079ad68b904ed6a9e96
+ms.sourcegitcommit: 5a70fb551b56a39dfd597b5ff2b73d74e5054d15
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37350281"
+ms.lasthandoff: 10/02/2019
+ms.locfileid: "37375816"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de la versión para las versiones de Canal mensual en 2018
 
@@ -58,8 +58,6 @@ En estas notas de la versión, se proporciona información sobre característica
 - **Zoom y quieto:** en lugar de ajustar el Zoom cada vez que lee un mensaje, elija una configuración predeterminada para todos los mensajes. [Más información](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **Seguir trabajando mientras mueve mensajes:** Outlook ahora mueve los mensajes en segundo plano, por lo que puede seguir trabajando mientras mueve una gran cantidad de mensajes entre carpetas.
 - **Mejora de las experiencias con o sin la Bandeja de entrada Prioritarios:** para los clientes que no usen la Bandeja de entrada Prioritarios, hemos vuelto a implementar la pestaña de no leídos en la lista de mensajes en todas las carpetas. También hemos agregado una ordenación por marca para que sea más fácil encontrar los elementos marcados. Por último, la Bandeja de entrada tiene un modelo de interacción mejor con la búsqueda: la bandeja de entrada Prioritarios permanece hasta que se inicia la búsqueda y se muestra el texto "Resultados" cuando se completa una búsqueda.
-- **Bloquear la descarga de contenido externo de forma predeterminada en los correos electrónicos firmados y encriptados SMIME:** Debido a una vulnerabilidad en el protocolo SMIME, Outlook bloqueará la descarga de contenido externo en mensajes que se hayan cifrado o firmado mediante SMIME. Los usuarios no podrán descargar contenido externo con un solo clic en la interfaz de usuario de Outlook para protegerse de la vulnerabilidad de seguridad. Hay una nueva opción en el cuadro de diálogo Opciones para permitir que los usuarios vuelvan al comportamiento anterior.
-- **Vea los detalles de LinkedIn de contactos en Outlook:** ahora, al abrir la tarjeta de perfil de un contacto, puede obtener más información consultando su perfil de LinkedIn.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
 
@@ -179,7 +177,6 @@ En estas notas de la versión, se proporciona información sobre característica
 - **Búsqueda rápida** Se han potenciado los cálculos de las funciones BUSCARV, BUSCARH y COINCIDIR para que pueda obtener respuestas con más rapidez. [Más información](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
 - **Una llamada a todos los seguidores de Obtener y transformar** Si usa Obtener y transformar a menudo, le alegrará saber que se ha mejorado la característica Columna a partir de los ejemplos. [Más información](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
 - **Los iconos de la cinta tienen un aspecto nuevo** No se preocupe, todo funciona de la misma forma. Además, tendrán un aspecto excelente en pantallas de todos los tamaños. [Más información](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
-- **Empiece a trabajar rápidamente con archivos de Office: cree y abra archivos fácilmente con la experiencia de inicio actualizada** Las páginas de inicio de Office recientemente rediseñadas para Word, PowerPoint y Excel le ayudarán a empezar a trabajar más fácilmente con nuevos documentos, continuar desde donde lo dejaste en documentos usados recientemente y buscar documentos compartidos para trabajar conjuntamente con otros usuarios.
 
 ### <a name="outlook-feature-updates"></a>Outlook: actualizaciones de características
 - **Vea las próximas novedades** Pruebe nuevas experiencias de usuario antes de que estén disponibles y cuéntenos su opinión. [Más información](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
@@ -190,15 +187,12 @@ En estas notas de la versión, se proporciona información sobre característica
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
 - **Vea cómo las diapositivas cobran vida** Inserte gráficos 3D animados para ver corazones que laten, planetas en órbita y dinosaurios a toda velocidad por la pantalla. [Más información](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 - **Los iconos de la cinta tienen un aspecto nuevo** No se preocupe, todo funciona de la misma forma. Además, tendrán un aspecto excelente en pantallas de todos los tamaños. [Más información](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
-- **Pregunte a su público con un cuestionario o encuesta** Inserte un cuestionario o encuesta en una diapositiva. Office recoge y almacena las respuestas por usted. [Más información](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
-- **Empiece a trabajar rápidamente con archivos de Office: cree y abra archivos fácilmente con la experiencia de inicio actualizada** Las páginas de inicio de Office recientemente rediseñadas para Word, PowerPoint y Excel le ayudarán a empezar a trabajar más fácilmente con nuevos documentos, continuar desde donde lo dejaste en documentos usados recientemente y buscar documentos compartidos para trabajar conjuntamente con otros usuarios.
 
 ### <a name="word-feature-updates"></a>Word: actualizaciones de características
 - **Llame su atención con \@menciones**Use @menciones en los comentarios para avisar a los compañeros de trabajo cuándo necesita sus entradas. [Más información](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **Los iconos de la cinta tienen un aspecto nuevo** No se preocupe, todo funciona de la misma forma. Además, tendrán un aspecto excelente en pantallas de todos los tamaños. [Más información](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 - **Conversor del Editor de ecuaciones** El conversor permite a los usuarios convertir las ecuaciones creadas con el Editor de ecuaciones de Microsoft en el formato ML de Office Math para habilitar la edición.
 - **Su documento: de estático a mágico** Transforme el documento en una página web interactiva y fácil de compartir con un aspecto fantástico en cualquier dispositivo. [Más información](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
-- **Empiece a trabajar rápidamente con archivos de Office: cree y abra archivos fácilmente con la experiencia de inicio actualizada** Las páginas de inicio de Office recientemente rediseñadas para Word, PowerPoint y Excel le ayudarán a empezar a trabajar más fácilmente con nuevos documentos, continuar desde donde lo dejaste en documentos usados recientemente y buscar documentos compartidos para trabajar conjuntamente con otros usuarios.
 
 ## <a name="version-1808-september-11"></a>Versión 1808: 11 de septiembre
 *Versión 1808 (compilación 10730.20102)*
@@ -267,7 +261,6 @@ En estas notas de la versión, se proporciona información sobre característica
 ### <a name="outlook-feature-updates"></a>Outlook: Actualizaciones de características
 - **Advertencias de complemento de Outlook:** ocasionalmente un complemento COM de Outlook puede encontrar problemas que ralenticen los demás componentes de Outlook. Estos problemas podrían ser por causas de latencia de eventos, como cambiar entre carpetas de Outlook. la llegada de correo electrónico nuevo, la apertura de elementos de calendario, etc. Cuando se producen, se mostrará una advertencia en la barra de notificaciones de Outlook.
 - **Unirse a reuniones de Teams desde el cuadro de diálogo Recordatorios de Outlook:** cuando Outlook recuerda a los usuarios que se aproxima una reunión, se mostrará un botón Unirse en línea si la reunión que se aproxima es una reunión en línea de Teams. Esta experiencia es similar a la de unión a una reunión de Skype Empresarial desde el cuadro de diálogo Recordatorios de Outlook.
-- **Notificaciones de complemento mejoradas** Notificaciones de complemento mejoradas
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
  - **Colores de hipervínculos:** los hipervínculos ya no son solo azules. Aplique el color de fuente que quiera. [Más información](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8)
@@ -304,20 +297,18 @@ En estas notas de la versión, se proporciona información sobre característica
 
 ### <a name="excel-feature-updates"></a>Excel: actualizaciones de características
 - **Edición de la barra de fórmulas y las celdas mejorada:** ahora, puede usar CTRL + A para seleccionar el texto de una celda o de la barra de fórmulas. También se ha mejorado la compatibilidad con los emojis y otros caracteres complejos. [Más información](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
- - **Compatibilidad con el formato SVG mejorada:** puede insertar imágenes SVG que tengan filtros aplicados. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Compatibilidad con el formato SVG mejorada:** puede insertar imágenes SVG que tengan filtros aplicados. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-feature-updates"></a>Outlook: Actualizaciones de características
 - **Valor predeterminado de periodicidad: ** en el cuadro de diálogo Periodicidad de citas (en “Rango de periodicidad”), “Finalizar antes de” es la opción de configuración predeterminada (en lugar de “Sin fecha de finalización”) y es la primera opción de la lista; además, se establece una fecha de finalización predeterminada.
 - **Mejoras del Comprobador de accesibilidad:** el Comprobador de accesibilidad ha actualizado la asistencia técnica para las normas internacionales y recomendaciones para que los mensajes sean más accesibles. [Más información](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
-- **Mejorando las cadenas para "seguir" un grupo en la versión de escritorio de Outlook.** Estamos cambiando las cadenas para grupos en Outlook para cambiar el texto actual "suscribirse/cancelar suscripción" por "seguir/dejar de seguir".
+
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
 - **Compatibilidad con el formato SVG mejorada:** puede insertar imágenes SVG que tengan filtros aplicados. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **Escritura del título de las diapositivas con un lápiz:** use el lápiz para escribir un título y PowerPoint lo convertirá en texto. [Más información](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
-- **Abrir archivos de gran tamaño incrementalmente:** La capacidad de descargar, abrir e interactuar con presentaciones de PowerPoint de gran tamaño, incluso si algunas partes de la presentación (por ejemplo, una imagen o vídeo de gran tamaño) no se han terminado de descargar aún.
 
-
-### <a name="project-feature-updates"></a>Project: actualizaciones de características
+### <a name="project-feature-updates"></a>Project: Actualizaciones de características
  - **Todo organizado con Ubicaciones de almacenamiento recientes:** Project mantiene una lista actualizada de las ubicaciones en las que ha guardado otros proyectos. Cuando quiera guardar su proyecto, simplemente elija una de sus ubicaciones de almacenamiento recientes y continúe con su día.
  - **Una nueva forma de administrar sprints:** tomar un enfoque ágil para trabajar con paneles de tareas. Vaya a administrar Sprints para agregar y quitar sprints a medida que evoluciona el proyecto.
 
@@ -436,9 +427,8 @@ En estas notas de la versión, se proporciona información sobre característica
 -   **Nunca pierda un aviso:** establezca avisos para que aparezcan elementos emergentes en las ventanas mientras está trabajando. En caso contrario, Outlook parpadeará en la barra de tareas para llamar su atención. [Más información](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 -   **Marcar los elementos eliminados como leído:** ahora puede establecer como leídos los mensajes que elimine. Para hacerlo, vaya a Archivo \> Opciones \> Correo \> Otros.
 -   **Opción de cifrar:** los usuarios de cifrado de mensajes de Office 365 pueden cifrar un mensaje y enviarlo a cualquier usuario dentro o fuera de su organización. La opción Cifrar aparece en Opciones \> Permisos al crear un mensaje. [Más información](https://aka.ms/omeoverview)
-- **Soporte técnico para mostrar todos los grupos a los que se ha unido en la vista Calendario** Esta mejora permite que un usuario pueda ver todos los grupos modernos a los que se ha unido en la vista Calendario del panel de navegación izquierdo para superponer fácilmente el calendario de cualquier grupo con el calendario personal o con el calendario de otro grupo. Anteriormente, solo aparecían los grupos favoritos en esta lista.
 
-### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
+### <a name="powerpoint-feature-updates"></a>PowerPoint: Actualizaciones de características
 -   **Convertir la entrada de lápiz:** dibuje y tome notas con garabatos y conviértalos en texto leíble y formas nítidas para crear una presentación elegante. [Más información](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
 
 ### <a name="project-feature-updates"></a>Project: Actualizaciones de características
