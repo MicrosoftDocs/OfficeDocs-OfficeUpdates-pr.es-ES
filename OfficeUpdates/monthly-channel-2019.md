@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2019
-ms.openlocfilehash: f35e65c7ddf3288063d578f4515de38c037b60ba
-ms.sourcegitcommit: 6b645cfab4e6b232ccc97f9805cd1c168783ba43
+ms.openlocfilehash: 839e57a08aa9d38f7a9e473175968f2e91c9d28d
+ms.sourcegitcommit: 01ac73d10be11b830776836c70d0a0efe4e7aafc
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37350271"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37391304"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal mensual en 2019
 
@@ -63,6 +63,10 @@ En estas notas de la versión, se proporciona información sobre característica
 - **Repetición de entrada de lápiz:** anime un dibujo para que se reproduzca hacia adelante o hacia atrás durante la presentación con diapositivas. [Más información](https://support.office.com/es-ES/article/fa4f044f-810b-43fe-b774-da04a0b37496)
 
 - **Uso compartido de archivos más rápido:** comparta sus documentos directamente desde la lista usada recientemente sin tener que abrir el archivo.
+
+### <a name="visio"></a>Visio
+
+- **Diseñar y automatizar flujos de trabajo empresariales con Microsoft Flow y Visio:** diseñe diagramas de flujo de trabajo con Visio y expórtelos a Microsoft Flow para automatizarlos.
 
 ### <a name="word"></a>Word
 
@@ -528,6 +532,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 - **Usted calcula y nosotros le damos formato:** hemos convertido las expresiones matemáticas escritas a mano en caracteres estándar. Simplemente elija Entrada de lápiz a matemáticas y seleccione las notas escritas a mano para empezar. [Más información](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **Guardar los cambios a medida que los realiza:** cargue el archivo en OneDrive para asegurarse de que todas las actualizaciones se guardan automáticamente.
 - **Capacidad de insertar SVG con filtros aplicados:** ahora, los usuarios de Office tienen la capacidad de insertar SVG con filtros aplicados. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Los archivos de gran tamaño ahora se abren más rápido:** imágenes, vídeos y otros archivos de gran tamaño ahora se descargan en segundo plano al abrir archivos almacenados en OneDrive o SharePoint.
 
 ### <a name="word-feature-updates"></a>Word: actualizaciones de características
 
