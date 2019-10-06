@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 7b27ee8a99e987aea1d4e9f89e2816f570bbbe74
-ms.sourcegitcommit: a3d7811ec43bc314f1a90cbd2de5fb2a105c794a
+ms.openlocfilehash: 164383bff371e64336a2c9fb5c93cb3d5723ba3a
+ms.sourcegitcommit: 54722a89dde19941dfc9ad959f128a5c67f79023
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37300497"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37400149"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -29,6 +29,78 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
 [//]: # (NO ELIMINAR)
 
+
+## <a name="version-1910-october-04"></a>Versión 1910: octubre 04
+*Versión 1910 (compilación 12126.20000)*
+
+
+[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Complemento del visualizador de datos:** Crear rápidamente diagramas de flujo de Visio desde Excel. [Más información](https://support.office.com/es-ES/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="non-security-updates"></a>Actualizaciones que no son de seguridad
+### <a name="excel"></a>Excel
+
+- <div><span>Se ha corregido un problema por el que el área de impresión en la vista previa de impresión no era correcta</span></div>
+
+
+- <div><span>Se ha corregido un problema que podría haber impedido la actualización de las tablas dinámicas durante una sesión de coautoría</span></div>
+
+
+### <a name="access"></a>Access
+
+- <div>Se ha corregido un problema en el que los usuarios podían recibir un error de &quot;estado incoherente&quot; al usar una base de datos compartida.</div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Se ha corregido un problema que podría haber causado la duplicación de las carpetas de correo</span></div>
+
+
+- <div><span>Se ha corregido un problema que pudo haber causado un mensaje de error incorrecto al intentar enviar correo electrónico cifrado con s/MIME</span></div>
+
+
+- <div><span>Se ha corregido un problema que podría producir un bloqueo cuando un usuario recibe un mensaje de "Conversación perdida" de Skype</span></div>
+
+
+- <div><span>Se ha corregido un problema que podría haber resultando en una pérdida de memoria</span></div>
+
+
+- <div><span>Se ha corregido un problema que podría haber provocado que el nombre del remitente cambiara cuando se ha guardado como borrador</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span></span></div>Se ha corregido un problema que podría provocar que TextRanges se interrumpiera después de pegar el texto en el encabezado o pie de página, el número de marcadores de posición en el patrón de diapositivas y el diseño de la diapositiva
+
+
+- <div><span></span></div>Se ha corregido un problema que evitó la creación de hipervínculos al pegar el texto con hipervínculos
+
+
+- <div>Se ha corregido un problema que podría impedir que las estadísticas funcionaran correctamente</div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>Se ha corregido un problema por el que los colores de fuente no han sido afectados</span></div>
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- <div>Se ha corregido un problema que podría ofrecer el historial de versiones cuando se deshabilitara la característica</div>
+
+
+
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
 
 ## <a name="version-1910-september-27"></a>Versión 1910: 27 de septiembre
 *Versión 1910 (compilación 12119.20000)*
