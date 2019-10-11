@@ -9,24 +9,59 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual (dirigido) de Office 365 ProPlus en 2019.
-ms.openlocfilehash: 3426e637cc5875cf8b463645ac8fba1af317eda1
-ms.sourcegitcommit: 01ac73d10be11b830776836c70d0a0efe4e7aafc
+ms.openlocfilehash: ecf9078bbde72572a96d97c97fc165a3678cd993
+ms.sourcegitcommit: b7303cf1e168500bcb2efe71dec23c9096715894
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37391274"
+ms.lasthandoff: 10/09/2019
+ms.locfileid: "37427700"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de la versión para las versiones de Canal semianual (dirigido) en 2019
 
 En estas notas de la versión, se proporciona información sobre características nuevas y actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones del Canal semianual (dirigido) de Office 365 ProPlus 2019, Visio Pro para Office 365, el Cliente de escritorio de Project Online y Office 365 Empresa.
- 
+
 > [!NOTE]
 > - A menudo publicamos características (y a veces incluso correcciones) para el Canal semianual (dirigido) durante un período de tiempo. Si no ve algo que se describe a continuación de inmediato, lo verá pronto. [Más información](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
-
- > [!NOTE]
 > - Microsoft Teams está incluido en las nuevas instalaciones de canal semianual (dirigido), empezando por la versión 1902. Se agregará Teams a las instalaciones existentes de canal semianual (dirigido) cuando se actualicen a la versión 1908 o posterior. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/es-ES/deployoffice/teams-install).
 
- 
+## <a name="version-1908-october-08"></a>Versión 1908: 8 de octubre
+*Versión 1908 (compilación 11929.20388)*
+
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/es-ES/officeupdates/office365-proplus-security-updates)
+
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO INICIAL)
+
+### <a name="non-security-updates"></a>Actualizaciones que no son de seguridad
+### <a name="excel"></a>Excel
+
+- Se ha solucionado un problema por el que los hipervínculos no se podían pegar en algunas hojas protegidas.
+
+- Ahora se permite mostrar más de 16 complementos al navegar por el administrador de complementos.
+
+- Se ha corregido un problema de la característica Ideas de Excel al cargar el complemento haciendo clic en el botón Ideas en el cliente de Win32.
+
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema que provocaba errores en la visualización de las direcciones URL de desplazamiento simple en algunos vínculos seguros.
+
+- Se ha actualizado la lógica de bloqueo de datos adjuntos en Outlook que bloqueaba también los datos adjuntos de Python.
+
+- Se ha corregido un problema por el que los usuarios notaban una pérdida de memoria en el proceso de Outlook.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha solucionado un problema que podía provocar pérdidas de datos en sesiones relacionadas con la coautoría y la edición sin conexión en PowerPoint.
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Se ha solucionado un problema que causaba un bloqueo al abrir un archivo.
+
+- Se ha solucionado un problema por el que la información de accesibilidad no se mostraba en la sección Información de Lugar de la vista Backstage.
+
+- Se ha mejorado la estabilidad al reanudar descargas previamente interrumpidas de actualizaciones de Office.
+
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
+
 ## <a name="version-1908-september-10"></a>Versión 1908: 10 de septiembre
 *Versión 1908 (Build 11929,20300)*
 
