@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual (dirigido) de Office 365 ProPlus en 2019.
-ms.openlocfilehash: ecf9078bbde72572a96d97c97fc165a3678cd993
-ms.sourcegitcommit: b7303cf1e168500bcb2efe71dec23c9096715894
+ms.openlocfilehash: da3ed0689645e665ee2e6c265ed42e22b16e15ab
+ms.sourcegitcommit: d4aaac5012137e1131fdccb189d2c8b43c49946f
 ms.translationtype: HT
 ms.contentlocale: es-ES
 ms.lasthandoff: 10/09/2019
-ms.locfileid: "37427700"
+ms.locfileid: "37437672"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de la versión para las versiones de Canal semianual (dirigido) en 2019
 
@@ -59,6 +59,8 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 - Se ha solucionado un problema por el que la información de accesibilidad no se mostraba en la sección Información de Lugar de la vista Backstage.
 
 - Se ha mejorado la estabilidad al reanudar descargas previamente interrumpidas de actualizaciones de Office.
+
+- Para proteger la seguridad de los clientes de Office, las actualizaciones de Microsoft Office ahora se firman exclusivamente con el algoritmo SHA-2.
 
 [//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
 
