@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a participantes del programa Insider el historial de actualizaciones de los lanzamientos del canal mensual de Office (dirigido) para versiones de escritorio de Windows
-ms.openlocfilehash: dd415a14bef7aac3aa907a4847ee2e52e47d584c
-ms.sourcegitcommit: 85de4fbe2104e3dcea6f6487aa263778d16c1dc3
+ms.openlocfilehash: 830179b4afed238c40bccaaa22d873cac227915a
+ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/24/2019
-ms.locfileid: "37131672"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37508885"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Historial de actualizaciones del canal mensual de Office (dirigido) para Windows
 
@@ -30,9 +30,21 @@ Si está inscrito en el nivel del canal mensual (dirigido), anteriormente denomi
 > - Las notas de la versión se actualizan con una cadencia lenta y pueden ser una compilación de actualizaciones de varias compilaciones hasta el número de compilación publicado de las notas de la versión
 
  > [!NOTE]
-> - Microsoft Teams en las instalaciones existentes de Office 365 ProPlus: a partir de finales de junio, Microsoft Teams se incluirá en las instalaciones existentes de Office 365 ProPlus (y Office 365 Business) cuando se actualicen estas instalaciones. La fecha en la que se agregarán los equipos depende de cuál sea el canal de actualización que esté usando. Para obtener más información, consulte [implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/en-us/deployoffice/teams-install) .
+> - Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a partir de finales de junio, Microsoft Teams se incluirá en instalaciones existentes de Office 365 ProPlus (y Office 365 Empresa) a la hora de actualizar dichas instalaciones. La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/en-us/deployoffice/teams-install).
 
 [//]: # (NO ELIMINAR)
+
+**14 de octubre de 2019**<br/>
+Versión 1910 (compilación 12130,20184)<br/>
+
+**14 de octubre de 2019**<br/>
+Versión 1910 (compilación 12130,20178)<br/>
+
+**8 de octubre de 2019**<br/>
+Versión 1909 (compilación 12026.20320)<br/>
+
+**28 de septiembre de 2019**<br/>
+Versión 1909 (compilación 12026.20264)<br/>
 
 **23 de septiembre de 2019**<br/>
 Versión 1909 (compilación 12026,20248)<br/>
@@ -44,7 +56,7 @@ Versión 1909 (compilación 12026,20190)<br/>
 Versión 1909 (compilación 12026,20108)<br/>
 
 **25 de agosto de 2019**<br/>
-Versión 1908 (compilación 11929,20254)<br/>
+Versión 1908 (compilación 11929.20254)<br/>
 
 **16 de agosto de 2019**<br/>
 Versión 1908 (compilación 11929,20182)<br/>
@@ -53,7 +65,7 @@ Versión 1908 (compilación 11929,20182)<br/>
 Versión 1908 (compilación 11929,20114)<br/>
 
 **27 de julio de 2019**<br/>
-Versión 1907 (compilación 11901,20176)<br/>
+Versión 1907 (compilación 11901.20176)<br/>
 
 **25 de julio de 2019**<br/>
 Versión 1907 (compilación 11901,20156)<br/>
@@ -65,16 +77,16 @@ Versión 1907 (compilación 11901,20120)<br/>
 Versión 1907 (compilación 11901,20080)<br/>
 
 **9 de julio de 2019**<br/>
-Versión 1906 (compilación 11727,20244)<br/>
+Versión 1906 (compilación 11727.20244)<br/>
 
 **27 de junio de 2019**<br/>
-Versión 1906 (compilación 11727,20230)<br/>
+Versión 1906 (compilación 11727.20230)<br/>
 
 **26 de junio de 2019**<br/>
-Versión 1906 (compilación 11727,20224)<br/>
+Versión 1906 (compilación 11727.20224)<br/>
 
 **23 de junio de 2019**<br/>
-Versión 1906 (compilación 11727,20210)<br/>
+Versión 1906 (compilación 11727.20210)<br/>
 
 **20 de junio de 2019**<br/>
 Versión 1906 (compilación 11727,20188)<br/>
@@ -83,10 +95,10 @@ Versión 1906 (compilación 11727,20188)<br/>
 Versión 1906 (compilación 11727,20104)<br/>
 
 **3 de junio de 2019**<br/>
-Versión 1905 (compilación 11629,20214)<br/>
+Versión 1905 (compilación 11629.20214)<br/>
 
 **25 de mayo de 2019**<br/>
-Versión 1905 (compilación 11629,20196)<br/>
+Versión 1905 (compilación 11629.20196)<br/>
 
 **22 de mayo de 2019**<br/> Versión 1905 (compilación 11629,20164)<br/>
 
@@ -94,7 +106,7 @@ Versión 1905 (compilación 11629,20196)<br/>
 Versión 1905 (compilación 11629,20136)<br/>
 
 **14 de mayo de 2019**<br/>
-Versión 1904 (compilación 11601,20204)<br/>
+Versión 1904 (compilación 11601.20204)<br/>
 
 **08 de mayo de 2019**<br/>
 Versión 1904 (Compilación 11601.20178)<br/>
