@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Ofrece información acerca de los problemas conocidos de Office 365 ProPlus
-ms.openlocfilehash: 6bfbf0f50b70334a09729177efbd3cd1c15f1e7b
-ms.sourcegitcommit: f0366356e2da83813c99a59e9ce3e60338d11dcc
+ms.openlocfilehash: 6c2bb0265529216180cd8763c94e9d8be114d9a9
+ms.sourcegitcommit: 9c4a7d9d2a2171e009e4e46ec5e46eaec6b78f10
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37453570"
+ms.lasthandoff: 10/14/2019
+ms.locfileid: "37501798"
 ---
 # <a name="office-365-proplus-known-issues"></a>Problemas conocidos de Office 365 ProPlus
 
@@ -30,39 +30,34 @@ En esta tabla se ofrece un resumen de los problemas actualmente activos y los pr
 
 ## <a name="october-2019"></a>Octubre de 2019
 
-|Resumen|Aplicaciones afectadas|Investigando|Resuelto|
-|:-------------------------------------------------------------------------------------|:------------|:---------------------|:---------------------|
+|Resumen|Aplicaciones afectadas|
+|:-------------------------------------------------------------------------------------|:---------------------|
+|Se identificó un problema con Buscar y reemplazar que cambiaba el enfoque en el cuadro de diálogo después de encontrar el primer elemento. <br><br> **Estado**: Investigando|Excel<br><br>
+|Se identificó un problema en el que, en determinadas circunstancias, los accesos directos de Office desaparecían después de una actualización.  <br><br> **Estado**: Investigando|Conjunto de aplicaciones de Office<br><br>
 |
-Hemos detectado un problema con Buscar y reemplazar que cambiaba el enfoque en el cuadro de diálogo después de encontrar el primer elemento.|Excel|Versión SACT 1908||
-|
-Encontramos un problema en el que en determinadas circunstancias, los métodos abreviados de teclado de Office podían desaparecer después de una actualización.|Conjunto de aplicaciones de Office|Versión SACT 1908||
-
+<br>
 <br>
 
 ## <a name="september-2019"></a>Septiembre de 2019
 
-|Resumen|Investigando|Solución esperada|Resuelto|
-|:-------------------------------------------------------------------------------------|:------------|:---------------------|:---------------------|
-|**Excel**
-Se encontró un problema que impide que los hipervínculos se peguen en algunas hojas protegidas.|||Versión mensual 1909 <br> 16.0.12026.20264 <br> Versión SACT 1908 <br> (16.0.11929.20344) <br> Versión SAC 1902 <br> (16.0.11328.20434)|
-Se encontró un problema en la característica ideas de Excel, error al cargar el complemento haciendo clic en el botón ideas en el cliente de Win32.|||Versión mensual 1909 <br> (16.0.12026.20264) <br> Versión SACT 1908<br>(16.0.11929.20352) <br> Versión SAC 1902 <br>(16.0.11328.20434)|
-Encontramos un problema en el que solo se muestran 16 complementos al buscar en el administrador de complementos.||Versión SAC ?|Versión mensual 1909 <br> 16.0.12026.20264 <br> Versión SACT 1908<br>(16.0.11929.20352)|
-|**Outlook**
-Se ha encontrado un problema que podía impedir guardar archivos en una ubicación de WebDAV|||Versión mensual 1909 <br> 16.0.12026.20264|
-Hemos descubierto un problema que provocaba errores en la visualización de las direcciones URL de desplazamiento simple en algunos vínculos seguros.|||Versión mensual 1909 <br> 16.0.12026.20264<br> Versión SACT 1908<br>(16.0.11929.20370)|
-Hemos descubierto un problema por el que las actualizaciones de datos adjuntos bloqueaban la lógica de Outlook y los datos adjuntos de Python.|||Versión mensual 1909 <br> 16.0.12026.20264<br> Versión SACT 1908<br>(16.0.11929.20370)||
-Se ha corregido un problema por el que los usuarios notaban una pérdida de memoria en el proceso de Outlook.|||Versión mensual 1909 <br> 16.0.12026.20264<br> Versión SACT 1908<br>(16.0.11929.20370)||
-|**PowerPoint**
-Se ha encontrado un problema que podía provocar pérdidas de datos en sesiones relacionadas con la coautoría y la edición sin conexión en PowerPoint.|||Versión mensual 1909 <br> 16.0.12026.20264 <br> Versión SACT 1908<br>(16.0.11929.20370)||
-|**Proyecto**
-Encontramos un problema al crear un PDF o XPS desde el menú Archivo, el archivo no se ha creado. |||Versión SAC 1908<br>(16.0.11328.20428)|
-|**Word**
-Encontramos un problema que se presenta a los usuarios al abrir un archivo.|||Versión mensual 1909 <br> 16.0.12026.20264 <br> Versión SACT 1908 <br> (16.0.11929.20340)||
-Encontramos un problema con los archivos de Office sincronizados por el motor de sincronización de OneDrive, los metadatos de documentos como las propiedades de los requisitos y el tipo de información ya no son validados en Guardar y guardar como.|||Versión SAC 1902 <br> (16.0.11328.20426)|
-Encontramos un problema en el que las compilaciones actuales de JAWS en Windows no anunciaban palabras al usar Mayús. + Flecha derecha.|||Versión SAC 1902 <br> (16.0.11328.20438)|
-|**Conjunto de aplicaciones de Office**
-Se encontró un problema al reanudar descargas previamente interrumpidas de actualizaciones de Office. ||| Versión mensual 1909 <br> 16.0.12026.20264 <br> Versión SACT 1908<br> (16.0.11929.20380)|
-Se encontró un problema por el que la notificación «Solucionar mi cuenta» no desaparece después de iniciar sesión correctamente.|||Versión SAC 1902 (16.0.11328.20438)|
+|Resumen|Aplicaciones afectadas|
+|:-------------------------------------------------------------------------------------|:---------------------|
+|Se identificó un problema que impedía que se pegaran hipervínculos en algunas hojas protegidas. <br><br> **Versión resuelta**: <br>Versión mensual 1909 (16.0.12026.20052) <br> Versión SACT 1908 (16.0.11929.20344) <br> Versión SAC 1902  (16.0.11328.20434)|Excel<br><br>
+|Se identificó un problema en la característica ideas de Excel, error al cargar el complemento haciendo clic en el botón ideas en el cliente de Win32. <br><br> **Versión resuelta**: <br>Versión mensual 1909 (16.0.12023.10000) <br> Versión SACT 1908 (16.0.11929.20352) <br>|Excel<br><br>
+|Se identificó un problema en el que solo se muestran 16 complementos al buscar en el administrador de complementos. <br><br>**Versión resuelta**: <br>Versión mensual 1909 (16.0.12026.20264) <br> Versión SACT 1908 (16.0.11929.20352) <br>|Excel<br><br>
+|Se identificó un problema que podría haber evitado que los archivos se guarden en una ubicación de WebDAV.<br><br>**Versión resuelta**: <br>Versión mensual 1909 (16.0.12026.20264)|Outlook<br><br>
+|Se Identificó un problema que provocaba que las direcciones URL de desplazamiento simple no se mostraran en algunos vínculos seguros.<br><br>**Versión resuelta**: <br> Versión SACT 1908 (16.0.11929.20370)|Outlook<br><br>
+|Se identificó un problema en el que las actualizaciones de la lógica de bloqueo de archivos adjuntos en Outlook también bloquea los archivos adjuntos de Python.<br><br>**Versión resuelta**: <br>Versión SACT 1908 (16.0.11929.20370)|Outlook<br><br>
+|Se identificó un problema que hacía que los usuarios observaran una pérdida de memoria en el proceso de Outlook.<br><br>**Versión resuelta**: <br>Versión mensual 1909 (16.0.12026.20264)<br> Versión SACT 1908 (16.0.11929.20370)|Outlook<br><br>
+|Se identificó un problema que podría causar la pérdida de datos en sesiones que involucraban tanto la coautoría como la edición sin conexión en PowerPoint.<br><br>**Versión resuelta**: <br>Versión mensual 1909 (16.0.12026.20264)<br>Versión SACT 1908 (16.0.11929.20370) |PowerPoint<br><br>
+|Se identificó un problema al crear un PDF o XPS desde el menú Archivo, por lo que no se crea el archivo. <br><br>**Versión resuelta**: <br>Versión SAC 1908 (16.0.11328.20428)|Project<br><br>
+|Se identificó un problema que los usuarios podrían encontrar al abrir un archivo.<br><br>**Versión resuelta**: <br>Versión mensual 1909 (16.0.12026.20264) <br> Versión SACT 1908 (16.0.11929.20340)|Word<br><br>
+|Se identificó un problema con los archivos de Office sincronizados por el motor de sincronización de OneDrive, los metadatos del documento como Requerir propiedades y Requisitos de tipo de contenido ya no se validan en Guardar y Guardar como.<br><br>**Versión resuelta**: <br>Versión SAC 1902 (16.0.11328.20426)|Word<br><br>
+|Se identificó un problema en el que las compilaciones actuales de JAWS en Windows no anunciarán palabras cuando se usa Mayús + Flecha derecha.<br><br>**Versión resuelta**: <br>Versión SAC 1902 (16.0.11328.20438)|Word<br><br>
+|Se identificó un problema al descargar las actualizaciones de Office mediante la reanudación de las descargas que pueden haberse interrumpido previamente.<br><br>**Versión resuelta**: <br> Versión SACT 1908 (16.0.11929.20380)|Conjunto de aplicaciones de Office<br><br>
+|Se identificó un problema en el que la notificación "Corregir mi cuenta" no desaparece después de iniciar sesión correctamente.<br><br>**Versión resuelta**: <br>Versión SAC 1902 (16.0.11328.20438)|Conjunto de aplicaciones de Office<br><br>
+|
+
 
 <br>
 <br>
