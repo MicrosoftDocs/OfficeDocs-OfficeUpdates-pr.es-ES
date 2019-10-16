@@ -3,19 +3,19 @@ title: Historial de versiones de Microsoft AutoUpdate (MAU)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/11/2019
+ms.date: 10/16/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales informáticos un historial de versiones de Microsoft AutoUpdate (MAU).
-ms.openlocfilehash: e4340d6a2d77f7b99febad35f8a5c046f89f023c
-ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
+ms.openlocfilehash: a8a80b68ef3b63a85aeca4e1786623244980c45b
+ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36838190"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523106"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historial de versiones de Microsoft AutoUpdate (MAU)
  
@@ -31,6 +31,24 @@ En la siguiente tabla, se proporciona información del historial de versiones de
 
 Para ver las notas de la versión, consulte [Notas de la versión.](release-notes-office-for-mac.md)<br/><br/>
 
+## <a name="october-2019-release"></a>Versión de octubre de 2019
+
+**Fecha de lanzamiento:** 15 de octubre de 2019
+
+*Actualización automática de Microsoft 4.16*
+
+ **Actualizaciones de características:**
+
+- Al iniciar Microsoft AutoUpdate 4.16, la nueva y mejorada experiencia del usuario final ya está disponible para todos los clientes.
+
+
+**Vínculo para actualización de MAU:**
+
+[Descargar Microsoft Auto Update 4.16 Package](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 Hash:**
+
+5BEA94F8AA2BD4F4398B3E5EDE0EA2F406440B8ACAD46B3DACE904824B41052C<br/><br/>
 ## <a name="september-2019-release"></a>Versión de septiembre de 2019
 
 **Fecha de lanzamiento:** 10 de septiembre de 2019

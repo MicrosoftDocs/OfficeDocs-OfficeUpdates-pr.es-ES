@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual (dirigido) de Office 365 ProPlus en 2019.
-ms.openlocfilehash: da3ed0689645e665ee2e6c265ed42e22b16e15ab
-ms.sourcegitcommit: d4aaac5012137e1131fdccb189d2c8b43c49946f
+ms.openlocfilehash: 932a52dd77bd7ab10217faef92fbc0cef02fca07
+ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "37437672"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37508855"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de la versión para las versiones de Canal semianual (dirigido) en 2019
 
@@ -23,6 +23,25 @@ En estas notas de la versión, se proporciona información sobre característica
 > [!NOTE]
 > - A menudo publicamos características (y a veces incluso correcciones) para el Canal semianual (dirigido) durante un período de tiempo. Si no ve algo que se describe a continuación de inmediato, lo verá pronto. [Más información](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - Microsoft Teams está incluido en las nuevas instalaciones de canal semianual (dirigido), empezando por la versión 1902. Se agregará Teams a las instalaciones existentes de canal semianual (dirigido) cuando se actualicen a la versión 1908 o posterior. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/es-ES/deployoffice/teams-install).
+
+## <a name="version-1908-october-14"></a>Versión 1908: 14 de octubre
+*Versión 1908 (compilación 11929.20396)*
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="non-security-updates"></a>Actualizaciones que no son de seguridad
+### <a name="excel"></a>Excel
+
+- <div>Se resolvió un problema con Buscar y reemplazar que cambiaba el enfoque en el cuadro de diálogo después de encontrar el primer elemento.</div>
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Se resolvió un problema por el cual los usuarios no podían guardar documentos de Word, Excel y PowerPoint.  Este problema afecta a los usuarios que crean un nuevo archivo y abren la opción "Guardar como cuadro de diálogo" después de hacer clic en el icono Guardar o presionar Ctrl + g.
+
+- Se resolvió un problema en el que, en determinadas circunstancias, los accesos directos de Office desaparecían después de una actualización.  Esta actualización mejora la confiabilidad al publicar los accesos directos de Office.
+
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
 
 ## <a name="version-1908-october-08"></a>Versión 1908: 8 de octubre
 *Versión 1908 (compilación 11929.20388)*

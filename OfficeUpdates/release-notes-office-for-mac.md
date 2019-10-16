@@ -3,19 +3,19 @@ title: Notas de la versión de Office para Mac
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 9/19/2019
+ms.date: 10/16/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales de TI las notas de la versión de las versiones de Office para Mac para los suscriptores de Office 356
-ms.openlocfilehash: 4908b1e9cabf7bf273fe301a332841c0581a1c0c
-ms.sourcegitcommit: 2d7022fa8948c721aa334245d499a32f39c50d3d
+ms.openlocfilehash: fd48bba268faa49e78d4ce6100a895d2597cc224
+ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2019
-ms.locfileid: "37040698"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523146"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de la versión de Office para Mac
 
@@ -31,9 +31,36 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 > - A partir de la versión 16.17 de septiembre de 2018, estas notas de la versión también se aplican a Office 2019 para Mac, que es una versión de Office para Mac que está disponible como una compra de pago única en una tienda o a través de un contrato de licencias por volumen. Pero algunas de las características que se muestran en las notas de la versión solo están disponibles si tiene una suscripción de Office 365.
 > - La notas de la versión para la versión 16.16 y anteriores también se aplican a Office 2016 para Mac, que también es una versión de Office para Mac disponible como una compra de pago único. Las versiones anteriores hasta la 16.16 (inclusive) se pueden activar con una licencia por volumen de Office 2016 para Mac. No se puede activar la versión 16.17 o posterior con una licencia por volumen de Office 2016 para Mac. Para obtener información sobre las versiones de Office 2016 para Mac a partir de septiembre, vea [Notas de la versión de Office 2016 para Mac](release-notes-office-2016-mac.md).
 > > 
-> - A menudo se lanzan características (y a veces incluso correcciones) para el canal mensual durante un período de tiempo. Esto nos permite asegurarnos de que todo funciona correctamente antes de publicar la característica para un público más amplio. Por tanto, si a continuación no ve algo descrito, no se preocupe, lo recibirá con el tiempo. [Más información](https://support.office.com/es-ES/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - A menudo se lanzan características (y a veces incluso correcciones) para el canal mensual durante un período de tiempo. Esto nos permite asegurarnos de que todo funciona correctamente antes de publicar la característica para un público más amplio. Por tanto, si a continuación no ve algo descrito, no se preocupe, lo recibirá con el tiempo. [Más información](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 **Nota:** la información de la versión de Microsoft AutoUpdate (MAU) se ha trasladado a la página [Historial de versiones MAU](https://docs.microsoft.com/es-ES/officeupdates/release-history-microsoft-autoupdate).<br/>
+
+## <a name="october-15-2019-release"></a>Versión de 15 de octubre de 2019
+*Versión 16.30 (compilación 19101301)*
+
+### <a name="word-feature-updates"></a>Word: actualizaciones de características
+
+- **Edite su archivo PDF en Word:** abra el PDF, conviértalo en un documento de Word y comience a editarlo.
+### <a name="excel--feature-updates"></a>Excel: actualizaciones de características
+
+- **Complemento de Excel para visualizar datos de Visio:** visualice rápida y fácilmente sus datos en Excel con elegantes diagramas de Visio. [Más información](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+
+
+ ### <a name="excel-security-updates"></a>Excel: actualizaciones de seguridad
+
+- [CVE-2019-1327](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-1327): Vulnerabilidad de ejecución remota de código de Microsoft Excel
+- [CVE-2019-1331](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-1331): Vulnerabilidad de ejecución remota de código de Microsoft Excel
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
+
+- **Repetición de tinta instantánea:** anime un dibujo con tinta para que se reproduzca hacia adelante o hacia atrás durante la presentación. [Más información](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496
+)
+
+
+### <a name="outlook-feature-updates"></a>Outlook: actualizaciones de características
+
+- Corregidos varios problemas de rendimiento.<br/><br/>
 
 ## <a name="september-18-2019-release"></a>Versión del 18 de septiembre de 2019
 *Versión 16.29.1 (compilación 19091700)*

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Office 365 ProPlus según el canal de actualización.
-ms.openlocfilehash: a992b6c832e82aac563b22354cb18a1c9176632d
-ms.sourcegitcommit: 29f758e10f808e181cc1fbe487023103353672a8
+ms.openlocfilehash: 3a89ea83f16fe302326b963d712f08f4f1573a32
+ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/08/2019
-ms.locfileid: "37423895"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37508845"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 
@@ -29,6 +29,32 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 > - Se muestran las versiones de los últimos cuatro meses.
 
 [//]: # (NO ELIMINAR)
+
+## <a name="october-14-2019"></a>14 de octubre de 2019
+
+[//]: # (NO ELIMINAR CONTENIDO INICIAL 14 de octubre de 2019)
+
+### <a name="monthly-channel"></a>Canal mensual
+
+La versión más actual es la 1909 (compilación 12026.20334).
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1909 (compilación 12026.20320) <br/> |8 de octubre de 2019 <br/> |57<br/> |
+|Versión 1909 (compilación 12026.20264) <br/> |30 de septiembre de 2019 <br/> |67<br/> |
+
+
+### <a name="semi-annual-targeted-channel"></a>Canal semianual (dirigido)
+
+La versión más actual es la 1908 (compilación 11929.20396).
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1908 (compilación 11929.20388) <br/> |8 de octubre de 2019 <br/> |59<br/> |
+|Versión 1908 (compilación 11929.20300) <br/> |10 de septiembre de 2019 <br/> |71<br/> |
+
+
+[//]: # (NO ELIMINAR CONTENIDO FINAL 14 de octubre de 2019)
 
 ## <a name="october-8-2019"></a>8 de octubre de 2019
 
