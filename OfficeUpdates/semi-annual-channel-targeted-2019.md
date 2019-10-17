@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual (dirigido) de Office 365 ProPlus en 2019.
-ms.openlocfilehash: 932a52dd77bd7ab10217faef92fbc0cef02fca07
-ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
+ms.openlocfilehash: 1416d7cfba623a37b0f206790e445b11d4be87e7
+ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
 ms.translationtype: HT
 ms.contentlocale: es-ES
 ms.lasthandoff: 10/15/2019
-ms.locfileid: "37508855"
+ms.locfileid: "37523136"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de la versión para las versiones de Canal semianual (dirigido) en 2019
 
@@ -23,6 +23,14 @@ En estas notas de la versión, se proporciona información sobre característica
 > [!NOTE]
 > - A menudo publicamos características (y a veces incluso correcciones) para el Canal semianual (dirigido) durante un período de tiempo. Si no ve algo que se describe a continuación de inmediato, lo verá pronto. [Más información](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - Microsoft Teams está incluido en las nuevas instalaciones de canal semianual (dirigido), empezando por la versión 1902. Se agregará Teams a las instalaciones existentes de canal semianual (dirigido) cuando se actualicen a la versión 1908 o posterior. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/es-ES/deployoffice/teams-install).
+
+## <a name="version-1909-october-15"></a>Versión 1909: 15 de octubre
+*Versión 1908 (compilación 11929.20396)*
+
+### <a name="non-security-updates"></a>Actualizaciones que no son de seguridad
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+- Hemos desactivado el cuadro de diálogo Guardar en la nube de forma temporal para solucionar el problema de almacenamiento que publicamos el 14 de octubre de 2019. Esta característica se habilitará de nuevo cuando transcurra el período de almacenamiento en caché de 7 días.
 
 ## <a name="version-1908-october-14"></a>Versión 1908: 14 de octubre
 *Versión 1908 (compilación 11929.20396)*
@@ -37,7 +45,7 @@ En estas notas de la versión, se proporciona información sobre característica
 
 ### <a name="office-suite"></a>Conjunto de aplicaciones de Office
 
-- Se resolvió un problema por el cual los usuarios no podían guardar documentos de Word, Excel y PowerPoint.  Este problema afecta a los usuarios que crean un nuevo archivo y abren la opción "Guardar como cuadro de diálogo" después de hacer clic en el icono Guardar o presionar Ctrl + g.
+- Se resolvió un problema que impedía a los usuarios guardar documentos de Word, Excel y PowerPoint.  Este problema afecta a los usuarios que crean un nuevo archivo y muestra la opción "Guardar como diálogo" después de hacer clic en el icono Guardar o presionar Ctrl + S.
 
 - Se resolvió un problema en el que, en determinadas circunstancias, los accesos directos de Office desaparecían después de una actualización.  Esta actualización mejora la confiabilidad al publicar los accesos directos de Office.
 
