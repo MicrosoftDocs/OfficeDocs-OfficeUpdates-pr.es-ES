@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales de TI las notas de la versión de las versiones de Office para Mac para los suscriptores de Office 356
-ms.openlocfilehash: fd48bba268faa49e78d4ce6100a895d2597cc224
-ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
+ms.openlocfilehash: e9e6dc1442a2b7b50f968b09a059e35f42bf0a33
+ms.sourcegitcommit: bd2285bb5931e247232bb31c47f7fcc8147360d4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523146"
+ms.lasthandoff: 10/17/2019
+ms.locfileid: "37564761"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de la versión de Office para Mac
 
@@ -43,7 +43,7 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 - **Edite su archivo PDF en Word:** abra el PDF, conviértalo en un documento de Word y comience a editarlo.
 ### <a name="excel--feature-updates"></a>Excel: actualizaciones de características
 
-- **Complemento de Excel para visualizar datos de Visio:** visualice rápida y fácilmente sus datos en Excel con elegantes diagramas de Visio. [Más información](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- Corregidos varios problemas de rendimiento.
 
 
 
