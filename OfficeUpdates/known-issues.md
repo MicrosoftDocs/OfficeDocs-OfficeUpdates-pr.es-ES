@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Ofrece información acerca de los problemas conocidos de Office 365 ProPlus
-ms.openlocfilehash: 60706952efab5ec1379cbe260442b5865f599f28
-ms.sourcegitcommit: 34571aa50b48a2111dee315f0ebf2e5f90cdf434
+ms.openlocfilehash: 8872d045698d314bcd2d911df744a696cbd60c5f
+ms.sourcegitcommit: d0863aa4ffd223e663bbbf4be0182192b127795e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37574378"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37593781"
 ---
 # <a name="office-365-proplus-known-issues"></a>Problemas conocidos de Office 365 ProPlus
 
@@ -33,6 +33,7 @@ En esta tabla se ofrece un resumen de los problemas actualmente activos y los pr
 |Resumen|Aplicaciones afectadas|
 |:-------------------------------------------------------------------------------------|:---------------------|
 |Se identificó un problema con Buscar y reemplazar que cambiaba el enfoque en el cuadro de diálogo después de encontrar el primer elemento. <br><br> **Versión resuelta**: <br> Versión SACT 1908 (16.0.11929.20396) |Excel<br><br>
+|Se identificó un problema con el rendimiento del filtrado por colores. <br><br> **Versión resuelta**: <br>Versión mensual 1909 (16.0.12026.20264) <br>|Excel<br><br>
 |Se logró identificar un problema que provocaba que los usuarios experimentaran un error de permiso al copiar elementos de su calendario principal en un calendario de grupo.<br><br> **Estado**: Investigando|Outlook<br><br>
 |Se identificó un problema de rendimiento en Win7, donde la galería de insertar formas de la cinta de opciones de todas las aplicaciones tardó aproximadamente 4 segundos en aparecer. <br><br> **Versión resuelta**: <br>Versión mensual 1909 (16.0.12026.20264) <br> Versión SACT 1908 (16.0.11929.20396)|PowerPoint<br><br>
 |Se identificó un problema en el que, en determinadas circunstancias, los accesos directos de Office desaparecían después de una actualización.  <br><br> **Estado**: Investigando|Conjunto de aplicaciones de Office<br><br>
