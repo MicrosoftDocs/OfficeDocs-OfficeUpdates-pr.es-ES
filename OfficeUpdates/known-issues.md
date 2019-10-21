@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Ofrece información acerca de los problemas conocidos de Office 365 ProPlus
-ms.openlocfilehash: f27b398126d58c9d5eec42641a21418d943a3f64
-ms.sourcegitcommit: 4ba28e050cec1970fa1a81e79dc03bfa881780e9
+ms.openlocfilehash: 60706952efab5ec1379cbe260442b5865f599f28
+ms.sourcegitcommit: 34571aa50b48a2111dee315f0ebf2e5f90cdf434
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37520074"
+ms.lasthandoff: 10/17/2019
+ms.locfileid: "37574378"
 ---
 # <a name="office-365-proplus-known-issues"></a>Problemas conocidos de Office 365 ProPlus
 
@@ -32,7 +32,9 @@ En esta tabla se ofrece un resumen de los problemas actualmente activos y los pr
 
 |Resumen|Aplicaciones afectadas|
 |:-------------------------------------------------------------------------------------|:---------------------|
-|Se identificó un problema con Buscar y reemplazar que cambiaba el enfoque en el cuadro de diálogo después de encontrar el primer elemento. <br><br> **Estado**: Investigando|Excel<br><br>
+|Se identificó un problema con Buscar y reemplazar que cambiaba el enfoque en el cuadro de diálogo después de encontrar el primer elemento. <br><br> **Versión resuelta**: <br> Versión SACT 1908 (16.0.11929.20396) |Excel<br><br>
+|Se logró identificar un problema que provocaba que los usuarios experimentaran un error de permiso al copiar elementos de su calendario principal en un calendario de grupo.<br><br> **Estado**: Investigando|Outlook<br><br>
+|Se identificó un problema de rendimiento en Win7, donde la galería de insertar formas de la cinta de opciones de todas las aplicaciones tardó aproximadamente 4 segundos en aparecer. <br><br> **Versión resuelta**: <br>Versión mensual 1909 (16.0.12026.20264) <br> Versión SACT 1908 (16.0.11929.20396)|PowerPoint<br><br>
 |Se identificó un problema en el que, en determinadas circunstancias, los accesos directos de Office desaparecían después de una actualización.  <br><br> **Estado**: Investigando|Conjunto de aplicaciones de Office<br><br>
 |Se identificó un problema por el cual los usuarios no podían guardar documentos de Word, Excel y PowerPoint.  Este problema afecta a los usuarios que crean un nuevo archivo y abren la opción "Guardar como cuadro de diálogo" después de hacer clic en el icono Guardar o presionar Ctrl + g.<br><br> **Versión resuelta**: <br>Versión mensual 1909 (16.0.12026.20334) <br> Versión SACT 1908 (16.0.11929.20396)|Conjunto de aplicaciones de Office<br><br>
 |
@@ -54,7 +56,7 @@ En esta tabla se ofrece un resumen de los problemas actualmente activos y los pr
 |Se identificó un problema que podría causar la pérdida de datos en sesiones que involucraban tanto la coautoría como la edición sin conexión en PowerPoint.<br><br>**Versión resuelta**: <br>Versión mensual 1909 (16.0.12026.20264)<br>Versión SACT 1908 (16.0.11929.20370) |PowerPoint<br><br>
 |Se identificó un problema al crear un PDF o XPS desde el menú Archivo, por lo que no se crea el archivo. <br><br>**Versión resuelta**: <br>Versión SAC 1908 (16.0.11328.20428)|Project<br><br>
 |Se identificó un problema que los usuarios podrían encontrar al abrir un archivo.<br><br>**Versión resuelta**: <br>Versión mensual 1909 (16.0.12026.20264) <br> Versión SACT 1908 (16.0.11929.20340)|Word<br><br>
-|Se identificó un problema con los archivos de Office sincronizados por el motor de sincronización de OneDrive, los metadatos del documento como Requerir propiedades y Requisitos de tipo de contenido ya no se validan en Guardar y Guardar como.<br><br>**Versión resuelta**: <br> Versión mensual 1906 (16.0.11727.20210)<br>Versión SAC 1902 (16.0.11328.20426)|Word<br><br>
+|Se identificó un problema con los archivos de Office sincronizados por el motor de sincronización de OneDrive, los metadatos del documento como Requerir propiedades y Requisitos de tipo de contenido ya no se validan en Guardar y Guardar como.<br><br>**Versión resuelta**: <br> Versión mensual 1906 (16.0.11727.20210)<br>Versión SAC 1902 (16.0.11328.20438)|Word<br><br>
 |Se identificó un problema en el que las compilaciones actuales de JAWS en Windows no anunciarán palabras cuando se usa Mayús + Flecha derecha.<br><br>**Versión resuelta**: <br>Versión mensual 1904 (16.0.11601.20144)<br>Versión SAC 1902 (16.0.11328.20438)|Word<br><br>
 |Se identificó un problema al descargar las actualizaciones de Office mediante la reanudación de las descargas que pueden haberse interrumpido previamente.<br><br>**Versión resuelta**: <br> Versión SACT 1908 (16.0.11929.20380)|Conjunto de aplicaciones de Office<br><br>
 |Se identificó un problema en el que la notificación "Corregir mi cuenta" no desaparece después de iniciar sesión correctamente.<br><br>**Versión resuelta**: <br>Versión SAC 1902 (16.0.11328.20438)|Conjunto de aplicaciones de Office<br><br>
