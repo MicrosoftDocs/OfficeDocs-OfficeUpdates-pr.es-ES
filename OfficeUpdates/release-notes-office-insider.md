@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: d55140544fff10e89ae061ba137d0516a8a9b181
-ms.sourcegitcommit: 9adeb1f93a176a586c2e12f7692141c4de3c1d9b
+ms.openlocfilehash: 688f469ac559bd60f8bb309c49af83c5d33751b7
+ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37471335"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595328"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -29,6 +29,92 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
 [//]: # (NO ELIMINAR)
 
+
+## <a name="version-1911-october-18"></a>Versión 1911: 18 de octubre
+*Versión 1911 (compilación 12209.20010)*
+
+
+[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="outlook"></a>Outlook
+
+- **Enviar un correo electrónico accesible a los usuarios que más lo necesitan:** Outlook mostrará una sugerencia de correo para ayudarlo a asegurarse de que el contenido sea accesible al enviarlo a un usuario que prefiera el contenido accesible
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Optimizar la presentación para todos:** El comprobador de accesibilidad le ayuda a organizar los objetos de las diapositivas pensando en los lectores de pantalla.
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- **El centro de carga será reemplazado por la experiencia de los archivos que necesitan atención:** El centro de carga será reemplazado por la experiencia de los archivos que necesitan atención que aparecerá dentro de las aplicaciones de Office en Archivo > Abrir. Esta nueva experiencia es más moderna, integrada y menos intrusiva que el centro de carga.
+
+
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="non-security-updates"></a>Actualizaciones que no son de seguridad
+### <a name="excel"></a>Excel
+
+- <div><span>Corregimos un problema en el que los controles de casilla podían reducirse al usar el autoajuste para ajustar el alto de fila</span></div>
+
+
+- <div><span>Corregimos un problema en el que al seleccionar una celda luego de desplazar, podía resultar en la selección de la celda incorrecta</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Identificamos un problema que podía provocar la ruptura de las firmas digitales al firmar un correo electrónico con un adjunto firmado digitalmente</span></div>
+
+
+- <div><span>Identificamos un problema en el que los nombres de archivo largos se truncaban después de arrastrarlos y soltarlos en el cuerpo del mensaje</span></div>
+
+
+- <div>Identificamos un problema en el cual el cuadro de búsqueda podía llegar a desaparecer cuando la cinta estaba configurada para ocultarse automáticamente</div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span></span></div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">Identificamos un problema en el cual la relación de aspecto de la vista previa de las diapositivas no se bloqueaba o desbloqueaba correctamente</span>
+
+
+### <a name="security"></a>Seguridad
+
+- <div><span>Identificamos un problema en el cual un mensaje de bienvenida incluía un vínculo no válido</span></div>
+
+
+### <a name="project"></a>Proyecto
+
+- <div>Identificamos un problema en el que las notas no se conservaban si se creaban mientras se realizaban tareas de actualización.<br></div>
+
+
+- <div>Identificamos un problema por el que un usuario podía bloquear un archivo, pero no se mostraba ningún nombre de usuario en el mensaje de error.</div>
+
+
+- <div><span>Identificamos un problema en el que los usuarios podían recibir varios mensajes al abrir un proyecto de solo lectura</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>Identificamos un problema al ver los comentarios mientras se usa un lector de pantalla</span></div>
+
+
+- <div><span>Identificamos un problema en el que algunos análisis eran identificados erróneamente como análisis de ortografía o gramática</span></div>
+
+
+- <div><span>Identificamos un problema por el que algunas veces un nuevo diálogo de comentario no podía obtener el foco</span></div>
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- <div><span>Corregimos un problema en el cual actualizar Office podía resultar en un mensaje de error incorrecto de &quot;Otra instalación en curso&quot;</span></div>
+
+- <div><span>Identificamos un problema que podía afectar la sincronización de un recurso local a un recurso en la nube</span></div>
+
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
 
 ## <a name="version-1910-october-11"></a>Versión 1910: 11 de octubre
 *Versión 1910 (compilación 12130.20112)*
