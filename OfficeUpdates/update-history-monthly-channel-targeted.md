@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a participantes del programa Insider el historial de actualizaciones de los lanzamientos del canal mensual de Office (dirigido) para versiones de escritorio de Windows
-ms.openlocfilehash: 830179b4afed238c40bccaaa22d873cac227915a
-ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
+ms.openlocfilehash: cddcd92805a9abeeb0ab31fe2822a251335ef87f
+ms.sourcegitcommit: a7df5bc43c95aeefb16cd4296eef29921d75f818
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37508885"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37644141"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Historial de actualizaciones del canal mensual de Office (dirigido) para Windows
 
@@ -34,13 +34,16 @@ Si está inscrito en el nivel del canal mensual (dirigido), anteriormente denomi
 
 [//]: # (NO ELIMINAR)
 
-**14 de octubre de 2019**<br/>
+**22 de octubre de 2019**<br/>
+Versión 1910 (compilación 12130,20210)<br/>
+
+**14 de octubre en 2019**<br/>
 Versión 1910 (compilación 12130,20184)<br/>
 
-**14 de octubre de 2019**<br/>
+**14 de octubre en 2019**<br/>
 Versión 1910 (compilación 12130,20178)<br/>
 
-**8 de octubre de 2019**<br/>
+**08 de octubre de 2019**<br/>
 Versión 1909 (compilación 12026.20320)<br/>
 
 **28 de septiembre de 2019**<br/>
@@ -174,8 +177,7 @@ Versión 1903 (compilación 11425.20204)<br/>
 **Office Insider en Twitter**<br/> En @OfficeInsider, realizamos publicaciones frecuentes sobre los lanzamientos de Insider y celebramos eventos especiales para participantes del programa.<br/> 
 [Síganos en Twitter](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-
-  [
+[
   ![Imagen que muestra el icono de Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
 
 
