@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2019
-ms.openlocfilehash: 2943fc287038498cd62c42932aebb5c216676619
-ms.sourcegitcommit: 5787a23a670c1b2412e7437d33124f6c5b80550c
+ms.openlocfilehash: f60a8ef5b2f4613ab4e5e4d49dbc6db06a5656cf
+ms.sourcegitcommit: a7df5bc43c95aeefb16cd4296eef29921d75f818
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37553827"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37644191"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal mensual en 2019
 
@@ -24,12 +24,31 @@ En estas notas de la versión, se proporciona información sobre característica
 >- A menudo distribuimos características (y a veces incluso correcciones) para el Canal mensual durante un período de tiempo.  Si no ve algo que se describe a continuación de inmediato, lo verá pronto. [Más información](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a comienzos de julio, las actualizaciones de Office 365 ProPlus (y Office 365 Empresa) incluirán Microsoft Teams.  La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/es-ES/deployoffice/teams-install).
 
+## <a name="version-1909-october-22"></a>Versión 1909: 22 de octubre
+*Versión 1909 (compilación 12026.20344)*
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="non-security-updates"></a>Actualizaciones que no son de seguridad
+### <a name="project"></a>Proyecto
+- Se resolvió un problema por el que los usuarios podían obtener varios mensajes al abrir un proyecto de sólo lectura.
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Para proteger la seguridad de los clientes de Office, las actualizaciones de Microsoft Office se firman ahora utilizando exclusivamente el algoritmo SHA-2.<br></div>
+
+
+
+[//]: # (NO QUITAR DETALLES DEL ERROR DEL CONTENIDO FINAL)
+
+
 ## <a name="october-15"></a>15 de octubre
 
 ### <a name="non-security-updates"></a>Actualizaciones que no son de seguridad
 
 ### <a name="office-suite"></a>Conjunto de aplicaciones de Office
 - Hemos desactivado el cuadro de diálogo Guardar en la nube de forma temporal para solucionar el problema de almacenamiento que publicamos el 14 de octubre de 2019 para las compilaciones posteriores a la versión 12130.20184. Esta característica se volverá a habilitar próximamente.
+
 
 ## <a name="version-1909-october-14"></a>Versión 1909: 14 de octubre
 *Versión 1909 (compilación 12026.20334)*

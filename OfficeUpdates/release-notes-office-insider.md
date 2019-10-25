@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 688f469ac559bd60f8bb309c49af83c5d33751b7
-ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
+ms.openlocfilehash: 84c2c6eab8a590979e5578e7e4bd1fb1ca1df8a9
+ms.sourcegitcommit: d5f74908719192bf15836140fca7d160de2bccd1
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595328"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37653443"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -78,13 +78,7 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- <div><span></span></div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">Identificamos un problema en el cual la relación de aspecto de la vista previa de las diapositivas no se bloqueaba o desbloqueaba correctamente</span>
-
-
-### <a name="security"></a>Seguridad
-
-- <div><span>Identificamos un problema en el cual un mensaje de bienvenida incluía un vínculo no válido</span></div>
-
+- <div><span>Se identificó un problema en el que la relación de aspecto de la vista previa de diapositivas no estaba siendo correctamente bloqueada/desbloqueada. </span></div>
 
 ### <a name="project"></a>Proyecto
 
@@ -113,6 +107,9 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 - <div><span>Corregimos un problema en el cual actualizar Office podía resultar en un mensaje de error incorrecto de &quot;Otra instalación en curso&quot;</span></div>
 
 - <div><span>Identificamos un problema que podía afectar la sincronización de un recurso local a un recurso en la nube</span></div>
+
+- <div><span>Identificamos un problema en el cual un mensaje de bienvenida contenía un vínculo no válido</span></div>
+
 
 [//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
 
@@ -1807,7 +1804,7 @@ Cree un archivo docm en OneDrive para la empresa, compártalo con sus compañero
 - Se ha corregido un problema por el que Outlook no eliminaba las salas locales después de que los usuarios seleccionasen una sala disponible en el Buscador de salas
 
 ### <a name="access"></a>Access
-- Se ha corregido el cuadro de diálogo de importación y exportación guardada que tenía texto blanco sobre fondo blanco en el tema oscuro
+- Se ha corregido el cuadro de diálogo de importación/exportación guardado que tenía texto blanco sobre fondo blanco en el tema oscuro
 - Se ha corregido un problema por el que los usuarios no podían establecer la propiedad de Control de pantalla de un campo Sí/No como Cuadro de texto en el diseño de tabla
 
 ### <a name="project"></a>Project
