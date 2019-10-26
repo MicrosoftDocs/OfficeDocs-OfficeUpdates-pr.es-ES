@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual (dirigido) de Office 365 ProPlus en 2019.
-ms.openlocfilehash: b7d3805f0305556362573c43606dcdc6f6755247
-ms.sourcegitcommit: 5787a23a670c1b2412e7437d33124f6c5b80550c
+ms.openlocfilehash: 8f023bc4e4155b17cb35ad85874b0c045f043da5
+ms.sourcegitcommit: 33bb47548810efeb6cd5c727c3487192fe6364a8
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37553817"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37733003"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de la versión para las versiones de Canal semianual (dirigido) en 2019
 
@@ -198,7 +198,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - **Aumentar el alcance de su contenido:** ¿necesita hacer que sus documentos sean accesibles? Deje que el comprobador de accesibilidad le ayude sin estorbar. Pruébelo en Revisar > Comprobar accesibilidad y le informaremos en la barra de estado de cuando necesitemos que compruebe algo.
 
-- **Agregue color a la página:** los nuevos colores de página significan que, si no hay ningún fondo blanco o negro, se trata de una copia instantánea para cambiarlo.
+- **El modo herramientas de aprendizaje tiene soporte adicional para más colores de página: **las herramientas de aprendizaje de Word son compatibles con más colores de tema de página, lo que permite cambiar el color de fondo de la página. Muchas personas tienen dificultades para leer con un fondo totalmente blanco o negro, por lo que hemos ampliado la elección de colores en Word para PC y Mac.
 
 - **Cambiar sin problemas:** el nuevo administrador de cuentas muestra todas sus cuentas personales y profesionales de Office 365 en un solo lugar. Cambiar de una a otra nunca había sido tan fácil. [Más información](https://support.office.com/es-ES/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
