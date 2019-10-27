@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 84c2c6eab8a590979e5578e7e4bd1fb1ca1df8a9
-ms.sourcegitcommit: d5f74908719192bf15836140fca7d160de2bccd1
+ms.openlocfilehash: 22f4c64af414ed85db06bb4e7771f091076940ef
+ms.sourcegitcommit: 33bb47548810efeb6cd5c727c3487192fe6364a8
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37653443"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37733014"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -29,6 +29,97 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
 [//]: # (NO ELIMINAR)
 
+
+## <a name="version-1911-october-25"></a>Versión 1911: 25 de octubre
+*Versión 1911 (compilación 12215.20006)*
+
+
+[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="visio"></a>Visio
+
+- ** Haga diagramas de Visio pulidos en Excel:** Visualice rápida y fácilmente sus datos en diagramas Visio pulidos dentro de Excel. [Más información](https://support.office.com/es-ES/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+### <a name="word"></a>Word
+
+- **Mejoras en la coautoría:** Mejoró la experiencia de coautoría al hacer más probable que los cambios de contenido sean recibidos por otros en tiempo real.
+
+- **Otros usuarios verán los cambios rápidamente**: con las mejoras en la coautoría, los colaboradores podrán ver los cambios más rápido que nunca.
+
+
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="access"></a>Access
+
+- <div><span>El número de registros podría ser incorrecto</span></div>
+
+
+### <a name="excel"></a>Excel
+
+- <div><span>Rendimiento significativamente superior al eliminar columnas con celdas combinadas</span></div>
+
+
+- <div><span>Se podría impedir que los usuarios guarden en formato de la hoja de trabajo de Office 365 Excel</span></div>
+
+
+- <div><span>Las casillas de verificación no se pueden renderizar correctamente</span></div>
+
+
+- <div><span>Los cambios en el tamaño del gráfico no se han podido guardar</span></div>
+
+
+- <div><span>Algunas funciones VBA devolverían un error en los nuevos tipos de gráficos</span></div>
+
+
+- <div><span>Los cuadros de diálogo de selección de fuentes de datos no distinguen entre mayúsculas y minúsculas en algunos campos. </span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>Los cambios en el tamaño del gráfico no se han podido guardar</span></div>
+
+
+### <a name="publisher"></a>Publisher
+
+- <div><span>Las formas pueden aparecer fuera del borde del gráfico</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>Las formas pueden aparecer fuera del borde del gráfico</span></div>
+
+
+- <div><span>Resaltar el texto podría ser un reto</span></div>
+
+
+- <div><span>Se puede impedir que un usuario navegue a un elemento individual en el editor</span></div>
+
+
+- <div><span>Los errores gramaticales u ortográficos pueden no estar resaltados</span></div>
+
+
+- <div><span>Los cambios en el tamaño del gráfico no se han podido guardar</span></div>
+
+
+- <div><span>Se podría evitar que una tarjeta de contacto se abra después de aplicar formato a una mención @</span></div>
+
+
+- <div><span>Corregido el problema en el que los usuarios no podían guardar documentos de Word, Excel y PowerPoint.&nbsp;Este problema afecta a los usuarios que crean un nuevo archivo y abren la opción&quot; guardar como dialogo modelo&quot; después de hacer clic en el icono guardar o presionar Ctrl + S. </span></div>
+
+
+### <a name="office-suite"></a>Conjunto de programas de Office
+
+- <div><span>Problema de rendimiento al usar Shapes en Windows 7</span></div>
+
+
+
+[//]: # (No elimine los detalles del error del contenido final)
 
 ## <a name="version-1911-october-18"></a>Versión 1911: 18 de octubre
 *Versión 1911 (compilación 12209.20010)*
@@ -1745,7 +1836,7 @@ Descubra el Modo Focalizado y trabaje sin distracciones
 - Se ha corregido un problema por el que las confirmaciones de lectura eran incorrectas cuando se veían en japonés.
 
 ### <a name="access"></a>Access
-- Varias correcciones de rendimiento y estabilidad.
+- Diversas correcciones de rendimiento y estabilidad.
 
 ### <a name="project"></a>Project
 - Varias correcciones de rendimiento y estabilidad.
