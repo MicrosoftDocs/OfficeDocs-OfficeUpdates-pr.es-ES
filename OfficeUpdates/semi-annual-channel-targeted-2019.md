@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual (dirigido) de Office 365 ProPlus en 2019.
-ms.openlocfilehash: 8f023bc4e4155b17cb35ad85874b0c045f043da5
-ms.sourcegitcommit: 33bb47548810efeb6cd5c727c3487192fe6364a8
+ms.openlocfilehash: c763167c1d2634c2c5baab54d3db2998921918ef
+ms.sourcegitcommit: 28b363a14142849ada83979106d2ff8ecfb9df9d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37733003"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890039"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de la versión para las versiones de Canal semianual (dirigido) en 2019
 
@@ -131,8 +131,6 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 - **Creación en el tiempo entre las reuniones consecutivas:** asigne a los asistentes el tiempo para descansar o desplazarse entre las distintas ubicaciones al configurar reuniones para finalizar 5 a 10 minutos antes de forma predeterminada.
 
 - **Verán los memes que comparta:** cuando un texto o imágenes estáticas no consigan comunicar lo que desea, use un GIF animado para aclararlo. [Más información](https://support.office.com/es-ES/article/114bb251-861f-41cd-b20f-7e7289630c5b)
-
-- **La configuración de la bandeja de entrada prioritaria permanece igual en todos los dispositivos:** ahora, las preferencias de la Bandeja de entrada Prioritarios se almacenan en la nube. Disfrute de la misma experiencia al usar Outlook para Windows en cualquier equipo y Outlook en la Web. [Más información](https://support.office.com/es-ES/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
 
 - **Hemos actualizado la experiencia de usuario de Outlook para usted:** una experiencia simplificada, anteriormente disponible para su vista previa con Próximamente, diseñada para ayudarle a centrarse en lo más importante. [Más información](https://support.office.com/es-ES/article/db503157-1b45-45d5-af52-e9c978cd8bed)
 
