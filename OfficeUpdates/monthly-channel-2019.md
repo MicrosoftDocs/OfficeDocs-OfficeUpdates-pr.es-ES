@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2019
-ms.openlocfilehash: f60a8ef5b2f4613ab4e5e4d49dbc6db06a5656cf
-ms.sourcegitcommit: a7df5bc43c95aeefb16cd4296eef29921d75f818
+ms.openlocfilehash: b8481a71f1f861a9c8a0aace797c1f8dd46dd54b
+ms.sourcegitcommit: 28b363a14142849ada83979106d2ff8ecfb9df9d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37644191"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890029"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal mensual en 2019
 
@@ -23,6 +23,55 @@ En estas notas de la versión, se proporciona información sobre característica
  > [!NOTE]
 >- A menudo distribuimos características (y a veces incluso correcciones) para el Canal mensual durante un período de tiempo.  Si no ve algo que se describe a continuación de inmediato, lo verá pronto. [Más información](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a comienzos de julio, las actualizaciones de Office 365 ProPlus (y Office 365 Empresa) incluirán Microsoft Teams.  La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/es-ES/deployoffice/teams-install).
+
+## <a name="version-1910-october-30"></a>Versión 1910: 30 de octubre
+*Versión 1910 (compilación 12130.20272)*
+* Varias correcciones de errores y rendimiento.
+
+
+[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+
+
+### <a name="excel"></a>Excel
+
+- **Cree archivos PDF más accesibles:** Cree un PDF y el verificador de accesibilidad le indicará los problemas de accesibilidad que debe solucionar antes de guardar. [Más información](https://support.office.com/es-ES/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+- **Convertir los archivos para mejorar la accesibilidad**: actualice los archivos al formato moderno para que sean más accesibles para todos los demás.
+
+- **Aplicar etiquetas de confidencialidad a los documentos:** Aplique etiquetas de confidencialidad a sus archivos y correos electrónicos para que cumplan las directivas de protección de la información de su organización.
+
+### <a name="outlook"></a>Outlook
+
+- **Se le pide que actualice Outlook siguiendo un error:** cuando Outlook detecta un error corregido en una versión posterior, Outlook solicitará a los clientes que actualicen y reciban la corrección.
+
+- **Aplicar etiquetas de confidencialidad a los documentos:** Aplique etiquetas de confidencialidad a sus archivos y correos electrónicos para que cumplan las directivas de protección de la información de su organización.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Cree archivos PDF más accesibles:** Cree un PDF y el verificador de accesibilidad le indicará los problemas de accesibilidad que debe solucionar antes de guardar. [Más información](https://support.office.com/es-ES/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+- **Convertir los archivos para mejorar la accesibilidad**: actualice los archivos al formato moderno para que sean más accesibles para todos los demás.
+
+- **Aplicar etiquetas de confidencialidad a los documentos:** Aplique etiquetas de confidencialidad a sus archivos y correos electrónicos para que cumplan las directivas de protección de la información de su organización.
+
+### <a name="word"></a>Word
+
+- **Mejoras en la coautoría:** mejora el rendimiento de Word al coautoría en documentos con marcas de revisión.
+
+- **Cree archivos PDF más accesibles:** Cree un PDF y el verificador de accesibilidad le indicará los problemas de accesibilidad que debe solucionar antes de guardar. [Más información](https://support.office.com/es-ES/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+- **Convertir los archivos para mejorar la accesibilidad**: actualice los archivos al formato moderno para que sean más accesibles para todos los demás.
+
+- **Se ha corregido un problema relacionado con los documentos causados por la combinación de objetos 3D.:** corrige un problema de daños en un documento producido por la combinación de objetos 3D.
+
+- **Aplicar etiquetas de confidencialidad a los documentos:** Aplique etiquetas de confidencialidad a sus archivos y correos electrónicos para que cumplan las directivas de protección de la información de su organización.
+### <a name="office-suite"></a>Conjunto de programas de Office
+
+- **Instalar Microsoft Teams en instalaciones existentes de Office 365 ProPlus:** a partir de finales de junio, Microsoft Teams se incluirá en las instalaciones existentes de Office 365 ProPlus (y Office 365 Empresa) cuando se actualicen estas instalaciones. La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, consulte implementar Microsoft Teams con Office 365 ProPlus. [Más información](https://docs.microsoft.com/es-ES/deployoffice/teams-install)
+
+[//]: # (NO QUITAR DETALLES DE CARACTERÍSTICAS DE CONTENIDO FINAL)
 
 ## <a name="version-1909-october-22"></a>Versión 1909: 22 de octubre
 *Versión 1909 (compilación 12026.20344)*
