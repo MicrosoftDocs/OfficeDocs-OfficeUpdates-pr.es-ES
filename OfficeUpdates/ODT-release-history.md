@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Historial de versiones de la Herramienta de implementación de Office (ODT) para los profesionales de TI
-ms.openlocfilehash: 1622ddf9a89767c2d0e456737362eecf4123b3fd
-ms.sourcegitcommit: a5da36df390868d76bddfc78e9481ed8e9c5b673
+ms.openlocfilehash: 65dbad6110d38fd98fb7b6df94c2a54df2f89459
+ms.sourcegitcommit: 6570d42ebb04c11b9aa40dac7825ae8da9694e10
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "37275491"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37902406"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Historial de versiones de la Herramienta de implementación de Office
 
@@ -28,6 +28,14 @@ ODT le ofrece más control de la instalación de Office. Le permite definir los 
  **Instrucciones de instalación**: Descargue y ejecute el archivo ejecutable autoextraíble de la Herramienta de implementación de Office (setup.exe) y un archivo de configuración de ejemplo (configuration.xml). 
 
 [Descargar la Herramienta de implementación de Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+
+## <a name="october-31-2019"></a>31 de octubre de 2019
+
+Versión 16.0.12130.20272
+- Se ha corregido un problema que permite que Skype Empresarial Basic 2019 se instale con productos de licencia por volumen perpetuo 2019
+- Se ha corregido un problema que puede ocasionar que el modo de descarga ODT falle inesperadamente en determinadas circunstancias cuando se utiliza un proxy.
+- Se ha desarrollado una nueva capacidad que permite que el modo de descarga ODT descargue a través de HTTP utilizando un puerto distinto al puerto 80.
 
 
 ## <a name="july-10-2019"></a>10 de julio de 2019
