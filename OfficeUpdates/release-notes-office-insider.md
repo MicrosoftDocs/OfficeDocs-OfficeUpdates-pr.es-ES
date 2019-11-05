@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 22f4c64af414ed85db06bb4e7771f091076940ef
-ms.sourcegitcommit: 33bb47548810efeb6cd5c727c3487192fe6364a8
+ms.openlocfilehash: 81474ca6ba2e2cce145dfc8b80dff8c8b2857541
+ms.sourcegitcommit: e7eb58247abb6fc7f7082e98ae4847344f35a69e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37733014"
+ms.lasthandoff: 11/02/2019
+ms.locfileid: "37931914"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -29,6 +29,132 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
 [//]: # (NO ELIMINAR)
 
+
+## <a name="version-1911-november-01"></a>Versión 1911: 01 de noviembre
+*Versión 1911 (compilación 12228.20020)*
+
+
+[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Incluya el contexto junto con los objetos SVG**: ahora, puede conservar el texto de los mapas, los gráficos y otros vectores de SVG al convertir estos objetos en Office.
+
+- **Vea las opciones de pluma al seleccionar el Lápiz para Surface**: cuando elija el Lápiz de Surface por primera vez en Word, Excel o PowerPoint, la pestaña Dibujar se activará para que sea fácil seleccionar los colores de pluma.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Incluya el contexto junto con los objetos SVG**: ahora, puede conservar el texto de los mapas, los gráficos y otros vectores de SVG al convertir estos objetos en Office.
+
+- **Vea las opciones de pluma al seleccionar el Lápiz para Surface**: cuando elija el Lápiz de Surface por primera vez en Word, Excel o PowerPoint, la pestaña Dibujar se activará para que sea fácil seleccionar los colores de pluma.
+
+### <a name="visio"></a>Visio
+
+- ** Haga diagramas de Visio pulidos en Excel:** Visualice rápida y fácilmente sus datos en diagramas Visio pulidos dentro de Excel. [Más información](https://support.office.com/es-ES/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+### <a name="word"></a>Word
+
+- **Vea las opciones de pluma al seleccionar el Lápiz para Surface**: cuando elija el Lápiz de Surface por primera vez en Word, Excel o PowerPoint, la pestaña Dibujar se activará para que sea fácil seleccionar los colores de pluma.
+
+- **Mejoras en la coautoría:** Mejoró la experiencia de coautoría al hacer más probable que los cambios de contenido sean recibidos por otros en tiempo real.
+
+- **Otros usuarios verán los cambios rápidamente**: con las mejoras en la coautoría, los colaboradores podrán ver los cambios más rápido que nunca.
+
+
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- <div><span>Se ha resuelto un problema por el que Excel podía bloquearse al modificar un archivo protegido desde un recurso compartido de red que no es de confianza</span></div>
+
+
+- <div>Se ha resuelto un problema por el que, al eliminar hojas que contenían minigráficos que hacían referencia a datos en otra hoja, podía provocar que el archivo se identificara como dañado al volver a abrirlo.</div>
+
+
+- <div>Se ha resuelto un problema por el que se podían obtener resultados incorrectos al convertir los filtros de un informe junto con el resto de la tabla dinámica de consultas enviadas a servidores tabulares SQL.</span></div>
+
+
+- <div><span>Usar el Narrador y la Lupa al mismo tiempo puede provocar un bloqueo</span></div>
+
+
+- <div><span>Usar el Narrador y la Lupa al mismo tiempo puede provocar un bloqueo</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div>Pueden faltar imágenes insertadas en un mensaje de correo electrónico reenviado</div>
+
+
+- <div><span>Puede que la herramienta Buscador de salas muestre &quot;Ninguno&quot; en salones disponibles</span></div>
+
+
+- <div><span>Puede que los usuarios no puedan crear perfiles de Outlook con restricción de espacio empresarial estricta</div></span>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>Usar el Narrador y la Lupa al mismo tiempo puede provocar un bloqueo</span></div>
+
+
+### <a name="project"></a>Project
+
+- <div><span>El usuario no puede marcar una tarea como completada, y esta se establece en un 99%</span></div>
+
+
+- <div>Redistribuir no resuelve las sobreasignaciones</div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>Usar el Narrador y la Lupa al mismo tiempo puede provocar un bloqueo</span></div>
+
+
+- <div><span>Al abrir documentos heredados e ir a la pestaña Información, se puede producir un bloqueo</span></div>
+
+
+- <div><span>No se muestran sugerencias de corrección en los menús contextuales</span></div>
+
+
+- <div><span>Se aplican directivas de contenido incorrectamente a los comentarios</span></div>
+
+
+- <div><span>Los comentarios heredados escritos con texto oscuro no se ven en el modo oscuro</span></div>
+
+
+- <div><span>Pueden aparecer caracteres incorrectos al usar la Autocorrección de coreano-inglés</span></div>
+
+
+- <div><span>Puede que se apliquen etiquetas de directiva inferior cuando una etiqueta de directiva superior debería haber tenido prioridad</div></span>
+
+
+- <div><span>Los vínculos de cid:image de los mensajes de Outlook&nbsp; ahora se pueden romper correctamente cuando se solicite.</div></span>
+
+
+- <div><span>Usar el Narrador y la Lupa al mismo tiempo puede provocar un bloqueo</span></div>
+
+
+- <div><span>Puede que se produzcan errores al buscar desde el panel de navegación</span></div>
+
+
+### <a name="office-suite"></a>Conjunto de programas de Office
+
+- <div><span>Puede que algunos dibujos no se muestren en la vista previa o en las presentaciones</span></div>
+
+
+- <div><span>Algunos caracteres katakana pueden mostrarse incorrectamente en un cuadro de texto vertical</span></div>
+
+
+- <div>Al intentar guardar un archivo en un recurso compartido de red desconectado, se puede producir un bloqueo</div>
+
+
+
+[//]: # (No elimine los detalles del error del contenido final)
 
 ## <a name="version-1911-october-25"></a>Versión 1911: 25 de octubre
 *Versión 1911 (compilación 12215.20006)*
@@ -888,7 +1014,7 @@ Crear un archivo PDF y el comprobador de accesibilidad indicará si hay problema
 - Se ha corregido un problema en el que, en la cinta de opciones simplificada, un control deshabilitado a veces puede no estar atenuado en la cinta de opciones
 
 ### <a name="access"></a>Access
-- Varias correcciones de rendimiento y estabilidad.
+- Diversas correcciones de rendimiento y estabilidad.
 
 ### <a name="project"></a>Project
 - Varias correcciones de rendimiento y estabilidad.
@@ -929,7 +1055,7 @@ Cuando encuentre un acrónimo, intentaremos definirlo con datos provenientes de 
 - Hemos arreglado un problema que impedía usar el formato HTML para algunos usuarios de POP3.
 
 ### <a name="access"></a>Access
-- Varias correcciones de rendimiento y estabilidad.
+- Diversas correcciones de rendimiento y estabilidad.
 
 ### <a name="project"></a>Project
 - Varias correcciones de rendimiento y estabilidad.
@@ -962,7 +1088,7 @@ Aplique una animación de reproducción para la entrada de lápiz en PowerPoint 
 - Varias correcciones de rendimiento y estabilidad.
 
 ### <a name="access"></a>Access
-- Varias correcciones de rendimiento y estabilidad.
+- Diversas correcciones de rendimiento y estabilidad.
 
 ### <a name="project"></a>Project
 - Varias correcciones de rendimiento y estabilidad.
@@ -1074,7 +1200,7 @@ Busque documentos con actividad relevante recomendados para usted.
 - Se ha corregido un problema por el que se mostraba la plantilla y la descripción incorrecta al proteger un correo electrónico con una plantilla ad-hoc.
 
 ### <a name="access"></a>Access
-- Varias correcciones de rendimiento y estabilidad.
+- Diversas correcciones de rendimiento y estabilidad.
 
 ### <a name="project"></a>Project
 - Varias correcciones de rendimiento y estabilidad.
@@ -1144,7 +1270,7 @@ Para citas en un lugar físico con una ubicación pública, como un restaurante,
 - Se ha corregido un problema que impedía que los clientes vieran todas las directivas de retención si había varias.
 
 ### <a name="access"></a>Access
-- Varias correcciones de rendimiento y estabilidad.
+- Diversas correcciones de rendimiento y estabilidad.
 
 ### <a name="project"></a>Project
 - Varias correcciones de rendimiento y estabilidad.
@@ -1178,7 +1304,7 @@ Versión 1907 (compilación 11807.20000)
 - Se ha corregido un problema en el que, en algunos casos, el campo Para era más grande de lo normal.
 
 ### <a name="access"></a>Access
-- Varias correcciones de rendimiento y estabilidad.
+- Diversas correcciones de rendimiento y estabilidad.
 
 ### <a name="project"></a>Project
 - Varias correcciones de rendimiento y estabilidad.
@@ -1206,7 +1332,7 @@ Versión 1907 (compilación 11727.20064)
 - Se ha corregido un problema por el que los datos adjuntos en línea a veces se mostraban con una escala incorrecta.
 
 ### <a name="access"></a>Access
-- Varias correcciones de rendimiento y estabilidad.
+- Diversas correcciones de rendimiento y estabilidad.
 
 ### <a name="project"></a>Project
 - Se ha corregido un problema por el que los partes de horas con una duración fija podían cambiar la fecha de finalización de la asignación.
@@ -1312,7 +1438,7 @@ Para activar la opción: abra un vínculo a un libro de Excel almacenado en OneD
 - Se ha corregido un problema por el que las salas se mostraban como disponibles fuera de las horas no laborables.
 
 ### <a name="access"></a>Access
-- Varias correcciones de rendimiento y estabilidad.
+- Diversas correcciones de rendimiento y estabilidad.
 
 ### <a name="project"></a>Project
 - Varias correcciones de rendimiento y estabilidad.
@@ -1348,7 +1474,7 @@ Las actualizaciones que han estado en "Próximamente" ahora están aquí, presen
 - Varias correcciones de rendimiento y estabilidad.
 
 ### <a name="access"></a>Access
-- Varias correcciones de rendimiento y estabilidad.
+- Diversas correcciones de rendimiento y estabilidad.
 
 ### <a name="project"></a>Project
 - Se ha corregido un problema por el que se podía bloquear el proyecto después de cambiar a la barra de tareas
@@ -1493,7 +1619,7 @@ Version 1906 (compilación 11702.20000)
 - Varias correcciones de rendimiento y estabilidad.
 
 ### <a name="access"></a>Access
-- Varias correcciones de rendimiento y estabilidad.
+- Diversas correcciones de rendimiento y estabilidad.
 
 ### <a name="project"></a>Project
 - Se ha corregido un problema por el que las ID de tareas podrían requerir resaltado para verse
@@ -1530,7 +1656,7 @@ Versión 1906 (compilación 11629.20008)
 - Se ha corregido un problema por el cual Outlook podía fallar al ver un mensaje DRM
 
 ### <a name="access"></a>Access
-- Varias correcciones de rendimiento y estabilidad.
+- Diversas correcciones de rendimiento y estabilidad.
 
 ### <a name="project"></a>Project
 - Se ha solucionado un problema por el que el editor cambiaba del chino al inglés
@@ -1573,7 +1699,7 @@ Se ha mejorado la experiencia de coautoría al aumentar la probabilidad de que o
 - Varias correcciones de rendimiento y estabilidad.
 
 ### <a name="access"></a>Access
-- Varias correcciones de rendimiento y estabilidad.
+- Diversas correcciones de rendimiento y estabilidad.
 
 ### <a name="project"></a>Project
 - Varias correcciones de rendimiento y estabilidad.
@@ -1669,7 +1795,7 @@ Importe o vincule a datos inteligentes y reinvente la base de datos de su escrit
 - Se ha corregido un problema que podía producir un conflicto entre las fechas de vencimiento y eliminación.
 
 ### <a name="access"></a>Access
-- Varias correcciones de rendimiento y estabilidad.
+- Diversas correcciones de rendimiento y estabilidad.
 
 ### <a name="project"></a>Project
 - Varias correcciones de rendimiento y estabilidad.
@@ -1758,7 +1884,7 @@ Office es ahora compatible con modelos animados que se reproducirán en el edito
 - Se ha corregido un problema por el que los usuarios tenían dificultades para seleccionar el panel inferior.
 
 ### <a name="access"></a>Access
-- Varias correcciones de rendimiento y estabilidad.
+- Diversas correcciones de rendimiento y estabilidad.
 
 ### <a name="project"></a>Project
 - Varias correcciones de rendimiento y estabilidad.
@@ -2043,7 +2169,7 @@ El nuevo administrador de cuentas muestra todas sus cuentas personales y de trab
 - Se ha corregido un problema con la apariencia del botón Enviar a OneNote
 
 ### <a name="access"></a>Access
-- Varias correcciones de rendimiento y estabilidad.
+- Diversas correcciones de rendimiento y estabilidad.
 
 ### <a name="project"></a>Project
 - Varias correcciones de rendimiento y estabilidad.
@@ -2072,7 +2198,7 @@ Versión 1903 (compilación 11330.20014)
 - Varias correcciones de rendimiento y estabilidad.
 
 ### <a name="access"></a>Access
-- Varias correcciones de rendimiento y estabilidad.
+- Diversas correcciones de rendimiento y estabilidad.
 
 ### <a name="project"></a>Project
 - Varias correcciones de rendimiento y estabilidad.

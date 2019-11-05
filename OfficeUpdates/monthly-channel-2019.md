@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2019
-ms.openlocfilehash: b8481a71f1f861a9c8a0aace797c1f8dd46dd54b
-ms.sourcegitcommit: 28b363a14142849ada83979106d2ff8ecfb9df9d
+ms.openlocfilehash: 12534eb79781d02ff630097794273fd27fcc51dc
+ms.sourcegitcommit: 22e6c32930facc482cd61e5d2dcf00728e112806
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890029"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37929647"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal mensual en 2019
 
@@ -40,13 +40,13 @@ En estas notas de la versión, se proporciona información sobre característica
 
 - **Convertir los archivos para mejorar la accesibilidad**: actualice los archivos al formato moderno para que sean más accesibles para todos los demás.
 
-- **Aplicar etiquetas de confidencialidad a los documentos:** Aplique etiquetas de confidencialidad a sus archivos y correos electrónicos para que cumplan las directivas de protección de la información de su organización.
+- **Aplicar etiquetas de confidencialidad a los documentos y correos electrónicos**: aplique etiquetas de confidencialidad a los archivos y correos electrónicos para que cumplan las directivas de protección de la información de su organización. [Más información](https://aka.ms/officemipdocs)
 
 ### <a name="outlook"></a>Outlook
 
 - **Se le pide que actualice Outlook siguiendo un error:** cuando Outlook detecta un error corregido en una versión posterior, Outlook solicitará a los clientes que actualicen y reciban la corrección.
 
-- **Aplicar etiquetas de confidencialidad a los documentos:** Aplique etiquetas de confidencialidad a sus archivos y correos electrónicos para que cumplan las directivas de protección de la información de su organización.
+- **Aplicar etiquetas de confidencialidad a los documentos y correos electrónicos**: aplique etiquetas de confidencialidad a los archivos y correos electrónicos para que cumplan las directivas de protección de la información de su organización. [Más información](https://aka.ms/officemipdocs)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -54,7 +54,7 @@ En estas notas de la versión, se proporciona información sobre característica
 
 - **Convertir los archivos para mejorar la accesibilidad**: actualice los archivos al formato moderno para que sean más accesibles para todos los demás.
 
-- **Aplicar etiquetas de confidencialidad a los documentos:** Aplique etiquetas de confidencialidad a sus archivos y correos electrónicos para que cumplan las directivas de protección de la información de su organización.
+- **Aplicar etiquetas de confidencialidad a los documentos y correos electrónicos**: aplique etiquetas de confidencialidad a los archivos y correos electrónicos para que cumplan las directivas de protección de la información de su organización. [Más información](https://aka.ms/officemipdocs)
 
 ### <a name="word"></a>Word
 
@@ -66,7 +66,8 @@ En estas notas de la versión, se proporciona información sobre característica
 
 - **Se ha corregido un problema relacionado con los documentos causados por la combinación de objetos 3D.:** corrige un problema de daños en un documento producido por la combinación de objetos 3D.
 
-- **Aplicar etiquetas de confidencialidad a los documentos:** Aplique etiquetas de confidencialidad a sus archivos y correos electrónicos para que cumplan las directivas de protección de la información de su organización.
+- **Aplicar etiquetas de confidencialidad a los documentos y correos electrónicos**: aplique etiquetas de confidencialidad a los archivos y correos electrónicos para que cumplan las directivas de protección de la información de su organización. [Más información](https://aka.ms/officemipdocs)
+
 ### <a name="office-suite"></a>Conjunto de programas de Office
 
 - **Instalar Microsoft Teams en instalaciones existentes de Office 365 ProPlus:** a partir de finales de junio, Microsoft Teams se incluirá en las instalaciones existentes de Office 365 ProPlus (y Office 365 Empresa) cuando se actualicen estas instalaciones. La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, consulte implementar Microsoft Teams con Office 365 ProPlus. [Más información](https://docs.microsoft.com/es-ES/deployoffice/teams-install)
