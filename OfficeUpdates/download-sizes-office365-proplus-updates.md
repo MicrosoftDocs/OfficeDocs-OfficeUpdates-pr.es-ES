@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Office 365 ProPlus según el canal de actualización.
-ms.openlocfilehash: 4fd321cdbdaffb3b8e9407d4db4c9106c1bc64c9
-ms.sourcegitcommit: 5659a229b4a2e3bf3ba2f047565ab238e3bb398f
+ms.openlocfilehash: 9aed6048b81cf6e4bfd750875b8bc7608e0a251e
+ms.sourcegitcommit: a3a8b07e171e61f3dde1530a0c067d621db07feb
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37887092"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "37993715"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 
@@ -29,6 +29,32 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 > - Se muestran las versiones de los últimos cuatro meses.
 
 [//]: # (NO ELIMINAR)
+
+## <a name="november-5-2019"></a>5 de noviembre de 2019
+
+[//]: # (NO ELIMINAR INICIO DE CONTENIDO DE PREVISIÓN)
+
+### <a name="semi-annual-channel"></a>Canal semianual
+
+<i>La versión esperada es la 1902 (compilación 11328.20468).</i>
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1902 (compilación 11328.20438) <br/> |8 de octubre de 2019 <br/> |69<br/> |
+|Versión 1902 (compilación 11328,20420) <br/> |10 de septiembre de 2019 <br/> |70<br/> |
+
+
+### <a name="semi-annual-targeted-channel"></a>Canal semianual (dirigido)
+
+<i>La versión esperada es la 1908 (compilación 11929.20436).</i>
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1908 (compilación 11929.20396) <br/> |14 de octubre de 2019 <br/> |64<br/> |
+|Versión 1908 (compilación 11929.20388) <br/> |8 de octubre de 2019 <br/> |66<br/> |
+
+
+[//]: # (NO ELIMINAR FIN DE CONTENIDO DE PREVISIÓN)
 
 ## <a name="october-30-2019"></a>30 de octubre de 2019
 
