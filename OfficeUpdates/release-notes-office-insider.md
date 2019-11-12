@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 81474ca6ba2e2cce145dfc8b80dff8c8b2857541
-ms.sourcegitcommit: e7eb58247abb6fc7f7082e98ae4847344f35a69e
+ms.openlocfilehash: 1c66699a53334e4da5c390bdfaae3455829b5b22
+ms.sourcegitcommit: 0488f84954e573c68209e28a2d11cf2010c6f588
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/02/2019
-ms.locfileid: "37931914"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38076424"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -29,6 +29,42 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
 [//]: # (NO ELIMINAR)
 
+
+## <a name="version-1912-november-08"></a>Versión 1912: 08 de noviembre
+*Versión 1912 (compilación 12231.20000)*
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="user-lifecycle"></a>Ciclo de vida del usuario
+
+- **Experimente mejoras en la activación de AFO:** Actualizaciones de las pantallas que los clientes ven al activar el Office que se incluye con el equipo nuevo
+
+### <a name="word"></a>Word
+
+- **Una experiencia de vídeo en línea nueva y mejorada en Word:** Experiencia de vídeo en línea nueva y más segura para ayudarle a insertar vídeos nuevos y reproducir vídeos existentes en Word
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="outlook"></a>Outlook
+
+- <div><span>Bloqueo intermitente que involucra el contenido de carpetas cruzadas</span></div>
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- <div><span>Pegar un gráfico de Excel en PowerPoint puede reducir el tamaño del gráfico</span></div>
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-1911-november-01"></a>Versión 1911: 01 de noviembre
 *Versión 1911 (compilación 12228.20020)*
