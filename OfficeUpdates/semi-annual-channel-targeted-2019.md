@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual (dirigido) de Office 365 ProPlus en 2019.
-ms.openlocfilehash: c763167c1d2634c2c5baab54d3db2998921918ef
-ms.sourcegitcommit: 28b363a14142849ada83979106d2ff8ecfb9df9d
+ms.openlocfilehash: 790003f78fb43db66e7ec89274313559b04c13cf
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890039"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289840"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de la versión para las versiones de Canal semianual (dirigido) en 2019
 
@@ -23,6 +23,57 @@ En estas notas de la versión, se proporciona información sobre característica
 > [!NOTE]
 > - A menudo publicamos características (y a veces incluso correcciones) para el Canal semianual (dirigido) durante un período de tiempo. Si no ve algo que se describe a continuación de inmediato, lo verá pronto. [Más información](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - Microsoft Teams está incluido en las nuevas instalaciones de canal semianual (dirigido), empezando por la versión 1902. Se agregará Teams a las instalaciones existentes de canal semianual (dirigido) cuando se actualicen a la versión 1908 o posterior. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/es-ES/deployoffice/teams-install).
+
+## <a name="version-1908-november-12"></a>Versión 1908: 12 de noviembre
+*Versión 1908 (compilación 11929.20436)*
+
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/es-ES/officeupdates/office365-proplus-security-updates)
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+
+### <a name="excel"></a>Excel
+
+- Se han corregido los colores que se usan en las vistas previas al insertar gráficos con plantillas de gráficos.
+- Se ha corregido un problema que podía impedir que los gráficos de líneas de dispersión se representaran correctamente al cambiar la colección de series.
+- Se ha resuelto un problema que provocaba interrupciones en la coautoría al cambiar las propiedades personalizadas con la ejecución de macros.
+- Hemos corregido un problema de rendimiento con las funciones asíncronas definidas por el usuario que hacía que se ejecutaran de forma sincrónica.
+- Mejoramos significativamente el rendimiento del filtro por color.
+- Se ha resuelto un problema en el que los libros creados en versiones anteriores de Office podrían hacer que Excel se bloqueara cuando se abría en las versiones actuales de Office.
+- Los vínculos de cid: las imágenes de los mensajes de Outlook ahora se pueden descomponer correctamente cuando se solicite.
+
+### <a name="outlook"></a>Outlook
+
+- Los vínculos de cid: las imágenes de los mensajes de Outlook ahora se pueden descomponer correctamente cuando se solicite.
+- Se ha corregido un problema que provocaba que los usuarios experimentaran un error de permiso al copiar elementos de su calendario principal en un calendario de grupo.
+- Se ha corregido un problema que provocaba una pérdida de memoria durante sesiones de Outlook muy largas.
+- Se ha corregido un problema que podía causar un error en Outlook cuando los usuarios interactuaban con ciertos vínculos seguros.
+- Se ha corregido un problema que provocaba que los usuarios experimentaran un error al procesar algunas respuestas de detección automática.
+- Se ha corregido un problema que causaba que algunos usuarios vieran carpetas especiales duplicadas al agregar una cuenta de Exchange secundaria.
+- Se ha corregido un problema que provocaba un bloqueo en la experiencia de búsqueda de comentarios.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Los vínculos de cid: las imágenes de los mensajes de Outlook ahora se pueden descomponer correctamente cuando se solicite.</div>
+- Corrección de confiabilidad: se ha solucionado un problema en el que era posible que PowerPoint fallara al usar el complemento de terceros.
+
+### <a name="project"></a>Project
+
+- Se ha corregido un problema por el que el comando Redistribuir todo no ha resuelto correctamente la sobreasignación de un recurso.
+- Se ha corregido un problema por el que si tiene una tarea sin nada de trabajo, la tarea no se puede marcar como completada y siempre se mostrará en el 99 %.
+- Identificamos un problema en el que los usuarios podían recibir varios mensajes al abrir un proyecto de solo lectura.
+
+### <a name="word"></a>Word
+
+- Los vínculos de cid: las imágenes de los mensajes de Outlook ahora se pueden descomponer correctamente cuando se solicite.
+- Se han corregido varios problemas que causaban el bloqueo o apagado de la aplicación. También se corrigieron ciertos errores relacionados con el complemento.
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Problemas resueltos relacionados con la propiedad Cuadro de texto/Autoajuste de formas en los complementos de terceros.
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="october-15"></a>15 de octubre
 
