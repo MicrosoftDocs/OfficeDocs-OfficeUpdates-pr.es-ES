@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión de las actualizaciones de seguridad de Office 365 ProPlus
-ms.openlocfilehash: 3aba613d5ecbe9bf2b9c2de29e4356248980db89
-ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
+ms.openlocfilehash: 76e51f729663364d3c1ff68ba0c9a4c1ad5bd20c
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37424065"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289668"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Notas de la versión para las actualizaciones de seguridad de Office 365 ProPlus
 
@@ -25,6 +25,22 @@ Estas notas de la versión proporcionan información sobre las correcciones de s
 > - Esta información también se aplica a Office 365 Empresa, que es la versión de Office que viene con algunos planes de Office 365, como Empresa Premium.  
 
 [//]: # (NO QUITAR LA LÍNEA ANTERIOR, se usa para el espaciado)  
+
+## <a name="november-12-2019"></a>12 de noviembre de 2019
+Canal mensual: Versión 1910 (compilación 12130.20344)  
+Canal semianual (dirigido): Versión 1908 (compilación 11929.20436)  
+Canal semianual: Versión 1902 (compilación 11328.20468)  
+Canal semianual: Versión 1808 (compilación 10730.20416)  
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2019-1448](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-1448)
+-   [CVE-2019-1446](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-1446)
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+-   [CVE-2019-1449](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-1449)
+-   [CVE-2019-1402](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-1402)
 
 ## <a name="october-08-2019"></a>08 de octubre de 2019
 Canal mensual: Versión 1909 (compilación 12026.20320)  

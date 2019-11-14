@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual de Office 365 ProPlus en 2019.
-ms.openlocfilehash: 35c36de78ffe34da4565bb2996a81d73b178cfcc
-ms.sourcegitcommit: f0366356e2da83813c99a59e9ce3e60338d11dcc
+ms.openlocfilehash: d0445d53b34dee6f072d8153d2235b77591e0351
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37453590"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289820"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal semianual en 2019
 
@@ -24,7 +24,58 @@ En estas notas de la versión, se proporciona información sobre característica
 > - A menudo publicamos características (y a veces incluso correcciones) para el Canal semianual durante un período de tiempo. Si no ve algo que se describe a continuación de inmediato, lo verá pronto. [Más información](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - OneNote 2016 no se incluirá de forma predeterminada cuando un usuario en el canal semianual descargue e instale Office 365 en Windows 10 desde el Portal de Office.
 
-[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+
+## <a name="version-1902-november-12"></a>Versión 1902: 12 de noviembre
+*Versión 1902 (compilación 11328.20468)*
+
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/es-ES/officeupdates/office365-proplus-security-updates)
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+
+### <a name="excel"></a>Excel
+
+- Se ha solucionado un problema que provocaba retrasos en la visualización de valores escritos después de eliminar un rango.
+- Se ha solucionado un problema en el que los libros creados en versiones anteriores de Office podían hacer que Excel se bloqueara cuando se abría en las versiones actuales de Office.
+
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema que provocaba pérdidas de memoria cuando se habilitaban las notificaciones del sistema.
+- Se ha corregido un problema que provocaba la pérdida de memoria en Outlook.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrección de confiabilidad: se ha solucionado un problema en el que era posible que PowerPoint fallara al usar el complemento de terceros.
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Se ha solucionado un problema de rendimiento en Win7, donde la galería para insertar formas de la cinta de opciones de todas las aplicaciones tardaba aproximadamente 4 segundos en aparecer.
+- Se ha solucionado un problema por el que los accesos directos del menú Inicio y las extensiones de archivo de Office desaparecían inesperadamente después de una actualización.
+- Para proteger la seguridad de los clientes de Office, las actualizaciones de Microsoft Office se firman ahora utilizando exclusivamente el algoritmo SHA-2.
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+
+## <a name="version-1808-november-12"></a>Versión 1808: 12 de noviembre
+*Versión 1808 (compilación 10730.20416)*
+
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/es-ES/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+
+### <a name="outlook"></a>Outlook
+
+- Se corrige un problema que provocaba que los usuarios con un "correo para mantener la configuración sin conexión" de cualquier otro distinto de "Todos" podían perder datos al mover elementos fuera de la ventana de sincronización de una tienda local a un buzón de Exchange Online.
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Para proteger la seguridad de los clientes de Office, las actualizaciones de Microsoft Office se firman ahora utilizando exclusivamente el algoritmo SHA-2.
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-1902-october-08"></a>Versión 1902: 8 de octubre
 *Versión 1902 (compilación 11328.20438)*

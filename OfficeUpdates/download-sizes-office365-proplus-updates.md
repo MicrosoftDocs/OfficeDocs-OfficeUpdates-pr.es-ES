@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Office 365 ProPlus según el canal de actualización.
-ms.openlocfilehash: 9aed6048b81cf6e4bfd750875b8bc7608e0a251e
-ms.sourcegitcommit: a3a8b07e171e61f3dde1530a0c067d621db07feb
+ms.openlocfilehash: 5900ce9c86c2d1e1cd653c538dcb1db34d6c1c4d
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "37993715"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38282188"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 
@@ -30,13 +30,21 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 
 [//]: # (NO ELIMINAR)
 
-## <a name="november-5-2019"></a>5 de noviembre de 2019
+## <a name="november-12-2019"></a>12 de noviembre de 2019
 
-[//]: # (NO ELIMINAR INICIO DE CONTENIDO DE PREVISIÓN)
+### <a name="monthly-channel"></a>Canal mensual
+
+La versión 1910 es la más actual (compilación 12130.20344).
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1910 (compilación 12130.20272) <br/> |30 de octubre de 2019 <br/> |61<br/> |
+|Versión 1909 (compilación 12026.20344) <br/> |22 de octubre de 2019 <br/> |156<br/> |
+
 
 ### <a name="semi-annual-channel"></a>Canal semianual
 
-<i>La versión esperada es la 1902 (compilación 11328.20468).</i>
+La versión 1902 es la más actual (compilación 11328.20468).
 
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
@@ -44,9 +52,11 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 |Versión 1902 (compilación 11328,20420) <br/> |10 de septiembre de 2019 <br/> |70<br/> |
 
 
+[//]: # (No eliminar el contenido inicial del 12 de noviembre de 2019)
+
 ### <a name="semi-annual-targeted-channel"></a>Canal semianual (dirigido)
 
-<i>La versión esperada es la 1908 (compilación 11929.20436).</i>
+La versión 1908 es la más actual (compilación 11929.20436).
 
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
@@ -54,7 +64,12 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 |Versión 1908 (compilación 11929.20388) <br/> |8 de octubre de 2019 <br/> |66<br/> |
 
 
-[//]: # (NO ELIMINAR FIN DE CONTENIDO DE PREVISIÓN)
+[//]: # (No eliminar el contenido final del 12 de noviembre de 2019)
+
+## <a name="november-5-2019"></a>5 de noviembre de 2019
+
+
+
 
 ## <a name="october-30-2019"></a>30 de octubre de 2019
 
