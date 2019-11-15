@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual de Office 365 ProPlus en 2019.
-ms.openlocfilehash: d0445d53b34dee6f072d8153d2235b77591e0351
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: c79cdc9a9c11f12acfaeab511cd27f234ceda0eb
+ms.sourcegitcommit: 4027fcf35a0e3da959e83179d798c0981c4a0000
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289820"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38402446"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal semianual en 2019
 
@@ -43,7 +43,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ### <a name="outlook"></a>Outlook
 
 - Se ha corregido un problema que provocaba pérdidas de memoria cuando se habilitaban las notificaciones del sistema.
-- Se ha corregido un problema que provocaba la pérdida de memoria en Outlook.
+- Se ha corregido un problema que provocaba que los clientes notaran una pérdida de memoria en Outlook.
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -304,7 +304,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ### <a name="outlook-non-security-updates"></a>Outlook: actualizaciones no relacionadas con la seguridad
 
 - Se ha corregido un problema que provocaba que los clientes vean sus tareas desaparecer aparentemente al agregar una 2ª condición a "Agrupar por".
-- Se ha corregido un problema por el que los clientes no podían editar algunos campos de los elementos que se han migrado. 
+- Se ha corregido un problema por el que los clientes no podían editar algunos campos de los elementos que se han migrado.
 - Corregido un problema en el que las ventanas no aparecían en la ubicación correcta cuando la barra de tareas del sistema se mantenía en la izquierda o en la parte superior de la pantalla.
 - Soluciona un problema que hacía que los clientes experimentaran un bloqueo al cargar imágenes de la tarjeta de contacto.
 - Soluciona un problema que hacía que algunos clientes experimentaran bloqueos al iniciar aplicaciones de Office.
