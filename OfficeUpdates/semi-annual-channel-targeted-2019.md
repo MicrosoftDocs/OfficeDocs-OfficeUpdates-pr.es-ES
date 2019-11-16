@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual (dirigido) de Office 365 ProPlus en 2019.
-ms.openlocfilehash: 790003f78fb43db66e7ec89274313559b04c13cf
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: f57ae4f07bbf8838e2c82eeb28534d2ac364bf24
+ms.sourcegitcommit: 4ff072b2b611be960cbd8c7f810b31b2751c4c88
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289840"
+ms.lasthandoff: 11/13/2019
+ms.locfileid: "38312140"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de la versión para las versiones de Canal semianual (dirigido) en 2019
 
@@ -256,8 +256,6 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ### <a name="office-suite"></a>Conjunto de aplicaciones de Office
 
 - **Instalación de Microsoft Teams:** se ha agregado Teams a las instalaciones existentes de Office 365 ProPlus. [Más información](https://docs.microsoft.com/es-ES/deployoffice/teams-install)
-
-- **Compartir y cargar los documentos con los nuevos botones expuestos en la página de información:** anteriormente, los botones de Compartir, Copiar ruta de acceso al Portapapeles y Abrir ubicación del archivo solo eran accesibles tras la ruta de guardado del documento. Ahora son botones que puede ver claramente en la página de información. Vaya a Archivo > Información como haría normalmente para ver estos nuevos botones.
 
 - **Guardar los cambios a medida que los realiza:** cargue el archivo en OneDrive para asegurarse de que todas las actualizaciones se guardan automáticamente.
 
