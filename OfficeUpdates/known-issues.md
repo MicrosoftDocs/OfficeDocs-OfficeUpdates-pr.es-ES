@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Ofrece información acerca de los problemas conocidos de Office 365 ProPlus
-ms.openlocfilehash: f863015cbf8680697509fdaf0bbd5c7000e4c142
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: 721c9a600b079b3214fa798a39a8ed728c89de93
+ms.sourcegitcommit: 7c1759a0e733ade767da00175afc1c43e8d07e3a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38282168"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "38640829"
 ---
 # <a name="office-365-proplus-known-issues"></a>Problemas conocidos de Office 365 ProPlus
 
@@ -32,6 +32,22 @@ En esta tabla se ofrece un resumen de los problemas actualmente activos y los pr
 ### <a name="last-updated-november-12-2019"></a>Última actualización: 12 de noviembre de 2019
 
 ### <a name="excel"></a>Excel
+
+- Los controles de casilla podrían reducirse al usar el autoajuste para ajustar el alto de fila.<br><br>**Investigando**: mensualmente, SACT
+
+- Problema de rendimiento con las funciones asíncronas definidas por el usuario que hacía que se ejecutaran de forma sincrónica.<br><br>**Resuelto**: SACT versión 1908 (11929.20436) 
+
+- Se podría impedir que los usuarios guarden en el formato de hoja de trabajo en Office 365 Excel<br><br>**Resuelto**: SACT versión 1908 (11929.20436)
+
+
+- Problema de rendimiento bajo al hacer clic en el botón Color de fuente cuando un archivo tiene un formato condicional extenso.<br><br>**Resuelto**: SACT versión 1908 (11929.20436)
+
+- Mejoras significativas en el rendimiento al eliminar columnas con celdas combinadas.<br><br>**Investigando**: SACT<br>**Resuelto**: Versión mensual 1910 (12130.20272)
+
+- Resultados incorrectos al convertir los filtros de un informe junto con el resto de la tabla dinámica de consultas enviadas a servidores tabulares SQL.<br><br>**Investigando**: mensualmente 
+
+- Se han corregido los colores que se usan en las vistas previas al insertar gráficos con plantillas de gráficos.<br><br>**Resuelto**: versión mensual 1910 (12130.20272) y versión SACT 1908 (11929.20436)
+
 
 - Se identificó un problema al insertar archivos como objeto desde OneDrive.<br><br> **Resuelto**: Versión mensual 1910 (12130.20272)
 
@@ -71,6 +87,9 @@ En esta tabla se ofrece un resumen de los problemas actualmente activos y los pr
 
 ### <a name="powerpoint"></a>PowerPoint
 
+- Algunos caracteres katakana pueden mostrarse incorrectamente en un cuadro de texto vertical.<br><br>
+**Investigando**: mensualmente 
+
 - Se ha corregido un problema que evitó la creación de hipervínculos al pegar el texto con hipervínculos <br><br>**Resuelto**: Versión mensual 1910 (12130.20272)
 
 - Se ha corregido un problema que podría provocar la ruptura de TextRanges después de pegar el texto en el encabezado o pie de página, los marcadores de posición en el patrón de diapositivas y en los diseños de diapositiva. <br><br>**Resuelto**: Versión mensual 1910 (12130.20272)
@@ -80,11 +99,25 @@ En esta tabla se ofrece un resumen de los problemas actualmente activos y los pr
 
 ### <a name="project"></a>Project
 
+- Si tiene una tarea sin nada de trabajo, es posible que la tarea no se pueda marcar como completada y siempre se mostrará en el 99 %.<br><br>
+**Investigando**: mensualmente <br>
+**Resuelto**: SACT versión 1908 (11929.20436)
+
+- Las sobreasignaciones no se resuelven al redistribuir<br><br>
+**Investigando**: mensualmente 
+
 - Identificamos un problema en el que los usuarios podían recibir varios mensajes al abrir un proyecto de solo lectura.<br><br>
 **Resuelto**: versión mensual 1910 (12130.20344) y versión SACT 1908 (11929.20436)
 
 ### <a name="word"></a>Word
+
+- Puede que se produzcan errores al buscar desde el panel de navegación<br><br>
+**Investigando**: mensualmente 
+
 - Se identificó un problema al insertar archivos como objeto desde OneDrive.<br><br> **Resuelto**: Versión mensual 1910 (12130.20272)
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+- Al intentar guardar un archivo en un recurso compartido de red desconectado, se pueden producir problemas **Investigando**: mensualmente
 
 
 
