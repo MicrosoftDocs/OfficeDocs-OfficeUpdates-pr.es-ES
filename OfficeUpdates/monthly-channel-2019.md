@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2019
-ms.openlocfilehash: 47eb6d76610dd9f2bbed62b7fbb5dde979daebc5
-ms.sourcegitcommit: 14a61d37299ee3decb77b048ab12730e616292f7
+ms.openlocfilehash: 1672e1968c489d4a05b785b779a832c0cbfda46f
+ms.sourcegitcommit: ef6ec784e9bd8d7e39a9a0a989adc66612f6349b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724058"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38753797"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal mensual en 2019
 
@@ -26,18 +26,20 @@ En estas notas de la versión, se proporciona información sobre característica
 
 ## <a name="version-1910-november-18"></a>Versión 1910: 18 de noviembre
 *Versión 1910 (compilación 12130.20390)*
-* Varias correcciones de errores y rendimiento.
 
 [//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO INICIAL)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
+
+### <a name="access"></a>Access
+
+- Se corrigió un problema en el que ejecutar una consulta de actualización daría incorrectamente el mensaje de error: "La consulta está dañada".
+
 ### <a name="outlook"></a>Outlook
 
 - Se ha corregido un problema por el que los usuarios veían cambiar el campo de ubicación de las reuniones de forma inesperada.
 
 - Se ha corregido un problema por el que los usuarios veían un cuadro de mensaje vacío con el botón &quot;Aceptar&quot; al intentar ponerse en contacto con el soporte técnico desde la Creación de cuenta.
-
-
 
 [//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
 
@@ -68,7 +70,6 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 [//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
-
 
 ### <a name="excel"></a>Excel
 

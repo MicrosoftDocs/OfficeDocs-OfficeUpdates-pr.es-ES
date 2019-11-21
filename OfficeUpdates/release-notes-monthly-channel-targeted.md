@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider Lento la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 242760e78e844c506c0fd097ab5acf930a9e7f48
-ms.sourcegitcommit: 14a61d37299ee3decb77b048ab12730e616292f7
+ms.openlocfilehash: c0c94dc4bfbc6e8e215b5c8d7b713e61abf3c651
+ms.sourcegitcommit: ef6ec784e9bd8d7e39a9a0a989adc66612f6349b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724068"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38753807"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Las compilaciones de notas de la versión del canal mensual de Office (dirigido)
 
@@ -26,7 +26,20 @@ En este artículo hay notas de la versión para las compilaciones del canal mens
 
 [//]: # (NO ELIMINAR)
 
-[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
+
+## <a name="version-1911-november-20"></a>Versión 1911: 20 de noviembre
+*Versión 1911 (compilación 12228.20250)*
+
+
+[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="outlook"></a>Outlook
+
+- **Configuración avanzada del correo electrónico del grupo:** Esta característica ayuda a los usuarios del grupo a personalizar qué mensajes o eventos recibirán o seguirán en la bandeja de entrada.
+
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO FINAL)
 
 ## <a name="version-1911-november-15"></a>Versión 1911: 15 de noviembre
 *Versión 1911 (compilación 12228.20206)*
