@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista completa de las versiones de Office 365 ProPlus, organizada por fecha, con vínculos a las notas de la versión.
-ms.openlocfilehash: dd654660405dd48dbff683dc2d27c2103ff1e118
-ms.sourcegitcommit: 31531d8a7be9a65ac361168901c40c260dcbac46
+ms.openlocfilehash: 2f445b8bcdbeb02ae861385691f2c80940e1c9e1
+ms.sourcegitcommit: 9fd95a1f16e15923ce60791093d907f32c28fc5d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38704479"
+ms.lasthandoff: 11/23/2019
+ms.locfileid: "39204309"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Historial de actualizaciones de Office 365 ProPlus (ordenado por fecha)
 
@@ -31,10 +31,10 @@ En la tabla siguiente se muestra la versión compatible y el número de compilac
 
 |**Canal**|**Versión**|**Compilación**|**Fecha de publicación**|**Versión admitida hasta**|
 |:-----|:-----|:-----|:-----|:-----|
-|Mensualmente<br/>|1910<br/>|12130.20390<br/>|18 de noviembre de 2019<br/>|Se ha publicado la versión 1911<br/>|
-|Semianual (dirigido)<br/>|1908<br/>|11929.20436<br/>|12 de noviembre de 2019<br/>|10 de marzo de 2020<br/>|
-|Semianual<br/>|1902<br/>|11328.20468<br/>|12 de noviembre de 2019<br/>|8 de septiembre de 2020<br/>|
-|Semianual<br/>|1808<br/>|10730.20416<br/>|12 de noviembre de 2019<br/>|10 de marzo de 2020<br/>|
+|Mensualmente<br/>|1910<br/>|12130.20410<br/>|22 de noviembre de 2019<br/>|Se ha publicado la versión 1911<br/>|
+|Semianual (dirigido)<br/>|1908<br/>|11929.20494<br/>|22 de noviembre de 2019<br/>|10 de marzo de 2020<br/>|
+|Semianual<br/>|1902<br/>|11328.20480<br/>|22 de noviembre de 2019<br/>|8 de septiembre de 2020<br/>|
+|Semianual<br/>|1808<br/>|10730.20422<br/>|22 de noviembre de 2019<br/>|10 de marzo de 2020<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -46,6 +46,7 @@ En la tabla siguiente, se muestra una lista de los números de versión y compil
 
 |**Year**|**Fecha de publicación**|**Canal mensual**|**Canal semianual (dirigido)**|**Canal semianual**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|22 de noviembre|[Versión 1910 (compilación 12130.20410)](monthly-channel-2019.md#version-1910-november-22)|[Versión 1908 (compilación 11929.20494)](semi-annual-channel-targeted-2019.md#version-1908-november-22)|[Versión 1902 (compilación 11328.20480)](semi-annual-channel-2019.md#version-1902-november-22)<br/>[Versión 1808 (compilación 10730.20422)](semi-annual-channel-2019.md#version-1808-november-22)|
 |2019|18 de noviembre|[Versión 1910 (compilación 12130.20390)](monthly-channel-2019.md#version-1910-november-18)| | |
 |2019|12 de noviembre|[Versión 1910 (compilación 12130.20344)](monthly-channel-2019.md#version-1910-november-12) |[Versión 1908 (compilación 11929.20436)](semi-annual-channel-targeted-2019.md#version-1908-november-12)|[Versión 1902 (compilación 11328.20468)](semi-annual-channel-2019.md#version-1902-november-12)<br/>[Versión 1808 (compilación 10730.20416)](semi-annual-channel-2019.md#version-1808-november-12)|
 |2019|30 de octubre|[Versión 1910 (compilación 12130.20272)](monthly-channel-2019.md#version-1910-october-30)| | |
