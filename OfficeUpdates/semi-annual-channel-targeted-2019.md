@@ -9,25 +9,64 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual (dirigido) de Office 365 ProPlus en 2019.
-ms.openlocfilehash: f57ae4f07bbf8838e2c82eeb28534d2ac364bf24
-ms.sourcegitcommit: 4ff072b2b611be960cbd8c7f810b31b2751c4c88
+ms.openlocfilehash: a9debfb0a7ce3b844627c528288fb408dcd563e3
+ms.sourcegitcommit: 9fd95a1f16e15923ce60791093d907f32c28fc5d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/13/2019
-ms.locfileid: "38312140"
+ms.lasthandoff: 11/23/2019
+ms.locfileid: "39204349"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de la versión para las versiones de Canal semianual (dirigido) en 2019
 
 En estas notas de la versión, se proporciona información sobre características nuevas y actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones del Canal semianual (dirigido) de Office 365 ProPlus 2019, Visio Pro para Office 365, el Cliente de escritorio de Project Online y Office 365 Empresa.
 
 > [!NOTE]
-> - A menudo publicamos características (y a veces incluso correcciones) para el Canal semianual (dirigido) durante un período de tiempo. Si no ve algo que se describe a continuación de inmediato, lo verá pronto. [Más información](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
-> - Microsoft Teams está incluido en las nuevas instalaciones de canal semianual (dirigido), empezando por la versión 1902. Se agregará Teams a las instalaciones existentes de canal semianual (dirigido) cuando se actualicen a la versión 1908 o posterior. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/es-ES/deployoffice/teams-install).
+> - A menudo publicamos características (y a veces incluso correcciones) para el Canal semianual (dirigido) durante un período de tiempo. Si no ve algo que se describe a continuación de inmediato, lo verá pronto. [Más información](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - Microsoft Teams está incluido en las nuevas instalaciones de canal semianual (dirigido), empezando por la versión 1902. Se agregará Teams a las instalaciones existentes de canal semianual (dirigido) cuando se actualicen a la versión 1908 o posterior. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/teams-install).
+
+## <a name="version-1908-november-22"></a>Versión 1908: 22 de noviembre
+*Versión 1908 (compilación 11929.20494)*
+
+
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO INICIAL)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Problema de rendimiento bajo al hacer clic en el botón Color de fuente cuando un archivo tiene un formato condicional extenso.
+
+- Se ha corregido un problema por el que el área de impresión en la vista previa de impresión no era correcta.
+
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema por el que los usuarios veían un cuadro de mensaje vacío con el botón &quot;Aceptar&quot; al intentar ponerse en contacto con el soporte técnico desde la Creación de cuenta.
+
+- Se ha realizado un cambio que permite a los administradores habilitar una directiva para que las solicitudes de autenticación de detección automática prefieran el correo electrónico de cuenta proporcionado sobre el UPN. De forma predeterminada, detección automática prefiere el UPN de la cuenta, cuando está disponible.
+
+- Se ha corregido un problema que provocaba que los usuarios vieran un error en la búsqueda con grupos modernos.
+
+- Se ha corregido un problema que provocaba que los usuarios experimentaran un error al intentar crear una regla desde un mensaje de&quot;Conversación perdida&quot;.
+
+### <a name="word"></a>Word
+
+- Se ha corregido un problema que podría haber provocado problemas de escalabilidad al imprimir impresoras Deskjet.
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Se ha corregido un problema para evitar que los usuarios de PowerPoint experimenten errores al intentar presentar en línea.
+
+- Se ha mejorado la confiabilidad del proceso de actualización de Office respecto a la integridad del registro.
+
+- Se ha corregido un problema en el que las actualizaciones podían haberse bloqueado de forma inesperada en redes de uso medido.
+
+- Se ha corregido un problema en la configuración de la fechas límites de actualización para ODT y GPO donde la fecha límite relativa solo funciona la primera vez que se establece, y la corrección habilita la fecha límite relativa para las actualizaciones posteriores.
+
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
 
 ## <a name="version-1908-november-12"></a>Versión 1908: 12 de noviembre
 *Versión 1908 (compilación 11929.20436)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/es-ES/officeupdates/office365-proplus-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
@@ -104,7 +143,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-1908-october-08"></a>Versión 1908: 8 de octubre
 *Versión 1908 (compilación 11929.20388)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/es-ES/officeupdates/office365-proplus-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 [//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO INICIAL)
 
@@ -144,34 +183,34 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-1908-september-10"></a>Versión 1908: 10 de septiembre
 *Versión 1908 (Build 11929,20300)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/es-ES/officeupdates/office365-proplus-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="access"></a>Access
 
-- **Zoom con más espacio:** agrandar el cuadro de Zoom, cambiar la fuente y hacer que Zoom lo recuerde todo. [Más información](https://support.office.com/es-ES/article/9a62d165-67f8-4790-bad8-a2c2e83dcedf)
+- **Zoom con más espacio:** agrandar el cuadro de Zoom, cambiar la fuente y hacer que Zoom lo recuerde todo. [Más información](https://support.office.com/article/9a62d165-67f8-4790-bad8-a2c2e83dcedf)
 
 - **Mantener un seguimiento de los objetos de base de datos:** ver claramente la pestaña activa, arrastrar las pestañas para reorganizarlas fácilmente y cerrar los objetos de base de datos con un solo clic.
 
-- **Cambiar sin problemas:** el nuevo administrador de cuentas muestra todas sus cuentas personales y profesionales de Office 365 en un solo lugar. Cambiar de una a otra nunca había sido tan fácil. [Más información](https://support.office.com/es-ES/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+- **Cambiar sin problemas:** el nuevo administrador de cuentas muestra todas sus cuentas personales y profesionales de Office 365 en un solo lugar. Cambiar de una a otra nunca había sido tan fácil. [Más información](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
 ### <a name="excel"></a>Excel
 
-- **Obtener más información sobre los datos:** el nuevo botón Ideas busca patrones en los datos y los usa para crear sugerencias inteligentes y personalizadas. [Más información](https://support.office.com/es-ES/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+- **Obtener más información sobre los datos:** el nuevo botón Ideas busca patrones en los datos y los usa para crear sugerencias inteligentes y personalizadas. [Más información](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
 - **Encuentre ese archivo rápido:** ¿Busca un archivo en el que trabajó recientemente? Basta con que escriba en el cuadro de búsqueda en la página Archivo > Inicio para encontrar el archivo que busca.
 
 - **Aumentar el alcance de su contenido:** ¿necesita que las presentaciones sean accesibles? Deje que el comprobador de accesibilidad le ayude sin estorbar. Pruébelo en Revisar > Comprobar accesibilidad y le informaremos en la barra de estado de cuando necesitemos que compruebe algo.
 
-- **Cambiar sin problemas:** el nuevo administrador de cuentas muestra todas sus cuentas personales y profesionales de Office 365 en un solo lugar. Cambiar de una a otra nunca había sido tan fácil. [Más información](https://support.office.com/es-ES/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+- **Cambiar sin problemas:** el nuevo administrador de cuentas muestra todas sus cuentas personales y profesionales de Office 365 en un solo lugar. Cambiar de una a otra nunca había sido tan fácil. [Más información](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
-- **Vea cómo la hoja de cálculo cobra vida**: inserte gráficos 3D animados para ver corazones que laten, planetas en órbita y dinosaurios a toda velocidad por el libro. [Más información](https://support.office.com/es-ES/article/6f08009a-3da5-400d-a706-8e23f304cd72)
+- **Vea cómo la hoja de cálculo cobra vida**: inserte gráficos 3D animados para ver corazones que laten, planetas en órbita y dinosaurios a toda velocidad por el libro. [Más información](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)
 
 - **La colaboración es ahora más fácil**: las mejoras en la coautoría significan que al trabajar con el formato condicional, los estilos de celda y otros elementos, los cambios se combinan perfectamente con los de los colaboradores.
 
-- **Unir tablas en columnas similares:** obtener y transformar (Power Query) ahora ofrece una lógica de coincidencia de texto (también denominada coincidencia aproximada) al comparar columnas en la combinación de tablas. [Más información](https://support.office.com/es-ES/article/ffdd5082-c0c8-4c8e-a794-bd3962b90649)
+- **Unir tablas en columnas similares:** obtener y transformar (Power Query) ahora ofrece una lógica de coincidencia de texto (también denominada coincidencia aproximada) al comparar columnas en la combinación de tablas. [Más información](https://support.office.com/article/ffdd5082-c0c8-4c8e-a794-bd3962b90649)
 
 - **Programar rápidamente con mejoras de Power Query:** termine rápidamente el código con colores de sintaxis y la función de autocompletar. Además, descubra fácilmente funciones, columnas y parámetros.
 
@@ -181,15 +220,15 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - **Creación en el tiempo entre las reuniones consecutivas:** asigne a los asistentes el tiempo para descansar o desplazarse entre las distintas ubicaciones al configurar reuniones para finalizar 5 a 10 minutos antes de forma predeterminada.
 
-- **Verán los memes que comparta:** cuando un texto o imágenes estáticas no consigan comunicar lo que desea, use un GIF animado para aclararlo. [Más información](https://support.office.com/es-ES/article/114bb251-861f-41cd-b20f-7e7289630c5b)
+- **Verán los memes que comparta:** cuando un texto o imágenes estáticas no consigan comunicar lo que desea, use un GIF animado para aclararlo. [Más información](https://support.office.com/article/114bb251-861f-41cd-b20f-7e7289630c5b)
 
-- **Hemos actualizado la experiencia de usuario de Outlook para usted:** una experiencia simplificada, anteriormente disponible para su vista previa con Próximamente, diseñada para ayudarle a centrarse en lo más importante. [Más información](https://support.office.com/es-ES/article/db503157-1b45-45d5-af52-e9c978cd8bed)
+- **Hemos actualizado la experiencia de usuario de Outlook para usted:** una experiencia simplificada, anteriormente disponible para su vista previa con Próximamente, diseñada para ayudarle a centrarse en lo más importante. [Más información](https://support.office.com/article/db503157-1b45-45d5-af52-e9c978cd8bed)
 
 - **¿Quiere que su diseño tenga un espaciado menor o mayor? Usted elige:** la opción de un espaciado más ajustado le permite decidir si quiere más espacio entre los elementos o un diseño más ajustado para ver más elementos.
 
-- **Una cinta simplificada que además es personalizable:** disfrute de una sola fila simplificada con los botones más usados. Cambie fácilmente entre la vista clásica y la simplificada, y ancle o desancle comandos. [Más información](https://support.office.com/es-ES/article/44bef9c3-295d-4092-b7f0-f471fa629a98)
+- **Una cinta simplificada que además es personalizable:** disfrute de una sola fila simplificada con los botones más usados. Cambie fácilmente entre la vista clásica y la simplificada, y ancle o desancle comandos. [Más información](https://support.office.com/article/44bef9c3-295d-4092-b7f0-f471fa629a98)
 
-- **Una forma más rápida de agregar cuentas:** gracias a las mejoras de configuración de cuentas, es más fácil que nunca agregar cuentas de Outlook.com y Gmail que usen la autenticación en dos fases a Outlook. [Más información](https://support.office.com/es-ES/article/70191667-9c52-4581-990e-e30318c2c081)
+- **Una forma más rápida de agregar cuentas:** gracias a las mejoras de configuración de cuentas, es más fácil que nunca agregar cuentas de Outlook.com y Gmail que usen la autenticación en dos fases a Outlook. [Más información](https://support.office.com/article/70191667-9c52-4581-990e-e30318c2c081)
 
 - **Seleccione su acción favorita:** ¿no usa Etiquetar ni Eliminar? ¿Qué hay de Archivar o Marcar como leído? Personalice el menú de acciones rápidas con los comandos que use más frecuentemente.
 
@@ -197,7 +236,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Pregunte a su público con un cuestionario o una encuesta:** coloque un cuestionario o una encuesta en una diapositiva. Office recopila y almacena las respuestas para usted. [Más información](https://support.office.com/es-ES/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
+- **Pregunte a su público con un cuestionario o una encuesta:** coloque un cuestionario o una encuesta en una diapositiva. Office recopila y almacena las respuestas para usted. [Más información](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
 - **Encuentre ese archivo rápido:** ¿Busca un archivo en el que trabajó recientemente? Basta con que escriba en el cuadro de búsqueda en la página Archivo > Inicio para encontrar el archivo que busca.
 
@@ -205,41 +244,41 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - **Guardar los cambios a medida que los realiza:** cargue el archivo en OneDrive para asegurarse de que todas las actualizaciones se guardan automáticamente.
 
-- **Nunca fue tan fácil insertar un vídeo en línea:** ¿quiere poner un vídeo de Vimeo o de YouTube en la diapositiva? Solo necesita el vínculo a la página del vídeo. [Más información](https://support.office.com/es-ES/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+- **Nunca fue tan fácil insertar un vídeo en línea:** ¿quiere poner un vídeo de Vimeo o de YouTube en la diapositiva? Solo necesita el vínculo a la página del vídeo. [Más información](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
-- **Mejor transformación:** asigne un nombre a las formas para tener más control sobre cómo se transforman. [Más información](https://support.office.com/es-ES/article/bc7f48ff-f152-4ee8-9081-d3121788024f)
+- **Mejor transformación:** asigne un nombre a las formas para tener más control sobre cómo se transforman. [Más información](https://support.office.com/article/bc7f48ff-f152-4ee8-9081-d3121788024f)
 
-- **Cambiar sin problemas:** el nuevo administrador de cuentas muestra todas sus cuentas personales y profesionales de Office 365 en un solo lugar. Cambiar de una a otra nunca había sido tan fácil. [Más información](https://support.office.com/es-ES/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+- **Cambiar sin problemas:** el nuevo administrador de cuentas muestra todas sus cuentas personales y profesionales de Office 365 en un solo lugar. Cambiar de una a otra nunca había sido tan fácil. [Más información](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
-- **Los vídeos en línea tienen un nuevo hogar:** guarde un vídeo en Microsoft Stream para que puedan verlo todas las personas de su organización. Inserte el vínculo del vídeo y disfrute de una presentación multimedia en una fracción del tamaño del archivo. [Más información](https://support.office.com/es-ES/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+- **Los vídeos en línea tienen un nuevo hogar:** guarde un vídeo en Microsoft Stream para que puedan verlo todas las personas de su organización. Inserte el vínculo del vídeo y disfrute de una presentación multimedia en una fracción del tamaño del archivo. [Más información](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
 ### <a name="project"></a>Project
 
-- **Cambiar sin problemas:** el nuevo administrador de cuentas muestra todas sus cuentas personales y profesionales de Office 365 en un solo lugar. Cambiar de una a otra nunca había sido tan fácil. [Más información](https://support.office.com/es-ES/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+- **Cambiar sin problemas:** el nuevo administrador de cuentas muestra todas sus cuentas personales y profesionales de Office 365 en un solo lugar. Cambiar de una a otra nunca había sido tan fácil. [Más información](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
 ### <a name="visio"></a>Visio
 
-- **Adiós a los vínculos rotos de Excel:** ¿no encuentra el libro de Excel vinculado a un diagrama de visualizador de datos? Solo tiene que vincularlo de nuevo y ¡listo! [Más información](https://support.office.com/es-ES/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
+- **Adiós a los vínculos rotos de Excel:** ¿no encuentra el libro de Excel vinculado a un diagrama de visualizador de datos? Solo tiene que vincularlo de nuevo y ¡listo! [Más información](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 
-- **Galerías de símbolos integradas en Azure:** diseñe una aplicación de nube o planee una arquitectura con las múltiples galerías de símbolos de Azure. [Más información](https://support.office.com/es-ES/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+- **Galerías de símbolos integradas en Azure:** diseñe una aplicación de nube o planee una arquitectura con las múltiples galerías de símbolos de Azure. [Más información](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
 - **Doble toma en diagramas de flujo de datos:** Los magníficos nuevos diseños para los diagramas de flujo del visualizador de datos son limpios, nítidos y fáciles de entender. Haga clic en la pestaña Diseño para ver las opciones.
 
-- **Cambiar sin problemas:** el nuevo administrador de cuentas muestra todas sus cuentas personales y profesionales de Office 365 en un solo lugar. Cambiar de una a otra nunca había sido tan fácil. [Más información](https://support.office.com/es-ES/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+- **Cambiar sin problemas:** el nuevo administrador de cuentas muestra todas sus cuentas personales y profesionales de Office 365 en un solo lugar. Cambiar de una a otra nunca había sido tan fácil. [Más información](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
-- **Exportar diagramas de proceso a Word:** Agregue automáticamente contenido del diagrama, como formas y metadatos, a un documento de Word. Después, personalice el documento para crear instrucciones de procesos y manuales de funcionamiento. [Más información](https://support.office.com/es-ES/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+- **Exportar diagramas de proceso a Word:** Agregue automáticamente contenido del diagrama, como formas y metadatos, a un documento de Word. Después, personalice el documento para crear instrucciones de procesos y manuales de funcionamiento. [Más información](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
-- **Exportar objetos visuales de Visio desde Power BI**: los objetos visuales de Visio para Power BI ahora se mostrarán correctamente al exportar informes de Power BI como archivos PDF, archivos de PowerPoint, etc. [Más información](https://support.office.com/es-ES/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+- **Exportar objetos visuales de Visio desde Power BI**: los objetos visuales de Visio para Power BI ahora se mostrarán correctamente al exportar informes de Power BI como archivos PDF, archivos de PowerPoint, etc. [Más información](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
 
 ### <a name="word"></a>Word
 
-- **Edición natural con el Editor para entradas de lápiz:** con un solo trazo, divida o una palabras, agregue una nueva línea o inserte palabras con el lápiz. [Más información](https://support.office.com/es-ES/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
+- **Edición natural con el Editor para entradas de lápiz:** con un solo trazo, divida o una palabras, agregue una nueva línea o inserte palabras con el lápiz. [Más información](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
 
-- **Su documento: de estático a mágico:** transforme el documento en una página web interactiva y fácil de compartir con un aspecto fantástico en cualquier dispositivo. [Más información](https://support.office.com/es-ES/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
+- **Su documento: de estático a mágico:** transforme el documento en una página web interactiva y fácil de compartir con un aspecto fantástico en cualquier dispositivo. [Más información](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
 
-- **Llame su atención con \@Menciones:** use @menciones en los comentarios para avisar a otros cuando necesite su participación. [Más información](https://support.office.com/es-ES/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **Llame su atención con \@Menciones:** use @menciones en los comentarios para avisar a otros cuando necesite su participación. [Más información](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 
-- **Mejorar la comprensión con el foco de línea:** desplácese por un documento línea por línea sin distracciones. Ajuste el foco para ver una, tres o cinco líneas a la vista. [Más información](https://support.office.com/es-ES/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
+- **Mejorar la comprensión con el foco de línea:** desplácese por un documento línea por línea sin distracciones. Ajuste el foco para ver una, tres o cinco líneas a la vista. [Más información](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
 
 - **Encuentre ese archivo rápido:** ¿Busca un archivo en el que trabajó recientemente? Basta con que escriba en el cuadro de búsqueda en la página Archivo > Inicio para encontrar el archivo que busca.
 
@@ -249,13 +288,13 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - **El modo herramientas de aprendizaje tiene soporte adicional para más colores de página: **las herramientas de aprendizaje de Word son compatibles con más colores de tema de página, lo que permite cambiar el color de fondo de la página. Muchas personas tienen dificultades para leer con un fondo totalmente blanco o negro, por lo que hemos ampliado la elección de colores en Word para PC y Mac.
 
-- **Cambiar sin problemas:** el nuevo administrador de cuentas muestra todas sus cuentas personales y profesionales de Office 365 en un solo lugar. Cambiar de una a otra nunca había sido tan fácil. [Más información](https://support.office.com/es-ES/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+- **Cambiar sin problemas:** el nuevo administrador de cuentas muestra todas sus cuentas personales y profesionales de Office 365 en un solo lugar. Cambiar de una a otra nunca había sido tan fácil. [Más información](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
-- **Despídase de las distracciones:** llega a Windows una de las característica favoritas de Mac. Cambie al modo Focalizado en el menú Vista para eliminar las distracciones y concentrarse en su trabajo. [Más información](https://support.office.com/es-ES/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
+- **Despídase de las distracciones:** llega a Windows una de las característica favoritas de Mac. Cambie al modo Focalizado en el menú Vista para eliminar las distracciones y concentrarse en su trabajo. [Más información](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
 
 ### <a name="office-suite"></a>Conjunto de aplicaciones de Office
 
-- **Instalación de Microsoft Teams:** se ha agregado Teams a las instalaciones existentes de Office 365 ProPlus. [Más información](https://docs.microsoft.com/es-ES/deployoffice/teams-install)
+- **Instalación de Microsoft Teams:** se ha agregado Teams a las instalaciones existentes de Office 365 ProPlus. [Más información](https://docs.microsoft.com/DeployOffice/teams-install)
 
 - **Guardar los cambios a medida que los realiza:** cargue el archivo en OneDrive para asegurarse de que todas las actualizaciones se guardan automáticamente.
 
@@ -303,7 +342,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - Se ha corregido un problema que causaba que los usuarios vieran sugerencias de sala para las reuniones que ocurrieron fuera de las horas de disponibilidad de este salón.
 
-- Se ha corregido el problema de servicio temporal que causaba que los usuarios vieran el error "No se encuentra el archivo. Compruebe que la ruta de acceso y el nombre de archivo sean correctos" al usar datos adjuntos de la nube. [Más información](https://support.office.com/es-ES/article/outlook-unable-to-attach-onedrive-or-sharepoint-files-to-emails-136951bb-60dc-478a-b916-6ee39e62c37a)
+- Se ha corregido el problema de servicio temporal que causaba que los usuarios vieran el error "No se encuentra el archivo. Compruebe que la ruta de acceso y el nombre de archivo sean correctos" al usar datos adjuntos de la nube. [Más información](https://support.office.com/article/outlook-unable-to-attach-onedrive-or-sharepoint-files-to-emails-136951bb-60dc-478a-b916-6ee39e62c37a)
 
 - Se ha corregido un problema que causaba que los usuarios vieran los archivos cargados desde Outlook a OneDrive o SharePoint tienen el nombre de archivo cambiado donde varios caracteres reemplazados por subrayado.
 
@@ -348,7 +387,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-1902-august-13"></a>Versión 1902: 13 de agosto
 *Versión 1902 (compilación 11328.20392)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/es-ES/officeupdates/office365-proplus-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad
 - Se ha corregido un problema por el que se mostraba el icono borrar filtro de las segmentaciones de datos filtrados y sin filtrar de las tablas.
@@ -365,12 +404,12 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 - Se ha corregido un problema por el que la aplicación finalizaba de forma inesperada al colaborar en un documento con otros usuarios.
 
 ### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones no relacionadas con la seguridad
-- Se ha corregido un problema por el que la API de configuración no funcionaba en la biblioteca JavaScript de Office en ciertos escenarios. [Más información](https://support.microsoft.com/es-ES/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
+- Se ha corregido un problema por el que la API de configuración no funcionaba en la biblioteca JavaScript de Office en ciertos escenarios. [Más información](https://support.microsoft.com/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
 
 ## <a name="version-1902-july-09"></a>Versión 1902: 09 de julio
 *Versión 1902 (compilación 11328.20368)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/es-ES/officeupdates/office365-proplus-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 
 ### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad
@@ -412,7 +451,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 ## <a name="version-1902-june-11"></a>Versión 1902: 11 de junio
 *Versión 1902 (compilación 11328.20318)*
-<br/>Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/es-ES/officeupdates/office365-proplus-security-updates)
+<br/>Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad
  - Se ha resuelto un problema que provocaba un bloqueo al guardar un archivo que contenía una asignación XML para PDF.
@@ -502,7 +541,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 ### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones no relacionadas con la seguridad
 
-- Corregido un problema por el que los elementos de una actualización de Office no usan el almacenamiento en caché del mismo nivel de optimización de entrega. [Más información](https://docs.microsoft.com/es-ES/windows/deployment/update/waas-delivery-optimization)
+- Corregido un problema por el que los elementos de una actualización de Office no usan el almacenamiento en caché del mismo nivel de optimización de entrega. [Más información](https://docs.microsoft.com/windows/deployment/update/waas-delivery-optimization)
 - Corrección de un error que podría provocar que se eliminaran o no se activaran productos si Office se había instalado con la Herramienta de implementación de Office y había un caso de no coincidencia.
 - Corregido un problema que causaba indicaciones de inicio de sesión excesivas en dispositivos Windows 10 (versión 1803 o posterior).
 - Corregida regresión que producía bloqueos al descargar imágenes vinculadas.
@@ -541,7 +580,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 - **Nuevo valor predeterminado para el intervalo de periodicidad:** para el cuadro de diálogo Periodicidad, el intervalo de periodicidad utilizado de forma predeterminada es "Sin fecha de finalización". Esto facilita la creación de serie periódicas de ejecución prolongada, que pueden dañarse con el tiempo. Vamos a actualizar el valor predeterminado del cuadro de diálogo Periodicidad a "Finalizar el", para que dicho valor coincida con los procedimientos recomendados de calendarios.
 - **Unirse a reuniones de Teams desde el cuadro de diálogo Recordatorios de Outlook:** cuando Outlook recuerda a los usuarios que se aproxima una reunión, se mostrará un botón Unirse en línea si la reunión que se aproxima es una reunión en línea de Teams. Esta experiencia es similar a la de unión a una reunión de Skype Empresarial desde el cuadro de diálogo Recordatorios de Outlook.
 - **Dejar de ver avisos de eventos anteriores:** puede configurar el calendario para descartar de forma automática los avisos de eventos una vez que hayan finalizado. [Más información](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
-- **Ver la dirección URL de Vínculos seguros:** los vínculos seguros le protegen de direcciones URL malintencionadas recibidas por correo electrónico, pero ocultan la dirección URL original. Para ver el original, mueva el puntero sobre la dirección URL. Requiere una licencia de Protección contra amenazas avanzada. [Más información](https://products.office.com/es-ES/exchange/advance-threat-protection)
+- **Ver la dirección URL de Vínculos seguros:** los vínculos seguros le protegen de direcciones URL malintencionadas recibidas por correo electrónico, pero ocultan la dirección URL original. Para ver el original, mueva el puntero sobre la dirección URL. Requiere una licencia de Protección contra amenazas avanzada. [Más información](https://products.office.com/exchange/advance-threat-protection)
 - **Zoom y quieto:** en lugar de ajustar el Zoom cada vez que lee un mensaje, elija una configuración predeterminada para todos los mensajes. [Más información](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **Cifrado de mensajes: directiva IRM de solo cifrado:** la nueva opción de solo cifrado aparece en Opciones > Menú permisos para los usuarios de cifrado de mensajes de Office 365. Esta opción le permite cifrar un mensaje y enviárselo a cualquier usuario dentro o fuera de su organización.
 - **Advertencia cuando está en CCO:** el recuadro CCO le avisará antes de que responda a todos accidentalmente en un correo electrónico en el que está en copia oculta.
@@ -593,7 +632,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ### <a name="office-suite-feature-updates"></a>Conjunto de aplicaciones de Office: actualizaciones de características
 
 - **Ahora, las aplicaciones de terceros de Office son compatibles con la inserción de SVG a través de la API office.js:** las aplicaciones de terceros, también conocidas como complementos de Office, ahora tienen la capacidad de insertar SVG. Ahora los usuarios pueden conectar a Office su colección personal de SVG. Los desarrolladores pueden usar esta característica mediante la API Office.js.
-- **Instalación de Microsoft Teams:** Microsoft Teams se instala de forma predeterminada para las NUEVAS instalaciones de Office 365 ProPlus. [Más información](https://docs.microsoft.com/es-ES/deployoffice/teams-install)
+- **Instalación de Microsoft Teams:** Microsoft Teams se instala de forma predeterminada para las NUEVAS instalaciones de Office 365 ProPlus. [Más información](https://docs.microsoft.com/DeployOffice/teams-install)
 
 ### <a name="skype-for-business-feature-updates"></a>Skype Empresarial: actualizaciones de características
 
@@ -619,7 +658,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 ### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones no relacionadas con la seguridad
 
-- Corregido el problema por el que los complementos implementados con la [implementación centralizada de Office O365](https://docs.microsoft.com/es-ES/office/dev/add-ins/publish/centralized-deployment) se bloqueaban y no se podían usar.
+- Corregido el problema por el que los complementos implementados con la [implementación centralizada de Office O365](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment) se bloqueaban y no se podían usar.
 
 
 ## <a name="version-1808-january-8"></a>Versión 1808: 8 de enero
