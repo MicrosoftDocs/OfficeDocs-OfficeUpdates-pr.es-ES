@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual (dirigido) de Office 365 ProPlus en 2019.
-ms.openlocfilehash: a9debfb0a7ce3b844627c528288fb408dcd563e3
-ms.sourcegitcommit: 9fd95a1f16e15923ce60791093d907f32c28fc5d
+ms.openlocfilehash: ad38d452524ad3fd9ee90e435c55f6ffa6a009e3
+ms.sourcegitcommit: d42cb920d5533cc1fcbdf97e7f186af9bf4a9633
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/23/2019
-ms.locfileid: "39204349"
+ms.lasthandoff: 11/25/2019
+ms.locfileid: "39254349"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de la versión para las versiones de Canal semianual (dirigido) en 2019
 
@@ -31,6 +31,11 @@ En estas notas de la versión, se proporciona información sobre característica
 [//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO INICIAL)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
+
+### <a name="access"></a>Access
+
+- Se corrigió un problema en el que ejecutar una consulta de actualización daría incorrectamente el mensaje de error: "La consulta está dañada".
+
 ### <a name="excel"></a>Excel
 
 - Problema de rendimiento bajo al hacer clic en el botón Color de fuente cuando un archivo tiene un formato condicional extenso.
