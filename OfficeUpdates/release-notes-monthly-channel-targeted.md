@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider Lento la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 5abaa516f750daa60b0a2538f8d75f7a1b3fb71b
-ms.sourcegitcommit: d54d66f9c5f68a3a20ebb5f1004fb6c3ad9f62cc
+ms.openlocfilehash: a1ad777f8794fe2ec85b583ebd51dcdfe6b07f06
+ms.sourcegitcommit: 2008f3580435cc725ca36b2f762e5adf4df7f89a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39603694"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39668050"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Las compilaciones de notas de la versión del canal mensual de Office (dirigido)
 
@@ -29,6 +29,7 @@ En este artículo hay notas de la versión para las compilaciones del canal mens
 [//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
 
 [//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO FINAL)
+
 
 ## <a name="version-1911-november-20"></a>Versión 1911: 20 de noviembre
 *Versión 1911 (compilación 12228.20250)*
