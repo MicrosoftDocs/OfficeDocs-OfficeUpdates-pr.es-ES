@@ -3,19 +3,19 @@ title: Últimas actualizaciones no relacionadas con la seguridad para las versio
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 11/06/2019
+ms.date: 12/04/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI vínculos a la información de las últimas actualizaciones no relacionadas con la seguridad de las versiones perpetuas de Office 2016, Office 2013 y Office 2010.
-ms.openlocfilehash: dfb3e62d922774dce989bc6fadca93e1b80bc126
-ms.sourcegitcommit: a3a8b07e171e61f3dde1530a0c067d621db07feb
+ms.openlocfilehash: 85c94bef062f0ed71bbdcbfd1f1fd0684ba206be
+ms.sourcegitcommit: 37fc7174310b0a4dc6a816d675b8e1b7d9302ffd
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "37993705"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39678652"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Últimas actualizaciones no relacionadas con la seguridad para las versiones de Office que usan Windows Installer (MSI)
 
@@ -26,6 +26,13 @@ Esta página enumera las actualizaciones de Office no relacionadas con la seguri
 > - La información de este artículo no se aplica a las versiones de Office 365 de Office, como Office 365 ProPlus.
 > - Para obtener más información sobre la instalación de actualizaciones de Office, vea [Instalación de actualizaciones de Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
+
+## <a name="december-3-2019"></a>3 de diciembre de 2019
+
+**Office 2016**<br/>
+Actualización para Microsoft Office 2016 ([KB4484170](https://support.microsoft.com/help/4484170)) <br/>
+Actualización para Microsoft Outlook 2016 ([KB4484172](https://support.microsoft.com/help/4484172)) <br/>
+Actualización para Skype Empresarial 2016 ([KB4484133](https://support.microsoft.com/help/4484133)) <br/>
 
 ## <a name="november-5-2019"></a>5 de noviembre de 2019
 
@@ -117,17 +124,3 @@ Actualización de Microsoft Word 2013 ([KB4475525](https://support.microsoft.com
 **Office 2010**<br/>
 Actualización para Microsoft Filter Pack 2,0 ([KB3114879](https://support.microsoft.com/help/3114879))<br/>Actualización de Microsoft Office 2010 ([KB3114397](https://support.microsoft.com/help/3114397))<br/><br/>
 
-## <a name="june-4-2019"></a>4 de junio de 2019
-
-**Office 2016**<br/>
-Actualización de Microsoft Excel 2016 ([KB4464578](https://support.microsoft.com/help/4464578))<br/>
-Actualización de Microsoft Office 2016 ([KB4464539](https://support.microsoft.com/help/4464539))<br/>
-Actualización de Microsoft Office 2016 ([KB4464579](https://support.microsoft.com/help/4464579))<br/>
-Actualización del paquete de interfaz de idiomas de Microsoft Office 2016 ([KB4464581](https://support.microsoft.com/help/4464581))<br/>
-Actualización de Microsoft Outlook 2016 ([KB4464585](https://support.microsoft.com/help/4464585))<br/>
-Actualización de Microsoft Project 2016 ([KB4464589](https://support.microsoft.com/help/4464589))<br/>
-Actualización de Skype Empresarial 2016 ([KB4464576](https://support.microsoft.com/help/4464576))<br/>
-
-**Office 2013**<br/>
-Actualización de Skype Empresarial 2015 ([KB4464593](https://support.microsoft.com/help/4464593))<br/>
-<br/>
