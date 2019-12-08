@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: c0128f82e5b00e5e6b0e13d56073732d2be3a73e
-ms.sourcegitcommit: 31531d8a7be9a65ac361168901c40c260dcbac46
+ms.openlocfilehash: e43a4c0dfcccd71ff2db672328488e9ffd363d71
+ms.sourcegitcommit: cdd69a3af5873fd60a3dabc010339acc19265db3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38704499"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "39890464"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -29,6 +29,103 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
 [//]: # (NO ELIMINAR)
 
+
+## <a name="version-1912-december-06"></a>Versión 1912: 6 de diciembre 
+*Versión 1912 (compilación 12325.20012)*
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="outlook"></a>Outlook
+
+- **Configuración avanzada del correo electrónico del grupo:** Esta característica ayuda a los usuarios del grupo a personalizar qué mensajes o eventos recibirán o seguirán en la bandeja de entrada.
+
+- **Directiva de nomenclatura de grupos:** las directivas de nomenclatura de grupo permiten al administrador de TI normalizar y administrar los nombres de los grupos creados por usuarios de la organización. El administrador puede requerir que se añada un prefijo o sufijo concreto al nombre de un grupo cuando se crea y puede bloquear el uso de determinadas palabras. Esto ayuda a minimizar el uso de palabras inadecuadas en los nombres de grupo, y permite que el administrador de TI gestione la representación de los grupos en el directorio. La Directiva de nomenclatura también ayuda a las organizaciones que implementan sitios de grupo a organizarse en base al departamento.
+
+### <a name="office-suite"></a>Conjunto de programas de Office
+
+- **Paneles con pestañas:** ahora puede cambiar entre varios paneles con la pestaña situada en la parte derecha de la aplicación. Esta interfaz de usuario solo será visible cuando haya dos o más paneles abiertos.
+
+
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Es posible que los usuarios vean un error cuando guarden cambios si usan grupos de caracteres que no están en inglés.
+
+- Es posible que los usuarios vean un error si acceden a un rango con nombre oculto.
+
+- Deshabilitar la aceleración de gráficos de hardware con resolución 4K puede causar que se retrase el renderizado de celdas al desplazarse por ellas.
+
+- También es posible que se vean los bordes de una celda cuando borre fórmulas que, por su longitud, sobrepasen el límite de la celda.
+
+- Se ha resuelto un problema en el que no se cargaba la personalización de cinta de opciones al abrir un libro insertado.
+
+- El margen del menú desplegable puede no renderizarse correctamente.
+
+### <a name="onenote"></a>OneNote
+
+- Es posible que OneNote no se abra con el complemento de Outlook "Notas de la reunión".
+
+### <a name="outlook"></a>Outlook
+
+- Las etiquetas de directivas de retención pueden mostrar el período de tiempo de retención entre paréntesis.
+
+- Es posible que aparezcan espacios en blanco en las Tarjetas de contacto con el paquete de idioma japonés.
+
+- En ocasiones, las imágenes insertadas en mensajes de correo electrónico de Outlook pueden cambiar de tamaño.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Si un usuario tiene dos o más vídeos diferentes en una diapositiva en un archivo de la nube, las imágenes de vídeo se procesan correctamente, pero cuando el usuario hace clic en cada una de ellas para reproducirlas, el contenido de vídeo es siempre el mismo.
+
+- En algunos casos, no funciona el desplazamiento con los dispositivos táctiles.
+
+- El margen del menú desplegable puede no renderizarse correctamente.
+
+- Los vínculos seguros de una aplicación de Office a otra pueden no iniciar la aplicación vinculada.
+
+### <a name="project"></a>Project
+
+- Project puede bloquearse cuando se usa la función Comparar proyectos.
+
+- Si se encuentra en el Modo oscuro, al ir al panel del inspector de tareas en una tarea con un exceso de asignación de recursos, no podrá leer la tabla.
+
+- Establecer el esfuerzo para las tareas que no tienen asignaciones se redondea a 1 día.
+
+### <a name="word"></a>Word
+
+- Guardar un archivo después de una combinación de correspondencia puede no funcionar en determinadas condiciones.
+
+- Es posible que el Organizador de bloques de creación muestre una alerta no válida: &quot;Modificó estilos, bloques de creación&quot;.
+
+- En ocasiones, el panel de comentarios se carga cuando se usa copiar o pegar.
+
+- En ocasiones, los comentarios no se pegan en el orden correcto.
+
+- Aplicar una plantilla que consista en una lista multinivel con estilos personalizados para los documentos existentes quizás no mantenga el estilo en determinadas condiciones.
+
+- Cambiar el tamaño del borde de la pantalla dividida puede incluir una pantalla dividida adicional.
+
+- El margen del menú desplegable puede no renderizarse correctamente.
+
+- Es posible que al mencionar a un usuario en una tarjeta de comentario se muestre un JSON.
+
+- Los vínculos seguros de una aplicación de Office a otra pueden no iniciar la aplicación vinculada.
+
+### <a name="office-suite"></a>Conjunto de programas de Office
+
+- Para los productos basados en japonés, el nombre y apellidos del usuario de la cuenta pueden aparecer en el orden incorrecto.
+
+- Al colocar el puntero del ratón sobre los comentarios, se puede mostrar un contorno de cuadro de texto alrededor del comentario.
+
+[//]: # (NO ELIMINAR LOS DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-1912-november-15"></a>Versión 1912: 15 de noviembre
 *Versión 1912 (compilación 12307.20000)*

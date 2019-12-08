@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual (dirigido) de Office 365 ProPlus en 2019.
-ms.openlocfilehash: ad38d452524ad3fd9ee90e435c55f6ffa6a009e3
-ms.sourcegitcommit: d42cb920d5533cc1fcbdf97e7f186af9bf4a9633
+ms.openlocfilehash: 45a382ee14fc4d9b2e92b7b911f1c8d1cb1ac67a
+ms.sourcegitcommit: cdd69a3af5873fd60a3dabc010339acc19265db3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/25/2019
-ms.locfileid: "39254349"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "39890454"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de la versión para las versiones de Canal semianual (dirigido) en 2019
 
@@ -42,6 +42,10 @@ En estas notas de la versión, se proporciona información sobre característica
 
 - Se ha corregido un problema por el que el área de impresión en la vista previa de impresión no era correcta.
 
+- Excel puede tener problemas al editar un archivo protegido desde una red compartida no confiable.
+
+- Corregido un problema que podía haber causado un fallo al buscar archivos recientes mientras no había ningún libro de trabajo abierto.
+
 ### <a name="outlook"></a>Outlook
 
 - Se ha corregido un problema por el que los usuarios veían un cuadro de mensaje vacío con el botón &quot;Aceptar&quot; al intentar ponerse en contacto con el soporte técnico desde la Creación de cuenta.
@@ -51,6 +55,8 @@ En estas notas de la versión, se proporciona información sobre característica
 - Se ha corregido un problema que provocaba que los usuarios vieran un error en la búsqueda con grupos modernos.
 
 - Se ha corregido un problema que provocaba que los usuarios experimentaran un error al intentar crear una regla desde un mensaje de&quot;Conversación perdida&quot;.
+
+- Se ha corregido un problema que provocaba que los usuarios vieran un error en la búsqueda con grupos modernos.
 
 ### <a name="word"></a>Word
 
