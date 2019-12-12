@@ -3,19 +3,19 @@ title: Historial de versiones de Microsoft AutoUpdate (MAU)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/13/2019
+ms.date: 12/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales informáticos un historial de versiones de Microsoft AutoUpdate (MAU).
-ms.openlocfilehash: 620c5d32848db366e110c799e5fef23c7fbf3455
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: c4fa1fa339d50ea94a95af16174f1e00c4f280ee
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289658"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961805"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historial de versiones de Microsoft AutoUpdate (MAU)
  
@@ -30,6 +30,25 @@ En la siguiente tabla, se proporciona información del historial de versiones de
 > - Microsoft AutoUpdate ofrece actualizaciones para distintos productos de Mac de Microsoft. Por tanto, es posible que reciba una notificación para actualizar Microsoft AutoUpdate, incluso si no está ejecutando Office para Mac.
 
 Para ver las notas de la versión, consulte [Notas de la versión.](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="december-2019-release"></a>Versión de diciembre de 2019
+
+**Fecha de lanzamiento:** 10 de diciembre de 2019
+
+*Actualización automática para Microsoft 4.18*
+
+ **Actualizaciones de características:**
+
+- Canal por aplicación: los administradores de equipos Mac ahora pueden suscribirse a diferentes canales o anillos de validación por aplicación. 
+
+
+**Vínculo para actualización de MAU:**
+
+[Descargar el paquete Actualización automática para Microsoft 4.18](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 Hash:**
+
+3AC34987AE344C6B097081DE15350DC9126FF7B5A00E24105AACD80E6F4DFCAF<br/><br/>
 
 ## <a name="november-2019-release"></a>Versión de noviembre de 2019
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2019
-ms.openlocfilehash: 3fb07aad5bc46630d2929cf36d18581bbb15fa99
-ms.sourcegitcommit: b259312e6a28ce767d11dc75e85844d209b94d88
+ms.openlocfilehash: 8a4f4ed0d165a592d5ac6503ca42cf02058ff988
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "39857848"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961795"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal mensual en 2019
 
@@ -23,6 +23,26 @@ En estas notas de la versión, se proporciona información sobre característica
  > [!NOTE]
 >- A menudo distribuimos características (y a veces incluso correcciones) para el Canal mensual durante un período de tiempo.  Si no ve algo que se describe a continuación de inmediato, lo verá pronto. [Más información](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a comienzos de julio, las actualizaciones de Office 365 ProPlus (y Office 365 Empresa) incluirán Microsoft Teams.  La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/teams-install).
+
+## <a name="version-1911-december-10"></a>Versión 1911: (10 de diciembre)
+*Versión 1911 (compilación 12228.20364)*
+
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/es-ES/officeupdates/office365-proplus-security-updates)
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Este cambio evita un problema con ciertos controladores de gráficos Intel al aprovechar el procesamiento del software.
+
+- Se ha corregido el botón derecho en el menú de gráficos dinámicos para habilitar la opción de mostrar los detalles.
+
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema que provocaba que los complementos web accedieran a los mensajes administrados con derechos digitales.
+
+[//]: # (NO ELIMINAR LOS DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-1911-december-03"></a>Versión 1911: 3 de diciembre 
 *Versión 1911 (compilación 12228.20332)*
