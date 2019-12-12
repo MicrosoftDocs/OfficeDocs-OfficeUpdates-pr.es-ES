@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual de Office 365 ProPlus en 2019.
-ms.openlocfilehash: 58bbbc3e37e0347f18f075d4d29126caf78e5439
-ms.sourcegitcommit: d42cb920d5533cc1fcbdf97e7f186af9bf4a9633
+ms.openlocfilehash: c014a790374d1b3143033774b4acd7e5e5f9aaa2
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/25/2019
-ms.locfileid: "39254369"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961987"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal semianual en 2019
 
@@ -24,11 +24,49 @@ En estas notas de la versión, se proporciona información sobre característica
 > - A menudo publicamos características (y a veces incluso correcciones) para el Canal semianual durante un período de tiempo. Si no ve algo que se describe a continuación de inmediato, lo verá pronto. [Más información](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - OneNote 2016 no se incluirá de forma predeterminada cuando un usuario en el canal semianual descargue e instale Office 365 en Windows 10 desde el Portal de Office.
 
-[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
+[//]: # (NO ELIMINAR LOS DETALLES DE ERROR DEL CONTENIDO FINAL)
+
+
+
+
+
+[//]: # (NO ELIMINAR LOS DETALLES DE ERROR DEL CONTENIDO FINAL)
+
+## <a name="version-1902-december-10"></a>Versión 1902 (10 de diciembre)
+*Versión 1902 (compilación 11328.20492)*
+
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/es-ES/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Este cambio evita un problema con ciertos controladores de gráficos Intel al aprovechar el procesamiento del software.
+
+### <a name="outlook"></a>Outlook
+
+- Los elementos del calendario del próximo año pueden mostrar una hora incorrecta en Outlook. [Más información](https://docs.microsoft.com/es-ES/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
+
+- Se ha corregido un problema que provocaba que los usuarios encontraran un bloqueo al intentar crear una regla desde un mensaje de&quot;Conversación perdida&quot;.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha corregido un problema relacionado con la impresión en la página de notas que tenía problemas de diseño en algunos casos.
+
+## <a name="version-1808-december-10"></a>Versión 1808 (10 de diciembre)
+*Versión 1808 (compilación 10730.20426)*
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="outlook"></a>Outlook
+
+- Los elementos del calendario del próximo año pueden mostrar una hora incorrecta en Outlook. [Más información](https://docs.microsoft.com/es-ES/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
+
+[//]: # (NO ELIMINAR LOS DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-1902-november-22"></a>Versión 1902: 22 de noviembre
 *Versión 1902 (compilación 11328.20480)*
-
 
 [//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO INICIAL)
 

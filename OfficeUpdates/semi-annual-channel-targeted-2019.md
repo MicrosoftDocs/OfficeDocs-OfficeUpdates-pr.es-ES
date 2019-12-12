@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual (dirigido) de Office 365 ProPlus en 2019.
-ms.openlocfilehash: 45a382ee14fc4d9b2e92b7b911f1c8d1cb1ac67a
-ms.sourcegitcommit: cdd69a3af5873fd60a3dabc010339acc19265db3
+ms.openlocfilehash: 8521872143f0330dd8ff7fd4092556503501b4a1
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/06/2019
-ms.locfileid: "39890454"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961977"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de la versión para las versiones de Canal semianual (dirigido) en 2019
 
@@ -23,6 +23,58 @@ En estas notas de la versión, se proporciona información sobre característica
 > [!NOTE]
 > - A menudo publicamos características (y a veces incluso correcciones) para el Canal semianual (dirigido) durante un período de tiempo. Si no ve algo que se describe a continuación de inmediato, lo verá pronto. [Más información](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - Microsoft Teams está incluido en las nuevas instalaciones de canal semianual (dirigido), empezando por la versión 1902. Se agregará Teams a las instalaciones existentes de canal semianual (dirigido) cuando se actualicen a la versión 1908 o posterior. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/teams-install).
+
+## <a name="version-1908-december-10"></a>Versión 1908 (10 de diciembre)
+*Versión 1908 (compilación 11929.20516)*
+
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/es-ES/officeupdates/office365-proplus-security-updates)
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="access"></a>Access
+
+- Se ha corregido un problema por el que una consulta de unión que incluye referencias a tablas remotas (por ejemplo, tablas de SQL Server) puede hacer que Access se cierre y se reinicie.
+
+- Se ha corregido un problema por el que un agregado como Suma puede truncar el resultado a un valor entero.
+
+### <a name="excel"></a>Excel
+
+- Se ha resuelto un problema en el que al seleccionar una celda luego de desplazarse, podía resultar en la selección de la celda incorrecta.
+
+- Se ha corregido un problema cuando el filtro de una tabla dinámica OLAP se estableció en un valor que se ha quitado del cubo.
+
+- Este cambio evita un problema con ciertos controladores de gráficos Intel al aprovechar el procesamiento del software.
+
+- Se ha resuelto un problema en el que la función Buscar puede devolver un error.
+
+- Se han hecho mejoras significativas en el rendimiento al eliminar columnas con celdas combinadas.
+
+- Se ha resuelto un problema que provocaba un error en tiempo de ejecución de la macro al activar ventanas minimizadas.
+
+### <a name="outlook"></a>Outlook
+
+- Corregido un problema con la selección del algoritmo SMIME.
+
+- Se ha corregido un problema que hacía que los usuarios vieran una &quot;Las reglas de este equipo no coinciden con las reglas de Microsoft Exchange&quot; al abrir el cuadro de diálogo de las reglas.
+
+- Se ha corregido un problema que provocaba que los complementos web accedieran a los mensajes administrados con derechos digitales cuando no deberían.
+
+### <a name="word"></a>Word
+
+- Corregimos un problema en el control de cambios que a veces entra en un bucle infinito.
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Se ha corregido un problema en el que los caracteres katakana de ancho medio no giraban correctamente cuando se encontraban en cuadros de texto verticales en PowerPoint.
+
+- Se ha corregido un problema por el que las actualizaciones de Office podían haber descargado inesperadamente archivos de la CDN de Office en lugar de la fuente prevista, como un recurso compartido local o de red, o una ubicación proporcionada por el Administrador de configuración.
+
+- Para proteger la seguridad de los clientes de Office, las actualizaciones de Microsoft Office se firman ahora utilizando exclusivamente el algoritmo SHA-2.
+
+
+
+[//]: # (NO ELIMINAR LOS DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-1908-november-22"></a>Versión 1908: 22 de noviembre
 *Versión 1908 (compilación 11929.20494)*
