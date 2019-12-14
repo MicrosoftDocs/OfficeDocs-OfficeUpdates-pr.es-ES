@@ -9,17 +9,17 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: Proporciona a los profesionales de ti las notas de la versión para las versiones de canal mensual para Office 365 proPlus en 2016
-ms.openlocfilehash: 7a5f8b13f06fc236cedc50d394d361dc1d797dfd
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+description: Proporciona a los profesionales de ti las notas de la versión para las versiones de canal mensual para Office 365 ProPlus en 2016
+ms.openlocfilehash: 74d992e9f6129772e04ea1245cd2ced8d4a1006e
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438775"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023595"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2016"></a>Notas de la versión para las versiones de canal mensual en 2016
 
-Estas notas de la versión proporcionan información sobre las nuevas características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones de canal mensual para Office 365 proPlus en 2016.
+Estas notas de la versión proporcionan información sobre las nuevas características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones de canal mensual para Office 365 ProPlus en 2016.
  
 > [!NOTE]
 > - Lo siguiente también proporciona información sobre características nuevas, actualizaciones de seguridad y no relacionadas con la seguridad para Visio Pro para Office 365 y el cliente de escritorio de Project Online.
@@ -46,7 +46,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   **Guardar en carpetas recientes:** guarde un libro en una carpeta que se ha usado recientemente mediante la pestaña Reciente cuando seleccione Archivo \> Guardar como.
 -   **Mejoras en la accesibilidad:** compatibilidad mejorada para usar el teclado, Narrador y otra tecnología de asistencia para leer y editar libros. [Más información](https://support.office.com/article/51fcb17a-b15b-4b13-ae04-d4f38ece3f78)
 
-### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
+### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que un hipervínculo con una fórmula CONCATENAR ignora parte del resultado de concatenación.
 -   Se soluciona un problema donde al pegar una tabla de Excel en formato de texto enriquecido (RTF) en Word no se mantiene el formato de la tabla.
 -   Se soluciona un problema en el que el usuario no puede realizar una acción Guardar como cuando el libro contiene una hoja de cálculo de macros de MS Excel 4.0.
@@ -212,7 +212,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ## <a name="version-1609-november-2"></a>Versión 1609:2 de noviembre
 *Versión 1609 (compilación 7369.2054)*
 
-### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
+### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que el código VBA para copiar una hoja de cálculo hace que se muestren hojas de cálculo que están ocultas.
 -   Se soluciona un problema en el que, al usar Solver, se muestra el mensaje de error "No se encuentra el archivo Solver32.dll" después de elegir Solucionar.
 -   Se soluciona un problema en el que el icono del complemento Mapas de Bing no aparece al usar un monitor con ppp elevado si está habilitado el modo táctil para la cinta de opciones.
@@ -348,7 +348,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
 -   **Diseños de Power Query conservados:** Formatos y columnas calculadas para los datos importados mediante Obtener y Transformar se conservan después de actualizar las consultas.
 
-### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
+### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad
 -   Se ha corregido un problema que provocaba que al usar la referencia de estilo F1C1 referencia en la función INDIRECTO con una versión en francés o alemán de Excel se obtuviera un error \#REF! en lugar del valor de referencia esperado.
 -   Se ha corregido un problema que provocaba que la tecla ENTRAR no funcionara para separar entradas de lista al crear una lista de ordenación personalizada en el cuadro de diálogo Listas personalizadas.
 -   Fix an issue where copying or moving information causes an error message to appear, such as “Cannot open the Clipboard” or “We couldn’t free up space on the Clipboard. Another program might be using it right now.”
@@ -468,7 +468,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ## <a name="version-1606-august-9"></a>Versión 1606:9 de agosto
 *Versión 1606 (compilación 7070.2036)*
 
-### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
+### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad
 -   Corrección de un problema causado por una actualización de seguridad reciente que producía que, al abrir un archivo HTML desde una ubicación que no es de confianza, se abriese Excel con una pantalla en blanco (vacía) sin errores, en vez de permitir al usuario abrir el archivo en Vista protegida.
 
 ### <a name="onenote-security-updates"></a>OneNote: Actualizaciones de seguridad
@@ -497,7 +497,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="access-non-security-updates"></a>Access: Actualizaciones no relacionadas con la seguridad
 -   Corrección de un problema que hace que la aplicación se bloquee al ejecutar una consulta con un tipo al usar el motor de base de datos de Access, como en la aplicación de Access o con un complemento que use el motor de base de datos de Access como proveedor de datos.
 
-### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
+### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad
 -   Corrección de un problema que muestra un mensaje de error incorrecto al insertar una tabla dinámica basada en un rango no válido.
 -   Corrección de un problema que hace que se deshaga el último cambio de un libro que incluye un nivel de deshacer programático con Application.OnUndo al guardarlo.
 
@@ -537,7 +537,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="outlook-security-updates"></a>Outlook: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Actualización de seguridad para Microsoft Office (3170008)
 
-### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
+### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Actualización de seguridad para Microsoft Office (3170008)
 
 ### <a name="word-non-security-updates"></a>Word: Actualizaciones no relacionadas con la seguridad
@@ -581,7 +581,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="outlook-non-security-updates"></a>Outlook: actualizaciones no relacionadas con la seguridad
 -   Mejora en el aspecto de los mensajes que contienen tablas al usar valores altos de PPP.
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: Actualizaciones no relacionadas con la seguridad
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: actualizaciones no relacionadas con la seguridad
 -   Se ha corregido un problema que provocaba que PowerPoint se bloquease al guardar automáticamente una presentación que contenía un gráfico.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: actualizaciones no relacionadas con la seguridad
@@ -705,7 +705,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ## <a name="version-1604-may-10"></a>Versión 1604:10 de mayo
 *Versión 1604 (compilación 6868.2062)*
 
-### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
+### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Actualización de seguridad para Microsoft Office (3155544)
 
 ### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones de seguridad
@@ -721,7 +721,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   **Mejoras de Power Query:** Transformación de datos nueva y mejorada y funciones de conectividad de datos. [Más información](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **Compatibilidad con direcciones largas:** Las versiones de Excel de 32 bits pueden usar más memoria, si la hay. [Más información](https://support.microsoft.com/kb/3160741)
 
-### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
+### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que, al activar los complementos, se muestra la pantalla Inicio, aunque se haya configurado para no aparecer al abrir Excel.
 
 ### <a name="outlook-feature-updates"></a>Outlook: Actualizaciones de características
@@ -740,7 +740,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ## <a name="version-1603-april-28"></a>Versión 1603:28 de abril
 *Versión 1603 (compilación 6769.2040)*
 
-### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
+### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad
 -   Soluciona un problema por el que un rango con nombre se importa incorrectamente cuando se usa Datos \> Obtener y transformar \> Desde tabla.
 -   Soluciona un problema por el que las macros se ejecutan notablemente más despacio en los equipos que tienen habilitado el registro para el Panel de telemetría.
 
@@ -763,7 +763,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
 -   **Mejoras de Power Query:** Capacidades de conectividad mejoradas y nuevas transformaciones agregadas. [Más información](https://blogs.office.com/2016/03/04/march-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 
-### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
+### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que, tras crear los subtotales, el rango seleccionado no se expande para incluir los subtotales.
 -   Se soluciona un problema en el que no se puede abrir un archivo en un servidor FTP.
 
@@ -774,7 +774,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
 -   **Mejoras del Diseñador de PowerPoint:** Sugerencias de diseño para varias imágenes, el extractor de color y el reconocimiento facial. [Más información](https://blogs.office.com/2016/03/24/powerpoint-designer-whats-new-and-whats-next/)
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: Actualizaciones no relacionadas con la seguridad
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que no se muestran todas las opciones de fuentes al intentar personalizar las viñetas.
 
 ### <a name="visio-non-security-updates"></a>Visio: Actualizaciones no relacionadas con la seguridad
@@ -799,7 +799,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
 -   **Publicación en Power BI:** Guarde y publique en powerbi.com los elementos de un libro, como gráficos, rangos y tablas, e interactúe con los datos en un formato de paneles. Se necesita una suscripción a Power BI. [Más información](https://support.office.com/article/7342b49c-6567-4155-a7ac-acdc14d9ad0f)
 
-### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
+### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que, al usar un color para temas y ejecutar una macro o un complemento, la barra de estado cambia y se pone de color verde con el texto gris, de modo que resulta difícil para el usuario leer las actualizaciones de estado.
 
 ### <a name="onenote-non-security-updates"></a>OneNote: Actualizaciones no relacionadas con la seguridad
@@ -846,7 +846,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ## <a name="version-1601-march-3"></a>Versión 1601:3 de marzo
 *Versión 1601 (compilación 6568.2034)*
 
-### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
+### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS16-029](https://technet.microsoft.com/library/security/ms16-029): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3141806)
 
 ### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones de seguridad
@@ -927,11 +927,11 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ## <a name="version-1511-january-25"></a>Versión 1511:25 de enero
 *Versión 1511 (compilación 6366.2062)*
 
-### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
+### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que el uso de Application.OnKey() para interceptar una pulsación de tecla hace que Excel se bloquee.
 
 ### <a name="word-non-security-updates"></a>Word: Actualizaciones no relacionadas con la seguridad
--   Se soluciona un problema en el que Word no muestra correctamente el formato de documento al editar un documento. [Más información sobre este problema](https://answers.microsoft.com/en-us/office/forum/office_2016-word/word-2016-doesnt-display-your-document-formatting/b7bb4017-8ae5-41ab-881b-03199d24ba83)
+-   Se soluciona un problema en el que Word no muestra correctamente el formato de documento al editar un documento. [Más información sobre este problema](https://answers.microsoft.com/office/forum/office_2016-word/word-2016-doesnt-display-your-document-formatting/b7bb4017-8ae5-41ab-881b-03199d24ba83)
 
 
 
