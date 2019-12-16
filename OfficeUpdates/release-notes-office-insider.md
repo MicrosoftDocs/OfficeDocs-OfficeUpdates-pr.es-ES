@@ -9,30 +9,77 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: e43a4c0dfcccd71ff2db672328488e9ffd363d71
-ms.sourcegitcommit: cdd69a3af5873fd60a3dabc010339acc19265db3
+ms.openlocfilehash: 860ec2d6bbd8623442ecc10657fee71a62c8d89d
+ms.sourcegitcommit: 941b77865c5b2d92e0f98b961fc702e865589ec3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/06/2019
-ms.locfileid: "39890464"
+ms.lasthandoff: 12/13/2019
+ms.locfileid: "40019856"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
 En este artículo hay notas de la versión para las compilaciones de Insider de las versiones de escritorio de Word, Excel, PowerPoint, Outlook, Access y Project para Windows. Todas las semanas se incluyen las nuevas características, correcciones importantes y los problemas principales de mayor interés para usted. Tenga en cuenta que a menudo se implementan características (o incluso correcciones) durante un período de tiempo para los participantes de Insider. Esto nos permite asegurarnos de que todo funciona correctamente antes de publicar la característica para un público más amplio. Por tanto, si a continuación no ve algo descrito, no se preocupe, lo recibirá con el tiempo.  
 
 > [!NOTE]
-> - Las notas de la versión se publican cada semana y pueden ser una compilación de varias compilaciones.
-> - La fecha de publicación de las notas de versión pueden no coincidir con la fecha real de lanzamiento de la compilación 
-
- > [!NOTE]
-> - Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a partir de finales de junio, Microsoft Teams se incluirá en instalaciones existentes de Office 365 ProPlus (y Office 365 Empresa) a la hora de actualizar dichas instalaciones. La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/es-ES/deployoffice/teams-install).
+> - Las notas de publicación se publican semanalmente y pueden ser una compilación de varias versiones.
+> - La fecha de publicación de las notas de versión pueden no coincidir con la fecha real de lanzamiento de la compilación.
+> - Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a partir de finales de junio, Microsoft Teams se incluirá en instalaciones existentes de Office 365 ProPlus (y Office 365 Empresa) a la hora de actualizar dichas instalaciones. La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
 
 [//]: # (NO ELIMINAR)
 
+## <a name="version-2001-december-13"></a>Versión 2001: 13 de diciembre
+*Versión 2001 (Compilación 12410.20000)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="outlook"></a>Outlook
+
+- **Arrastre el correo electrónico a un grupo de tu propiedad:** Mueva y copie mensajes y conversaciones arrastrándolos desde su bandeja de entrada. Los mensajes que arrastres serán compartidos con todos los miembros del grupo.
+
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="access"></a>Access
+- La ejecución de una consulta de unión que hace referencia a una(s) tabla(s) ODBC enlazada(s) y que contiene una cláusula de Ordenar por que bloquea el acceso de 64 bits.
+- La suma de los datos de las consultas sindicales en Access (O365) puede resultar en el truncamiento de los datos decimales.
+- Las interfaces COM para ACE no están expuestas para su uso fuera de las aplicaciones de Office.
+
+### <a name="excel"></a>Excel
+- Al insertar un modelo 3D (animado o estático) e intentar el "Guardar como imagen" no funciona.
+- La tecla corta (Alt+Ctrl + 7/8) para lanzar la retroalimentación desde el backstage está en conflicto con los teclados AZERTY (Alt-Gr + 7/8). Impacto: los usuarios puede+ que no sean capaces de utilizar algunos caracteres como: "\'.
+
+### <a name="outlook"></a>Outlook
+- Resuelve un problema que provocó que el correo electrónico se enviara a la dirección incorrecta del destinatario.
+- Resuelve un problema que hizo que Outlook permitiera incorrectamente a los usuarios con acceso de &quot;lectura&quot; a un buzón de correo cambiar el estado de lectura/no lectura de un mensaje.
+- La revocación del certificado de seguridad en el sitio web no es producible por el Soporte de producto. Es necesario añadir el registro para ayudar a solucionar el problema.
+- Resuelve un problema que hizo que los usuarios vieran fallos de sincronización.
+
+### <a name="powerpoint"></a>PowerPoint
+- Al insertar un modelo 3D (animado o estático) e intentar el "Guardar como imagen" no funciona.
+
+### <a name="project"></a>Project
+- El trabajo de tareas no se calcula en la distribución de resumen para tareas secundarias programadas manualmente.
+- Es posible que el código VBA de Project invocado desde un botón de la cinta no funcione cuando se intente guardar proyectos basados en el servidor.
+- A menos que Project ya se esté ejecutando, al abrir Archivos de Project desde una biblioteca de documentos de SharePoint se mostrará un error y el archivo no se abrirá.
+
+### <a name="word"></a>Word
+- Es posible que la función de guardar archivos existentes no funcione.
+- El uso de las teclas de flecha en la ventana del editor de ortografía y gramática puede provocar parpadeos intermitentes.
+- Al resolver un seguimiento, es posible que los comentarios asociados no se conviertan en comentarios puntuales.
+- Al insertar un modelo 3D (animado o estático) e intentar el "Guardar como imagen" no funciona.
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+- Se ha solucionado un problema por el que los mensajes de actualización de Office aparecían en un idioma diferente al esperado. En el futuro, los mensajes de actualización de Office coincidirán correctamente con el idioma de visualización de Windows.
+
+[//]: # (NO ELIMINAR LOS DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-1912-december-06"></a>Versión 1912: 6 de diciembre 
 *Versión 1912 (compilación 12325.20012)*
-
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
 
@@ -47,7 +94,6 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
 - **Paneles con pestañas:** ahora puede cambiar entre varios paneles con la pestaña situada en la parte derecha de la aplicación. Esta interfaz de usuario solo será visible cuando haya dos o más paneles abiertos.
 
-
 [//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
 
 <br/>
@@ -56,73 +102,45 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="excel"></a>Excel
-
 - Es posible que los usuarios vean un error cuando guarden cambios si usan grupos de caracteres que no están en inglés.
-
 - Es posible que los usuarios vean un error si acceden a un rango con nombre oculto.
-
 - Deshabilitar la aceleración de gráficos de hardware con resolución 4K puede causar que se retrase el renderizado de celdas al desplazarse por ellas.
-
 - También es posible que se vean los bordes de una celda cuando borre fórmulas que, por su longitud, sobrepasen el límite de la celda.
-
 - Se ha resuelto un problema en el que no se cargaba la personalización de cinta de opciones al abrir un libro insertado.
-
 - El margen del menú desplegable puede no renderizarse correctamente.
 
 ### <a name="onenote"></a>OneNote
-
 - Es posible que OneNote no se abra con el complemento de Outlook "Notas de la reunión".
 
 ### <a name="outlook"></a>Outlook
-
 - Las etiquetas de directivas de retención pueden mostrar el período de tiempo de retención entre paréntesis.
-
 - Es posible que aparezcan espacios en blanco en las Tarjetas de contacto con el paquete de idioma japonés.
-
 - En ocasiones, las imágenes insertadas en mensajes de correo electrónico de Outlook pueden cambiar de tamaño.
 
 ### <a name="powerpoint"></a>PowerPoint
-
 - Si un usuario tiene dos o más vídeos diferentes en una diapositiva en un archivo de la nube, las imágenes de vídeo se procesan correctamente, pero cuando el usuario hace clic en cada una de ellas para reproducirlas, el contenido de vídeo es siempre el mismo.
-
 - En algunos casos, no funciona el desplazamiento con los dispositivos táctiles.
-
 - El margen del menú desplegable puede no renderizarse correctamente.
-
 - Los vínculos seguros de una aplicación de Office a otra pueden no iniciar la aplicación vinculada.
 
 ### <a name="project"></a>Project
-
 - Project puede bloquearse cuando se usa la función Comparar proyectos.
-
 - Si se encuentra en el Modo oscuro, al ir al panel del inspector de tareas en una tarea con un exceso de asignación de recursos, no podrá leer la tabla.
-
 - Establecer el esfuerzo para las tareas que no tienen asignaciones se redondea a 1 día.
 
 ### <a name="word"></a>Word
-
 - Guardar un archivo después de una combinación de correspondencia puede no funcionar en determinadas condiciones.
-
 - Es posible que el Organizador de bloques de creación muestre una alerta no válida: &quot;Modificó estilos, bloques de creación&quot;.
-
 - En ocasiones, el panel de comentarios se carga cuando se usa copiar o pegar.
-
 - En ocasiones, los comentarios no se pegan en el orden correcto.
-
 - Aplicar una plantilla que consista en una lista multinivel con estilos personalizados para los documentos existentes quizás no mantenga el estilo en determinadas condiciones.
-
 - Cambiar el tamaño del borde de la pantalla dividida puede incluir una pantalla dividida adicional.
-
-- El margen del menú desplegable puede no renderizarse correctamente.
-
+- Es posible que el menú desplegable de Margen no se muestre correctamente.
 - Es posible que al mencionar a un usuario en una tarjeta de comentario se muestre un JSON.
-
 - Los vínculos seguros de una aplicación de Office a otra pueden no iniciar la aplicación vinculada.
 
 ### <a name="office-suite"></a>Conjunto de programas de Office
-
 - Para los productos basados en japonés, el nombre y apellidos del usuario de la cuenta pueden aparecer en el orden incorrecto.
-
 - Al colocar el puntero del ratón sobre los comentarios, se puede mostrar un contorno de cuadro de texto alrededor del comentario.
 
 [//]: # (NO ELIMINAR LOS DETALLES DE ERROR DEL CONTENIDO FINAL)
@@ -130,143 +148,11 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 ## <a name="version-1912-november-15"></a>Versión 1912: 15 de noviembre
 *Versión 1912 (compilación 12307.20000)*
 
-
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="insights-services"></a>Servicios de información
-
-- **Consultas en lenguaje natural en Ideas de Excel:** la nueva función de Ideas de Excel para formular una pregunta en lenguaje natural sobre los datos
-
-
-[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
-
-<br/>
-
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
-
-### <a name="resolved-issues"></a>Problemas corregidos
-### <a name="excel"></a>Excel
-
-- <div><span>Es posible que se produzcan errores en la funcionalidad de texto a columna en algunas localizaciones</span></div>
-
-
-- <div>Modificar las fórmulas de matriz dinámicas en una celda puede dar lugar a que el texto se alinee fuera del límite de la celda</div>
-
-
-### <a name="outlook"></a>Outlook
-
-- <div>Se ha agregado la posibilidad de aplicar la configuración de S/MIME mediante una directiva de grupo</div>
-
-
-- <div><span>Las imágenes insertadas pueden parecer más pequeñas de lo esperado</span></div>
-
-
-### <a name="powerpoint"></a>PowerPoint
-
-- <div><span>El cursor puede desaparecer después de mover el foco del texto</span></div>
-
-
-### <a name="project"></a>Project
-
-- <div><span>Es posible que los usuarios experimenten un error con respecto a las licencias</span></div>
-
-
-- <div><span>A veces, el botón Hoy en el selector de fecha puede establecer la fecha incorrecta</span></div>
-
-
-### <a name="word"></a>Word
-
-- <div><span>Al hacer clic con el botón derecho, a veces, no se puede seleccionar la palabra completa</span></div>
-
-
-- <div>Es posible que el cursor permanezca activo en un objeto después de convertirlo en un formato sugerido.</div>
-
-
-- <div>Las imágenes de los mensajes se pueden escalar de forma incorrecta en algunas situaciones</div>
-
-
-- <div>Es posible que algunos temas puedan dificultar la determinación del comentario seleccionado</div>
-
-
-- <div><span>Seleccionar una sugerencia de comentario ahora debería mostrar el panel de comentarios moderno cuando está oculto en el selector de panel</span></div>
-
-
-### <a name="office-suite"></a>Conjunto de aplicaciones de Office
-
-- <div><span>Responder a un comentario puede hacer que el cuadro de texto se expanda verticalmente más allá del borde del panel</span></div>
-
-
-
-[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
-
-## <a name="version-1912-november-08"></a>Versión 1912: 08 de noviembre
-*Versión 1912 (compilación 12231.20000)*
-
-
-[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
-
-### <a name="feature-updates"></a>Actualizaciones de características
-### <a name="user-lifecycle"></a>Ciclo de vida del usuario
-
-- **Experimente mejoras en la activación de AFO:** Actualizaciones de las pantallas que los clientes ven al activar el Office que se incluye con el equipo nuevo
-
-### <a name="word"></a>Word
-
-- **Una experiencia de vídeo en línea nueva y mejorada en Word:** Experiencia de vídeo en línea nueva y más segura para ayudarle a insertar vídeos nuevos y reproducir vídeos existentes en Word
-
-
-[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
-
-<br/>
-
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
-
-### <a name="resolved-issues"></a>Problemas corregidos
-### <a name="outlook"></a>Outlook
-
-- <div><span>Bloqueo intermitente que involucra el contenido de carpetas cruzadas</span></div>
-
-
-### <a name="office-suite"></a>Conjunto de aplicaciones de Office
-
-- <div><span>Pegar un gráfico de Excel en PowerPoint puede reducir el tamaño del gráfico</span></div>
-
-
-
-[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
-
-## <a name="version-1911-november-01"></a>Versión 1911: 01 de noviembre
-*Versión 1911 (compilación 12228.20020)*
-
-
-[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
-
-### <a name="feature-updates"></a>Actualizaciones de características
-### <a name="excel"></a>Excel
-
-- **Incluya el contexto junto con los objetos SVG**: ahora, puede conservar el texto de los mapas, los gráficos y otros vectores de SVG al convertir estos objetos en Office.
-
-- **Vea las opciones de pluma al seleccionar el Lápiz para Surface**: cuando elija el Lápiz de Surface por primera vez en Word, Excel o PowerPoint, la pestaña Dibujar se activará para que sea fácil seleccionar los colores de pluma.
-
-### <a name="powerpoint"></a>PowerPoint
-
-- **Incluya el contexto junto con los objetos SVG**: ahora, puede conservar el texto de los mapas, los gráficos y otros vectores de SVG al convertir estos objetos en Office.
-
-- **Vea las opciones de pluma al seleccionar el Lápiz para Surface**: cuando elija el Lápiz de Surface por primera vez en Word, Excel o PowerPoint, la pestaña Dibujar se activará para que sea fácil seleccionar los colores de pluma.
-
-### <a name="visio"></a>Visio
-
-- ** Haga diagramas de Visio pulidos en Excel:** Visualice rápida y fácilmente sus datos en diagramas Visio pulidos dentro de Excel. [Más información](https://support.office.com/es-ES/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
-
-### <a name="word"></a>Word
-
-- **Vea las opciones de pluma al seleccionar el Lápiz para Surface**: cuando elija el Lápiz de Surface por primera vez en Word, Excel o PowerPoint, la pestaña Dibujar se activará para que sea fácil seleccionar los colores de pluma.
-
-- **Mejoras en la coautoría:** Mejoró la experiencia de coautoría al hacer más probable que los cambios de contenido sean recibidos por otros en tiempo real.
-
-- **Otros usuarios verán los cambios rápidamente**: con las mejoras en la coautoría, los colaboradores podrán ver los cambios más rápido que nunca.
-
+- **Consultas en lenguaje natural en Ideas en Excel:** la nueva capacidad de ideas de Excel para hacer una pregunta en lenguaje natural sobre sus datos.
 
 [//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
 
@@ -276,95 +162,132 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="excel"></a>Excel
-
-- <div><span>Se ha resuelto un problema por el que Excel podía bloquearse al modificar un archivo protegido desde un recurso compartido de red que no es de confianza</span></div>
-
-
-- <div>Se ha resuelto un problema por el que, al eliminar hojas que contenían minigráficos que hacían referencia a datos en otra hoja, podía provocar que el archivo se identificara como dañado al volver a abrirlo.</div>
-
-
-- <div>Se ha resuelto un problema por el que se podían obtener resultados incorrectos al convertir los filtros de un informe junto con el resto de la tabla dinámica de consultas enviadas a servidores tabulares SQL.</span></div>
-
-
-- <div><span>Usar el Narrador y la Lupa al mismo tiempo puede provocar un bloqueo</span></div>
-
-
-- <div><span>Usar el Narrador y la Lupa al mismo tiempo puede provocar un bloqueo</span></div>
-
+- La funcionalidad de texto a columna puede fallar en algunas localizaciones.
+- Editar fórmulas de matrices dinámicas dentro de una celda puede resultar en que el texto se alinee fuera del límite de la celda.
 
 ### <a name="outlook"></a>Outlook
-
-- <div>Pueden faltar imágenes insertadas en un mensaje de correo electrónico reenviado</div>
-
-
-- <div><span>Puede que la herramienta Buscador de salas muestre &quot;Ninguno&quot; en salones disponibles</span></div>
-
-
-- <div><span>Puede que los usuarios no puedan crear perfiles de Outlook con restricción de espacio empresarial estricta</div></span>
-
+- Añadida la posibilidad de aplicar la configuración S/MIME a través de la directiva de grupo.
+- Las imágenes incrustadas pueden parecer más pequeñas de lo esperado.
 
 ### <a name="powerpoint"></a>PowerPoint
-
-- <div><span>Usar el Narrador y la Lupa al mismo tiempo puede provocar un bloqueo</span></div>
-
+- El cursor puede desaparecer después de mover el foco del texto.
 
 ### <a name="project"></a>Project
-
-- <div><span>El usuario no puede marcar una tarea como completada, y esta se establece en un 99%</span></div>
-
-
-- <div>Redistribuir no resuelve las sobreasignaciones</div>
-
+- Los usuarios pueden experimentar un error con respecto a la licencia.
+- El botón Hoy en el selector de fecha a veces puede establecer una fecha incorrecta.
 
 ### <a name="word"></a>Word
+- A veces al hacer clic con el botón derecho del ratón no se puede seleccionar la palabra completa.
+- El cursor puede permanecer activo dentro de un objeto después de convertirlo a un formato sugerido.
+- Las imágenes de los mensajes pueden tener una escala incorrecta en algunos escenarios.
+- Algunos temas pueden dificultar la determinación del comentario seleccionado.
+- La selección de una sugerencia de comentario debería mostrar ahora el panel de comentarios modernos cuando esté oculto en el conmutador de paneles.
 
-- <div><span>Usar el Narrador y la Lupa al mismo tiempo puede provocar un bloqueo</span></div>
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+- Responder a un comentario puede hacer que el cuadro de texto se expanda verticalmente más allá del borde del panel.
 
+[//]: # (NO ELIMINAR LOS DETALLES DE ERROR DEL CONTENIDO FINAL)
 
-- <div><span>Al abrir documentos heredados e ir a la pestaña Información, se puede producir un bloqueo</span></div>
+## <a name="version-1912-november-08"></a>Versión 1912: 08 de noviembre
+*Versión 1912 (compilación 12231.20000)*
 
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
 
-- <div><span>No se muestran sugerencias de corrección en los menús contextuales</span></div>
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="user-lifecycle"></a>Ciclo de vida del usuario
+- **Experimente mejoras para la activación de AFO:** Actualizaciones que los clientes ven en sus pantallas cuando activan el Office que viene con su nueva PC.
 
+### <a name="word"></a>Word
+- **Nueva y mejorada experiencia de vídeo online en Word:** Nueva y más segura experiencia de vídeo en línea para ayudarle a insertar nuevos vídeos y reproducir vídeos existentes en Word.
 
-- <div><span>Se aplican directivas de contenido incorrectamente a los comentarios</span></div>
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
 
+<br/>
 
-- <div><span>Los comentarios heredados escritos con texto oscuro no se ven en el modo oscuro</span></div>
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="outlook"></a>Outlook
+- Accidente intermitente con contenido de carpetas cruzadas.
 
-- <div><span>Pueden aparecer caracteres incorrectos al usar la Autocorrección de coreano-inglés</span></div>
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+- Al pegar un gráfico de Excel a PowerPoint este puede reducir su tamaño.
 
+[//]: # (NO ELIMINAR LOS DETALLES DE ERROR DEL CONTENIDO FINAL)
 
-- <div><span>Puede que se apliquen etiquetas de directiva inferior cuando una etiqueta de directiva superior debería haber tenido prioridad</div></span>
+## <a name="version-1911-november-01"></a>Versión 1911: 01 de noviembre
+*Versión 1911 (compilación 12228.20020)*
 
+[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
 
-- <div><span>Los vínculos de cid:image de los mensajes de Outlook&nbsp; ahora se pueden romper correctamente cuando se solicite.</div></span>
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+- **¡Traiga el contexto junto con sus objetos SVG!:** ahora puede conservar el texto en mapas, gráficos y otros vectores SVG al convertir estos objetos en Office.
 
+- **Vea las opciones de pluma al seleccionar el Lápiz para Surface**: cuando elija el Lápiz de Surface por primera vez en Word, Excel o PowerPoint, la pestaña Dibujar se activará para que sea fácil seleccionar los colores de pluma.
 
-- <div><span>Usar el Narrador y la Lupa al mismo tiempo puede provocar un bloqueo</span></div>
+### <a name="powerpoint"></a>PowerPoint
+- **¡Traiga el contexto junto con sus objetos SVG!:** ahora puede conservar el texto en mapas, gráficos y otros vectores SVG al convertir estos objetos en Office.
 
+- **Vea las opciones de pluma al seleccionar el Lápiz para Surface**: cuando elija el Lápiz de Surface por primera vez en Word, Excel o PowerPoint, la pestaña Dibujar se activará para que sea fácil seleccionar los colores de pluma.
 
-- <div><span>Puede que se produzcan errores al buscar desde el panel de navegación</span></div>
+### <a name="visio"></a>Visio
+- ** Haga diagramas de Visio pulidos en Excel:** Visualice rápida y fácilmente sus datos en diagramas Visio pulidos dentro de Excel. [Más información](https://support.office.com/es-ES/article/bee3b5aa-aaaf-4401-acc6-276b711c763c).
 
+### <a name="word"></a>Word
+- **Vea las opciones de pluma al seleccionar el Lápiz para Surface**: cuando elija el Lápiz de Surface por primera vez en Word, Excel o PowerPoint, la pestaña Dibujar se activará para que sea fácil seleccionar los colores de pluma.
 
-### <a name="office-suite"></a>Conjunto de programas de Office
+- **Mejoras en la coautoría:** Mejoró la experiencia de coautoría al hacer más probable que los cambios de contenido sean recibidos por otros en tiempo real.
 
-- <div><span>Puede que algunos dibujos no se muestren en la vista previa o en las presentaciones</span></div>
+- **Otros usuarios verán los cambios rápidamente**: con las mejoras en la coautoría, los colaboradores podrán ver los cambios más rápido que nunca.
 
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
 
-- <div><span>Algunos caracteres katakana pueden mostrarse incorrectamente en un cuadro de texto vertical</span></div>
+<br/>
 
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
-- <div>Al intentar guardar un archivo en un recurso compartido de red desconectado, se puede producir un bloqueo</div>
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+- Resuelto un problema por el que Excel podía fallar al editar un archivo protegido desde una red compartida no fiable.
+- Se ha resuelto un problema por el que, al eliminar hojas que contenían minigráficos que hacían referencia a datos en otra hoja, podía provocar que el archivo se identificara como dañado al volver a abrirlo.
+- Se ha resuelto un problema por el que se podían obtener resultados incorrectos al convertir los filtros de un informe junto con el resto de la tabla dinámica de consultas enviadas a servidores tabulares SQL.
+- El uso simultáneo del Narrador y la Lupa puede provocar un accidente.
+- El uso simultáneo del Narrador y la Lupa puede provocar un accidente.
 
+### <a name="outlook"></a>Outlook
+- Pueden faltar imágenes insertadas en un mensaje de correo electrónico reenviado.
+- La herramienta Buscador de salas puede estar mostrando &quot;Ninguno&quot; en salones disponibles.
+- Es posible que los usuarios no puedan crear perfiles de Outlook con restricciones estrictas para los inquilinos.
 
+### <a name="powerpoint"></a>PowerPoint
+- El uso simultáneo del Narrador y la Lupa puede provocar un accidente.
 
-[//]: # (No elimine los detalles del error del contenido final)
+### <a name="project"></a>Project
+- El usuario no puede marcar una tarea como completada, y esta se establece en un 99 %.
+- Redistribuir no resuelve las sobreasignaciones.
+
+### <a name="word"></a>Word
+- El uso simultáneo del Narrador y la Lupa puede provocar un accidente.
+- Abrir documentos heredados y luego ir a la pestaña Información puede causar un bloqueo.
+- Las sugerencias de prueba no se muestran en los menús contextuales.
+- Las políticas de contenido se están aplicando incorrectamente a los comentarios.
+- Los comentarios anteriores escritos con texto oscuro no son visibles en el Modo oscuro.
+- Es posible que aparezcan caracteres incorrectos al utilizar la función de autocorrección en coreano/inglés.
+- Las etiquetas de política más bajas pueden aplicarse cuando una etiqueta de política más alta debería haber tenido prioridad.
+- Los enlaces de cid: imágenes de los mensajes de Outlook&nbsp;ahora puede romperse con éxito cuando se solicite.
+- El uso simultáneo del Narrador y la Lupa puede provocar un accidente.
+- La búsqueda desde el panel de navegación puede fallar.
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+- Puede que algunos dibujos no se muestren en la vista previa o en las presentaciones.
+- Algunos caracteres de katakana pueden aparecer incorrectamente en un cuadro de texto vertical.
+- Si se intenta guardar un archivo en un recurso compartido de red desconectado, es posible que se produzca un error.
+
+[//]: # (NO ELIMINAR LOS DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-1911-october-25"></a>Versión 1911: 25 de octubre
 *Versión 1911 (compilación 12215.20006)*
-
 
 [//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
 
