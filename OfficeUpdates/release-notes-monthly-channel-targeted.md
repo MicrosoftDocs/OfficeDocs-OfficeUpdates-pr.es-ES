@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider Lento la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: f6187b1c78133d5e8e89c7a9927e7ff037804c4c
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: e7fc9ff0ba68aca9d73873c7c299fed4e7668236
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961745"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023625"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Las compilaciones de notas de la versión del canal mensual de Office (dirigido)
 
@@ -30,10 +30,129 @@ En este artículo hay notas de la versión para las compilaciones del canal mens
 
 [//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
 
+## <a name="version-1912-december-12"></a>Versión 1912: 12 de diciembre
+*Versión 1912 (compilación 12325.20172)*
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Es posible que los usuarios vean un error cuando guarden cambios si usan grupos de caracteres que no están en inglés.
+
+- Editar fórmulas de matrices dinámicas dentro de una celda puede resultar en que el texto se alinee fuera del límite de la celda.
+
+- La funcionalidad de texto a columna puede fallar en algunas localizaciones.
+
+- Resuelto un problema con la personalización de la cinta que no se cargaba al abrir el libro de trabajo incrustado.
+
+- Los usuarios pueden encontrar un error al acceder a un rango con nombre oculto.
+
+- Es posible que el menú desplegable del Margen no se muestre correctamente.
+
+- Desactivar la aceleración de gráficos por hardware con una resolución de 4K puede provocar un retraso en la representación de las celdas cuando se desplaza por la pantalla.
+
+- Este cambio evita un problema con ciertos controladores de gráficos Intel aprovechando el procesamiento de software.
+
+### <a name="onenote"></a>OneNote
+
+- Es posible que OneNote no se abra con el complemento de Outlook "Notas de la reunión".
+
+### <a name="outlook"></a>Outlook
+
+- Accidente intermitente con contenido de carpetas cruzadas.
+
+- Las imágenes insertadas en línea en los mensajes de correo electrónico de Outlook a veces pueden cambiar de tamaño.
+
+- Se agregó la capacidad de aplicar la configuración de firma predeterminada de S/MIME a través de la directiva de grupo.
+
+- Las imágenes incrustadas pueden parecer más pequeñas de lo esperado.
+
+- Las etiquetas de las políticas de retención pueden mostrar el período de tiempo de retención entre paréntesis.
+
+- Se ha corregido un problema que provocó que las sugerencias de la política no se mostraran al utilizar un remitente alternativo.
+
+- Los espacios en blanco pueden aparecer en las tarjetas de contacto con el paquete de idioma japonés.
+
+- Se ha corregido un problema que provocó que la ubicación de una reunión se volviera a añadir a la reunión de forma inesperada después de despejarla.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- El cursor puede desaparecer después de mover el foco del texto.
+
+- Es posible que Safelinks de una aplicación de Office a otra no inicie la aplicación vinculada.
+
+- En algunos casos, el desplazamiento con dispositivos táctiles no funcionará.
+
+- Si un usuario tiene dos o más vídeos diferentes en una diapositiva en un archivo de la nube, las imágenes de vídeo se procesan correctamente, pero cuando el usuario hace clic en cada una de ellas para reproducirlas, el contenido de vídeo es siempre el mismo.
+
+- Es posible que el menú desplegable del Margen no se muestre correctamente.
+
+### <a name="project"></a>Project
+
+- Si está en modo oscuro, cuando va al panel de inspección de tareas en una tarea con un recurso sobre asignado, no podrá leer la tabla. 
+
+- Los usuarios pueden experimentar un error con respecto a la licencia.
+
+- El botón Hoy en el selector de fecha a veces puede establecer una fecha incorrecta.
+
+- Project puede fallar al utilizar la función comparar Project.
+
+- Establecer el esfuerzo para las tareas que no tienen asignaciones se redondea a 1 día.
+
+### <a name="word"></a>Word
+
+- La selección de una sugerencia de comentario debería mostrar ahora el panel de comentarios modernos cuando esté oculto en el conmutador de paneles.
+
+- A veces al hacer clic con el botón derecho del ratón no se puede seleccionar la palabra completa.
+
+- Es posible que Safelinks de una aplicación de Office a otra no inicie la aplicación vinculada.
+
+- El organizador de bloques de construcción puede mostrar una alerta no válida:&quot;Has modificado estilos, bloques de construcción&quot;.
+
+- Algunos temas pueden dificultar la determinación del comentario seleccionado.
+
+- El cursor puede permanecer activo dentro de un objeto después de convertirlo a un formato sugerido.
+
+- Las imágenes de los mensajes pueden tener una escala incorrecta en algunos escenarios.
+
+- En ocasiones, el panel de comentarios se carga cuando se usa copiar o pegar.
+
+- En ocasiones, los comentarios no se pegan en el orden correcto.
+
+- Al mencionar a un usuario en una tarjeta de comentarios puede aparecer JSON.
+
+- Es posible que el menú desplegable del Margen no se muestre correctamente.
+
+- Cambiar el tamaño de un borde de pantalla dividida puede introducir una pantalla dividida adicional.
+
+- La aplicación de una plantilla que consiste en una lista de varios niveles con estilos personalizados a documentos existentes puede no preservar el estilo bajo ciertas condiciones.
+
+- Guardar un archivo después de hacer una fusión de correo puede no funcionar bajo ciertas condiciones.
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Pegar un gráfico de Excel a PowerPoint puede que este reduzca su tamaño.
+
+- Responder a un comentario puede hacer que el cuadro de texto se expanda verticalmente más allá del borde del panel.
+
+- En el caso de los productos basados en Japón, es posible que el nombre y el apellido del usuario de la cuenta aparezcan en orden incorrecto.
+
+- Corrección de un error en la configuración de la fecha límite de actualización de ODT y GPO, en la que la fecha límite relativa sólo funciona la primera vez que se establece, la corrección permite la fecha límite relativa para las actualizaciones posteriores.
+
+- Si pasa el puntero del ratón por encima de los comentarios, es posible que aparezca un esquema de cuadro de texto alrededor del comentario.
+
+- Se ha corregido un problema por el que las actualizaciones de Office podían haber descargado inesperadamente archivos de la CDN de Office en lugar de la fuente prevista, como un recurso compartido local o de red, o una ubicación proporcionada por el Administrador de configuración.
+
+
+
+[//]: # (NO ELIMINAR LOS DETALLES DE ERROR DEL CONTENIDO FINAL)
+
 ## <a name="version-1911-december-10"></a>Versión 1911: (10 de diciembre)
 *Versión 1911 (compilación 12228.20364)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/es-ES/officeupdates/office365-proplus-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
 
@@ -42,7 +161,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - **Convertir los archivos para mejorar la accesibilidad**: actualice los archivos al formato moderno para que sean más accesibles para todos los demás.
 
-- **Cree archivos PDF más accesibles:** Cree un PDF y el verificador de accesibilidad le indicará los problemas de accesibilidad que debe solucionar antes de guardar. [Más información](https://support.office.com/es-ES/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+- **Cree archivos PDF más accesibles:** Cree un PDF y el verificador de accesibilidad le indicará los problemas de accesibilidad que debe solucionar antes de guardar. [Más información](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
 
 ### <a name="outlook"></a>Outlook
 
@@ -50,7 +169,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Repetición de entrada de lápiz:** cuando haya entradas de lápiz en sus diapositivas, aplique una animación de reproducción para reproducir el dibujo real de la entrada de lápiz durante la presentación con diapositivas. [Más información](https://support.office.com/es-ES/article/fa4f044f-810b-43fe-b774-da04a0b37496)
+- **Repetición de entrada de lápiz:** cuando haya entradas de lápiz en sus diapositivas, aplique una animación de reproducción para reproducir el dibujo real de la entrada de lápiz durante la presentación con diapositivas. [Más información](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)
 
 - **Convertir los archivos para mejorar la accesibilidad**: actualice los archivos al formato moderno para que sean más accesibles para todos los demás.
 
@@ -62,7 +181,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - **Convertir los archivos para mejorar la accesibilidad**: actualice los archivos al formato moderno para que sean más accesibles para todos los demás.
 
-- **Cree archivos PDF más accesibles:** Cree un PDF y el verificador de accesibilidad le indicará los problemas de accesibilidad que debe solucionar antes de guardar. [Más información](https://support.office.com/es-ES/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+- **Cree archivos PDF más accesibles:** Cree un PDF y el verificador de accesibilidad le indicará los problemas de accesibilidad que debe solucionar antes de guardar. [Más información](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
 
 ## <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="excel"></a>Excel
@@ -103,7 +222,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="excel"></a>Excel
 
-- **Complemento del visualizador de datos:** Crear rápidamente diagramas de flujo de Visio desde Excel. [Más información](https://support.office.com/es-ES/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Complemento del visualizador de datos:** Crear rápidamente diagramas de flujo de Visio desde Excel. [Más información](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="outlook"></a>Outlook
 
@@ -115,7 +234,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 ### <a name="visio"></a>Visio
 
-- ** Haga diagramas de Visio pulidos en Excel:** Visualice rápida y fácilmente sus datos en diagramas Visio pulidos dentro de Excel. [Más información](https://support.office.com/es-ES/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- ** Haga diagramas de Visio pulidos en Excel:** Visualice rápida y fácilmente sus datos en diagramas Visio pulidos dentro de Excel. [Más información](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="word"></a>Word
 

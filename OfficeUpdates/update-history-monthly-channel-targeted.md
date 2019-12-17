@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a participantes del programa Insider el historial de actualizaciones de los lanzamientos del canal mensual de Office (dirigido) para versiones de escritorio de Windows
-ms.openlocfilehash: 94dea39daaa8a4952dceaa39fe912093dec5c24a
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 6b8d755bf405cc900c090eba6759b39def6bfad6
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961957"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023575"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Historial de actualizaciones del canal mensual de Office (dirigido) para Windows
 
@@ -22,7 +22,7 @@ Hola, participantes de Insider. Si os estáis preguntando si tenéis instalada l
 
 ## <a name="office-insider-versions-and-builds"></a>Compilaciones y versiones de office Insider
 
-Si está inscrito en el nivel del canal mensual (dirigido), anteriormente denominado Modo aplazado de Insider, obtendrá una nueva actualización de características de Office aproximadamente una vez al mes, además de las compilaciones subsiguientes que contengan correcciones importantes o actualizaciones de seguridad. La siguiente lista muestra versiones y compilaciones recientes del canal mensual (dirigido), con **la compilación publicada más recientemente en primer lugar**. Las compilaciones nuevas incluyen todas las actualizaciones de compilaciones anteriores. Para obtener las notas de la versión, vea [Novedades para participantes de Office Insider](https://support.office.com/es-ES/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
+Si está inscrito en el nivel del canal mensual (dirigido), anteriormente denominado Modo aplazado de Insider, obtendrá una nueva actualización de características de Office aproximadamente una vez al mes, además de las compilaciones subsiguientes que contengan correcciones importantes o actualizaciones de seguridad. La siguiente lista muestra versiones y compilaciones recientes del canal mensual (dirigido), con **la compilación publicada más recientemente en primer lugar**. Las compilaciones nuevas incluyen todas las actualizaciones de compilaciones anteriores. Para obtener las notas de la versión, vea [Novedades para participantes de Office Insider](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
 
 > [!NOTE]
 > - A continuación, se muestra el historial de actualizaciones con todas las compilaciones publicadas
@@ -30,6 +30,9 @@ Si está inscrito en el nivel del canal mensual (dirigido), anteriormente denomi
 > - Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a partir de finales de junio, Microsoft Teams se incluirá en instalaciones existentes de Office 365 ProPlus (y Office 365 Empresa) a la hora de actualizar dichas instalaciones. La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
 
 [//]: # (NO ELIMINAR)
+
+**12 de diciembre de 2019**<br/>
+Versión 1912 (Compilación 12325.20172)<br/>
 
 **10 de diciembre de 2019**<br/>
 Versión 1911 (compilación 12228.20364)<br/>
@@ -198,8 +201,7 @@ Versión 1903 (compilación 11425.20204)<br/>
 **Office Insider en Twitter**<br/> En @OfficeInsider, realizamos publicaciones frecuentes sobre los lanzamientos de Insider y celebramos eventos especiales para participantes del programa.<br/> 
 [Síganos en Twitter](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-[
-  ![Imagen que muestra el icono de Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
+[![Imagen que muestra el icono de Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
 
 
 **Sea el primero en obtener nuevas características**

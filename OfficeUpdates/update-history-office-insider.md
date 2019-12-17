@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a participantes del programa Insider el historial de actualizaciones de los lanzamientos del canal mensual del modo anticipado de Insider para versiones de escritorio de Windows
-ms.openlocfilehash: eec5c93ec1e6f5b35c9dd90f8114dfe42f3f7ad6
-ms.sourcegitcommit: b259312e6a28ce767d11dc75e85844d209b94d88
+ms.openlocfilehash: 83aa929d5be14f8020f3f349e525c525da79b33a
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "39857868"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023771"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Historial de actualizaciones del canal de Office Insider
 
@@ -31,6 +31,9 @@ Si está inscrito en el nivel de Insider, obtendrá actualizaciones frecuentes c
 Para obtener las notas de la versión, vea [notas de la versión de Insider de Office para escritorio de Windows](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider).
 
 [//]: # (NO ELIMINAR)
+
+**12 de diciembre de 2019**<br/>
+Versión 2001 (Compilación 12410.20000)<br/>
 
 **02 de diciembre de 2019**<br/>
 Versión 1912 (compilación 12325.20012)<br/>
@@ -177,8 +180,7 @@ Versión 1905 (compilación 11624.20000)<br/>
 **Office Insider en Twitter**<br/> En @OfficeInsider, realizamos publicaciones frecuentes sobre los lanzamientos de Insider y celebramos eventos especiales para participantes del programa.<br/> 
 [Síganos en Twitter](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-[
-  ![Imagen que muestra el icono de Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
+[![Imagen que muestra el icono de Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
 
 
 **Sea el primero en obtener nuevas características**
