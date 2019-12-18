@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual de Office 365 ProPlus en 2019.
-ms.openlocfilehash: f991dfa99e668dc8cc06918c0d5e5c9a418f4ed7
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: 589fbe7d9b156fbd42bfda2808e27ebd6185ed6a
+ms.sourcegitcommit: 519689175e202f7059ab9e49d70ea0ce6d23075e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023731"
+ms.lasthandoff: 12/18/2019
+ms.locfileid: "40302969"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal semianual en 2019
 
@@ -422,7 +422,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
  - Se ha corregido un problema de varios usuarios de Windows 10 por el que parecía que la lista de archivos recientes se había borrado.
  - Se ha corregido un problema por el que un usuario final veía una barra de Office Update, aunque durante una actualización activada por el administrador.
  - Se han corregido problemas relacionados con indicaciones de inicio de sesión intermitentes en blanco.
- - Corregido un problema por el que los elementos de una actualización de Office no usan el almacenamiento en caché del mismo nivel de optimización de entrega. [Más información]("https://docs.microsoft.com/windows/deployment/update/waas-delivery-optimization)
+ - Corregido un problema por el que los elementos de una actualización de Office no usan el almacenamiento en caché del mismo nivel de optimización de entrega. [Más información](https://docs.microsoft.com/windows/deployment/update/waas-delivery-optimization)
 - Corrección de un error que podría provocar que se eliminaran o no se activaran productos si Office se había instalado con la Herramienta de implementación de Office y había un caso de no coincidencia.
 - Corregido un problema que causaba indicaciones de inicio de sesión excesivas en dispositivos Windows 10 (versión 1803 o posterior).
 - Corregida regresión que producía bloqueos al descargar imágenes vinculadas.

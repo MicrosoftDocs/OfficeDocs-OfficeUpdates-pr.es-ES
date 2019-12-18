@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2019
-ms.openlocfilehash: 69b4f1a573d412e665554f9c697cbce9e3003b27
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: 4d5c623be109cc8a0b21b3c90e91ca981ca2c2e8
+ms.sourcegitcommit: 519689175e202f7059ab9e49d70ea0ce6d23075e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023605"
+ms.lasthandoff: 12/18/2019
+ms.locfileid: "40302979"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal mensual en 2019
 
@@ -154,8 +154,6 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 - **Aplicar etiquetas de confidencialidad a los documentos y correos electrónicos**: aplique etiquetas de confidencialidad a los archivos y correos electrónicos para que cumplan las directivas de protección de la información de su organización. [Más información](https://aka.ms/officemipdocs)
 
 ### <a name="outlook"></a>Outlook
-
-- **Se le pide que actualice Outlook siguiendo un error:** cuando Outlook detecta un error corregido en una versión posterior, Outlook solicitará a los clientes que actualicen y reciban la corrección.
 
 - **Aplicar etiquetas de confidencialidad a los documentos y correos electrónicos**: aplique etiquetas de confidencialidad a los archivos y correos electrónicos para que cumplan las directivas de protección de la información de su organización. [Más información](https://aka.ms/officemipdocs)
 
