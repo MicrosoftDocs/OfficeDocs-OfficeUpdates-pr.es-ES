@@ -10,19 +10,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales de TI las notas de la versión de las versiones de Office 2016 para Mac a partir de septiembre de 2018
-ms.openlocfilehash: 7f489b97cf41119d1fc7bd884e2dde46434cb048
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 2d001ad0d7ef43ef5484267f16b5c388a146cb23
+ms.sourcegitcommit: 2152c5d7b0b98398c1f31f659d68a8e74001acea
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39962217"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889285"
 ---
 # <a name="update-history-for-office-2016-for-mac"></a>Historial de actualización de Office 2016 para Mac
 
 Office 2016 para Mac es una versión de Office que está disponible como una compra de pago único en una tienda o a través de un contrato de licencia por volumen. Será compatible con las actualizaciones de seguridad y correcciones de errores, según sea necesario, hasta el 13 de octubre de 2020. La versión mínima de macOS compatible para Office 2016 para Mac es 10.10 (Yosemite).
 
 > [!NOTE]
-> - Por motivos de seguridad, Microsoft ha descartado el uso de SHA-1. [Más información](https://docs.microsoft.com/es-ES/security-updates/SecurityAdvisories/2017/4010323)
+> - Por motivos de seguridad, Microsoft ha descartado el uso de SHA-1. [Más información](https://docs.microsoft.com/security-updates/SecurityAdvisories/2017/4010323)
 > - Para obtener las notas de versión de las versiones de Office 2016 para Mac anteriores a septiembre de 2018, vea [Notas de la versión de Office para Mac](release-notes-office-for-mac.md).  
 > - Para obtener información de versiones de Office para Mac, que es la versión que viene con las suscripciones a Office 365, vea las [notas de la versión](release-notes-office-for-mac.md) y el [historial de actualizaciones](update-history-office-for-mac.md) de Office para Mac.
 > - Office 2019 para Mac es la versión más actual que está disponible como una compra de pago única. Para obtener información de la versión de Office 2019 para Mac, vea las [notas de la versión](release-notes-office-for-mac.md) y el [historial de actualizaciones](update-history-office-for-mac.md) de Office para Mac.

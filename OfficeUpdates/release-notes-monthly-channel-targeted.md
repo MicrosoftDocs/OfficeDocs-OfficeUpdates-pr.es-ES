@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider Lento la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: c3fd98c4c475dff6a571b773948464dedf618cad
-ms.sourcegitcommit: f6921c3de1d0e6faaec5a6d2471791fdfa02528d
+ms.openlocfilehash: 3e02226778b4ffb8b3d57361fcd0b6cff86820d5
+ms.sourcegitcommit: 2152c5d7b0b98398c1f31f659d68a8e74001acea
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40795744"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889305"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Las compilaciones de notas de la versión del canal mensual de Office (dirigido)
 
@@ -39,7 +39,7 @@ En este artículo hay notas de la versión para las compilaciones del canal mens
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="word"></a>Word
 
-- **Una experiencia de vídeo más segura:** las mejoras de seguridad hacen que la experiencia de vídeo en línea sea más segura. [Obtener más información](https://support.office.com/es-ES/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
+- **Una experiencia de vídeo más segura:** las mejoras de seguridad hacen que la experiencia de vídeo en línea sea más segura. [Obtener más información](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)

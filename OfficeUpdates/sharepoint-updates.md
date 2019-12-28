@@ -14,12 +14,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: Encuentre y administre actualizaciones de SharePoint Server 2016, SharePoint 2013 y SharePoint 2010 en una única ubicación. Use los vínculos de esta página para obtener más información sobre las actualizaciones y luego descárguelas.
-ms.openlocfilehash: c572d3ffb93b4d0c8c9e970234ff134e291a3da2
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: a726b1a103d0956d966c60cfbb334f4a7de71678
+ms.sourcegitcommit: 2152c5d7b0b98398c1f31f659d68a8e74001acea
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023741"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889335"
 ---
 # <a name="sharepoint-updates"></a>Actualizaciones de SharePoint
 
@@ -258,7 +258,7 @@ Además de las actualizaciones de SharePoint, le recomendamos que revise la sigu
   
 - Windows Server AppFabric con SharePoint
   
-  - [AppFabric](https://msdn.microsoft.com/es-ES/library/aa139641.aspx)
+  - [AppFabric](https://msdn.microsoft.com/library/aa139641.aspx)
   - [Conceptos clave de AppFabric con SharePoint](https://blogs.msdn.microsoft.com/besidethepoint/2013/03/27/appfabric-caching-and-sharepoint-concepts-and-examples-part-1/)
   - [Actualizaciones de AppFabric](https://blogs.msdn.microsoft.com/distributedservices/2014/02/26/how-to-update-windows-server-appfabric-1-1-with-cumulative-update-packages/)
   
@@ -270,7 +270,7 @@ Además de las actualizaciones de SharePoint, le recomendamos que revise la sigu
 
 ## <a name="related-topics"></a>Temas relacionados
 
-- [Instalación de actualización de software para SharePoint Server 2019](https://docs.microsoft.com/es-ES/SharePoint/upgrade-and-update/deploy-updates-for-sharepoint-server-2016)
+- [Instalación de actualización de software para SharePoint Server 2019](https://docs.microsoft.com/SharePoint/upgrade-and-update/deploy-updates-for-sharepoint-server-2016)
 - [Instalar una actualización de software para SharePoint Server 2016](https://docs.microsoft.com/SharePoint/upgrade-and-update/install-a-software-update)
 - [Introducción a las actualizaciones de software de SharePoint Server 2013](https://docs.microsoft.com/SharePoint/upgrade-and-update/software-updates-overview-for-sharepoint-server-2013)
 - [Preparar la implementación de actualizaciones de software en SharePoint 2013](https://docs.microsoft.com/SharePoint/upgrade-and-update/prepare-to-deploy-software-updates)

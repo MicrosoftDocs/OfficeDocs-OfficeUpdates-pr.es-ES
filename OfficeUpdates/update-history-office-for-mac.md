@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a profesionales de TI información sobre las últimas actualizaciones de Office para Mac, incluidos los vínculos para descargar los paquetes y un historial de actualizaciones.
-ms.openlocfilehash: 91ae5036b889a0113281cfd438eb5b19987940ec
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 5749572870fba13ba51ded6928a491d30d46c5a8
+ms.sourcegitcommit: 2152c5d7b0b98398c1f31f659d68a8e74001acea
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39962267"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889315"
 ---
 # <a name="update-history-for-office-for-mac"></a>Historial de actualizaciones de Office para Mac
   
@@ -23,7 +23,7 @@ Office para Mac que incluye una suscripción de Office 365 se actualiza de forma
 
 > [!NOTE]
 > - Desde la versión 16.21, Microsoft Teams se instalará de forma predeterminada para ***nuevos*** paquetes de instalación si usa el conjunto de aplicaciones de Office. Para obtener más información, vea [instalaciones de Microsoft Teams en Mac](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac).  
-> - Por motivos de seguridad, Microsoft ha descartado el uso de SHA-1. [Más información](https://docs.microsoft.com/es-ES/security-updates/SecurityAdvisories/2017/4010323)
+> - Por motivos de seguridad, Microsoft ha descartado el uso de SHA-1. [Más información](https://docs.microsoft.com/security-updates/SecurityAdvisories/2017/4010323)
 > - A partir de la versión 16.17 de septiembre de 2018, esta información también se aplica a Office 2019 para Mac, que es una versión de Office para Mac que está disponible como una compra de pago único en tiendas o a través de un contrato de licencias por volumen.
 > - La información del historial de actualizaciones para la versión 16.16 y anteriores también se aplica a Office 2016 para Mac, que también es una versión de Office para Mac disponible como una compra de pago único. Las versiones anteriores hasta la 16.16 (inclusive) se pueden activar con una licencia por volumen de Office 2016 para Mac. No se puede activar la versión 16.17 o posterior con una licencia por volumen de Office 2016 para Mac. Para obtener información sobre las versiones de Office 2016 para Mac a partir de septiembre, vea [Notas de la versión de Office 2016 para Mac](release-notes-office-2016-mac.md)
 > - Para obtener información sobre las características, las actualizaciones de seguridad y otras que se incluyen en cada versión de Office para Mac, vea [Notas de la versión de Office para Mac](release-notes-office-for-mac.md).
@@ -54,7 +54,7 @@ Versión 16.32 (19120802)
 
 En la siguiente tabla, se proporciona información sobre los paquetes más recientes, incluido un vínculo de descarga para otros programas de Mac de Microsoft que pueden ser de interés para los profesionales de TI. La fecha de compilación se muestra entre paréntesis, con un formato AAMMDD, después del número de versión.
 
-**Nota:** la información de la versión de Microsoft AutoUpdate (Mau) se ha trasladado a la página [Historial de versiones MAU](https://docs.microsoft.com/es-ES/officeupdates/release-history-microsoft-autoupdate).<br/><br/>
+**Nota:** la información de la versión de Microsoft AutoUpdate (Mau) se ha trasladado a la página [Historial de versiones MAU](https://docs.microsoft.com/officeupdates/release-history-microsoft-autoupdate).<br/><br/>
 
   
 |**Programa**|**Versión**|**Paquete**|**Más información**|**Hash SHA-1/ SHA-256**|
