@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider Lento la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 3e02226778b4ffb8b3d57361fcd0b6cff86820d5
-ms.sourcegitcommit: 2152c5d7b0b98398c1f31f659d68a8e74001acea
+ms.openlocfilehash: f11cd846890d876eede81090df2ea718022bb3f9
+ms.sourcegitcommit: e98fd276315194ca861f00d6bcd2795f13edf5d0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40889305"
+ms.lasthandoff: 12/31/2019
+ms.locfileid: "40918446"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Las compilaciones de notas de la versión del canal mensual de Office (dirigido)
 
@@ -29,6 +29,37 @@ En este artículo hay notas de la versión para las compilaciones del canal mens
 [//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
 
 [//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+
+## <a name="version-1912-december-30"></a>Versión 1912: 30 de diciembre
+*Versión 1912 (compilación 12325.20240)*
+
+
+[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **¡Traiga el contexto junto con sus objetos SVG!:** ahora puede conservar el texto en mapas, gráficos y otros vectores SVG al convertir estos objetos en Office.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **¡Traiga el contexto junto con sus objetos SVG!:** ahora puede conservar el texto en mapas, gráficos y otros vectores SVG al convertir estos objetos en Office.
+
+
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="outlook"></a>Outlook
+
+- <div>Se corrige un problema por el que los usuarios experimentan bloqueos en Outlook al recuperar la configuración de la nube.</div>
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-1912-december-19"></a>Versión 1912: 19 de diciembre
 *Versión 1912 (Compilación 12325.20214)*
