@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider Lento la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: f11cd846890d876eede81090df2ea718022bb3f9
-ms.sourcegitcommit: e98fd276315194ca861f00d6bcd2795f13edf5d0
+ms.openlocfilehash: a2831cbc12f916c5678aab32f4cd6b6cd96c4008
+ms.sourcegitcommit: 1cf47498ccc05d5933fd27dcf89b786157b419a2
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/31/2019
-ms.locfileid: "40918446"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40961647"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Las compilaciones de notas de la versión del canal mensual de Office (dirigido)
 
@@ -28,7 +28,21 @@ En este artículo hay notas de la versión para las compilaciones del canal mens
 
 [//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
 
-[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+## <a name="version-1912-january-06"></a>Versión 1912: 06 de enero
+*Versión 1912 (compilación 12325.20264)*
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="powerpoint"></a>PowerPoint
+
+- **GIF en un instante:** una diapositiva, un marco. Cree fácilmente archivos GIF en bucle en PowerPoint. [Más información](https://support.office.com/es-ES/article/a598753e-92de-4f1b-8393-714db4d334b4)
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
 ## <a name="version-1912-december-30"></a>Versión 1912: 30 de diciembre
 *Versión 1912 (compilación 12325.20240)*
