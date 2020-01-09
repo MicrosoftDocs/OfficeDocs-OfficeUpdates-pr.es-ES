@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider Lento la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: a2831cbc12f916c5678aab32f4cd6b6cd96c4008
-ms.sourcegitcommit: 1cf47498ccc05d5933fd27dcf89b786157b419a2
+ms.openlocfilehash: ba072296a879cd98796fd3c9ca44059217e0566e
+ms.sourcegitcommit: 6c188ffae94a3d20e2b20007038b6484e18bae14
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "40961647"
+ms.lasthandoff: 01/08/2020
+ms.locfileid: "40987365"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Las compilaciones de notas de la versión del canal mensual de Office (dirigido)
 
@@ -28,7 +28,22 @@ En este artículo hay notas de la versión para las compilaciones del canal mens
 
 [//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
 
-[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+
+## <a name="version-1912-january-07"></a>Versión 1912: 7 de enero
+*Versión 1912 (compilación 12325.20280)*
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="outlook"></a>Outlook
+
+- <div>Corrige un problema que provocaba que los usuarios vieran mensajes de correo electrónico enviados a una dirección que no coincidía con la dirección SMTP mostrada en determinadas circunstancias.</div>
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-1912-january-06"></a>Versión 1912: 06 de enero
 *Versión 1912 (compilación 12325.20264)*
