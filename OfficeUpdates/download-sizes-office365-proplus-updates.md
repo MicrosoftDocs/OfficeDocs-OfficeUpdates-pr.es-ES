@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Office 365 ProPlus según el canal de actualización.
-ms.openlocfilehash: 230c17cabf76400452e337a9d5045c6d7be85f02
-ms.sourcegitcommit: f59095492cd5301eff069f004dcae56624345cf4
+ms.openlocfilehash: cd63909491b0a9c3c838c3357fd8cfd4b0a98ced
+ms.sourcegitcommit: 7878888296fd804525e07ef84947f8133ab7dcba
 ms.translationtype: HT
 ms.contentlocale: es-ES
 ms.lasthandoff: 01/09/2020
-ms.locfileid: "40995550"
+ms.locfileid: "41004328"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 
@@ -29,6 +29,32 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 > - Se muestran las versiones de los últimos cuatro meses.
 
 [//]: # (NO ELIMINAR)
+
+## <a name="january-9-2020"></a>9 de enero de 2020
+
+[//]: # (NO ELIMINAR INICIO DE CONTENIDO DE PREVISIÓN)
+
+### <a name="semi-annual-channel"></a>Canal semianual
+
+<i>La versión prevista es la versión 1908 (compilación 11929.20562).</i>
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1902 (compilación 11328.20492) <br/> |10 de diciembre de 2019 <br/> |338<br/> |
+|Versión 1902 (compilación 11328.20480) <br/> |22 de noviembre de 2019 <br/> |337<br/> |
+
+
+### <a name="semi-annual-targeted-channel"></a>Canal semianual (dirigido)
+
+<i>La versión prevista es la versión 1908 (compilación 11929.20562).</i>
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1908 (compilación 11929.20516) <br/> |10 de diciembre de 2019 <br/> |59<br/> |
+|Versión 1908 (compilación 11929.20494) <br/> |22 de noviembre de 2019 <br/> |64<br/> |
+
+
+[//]: # (NO ELIMINE EL CONTENIDO DEL PRONÓSTICO FINAL)
 
 ## <a name="january-8-2020"></a>8 de enero de 2020
 
