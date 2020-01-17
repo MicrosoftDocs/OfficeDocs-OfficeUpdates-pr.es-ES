@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión de las actualizaciones de seguridad de Office 365 ProPlus
-ms.openlocfilehash: ec6f6f5035a2f4436ea429754d5d37d4c26712eb
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 421c8eadf21db20b7ee7fc783f3a3661f6681f75
+ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961785"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41122019"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Notas de la versión para las actualizaciones de seguridad de Office 365 ProPlus
 
@@ -25,6 +25,30 @@ Estas notas de la versión proporcionan información sobre las correcciones de s
 > - Esta información también se aplica a Office 365 Empresa, que es la versión de Office que viene con algunos planes de Office 365, como Empresa Premium.  
 
 [//]: # (NO QUITAR LA LÍNEA ANTERIOR, se usa para el espaciado)  
+
+## <a name="january-14-2020"></a>14 de enero de 2020
+Canal mensual: versión 1912 (compilación 12325.20298)  
+Canal semi anual (Dirigido): versión 1908 (compilación 11929.20562)  
+Canal semi anual: versión 1908 (compilación 11929.20562)  
+Canal semi anual: versión 1902 (compilación 11328.20512)  
+Canal semi anual: versión 1808 (compilación 10730.20432)  
+
+[//]: # (NO ELIMINAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO INICIAL)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-0651](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0651)
+-   [CVE-2020-0650](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0650)
+-   [CVE-2020-0653](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0653)
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+-   [CVE-2020-0652](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0652)
+
+[//]: # (NO ELIMINAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO FINAL)
+
+
 
 ## <a name="december-10-2019"></a>10 de diciembre de 2019
 Canal mensual: versión 1911 (compilación 12228.20364)  
