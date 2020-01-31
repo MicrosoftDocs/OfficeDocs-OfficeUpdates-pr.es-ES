@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de ti las notas de la versión para las versiones de canal semianual para Office 365 ProPlus en 2017
-ms.openlocfilehash: 97df90f17529a2c3336e19a2954b6c596e7d3410
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 9d3a8a62656e52fd556920745d64ba2d1da47b1f
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32439235"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629267"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2017"></a>Notas de la versión para las versiones de canal semianual en 2017
 
@@ -95,7 +95,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ## <a name="version-1705-october-10"></a>Versión 1705:10 de octubre
 *Versión 1705 (compilación 8201.2200)*
 
-### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
+### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad
 -   Se ha solucionado un problema por el que Excel se bloqueaba temporalmente al expandir o contraer una tabla dinámica. Además, los encabezados de las tablas dinámicas salían de la pantalla.
 
 ### <a name="outlook-security-updates"></a>Outlook: Actualizaciones de seguridad
@@ -388,7 +388,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones no relacionadas con la seguridad
 -   Se ha solucionado un problema relacionado con la forma en que se firmaban algunos archivos de programa, lo que causaba que los programas antivirus marcaran esos archivos como potencialmente peligrosos, así como otros problemas de protección o acceso a datos en Windows Information Protection (WIP).
 -   Se ha solucionado un problema que impedía que se mostrara el cuadro de diálogo Novedades.
--   Se ha solucionado un problema que producía que las actualizaciones desatendidas de Office 2013 a Office 2016 no se realizasen correctamente al usar System Center Configuration Manager.
+-   Se ha corregido un problema que provoca que las actualizaciones desatendidas de Office 2013 a Office 2016 se produzcan errores al usar el administrador de configuración.
 -   Corrección de un problema que producía que los complementos heredados implementados de la tienda a través del catálogo corporativo no se pudiesen cargar.
 
 
@@ -742,7 +742,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   Se corrige un problema en el que, después de insertar una imagen SVG en un documento de Office, la imagen SVG desaparece cuando se guarda el documento y se vuelve a abrir.
 -   Fix an issue where Office shows the following error message during activation for non-English users: "The maximum length of the product key is 25 characters."
 -   Se soluciona un problema en el que los formularios VBA que pueden provocar el orden Z de marcos dejan de funcionar o no se muestran correctamente.
--   Se soluciona un problema en el que una actualización activada por System Center Configuration Manager cambia el valor UpdateChannel en el Registro por algo que no es un canal de actualización válido.
+-   Se soluciona un problema en el que una actualización activada por el administrador de configuración cambia el valor UpdateChannel en el registro por algo que no es un canal de actualización válido.
 
 
 
@@ -810,7 +810,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ## <a name="version-1609-april-11"></a>Versión 1609:11 de abril
 *Versión 1609 (compilación 7369.2127)*
 
-### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
+### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema por el que Excel se bloquea cuando el usuario intenta establecer permisos para que otros usuarios puedan editar un rango.
 
 ### <a name="outlook-security-updates"></a>Outlook: Actualizaciones de seguridad
@@ -1064,7 +1064,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 ### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que los formularios VBA que pueden provocar el orden Z de marcos dejan de funcionar o no se muestran correctamente.
--   Se soluciona un problema en el que una actualización activada por System Center Configuration Manager cambia el valor UpdateChannel en el Registro por algo que no es un canal de actualización válido.
+-   Se soluciona un problema en el que una actualización activada por el administrador de configuración cambia el valor UpdateChannel en el registro por algo que no es un canal de actualización válido.
 -   Se soluciona un problema en el que, cuando se sincronizan archivos desde un sitio de OneDrive para la Empresa a un equipo local mediante el cliente de sincronización de OneDrive, al guardar un archivo sincronizado que se abrió desde una dirección URL, se bloquea Word, Excel o PowerPoint.
 -   Se soluciona un problema con los controles de formulario de VBA que puede causar que los controles de etiqueta transparentes se muestren opacos, que los formularios existentes ya no se muestren o funcionen según lo esperado, y que la aplicación de Office deje de responder al intentar abrir un archivo habilitado para macros que contiene controles de formulario.
 -   Se soluciona un problema en el que, al usar propiedades de metadatos administrados, se muestra el botón "Mostrar detalles" en la sección Propiedades de Archivo \> Información, en lugar de los valores de metadatos establecidos.
