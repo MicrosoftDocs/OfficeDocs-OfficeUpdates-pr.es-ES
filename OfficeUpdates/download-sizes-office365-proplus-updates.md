@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Office 365 ProPlus según el canal de actualización.
-ms.openlocfilehash: f16de46a5402e75b551898fc255eb5ff3ea5f1e5
-ms.sourcegitcommit: d13d7308e9454f121ea1a60a0f035d461e4016c3
+ms.openlocfilehash: 9bf11c4176ba72a31d1bd5ea1bfa46d6217a6805
+ms.sourcegitcommit: 5534ba17ff0437b4dc25213f364c714397911e6a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2020
-ms.locfileid: "41173396"
+ms.lasthandoff: 02/01/2020
+ms.locfileid: "41650808"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 
@@ -29,6 +29,38 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 > - Se muestran las versiones de los últimos cuatro meses.
 
 [//]: # (NO ELIMINAR)
+
+## <a name="january-30-2020"></a>30 de enero de 2020
+
+[//]: # (NO eliminar el contenido STARTJanuary 30, 2020)
+
+### <a name="monthly-channel"></a>Canal mensual
+
+La versión más reciente es la 2001 (Compilación 12430.20184).
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1912 (Compilación 12325.20344) <br/> |22 de enero de 2020 <br/> |134<br/> |
+|Versión 1912 (compilación 12325.20298) <br/> |14 de enero de 2020 <br/> |138<br/> |
+
+
+[//]: # (NO eliminar el contenido ENDJanuary 30, 2020)
+
+## <a name="january-22-2020"></a>22 de enero de 2020
+
+[//]: # (NO eliminar el contenido STARTJanuary 22, 2020)
+
+### <a name="monthly-channel"></a>Canal mensual
+
+La versión más reciente es la 1912 (Compilación 12325.20344).
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1912 (compilación 12325.20298) <br/> |14 de enero de 2020 <br/> |53<br/> |
+|Versión 1912 (compilación 12325.20288) <br/> |8 de enero de 2020 <br/> |59<br/> |
+
+
+[//]: # (NO eliminar el contenido ENDJanuary 22, 2020)
 
 ## <a name="january-14-2020"></a>14 de enero de 2020
 
