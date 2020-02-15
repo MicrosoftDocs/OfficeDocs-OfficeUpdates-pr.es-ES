@@ -3,19 +3,18 @@ title: Lista de los archivos. MSP más recientes para los productos de Office 20
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 1/15/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de ti una lista de los archivos. MSP más recientes para las versiones perpetuas de Office 2013 que usan Windows Installer (MSI).
-ms.openlocfilehash: 90b8065a7daeda6f7fd57364807c8a06d9192172
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: 53e0f474885d5f931efde243abc2ec50a6b47f85
+ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122029"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "41978668"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2013-products"></a>Lista de los archivos. MSP más recientes para los productos de Office 2013
 
@@ -25,12 +24,12 @@ Esta información solo se aplica a los productos de Office 2013 que usan la tecn
   
 ## <a name="most-recently-updated-msp-files"></a>Archivos. MSP actualizados más recientemente
 
-En la siguiente tabla se enumeran los archivos. MSP que se actualizaron en el **2020 de enero**. 
+En la siguiente tabla se enumeran los archivos. MSP que se actualizaron en **febrero de 2020**. 
   
 |Actualizaciones no relacionadas con la seguridad * * * *|Actualizaciones de seguridad * * * *|
 |:-----|:-----|
 |<br>|Excel-x-ninguno<br/>|
-|<br>|gráfico-x-ninguno<br/>|
+|<br>|Outlook-x-None<br/>|
 
 
 
@@ -41,7 +40,7 @@ En la siguiente tabla se enumeran los archivos. MSP que se actualizaron en el **
  
 ## <a name="list-of-all-msp-files"></a>Lista de todos los archivos. MSP
 
-En la siguiente tabla se enumeran todos los archivos. MSP que se han lanzado desde el lanzamiento del Service Pack 1 (SP1) de Office 2013 en febrero de 2014.
+En la siguiente tabla se enumeran todos los archivos. MSP que se han lanzado desde el lanzamiento del Service Pack 1 (SP1) de Office 2013 en febrero de 2014. Cuando hay una fecha de lanzamiento de la seguridad para un archivo. MSP que es mayor que la fecha de lanzamiento no de seguridad, no se necesita la versión no de seguridad porque se ha reemplazado por la versión de seguridad.
   
 |nombre de archivo. MSP * * * *|Producto * * * *|Fecha de lanzamiento no relacionado con la seguridad * * * *|Artículo de KB no relacionado con la seguridad * * * * *|Fecha de lanzamiento de seguridad * * * *|Artículo de KB de versión de seguridad * * * * *|KB de seguridad reemplazado * * * *|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -58,7 +57,7 @@ En la siguiente tabla se enumeran todos los archivos. MSP que se han lanzado des
 |duetserver-x-ninguno<sup>1</sup> <br/> |Office 2013  <br/> |14 de abril de 2015  <br/> |[2965214](https://support.microsoft.com/kb/2965214) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
 |eDiscovery-x-ninguno<sup>2</sup> <br/> |Office 2013  <br/> |5 de septiembre de 2017  <br/> |[3172484](https://support.microsoft.com/help/3172484) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
 |eqnedt32-x-None  <br/> |Office 2013  <br/> |No aplicable  <br/> |No aplicable  <br/> |9 de enero de 2018  <br/> |[4011580](https://support.microsoft.com/help/4011580) <br/> |[3162047](https://support.microsoft.com/help/3162047) <br/> |
-|Excel-x-ninguno  <br/> |Excel 2013  <br/> |3 de julio de 2018  <br/> |[4022244](https://support.microsoft.com/help/4022244) <br/> |14 de enero de 2020  <br/> |[4484234](https://support.microsoft.com/help/4484234) <br/> |[4484190](https://support.microsoft.com/help/4484190) <br/> |
+|Excel-x-ninguno  <br/> |Excel 2013  <br/> |3 de julio de 2018  <br/> |[4022244](https://support.microsoft.com/help/4022244) <br/> |11 de febrero de 2020  <br/> |[4484265](https://support.microsoft.com/help/4484265) <br/> |[4484234](https://support.microsoft.com/help/4484234) <br/> |
 |excelpp-x-None  <br/> |Office 2013  <br/> |6 de junio de 2017  <br/> |[3191872](https://support.microsoft.com/help/3191872) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
 |exppdf-x-None  <br/> |Office 2013  <br/> |5 de abril de 2016  <br/> |[3085587](https://support.microsoft.com/kb/3085587) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
 |FilterPack-x-None  <br/> |Office 2013  <br/> |5 de abril de 2016  <br/> |[3039756](https://support.microsoft.com/kb/3039756) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
@@ -97,7 +96,7 @@ En la siguiente tabla se enumeran todos los archivos. MSP que se han lanzado des
 |otkruntimertl-x-None  <br/> |Office 2013  <br/> |No disponible  <br/> |No aplicable  <br/> |8 de marzo de 2016  <br/> |[3039746](https://support.microsoft.com/kb/3039746) <br/> |[2910941](https://support.microsoft.com/kb/2910941) <br/> |
 |outexum-x-None  <br/> |Office 2013  <br/> |5 de marzo de 2019  <br/> |[4092455](https://support.microsoft.com/kb/4092455) <br/> |No disponible  <br/> |No disponible  <br/> |No aplicable  <br/> |
 |OUTLFLTR-x-ninguno  <br/> |Office 2013  <br/> |2 de agosto de 2016  <br/> |[3115404](https://support.microsoft.com/kb/3115404) <br/> |No disponible  <br/> |No disponible  <br/> |No aplicable  <br/> |
-|Outlook-x-None  <br/> |Outlook 2013  <br/> |1 de octubre de 2019  <br/> |[4484096](https://support.microsoft.com/help/4484096) <br/> |13 de agosto de 2019  <br/> |[4475563](https://support.microsoft.com/help/4475563) <br/> |[4464592](https://support.microsoft.com/help/4464592) <br/> |
+|Outlook-x-None  <br/> |Outlook 2013  <br/> |1 de octubre de 2019  <br/> |[4484096](https://support.microsoft.com/help/4484096) <br/> |11 de febrero de 2020  <br/> |[4484156](https://support.microsoft.com/help/4484156) <br/> |[4475563](https://support.microsoft.com/help/4475563) <br/> |
 |peopledatahandler-x-None  <br/> |Office 2013  <br/> |8 de septiembre de 2015  <br/> |[3039766](https://support.microsoft.com/kb/3039766) <br/> |No disponible  <br/> |No disponible  <br/> |No aplicable  <br/> |
 |PowerPoint-x-None  <br/> |PowerPoint 2013  <br/> |7 de agosto de 2018  <br/> |[4018374](https://support.microsoft.com/help/4018374) <br/> |10 de diciembre de 2019  <br/> |[4461590](https://support.microsoft.com/help/4461590) <br/> |[4461481](https://support.microsoft.com/help/4461481) <br/> |
 |ppaddin-x-None  <br/> |Office 2013  <br/> |5 de septiembre de 2017  <br/> |[3213536](https://support.microsoft.com/help/3213536) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
