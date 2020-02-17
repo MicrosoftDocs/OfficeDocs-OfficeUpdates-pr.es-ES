@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales de TI las notas de la versión de las versiones de Office para Mac para los suscriptores de Office 356
-ms.openlocfilehash: ea7f2bd55b0aa1088eec2219b562f28b83985a2f
-ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
+ms.openlocfilehash: 044a7df52545af6adcc57d58cb8299f17b5c7244
+ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2020
-ms.locfileid: "41629227"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "41978748"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de la versión de Office para Mac
 
@@ -35,6 +35,38 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
 [//]: # (NO ELIMINAR)
 
+
+
+
+## <a name="february-11-2020"></a>11 de febrero de 2020
+*Versión 16.34 (Compilación 20020900)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Lea y responda sobre la marcha: **responda a los comentarios y las menciones directamente desde el correo electrónico sin abrir el libro.
+
+- **Busque a la izquierda, busque a la derecha... BUSCARX ya está aquí**: fila por fila, busque lo que necesite en una tabla o un rango con BUSCARX. [Más información](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)
+
+- **Actualizar datos de tablas y rangos locales:** actualizar las consultas de Power Query en un equipo Mac desde tablas y rangos locales.
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+
+[//]: # (NO QUITAR LOS DETALLES DE SEGURIDAD INICIO DEL CONTENIDO INICIAL)
+
+
+### <a name="security-updates"></a>Actualizaciones de seguridad
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-0759](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0759)
+
+[//]: # (NO QUITAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO FINAL)
 
 ## <a name="january-14-2020"></a>14 de enero de 2020
 *Versión 16.33 (compilación 20011301)*
@@ -483,8 +515,8 @@ En esta versión se incluyen las actualizaciones siguientes:
 |**Aplicación**|**Actualizaciones de características**|**Actualizaciones de seguridad**|**Vínculo de descarga para el paquete de actualización**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| **Descansar los ojos con el modo oscuro:** un fondo oscuro es menos dañino para la vista en entornos de poca luz. Requiere macOS Mojave. <br/><br/>  **Conservar el aspecto del texto:** incruste fuentes para asegurarse de que texto del documento tiene el mismo aspecto en cualquier equipo. No más sorpresas. [Más información](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/><br/>**Ver las fuentes incrustadas en los documentos:** permite que las fuentes incrustadas en un archivo se representen en Word para Mac.<br/><br/>**Barra de estado invocable del modo de enfoque:** en el modo de enfoque, vea más fácilmente el recuento de palabras y acceda a los controles de zoom con la barra de estado invocable.<br/><br/>**Obtenga más ayuda con el modo de enfoque:** le hemos oído. Ahora, el Modo Enfoque se abre en el nivel de zoom establecido y muestra además el número de página mientras se desplaza.| |[Paquete de actualización de Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg) <br/>|
-|Excel  <br/>|  **Descansar los ojos con el modo oscuro:** un fondo oscuro es menos dañino para la vista en entornos de poca luz. Requiere macOS Mojave. <br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8597): Vulnerabilidad de la ejecución remota de código de Microsoft Excel <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8627): vulnerabilidad de divulgación de información de Microsoft Excel |[Paquete de actualización de Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
-|PowerPoint  <br/>| **Descansar los ojos con el modo oscuro:** un fondo oscuro es menos dañino para la vista en entornos de poca luz. Requiere macOS Mojave. <br/><br/>  **Desde el iPhone a PowerPoint en un momento:** use la continuidad de cámara de Apple para insertar una foto desde su iPhone en la diapositiva. Requiere macOS Mojave. [Más información](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8628): Vulnerabilidad de la ejecución remota de código de Microsoft PowerPoint <br/>|[Paquete de actualización de PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
+|Excel  <br/>|  **Descansar los ojos con el modo oscuro:** un fondo oscuro es menos dañino para la vista en entornos de poca luz. Requiere macOS Mojave <br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8597): Vulnerabilidad de la ejecución remota de código de Microsoft Excel <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8627): vulnerabilidad de divulgación de información de Microsoft Excel |[Paquete de actualización de Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
+|PowerPoint  <br/>| **Descansar los ojos con el modo oscuro:** un fondo oscuro es menos dañino para la vista en entornos de poca luz. Requiere macOS Mojave <br/><br/>  **Desde el iPhone a PowerPoint en un momento:** use la continuidad de cámara de Apple para insertar una foto desde su iPhone en la diapositiva. Requiere macOS Mojave. [Más información](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8628): Vulnerabilidad de la ejecución remota de código de Microsoft PowerPoint <br/>|[Paquete de actualización de PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
 |Outlook  <br/>|  **Descansar los ojos con el modo oscuro:** un fondo oscuro es menos dañino para la vista en entornos de poca luz. Requiere macOS Mojave. <br/><br/>  **Compartir el calendario:** comparta su calendario con compañeros, amigos y familiares. Abra los calendarios compartidos con usted en las versiones de nube, PC o Mac de Outlook. [Más información](https://support.office.com/article/365-b576ecc3-0945-4d75-85f1-5efafb8a37b4) <br/><br/> **Desactivar el reenvío para una reunión** Impida que los asistentes reenvíen la reunión a otros usuarios. [Más información](https://support.office.com/article/8cd354e5-b319-403e-8dd2-88b8ee89b4dd) <br/><br/> **Usar Teams para conectarse a las reuniones:** ¿trabaja con equipos remotos? Use Teams en Outlook para programar y asistir a reuniones en línea. [Más información](https://support.office.com/article/883cc15c-580f-441a-92ea-0992c00a9b0f) <br/><br/>**Ver quién asistirá a la reunión:** haga clic en cualquier reunión o evento del calendario para ver quién tiene previsto asistir.<br/><br/> **Ver tres zonas horarias:** ¿necesita programar una reunión en distintas zonas horarias? Agregue varias zonas horarias al calendario para ver la disponibilidad de todos los usuarios fácilmente y seleccione una hora adecuada para todos. [Más información](https://support.office.com/article/938d9db9-14ae-4203-ab91-b2d183429382)<br/><br/>  ||[Paquete de actualización de Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.20.18120801_Updater.pkg) <br/>|
 |Microsoft Auto Update 4.6 <br/>| Se han actualizado los catálogos de seguridad para contener hashes SHA-256 en lugar de SHA-1 <br/>|<br/> | [Paquete de actualización de Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.6.18120801_Updater.pkg)|
 |OfficeSuite  <br/>|**Los iconos de la cinta tienen un aspecto nuevo:** no se preocupe, todo funciona de la misma forma. Además, ahora todos los iconos se ven bien en todos los tamaños de pantalla. [Más información](https://support.office.com/article/a6cdf19a-b2bd-4be1-9515-d74a37aa59bf)<br/><br/>**Panel de texto alternativo actualizado:** haga que su contenido sea más accesible al agregar títulos útiles o incluso marcar elementos como decorativos. |<br/>||

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Office 365 ProPlus en 2020
-ms.openlocfilehash: 93e55fb553593c96d3a15bdf3b4000895e00190b
-ms.sourcegitcommit: 5534ba17ff0437b4dc25213f364c714397911e6a
+ms.openlocfilehash: 35d4a8383dcfcb81a872901337cb5f36ed6166e6
+ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/01/2020
-ms.locfileid: "41650798"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "41978608"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Notas de la versión para las versiones de canal mensual en 2020
 
@@ -24,6 +24,47 @@ En estas notas de la versión, se proporciona información sobre característica
 >
 >- A menudo distribuimos características (y a veces incluso correcciones) para el Canal mensual durante un período de tiempo.  Si no ve algo que se describe a continuación de inmediato, lo verá pronto. [Más información](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a comienzos de julio, las actualizaciones de Office 365 ProPlus (y Office 365 Empresa) incluirán Microsoft Teams.  La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
+
+## <a name="version-2001-february-11"></a>Versión 2001: 11 de febrero
+*Versión 2001 (compilación 12430.20264)*
+
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/es-ES/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="access"></a>Access
+
+- Las plantillas de Access ya no deberían causar errores en columnas de datos adjuntos en una base de datos. Después de crear la instancia de una plantilla, ahora debería poder agregar un campo de datos adjuntos a la base de datos.
+
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema por el que los comandos de comentario en el menú contextual no aparecían.
+
+- Se ha corregido un problema que causaba que algunos usuarios experimentasen bloqueos al convertir texto en columnas con celdas que tienen una matriz derramada.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrige un problema que provocaba que los usuarios experimentaran un bloqueo al especificar una dirección de origen no válida.
+
+
+- Corrige un problema que provocaba que los usuarios experimentaran un error al cancelar la configuración de la cuenta.
+
+
+### <a name="project"></a>Project
+
+- Se ha corregido un problema por el que el 100 % de las tareas de tipo duración fija podían tener un cálculo del porcentaje incorrecto con menos del 100% completado.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Este cambio resuelve problemas con adaptadores gráficos que aprovechan la GPU integrada de Intel.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2001-january-30"></a>Versión 2001: 30 de enero
 *Versión 2001 (compilación 12430.20184)*

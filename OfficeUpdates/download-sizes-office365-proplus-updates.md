@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Office 365 ProPlus según el canal de actualización.
-ms.openlocfilehash: d35878ad780bad5659b9e12d6b5efe6b921cab44
-ms.sourcegitcommit: 8175a89ddb651d8118d1c0a4823622dd1d05cb57
+ms.openlocfilehash: ce7902418228e610097f76cc676870d132afa30c
+ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/06/2020
-ms.locfileid: "41830774"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "41978618"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 
@@ -30,29 +30,45 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 
 [//]: # (NO ELIMINAR)
 
-## <a name="february-6-2020"></a>6 de febrero de 2020
+## <a name="february-11-2020"></a>11 de febrero de 2020
 
-[//]: # (NO ELIMINAR INICIO DE CONTENIDO DE PREVISIÓN)
+[//]: # (NO ELIMINAR EL CONTENIDO INICIAL11 de febrero de 2020)
+
+### <a name="monthly-channel"></a>Canal mensual
+
+La versión más reciente es la 2001 (Compilación 12430.20264).
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 2001 (Compilación 12430.20184) <br/> |30 de enero de 2020 <br/> |54<br/> |
+|Versión 1912 (Compilación 12325.20344) <br/> |22 de enero de 2020 <br/> |137<br/> |
+
+
 
 ### <a name="semi-annual-channel"></a>Canal semianual
 
-<i>La versión prevista es la versión 1908 (compilación 11929.20592).</i>
+La versión más reciente es la 1908 (Compilación 11929.20606).
 
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
 |Versión 1908 (compilación 11929.20562) <br/> |14 de enero de 2020 <br/> |65<br/> |
 |Versión 1902 (compilación 11328.20492) <br/> |10 de diciembre de 2019 <br/> |339<br/> |
 
+
 ### <a name="semi-annual-targeted-channel"></a>Canal semianual (dirigido)
 
-<i>La versión prevista es la versión 1908 (compilación 11929.20606).</i>
+La versión más reciente es la 1908 (Compilación 11929.20606).
 
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
 |Versión 1908 (compilación 11929.20562) <br/> |14 de enero de 2020 <br/> |65<br/> |
 |Versión 1908 (compilación 11929.20516) <br/> |10 de diciembre de 2019 <br/> |68<br/> |
 
-[//]: # (NO ELIMINE EL CONTENIDO DEL PRONÓSTICO FINAL)
+
+[//]: # (NO ELIMINAR EL CONTENIDO FINAL11 de febrero de 2020)
+
+
+
 
 ## <a name="january-30-2020"></a>30 de enero de 2020
 

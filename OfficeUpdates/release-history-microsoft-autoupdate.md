@@ -3,19 +3,18 @@ title: Historial de versiones de Microsoft AutoUpdate (MAU)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/15/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales informáticos un historial de versiones de Microsoft AutoUpdate (MAU).
-ms.openlocfilehash: 9d81237da3cb66bbfe2242e270ca416e709ec30e
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: ea4c4a71c501be72e744e53b9ac3681a9ef9e5bc
+ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122289"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "41978728"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historial de versiones de Microsoft AutoUpdate (MAU)
  
@@ -30,6 +29,26 @@ En la siguiente tabla, se proporciona información del historial de versiones de
 > - Microsoft AutoUpdate ofrece actualizaciones para distintos productos de Mac de Microsoft. Por tanto, es posible que reciba una notificación para actualizar Microsoft AutoUpdate, incluso si no está ejecutando Office para Mac.
 
 Para ver las notas de la versión, consulte [Notas de la versión.](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="february-2020-release"></a>Versión de febrero de 2020
+
+**Fecha de lanzamiento:** 11 de febrero de 2020
+
+*Actualización automática para Microsoft 4.20*
+
+ **Actualizaciones de características:**
+
+- La interfaz de usuario de Microsoft AutoUpdate se inicia solo si hay como mínimo 1 aplicación en el dispositivo registrada con MAU
+- Correcciones de errores y mejoras
+
+
+**Vínculo de actualización de MAU:**
+
+[Descargar el paquete de actualización automática para Microsoft 4.20](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 Hash:**
+
+397EAABFC230E801C571917BEED548A988C716F121077ED43669FF012FE9D7CE<br/><br/>
 
 ## <a name="january-2020-release"></a>Versión de enero del 2020 
 

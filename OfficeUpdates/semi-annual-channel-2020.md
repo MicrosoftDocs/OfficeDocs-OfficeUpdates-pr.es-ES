@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones del canal semianual de Office 365 ProPlus en 2020.
-ms.openlocfilehash: 78d8cf069bd7e5a3dca76ca8a28262a278433237
-ms.sourcegitcommit: b27bfae6a18d6adc6e1498d019ff0064ee2308b6
+ms.openlocfilehash: 974a5db6f3bfba2bb20cd75f4e35a2777ea94ca8
+ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41576593"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "41978588"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Notas de la versión para las versiones de canal semianual en 2020
 
@@ -25,6 +25,103 @@ En estas notas de la versión, se proporciona información sobre característica
 >- A menudo publicamos características (y a veces incluso correcciones) para el Canal semianual durante un período de tiempo. Si no ve algo que se describe a continuación de inmediato, lo verá pronto. [Más información](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- OneNote 2016 no se incluirá de forma predeterminada cuando un usuario en el canal semianual descargue e instale Office 365 en Windows 10 desde el Portal de Office.
 
+
+## <a name="version-1908-february-11"></a>Versión 1908: 11 de febrero
+*Versión 1908 (Compilación 11929.20606)*
+
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/es-ES/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Esta actualización corrige un problema que provoca un error siempre que se utilizaba VBA para agregar una imagen al encabezado o pie de página de un gráfico.
+
+- Se ha corregido un problema que hacía que el borde de un control de cuadro de grupo no estuviera visible en la vista previa de impresión o al imprimirlo.
+
+- Es posible que los usuarios vean un error cuando guarden cambios si usan grupos de caracteres que no están en inglés.
+
+- Se ha corregido un problema por el que el tamaño de archivo de las imágenes en los encabezados del gráfico aumentaba cuando se guardaba el libro que contenía el gráfico.
+
+
+- Se ha corregido un problema que provoca la corrupción de caracteres DBCS en los libros con referencias cruzadas manteniendo los rangos de selección sincronizados con el libro con referencias cruzadas.
+
+- Se ha corregido un problema en el que los controles de casilla podían reducirse al usar el autoajuste para ajustar el alto de fila.
+
+
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema que provocaba que los usuarios experimentaran un bloqueo al especificar una dirección de origen no válida.
+
+- Se ha corregido un problema que provocaba que los usuarios experimentaran errores de sincronización al procesar mensajes de conflicto.
+
+- Se ha corregido un problema que provocaba que los usuarios experimentaran un error en la pantalla de carga del perfil al iniciar Outlook.
+
+- Se ha corregido un problema que provocaba que los usuarios viesen bloqueos intermitentes al cambiar de vista.
+
+
+- Se ha corregido un problema que causaba que los usuarios sufrieran un error al visualizar más de 30 calendarios en un entorno Citrix. [Aquí](https://support.microsoft.com/es-ES/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen) está la KB individual, donde se ha documentado esto para versiones anteriores.
+
+- Corrige un problema que provocaba que los usuarios tuvieran problemas al intentar sincronizar carpetas del calendario compartido con el OST, lo que producía errores en los permisos al tratar de interactuar con estas carpetas.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha mejorado un escenario de copiar y pegar. Al copiar la forma en una diapositiva de PowerPoint y pegarla en otra diapositiva en bucle puede producir errores.
+
+
+- Se ha corregido un problema que producía un rendimiento más lento entre los usuarios de colaboración.
+
+- Se ha corregido un problema que puede producirse cuando un archivo que se abre incrementalmente contiene una diapositiva con más de una secuencia multimedia incrustada.
+
+- Se ha corregido un problema por el que es posible que la barra de mensajes de advertencia de seguridad no aparezca para los complementos en los que no se confía al iniciar PowerPoint por primera vez.
+
+### <a name="project"></a>Project
+
+- Se ha corregido un problema en el que el trabajo real puede ser diferente entre el parte de horas y el plan del proyecto debido a que los calendarios de recursos no se actualizan cuando cambia el calendario base.
+
+### <a name="word"></a>Word
+
+- Se ha corregido un bloqueo en Word al dejar una API obsoleta.
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Este cambio corrige el procesamiento de imágenes después de abrir un archivo dañado.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+
+## <a name="version-1902-february-11"></a>Versión 1902: 11 de febrero
+*Versión 1902 (Compilación 11328.20526)*
+
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/es-ES/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="outlook"></a>Outlook
+
+- Corregido un problema que hizo que los usuarios encontraran errores de "algoritmo de cifrado no admitido" al enviar un correo electrónico cifrado.
+
+
+### <a name="word"></a>Word
+
+- Se ha corregido un bloqueo en Word al dejar una API obsoleta.
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO INICIO)
+
+## <a name="version-1808-february-11"></a>Versión 1808: 11 de febrero
+*Versión 1808 (compilación 10730.20438)*
+
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/es-ES/officeupdates/office365-proplus-security-updates)
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-1908-january-14"></a>Versión 1908: 14 de enero
 *Versión 1908 (compilación 11929.20562)*
