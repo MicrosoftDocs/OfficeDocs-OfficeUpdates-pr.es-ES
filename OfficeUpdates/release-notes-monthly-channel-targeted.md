@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider Lento la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 37292929bc5d1301d662a8ced97c7cabc6d273de
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 34ca75e8083c2386a7b779975b01579fda80d11b
+ms.sourcegitcommit: 220736aa7c6bf7466beba7f3291f068546c3c77e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978708"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "42228388"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Las compilaciones de notas de la versión del canal mensual de Office (dirigido)
 
@@ -30,10 +30,61 @@ En este artículo hay notas de la versión para las compilaciones del canal mens
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
+## <a name="version-2002-february-21"></a>Versión 2002: 21 de febrero
+*Versión 2002 (compilación 12527.20174)*
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="access"></a>Access
+
+- **Aumente su productividad con el Diseñador de consultas, la vista SQL y la ventana Relaciones:** haga clic con el botón derecho en una tabla para abrirla, diseñarla, cambiar su tamaño y ocultarla. Buscar y reemplazar texto en la vista SQL. Seleccione múltiples tablas en la ventana Relaciones.
+
+### <a name="outlook"></a>Outlook
+
+- **Nueva experiencia para redes WiFi cautivas:** ¿alguna vez se ha unido a una red WiFi que requiere una página web para iniciar sesión? Outlook ahora lo detecta y le ayuda a estar conectado.
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- <div style="box-sizing:border-box;">Se ha solucionado un problema por el que las funciones de CUBEVALUE a veces daban un resultado incorrecto.&nbsp;</div><div><span style="display:inline !important;"></span><br></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div>Corregido un tema que causó que las comas en el campo de ubicación de una reunión se convirtieran en punto y coma.</div>
+
+
+- <div>Corregido un problema que podría resultar en un choque al ver el mismo elemento en varias ventanas.</div>
+
+
+- <div>Corregido un problema que causó que Outlook sincronizara inesperadamente todo el correo, incluso cuando el deslizador de sincronización está configurado en un ajuste más pequeño.&nbsp;</div>
+
+
+- <div>Corregido un problema que causó que los usuarios con el Tema Negro vieran&quot;de&quot; el desplegable muestra un texto blanco sobre un fondo blanco.</div>
+
+
+- <div><span style="display:inline !important;">Este cambio restaura la capacidad de ver sujetos de varias líneas en el encabezado del mensaje.</span><br></div>
+
+
+
+[//]: # (NO ELIMINE EL CONTENIDO FINAL DE LOS DETALLES )
+
+## <a name="version-2002-february-18"></a>Versión 2002: 18 de febrero
+*Versión 2002 (compilación 12527.20138)*
+
 ## <a name="version-2002-february-11"></a>Versión 2002: 11 de febrero
 *Versión 2002 (compilación 12527.20092)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/es-ES/officeupdates/office365-proplus-security-updates)
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
