@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Office 365 ProPlus en 2020
-ms.openlocfilehash: f7255ceead96026615d4e8a8c56826ebf53c41b3
-ms.sourcegitcommit: 220736aa7c6bf7466beba7f3291f068546c3c77e
+ms.openlocfilehash: e20199d7db1f236b86a99b1f748afcc9c5bd7426
+ms.sourcegitcommit: 192019a147f486bc97be39064a6f3c31060555c5
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42228369"
+ms.lasthandoff: 02/26/2020
+ms.locfileid: "42278591"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Notas de la versión para las versiones de canal mensual en 2020
 
@@ -24,6 +24,47 @@ En estas notas de la versión, se proporciona información sobre característica
 >
 >- A menudo distribuimos características (y a veces incluso correcciones) para el Canal mensual durante un período de tiempo.  Si no ve algo que se describe a continuación de inmediato, lo verá pronto. [Más información](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a comienzos de julio, las actualizaciones de Office 365 ProPlus (y Office 365 Empresa) incluirán Microsoft Teams.  La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
+
+## <a name="version-2002-february-25"></a>Versión 2002: 25 de febrero
+*Versión de 2002 (compilación 12527.20194)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="outlook"></a>Outlook
+
+- **Actualizaciones en el panel de carpetas de Outlook:** la nueva lista de carpetas que se muestra con Aesthetic v1 tendrá una apariencia actualizada y los grupos se elevarán a la misma jerarquía que carpetas y favoritos.
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Se ha solucionado un problema por el que las funciones CUBEVALUE a veces daban un resultado incorrecto.
+
+### <a name="outlook"></a>Outlook
+
+- Corregido un tema que causó que las comas en el campo de ubicación de una reunión se convirtieran en punto y coma.
+
+- Corregido un problema que podría resultar en un choque al ver el mismo elemento en varias ventanas.
+
+- Se ha corregido un problema por el que la opción para deshabilitar el resaltado de elementos marcados no funcionaba en algunos escenarios.
+
+- Se ha corregido un problema por el que Outlook sincronizaba inesperadamente todo el correo, incluso cuando el deslizador de sincronización estaba configurado en un ajuste menor.
+
+
+- Se ha corregido un problema por el que los usuarios con el tema negro veían la lista desplegable &quot;De&quot; con un texto blanco sobre un fondo blanco.
+
+
+- Este cambio restaura la capacidad de ver sujetos de varias líneas en el encabezado del mensaje.
+
+
+
+[//]: # (NO ELIMINE EL CONTENIDO FINAL DE LOS DETALLES )
 
 ## <a name="version-2001-february-19"></a>Versión 2001: 19 de febrero
 *Versión 2001 (Compilación 12430.20288)*
