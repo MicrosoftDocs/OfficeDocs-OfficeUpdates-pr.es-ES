@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Office 365 ProPlus en 2020
-ms.openlocfilehash: bc018a0f362bfbe62c8f8d637bd85d5ae59fd208
-ms.sourcegitcommit: b85764e80564afc70882eac3911a296dcee486dc
+ms.openlocfilehash: 9c3fb7b64b95ee2a0d6f2ae831a2c028fb9e6ba0
+ms.sourcegitcommit: 9161b86498b6aadb2cdfbb951c5ea93439922ea2
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42282834"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "42322596"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Notas de la versión para las versiones de canal mensual en 2020
 
@@ -33,18 +33,15 @@ En estas notas de la versión, se proporciona información sobre característica
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="excel"></a>Excel
 
- - **Los usuarios ahora tienen la capacidad de guardar objetos en Word y Excel como SVG:**  los usuarios pueden guardar objetos como gráficos, formas, entradas de lápiz, iconos, imágenes, entre otros, como un SVG [Más información](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **Los usuarios ahora pueden guardar objetos en Word y Excel como SVG:** los usuarios podrán guardar objetos como gráficos, formas, entradas de lápiz, iconos y imágenes, entre otros, como un SVG. [ Más información](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 - **Estadísticas de libros:** celdas, fórmulas, gráficos y tablas... Las contamos para que no tenga que hacerlo.
 
 - **Perfiles de datos en el editor de consultas:** analice rápidamente los datos de las columnas, identifique errores y valores vacíos, vea histogramas de distribución y mucho más.
 
-### <a name="outlook"></a>Outlook
-- **Actualizaciones al panel de carpetas de Outlook:**  la nueva lista de carpetas que se muestra con Aesthetic v1 tendrá una apariencia actualizada y los grupos se elevarán a la misma jerarquía que carpetas y favoritos.
-
 ### <a name="word"></a>Word
 
-- **Los usuarios ahora tienen la capacidad de guardar objetos en Word y Excel como SVG:**  los usuarios pueden guardar objetos como gráficos, formas, entradas de lápiz, iconos, imágenes, entre otros, como un SVG [Más información](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **Los usuarios ahora pueden guardar objetos en Word y Excel como SVG:** los usuarios podrán guardar objetos como gráficos, formas, entradas de lápiz, iconos y imágenes, entre otros, como un SVG. [ Más información](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 
 
@@ -86,7 +83,7 @@ En estas notas de la versión, se proporciona información sobre característica
 ## <a name="version-2001-february-11"></a>Versión 2001: 11 de febrero
 *Versión 2001 (compilación 12430.20264)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/es-ES/officeupdates/office365-proplus-security-updates)
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
