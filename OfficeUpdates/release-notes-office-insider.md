@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 3bc1a3c2908fda240b041ae59a851f5f48ec9574
-ms.sourcegitcommit: 220736aa7c6bf7466beba7f3291f068546c3c77e
+ms.openlocfilehash: 371be87b4ba3405aeaa103591ca05dadf7578e7e
+ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42228409"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42345149"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -26,6 +26,49 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 > - Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a partir de finales de junio, Microsoft Teams se incluirá en instalaciones existentes de Office 365 ProPlus (y Office 365 Empresa) a la hora de actualizar dichas instalaciones. La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
 
 [//]: # (NO ELIMINAR)
+
+## <a name="version-2003-february-28"></a>Versión 2003: 28 de febrero
+*Versión de 2003 (compilación 12619.20002)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="outlook"></a>Outlook
+
+- **Notificación de incidentes para administradores de TI:** se notificará a los administradores globales de espacios empresariales de Microsoft 365 y a los administradores de aplicaciones de Office acerca de los incidentes de Outlook y Exchange de O365 que afectan a sus usuarios con una nueva notificación en el panel derecho en Outlook para Windows.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Se ha mejorado la experiencia de creación de diagramas con entrada de lápiz a formas:** dibuje mejores diagramas y convierta en objetos de Office que pueda manipular [Obtenga más información.](https://support.office.com/article/f304ef73-9514-450b-9bb9-28c6057020f2)
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema en el que el texto de una segmentación de datos no se escala correctamente en la vista previa de impresión.
+
+### <a name="outlook"></a>Outlook
+
+- Corrige un problema que causaba que la fecha de "última modificación" de un archivo se actualizara al agregar un archivo adjunto a un correo electrónico o al guardar un archivo adjunto desde un correo arrastrándolo y colocándolo (en lugar de hacerlo a través de un menú).
+
+### <a name="word"></a>Word
+
+- Se ha corregido un problema por el que al ir a la tarjeta del comentario, el foco en el cuadro de edición del comentario no era visible.
+
+- Si se inserta un control (como un control de contenido de texto) en una ecuación, al guardar y abrir el archivo se produce un error de contenido ilegible.
+
+- Se ha corregido un problema que hacía que no se pudiera guardar un archivo protegido con contraseña anteriormente en un almacenamiento en la nube.
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Corrige un problema por el que cuando hay varios documentos abiertos en Word/Excel/PowerPoint de la misma biblioteca de SharePoint, solo se analizará el primer documento abierto para el cumplimiento de las directivas.
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2003-february-21"></a>Versión 2003: 21 de febrero
 *Versión 2003 (compilación 12615.20000)*
@@ -1411,7 +1454,7 @@ Crear un archivo PDF y el comprobador de accesibilidad indicará si hay problema
 - Se ha corregido un problema por el que al obtener el objeto de hoja de cálculo después de cambiar de tipo de gráfico en ocasiones podría producirse un error
 
 ### <a name="powerpoint"></a>PowerPoint
-- Varias correcciones de rendimiento y estabilidad.
+- Varias correcciones de rendimiento y estabilidad
 
 ### <a name="outlook"></a>Outlook
 - Se ha corregido un problema en el que, en la cinta de opciones simplificada, un control deshabilitado a veces puede no estar atenuado en la cinta de opciones
@@ -1485,7 +1528,7 @@ Aplique una animación de reproducción para la entrada de lápiz en PowerPoint 
 - Varias correcciones de rendimiento y estabilidad.
 
 ### <a name="powerpoint"></a>PowerPoint
-- Varias correcciones de rendimiento y estabilidad.
+- Varias correcciones de rendimiento y estabilidad
 
 ### <a name="outlook"></a>Outlook
 - Varias correcciones de rendimiento y estabilidad.
@@ -1729,7 +1772,7 @@ Versión 1907 (compilación 11727.20064)
 - Se ha corregido un problema que provocaba bloqueos al volver a calcular una fórmula de matriz.
 
 ### <a name="powerpoint"></a>PowerPoint
-- Varias correcciones de rendimiento y estabilidad.
+- Varias correcciones de rendimiento y estabilidad
 
 ### <a name="outlook"></a>Outlook
 - Se ha corregido un problema por el que los datos adjuntos en línea a veces se mostraban con una escala incorrecta.
@@ -1833,7 +1876,7 @@ Para activar la opción: abra un vínculo a un libro de Excel almacenado en OneD
 - Se ha corregido un problema por el que podía mostrarse un icono incorrecto para los filtros inactivos.
 
 ### <a name="powerpoint"></a>PowerPoint
-- Varias correcciones de rendimiento y estabilidad.
+- Varias correcciones de rendimiento y estabilidad
 
 ### <a name="outlook"></a>Outlook
 - Se ha corregido un problema por el que algunos usuarios aparecen de forma incorrecta como sin conexión en la vista de Programación de grupo.
@@ -1871,7 +1914,7 @@ Las actualizaciones que han estado en "Próximamente" ahora están aquí, presen
 - Se ha corregido un problema por el que se podía activar el libro incorrecto en un script de VBA cuando ya estaba abierto el mismo libro.
 
 ### <a name="powerpoint"></a>PowerPoint
-- Varias correcciones de rendimiento y estabilidad.
+- Varias correcciones de rendimiento y estabilidad
 
 ### <a name="outlook"></a>Outlook
 - Varias correcciones de rendimiento y estabilidad.
@@ -1982,7 +2025,7 @@ Vaya a la pestaña Dibujar. Seleccione un lápiz. Dibuje un trazo de lápiz. Sel
 - Se ha corregido un problema que podría afectar al rendimiento al usar segmentaciones de datos.
 
 ### <a name="powerpoint"></a>PowerPoint
-- Varias correcciones de rendimiento y estabilidad.
+- Varias correcciones de rendimiento y estabilidad
 
 ### <a name="outlook"></a>Outlook
 - Se ha corregido un problema por el que podría mostrarse la plantilla incorrecta de lo que se ha seleccionado.
@@ -2016,7 +2059,7 @@ Version 1906 (compilación 11702.20000)
 - Varias correcciones de rendimiento y estabilidad.
 
 ### <a name="powerpoint"></a>PowerPoint
-- Varias correcciones de rendimiento y estabilidad.
+- Varias correcciones de rendimiento y estabilidad
 
 ### <a name="outlook"></a>Outlook
 - Varias correcciones de rendimiento y estabilidad.
@@ -2096,7 +2139,7 @@ Se ha mejorado la experiencia de coautoría al aumentar la probabilidad de que o
 - Se ha corregido un problema que puede impedir que los archivos de Excel se importen a SharePoint
 
 ### <a name="powerpoint"></a>PowerPoint
-- Varias correcciones de rendimiento y estabilidad.
+- Varias correcciones de rendimiento y estabilidad
 
 ### <a name="outlook"></a>Outlook
 - Varias correcciones de rendimiento y estabilidad.
@@ -2314,7 +2357,7 @@ Versión 1904 (compilación 11514.20004)
 - Se ha corregido un problema por el que el cuadro de diálogo guardar no aceptaba algunos caracteres coreanos.
 
 ### <a name="powerpoint"></a>PowerPoint
-- Varias correcciones de rendimiento y estabilidad.
+- Varias correcciones de rendimiento y estabilidad
 
 ### <a name="outlook"></a>Outlook
 - Varias correcciones de rendimiento y estabilidad.
@@ -2416,7 +2459,7 @@ Cree un archivo docm en OneDrive para la empresa, compártalo con sus compañero
 - Se ha corregido un problema por el que al copiar una celda en Excel se producía un uso elevado de la CPU cuando al abrir un documento protegido y un documento editable
 
 ### <a name="powerpoint"></a>PowerPoint
-- Varias correcciones de rendimiento y estabilidad.
+- Varias correcciones de rendimiento y estabilidad
 
 ### <a name="outlook"></a>Outlook
 - Se ha corregido un problema por el que la búsqueda de Outlook no respetaba la ordenación cronológica seleccionada
