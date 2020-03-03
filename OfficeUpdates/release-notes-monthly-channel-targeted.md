@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider Lento la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 0ffaf4f5b95f0a94e5efd4ba64da233f47076ec0
-ms.sourcegitcommit: 5b67d3d0509788c923442c71e48e17d397f94b09
+ms.openlocfilehash: ab61d74b3f6631e93ddf5352b65bf239e6063abc
+ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/24/2020
-ms.locfileid: "42260771"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42345139"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Las compilaciones de notas de la versión del canal mensual de Office (dirigido)
 
@@ -29,6 +29,18 @@ En este artículo hay notas de la versión para las compilaciones del canal mens
 [//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+## <a name="version-2002-march-01"></a>Versión 2002: 01 de marzo
+*Versión 2002 (compilación 12527.20242)*
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="outlook"></a>Outlook
+
+- <div>Corrige un problema que provocaba que las aplicaciones de terceros no pudiesen enviar correo electrónico.</div>
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2002-february-24"></a>Versión de 2002: 24 de febrero
 *Versión de 2002 (compilación 12527.20194)*
