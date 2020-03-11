@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de ti las notas de la versión para las versiones de canal semianual para Office 365 ProPlus en 2017
 ms.openlocfilehash: 9d3a8a62656e52fd556920745d64ba2d1da47b1f
-ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
+ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2020
-ms.locfileid: "41629267"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42549231"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2017"></a>Notas de la versión para las versiones de canal semianual en 2017
 
@@ -64,9 +64,9 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="excel-security-updates"></a>Excel: Actualizaciones de seguridad
 -   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877): Vulnerabilidad de omisión de característica de seguridad de Microsoft Excel
 -   [CVE-2017-11878](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11878): Vulnerabilidad de los daños en la memoria de Microsoft Excel
--   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884): vulnerabilidad de los daños en la memoria de Microsoft Office
+-   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884): Vulnerabilidad de los daños en la memoria de Microsoft Office
 
-### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
+### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
 -   [Advertencia 170020](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170020): Actualización de defensa en profundidad de Microsoft Office
 
 ### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones de seguridad
@@ -82,9 +82,9 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="excel-security-updates"></a>Excel: Actualizaciones de seguridad
 -   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877): Vulnerabilidad de omisión de característica de seguridad de Microsoft Excel
 -   [CVE-2017-11878](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11878): Vulnerabilidad de los daños en la memoria de Microsoft Excel
--   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884): vulnerabilidad de los daños en la memoria de Microsoft Office
+-   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884): Vulnerabilidad de los daños en la memoria de Microsoft Office
 
-### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
+### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
 -   [Advertencia 170020](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170020): Actualización de defensa en profundidad de Microsoft Office
 
 ### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones de seguridad
@@ -95,14 +95,14 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ## <a name="version-1705-october-10"></a>Versión 1705:10 de octubre
 *Versión 1705 (compilación 8201.2200)*
 
-### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad
+### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
 -   Se ha solucionado un problema por el que Excel se bloqueaba temporalmente al expandir o contraer una tabla dinámica. Además, los encabezados de las tablas dinámicas salían de la pantalla.
 
 ### <a name="outlook-security-updates"></a>Outlook: Actualizaciones de seguridad
 -   [CVE-2017-11774](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11774): Vulnerabilidad de omisión de característica de seguridad de Microsoft Outlook
 -   [CVE-2017-11776](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11776): Vulnerabilidad de divulgación de información de Microsoft Office Outlook
 
-### <a name="skype-for-business-security-updates"></a>Skype Empresarial: actualizaciones de seguridad
+### <a name="skype-for-business-security-updates"></a>Skype Empresarial: Actualizaciones de seguridad
 -   [CVE-2017-11786](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11786): Vulnerabilidad de elevación de privilegios de Skype Empresarial
 
 ### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
@@ -247,7 +247,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   **Usar una lista desplegable para establecer rápidamente los predecesores:** Use la lista desplegable de los gráficos de Gantt para elegir los predecesores o sucesores que desea vincular a una tarea.
 -   **Nombre de Resumen de tarea:**   campo de tarea de solo lectura que muestra el nombre de la tarea de Resumen de la tarea.  
 
-### <a name="project-non-security-updates"></a>Project: actualizaciones no relacionadas con la seguridad
+### <a name="project-non-security-updates"></a>Project: Actualizaciones no relacionadas con la seguridad
 -   Se ha solucionado un problema que producía que los valores seleccionados de un gráfico o una tabla no se viesen en el panel de gráficos o tablas.
 -   Se ha corregido el cuadro de diálogo Crear sitio de proyecto para que muestre la ubicación correcta del sitio ahora que cada plantilla de proyecto empresarial (EPT) tendrá su propia URL para los sitios de proyecto en Project Online.
 -   Se corrige un problema que provocaba que el evento BeforeClose de VBA se desencadenara antes de que apareciera el mensaje para guardar y que no se tuviera ninguna manera mediante programación de determinar la respuesta del usuario al mensaje para guardar.
@@ -756,7 +756,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   [CVE-2017-8507](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8507): Vulnerabilidad de los daños en la memoria de Microsoft Office
 -   [CVE-2017-8508](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8508): Vulnerabilidad de omisión de característica de seguridad de Microsoft Office
 
-### <a name="skype-for-business-security-updates"></a>Skype Empresarial: actualizaciones de seguridad
+### <a name="skype-for-business-security-updates"></a>Skype Empresarial: Actualizaciones de seguridad
 -   [CVE-2017-0283](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0283): Vulnerabilidad de la ejecución remota de código de Uniscribe de Windows
 -   [CVE-2017-8550](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8550): Vulnerabilidad de ejecución remota de código de Skype Empresarial
 
@@ -774,7 +774,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ## <a name="version-1609-may-9"></a>Versión 1609:9 de mayo
 *Versión 1609 (compilación 7369.2130)*
 
-### <a name="skype-for-business-security-updates"></a>Skype Empresarial: actualizaciones de seguridad
+### <a name="skype-for-business-security-updates"></a>Skype Empresarial: Actualizaciones de seguridad
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): Vulnerabilidad de la ejecución remota de código de Microsoft Office
 
 ### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
@@ -793,7 +793,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 *Esta es la versión del canal diferido que estuvo disponible desde el 2016 de octubre. Seguirá recibiendo soporte técnico y actualizaciones de seguridad hasta el 2017 de junio. Sin embargo, ahora hay disponible una nueva versión del canal diferido (versión 1609, compilación 7369,2130), que contiene nuevas características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad.*
 
-### <a name="skype-for-business-security-updates"></a>Skype Empresarial: actualizaciones de seguridad
+### <a name="skype-for-business-security-updates"></a>Skype Empresarial: Actualizaciones de seguridad
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): Vulnerabilidad de la ejecución remota de código de Microsoft Office
 
 ### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
@@ -810,7 +810,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ## <a name="version-1609-april-11"></a>Versión 1609:11 de abril
 *Versión 1609 (compilación 7369.2127)*
 
-### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad
+### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema por el que Excel se bloquea cuando el usuario intenta establecer permisos para que otros usuarios puedan editar un rango.
 
 ### <a name="outlook-security-updates"></a>Outlook: Actualizaciones de seguridad

@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de ti las notas de la versión para las versiones de canal semianual para Office 365 ProPlus en 2016
 ms.openlocfilehash: b70dda115d271a4ec0779c4b99927275dae7969d
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32439095"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42549201"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2016"></a>Notas de la versión para las versiones de canal semianual en 2016
 
@@ -32,7 +32,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="excel-security-updates"></a>Excel: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Actualización de seguridad para Microsoft Office (3204068)
 
-### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: actualizaciones no relacionadas con la seguridad
+### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: Actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que Skype Empresarial se bloquea al hacer zoom en contenido compartido cuando el archivo que comparte usa una implementación de RDP de terceros.
 -   Se soluciona un problema en el que Skype Empresarial se bloquea cuando se ejecuta el lector de pantalla JAWS y el usuario navega a una lista, como la lista de contactos.
 
@@ -171,12 +171,12 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   **Mensajería sin conexión:** Envíe mensajes a contactos incluso si no han iniciado sesión. [Más información](https://support.office.com/article/ffdc6a43-71a1-40ee-bfcc-640d21324a3d)
 -   **Cargar de antemano datos adjuntos de reuniones:** Agregue datos adjuntos al configurar la reunión en línea en Outlook.[Más información](https://support.office.com/article/fd3d9f9d-b448-4754-b813-02e49393f251)
 
-### <a name="skype-for-business-security-updates"></a>Skype Empresarial: actualizaciones de seguridad
+### <a name="skype-for-business-security-updates"></a>Skype Empresarial: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS16-039](https://technet.microsoft.com/library/security/ms16-039): Actualización de seguridad para el componente de gráficos de Microsoft (3148522)
 -   Boletín de seguridad Microsoft [MS16-097](https://technet.microsoft.com/library/security/ms16-097): Actualización de seguridad para el componente de gráficos de Microsoft (3177393)
 -   Boletín de seguridad Microsoft [MS16-120](https://technet.microsoft.com/library/security/ms16-120): Actualización de seguridad para el componente de gráficos de Microsoft (3192884)
 
-### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: actualizaciones no relacionadas con la seguridad
+### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: Actualizaciones no relacionadas con la seguridad
 -   Corrección de un problema que hace que después de que un usuario agregue a un delegado en Exchange Server, el delegado no aparezca en Skype Empresarial después de reiniciarlo.
 -   Se ha corregido un problema que provocaba que el cliente de Skype Empresarial se conectase a un servidor de Skype Empresarial en la red externa aunque la red corporativa interna estuviese disponible.
 -   Se soluciona un problema en el que Skype se bloquea para algunos usuarios en reuniones grandes, como aquellas con más de 30 participantes.
@@ -244,7 +244,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 *Esta es la versión del canal diferido que estuvo disponible desde el 2016 de junio. Seguirá recibiendo soporte técnico y actualizaciones de seguridad hasta el 2017 de febrero. Sin embargo, ahora hay disponible una nueva versión del canal diferido (versión 1605, compilación 6965,2092), que contiene nuevas características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad.*
 
-### <a name="skype-for-business-security-updates"></a>Skype Empresarial: actualizaciones de seguridad
+### <a name="skype-for-business-security-updates"></a>Skype Empresarial: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS16-120](https://technet.microsoft.com/library/security/ms16-120): Actualización de seguridad para el componente de gráficos de Microsoft (3192884)
 
 ### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
@@ -643,7 +643,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 *Esta es la versión del canal diferido que estuvo disponible desde el 2016 de febrero. Seguirá recibiendo soporte técnico y actualizaciones de seguridad hasta el 2016 de octubre. Sin embargo, ahora hay disponible una nueva versión del canal diferido (versión 1602, compilación 6741,2056), que contiene nuevas características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad.*
 
-### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: actualizaciones no relacionadas con la seguridad
+### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: Actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que el usuario recibe un mensaje de error al intentar usar las características de conferencia, como la pizarra o el uso compartido de notas. [Más información sobre este problema](https://support.microsoft.com/kb/3165438)
 
 ### <a name="visio-security-updates"></a>Visio: Actualizaciones de seguridad

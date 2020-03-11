@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de ti las notas de la versión para las versiones de canal semianual (dirigido) para Office 365 ProPlus en 2016
 ms.openlocfilehash: 7560a299409682010d2bf4e435dc733432781dab
-ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
+ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2020
-ms.locfileid: "41629237"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42549221"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2016"></a>Notas de la versión para las versiones de canal semianual (dirigido) en 2016
 
@@ -32,7 +32,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="excel-security-updates"></a>Excel: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Actualización de seguridad para Microsoft Office (3204068)
 
-### <a name="outlook-non-security-updates"></a>Outlook: actualizaciones no relacionadas con la seguridad
+### <a name="outlook-non-security-updates"></a>Outlook: Actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que el propietario de la reunión no puede anular la selección de usuarios en la pestaña de seguimiento.
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Actualizaciones no relacionadas con la seguridad
@@ -42,7 +42,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: Actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que los espectadores ven una pantalla negra cuando un usuario está ejecutando Windows 7 mientras comparte el primer monitor principal y, después, cambia para compartir un segundo monitor.
 
-### <a name="word-non-security-updates"></a>Word: actualizaciones no relacionadas con la seguridad
+### <a name="word-non-security-updates"></a>Word: Actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que Word se bloquea al seleccionar Guardar como y el usuario ha seleccionado la opción de eliminar archivos de la caché de documentos de Office cuando se cierran.
 -   Se soluciona un problema en el que Word se bloquea al seleccionar Guardar como en una carpeta que contiene un gran número de archivos, por ejemplo más de 30 000.
 -   Se soluciona un problema en el que la combinación de teclas CTRL+ALT+4 no escribe el símbolo del euro cuando se usa un teclado de Reino Unido.
@@ -71,7 +71,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ## <a name="version-1609-november-2"></a>Versión 1609:2 de noviembre
 *Versión 1609 (compilación 7369.2054)*
 
-### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad
+### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que el código VBA para copiar una hoja de cálculo hace que se muestren hojas de cálculo que están ocultas.
 -   Se soluciona un problema en el que, al usar Solver, se muestra el mensaje de error "No se encuentra el archivo Solver32.dll" después de elegir Solucionar.
 -   Se soluciona un problema en el que el icono del complemento Mapas de Bing no aparece al usar un monitor con ppp elevado si está habilitado el modo táctil para la cinta de opciones.
@@ -86,7 +86,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   **Elementos visuales actualizados:** Cambios a iconos y colores para mejorar la accesibilidad. [Más información](https://blogs.technet.microsoft.com/nexthop/2016/10/27/new-skype-for-business-2016-look-and-feel-coming-your-way/)
 -   **Actualice la interfaz de usuario a "compartir":** cambie "presente" por "compartir" en elementos de la interfaz de usuario, como el cambio de "presentar escritorio" a "compartir el escritorio" y "presentar el programa" para "compartir una ventana".
 
-### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: actualizaciones no relacionadas con la seguridad
+### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: Actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que el usuario no puede conectarse a Exchange para obtener información del historial de conversaciones, contactos o correos de voz después de migrar el usuario a Exchange Online.
 -   Se soluciona un problema con la ventana de conversación en el que, al intentar pegar información en el teclado de marcado o en anotaciones de texto de la pizarra, se pega de forma incorrecta información en el cuadro de texto de entrada de chat.
 
@@ -301,28 +301,28 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="excel-security-updates"></a>Excel: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Actualización de seguridad para Microsoft Office (3185852)
 
-### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad
+### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
 -   Corrección de un problema en el que una acción de obtención de detalles de OLAP hacía que Excel dejase de funcionar.
 
 ### <a name="outlook-security-updates"></a>Outlook: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Actualización de seguridad para Microsoft Office (3185852)
 
-### <a name="outlook-non-security-updates"></a>Outlook: actualizaciones no relacionadas con la seguridad
+### <a name="outlook-non-security-updates"></a>Outlook: Actualizaciones no relacionadas con la seguridad
 -   Corrección de un problema que hace que Outlook se bloquee al ver una convocatoria de reunión cuando un agente de escucha de Automatización de IU de Microsoft, como Narrador, está en ejecución.
 -   Corrección de un problema que producía que, al conectar a Exchange Server 2013 habilitado para MAPI/HTTP, se le solicitasen credenciales al usuario en vez de iniciar sesión de forma silenciosa con las credenciales de escritorio del usuario.
 -   Corrección de un problema que producía que, al arrastrar y soltar un mensaje de correo electrónico en una carpeta de un archivo PST, Outlook solicitase al usuario que ejecutase una reparación en el archivo.
 -   Corrección de un problema que producía que las imágenes de invitaciones a reuniones enviadas desde Outlook 2016 no se mostrasen al recibirlas en Outlook 2013 o Outlook 2010.
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: actualizaciones no relacionadas con la seguridad
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: Actualizaciones no relacionadas con la seguridad
 -   Corrección de un problema que producía que un usuario no pudiese guardar un archivo abierto y desprotegido de una biblioteca de documentos de SharePoint que tiene la opción “¿Desea solicitar que los documentos estén desprotegidos para poder modificarlos?” establecida como “Sí” en el sitio.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: actualizaciones no relacionadas con la seguridad
+### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: Actualizaciones no relacionadas con la seguridad
 -   Corrección de un problema que hace que después de que un usuario agregue a un delegado en Exchange Server, el delegado no aparezca en Skype Empresarial después de reiniciarlo.
 
 ### <a name="visio-security-updates"></a>Visio: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Actualización de seguridad para Microsoft Office (3185852)
 
-### <a name="word-non-security-updates"></a>Word: actualizaciones no relacionadas con la seguridad
+### <a name="word-non-security-updates"></a>Word: Actualizaciones no relacionadas con la seguridad
 -   Corrección de un problema que producía un cambio en el tipo de letra a Segoe UI Emoji al escribir caracteres de símbolo de un conjunto de caracteres de doble bit (DBCS) al usar el editor de métodos de entrada (IME) de japonés.
 
 ### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones de seguridad
@@ -333,7 +333,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ## <a name="version-1605-august-9"></a>Versión 1605:9 de agosto
 *Versión 1605 (compilación 6965.2076)*
 
-### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad
+### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
 -   Corrección de un problema que producía que Excel se bloquease al intentar editar un libro con varios cuadros de texto.
 -   Corrección de un problema causado por una actualización de seguridad reciente que producía que, al abrir un archivo HTML desde una ubicación que no es de confianza, se abriese Excel con una pantalla en blanco (vacía) sin errores, en vez de permitir al usuario abrir el archivo en Vista protegida.
 
@@ -360,7 +360,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="access-non-security-updates"></a>Access: Actualizaciones no relacionadas con la seguridad
 -   Corrección de un problema que hace que la aplicación se bloquee al ejecutar una consulta con un tipo al usar el motor de base de datos de Access, como en la aplicación de Access o con un complemento que use el motor de base de datos de Access como proveedor de datos.
 
-### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad
+### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
 -   Corrección de un error que hace que se agote el tiempo de espera después de un minuto al actualizar un origen de datos OLAP.
 -   Corrección de un problema que hace que se deshaga el último cambio de un libro que incluye un nivel de deshacer programático con Application.OnUndo al guardarlo.
 
@@ -427,7 +427,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="excel-security-updates"></a>Excel: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS16-042](https://technet.microsoft.com/library/security/ms16-042): Actualización de seguridad para Microsoft Office (3148775)
 
-### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad
+### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que las listas desplegables de validación de datos se dañan y se duplican en los libros con varias hojas de cálculo.
 -   Se soluciona un problema en el que las asociaciones de archivo se pierden en Excel cuando se desinstala del equipo una versión anterior de Office.
 -   Se soluciona un problema en el que Excel deja en ocasiones un archivo temporal después de que se guarde el archivo.
@@ -448,7 +448,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 -   **Lista de datos adjuntos para conversaciones:** Los datos adjuntos a una conversación de un grupo de Office 365 están disponibles en una lista desplegable que figura en la esquina superior derecha del panel de lectura.
 
-### <a name="outlook-non-security-updates"></a>Outlook: actualizaciones no relacionadas con la seguridad
+### <a name="outlook-non-security-updates"></a>Outlook: Actualizaciones no relacionadas con la seguridad
 -   Se ha corregido un problema que provocaba que, al responder a un correo o al reenviarlo, se usara la fuente de color negro aunque estuviera seleccionada la opción “Elegir un color nuevo al responder o reenviar mensajes” en Archivo \> Opciones \> Correo \> Diseño de fondo y fuentes.
 -   Se ha mejorado la detección de posibles daños inminentes en archivos PST y se han agregado pasos para intentar evitar que se produzcan dichos daños.
 -   Se soluciona un problema en el que los caracteres de símbolo extendido se cambian a "1" al enviar un correo electrónico en el formato .rtf.
@@ -465,7 +465,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   **Co-autoría de elementos gráficos inteligentes:** Varios usuarios pueden editar elementos diferentes de un elemento gráfico SmartArt al mismo tiempo.
 -   **Mejoras del Diseñador de PowerPoint:** Sugerencias de diseño para varias imágenes, el extractor de color y el reconocimiento facial. [Más información](https://blogs.office.com/2016/03/24/powerpoint-designer-whats-new-and-whats-next/)
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: actualizaciones no relacionadas con la seguridad
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: Actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que el usuario obtiene un mensaje de error que indica que no se puede actualizar el documento cuando el usuario comparte autoría en tiempo real en una presentación que contiene un complemento de contenido.
 -   Se soluciona un problema en el que, si PowerPoint se ha reiniciado después de un bloqueo y se está usando el panel de tareas Recuperación de documentos, aparece un mensaje de error cuando se intenta guardar el archivo recuperado o abrir el archivo original.
 -   Se soluciona un problema en el que PowerPoint se bloquea cuando se intenta guardar un archivo de recuperación que se creó a partir de un bloqueo anterior de PowerPoint.
@@ -504,7 +504,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   Boletín de seguridad Microsoft [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Actualización de seguridad para Microsoft Office (3155544)
 -   Boletín de seguridad Microsoft [MS16-070](https://technet.microsoft.com/library/security/ms16-070): Actualización de seguridad para Microsoft Office (3163610)
 
-### <a name="word-non-security-updates"></a>Word: actualizaciones no relacionadas con la seguridad
+### <a name="word-non-security-updates"></a>Word: Actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que Word se bloquea si el usuario elige la opción "Mantener formato de origen" al pegar un elemento gráfico SmartArt.
 -   Se soluciona un problema en el que si se realiza una acción de deshacer después de mover un elemento gráfico SmartArt arrastrándolo, Word se bloquea o el elemento gráfico SmartArt se queda en blanco y no se puede seleccionar.
 -   Se soluciona un problema con la numeración de listas de contexto en hebreo, árabe, hindi y persa.
@@ -530,7 +530,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ## <a name="version-1602-june-7"></a>Versión 1602:7 de junio
 *Versión 1602 (compilación 6741.2047)*
 
-### <a name="outlook-non-security-updates"></a>Outlook: actualizaciones no relacionadas con la seguridad
+### <a name="outlook-non-security-updates"></a>Outlook: Actualizaciones no relacionadas con la seguridad
 -   Se mejora la detección de posibles daños inminentes en archivos PST y se agregan pasos para intentar evitar que se produzcan dichos daños.
 
 ### <a name="word-non-security-updates"></a>Word: Actualizaciones no relacionadas con la seguridad
@@ -544,7 +544,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ## <a name="version-1602-may-23"></a>Versión 1602:23 de mayo
 *Versión 1602 (compilación 6741.2042)*
 
-### <a name="outlook-non-security-updates"></a>Outlook: actualizaciones no relacionadas con la seguridad
+### <a name="outlook-non-security-updates"></a>Outlook: Actualizaciones no relacionadas con la seguridad
 -   Actualice la Herramienta de reparación de la Bandeja de entrada (scanpst.exe) para que pueda detectar y solucionar problemas de daños en los archivos relacionados con la manera en que se indexan y se buscan los archivos .pst. Estos daños pueden impedir que se carguen los archivos .pst, hacer que Outlook se bloquee o provocar un uso elevado de CPU.
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Actualizaciones no relacionadas con la seguridad
@@ -561,13 +561,13 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ## <a name="version-1602-may-10"></a>Versión 1602:10 de mayo
 *Versión 1602 (compilación 6741.2037)*
 
-### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad
+### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
 -   Soluciona un problema por el que, si se agrega un hipervínculo en un libro y, a continuación, se guarda el libro en un equipo Windows 10, al abrirlo la siguiente vez, este se abre incorrectamente en Vista protegida.
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Actualizaciones no relacionadas con la seguridad
 -   Soluciona un problema por el que el vínculo para ver los mensajes de correo antiguos en el servidor no aparece en la parte inferior de la lista de mensajes en la carpeta, como en las carpetas Bandeja de entrada o Elementos eliminados.
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: actualizaciones no relacionadas con la seguridad
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: Actualizaciones no relacionadas con la seguridad
 -   Soluciona un problema por el que, si hay una presentación que incluye una tabla y se guarda la presentación como archivo PDF, PowerPoint deja de responder.
 
 ### <a name="project-non-security-updates"></a>Project: Actualizaciones no relacionadas con la seguridad
@@ -597,7 +597,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ## <a name="version-1602-may-3"></a>Versión 1602:3 de mayo
 *Versión 1602 (compilación 6741.2033)*
 
-### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad
+### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
 -   Soluciona un problema por el que un rango con nombre se importa incorrectamente cuando se usa Datos \> Obtener y transformar \> Desde tabla.
 -   Soluciona un problema por el que las macros se ejecutan notablemente más despacio en los equipos que tienen habilitado el registro para el Panel de telemetría.
 
@@ -624,7 +624,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ## <a name="version-1602-april-4"></a>Versión 1602:4 de abril
 *Versión 1602 (compilación 6741.2025)*
 
-### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: actualizaciones no relacionadas con la seguridad
+### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: Actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que, al compartir la pantalla, principalmente en Windows 7, se congela la sesión de uso compartido de pantalla durante 10 minutos y Skype no responde a las acciones del usuario.
 
 
@@ -632,7 +632,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ## <a name="version-1602-march-23"></a>Versión 1602:23 de marzo
 *Versión 1602 (compilación 6741.2021)*
 
-### <a name="outlook-non-security-updates"></a>Outlook: actualizaciones no relacionadas con la seguridad
+### <a name="outlook-non-security-updates"></a>Outlook: Actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que Outlook se bloquea al usar los métodos abreviados de teclado para acceder a un dato adjunto en un correo electrónico.
 
 
@@ -640,7 +640,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ## <a name="version-1602-march-16"></a>Versión 1602:16 de marzo
 *Versión 1602 (compilación 6741.2017)*
 
-### <a name="outlook-non-security-updates"></a>Outlook: actualizaciones no relacionadas con la seguridad
+### <a name="outlook-non-security-updates"></a>Outlook: Actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que Outlook se bloquea al acceder a una carpeta pública fantasma en Exchange Server.
 
 
