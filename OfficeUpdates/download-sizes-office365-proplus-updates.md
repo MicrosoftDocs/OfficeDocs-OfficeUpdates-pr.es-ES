@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Office 365 ProPlus según el canal de actualización.
-ms.openlocfilehash: 90560ad20c016ad985a3382c2030a1c1d792e507
-ms.sourcegitcommit: 4be8cb98eca74452720348595f0b8cfeaba4cef8
+ms.openlocfilehash: 5d77b6ec5df86de35ef51c6ea8fa16ce9285b9a4
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/09/2020
-ms.locfileid: "42568846"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586407"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 
@@ -30,13 +30,23 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 
 [//]: # (NO ELIMINAR)
 
-## <a name="march-6-2020"></a>6 de marzo de 2020
+## <a name="march-10-2020"></a>10 de marzo de 2020
 
-[//]: # (NO ELIMINAR INICIO DE CONTENIDO DE PREVISIÓN)
+### <a name="monthly-channel"></a>Canal mensual
+
+La versión más actual es la 2002 (compilación 12527.20278).
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 2002 (compilación 12527.20242) <br/> |1 de marzo de 2020 <br/> |40<br/> |
+|Versión 2002 (compilación 12527.20194) <br/> |25 de febrero de 2020 <br/> |266<br/> |
+
+
+[//]: # (NO ELIMINAR EL CONTENIDO INICIAL10 de marzo de 2020)
 
 ### <a name="semi-annual-channel"></a>Canal semianual
 
-<i>La versión prevista es la versión 1908 (compilación 11929.20648).</i>
+La versión más actual es la 1908 (compilación 11929.20648).
 
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
@@ -46,7 +56,7 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 
 ### <a name="semi-annual-targeted-channel"></a>Canal semianual (dirigido)
 
-<i>La versión prevista es la versión 2002 (compilación 12527.20278).</i>
+La versión más actual es la 2002 (compilación 12527.20278).
 
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
@@ -54,7 +64,12 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 |Versión 1908 (compilación 11929.20562) <br/> |14 de enero de 2020 <br/> |292<br/> |
 
 
-[//]: # (NO ELIMINAR FIN DE CONTENIDO DE PREVISIÓN)
+[//]: # (NO ELIMINAR EL CONTENIDO FINAL 10 de marzo de 2020)
+
+## <a name="march-6-2020"></a>6 de marzo de 2020
+
+
+
 
 ## <a name="march-1-2020"></a>1 de marzo de 2020
 
