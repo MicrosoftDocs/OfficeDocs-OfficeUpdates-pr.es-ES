@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista completa de las versiones de Office 365 ProPlus, organizada por fecha, con vínculos a las notas de la versión.
-ms.openlocfilehash: 075b651912f81195921e102d847c3ca61f484a7b
-ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
+ms.openlocfilehash: 07f6ab27d42a0f86a33e1f8b3ee9605e8a58257f
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42345089"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586687"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Historial de actualizaciones de Office 365 ProPlus (ordenado por fecha)
 
@@ -31,11 +31,10 @@ En la tabla siguiente se muestra la versión compatible y el número de compilac
 
 |**Canal**|**Versión**|**Compilación**|**Fecha de publicación**|**Versión admitida hasta**|
 |:-----|:-----|:-----|:-----|:-----|
-|Mensualmente<br/>|2002<br/>|12527.20242<br/>|1 de marzo de 2020<br/>|Se realizó el lanzamiento de la versión 2003<br/>|
-|Semianual (dirigido)<br/>|1908<br/>|11929.20606<br/>|11 de febrero de 2020<br/>|10 de marzo de 2020<br/>|
-|Semianual<br/>|1908<br/>|11929.20606<br/>|11 de febrero de 2020<br/>|9 de marzo 2021<br/>|
-|Semianual<br/>|1902<br/>|11328.20526<br/>|11 de febrero de 2020<br/>|8 de septiembre de 2020<br/>|
-|Semianual<br/>|1808<br/>|10730.20438<br/>|11 de febrero de 2020<br/>|10 de marzo de 2020<br/>|
+|Mensualmente<br/>|2002<br/>|12527.20278<br/>|10 de marzo de 2020<br/>|Se realizó el lanzamiento de la versión 2003<br/>|
+|Semianual (dirigido)<br/>|2002<br/>|12527.20278<br/>|10 de marzo de 2020<br/>|8 de septiembre de 2020<br/>|
+|Semianual<br/>|1908<br/>|11929.20648<br/>|10 de marzo de 2020<br/>|9 de marzo 2021<br/>|
+|Semianual<br/>|1902<br/>|11328.20554<br/>|10 de marzo de 2020<br/>|8 de septiembre de 2020<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -47,6 +46,7 @@ En la tabla siguiente, se muestra una lista de los números de versión y compil
 
 |**Year**|**Fecha de publicación**|**Canal mensual**|**Canal semianual (dirigido)**|**Canal semianual**|
 |:-----|:-----|:-----|:-----|:-----|
+|2020|10 de marzo|[Versión 2002 (compilación 12527.20278)](monthly-channel-2020.md#version-2002-march-10)|[Versión 2002 (compilación 12527.20278)](semi-annual-channel-targeted-2020.md#version-2002-march-10)|[Versión 1908 (compilación 11929.20648)](semi-annual-channel-2020.md#version-1908-march-10)<br/>[Versión 1902 (compilación 11328.20554)](semi-annual-channel-2020.md#version-1902-march-10)|
 |2020|01 de marzo|[Versión 2002 (compilación 12527.20242)](monthly-channel-2020.md#version-2002-march-01)| | |
 |2020|25 de febrero|[Versión de 2002 (compilación 12527.20194)](monthly-channel-2020.md#version-2002-february-25)| | |
 |2020|19 de febrero |[Versión 2001 (Compilación 12430.20288)](monthly-channel-2020.md#version-2001-february-19)| | |

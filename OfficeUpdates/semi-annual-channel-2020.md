@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones del canal semianual de Office 365 ProPlus en 2020.
-ms.openlocfilehash: 974a5db6f3bfba2bb20cd75f4e35a2777ea94ca8
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 534e73bc6da5a7ee6d8100a925f6f1ce3dfec82d
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978588"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586680"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Notas de la versión para las versiones de canal semianual en 2020
 
@@ -25,6 +25,49 @@ En estas notas de la versión, se proporciona información sobre característica
 >- A menudo publicamos características (y a veces incluso correcciones) para el Canal semianual durante un período de tiempo. Si no ve algo que se describe a continuación de inmediato, lo verá pronto. [Más información](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- OneNote 2016 no se incluirá de forma predeterminada cuando un usuario en el canal semianual descargue e instale Office 365 en Windows 10 desde el Portal de Office.
 
+
+
+
+## <a name="version-1908-march-10"></a>Versión 1908: 10 de marzo
+*Versión 1908 (compilación 11929.20648)*
+
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- <div><span>Se ha corregido un problema por el que algunos usuarios pueden haber visto varias ventanas emergentes cuando hubiera vínculos externos presentes en el libro.&nbsp;</span></div>
+
+
+- <div><span style="display:inline !important;">La funcionalidad de Texto a columna puede fallar en algunas configuraciones regionales.</span><br></div>
+
+
+- <div style="box-sizing:border-box;"><span style="box-sizing:border-box;">Es posible que los usuarios vean un error si acceden a un rango con nombre oculto.</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div>Se ha corregido un problema con el método Shape.Paste: cuando el usuario copiaba y pegaba la forma con el &nbsp;método Shape.Paste&nbsp;<span style="font-size:13.3333px;display:inline !important;">, se cambiaba la selección a la forma pegada.</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div>Corregido un problema ocasional en el que al guardar un archivo existente siempre aparece el cuadro de diálogo Guardar como, pero el archivo nunca se guarda.<br></div>
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- <div><span>Este cambio corrige el procesamiento lento de algunos gráficos de dispersión con marcadores.</span></div>
+
+## <a name="version-1902-march-10"></a>Versión 1902: 10 de marzo
+*Versión 1902 (compilación 11328.20554)*
+
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-1908-february-11"></a>Versión 1908: 11 de febrero
 *Versión 1908 (Compilación 11929.20606)*

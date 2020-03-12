@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales de TI las notas de la versión de las versiones de Office para Mac para los suscriptores de Office 356
-ms.openlocfilehash: 044a7df52545af6adcc57d58cb8299f17b5c7244
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: b8a86eca77d1a167f83fb985522d05a091085903
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978748"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586597"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de la versión de Office para Mac
 
@@ -37,6 +37,29 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
 
 
+
+
+
+## <a name="march-10-2020"></a>10 de marzo de 2020
+*Versión 16.35 (compilación 20030802)*
+
+[//]: # (NO QUITAR LOS DETALLES DE SEGURIDAD INICIO DEL CONTENIDO INICIAL)
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="powerpoint"></a>PowerPoint
+
+- **Capacidad de contraer la ventana de la diapositiva actual en la vista Moderador:** arrastrando el separador de línea a la izquierda de la pantalla puede contraer la vista de diapositiva actual para que solo se muestre la "diapositiva siguiente" durante toda la presentación.
+
+### <a name="security-updates"></a>Actualizaciones de seguridad
+
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-0850](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0850)
+-   [CVE-2020-0851](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0851)
+-   [CVE-2020-0855](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0855)
+-   [CVE-2020-0892](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0892)
+
+[//]: # (NO QUITAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO FINAL)
 
 ## <a name="february-11-2020"></a>11 de febrero de 2020
 *Versión 16.34 (Compilación 20020900)*

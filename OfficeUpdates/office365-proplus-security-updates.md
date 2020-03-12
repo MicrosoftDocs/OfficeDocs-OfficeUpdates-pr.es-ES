@@ -1,7 +1,7 @@
 ---
 title: Notas de la versión para las actualizaciones de seguridad de Office 365 ProPlus
 ms.author: andrewmo
-author: ''
+author: TimDavenport
 manager: andrewmo
 ms.audience: ITPro
 ms.topic: reference
@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión de las actualizaciones de seguridad de Office 365 ProPlus
-ms.openlocfilehash: eb10848ed20ff5fc30af6e5c87ff8c5ab6a3f242
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 95dcbdcc49a9022fc0e07639b5311f3a4e481b48
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978628"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586673"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Notas de la versión para las actualizaciones de seguridad de Office 365 ProPlus
 
@@ -25,6 +25,28 @@ Estas notas de la versión proporcionan información sobre las correcciones de s
 > - Esta información también se aplica a Office 365 Empresa, que es la versión de Office que viene con algunos planes de Office 365, como Empresa Premium.  
 
 [//]: # (NO QUITAR LA LÍNEA ANTERIOR, se usa para el espaciado)  
+
+## <a name="march-10-2020"></a>10 de marzo de 2020
+Canal mensual: versión 2002 (compilación 12527.20278)  
+El canal semianual (dirigido): versión 2002 (compilación 12527.20278)  
+Canal semianual: Versión 1908 (compilación 11929.20648)  
+Canal semianual: Versión 1902 (compilación 11328.20554)  
+Office 365 ProPlus en Windows 7: versión 2002 (compilación 12527.20278)  
+
+[//]: # (NO QUITAR LOS DETALLES DE SEGURIDAD INICIO DEL CONTENIDO INICIAL)
+
+
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-0850](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0850)
+-   [CVE-2020-0892](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0892)
+-   [CVE-2020-0855](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0855)
+-   [CVE-2020-0851](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0851)
+
+[//]: # (NO QUITAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO FINAL)
+
+
 
 ## <a name="february-11-2020"></a>11 de febrero de 2020
 Canal mensual: versión 2001 (compilación 12430.20264)  

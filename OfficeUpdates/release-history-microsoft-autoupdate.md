@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales informáticos un historial de versiones de Microsoft AutoUpdate (MAU).
-ms.openlocfilehash: 25aec4548d1cc6aacd0993a5c88a363370774be5
-ms.sourcegitcommit: 6d822269cc24b803dce007a19c5600c1921d110a
+ms.openlocfilehash: b18b35e7e719669decac4b47b47a41595a5c127f
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42403799"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586497"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historial de versiones de Microsoft AutoUpdate (MAU)
  
@@ -29,6 +29,26 @@ En la siguiente tabla, se proporciona información del historial de versiones de
 > - Microsoft AutoUpdate ofrece actualizaciones para distintos productos de Mac de Microsoft. Por tanto, es posible que reciba una notificación para actualizar Microsoft AutoUpdate, incluso si no está ejecutando Office para Mac.
 
 Para ver las notas de la versión, consulte [Notas de la versión.](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="march-2020-release"></a>Versión de marzo de 2020
+
+**Fecha de lanzamiento:** 10 de marzo de 2020
+
+*Actualización automática de Microsoft 4.21*
+
+ **Actualizaciones de características:**
+
+- Restauración de estado habilitada para Word, Excel y PowerPoint, en ejecución sin ninguna ventana abierta o en estado Docstage, en el modo actualizaciones automáticas de Microsoft AutoUpdate. Las actualizaciones ahora serán aún más silenciosas para los usuarios finales en el modo de actualizaciones automáticas, ya que no tendrán que cerrar las aplicaciones compatibles con actualización a través de la Restauración de Estado.
+
+
+**Vínculo para actualización de MAU:**
+
+[Descargar el paquete de actualización automática para Microsoft 4.21](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 Hash:**
+
+46887320AD18BAA9239629A6CFDE83339EBCAA5562822FDFCFEA74D65D0D4FB6
+<br/><br/>
 
 ## <a name="february-2020-release"></a>Versión de febrero de 2020
 
