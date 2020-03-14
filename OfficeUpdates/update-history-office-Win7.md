@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los clientes notas de la versión para el historial de actualizaciones de Office 365 ProPlus para Windows 7
-ms.openlocfilehash: 64964bc3e806179414c77568c04f449f105fbef3
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: 7502414f60401159e5fab6493c5a8577abe2a721
+ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586367"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42612466"
 ---
 # <a name="update-history-for-office-365-proplus-on-windows-7"></a>Historial de actualizaciones de Office 365 ProPlus en Windows 7 
 
@@ -34,8 +34,11 @@ Las versiones en el canal semestral suelen estar disponibles sólo durante 14 me
 
 Esta disponibilidad ampliada para la versión 2002 también se aplica a otros canales de actualización, como Mensual y Semestral (Dirigido), pero sólo se aplica a los dispositivos que ejecutan Windows 7.
 
-##
+Puede seguir implementando versiones anteriores a la 2002 en dispositivos que ejecutan Windows 7 siempre y cuando aún se admita esa versión anterior. Por ejemplo, puede seguir usando la versión 1908 del canal semianual en dispositivos que ejecutan Windows 7 hasta marzo de 2021, que es cuando la versión 1908 queda fuera del soporte técnico para el canal semianual.
 
+El segundo martes de cada mes, se publicará una nueva compilación de la versión 2002 con las actualizaciones de seguridad, si es necesario. Solo habrá una compilación para cada arquitectura (x86 o x64) y se puede usar con el canal de actualización que haya implementado. No habrá compilaciones independientes de la versión 2002 para cada canal. Por ejemplo, puede usar la misma compilación para actualizar dispositivos que ejecutan Windows 7 que usan el canal mensual o que usan el canal semianual.
+
+##
 
 [//]: # (NO ELIMINAR)
 
