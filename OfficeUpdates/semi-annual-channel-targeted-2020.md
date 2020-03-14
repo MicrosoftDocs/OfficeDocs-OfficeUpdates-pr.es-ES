@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones del canal semianual (dirigido) de Office 365 ProPlus en 2020.
-ms.openlocfilehash: 0c55b3885c6b5f68ac293d92f743ecfcde8c7ea5
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: 54ec0f4ceaaf2b60e3bce99065154b7399345a29
+ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586679"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42615178"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>Notas de la versión para las versiones del canal semianual (dirigido) en 2020
 
@@ -69,7 +69,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 ### <a name="outlook"></a>Outlook
 
-- **Vea los detalles de LinkedIn de contactos en Outlook:** ahora, al abrir la tarjeta de perfil de un contacto, puede obtener más información consultando su perfil de LinkedIn.
+
 
 - **Mejora de las experiencias con o sin la Bandeja de entrada Prioritarios:** para los clientes que no usen la Bandeja de entrada Prioritarios, hemos vuelto a implementar la pestaña de no leídos en la lista de mensajes en todas las carpetas. También hemos agregado una ordenación por marca para que sea más fácil encontrar los elementos marcados. Por último, la Bandeja de entrada tiene un modelo de interacción mejor con la búsqueda: la bandeja de entrada Prioritarios permanece hasta que se inicia la búsqueda y se muestra el texto "Resultados" cuando se completa una búsqueda.
 
@@ -141,7 +141,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Buscar y disfrutar:** hemos agregado una búsqueda para insertar iconos que hacen que sea más fácil encontrar el icono que desea. Y, mientras hace la selección, el botón Insertar le indica cuántos ha elegido. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
-- **¿Para que reinventar lo que puede reutilizar?:** ahorre tiempo usando de nuevo las diapositivas que haya creado o que otros usuarios han compartido con usted.
+- **¿Para que reinventar lo que puede reutilizar?:** ahorre tiempo usando de nuevo las diapositivas que haya creado o que otros usuarios han compartido con usted. [Más información](https://support.office.com/article/4772661f-ced0-446b-bb28-878dfa8c23f1)
 
 - **Transforme la entrada de lápiz en formas, texto o matemáticas en PowerPoint para Office 365:** convierta la entrada de lápiz en forma libre a formas, textos o expresiones matemáticas de Office en un par de trazos. [Más información](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
@@ -198,8 +198,6 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ### <a name="office-suite"></a>Conjunto de aplicaciones de Office
 
 - **Panel de Novedades: ** La experiencia de Novedades ha pasado al Panel Ayuda, para que pueda obtener acceso a ellas más fácilmente y así mantenerse al día con las últimas actualizaciones.
-
-- **Los iconos de la cinta tienen un aspecto nuevo:** no se preocupe, todo funciona de la misma forma. Además, tendrán un aspecto excelente en pantallas de todos los tamaños. [Más información](https://support.office.com/article/your-ribbon-icons-have-a-new-look-c6bc4cd8-d151-41d3-8276-fc7c9975eb79?ui=en-US&rs=en-US&ad=US)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
