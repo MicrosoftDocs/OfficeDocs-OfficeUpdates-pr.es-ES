@@ -9,211 +9,214 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a participantes del programa Insider el historial de actualizaciones de los lanzamientos del canal mensual del modo anticipado de Insider para versiones de escritorio de Windows
-ms.openlocfilehash: 4f611e9c9816bb622524bcaf3d5656901c8d6f8d
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: 2713a32599dbdeff0a5618bd35decde41be59c1d
+ms.sourcegitcommit: 802bdce1e86a4da5ca91a537f208be94417d622e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586627"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42637438"
 ---
-# <a name="update-history-for-office-insider-channel"></a><span data-ttu-id="26af7-103">Historial de actualizaciones del canal de Office Insider</span><span class="sxs-lookup"><span data-stu-id="26af7-103">Update history for Office Insider Channel</span></span>
+# <a name="update-history-for-office-insider-channel"></a><span data-ttu-id="62c3e-103">Historial de actualizaciones del canal de Office Insider</span><span class="sxs-lookup"><span data-stu-id="62c3e-103">Update history for Office Insider Channel</span></span>
 
-<span data-ttu-id="26af7-p101">Hola, participantes de Insider. Si os estáis preguntando si tenéis instalada la actualización más reciente o buscáis una lista de las compilaciones recientes de Insider, estáis en el lugar adecuado. Haced clic [aquí](https://insider.office.com/) para obtener más información sobre el programa Insider.</span><span class="sxs-lookup"><span data-stu-id="26af7-p101">Hello, Insiders! If you're wondering whether you have the latest update installed or are looking for a list of recent Insider build, you're in the right place. Click [here](https://insider.office.com/) for more information on the Insiders Program.</span></span>
+<span data-ttu-id="62c3e-p101">Hola, participantes de Insider. Si os estáis preguntando si tenéis instalada la actualización más reciente o buscáis una lista de las compilaciones recientes de Insider, estáis en el lugar adecuado. Haced clic [aquí](https://insider.office.com/) para obtener más información sobre el programa Insider.</span><span class="sxs-lookup"><span data-stu-id="62c3e-p101">Hello, Insiders! If you're wondering whether you have the latest update installed or are looking for a list of recent Insider build, you're in the right place. Click [here](https://insider.office.com/) for more information on the Insiders Program.</span></span>
 
 > [!NOTE]
-> - <span data-ttu-id="26af7-107">A continuación, se muestra el historial de actualizaciones con todas las compilaciones publicadas</span><span class="sxs-lookup"><span data-stu-id="26af7-107">The Update History here lists all builds released</span></span>
-> - <span data-ttu-id="26af7-108">Las notas de la versión se actualizan con una cadencia lenta y pueden ser una compilación de actualizaciones de varias compilaciones hasta el número de compilación publicado de las notas de la versión.</span><span class="sxs-lookup"><span data-stu-id="26af7-108">Release notes are updated on a slower cadence and may be a compilation of updates for multiple builds up to the release notes published build number.</span></span>
+> - <span data-ttu-id="62c3e-107">A continuación, se muestra el historial de actualizaciones con todas las compilaciones publicadas</span><span class="sxs-lookup"><span data-stu-id="62c3e-107">The Update History here lists all builds released</span></span>
+> - <span data-ttu-id="62c3e-108">Las notas de la versión se actualizan con una cadencia lenta y pueden ser una compilación de actualizaciones de varias compilaciones hasta el número de compilación publicado de las notas de la versión.</span><span class="sxs-lookup"><span data-stu-id="62c3e-108">Release notes are updated on a slower cadence and may be a compilation of updates for multiple builds up to the release notes published build number.</span></span>
 
-## <a name="office-insider-versions-and-builds"></a><span data-ttu-id="26af7-109">Compilaciones y versiones de office Insider</span><span class="sxs-lookup"><span data-stu-id="26af7-109">Office Insider versions and builds</span></span>
+## <a name="office-insider-versions-and-builds"></a><span data-ttu-id="62c3e-109">Compilaciones y versiones de office Insider</span><span class="sxs-lookup"><span data-stu-id="62c3e-109">Office Insider versions and builds</span></span>
 
-<span data-ttu-id="26af7-p102">Si está inscrito en el nivel de Insider, obtendrá actualizaciones frecuentes con nuevas características y mejoras. La siguiente lista muestra un historial de versiones y compilaciones con **la compilación publicada más recientemente en primer lugar**. Las compilaciones nuevas incluyen todas las actualizaciones de compilaciones anteriores.</span><span class="sxs-lookup"><span data-stu-id="26af7-p102">If you're enrolled in the Insider level you get frequent updates with new features and improvements. The following list shows a history of recent Insider versions and builds, with **the most recently released build listed first**. New builds contain all the updates contained in previous builds.</span></span>
+<span data-ttu-id="62c3e-p102">Si está inscrito en el nivel de Insider, obtendrá actualizaciones frecuentes con nuevas características y mejoras. La siguiente lista muestra un historial de versiones y compilaciones con **la compilación publicada más recientemente en primer lugar**. Las compilaciones nuevas incluyen todas las actualizaciones de compilaciones anteriores.</span><span class="sxs-lookup"><span data-stu-id="62c3e-p102">If you're enrolled in the Insider level you get frequent updates with new features and improvements. The following list shows a history of recent Insider versions and builds, with **the most recently released build listed first**. New builds contain all the updates contained in previous builds.</span></span>
 
-<span data-ttu-id="26af7-113">Para obtener las notas de la versión, vea [notas de la versión de Insider de Office para escritorio de Windows](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider).</span><span class="sxs-lookup"><span data-stu-id="26af7-113">To find release notes, see [Insider release notes for Office for Windows desktop](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider).</span></span>
+<span data-ttu-id="62c3e-113">Para obtener las notas de la versión, vea [notas de la versión de Insider de Office para escritorio de Windows](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider).</span><span class="sxs-lookup"><span data-stu-id="62c3e-113">To find release notes, see [Insider release notes for Office for Windows desktop](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider).</span></span>
 
 [//]: # (NO ELIMINAR)
 
-<span data-ttu-id="26af7-115">**09 de marzo de 2020**</span><span class="sxs-lookup"><span data-stu-id="26af7-115">**March 09, 2020**</span></span><br/>
-<span data-ttu-id="26af7-116">Versión 2004 (Compilación 12703.20010)</span><span class="sxs-lookup"><span data-stu-id="26af7-116">Version 2004 (Build 12703.20010)</span></span><br/>
+<span data-ttu-id="62c3e-115">**13 de marzo de 2020**</span><span class="sxs-lookup"><span data-stu-id="62c3e-115">**March 13, 2020**</span></span><br/>
+<span data-ttu-id="62c3e-116">Versión 2004 (compilación 12711.20000)</span><span class="sxs-lookup"><span data-stu-id="62c3e-116">Version 2004 (Build 12711.20000)</span></span><br/>
 
-<span data-ttu-id="26af7-117">**01 de marzo de 2020**</span><span class="sxs-lookup"><span data-stu-id="26af7-117">**March 01, 2020**</span></span><br/>
-<span data-ttu-id="26af7-118">Versión 2003 (compilación 12624.20086)</span><span class="sxs-lookup"><span data-stu-id="26af7-118">Version 2003 (Build 12624.20086)</span></span><br/>
+<span data-ttu-id="62c3e-117">**09 de marzo de 2020**</span><span class="sxs-lookup"><span data-stu-id="62c3e-117">**March 09, 2020**</span></span><br/>
+<span data-ttu-id="62c3e-118">Versión 2004 (Compilación 12703.20010)</span><span class="sxs-lookup"><span data-stu-id="62c3e-118">Version 2004 (Build 12703.20010)</span></span><br/>
 
-<span data-ttu-id="26af7-119">**24 de febrero de 2020**</span><span class="sxs-lookup"><span data-stu-id="26af7-119">**February 24, 2020**</span></span><br/>
-<span data-ttu-id="26af7-120">Versión 2003 (compilación 12619.20002)</span><span class="sxs-lookup"><span data-stu-id="26af7-120">Version 2003 (Build 12619.20002)</span></span><br/>
+<span data-ttu-id="62c3e-119">**01 de marzo de 2020**</span><span class="sxs-lookup"><span data-stu-id="62c3e-119">**March 01, 2020**</span></span><br/>
+<span data-ttu-id="62c3e-120">Versión 2003 (compilación 12624.20086)</span><span class="sxs-lookup"><span data-stu-id="62c3e-120">Version 2003 (Build 12624.20086)</span></span><br/>
 
-<span data-ttu-id="26af7-121">**18 de febrero 2020**</span><span class="sxs-lookup"><span data-stu-id="26af7-121">**February 18, 2020**</span></span><br/>
-<span data-ttu-id="26af7-122">Versión 2003 (compilación 12615.20000)</span><span class="sxs-lookup"><span data-stu-id="26af7-122">Version 2003 (Build 12615.20000)</span></span><br/>
+<span data-ttu-id="62c3e-121">**24 de febrero de 2020**</span><span class="sxs-lookup"><span data-stu-id="62c3e-121">**February 24, 2020**</span></span><br/>
+<span data-ttu-id="62c3e-122">Versión 2003 (compilación 12619.20002)</span><span class="sxs-lookup"><span data-stu-id="62c3e-122">Version 2003 (Build 12619.20002)</span></span><br/>
 
-<span data-ttu-id="26af7-123">**11 de febrero de 2020**</span><span class="sxs-lookup"><span data-stu-id="26af7-123">**February 11, 2020**</span></span><br/>
-<span data-ttu-id="26af7-124">Versión 2003 (Compilación 12607.20000)</span><span class="sxs-lookup"><span data-stu-id="26af7-124">Version 2003 (Build 12607.20000)</span></span><br/>
+<span data-ttu-id="62c3e-123">**18 de febrero 2020**</span><span class="sxs-lookup"><span data-stu-id="62c3e-123">**February 18, 2020**</span></span><br/>
+<span data-ttu-id="62c3e-124">Versión 2003 (compilación 12615.20000)</span><span class="sxs-lookup"><span data-stu-id="62c3e-124">Version 2003 (Build 12615.20000)</span></span><br/>
 
-<span data-ttu-id="26af7-125">**31 de enero de 2020**</span><span class="sxs-lookup"><span data-stu-id="26af7-125">**January 31, 2020**</span></span><br/>
-<span data-ttu-id="26af7-126">Versión 2002 (Compilación 12527.20040)</span><span class="sxs-lookup"><span data-stu-id="26af7-126">Version 2002 (Build 12527.20040)</span></span><br/>
+<span data-ttu-id="62c3e-125">**11 de febrero de 2020**</span><span class="sxs-lookup"><span data-stu-id="62c3e-125">**February 11, 2020**</span></span><br/>
+<span data-ttu-id="62c3e-126">Versión 2003 (Compilación 12607.20000)</span><span class="sxs-lookup"><span data-stu-id="62c3e-126">Version 2003 (Build 12607.20000)</span></span><br/>
 
-<span data-ttu-id="26af7-127">**27 de enero de 2020**</span><span class="sxs-lookup"><span data-stu-id="26af7-127">**January 27, 2020**</span></span><br/>
-<span data-ttu-id="26af7-128">Versión 2002 (compilación 12513.20010)</span><span class="sxs-lookup"><span data-stu-id="26af7-128">Version 2002 (Build 12513.20010)</span></span><br/>
+<span data-ttu-id="62c3e-127">**31 de enero de 2020**</span><span class="sxs-lookup"><span data-stu-id="62c3e-127">**January 31, 2020**</span></span><br/>
+<span data-ttu-id="62c3e-128">Versión 2002 (Compilación 12527.20040)</span><span class="sxs-lookup"><span data-stu-id="62c3e-128">Version 2002 (Build 12527.20040)</span></span><br/>
 
-<span data-ttu-id="26af7-129">**14 de enero de 2020**</span><span class="sxs-lookup"><span data-stu-id="26af7-129">**January 14, 2020**</span></span><br/>
-<span data-ttu-id="26af7-130">Versión 2002 (compilación 12508.20000)</span><span class="sxs-lookup"><span data-stu-id="26af7-130">Version 2002 (Build 12508.20000)</span></span><br/>
+<span data-ttu-id="62c3e-129">**27 de enero de 2020**</span><span class="sxs-lookup"><span data-stu-id="62c3e-129">**January 27, 2020**</span></span><br/>
+<span data-ttu-id="62c3e-130">Versión 2002 (compilación 12513.20010)</span><span class="sxs-lookup"><span data-stu-id="62c3e-130">Version 2002 (Build 12513.20010)</span></span><br/>
 
-<span data-ttu-id="26af7-131">**06 de enero de 2020**</span><span class="sxs-lookup"><span data-stu-id="26af7-131">**January 06, 2020**</span></span><br/>
-<span data-ttu-id="26af7-132">Versión 2001 (compilación 12430.20000)</span><span class="sxs-lookup"><span data-stu-id="26af7-132">Version 2001 (Build 12430.20000)</span></span><br/>
+<span data-ttu-id="62c3e-131">**14 de enero de 2020**</span><span class="sxs-lookup"><span data-stu-id="62c3e-131">**January 14, 2020**</span></span><br/>
+<span data-ttu-id="62c3e-132">Versión 2002 (compilación 12508.20000)</span><span class="sxs-lookup"><span data-stu-id="62c3e-132">Version 2002 (Build 12508.20000)</span></span><br/>
 
-<span data-ttu-id="26af7-133">**30 de diciembre de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-133">**December 30, 2019**</span></span><br/>
-<span data-ttu-id="26af7-134">Versión 2001 (compilación 12425.20000)</span><span class="sxs-lookup"><span data-stu-id="26af7-134">Version 2001 (Build 12425.20000)</span></span><br/>
+<span data-ttu-id="62c3e-133">**06 de enero de 2020**</span><span class="sxs-lookup"><span data-stu-id="62c3e-133">**January 06, 2020**</span></span><br/>
+<span data-ttu-id="62c3e-134">Versión 2001 (compilación 12430.20000)</span><span class="sxs-lookup"><span data-stu-id="62c3e-134">Version 2001 (Build 12430.20000)</span></span><br/>
 
-<span data-ttu-id="26af7-135">**12 de diciembre de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-135">**December 12, 2019**</span></span><br/>
-<span data-ttu-id="26af7-136">Versión 2001 (Compilación 12410.20000)</span><span class="sxs-lookup"><span data-stu-id="26af7-136">Version 2001 (Build 12410.20000)</span></span><br/>
+<span data-ttu-id="62c3e-135">**30 de diciembre de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-135">**December 30, 2019**</span></span><br/>
+<span data-ttu-id="62c3e-136">Versión 2001 (compilación 12425.20000)</span><span class="sxs-lookup"><span data-stu-id="62c3e-136">Version 2001 (Build 12425.20000)</span></span><br/>
 
-<span data-ttu-id="26af7-137">**02 de diciembre de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-137">**December 02, 2019**</span></span><br/>
-<span data-ttu-id="26af7-138">Versión 1912 (compilación 12325.20012)</span><span class="sxs-lookup"><span data-stu-id="26af7-138">Version 1912 (Build 12325.20012)</span></span><br/>
+<span data-ttu-id="62c3e-137">**12 de diciembre de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-137">**December 12, 2019**</span></span><br/>
+<span data-ttu-id="62c3e-138">Versión 2001 (Compilación 12410.20000)</span><span class="sxs-lookup"><span data-stu-id="62c3e-138">Version 2001 (Build 12410.20000)</span></span><br/>
 
-<span data-ttu-id="26af7-139">**18 de noviembre de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-139">**November 18, 2019**</span></span><br/>
-<span data-ttu-id="26af7-140">Versión 1912 (Compilación 12312.20002) (revertida)</span><span class="sxs-lookup"><span data-stu-id="26af7-140">Version 1912 (Build 12312.20002) (Rolled Back)</span></span> <br/>
-<span data-ttu-id="26af7-141">**12 de noviembre de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-141">**November 12, 2019**</span></span><br/>
-<span data-ttu-id="26af7-142">Versión 1912 (compilación 12307.20000)</span><span class="sxs-lookup"><span data-stu-id="26af7-142">Version 1912 (Build 12307.20000)</span></span><br/>
+<span data-ttu-id="62c3e-139">**02 de diciembre de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-139">**December 02, 2019**</span></span><br/>
+<span data-ttu-id="62c3e-140">Versión 1912 (compilación 12325.20012)</span><span class="sxs-lookup"><span data-stu-id="62c3e-140">Version 1912 (Build 12325.20012)</span></span><br/>
 
-<span data-ttu-id="26af7-143">**04 de noviembre de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-143">**November 04, 2019**</span></span><br/>
-<span data-ttu-id="26af7-144">Versión 1912 (compilación 12231.20000)</span><span class="sxs-lookup"><span data-stu-id="26af7-144">Version 1912 (Build 12231.20000)</span></span><br/>
+<span data-ttu-id="62c3e-141">**18 de noviembre de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-141">**November 18, 2019**</span></span><br/>
+<span data-ttu-id="62c3e-142">Versión 1912 (Compilación 12312.20002) (revertida)</span><span class="sxs-lookup"><span data-stu-id="62c3e-142">Version 1912 (Build 12312.20002) (Rolled Back)</span></span> <br/>
+<span data-ttu-id="62c3e-143">**12 de noviembre de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-143">**November 12, 2019**</span></span><br/>
+<span data-ttu-id="62c3e-144">Versión 1912 (compilación 12307.20000)</span><span class="sxs-lookup"><span data-stu-id="62c3e-144">Version 1912 (Build 12307.20000)</span></span><br/>
 
-<span data-ttu-id="26af7-145">**01 de noviembre de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-145">**November 01, 2019**</span></span><br/>
-<span data-ttu-id="26af7-146">Versión 1911 (compilación 12228.20020)</span><span class="sxs-lookup"><span data-stu-id="26af7-146">Version 1911 (Build 12228.20020)</span></span><br/>
+<span data-ttu-id="62c3e-145">**04 de noviembre de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-145">**November 04, 2019**</span></span><br/>
+<span data-ttu-id="62c3e-146">Versión 1912 (compilación 12231.20000)</span><span class="sxs-lookup"><span data-stu-id="62c3e-146">Version 1912 (Build 12231.20000)</span></span><br/>
 
-<span data-ttu-id="26af7-147">**Octubre de 21 de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-147">**October 21, 2019**</span></span><br/>
-<span data-ttu-id="26af7-148">Versión 1911 (compilación 12215.20006)</span><span class="sxs-lookup"><span data-stu-id="26af7-148">Version 1911 (Build 12215.20006)</span></span><br/>
+<span data-ttu-id="62c3e-147">**01 de noviembre de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-147">**November 01, 2019**</span></span><br/>
+<span data-ttu-id="62c3e-148">Versión 1911 (compilación 12228.20020)</span><span class="sxs-lookup"><span data-stu-id="62c3e-148">Version 1911 (Build 12228.20020)</span></span><br/>
 
-<span data-ttu-id="26af7-149">**14 de octubre en 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-149">**October 14, 2019**</span></span><br/>
-<span data-ttu-id="26af7-150">Versión 1911 (compilación 12209.20010)</span><span class="sxs-lookup"><span data-stu-id="26af7-150">Version 1911 (Build 12209.20010)</span></span><br/>
+<span data-ttu-id="62c3e-149">**Octubre de 21 de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-149">**October 21, 2019**</span></span><br/>
+<span data-ttu-id="62c3e-150">Versión 1911 (compilación 12215.20006)</span><span class="sxs-lookup"><span data-stu-id="62c3e-150">Version 1911 (Build 12215.20006)</span></span><br/>
 
-<span data-ttu-id="26af7-151">**08 de octubre de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-151">**October 08, 2019**</span></span><br/>
-<span data-ttu-id="26af7-152">Versión 1910 (compilación 12130.20112)</span><span class="sxs-lookup"><span data-stu-id="26af7-152">Version 1910 (Build 12130.20112)</span></span><br/>
+<span data-ttu-id="62c3e-151">**14 de octubre en 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-151">**October 14, 2019**</span></span><br/>
+<span data-ttu-id="62c3e-152">Versión 1911 (compilación 12209.20010)</span><span class="sxs-lookup"><span data-stu-id="62c3e-152">Version 1911 (Build 12209.20010)</span></span><br/>
 
-<span data-ttu-id="26af7-153">**30 de septiembre de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-153">**September 30, 2019**</span></span><br/>
-<span data-ttu-id="26af7-154">Versión 1910 (compilación 12126.20000)</span><span class="sxs-lookup"><span data-stu-id="26af7-154">Version 1910 (Build 12126.20000)</span></span><br/>
+<span data-ttu-id="62c3e-153">**08 de octubre de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-153">**October 08, 2019**</span></span><br/>
+<span data-ttu-id="62c3e-154">Versión 1910 (compilación 12130.20112)</span><span class="sxs-lookup"><span data-stu-id="62c3e-154">Version 1910 (Build 12130.20112)</span></span><br/>
 
-<span data-ttu-id="26af7-155">**23 de septiembre de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-155">**September 23, 2019**</span></span><br/>
-<span data-ttu-id="26af7-156">Versión 1910 (compilación 12119.20000)</span><span class="sxs-lookup"><span data-stu-id="26af7-156">Version 1910 (Build 12119.20000)</span></span><br/>
+<span data-ttu-id="62c3e-155">**30 de septiembre de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-155">**September 30, 2019**</span></span><br/>
+<span data-ttu-id="62c3e-156">Versión 1910 (compilación 12126.20000)</span><span class="sxs-lookup"><span data-stu-id="62c3e-156">Version 1910 (Build 12126.20000)</span></span><br/>
 
-<span data-ttu-id="26af7-157">**16 de septiembre de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-157">**September 16, 2019**</span></span><br/>
-<span data-ttu-id="26af7-158">Versión 1910 (compilación 12112.20000)</span><span class="sxs-lookup"><span data-stu-id="26af7-158">Version 1910 (Build 12112.20000)</span></span><br/>
+<span data-ttu-id="62c3e-157">**23 de septiembre de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-157">**September 23, 2019**</span></span><br/>
+<span data-ttu-id="62c3e-158">Versión 1910 (compilación 12119.20000)</span><span class="sxs-lookup"><span data-stu-id="62c3e-158">Version 1910 (Build 12119.20000)</span></span><br/>
 
-<span data-ttu-id="26af7-159">**10 de septiembre de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-159">**September 10, 2019**</span></span><br/>
-<span data-ttu-id="26af7-160">Versión 1910 (compilación 12105.20000)</span><span class="sxs-lookup"><span data-stu-id="26af7-160">Version 1910 (Build 12105.20000)</span></span><br/>
+<span data-ttu-id="62c3e-159">**16 de septiembre de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-159">**September 16, 2019**</span></span><br/>
+<span data-ttu-id="62c3e-160">Versión 1910 (compilación 12112.20000)</span><span class="sxs-lookup"><span data-stu-id="62c3e-160">Version 1910 (Build 12112.20000)</span></span><br/>
 
-<span data-ttu-id="26af7-161">**04 de septiembre de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-161">**September 04, 2019**</span></span><br/>
-<span data-ttu-id="26af7-162">Versión 1910 (compilación 12030.20004)</span><span class="sxs-lookup"><span data-stu-id="26af7-162">Version 1910 (Build 12030.20004)</span></span><br/>
+<span data-ttu-id="62c3e-161">**10 de septiembre de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-161">**September 10, 2019**</span></span><br/>
+<span data-ttu-id="62c3e-162">Versión 1910 (compilación 12105.20000)</span><span class="sxs-lookup"><span data-stu-id="62c3e-162">Version 1910 (Build 12105.20000)</span></span><br/>
 
-<span data-ttu-id="26af7-163">**28 de agosto de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-163">**August 28, 2019**</span></span><br/>
-<span data-ttu-id="26af7-164">Versión 1909 (compilación 12026.20000)</span><span class="sxs-lookup"><span data-stu-id="26af7-164">Version 1909 (Build 12026.20000)</span></span><br/>
+<span data-ttu-id="62c3e-163">**04 de septiembre de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-163">**September 04, 2019**</span></span><br/>
+<span data-ttu-id="62c3e-164">Versión 1910 (compilación 12030.20004)</span><span class="sxs-lookup"><span data-stu-id="62c3e-164">Version 1910 (Build 12030.20004)</span></span><br/>
 
-<span data-ttu-id="26af7-165">**26 de agosto de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-165">**August 26, 2019**</span></span><br/>
-<span data-ttu-id="26af7-166">Versión 1909 (compilación 12022.20000)</span><span class="sxs-lookup"><span data-stu-id="26af7-166">Version 1909 (Build 12022.20000)</span></span><br/>
+<span data-ttu-id="62c3e-165">**28 de agosto de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-165">**August 28, 2019**</span></span><br/>
+<span data-ttu-id="62c3e-166">Versión 1909 (compilación 12026.20000)</span><span class="sxs-lookup"><span data-stu-id="62c3e-166">Version 1909 (Build 12026.20000)</span></span><br/>
 
-<span data-ttu-id="26af7-167">**19 de agosto 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-167">**August 19, 2019**</span></span><br/>
-<span data-ttu-id="26af7-168">Versión 1909 (compilación 12015.20004)</span><span class="sxs-lookup"><span data-stu-id="26af7-168">Version 1909 (Build 12015.20004)</span></span><br/>
+<span data-ttu-id="62c3e-167">**26 de agosto de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-167">**August 26, 2019**</span></span><br/>
+<span data-ttu-id="62c3e-168">Versión 1909 (compilación 12022.20000)</span><span class="sxs-lookup"><span data-stu-id="62c3e-168">Version 1909 (Build 12022.20000)</span></span><br/>
 
-<span data-ttu-id="26af7-169">**15 de agosto de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-169">**August 15, 2019**</span></span><br/>
-<span data-ttu-id="26af7-170">Versión 1909 (compilación 12013.20000)</span><span class="sxs-lookup"><span data-stu-id="26af7-170">Version 1909 (Build 12013.20000)</span></span><br/>
+<span data-ttu-id="62c3e-169">**19 de agosto 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-169">**August 19, 2019**</span></span><br/>
+<span data-ttu-id="62c3e-170">Versión 1909 (compilación 12015.20004)</span><span class="sxs-lookup"><span data-stu-id="62c3e-170">Version 1909 (Build 12015.20004)</span></span><br/>
 
-<span data-ttu-id="26af7-171">**13 de agosto de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-171">**August 13, 2019**</span></span><br/>
-<span data-ttu-id="26af7-172">Versión 1909 (compilación 12008.20000)</span><span class="sxs-lookup"><span data-stu-id="26af7-172">Version 1909 (Build 12008.20000)</span></span><br/>
+<span data-ttu-id="62c3e-171">**15 de agosto de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-171">**August 15, 2019**</span></span><br/>
+<span data-ttu-id="62c3e-172">Versión 1909 (compilación 12013.20000)</span><span class="sxs-lookup"><span data-stu-id="62c3e-172">Version 1909 (Build 12013.20000)</span></span><br/>
 
-<span data-ttu-id="26af7-173">**05 de agosto de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-173">**August 05, 2019**</span></span><br/>
-<span data-ttu-id="26af7-174">Versión 1909 (compilación 12001.20000)</span><span class="sxs-lookup"><span data-stu-id="26af7-174">Version 1909 (Build 12001.20000)</span></span><br/>
+<span data-ttu-id="62c3e-173">**13 de agosto de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-173">**August 13, 2019**</span></span><br/>
+<span data-ttu-id="62c3e-174">Versión 1909 (compilación 12008.20000)</span><span class="sxs-lookup"><span data-stu-id="62c3e-174">Version 1909 (Build 12008.20000)</span></span><br/>
 
-<span data-ttu-id="26af7-175">**31 de julio de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-175">**July 31, 2019**</span></span><br/>
-<span data-ttu-id="26af7-176">Versión 1908 (compilación 11929.20002)</span><span class="sxs-lookup"><span data-stu-id="26af7-176">Version 1908 (Build 11929.20002)</span></span><br/>
+<span data-ttu-id="62c3e-175">**05 de agosto de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-175">**August 05, 2019**</span></span><br/>
+<span data-ttu-id="62c3e-176">Versión 1909 (compilación 12001.20000)</span><span class="sxs-lookup"><span data-stu-id="62c3e-176">Version 1909 (Build 12001.20000)</span></span><br/>
 
-<span data-ttu-id="26af7-177">**29 de julio de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-177">**July 29, 2019**</span></span><br/>
-<span data-ttu-id="26af7-178">Versión 1908 (compilación 11924.20004)</span><span class="sxs-lookup"><span data-stu-id="26af7-178">Version 1908 (Build 11924.20004)</span></span><br/>
+<span data-ttu-id="62c3e-177">**31 de julio de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-177">**July 31, 2019**</span></span><br/>
+<span data-ttu-id="62c3e-178">Versión 1908 (compilación 11929.20002)</span><span class="sxs-lookup"><span data-stu-id="62c3e-178">Version 1908 (Build 11929.20002)</span></span><br/>
 
-<span data-ttu-id="26af7-179">**22 de julio de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-179">**July 22, 2019**</span></span><br/>
-<span data-ttu-id="26af7-180">Versión 1908 (compilación 11916.20000)</span><span class="sxs-lookup"><span data-stu-id="26af7-180">Version 1908 (Build 11916.20000)</span></span><br/>
+<span data-ttu-id="62c3e-179">**29 de julio de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-179">**July 29, 2019**</span></span><br/>
+<span data-ttu-id="62c3e-180">Versión 1908 (compilación 11924.20004)</span><span class="sxs-lookup"><span data-stu-id="62c3e-180">Version 1908 (Build 11924.20004)</span></span><br/>
 
-<span data-ttu-id="26af7-181">**15 de julio de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-181">**July 15, 2019**</span></span><br/>
-<span data-ttu-id="26af7-182">Versión 1908 (compilación 11911.20000)</span><span class="sxs-lookup"><span data-stu-id="26af7-182">Version 1908 (Build 11911.20000)</span></span><br/>
+<span data-ttu-id="62c3e-181">**22 de julio de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-181">**July 22, 2019**</span></span><br/>
+<span data-ttu-id="62c3e-182">Versión 1908 (compilación 11916.20000)</span><span class="sxs-lookup"><span data-stu-id="62c3e-182">Version 1908 (Build 11916.20000)</span></span><br/>
 
-<span data-ttu-id="26af7-183">**9 de julio de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-183">**July 9, 2019**</span></span><br/>
-<span data-ttu-id="26af7-184">Versión 1907 (compilación 11901.20038)</span><span class="sxs-lookup"><span data-stu-id="26af7-184">Version 1907 (Build 11901.20038)</span></span><br/>
+<span data-ttu-id="62c3e-183">**15 de julio de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-183">**July 15, 2019**</span></span><br/>
+<span data-ttu-id="62c3e-184">Versión 1908 (compilación 11911.20000)</span><span class="sxs-lookup"><span data-stu-id="62c3e-184">Version 1908 (Build 11911.20000)</span></span><br/>
 
-<span data-ttu-id="26af7-185">**3 de julio de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-185">**July 3, 2019**</span></span><br/>
-<span data-ttu-id="26af7-186">Versión 1907 (compilación 11901.20018)</span><span class="sxs-lookup"><span data-stu-id="26af7-186">Version 1907 (Build 11901.20018)</span></span><br/>
+<span data-ttu-id="62c3e-185">**9 de julio de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-185">**July 9, 2019**</span></span><br/>
+<span data-ttu-id="62c3e-186">Versión 1907 (compilación 11901.20038)</span><span class="sxs-lookup"><span data-stu-id="62c3e-186">Version 1907 (Build 11901.20038)</span></span><br/>
 
-<span data-ttu-id="26af7-187">**1 de julio de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-187">**July 1, 2019**</span></span><br/>
-<span data-ttu-id="26af7-188">Versión 1907 (compilación 11827.20002)</span><span class="sxs-lookup"><span data-stu-id="26af7-188">Version 1907 (Build 11827.20002)</span></span><br/>
+<span data-ttu-id="62c3e-187">**3 de julio de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-187">**July 3, 2019**</span></span><br/>
+<span data-ttu-id="62c3e-188">Versión 1907 (compilación 11901.20018)</span><span class="sxs-lookup"><span data-stu-id="62c3e-188">Version 1907 (Build 11901.20018)</span></span><br/>
 
-<span data-ttu-id="26af7-189">**24 de junio de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-189">**June 24, 2019**</span></span><br/>
-<span data-ttu-id="26af7-190">Versión 1907 (compilación 11819.20002)</span><span class="sxs-lookup"><span data-stu-id="26af7-190">Version 1907 (Build 11819.20002)</span></span><br/>
+<span data-ttu-id="62c3e-189">**1 de julio de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-189">**July 1, 2019**</span></span><br/>
+<span data-ttu-id="62c3e-190">Versión 1907 (compilación 11827.20002)</span><span class="sxs-lookup"><span data-stu-id="62c3e-190">Version 1907 (Build 11827.20002)</span></span><br/>
 
-<span data-ttu-id="26af7-191">**19 de junio de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-191">**June 19, 2019**</span></span><br/>
-<span data-ttu-id="26af7-192">Versión 1907 (compilación 11815.20002)</span><span class="sxs-lookup"><span data-stu-id="26af7-192">Version 1907 (Build 11815.20002)</span></span><br/>
+<span data-ttu-id="62c3e-191">**24 de junio de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-191">**June 24, 2019**</span></span><br/>
+<span data-ttu-id="62c3e-192">Versión 1907 (compilación 11819.20002)</span><span class="sxs-lookup"><span data-stu-id="62c3e-192">Version 1907 (Build 11819.20002)</span></span><br/>
 
-<span data-ttu-id="26af7-193">**11 de junio de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-193">**June 11, 2019**</span></span><br/>
-<span data-ttu-id="26af7-194">Versión 1907 (compilación 11807.20000)</span><span class="sxs-lookup"><span data-stu-id="26af7-194">Version 1907 (Build 11807.20000)</span></span><br/>
+<span data-ttu-id="62c3e-193">**19 de junio de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-193">**June 19, 2019**</span></span><br/>
+<span data-ttu-id="62c3e-194">Versión 1907 (compilación 11815.20002)</span><span class="sxs-lookup"><span data-stu-id="62c3e-194">Version 1907 (Build 11815.20002)</span></span><br/>
 
-<span data-ttu-id="26af7-195">**4 de junio de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-195">**June 04, 2019**</span></span><br/>
-<span data-ttu-id="26af7-196">Versión 1906 (compilación 11727.20064)</span><span class="sxs-lookup"><span data-stu-id="26af7-196">Version 1906 (Build 11727.20064)</span></span><br/>
+<span data-ttu-id="62c3e-195">**11 de junio de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-195">**June 11, 2019**</span></span><br/>
+<span data-ttu-id="62c3e-196">Versión 1907 (compilación 11807.20000)</span><span class="sxs-lookup"><span data-stu-id="62c3e-196">Version 1907 (Build 11807.20000)</span></span><br/>
+
+<span data-ttu-id="62c3e-197">**4 de junio de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-197">**June 04, 2019**</span></span><br/>
+<span data-ttu-id="62c3e-198">Versión 1906 (compilación 11727.20064)</span><span class="sxs-lookup"><span data-stu-id="62c3e-198">Version 1906 (Build 11727.20064)</span></span><br/>
 
 
-<span data-ttu-id="26af7-197">**29 de mayo de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-197">**May 29, 2019**</span></span><br/>
-<span data-ttu-id="26af7-198">Versión 1906 (compilación 11722.20008)</span><span class="sxs-lookup"><span data-stu-id="26af7-198">Version 1906 (Build 11722.20008)</span></span><br/>
+<span data-ttu-id="62c3e-199">**29 de mayo de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-199">**May 29, 2019**</span></span><br/>
+<span data-ttu-id="62c3e-200">Versión 1906 (compilación 11722.20008)</span><span class="sxs-lookup"><span data-stu-id="62c3e-200">Version 1906 (Build 11722.20008)</span></span><br/>
 
-<span data-ttu-id="26af7-199">**22 de mayo de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-199">**May 22, 2019**</span></span><br/> <span data-ttu-id="26af7-200">Versión 1906 (compilación 11715.20002)</span><span class="sxs-lookup"><span data-stu-id="26af7-200">Version 1906 (Build 11715.20002)</span></span><br/> 
+<span data-ttu-id="62c3e-201">**22 de mayo de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-201">**May 22, 2019**</span></span><br/> <span data-ttu-id="62c3e-202">Versión 1906 (compilación 11715.20002)</span><span class="sxs-lookup"><span data-stu-id="62c3e-202">Version 1906 (Build 11715.20002)</span></span><br/> 
 
-<span data-ttu-id="26af7-201">**14 de mayo de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-201">**May 14, 2019**</span></span><br/> <span data-ttu-id="26af7-202">Versión 1906 (compilación 11708.20006)</span><span class="sxs-lookup"><span data-stu-id="26af7-202">Version 1906 (Build 11708.20006)</span></span><br/>
+<span data-ttu-id="62c3e-203">**14 de mayo de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-203">**May 14, 2019**</span></span><br/> <span data-ttu-id="62c3e-204">Versión 1906 (compilación 11708.20006)</span><span class="sxs-lookup"><span data-stu-id="62c3e-204">Version 1906 (Build 11708.20006)</span></span><br/>
 
-<span data-ttu-id="26af7-203">**06 de mayo de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-203">**May 06, 2019**</span></span><br/>
-<span data-ttu-id="26af7-204">Versión 1906 (compilación 11702.20000)</span><span class="sxs-lookup"><span data-stu-id="26af7-204">Version 1906 (Build 11702.20000)</span></span><br/>
+<span data-ttu-id="62c3e-205">**06 de mayo de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-205">**May 06, 2019**</span></span><br/>
+<span data-ttu-id="62c3e-206">Versión 1906 (compilación 11702.20000)</span><span class="sxs-lookup"><span data-stu-id="62c3e-206">Version 1906 (Build 11702.20000)</span></span><br/>
 
-<span data-ttu-id="26af7-205">**02 de mayo de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-205">**May 02, 2019**</span></span><br/>
-<span data-ttu-id="26af7-206">Versión 1905 (compilación 11629.20008)</span><span class="sxs-lookup"><span data-stu-id="26af7-206">Version 1905 (Build 11629.20008)</span></span><br/>
+<span data-ttu-id="62c3e-207">**02 de mayo de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-207">**May 02, 2019**</span></span><br/>
+<span data-ttu-id="62c3e-208">Versión 1905 (compilación 11629.20008)</span><span class="sxs-lookup"><span data-stu-id="62c3e-208">Version 1905 (Build 11629.20008)</span></span><br/>
 
-<span data-ttu-id="26af7-207">**29 de abril de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-207">**April 29, 2019**</span></span><br/>
-<span data-ttu-id="26af7-208">Versión 1905 (compilación 11624.20000)</span><span class="sxs-lookup"><span data-stu-id="26af7-208">Version 1905 (Build 11624.20000)</span></span><br/>
+<span data-ttu-id="62c3e-209">**29 de abril de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-209">**April 29, 2019**</span></span><br/>
+<span data-ttu-id="62c3e-210">Versión 1905 (compilación 11624.20000)</span><span class="sxs-lookup"><span data-stu-id="62c3e-210">Version 1905 (Build 11624.20000)</span></span><br/>
 
-<span data-ttu-id="26af7-209">**23 de abril de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-209">**April 23, 2019**</span></span><br/> <span data-ttu-id="26af7-210">Version 1905 (compilación 11617.20002)</span><span class="sxs-lookup"><span data-stu-id="26af7-210">Version 1905 (Build 11617.20002)</span></span><br/>
+<span data-ttu-id="62c3e-211">**23 de abril de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-211">**April 23, 2019**</span></span><br/> <span data-ttu-id="62c3e-212">Version 1905 (compilación 11617.20002)</span><span class="sxs-lookup"><span data-stu-id="62c3e-212">Version 1905 (Build 11617.20002)</span></span><br/>
 
-<span data-ttu-id="26af7-211">**15 de abril de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-211">**April 15, 2019**</span></span><br/> <span data-ttu-id="26af7-212">Version 1905 (compilación 11609.20002)</span><span class="sxs-lookup"><span data-stu-id="26af7-212">Version 1905 (Build 11609.20002)</span></span><br/>
+<span data-ttu-id="62c3e-213">**15 de abril de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-213">**April 15, 2019**</span></span><br/> <span data-ttu-id="62c3e-214">Version 1905 (compilación 11609.20002)</span><span class="sxs-lookup"><span data-stu-id="62c3e-214">Version 1905 (Build 11609.20002)</span></span><br/>
 
-<span data-ttu-id="26af7-213">**7 de abril de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-213">**April 7, 2019**</span></span><br/> <span data-ttu-id="26af7-214">Versión 1904 (compilación 11601.20042)</span><span class="sxs-lookup"><span data-stu-id="26af7-214">Version 1904 (Build 11601.20042)</span></span><br/>
+<span data-ttu-id="62c3e-215">**7 de abril de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-215">**April 7, 2019**</span></span><br/> <span data-ttu-id="62c3e-216">Versión 1904 (compilación 11601.20042)</span><span class="sxs-lookup"><span data-stu-id="62c3e-216">Version 1904 (Build 11601.20042)</span></span><br/>
 
-<span data-ttu-id="26af7-215">**18 de marzo de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-215">**March 18, 2019**</span></span><br/> <span data-ttu-id="26af7-216">Versión 1904 (compilación 11520.20004)</span><span class="sxs-lookup"><span data-stu-id="26af7-216">Version 1904 (Build 11520.20004)</span></span><br/>
+<span data-ttu-id="62c3e-217">**18 de marzo de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-217">**March 18, 2019**</span></span><br/> <span data-ttu-id="62c3e-218">Versión 1904 (compilación 11520.20004)</span><span class="sxs-lookup"><span data-stu-id="62c3e-218">Version 1904 (Build 11520.20004)</span></span><br/>
 
-<span data-ttu-id="26af7-217">**11 de marzo de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-217">**March 11, 2019**</span></span><br/> <span data-ttu-id="26af7-218">Versión 1904 (compilación 11504.20000)</span><span class="sxs-lookup"><span data-stu-id="26af7-218">Version 1904 (Build 11504.20000)</span></span><br/>
+<span data-ttu-id="62c3e-219">**11 de marzo de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-219">**March 11, 2019**</span></span><br/> <span data-ttu-id="62c3e-220">Versión 1904 (compilación 11504.20000)</span><span class="sxs-lookup"><span data-stu-id="62c3e-220">Version 1904 (Build 11504.20000)</span></span><br/>
 
-<span data-ttu-id="26af7-219">**1 de marzo de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-219">**March 1, 2019**</span></span><br/> <span data-ttu-id="26af7-220">Versión 1903 (compilación 11425.20036)</span><span class="sxs-lookup"><span data-stu-id="26af7-220">Version 1903 (Build 11425.20036)</span></span><br/> 
+<span data-ttu-id="62c3e-221">**1 de marzo de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-221">**March 1, 2019**</span></span><br/> <span data-ttu-id="62c3e-222">Versión 1903 (compilación 11425.20036)</span><span class="sxs-lookup"><span data-stu-id="62c3e-222">Version 1903 (Build 11425.20036)</span></span><br/> 
 
-<span data-ttu-id="26af7-221">**25 de febrero de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-221">**February 25, 2019**</span></span><br/> <span data-ttu-id="26af7-222">Versión 1903 (compilación 11414.20014)</span><span class="sxs-lookup"><span data-stu-id="26af7-222">Version 1903 (Build 11414.20014)</span></span><br/> 
+<span data-ttu-id="62c3e-223">**25 de febrero de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-223">**February 25, 2019**</span></span><br/> <span data-ttu-id="62c3e-224">Versión 1903 (compilación 11414.20014)</span><span class="sxs-lookup"><span data-stu-id="62c3e-224">Version 1903 (Build 11414.20014)</span></span><br/> 
 
-<span data-ttu-id="26af7-223">**12 de febrero de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-223">**February 12, 2019**</span></span><br/> <span data-ttu-id="26af7-224">Versión 1903 (compilación 11406.20002)</span><span class="sxs-lookup"><span data-stu-id="26af7-224">Version 1903 (Build 11406.20002)</span></span><br/> 
+<span data-ttu-id="62c3e-225">**12 de febrero de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-225">**February 12, 2019**</span></span><br/> <span data-ttu-id="62c3e-226">Versión 1903 (compilación 11406.20002)</span><span class="sxs-lookup"><span data-stu-id="62c3e-226">Version 1903 (Build 11406.20002)</span></span><br/> 
 
-<span data-ttu-id="26af7-225">**9 de febrero de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-225">**February 9, 2019**</span></span><br/> <span data-ttu-id="26af7-226">Versión 1903 (compilación 11330.20014)</span><span class="sxs-lookup"><span data-stu-id="26af7-226">Version 1903 (Build 11330.20014)</span></span><br/> 
+<span data-ttu-id="62c3e-227">**9 de febrero de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-227">**February 9, 2019**</span></span><br/> <span data-ttu-id="62c3e-228">Versión 1903 (compilación 11330.20014)</span><span class="sxs-lookup"><span data-stu-id="62c3e-228">Version 1903 (Build 11330.20014)</span></span><br/> 
 
-<span data-ttu-id="26af7-227">**30 de enero de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-227">**January 30, 2019**</span></span><br/> <span data-ttu-id="26af7-228">Versión 1902 (compilación 11326.20000)</span><span class="sxs-lookup"><span data-stu-id="26af7-228">Version 1902 (Build 11326.20000)</span></span><br/> 
+<span data-ttu-id="62c3e-229">**30 de enero de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-229">**January 30, 2019**</span></span><br/> <span data-ttu-id="62c3e-230">Versión 1902 (compilación 11326.20000)</span><span class="sxs-lookup"><span data-stu-id="62c3e-230">Version 1902 (Build 11326.20000)</span></span><br/> 
 
-<span data-ttu-id="26af7-229">**25 de enero de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-229">**January 25, 2019**</span></span><br/> <span data-ttu-id="26af7-230">Versión 1902 (compilación 11316.20026)</span><span class="sxs-lookup"><span data-stu-id="26af7-230">Version 1902 (Build 11316.20026)</span></span><br/> 
+<span data-ttu-id="62c3e-231">**25 de enero de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-231">**January 25, 2019**</span></span><br/> <span data-ttu-id="62c3e-232">Versión 1902 (compilación 11316.20026)</span><span class="sxs-lookup"><span data-stu-id="62c3e-232">Version 1902 (Build 11316.20026)</span></span><br/> 
 
-<span data-ttu-id="26af7-231">**22 de enero de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-231">**January 22, 2019**</span></span><br/> <span data-ttu-id="26af7-232">Versión 1902 (compilación 11310.20016)</span><span class="sxs-lookup"><span data-stu-id="26af7-232">Version 1902 (Build 11310.20016)</span></span><br/> 
+<span data-ttu-id="62c3e-233">**22 de enero de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-233">**January 22, 2019**</span></span><br/> <span data-ttu-id="62c3e-234">Versión 1902 (compilación 11310.20016)</span><span class="sxs-lookup"><span data-stu-id="62c3e-234">Version 1902 (Build 11310.20016)</span></span><br/> 
 
-<span data-ttu-id="26af7-233">**17 de enero de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-233">**January 17, 2019**</span></span><br/> <span data-ttu-id="26af7-234">Versión 1902 (compilación 11231.20080)</span><span class="sxs-lookup"><span data-stu-id="26af7-234">Version 1902 (Build 11231.20080)</span></span><br/>
+<span data-ttu-id="62c3e-235">**17 de enero de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-235">**January 17, 2019**</span></span><br/> <span data-ttu-id="62c3e-236">Versión 1902 (compilación 11231.20080)</span><span class="sxs-lookup"><span data-stu-id="62c3e-236">Version 1902 (Build 11231.20080)</span></span><br/>
 
-<span data-ttu-id="26af7-235">**10 de enero de 2019**</span><span class="sxs-lookup"><span data-stu-id="26af7-235">**January 10, 2019**</span></span><br/> <span data-ttu-id="26af7-236">Versión 1902 (compilación 11231.20066)</span><span class="sxs-lookup"><span data-stu-id="26af7-236">Version 1902 (build 11231.20066)</span></span><br/> 
+<span data-ttu-id="62c3e-237">**10 de enero de 2019**</span><span class="sxs-lookup"><span data-stu-id="62c3e-237">**January 10, 2019**</span></span><br/> <span data-ttu-id="62c3e-238">Versión 1902 (compilación 11231.20066)</span><span class="sxs-lookup"><span data-stu-id="62c3e-238">Version 1902 (build 11231.20066)</span></span><br/> 
 
-## <a name="insider-community"></a><span data-ttu-id="26af7-237">Comunidad de Insider</span><span class="sxs-lookup"><span data-stu-id="26af7-237">Insider community</span></span>
+## <a name="insider-community"></a><span data-ttu-id="62c3e-239">Comunidad de Insider</span><span class="sxs-lookup"><span data-stu-id="62c3e-239">Insider community</span></span>
 
-<span data-ttu-id="26af7-238">![Imagen que muestra la comunidad de Insider</span><span class="sxs-lookup"><span data-stu-id="26af7-238">![Image showing insider community.</span></span> ](images/insidercommunity.png) <br/>
-<span data-ttu-id="26af7-239">**Comunidad de Office Insider**</span><span class="sxs-lookup"><span data-stu-id="26af7-239">**Office Insider community**</span></span><br/> <span data-ttu-id="26af7-240">Si quiere hablar con otros participantes de Insider, publique en nuestra comunidad.</span><span class="sxs-lookup"><span data-stu-id="26af7-240">If you want to chat with other Insiders, post in our community.</span></span><br/><span data-ttu-id="26af7-241"> 
-[Visitar la Comunidad](https://go.microsoft.com/fwlink/?linkid=843493)</span><span class="sxs-lookup"><span data-stu-id="26af7-241"> 
+<span data-ttu-id="62c3e-240">![Imagen que muestra la comunidad de Insider</span><span class="sxs-lookup"><span data-stu-id="62c3e-240">![Image showing insider community.</span></span> ](images/insidercommunity.png) <br/>
+<span data-ttu-id="62c3e-241">**Comunidad de Office Insider**</span><span class="sxs-lookup"><span data-stu-id="62c3e-241">**Office Insider community**</span></span><br/> <span data-ttu-id="62c3e-242">Si quiere hablar con otros participantes de Insider, publique en nuestra comunidad.</span><span class="sxs-lookup"><span data-stu-id="62c3e-242">If you want to chat with other Insiders, post in our community.</span></span><br/><span data-ttu-id="62c3e-243"> 
+[Visitar la Comunidad](https://go.microsoft.com/fwlink/?linkid=843493)</span><span class="sxs-lookup"><span data-stu-id="62c3e-243"> 
 [Visit the community](https://go.microsoft.com/fwlink/?linkid=843493)</span></span><br/> 
 
-<span data-ttu-id="26af7-242">![Imagen que muestra el icono de twitter.</span><span class="sxs-lookup"><span data-stu-id="26af7-242">![Image showing twitter icon.</span></span> ](images/twitter.png)<br/>
-<span data-ttu-id="26af7-243">**Office Insider en Twitter**</span><span class="sxs-lookup"><span data-stu-id="26af7-243">**Office Insider on Twitter**</span></span><br/> <span data-ttu-id="26af7-244">En @OfficeInsider, realizamos publicaciones frecuentes sobre los lanzamientos de Insider y celebramos eventos especiales para participantes del programa.</span><span class="sxs-lookup"><span data-stu-id="26af7-244">On @OfficeInsider, we post frequently about Insider releases and host special events for Insiders.</span></span><br/><span data-ttu-id="26af7-245"> 
-[Síganos en Twitter](https://go.microsoft.com/fwlink/?linkid=717717)</span><span class="sxs-lookup"><span data-stu-id="26af7-245"> 
+<span data-ttu-id="62c3e-244">![Imagen que muestra el icono de twitter.</span><span class="sxs-lookup"><span data-stu-id="62c3e-244">![Image showing twitter icon.</span></span> ](images/twitter.png)<br/>
+<span data-ttu-id="62c3e-245">**Office Insider en Twitter**</span><span class="sxs-lookup"><span data-stu-id="62c3e-245">**Office Insider on Twitter**</span></span><br/> <span data-ttu-id="62c3e-246">En @OfficeInsider, realizamos publicaciones frecuentes sobre los lanzamientos de Insider y celebramos eventos especiales para participantes del programa.</span><span class="sxs-lookup"><span data-stu-id="62c3e-246">On @OfficeInsider, we post frequently about Insider releases and host special events for Insiders.</span></span><br/><span data-ttu-id="62c3e-247"> 
+[Síganos en Twitter](https://go.microsoft.com/fwlink/?linkid=717717)</span><span class="sxs-lookup"><span data-stu-id="62c3e-247"> 
 [Follow us on Twitter](https://go.microsoft.com/fwlink/?linkid=717717)</span></span><br/> 
 
-<span data-ttu-id="26af7-246">[![Imagen que muestra el icono de Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)</span><span class="sxs-lookup"><span data-stu-id="26af7-246">[![Image showing Facebook icon. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)</span></span>
+<span data-ttu-id="62c3e-248">[![Imagen que muestra el icono de Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)</span><span class="sxs-lookup"><span data-stu-id="62c3e-248">[![Image showing Facebook icon. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)</span></span>
 
 
-<span data-ttu-id="26af7-247">**Sea el primero en obtener nuevas características**
-[Unirse a Office Insider](https://insider.office.com/)</span><span class="sxs-lookup"><span data-stu-id="26af7-247">**Get new features first**
+<span data-ttu-id="62c3e-249">**Sea el primero en obtener nuevas características**
+[Unirse a Office Insider](https://insider.office.com/)</span><span class="sxs-lookup"><span data-stu-id="62c3e-249">**Get new features first**
 [Join Office Insiders](https://insider.office.com/)</span></span>
