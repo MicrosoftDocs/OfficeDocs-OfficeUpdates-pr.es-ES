@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider Lento la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 110cdc2014c68ff69a8f244f92450404f1ba81cb
-ms.sourcegitcommit: 4e509f91fd46e9df26ff0d2d775adc9bf58efa6e
+ms.openlocfilehash: 7c4ab50059d5c0a0700caab507d58035a4a2c9e7
+ms.sourcegitcommit: f4e194fab33de686fb38450c3fd73cbfa2b9d4f9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42622134"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42706960"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Las compilaciones de notas de la versión del canal mensual de Office (dirigido)
 
@@ -29,6 +29,53 @@ En este artículo hay notas de la versión para las compilaciones del canal mens
 [//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+## <a name="version-2003-march-16"></a>Versión 2003: 16 de marzo
+*Versión 2003 (compilación 12624,20224)*
+
+
+[//]: # (NO QUITAR DETALLES DE CARACTERÍSTICAS CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Elija el color perfecto:** use códigos de colores hexadecimales para elegir exactamente el color que desea para la fuente, el resaltado de texto, etc.
+
+### <a name="outlook"></a>Outlook
+
+- **Elija el color perfecto:** use códigos de colores hexadecimales para elegir exactamente el color que desea para la fuente, el resaltado de texto, etc.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Elija el color perfecto:** use códigos de colores hexadecimales para elegir exactamente el color que desea para la fuente, el resaltado de texto, etc.
+
+### <a name="word"></a>Word
+
+- **Elija el color perfecto:** use códigos de colores hexadecimales para elegir exactamente el color que desea para la fuente, el resaltado de texto, etc.
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- **Paneles con pestañas:** ahora puede cambiar entre varios paneles con la pestaña situada en la parte derecha de la aplicación. Esta interfaz de usuario solo será visible cuando haya dos o más paneles abiertos.
+
+
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Se abordó un problema donde los enlaces externos no se actualizan cuando se cierra el libro de fuentes.
+
+### <a name="outlook"></a>Outlook
+
+- Se abordó un problema que causó que los usuarios vieran que el proceso de Outlook permanecía en el administrador de tareas después de salir.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2003-march-10"></a>Versión 2003: 10 de marzo
 *Versión 2003 (compilación 12624.20176)*
