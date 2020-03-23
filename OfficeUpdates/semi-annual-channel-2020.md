@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones del canal semianual de Office 365 ProPlus en 2020.
-ms.openlocfilehash: 534e73bc6da5a7ee6d8100a925f6f1ce3dfec82d
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: b4a6ef107e4bd4904192d4c6e6d100194b2948b9
+ms.sourcegitcommit: e2633701e5a00bd20a5f166e95fcb156461973ae
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615134"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "42890127"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Notas de la versión para las versiones de canal semianual en 2020
 
@@ -72,7 +72,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-1908-february-11"></a>Versión 1908: 11 de febrero
 *Versión 1908 (Compilación 11929.20606)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/es-ES/officeupdates/office365-proplus-security-updates)
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -105,7 +105,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/es-ES/o
 - Se ha corregido un problema que provocaba que los usuarios viesen bloqueos intermitentes al cambiar de vista.
 
 
-- Se ha corregido un problema que causaba que los usuarios sufrieran un error al visualizar más de 30 calendarios en un entorno Citrix. [Aquí](https://support.microsoft.com/es-ES/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen) está la KB individual, donde se ha documentado esto para versiones anteriores.
+- Se ha corregido un problema que causaba que los usuarios sufrieran un error al visualizar más de 30 calendarios en un entorno Citrix. [Aquí](https://support.microsoft.com/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen) está la KB individual, donde se ha documentado esto para versiones anteriores.
 
 - Corrige un problema que provocaba que los usuarios tuvieran problemas al intentar sincronizar carpetas del calendario compartido con el OST, lo que producía errores en los permisos al tratar de interactuar con estas carpetas.
 
@@ -140,7 +140,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/es-ES/o
 ## <a name="version-1902-february-11"></a>Versión 1902: 11 de febrero
 *Versión 1902 (Compilación 11328.20526)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/es-ES/officeupdates/office365-proplus-security-updates)
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -162,7 +162,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/es-ES/o
 ## <a name="version-1808-february-11"></a>Versión 1808: 11 de febrero
 *Versión 1808 (compilación 10730.20438)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/es-ES/officeupdates/office365-proplus-security-updates)
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 [//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
