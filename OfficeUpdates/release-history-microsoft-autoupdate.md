@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales informáticos un historial de versiones de Microsoft AutoUpdate (MAU).
-ms.openlocfilehash: b18b35e7e719669decac4b47b47a41595a5c127f
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: 0fc6e93f19abf0a8969879979b1e5aa5e7dc15ab
+ms.sourcegitcommit: e2633701e5a00bd20a5f166e95fcb156461973ae
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586497"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "42890117"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historial de versiones de Microsoft AutoUpdate (MAU)
  
@@ -47,7 +47,7 @@ Para ver las notas de la versión, consulte [Notas de la versión.](release-note
 <br/>
 **SHA-256 Hash:**
 
-46887320AD18BAA9239629A6CFDE83339EBCAA5562822FDFCFEA74D65D0D4FB6
+9AF2FAF4854BF06F33322A8530275F8D32965C91D446C45A0CD8BC4C5DF04F44
 <br/><br/>
 
 ## <a name="february-2020-release"></a>Versión de febrero de 2020
@@ -321,8 +321,8 @@ FF676870D5B3521202095810B85DEF36538B59E00AEA44A2ED0D7EA8B3B99D6C
 |11 de abril de 2017  <br/> |3.9  <br/> |[Notas de la versión](release-notes-office-for-mac.md#april-2017-release) <br/> |  <br/> |
 |16 de febrero de 2017  <br/> |3.8.4  <br/> |[Notas de la versión](release-notes-office-for-mac.md#february-2017-release) <br/> | <br/> |
 |11 de enero de 2017  <br/> |3.8.3  <br/> |[Notas de la versión](release-notes-office-for-mac.md#january-2017-release) <br/> | <br/> |
-|13 de diciembre de 2016  <br/> |3.8.2  <br/> |[Notas de la versión](release-notes-office-for-mac.md#december-2016-release) <br/> | <br/> |
-|15 de noviembre de 2016  <br/> |3.8.1  <br/> |[Notas de la versión](release-notes-office-for-mac.md#november-2016-release) <br/> | <br/> |
+|13 de diciembre de 2016  <br/> |3.8.2  <br/> | <br/> | <br/> |
+|15 de noviembre de 2016  <br/> |3.8.1  <br/> | <br/> | <br/> |
 |11 de octubre de 2016  <br/> |3.8.0  <br/> |[KB 3193438](https://support.microsoft.com/kb/3193438) <br/> | <br/> |
 |22 de agosto de 2016  <br/> |3.6.0  <br/> |[KB 3179163](https://support.microsoft.com/kb/3179163) <br/> | <br/> |
 |10 de mayo de 2016  <br/> |3.5.0  <br/> |[KB 3155777](https://support.microsoft.com/kb/3155777) <br/> | <br/> |
