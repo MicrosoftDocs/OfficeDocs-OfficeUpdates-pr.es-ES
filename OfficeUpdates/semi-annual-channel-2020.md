@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones del canal semianual de Office 365 ProPlus en 2020.
-ms.openlocfilehash: b4a6ef107e4bd4904192d4c6e6d100194b2948b9
-ms.sourcegitcommit: e2633701e5a00bd20a5f166e95fcb156461973ae
+ms.openlocfilehash: a38ca822b48a15c2f2765bda0545b23d0ea05309
+ms.sourcegitcommit: e3e5b778e6f50c47cab7212bb53247e948592fba
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "42890127"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42926308"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Notas de la versión para las versiones de canal semianual en 2020
 
@@ -23,7 +23,7 @@ En estas notas de la versión, se proporciona información sobre característica
 > [!NOTE]
 >
 >- A menudo publicamos características (y a veces incluso correcciones) para el Canal semianual durante un período de tiempo. Si no ve algo que se describe a continuación de inmediato, lo verá pronto. [Más información](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
->- OneNote 2016 no se incluirá de forma predeterminada cuando un usuario en el canal semianual descargue e instale Office 365 en Windows 10 desde el Portal de Office.
+>- OneNote 2016 ahora se incluirá de forma predeterminada cuando un usuario en el Canal semianual descargue e instale Office 365 en Windows 10 desde el Portal de Office.
 
 
 
