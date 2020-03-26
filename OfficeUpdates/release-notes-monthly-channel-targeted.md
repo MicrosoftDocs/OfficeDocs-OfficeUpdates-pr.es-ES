@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider Lento la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 7c4ab50059d5c0a0700caab507d58035a4a2c9e7
-ms.sourcegitcommit: f4e194fab33de686fb38450c3fd73cbfa2b9d4f9
+ms.openlocfilehash: 9a3e95424b71d1c5511de436b2747b1777463dcb
+ms.sourcegitcommit: e3e5b778e6f50c47cab7212bb53247e948592fba
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42706960"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42926311"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Las compilaciones de notas de la versión del canal mensual de Office (dirigido)
 
@@ -27,6 +27,30 @@ En este artículo hay notas de la versión para las compilaciones del canal mens
 [//]: # (NO ELIMINAR)
 
 [//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+## <a name="version-2003-march-23"></a>Versión 2003: 23 de marzo
+*Versión 2003 (compilación 12624.20296)*
+
+- Varias correcciones de errores y rendimiento.
+
+## <a name="version-2003-march-21"></a>Versión 2003: 21 de marzo
+*Versión 2003 (compilación 12624.20276)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="outlook"></a>Outlook
+
+- **Unirse a reuniones sin salir de la bandeja de entrada:** no es necesario cambiar al calendario para unirse a reuniones en línea. Con el Calendario de Outlook anclado en el panel de tareas pendientes, únase a una reunión con un solo clic.
+
+- **Actualización visual del calendario:** el año pasado, hemos incorporado una experiencia de correo actualizada y este año le toca al calendario tener una cara nueva. Las actualizaciones son recientes pero son familiares, para que, como usuario de Outlook veterano, pueda empezar a ser más productivo en seguida.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Actualización de las diapositivas durante la presentación:** actualice diapositivas editadas por otros autores durante la presentación.
+
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
