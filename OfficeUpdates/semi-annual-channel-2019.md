@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual de Office 365 ProPlus en 2019.
-ms.openlocfilehash: de069e864ee597379553958a3b839261ce13d04a
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: d94ed6de9109afbea9f4be9abb8625fb2eedc735
+ms.sourcegitcommit: 9e7fd0ee5eb91854508f3d09682dadd530e3a440
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615161"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959388"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal semianual en 2019
 
 En estas notas de la versión, se proporciona información sobre características nuevas y actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones del Canal semianual de Office 365 ProPlus 2019, Visio Pro para Office 365, el Cliente de escritorio de Project Online y Office 365 Empresa.
 
 > [!NOTE]
-> - A menudo publicamos características (y a veces incluso correcciones) para el Canal semianual durante un período de tiempo. Si no ve algo que se describe a continuación de inmediato, lo verá pronto. [Más información](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
+> - A menudo publicamos características (y a veces incluso correcciones) para el Canal semianual durante un período de tiempo. Si aún no ve alguna de las cosas que se describe a continuación, la verá pronto. [Más información](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 > - OneNote 2016 no se incluirá de forma predeterminada cuando un usuario en el canal semianual descargue e instale Office 365 en Windows 10 desde el Portal de Office.
 
 [//]: # (NO ELIMINAR LOS DETALLES DE ERROR DEL CONTENIDO FINAL)
@@ -129,7 +129,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 - Se ha solucionado un problema por el que los accesos directos del menú Inicio y las extensiones de archivo de Office desaparecían inesperadamente después de una actualización.
 - Para proteger la seguridad de los clientes de Office, las actualizaciones de Microsoft Office se firman ahora utilizando exclusivamente el algoritmo SHA-2.
 
-[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
 
 ## <a name="version-1808-november-12"></a>Versión 1808: 12 de noviembre
 *Versión 1808 (compilación 10730.20416)*
@@ -149,7 +149,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - Para proteger la seguridad de los clientes de Office, las actualizaciones de Microsoft Office se firman ahora utilizando exclusivamente el algoritmo SHA-2.
 
-[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
 
 ## <a name="version-1902-october-08"></a>Versión 1902: 8 de octubre
 *Versión 1902 (compilación 11328.20438)*
@@ -180,6 +180,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 [//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
 
 ## <a name="version-1808-october-08"></a>Versión 1808: 8 de octubre
+
 *Versión 1808 (compilación 10730.20386)*
 
 Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
@@ -476,7 +477,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ### <a name="word-non-security-updates"></a>Word: actualizaciones no relacionadas con la seguridad
  - Se ha corregido un problema por el que la edición de una Persona relacionada agregada por SharePoint podía bloquearse.
 
-### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones no relacionadas con la seguridad
+### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones no relacionadas con la seguridad
  - Se corrigió un problema de identificación del nombre de la nueva era "Reiwa" en Hiragana y Kanji como una expresión gramaticalmente incorrecta o mal escrita.
   
 ## <a name="version-1803-may-14"></a>Versión 1803: 14 de mayo
@@ -485,7 +486,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ### <a name="outlook-non-security-updates"></a>Outlook: actualizaciones no relacionadas con la seguridad
  - Se ha corregido un problema por el que los clientes no podían editar algunos campos de los elementos que se han migrado.
 
-### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones no relacionadas con la seguridad
+### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones no relacionadas con la seguridad
  - Se corrigió un problema de identificación del nombre de la nueva era "Reiwa" en Hiragana y Kanji como una expresión gramaticalmente incorrecta o mal escrita.
 
 ## <a name="version-1808-april-9"></a>Versión 1808: 9 de abril
@@ -695,7 +696,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 - Se ha corregido un problema que impedía guardar un subproyecto al trabajar en él en el contexto de un proyecto principal.
 
 ### <a name="word-feature-updates"></a>Word: actualizaciones de características
-- **El Autoguardado para archivos de nube ahora está habilitado de forma predeterminada:** con este cambio, los usuarios no tendrán que preocuparse por perder los cambios en los documentos almacenados en OneDrive o SharePoint Online. Los cambios se guardarán en la nube automáticamente y los usuarios no tendrán que presionar explícitamente Ctrl + S o el botón Guardar. Sin embargo, tendrán que comprender este cambio de comportamiento para que no realicen cambios accidentales en presentaciones. Tenga en cuenta que los usuarios pueden desactivar el Autoguardado con el botón de Autoguardado en la parte superior de la pantalla. Le recomendamos que notifique a los usuarios sobre este nuevo cambio y les instruya sobre cómo aprovechar mejor esta nueva característica de Office 365. [Más información sobre el Autoguardado](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) y [Más información sobre lo que los administradores de TI deben saber sobre el Autoguardado](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
+- **El Autoguardado para archivos de nube ahora está habilitado de forma predeterminada:** con este cambio, los usuarios no tendrán que preocuparse por perder los cambios en los documentos almacenados en OneDrive o SharePoint Online. Los cambios se guardarán en la nube automáticamente y los usuarios no tendrán que presionar explícitamente Ctrl + G o el botón Guardar. Sin embargo, tendrán que comprender este cambio de comportamiento para que no realicen cambios accidentales en presentaciones. Tenga en cuenta que los usuarios pueden desactivar el Autoguardado con el botón de Autoguardado en la parte superior de la pantalla. Le recomendamos que notifique a los usuarios sobre este nuevo cambio y les instruya sobre cómo aprovechar mejor esta nueva característica de Office 365. [Más información sobre el Autoguardado](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) y [Más información sobre lo que los administradores de TI deben saber sobre el Autoguardado](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
 - **Mejoras del Comprobador de accesibilidad:** el Comprobador de accesibilidad ha actualizado la asistencia técnica para las recomendaciones y normas internacionales para que los documentos sean más accesibles. [Más información](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 - **Compatibilidad con el formato SVG mejorada:** puede insertar imágenes SVG que tengan filtros aplicados. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
