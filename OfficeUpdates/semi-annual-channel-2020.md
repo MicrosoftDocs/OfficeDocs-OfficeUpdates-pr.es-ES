@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones del canal semianual de Office 365 ProPlus en 2020.
-ms.openlocfilehash: 972d3b9e94c15c60b44ab5fed06bc4eb20caf313
-ms.sourcegitcommit: 75fe62b67f652ff4a527e8bf674546ff5d14fc26
+ms.openlocfilehash: bfee11b418a3f35fb7ba2d293bbab60b4c42e240
+ms.sourcegitcommit: 251e261d62e807532414ad33904ddb58813867eb
 ms.translationtype: HT
 ms.contentlocale: es-ES
 ms.lasthandoff: 03/27/2020
-ms.locfileid: "42983900"
+ms.locfileid: "43024532"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Notas de la versión para las versiones de canal semianual en 2020
 
@@ -39,28 +39,28 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="excel"></a>Excel
 
-- <div><span>Se ha corregido un problema por el que algunos usuarios pueden haber visto varias ventanas emergentes cuando hubiera vínculos externos presentes en el libro.&nbsp;</span></div>
+- Se ha corregido un problema por el que algunos usuarios podían haber experimentado múltiples ventanas emergentes cuando los enlaces externos estaban presentes en el libro de trabajo.
 
 
-- <div><span style="display:inline !important;">La funcionalidad de Texto a columna puede fallar en algunas configuraciones regionales.</span><br></div>
+- La funcionalidad de Texto a columna puede fallar en algunas configuraciones regionales.
 
 
-- <div style="box-sizing:border-box;"><span style="box-sizing:border-box;">Es posible que los usuarios vean un error si acceden a un rango con nombre oculto.</span></div>
+- Los usuarios pueden encontrar un error al acceder a un rango con nombre oculto.
 
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- <div>Se ha corregido un problema con el método Shape.Paste: cuando el usuario copiaba y pegaba la forma con el &nbsp;método Shape.Paste&nbsp;<span style="font-size:13.3333px;display:inline !important;">, se cambiaba la selección a la forma pegada.</span></div>
+- Se ha corregido un problema con el método Shape.Paste: cuando el usuario copiaba y pegaba la forma con el método Shape.Paste, se cambiaba la selección a la forma pegada.
 
 
 ### <a name="word"></a>Word
 
-- <div>Corregido un problema ocasional en el que al guardar un archivo existente siempre aparece el cuadro de diálogo Guardar como, pero el archivo nunca se guarda.<br></div>
+- Corregido un problema ocasional en el que al guardar un archivo existente siempre aparece el cuadro de diálogo Guardar como, pero el archivo nunca se guarda.
 
 
 ### <a name="office-suite"></a>Conjunto de aplicaciones de Office
 
-- <div><span>Este cambio corrige el procesamiento lento de algunos gráficos de dispersión con marcadores.</span></div>
+- Este cambio corrige el procesamiento lento de algunos gráficos de dispersión con marcadores.
 
 ## <a name="version-1902-march-10"></a>Versión 1902: 10 de marzo
 *Versión 1902 (compilación 11328.20554)*

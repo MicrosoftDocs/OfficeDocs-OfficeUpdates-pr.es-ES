@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Office 365 ProPlus en 2020
-ms.openlocfilehash: 1bd7a4503aff8e0d9e946f8878339189c2c9b644
-ms.sourcegitcommit: 1735c163ca50f3802e4fd6696285b49a0f28001c
+ms.openlocfilehash: c976d6efb890e2a9245eb2d1730a8df520e733c5
+ms.sourcegitcommit: a406af1a6bfdd36158fe427159cf27c2c1dad902
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42953030"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030927"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Notas de la versión para las versiones de canal mensual en 2020
 
@@ -37,15 +37,16 @@ En estas notas de la versión, se proporciona información sobre característica
 
 - **Nueva experiencia para redes WiFi cautivas:** ¿alguna vez se ha unido a una red WiFi que requiere una página web para iniciar sesión? Outlook ahora lo detecta y le ayuda a estar conectado.
 
-
-
-
 ### <a name="word"></a>Word
 
 - **Otros usuarios verán los cambios rápidamente**: las mejoras en la coautoría significan que los colaboradores podrán ver los cambios más rápido que nunca.
 
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
 
-[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+- **Etiquetas de confidencialidad:** ahora puede aplicar una etiqueta de confidencialidad que su organización ha configurado para solicitarle permisos personalizados.
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
 <br/>
 

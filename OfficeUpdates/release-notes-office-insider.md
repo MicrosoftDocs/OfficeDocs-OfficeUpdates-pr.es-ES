@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: d9c7ef29b0384bb2f3be769beb59c9f16d9ea711
-ms.sourcegitcommit: e2633701e5a00bd20a5f166e95fcb156461973ae
+ms.openlocfilehash: 82db5c6be4e891c0d2a50532605409d296b6d571
+ms.sourcegitcommit: 973f5df717e5ed982ac91d5cc66bef6207618405
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "42890137"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43028261"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -26,6 +26,39 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 > - Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a partir de finales de junio, Microsoft Teams se incluirá en instalaciones existentes de Office 365 ProPlus (y Office 365 Empresa) a la hora de actualizar dichas instalaciones. La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
 
 [//]: # (NO ELIMINAR)
+
+## <a name="version-2004-march-27"></a>Versión 2004: 27 de marzo
+*Versión 2004 (compilación 12718.20010)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="outlook"></a>Outlook
+
+- **Nueva opción para desactivar la mención de sugerencias al escribir el correo: **¿Encuentra el selector de @ menciones más molesto que útil? Ahora puede apagarlo si lo prefiere.
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="outlook"></a>Outlook
+- Aborde un problema que hizo que el botón "Guardar en la nube" faltara en las herramientas de adjuntos.
+- Aborde un problema que hizo que los usuarios no pudieran agregar una firma al responder a un mensaje administrado con derechos digitales desde una ventana de inspección cuando el usuario no tiene permiso de propietario sobre el mensaje al que se responde.
+- Aborde un problema que hizo que los usuarios no pudieran agregar archivos adjuntos adicionales desde una ubicación web a una reunión creada previamente.
+
+### <a name="powerpoint"></a>PowerPoint
+- Este cambio corrige un error que podría causar que los archivos de PowerPoint que contienen emojis fallen al guardarlos.
+
+### <a name="project"></a>Project
+- Se ha solucionado un problema por el que si se ejecuta "Lista de valores de campos personalizados GetItem" y no existe una tabla de búsqueda para el campo personalizado, se crea una tabla de búsqueda vacía aunque no debería existir.
+
+### <a name="word"></a>Word
+- Este cambio corrige un problema con varias páginas seleccionadas en el menú Ver, donde el panel de comentarios podía mostrarse en blanco.
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2004-march-20"></a>Versión 2004: 20 de marzo
 *Versión 2004 (compilación 12711.20000)*
@@ -1793,7 +1826,7 @@ Busque documentos con actividad relevante recomendados para usted.
 - Se ha corregido un problema por el que se mostraba la plantilla y la descripción incorrecta al proteger un correo electrónico con una plantilla ad-hoc.
 
 ### <a name="access"></a>Access
-- Diversas correcciones de rendimiento y estabilidad.
+- Varias correcciones de rendimiento y estabilidad.
 
 ### <a name="project"></a>Project
 - Varias correcciones de rendimiento y estabilidad.
