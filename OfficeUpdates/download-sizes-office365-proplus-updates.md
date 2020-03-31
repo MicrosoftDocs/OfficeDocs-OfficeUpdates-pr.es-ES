@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Office 365 ProPlus según el canal de actualización.
-ms.openlocfilehash: 14bf6f3d1223d728a4c666cad103e017746fab8e
-ms.sourcegitcommit: 1735c163ca50f3802e4fd6696285b49a0f28001c
+ms.openlocfilehash: c1a9d8828d928a800fe3f1778fcfa429adc7dee0
+ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42953020"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43046105"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 
@@ -23,6 +23,14 @@ Cuando sea posible, queremos dar información sobre el tamaño de las actualizac
 En las siguientes tablas se muestran los tamaños de descarga aproximados de las actualizaciones desde versiones anteriores recientes de Office 365 ProPlus a la versión más reciente. Los tamaños de descarga reales pueden variar unos 50 MB como máximo. Si va a realizar la actualización desde una versión más antigua a la más actual, el tamaño de descarga podría ser mayor.
 
 Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal semianual, el tamaño de actualización será considerablemente mayor que el que se muestra en la tabla. Puede comportar una descarga completa, que podría ser de un 1 GB o más.
+
+
+> [!IMPORTANT]
+> El nombre de Office 365 ProPlus cambia a **Microsoft 365 Apps para empresa** Para obtener más información sobre este cambio de nombre, [lea esta entrada de blog](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
+>
+> Para saber más sobre cuándo surte efecto este cambio y las acciones que los administradores podrían tener que llevar a cabo, [lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2123420).
+
+
 
 > [!NOTE]
 > - El tamaño de descarga aproximado que aparece en las tablas solo se aplica a la versión en inglés de Estados Unidos x64 de Office 365 ProPlus.

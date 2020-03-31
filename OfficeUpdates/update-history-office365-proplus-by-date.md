@@ -9,16 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista completa de las versiones de Office 365 ProPlus, organizada por fecha, con vínculos a las notas de la versión.
-ms.openlocfilehash: 3390ed2aaf7be5b1676c3bb373ce51082b89b374
-ms.sourcegitcommit: 9e7fd0ee5eb91854508f3d09682dadd530e3a440
+ms.openlocfilehash: 34802aa3e76bf9db7e0a44b8baa6844445598da8
+ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42959368"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43046135"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Historial de actualizaciones de Office 365 ProPlus (ordenado por fecha)
 
-Office 365 ProPlus se actualiza periódicamente con nuevas características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad. Estas actualizaciones se publican usando [canales de actualización](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus). Cada versión de cada canal de actualización tiene asignado un número de versión y compilación. 
+Office 365 ProPlus se actualiza periódicamente con nuevas características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad. Estas actualizaciones se publican usando [canales de actualización](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus). Cada versión de cada canal de actualización tiene asignado un número de versión y compilación.
+
+
+> [!IMPORTANT]
+> El nombre de Office 365 ProPlus cambia a **Microsoft 365 Apps para empresa** Para obtener más información sobre este cambio de nombre, [lea esta entrada de blog](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
+>
+> Para saber más sobre cuándo surte efecto este cambio y las acciones que los administradores podrían tener que llevar a cabo, [lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2123420).
+
+
 
 > [!NOTE]
 > - Estos números de versión y de compilación también son válidos para Office 365 Empresa, Visio Pro para Office 365 y Cliente de escritorio de Project Online. Office 365 Empresa es la versión de Office que se incluye con algunos planes de Office 365, como Empresa Premium.
