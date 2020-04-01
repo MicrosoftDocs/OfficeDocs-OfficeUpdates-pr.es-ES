@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Office 365 ProPlus en 2020
-ms.openlocfilehash: c976d6efb890e2a9245eb2d1730a8df520e733c5
-ms.sourcegitcommit: a406af1a6bfdd36158fe427159cf27c2c1dad902
+ms.openlocfilehash: 1ad39564413906ae45b977b57c7336f19b15e1f9
+ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43030927"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43081791"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Notas de la versión para las versiones de canal mensual en 2020
 
@@ -24,6 +24,28 @@ En estas notas de la versión, se proporciona información sobre característica
 >
 >- A menudo distribuimos características (y a veces incluso correcciones) para el Canal mensual durante un período de tiempo.  Si no ve algo que se describe a continuación de inmediato, lo verá pronto. [Más información](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a comienzos de julio, las actualizaciones de Office 365 ProPlus (y Office 365 Empresa) incluirán Microsoft Teams.  La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
+
+## <a name="version-2003-march-31"></a>Versión 2003: 31 de marzo
+*Versión 2003 (compilación 12624.20382)*
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="onenote"></a>OneNote
+
+- Se obtiene una mejora de la sincronización y la estabilidad del servidor al deshabilitar temporalmente el desplazamiento de páginas a la papelera de reciclaje. A los usuarios que quieran eliminar una página se mostrará un cuadro de diálogo en el que se le preguntará si quieren eliminar una página de forma permanente.
+
+- Informe a los usuarios mediante la barra de información sobre los ajustes temporales de Microsoft OneNote que le ayudarán a mejorar la sincronización y la disponibilidad del servicio durante el alto uso en todo el mundo.
+
+- Se obtiene una mejora de la sincronización y la estabilidad del servicio al alterar temporalmente la frecuencia con la que se crean los historiales de las versiones de las páginas.
+
+### <a name="project"></a>Project
+
+- Se corrigió un problema por el que el usuario no podía especificar el trabajo previsto con fases temporales al activar la configuración para proteger el trabajo real.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2003-march-25"></a>Versión 2003: 25 de marzo
 *Versión 2003 (compilación 12624.20320)*
@@ -61,11 +83,17 @@ En estas notas de la versión, se proporciona información sobre característica
 
 - Corregido un problema de rendimiento al crear gráficos a partir de plantillas.
 
+### <a name="onenote"></a>OneNote
+
+- Se obtiene una mejora de la sincronización y la estabilidad del servicio al reducir temporalmente el tamaño máximo de datos adjuntos recién insertados a 50 MB. Si los archivos superan este límite, los usuarios tendrán la opción de cargar el archivo a OneDrive e insertar un vínculo en OneNote.
+
+- Se obtiene una mejora de la sincronización y la estabilidad del servicio al deshabilitar temporalmente la grabación de vídeo en la aplicación en OneNote 2016. La medida no afecta a los blocs de notas locales.
+
+- Se obtiene una mejora de la sincronización y la estabilidad del servicio al ajustar temporalmente la frecuencia de sincronización en OneNote 2016.
 
 ### <a name="outlook"></a>Outlook
 
 - Se abordó un problema que causó que los usuarios vieran que el proceso de Outlook permanecía en el administrador de tareas después de salir.
-
 
 ### <a name="powerpoint"></a>PowerPoint
 
