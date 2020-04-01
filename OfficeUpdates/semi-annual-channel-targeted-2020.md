@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones del canal semianual (dirigido) de Office 365 ProPlus en 2020.
-ms.openlocfilehash: 3015dec03cba319ffeaa8a97794b5236ffd6c879
-ms.sourcegitcommit: 2a7fa66d0cc399e8ae5d824dab7b84a460cc2c9f
+ms.openlocfilehash: ee3fac9129ce3c5819340c2a51a6fe33e4965166
+ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42982509"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43081802"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>Notas de la versión para las versiones del canal semianual (dirigido) en 2020
 
@@ -65,13 +65,11 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Guarde formas como imágenes:** con tan solo unos pocos clics, guarde una forma, icono u otro objeto como archivo de imagen para que pueda volver a usarlo en otro lugar. [Más información](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
-- **Buscar y disfrutar:** hemos agregado una búsqueda para insertar iconos que hacen que sea más fácil encontrar el icono que desea. Y, mientras hace la selección, el botón Insertar le indica cuántos ha elegido. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
 
 ### <a name="outlook"></a>Outlook
 
 
-
-- **Mejora de las experiencias con o sin la Bandeja de entrada Prioritarios:** para los clientes que no usen la Bandeja de entrada Prioritarios, hemos vuelto a implementar la pestaña de no leídos en la lista de mensajes en todas las carpetas. También hemos agregado una ordenación por marca para que sea más fácil encontrar los elementos marcados. Por último, la Bandeja de entrada tiene un modelo de interacción mejor con la búsqueda: la bandeja de entrada Prioritarios permanece hasta que se inicia la búsqueda y se muestra el texto "Resultados" cuando se completa una búsqueda.
 
 - **Conecte su red de LinkedIn con Outlook:** Conecte de forma segura su cuenta de LinkedIn con su cuenta de Microsoft para ver la información de los perfiles de LinkedIn directamente en las tarjetas personales. [Más información](https://support.office.com/article/98253fdc-a3c2-47e4-8852-ebb4fbed0bc5)
 
@@ -80,8 +78,6 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 - **Insertar el menú de vínculos en Outlook inserta un vínculo con el permiso definido por el administrador de inquilinos:** un vínculo desde Insertar vínculo utilizado recientemente en Outlook insertaba un vínculo que solo funcionaba para los usuarios que ya tenían permisos. A menudo esto causaba un intercambio continuo de mensajes de correo electrónico entre los usuarios que pedían acceso a un documento. Hemos actualizado esta experiencia para que ahora el vínculo se inserte con el permiso predeterminado establecido por el administrador de inquilinos. Para MSIT se trata de "la organización puede editar", por lo que todos los usuarios internos que reciban un vínculo compartido de esta manera podrán acceder a él.
 
 - **Busque incluso con errores ortográficos o tipográficos:** Outlook encontrará lo que busca, aunque no coincida con la forma exacta en que lo escribió.
-
-- **La ventana Ponerse en contacto con soporte técnico ya es acoplable:** ahora encontrará la ventana Ponerse en contacto con soporte técnico acoplada en un panel en la parte derecha de la pantalla.
 
 - **Más iconos para que encuentre el que refleja su estado de ánimo:** hemos agregado más de 300 iconos nuevos. Encuéntrelos en Insertar > Iconos. [Más información](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
@@ -99,7 +95,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Ver los mensajes bajo otra luz:** use el botón sol/luna para cambiar entre fondos claros y oscuros en el panel de lectura. [Más información](https://support.office.com/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
 
-- **Buscar y disfrutar:** hemos agregado una búsqueda para insertar iconos que hacen que sea más fácil encontrar el icono que desea. Y, mientras hace la selección, el botón Insertar le indica cuántos ha elegido. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -138,8 +134,6 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 - **Convertir los archivos para mejorar la accesibilidad**: actualice los archivos al formato moderno para que sean más accesibles para todos los usuarios.
 
 - **Una experiencia de vídeo más segura:** las mejoras de seguridad hacen que la experiencia de vídeo en línea sea más segura.
-
-- **Buscar y disfrutar:** hemos agregado una búsqueda para insertar iconos que hacen que sea más fácil encontrar el icono que desea. Y, mientras hace la selección, el botón Insertar le indica cuántos ha elegido. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 - **¿Para que reinventar lo que puede reutilizar?:** ahorre tiempo usando de nuevo las diapositivas que haya creado o que otros usuarios han compartido con usted. [Más información](https://support.office.com/article/4772661f-ced0-446b-bb28-878dfa8c23f1)
 
@@ -195,11 +189,6 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Guarde formas como imágenes:** con tan solo unos pocos clics, guarde una forma, icono u otro objeto como archivo de imagen para que pueda volver a usarlo en otro lugar. [Más información](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
-- **Buscar y disfrutar:** hemos agregado una búsqueda para insertar iconos que hacen que sea más fácil encontrar el icono que desea. Y, mientras hace la selección, el botón Insertar le indica cuántos ha elegido. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
-
-### <a name="office-suite"></a>Conjunto de aplicaciones de Office
-
-- **Panel de Novedades: ** La experiencia de Novedades ha pasado al Panel Ayuda, para que pueda obtener acceso a ellas más fácilmente y así mantenerse al día con las últimas actualizaciones.
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
