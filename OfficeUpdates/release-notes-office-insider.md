@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 82db5c6be4e891c0d2a50532605409d296b6d571
-ms.sourcegitcommit: 973f5df717e5ed982ac91d5cc66bef6207618405
+ms.openlocfilehash: 4bfa4d71cd6f4170f56df5b159c747b59e4da74d
+ms.sourcegitcommit: 48ebf0ac6da9e208ff6242200d07013ea3c12dad
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43028261"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43131108"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -26,6 +26,8 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 > - Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a partir de finales de junio, Microsoft Teams se incluirá en instalaciones existentes de Office 365 ProPlus (y Office 365 Empresa) a la hora de actualizar dichas instalaciones. La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
 
 [//]: # (NO ELIMINAR)
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2004-march-27"></a>Versión 2004: 27 de marzo
 *Versión 2004 (compilación 12718.20010)*
@@ -1826,7 +1828,7 @@ Busque documentos con actividad relevante recomendados para usted.
 - Se ha corregido un problema por el que se mostraba la plantilla y la descripción incorrecta al proteger un correo electrónico con una plantilla ad-hoc.
 
 ### <a name="access"></a>Access
-- Varias correcciones de rendimiento y estabilidad.
+- Diversas correcciones de rendimiento y estabilidad.
 
 ### <a name="project"></a>Project
 - Varias correcciones de rendimiento y estabilidad.
