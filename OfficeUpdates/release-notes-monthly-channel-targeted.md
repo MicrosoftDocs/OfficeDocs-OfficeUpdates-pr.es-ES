@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider Lento la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 5b3cc2b72424536ec294fe9881bab82d16a5bb11
-ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
+ms.openlocfilehash: 5fd3eca4e49313af7695271afaccb46f65b7cb0c
+ms.sourcegitcommit: e00aa46a0fb912d45254988ddc5da9fa44850522
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43076283"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "43150978"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Las compilaciones de notas de la versión del canal mensual de Office (dirigido)
 
@@ -29,6 +29,32 @@ En este artículo hay notas de la versión para las compilaciones del canal mens
 [//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+## <a name="version-2003-april-03"></a>Versión 2003: 03 de abril
+*Versión 2003 (Compilación 12624.20410)*
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- El uso de la Aplicación VBA.Evaluar no trabajaba para las funciones definidas por el usuario en algunos casos.
+
+### <a name="outlook"></a>Outlook
+
+- Abordó un problema que causó que los usuarios experimentaran ocasionalmente un choque al usar el botón "X" de su ratón.
+
+### <a name="project"></a>Project
+
+- Cuando se editan los datos del Predecesor/Sucesor dentro de una vista de formulario, se dispara un ProyectoAntesdeCambiarTareaEvento extra.
+
+### <a name="word"></a>Word
+
+- Abordó un problema que causó que los usuarios experimentaran ocasionalmente un choque al usar el botón "X" de su ratón.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2003-march-31"></a>Versión 2003: 31 de marzo
 *Versión 2003 (compilación 12624.20382)*
