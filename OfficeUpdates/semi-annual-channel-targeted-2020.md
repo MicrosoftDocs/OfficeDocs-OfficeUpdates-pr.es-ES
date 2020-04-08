@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones del canal semianual (dirigido) de Office 365 ProPlus en 2020.
-ms.openlocfilehash: ee3fac9129ce3c5819340c2a51a6fe33e4965166
-ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
+ms.openlocfilehash: 85a1bba4afd5478275a1330cd4ad59f67ee6f99b
+ms.sourcegitcommit: cebd1b7ebdaa9ee8c7fcd4b23c84b6fe931f08d2
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43081802"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "43159842"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>Notas de la versión para las versiones del canal semianual (dirigido) en 2020
 
@@ -43,7 +43,6 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Encuentre lo que busca:** Realice búsquedas de comandos, personas, archivos, fotos, artículos en la web y más. [Más información](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
-- **Más iconos para que encuentre el que refleja su estado de ánimo:** hemos agregado más de 300 iconos nuevos. Encuéntrelos en Insertar > Iconos. [Más información](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
 - **Un toque humano**: dé un aspecto informal y de dibujado a mano a las formas de Office en su libro. [Más información](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
@@ -79,8 +78,6 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Busque incluso con errores ortográficos o tipográficos:** Outlook encontrará lo que busca, aunque no coincida con la forma exacta en que lo escribió.
 
-- **Más iconos para que encuentre el que refleja su estado de ánimo:** hemos agregado más de 300 iconos nuevos. Encuéntrelos en Insertar > Iconos. [Más información](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
-
 - **Ahora es más fácil detectar correos de suplantación de identidad:** los mensajes de correo no deseado y de suplantación de identidad tienen un aspecto diferente para que pueda identificarlos y eliminarlos fácilmente en la bandeja de entrada.
 
 - **Protección avanzada frente a ataques**: con la Protección contra amenazas avanzada de Office 365, estará protegido frente a ataques mediante hipervínculos en asuntos de correos electrónicos, mensajes adjuntos, mensajes firmados, rutas de red, etc.
@@ -103,7 +100,6 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Nuevas herramientas de revisión:** no se preocupe de las palabras. Ahora en PowerPoint se ofrecen sugerencias de gramática y escritura. [Más información](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
 
-- **Ver el número de diapositiva en documentos impresos:** agregue el número de diapositiva a la copia impresa de los documentos.
 
 - **Transcripción y subtítulos en directo:** las palabras del moderador se muestran automáticamente en la pantalla como subtítulos o se traducen en el idioma que prefiera. [Más información](https://support.office.com/article/68d20e49-aec3-456a-939d-34a79e8ddd5f)
 
@@ -111,7 +107,6 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Encuentre lo que busca:** use el cuadro de búsqueda para buscar texto, comandos, ayuda y mucho más. [Más información](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
-- **Más iconos para que encuentre el que refleja su estado de ánimo:** hemos agregado más de 300 iconos nuevos. Encuéntrelos en Insertar > Iconos. [Más información](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
 - **Encuentre los títulos de diapositivas que faltan y escríbalos**: los títulos de diapositivas añaden fuerza a su discurso y permiten que las diapositivas sean accesibles para los usuarios de todas las capacidades. El comprobador de accesibilidad le muestra dónde faltan títulos para que pueda agregarlos en el momento. [Más información](https://support.office.com/article/c5286802-495a-4b47-a8ae-212fb8a7dc74)
 
@@ -148,8 +143,6 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 - **Cree diagramas de Visio elegantes en Excel:** cree un diagrama de flujo o un organigrama con solo escribir datos en una hoja de cálculo. [Más información](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="word"></a>Word
-
-- **Conversor del Editor de ecuaciones de Microsoft:** el conversor permite a los usuarios convertir las ecuaciones creadas con el Editor de ecuaciones de Microsoft en el formato ML de Office Math para habilitar la edición.
 
 - **El Editor para currículum vítae incorpora el Asistente para currículum vítae de LinkedIn:** el Editor para currículum vítae ofrece una selección de comprobaciones gramaticales y de estilo especialmente adaptadas a los currículums, para que el texto sea más preciso y profesional.
 
