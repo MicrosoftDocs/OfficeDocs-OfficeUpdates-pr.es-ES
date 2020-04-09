@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI vínculos a la información de las últimas actualizaciones no relacionadas con la seguridad de las versiones perpetuas de Office 2016, Office 2013 y Office 2010.
-ms.openlocfilehash: cce53954fcf4d28f6f77f8d17966be69bf33ab94
-ms.sourcegitcommit: 6d822269cc24b803dce007a19c5600c1921d110a
+ms.openlocfilehash: 39c7da6800f60a66963a559177fe96b4cba43a22
+ms.sourcegitcommit: 4e0b36a59f36fb89207483ba9fd811c6feeef0f1
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42403829"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "43170240"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Últimas actualizaciones no relacionadas con la seguridad para las versiones de Office que usan Windows Installer (MSI)
 
@@ -25,6 +25,16 @@ Esta página enumera las actualizaciones de Office no relacionadas con la seguri
 > - La información de este artículo no se aplica a las versiones de Office 365 de Office, como Office 365 ProPlus.
 > - Para obtener más información sobre la instalación de actualizaciones de Office, vea [Instalación de actualizaciones de Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
+
+## <a name="april-7-2020"></a>7 de abril de 2020
+
+**Office 2016**<br/>
+Actualización de Microsoft Office 2016 ([KB4484101](https://support.microsoft.com/help/4484101))<br/>
+Actualización de Microsoft Office 2016 ([KB4484106](https://support.microsoft.com/help/4484106))<br/>
+Actualización de Microsoft Office 2016 ([KB4484248](https://support.microsoft.com/help/4484248))<br/>
+Actualización de Microsoft OneNote 2016 ([KB4475586](https://support.microsoft.com/help/4475586))<br/>
+Actualización de Skype Empresarial 2016 ([KB4484286](https://support.microsoft.com/help/4484286)) <br/>
+
 
 ## <a name="march-3-2020"></a>3 de marzo de 2020
 
@@ -76,21 +86,3 @@ Actualización de Microsoft Office 2016 ([KB4484145](https://support.microsoft.c
 Actualización de Microsoft Outlook 2016 ([KB4484139](https://support.microsoft.com/help/4484139)) <br/>
 Actualización de Microsoft PowerPoint 2016 ([KB4484134](https://support.microsoft.com/help/4484134)) <br/>
 Actualización de Microsoft Word 2016 ([KB4484135](https://support.microsoft.com/help/4484135)) <br/>
-
-## <a name="october-1-2019"></a>1 de octubre de 2019
-
-**Office 2016**<br/>
-Actualización de Microsoft Office 2016 ([KB4475585](https://support.microsoft.com/help/4475585)) <br/> Actualización de Microsoft Office 2016 ([KB4484114](https://support.microsoft.com/help/4484114)) <br/>
-Actualización del paquete de interfaz de idiomas de Microsoft Office 2016 ([KB4475582](https://support.microsoft.com/help/4475582))<br/>
-Actualización de Microsoft Outlook 2016 ([KB4484107](https://support.microsoft.com/help/4484107)) <br/>
-Actualización de Microsoft PowerPoint 2016 ([KB4475578](https://support.microsoft.com/help/4475578)) <br/>
-Actualización de Microsoft Project 2016 ([KB4484116](https://support.microsoft.com/help/4484116)) <br/>
-Actualización de Microsoft Word 2016 ([KB4484105](https://support.microsoft.com/help/4484105)) <br/>
-Actualización de Skype Empresarial 2016 ([KB4484102](https://support.microsoft.com/help/4484102)) <br/>
-
-**Office 2013**<br/>
-Actualización de Microsoft Outlook 2013 ([KB4484096](https://support.microsoft.com/help/4484096))<br/>
-
-**Office 2010**<br/>
-Actualización de Microsoft Outlook 2010 ([KB4475604](https://support.microsoft.com/help/4475604))<br/><br/>
-

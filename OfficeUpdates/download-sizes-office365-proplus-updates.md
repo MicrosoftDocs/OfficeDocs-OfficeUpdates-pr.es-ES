@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Office 365 ProPlus según el canal de actualización.
-ms.openlocfilehash: e09cf62186fc223897d1c57ac4f54d7749712821
-ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
+ms.openlocfilehash: 7b84c3a897b1bc9e3ca3d2150d49b12fdeab4558
+ms.sourcegitcommit: 4e0b36a59f36fb89207483ba9fd811c6feeef0f1
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43076253"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "43170250"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 
@@ -38,7 +38,33 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 
 [//]: # (NO ELIMINAR)
 
-## <a name="march-31-2020"></a>Marzo de 31, 2020
+## <a name="april-7-2020"></a>7 de abril de 2020
+
+[//]: # (NO ELIMINAR INICIO DE CONTENIDO DE PREVISIÓN)
+
+### <a name="semi-annual-channel"></a>Canal semianual
+
+<i>La versión prevista es la versión 1908 (compilación 11929.20708).</i>
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1908 (compilación 11929.20648) <br/> |10 de marzo de 2020 <br/> |72<br/> |
+|Versión 1908 (Compilación 11929.20606) <br/> |11 de febrero de 2020 <br/> |82<br/> |
+
+
+### <a name="semi-annual-targeted-channel"></a>Canal semianual (dirigido)
+
+<i>La versión prevista es la versión 2002 (compilación 12527.20442).</i>
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 2002 (compilación 12527.20278) <br/> |10 de marzo de 2020 <br/> |78<br/> |
+|Versión 1908 (Compilación 11929.20606) <br/> |11 de febrero de 2020 <br/> |290<br/> |
+
+
+[//]: # (NO ELIMINAR FIN DE CONTENIDO DE PREVISIÓN)
+
+## <a name="march-31-2020"></a>31 de marzo de 2020
 
 [//]: # (NO ELIMINAR EL CONTENIDO INICIAL 31 de marzo de 2020)
 
