@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones del canal semianual de Office 365 ProPlus en 2020.
-ms.openlocfilehash: ebcf5fde37793b290e5c8fff1e33462a207c3a55
-ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
+ms.openlocfilehash: 0f6b473a8c72cd5b85f28572ad6fa53463282617
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43076282"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521028"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Notas de la versión para las versiones de canal semianual en 2020
 
@@ -27,6 +27,46 @@ En estas notas de la versión, se proporciona información sobre característica
 
 
 
+## <a name="version-1908-april-14"></a>Versión 1908: 14 de abril
+*Versión 1908 (compilación 11929.20708)*
+
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema que provocaba un rendimiento lento al eliminar columnas que contenían celdas combinadas.
+
+- Se ha corregido un problema con la escala de texto en los controles de formulario cuando se mostraba la Vista previa de impresión.
+
+### <a name="skype"></a>Skype
+
+- Se ha corregido el nombre del título de la conversación con pestañas mientras se mantenía más de una conversación.
+
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema que provocaba que los usuarios experimentaran un bloqueo al cerrar Outlook.
+
+- Se ha corregido un problema que provocaba que los clientes vieran una lista de salas vacías en algunos escenarios.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha corregido un problema con el marcador de resaltado: los textos blancos con un marcador oscuro se imprimen como negros en escala de grises.
+
+### <a name="word"></a>Word
+
+- Se ha corregido un problema al Ajustar texto en la tabla.
+
+
+## <a name="version-1902-april-14"></a>Versión 1902: 14 de abril
+*Versión 1902 (compilación 11328.20564)*
+
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-1908-march-10"></a>Versión 1908: 10 de marzo
 *Versión 1908 (compilación 11929.20648)*

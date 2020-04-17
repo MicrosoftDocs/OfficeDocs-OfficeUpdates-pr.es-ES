@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones del canal semianual (dirigido) de Office 365 ProPlus en 2020.
-ms.openlocfilehash: 85a1bba4afd5478275a1330cd4ad59f67ee6f99b
-ms.sourcegitcommit: cebd1b7ebdaa9ee8c7fcd4b23c84b6fe931f08d2
+ms.openlocfilehash: b6ead1e881f7cc860e65285efbc2a0326839bba0
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43159842"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521378"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>Notas de la versión para las versiones del canal semianual (dirigido) en 2020
 
@@ -24,6 +24,75 @@ En estas notas de la versión, se proporciona información sobre característica
 >
 > - A menudo publicamos características (y a veces incluso correcciones) para el Canal semianual (dirigido) durante un período de tiempo. Si no ve algo que se describe a continuación de inmediato, lo verá pronto. [Más información](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - Microsoft Teams está incluido en las nuevas instalaciones de canal semianual (dirigido), empezando por la versión 1902. Se agregará Teams a las instalaciones existentes de canal semianual (dirigido) cuando se actualicen a la versión 1908 o posterior. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
+
+## <a name="version-2002-april-14"></a>Versión 2002: 14 de abril
+*Versión 2002 (compilación 12527.20442)*
+
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- Escriba una fórmula que devuelva varios valores: escriba rápidamente una fórmula que devuelva múltiples valores y se depositarán automáticamente en las celdas vecinas. [Más información](https://support.microsoft.com/en-us/office/new-array-functions-003df6c7-1dcb-4388-8e2e-0fe77a0887bc?ui=en-us&rs=en-us&ad=us)
+- Seis potentes funciones: hemos agregado seis nuevas funciones para mejorar las hojas de cálculo: FILTRAR, ORDENAR, ORDENARPOR, UNICOS, SECUENCIA y MATRIZALEAT.  [Más información](https://support.microsoft.com/en-us/office/easier-array-formulas-5c2c9cbb-def8-409a-b380-2fbf91b20aa3?ui=en-us&rs=en-us&ad=us)
+- Buscar a la izquierda, buscar a la derecha... BUSCARX ya está aquí: fila por fila, busque lo que necesite en una tabla o un rango con BUSCARX.  [Más información](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Excel se bloqueaba en ciertos casos cuando se volvía a abrir un libro incrustado en Word o PowerPoint.
+
+- Cuando guarda como un archivo CSV, Excel podía combinar todas las columnas en una sola columna en algunos casos.
+
+- Usar Range.ClearContents en un rango de una hoja protegida podía tardar más de lo esperado.
+
+- Corregido un problema con la escala de texto en los controles de formulario cuando se mostraba en la Vista previa de impresión.
+
+- Las macros de VBA que interactúan con la cinta de opciones se pueden ejecutar con ScreenUpdating establecido en True inesperadamente.
+
+- Corregido un problema por el que los enlaces externos no se actualizaban al rellenar (rellenad hacia abajo, rellenar en otros, etc.) si el libro de origen estaba cerrado.
+
+- El uso de Application.Evaluate de VBA no funcionaba para funciones definidas por el usuario en algunos casos.
+
+- Corregido un problema de rendimiento al crear gráficos a partir de plantillas.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corregido un problema que hacía que el encabezado de grupo se expandiera de forma inesperada en algunos escenarios.
+
+- Corregido un problema que provocaba que los usuarios experimentaran un bloqueo al seleccionar determinados resultados de búsqueda.
+
+- Corregido un problema que causaba que los usuarios experimentaran ocasionalmente un bloqueo al usar el botón X de su ratón.
+
+- Corregido un problema que hacía que el botón Guardar en la nube faltara en las Herramientas de datos adjuntos.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha mejorado un escenario de copiar y pegar: al copiar la forma en una diapositiva de PowerPoint y pegarla en otra diapositiva en bucle puede producir errores.
+
+
+### <a name="project"></a>Proyecto
+
+- Corregido un problema por el que Project puede bloquearse al guardar proyectos creados con versiones anteriores de Project.
+
+- Corregido un problema que hace que el evento ProjectBeforeTaskChange no detecte cuándo se ha desactivado o activado una tarea mediante el botón Desactivar.
+
+### <a name="word"></a>Word
+
+- Corregido un problema que causaba que los usuarios experimentaran ocasionalmente un bloqueo al usar el botón X de su ratón.
+
+- Corregido un problema con el ajuste de texto en una tabla.
+
+- Corregido un problema donde al insertar líneas horizontales no eran más cortas ni centradas.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2002-march-10"></a>Versión 2002: 10 de marzo
 *Versión 2002 (compilación 12527.20278)*
@@ -177,8 +246,6 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 - **Convertir los archivos para mejorar la accesibilidad**: Actualice los archivos al formato moderno para que sean más accesibles para todos los usuarios.
 
 - **Una experiencia de vídeo más segura:** las mejoras de seguridad hacen que la experiencia de vídeo en línea sea más segura. [Más información](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
-
-- **¿Quién está trabajando conmigo?:** vea fácilmente quién trabaja con usted y en qué parte de la hoja de cálculo, documento o presentación se encuentran.
 
 - **Guarde formas como imágenes:** con tan solo unos pocos clics, guarde una forma, icono u otro objeto como archivo de imagen para que pueda volver a usarlo en otro lugar. [Más información](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 

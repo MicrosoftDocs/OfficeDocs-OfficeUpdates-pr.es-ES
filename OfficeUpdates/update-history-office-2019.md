@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI un historial de actualizaciones para las versiones permanentes de Office 2016 y Office 2019 que usan Hacer clic y ejecutar.
-ms.openlocfilehash: 9c206097e0e0a82b3caacbc464be0a1d761ce177
-ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
+ms.openlocfilehash: 80b3a12f538adba30b2cb73871205325da41018a
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43081772"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521368"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Historial de actualizaciones para la versión de Hacer clic y ejecutar de Office 2016 y Office 2019
 
@@ -38,12 +38,13 @@ La siguiente información se aplica a las versiones de licencia por volumen de O
 
 |**Fecha de publicación**|**Número de versión**|**Más información**|
 |:-----|:-----|:-----|
+|14 de abril de 2020   |Versión 1808 (compilación 10358.20061)  |[CVE-2020-0760](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0760) <br/> [CVE-2020-0906](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0906) <br/> [CVE-2020-0961](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0961) <br/> [CVE-2020-0980](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0980) <br/>[CVE-2020-0991](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0991) <br/> |
 |10 de marzo de 2020   |Versión 1808 (compilación 10357.20081)  |[CVE-2020-0850](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0850) <br/> [CVE-2020-0852](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0852) <br/> [CVE-2020-0892](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0892) <br/>  |
 |11 de febrero de 2020   |Versión 1808 (compilación 10356.20006)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0759) <br/>  |
 |14 de enero de 2020   |Versión 1808 (compilación 10354.20022)  |[CVE-2020-0650](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0650) <br/> [CVE-2020-0651](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0651) <br/> [CVE-2020-0652](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0652) <br/>  |
 |10 de diciembre de 2019   |Versión 1808 (compilación 10353.20037)  |[CVE-2019-1400](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-1400) <br/> [CVE-2019-1461](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-1461) <br/> [CVE-2019-1462](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-1462) <br/> [CVE-2019-1463](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-1463) <br/> [CVE-2019-1464](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-1464) <br/> |
 |12 de noviembre de 2019   |Versión 1808 (compilación 10352.20042)  |[CVE-2019-1402](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-1402) <br/> [CVE-2019-1446](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-1446) <br/> [CVE-2019-1448](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-1448) <br/> [CVE-2019-1449](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-1449) <br/>  |
-|8 de octubre de 2019   |Versión 1808 (compilación 10351.20054)  |[CVE-2019-1327](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-1327) <br/> [CVE-2019-1331](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-1331) <br/> |
+
 
 
 
@@ -59,6 +60,8 @@ La siguiente información se aplica a las versiones comerciales de Hacer clic y 
 
 |**Fecha de publicación**|**Número de versión**|**Más información**|
 |:-----|:-----|:-----|
+|15 de abril de 2020|Versión 2003 (compilación 12624.20466)  |Varias correcciones de errores y de rendimiento. <br/>  |
+|14 de abril de 2020|Versión 2003 (compilación 12624.20442)  |[CVE-2020-0760](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0760) <br/> [CVE-2020-0906](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0906) <br/> [CVE-2020-0961](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0961) <br/> [CVE-2020-0979](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0979) <br/> [CVE-2020-0980](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0980) <br/>[CVE-2020-0991](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0991) <br/> |
 |31 de marzo de 2020|Versión 2003 (compilación 12624.20382)  |Varias correcciones de errores y de rendimiento. <br/>  |
 |25 de marzo de 2020|Versión 2003 (compilación 12624.20320)  |Varias correcciones de errores y de rendimiento. <br/>  |
 |10 de marzo de 2020|Versión 2002 (compilación 12527.20278)  |[CVE-2020-0850](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0850) <br/> [CVE-2020-0851](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0851) <br/> [CVE-2020-0855](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0855) <br/> [CVE-2020-0892](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0892) <br/>  |
@@ -73,7 +76,7 @@ La siguiente información se aplica a las versiones comerciales de Hacer clic y 
 |22 de noviembre de 2019   |Versión 1910 (compilación 12130.20410)  |Varias correcciones de errores y de rendimiento.<br/>  |
 |18 de noviembre de 2019   |Versión 1910 (compilación 12130.20390)  |Varias correcciones de errores y de rendimiento.<br/>  |
 |12 de noviembre de 2019   |Versión 1910 (compilación 12130.20344)  |[CVE-2019-1402](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-1402) <br/> [CVE-2019-1446](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-1446) <br/> [CVE-2019-1448](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-1448) <br/> [CVE-2019-1449](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-1449) <br/>  |
-|8 de octubre de 2019   |Versión 1909 (compilación 12026.20320)  |[CVE-2019-1327](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-1327) <br/> [CVE-2019-1331](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-1331) <br/> |
+
 
 
 

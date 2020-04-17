@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Office 365 ProPlus en 2020
-ms.openlocfilehash: 1ad39564413906ae45b977b57c7336f19b15e1f9
-ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
+ms.openlocfilehash: f9e4d01b1d656c28115a24cf28012daea45fc372
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43081791"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521048"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Notas de la versión para las versiones de canal mensual en 2020
 
@@ -24,6 +24,38 @@ En estas notas de la versión, se proporciona información sobre característica
 >
 >- A menudo distribuimos características (y a veces incluso correcciones) para el Canal mensual durante un período de tiempo.  Si no ve algo que se describe a continuación de inmediato, lo verá pronto. [Más información](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a comienzos de julio, las actualizaciones de Office 365 ProPlus (y Office 365 Empresa) incluirán Microsoft Teams.  La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
+
+## <a name="version-2003-april-15"></a>Versión 2003: 15 de abril
+*Versión 2003 (compilación 12624.20466)*
+* Varias correcciones de errores y rendimiento.
+
+## <a name="version-2003-april-14"></a>Versión 2003: 14 de abril
+*Versión 2003 (compilación 12624.20442)*
+
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Application.Evaluate (VBA) no funcionaba para funciones definidas por el usuario en algunos casos.
+
+### <a name="outlook"></a>Outlook
+
+- Abordó un problema que causó que los usuarios experimentaran ocasionalmente un choque al usar el botón "X" de su ratón.
+
+### <a name="project"></a>Proyecto
+
+- Cuando se editan los datos del Predecesor/Sucesor dentro de una vista de formulario, se activa un evento ProjectBeforeTaskChange adicional.
+
+### <a name="word"></a>Word
+
+- Abordó un problema que causó que los usuarios experimentaran ocasionalmente un choque al usar el botón "X" de su ratón.
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2003-march-31"></a>Versión 2003: 31 de marzo
 *Versión 2003 (compilación 12624.20382)*

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales informáticos un historial de versiones de Microsoft AutoUpdate (MAU).
-ms.openlocfilehash: 0fc6e93f19abf0a8969879979b1e5aa5e7dc15ab
-ms.sourcegitcommit: e2633701e5a00bd20a5f166e95fcb156461973ae
+ms.openlocfilehash: 34b354a2834d1dde33b7f19709fb2a2ab2bf2fa6
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "42890117"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521058"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historial de versiones de Microsoft AutoUpdate (MAU)
  
@@ -29,6 +29,30 @@ En la siguiente tabla, se proporciona información del historial de versiones de
 > - Microsoft AutoUpdate ofrece actualizaciones para distintos productos de Mac de Microsoft. Por tanto, es posible que reciba una notificación para actualizar Microsoft AutoUpdate, incluso si no está ejecutando Office para Mac.
 
 Para ver las notas de la versión, consulte [Notas de la versión.](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="april-2020-release"></a>Versión de abril de 2020
+
+**Fecha de lanzamiento:** 14 de abril de 2020
+
+*Actualización automática de Microsoft 4.22*
+
+ **Actualizaciones de características:**
+
+- Corrección de seguridad: Microsoft AutoUpdate evitará cualquier conexión no segura de versiones anteriores.
+- Los usuarios con Actualizaciones automáticas desactivadas verán la interfaz de usuario de Microsoft AutoUpdate solo una vez por semana.
+- Los equipos Mac OS con SSD experimentarán actualizaciones más rápidas y un tiempo de inactividad insignificante de la aplicación debido a las actualizaciones.
+
+
+Consulte [CVE-2020-0984](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0984)
+
+**Vínculo para actualización de MAU:**
+
+[Descargar el paquete de actualización automática para Microsoft 4.22](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 Hash:**
+
+2E202B0B65AC093BDBFDA47F2A62758E44E0FBC09383B121EAA76206CF2B3EAB
+<br/><br/>
 
 ## <a name="march-2020-release"></a>Versión de marzo de 2020
 

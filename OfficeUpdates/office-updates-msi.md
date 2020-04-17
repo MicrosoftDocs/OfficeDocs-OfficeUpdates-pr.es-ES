@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI vínculos a la información de las últimas actualizaciones de las versiones perpetuas de Office 2016, Office 2013 y Office 2010.
-ms.openlocfilehash: 3a69734af72daa708ff664e31a28a3231dea759b
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: 0722451054ca143930e8eef868b8a87a2d7803df
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586507"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521268"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Últimas actualizaciones para las versiones de Office que usan Windows Installer (MSI)
 
@@ -31,23 +31,27 @@ Use los vínculos de esta página para obtener más información sobre las actua
 
 |**Versiones y productos**|**Service Pack (SP) más reciente**|**Actualización pública (AP) más reciente**|
 |:-----|:-----|:-----|
-|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |N/D  <br/> |Actualización pública de marzo de 2020  <br/> [KB4538705](https://support.microsoft.com/help/4538705 ) <br/> |
+|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |N/D  <br/> |Actualización pública de abril de 2020  <br/> [KB4549670](https://support.microsoft.com/help/4549670) <br/> |
    
 ## <a name="office-2013-updates"></a>Actualizaciones de Office 2013
 
 |**Versiones y productos**|**Service Pack (SP) más reciente**|**Actualización pública (AP) más reciente**|
 |:-----|:-----|:-----|:-----|
-|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |Actualización pública de marzo de 2020  <br/> [KB4538705](https://support.microsoft.com/help/4538705 ) <br/> |
+|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |Actualización pública de abril de 2020  <br/> [KB4549670](https://support.microsoft.com/help/4549670) <br/> |
    
 ## <a name="office-2010-updates"></a>Actualizaciones de Office 2010
+> [!IMPORTANT]
+El soporte técnico para Office 2010 finaliza el 13 de octubre de 2020. Si todavía no ha empezado a actualizar su entorno de Office 2010, se recomienda que empiece ahora. Para más información, vea [Guía de finalización del soporte para Office 2010](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap).
 
 |**Versiones y productos**|**Service Pack (SP) más reciente**|**Actualización pública (AP) más reciente**|
 |:-----|:-----|:-----|:-----|
-|**2010** <br/> Conjuntos de aplicaciones de Office 2010  <br/> Project 2010  <br/> Visio 2010  <br/> Servidores de Office 2010  <br/> Office Web Apps  <br/> Search Server 2010  <br/> Productos de SharePoint 2010  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |Actualización pública de marzo de 2020  <br/> [KB4538705](https://support.microsoft.com/help/4538705 ) <br/>|
+|**2010** <br/> Conjuntos de aplicaciones de Office 2010  <br/> Project 2010  <br/> Visio 2010  <br/> Servidores de Office 2010  <br/> Office Web Apps  <br/> Search Server 2010  <br/> Productos de SharePoint 2010  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |Actualización pública de abril de 2020  <br/> [KB4549670](https://support.microsoft.com/help/4549670) <br/>|
    
 
    
 ## <a name="updates-released-in-past-12-months"></a>Actualizaciones publicadas en los últimos 12 meses
+
+[Actualizaciones de seguridad y no relacionadas con la seguridad de abril de 2020: KB4549670](https://support.microsoft.com/help/4549670)
 
 [Actualizaciones de seguridad y no relacionadas con la seguridad de marzo de 2020: KB4538705](https://support.microsoft.com/help/4538705)
 
@@ -70,8 +74,6 @@ Use los vínculos de esta página para obtener más información sobre las actua
 [Actualizaciones de seguridad y no relacionadas con la seguridad de junio de 2019: KB4505743](https://support.microsoft.com/help/4505743)
 
 [Actualizaciones de seguridad y no relacionadas con la seguridad de mayo de 2019: KB4501270](https://support.microsoft.com/help/4501270)
-
-[Actualizaciones de seguridad y no relacionadas con la seguridad de abril de 2019: KB4495300](https://support.microsoft.com/help/4495300)
 
  
 
