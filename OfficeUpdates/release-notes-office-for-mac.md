@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales de TI las notas de la versión de las versiones de Office para Mac para los suscriptores de Office 356
-ms.openlocfilehash: eb80ead5175112c099c78cb641e281db7a278a00
-ms.sourcegitcommit: 4e509f91fd46e9df26ff0d2d775adc9bf58efa6e
+ms.openlocfilehash: 8008445d01b850dedf96f6354716e36c527e1e39
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42622144"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521286"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de la versión de Office para Mac
 
@@ -34,10 +34,25 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
 
 [//]: # (NO ELIMINAR)
+## <a name="april-14-2020"></a>14 de abril de 2020
+*Versión 16.36 (compilación 20041300)*
 
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
 
+- **Usar automáticamente los nuevos tipos de datos**: cuando escribe un valor de datos que se asemeja a una posible ubicación geográfica o cotizaciones, Excel ofrece la posibilidad de convertirlo en el tipo de datos conectado apropiado (cotizaciones o geografía).
+- **Imprimir hojas de cálculo con orientaciones diferentes**: al imprimir un libro completo a la vez, Excel para Mac puede imprimir cada hoja en horizontal o en vertical de acuerdo con las opciones de Diseño de página.
+- **Obtener estadísticas en el libro:** Estadísticas del libro da información general sobre el contenido de un libro, para ayudarle a descubrir más fácilmente su contenido.
 
+### <a name="outlook"></a>Outlook
 
+- **Buscar calendario sin conexión en Outlook para Mac**: si busca en el calendario en Outlook para Mac mientras está sin conexión, puede ver eventos y citas.
+
+### <a name="security-updates"></a>Actualizaciones de seguridad
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-0980](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0980)
 
 
 ## <a name="march-10-2020"></a>10 de marzo de 2020

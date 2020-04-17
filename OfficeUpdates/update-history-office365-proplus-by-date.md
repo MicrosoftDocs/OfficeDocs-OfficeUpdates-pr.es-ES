@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista completa de las versiones de Office 365 ProPlus, organizada por fecha, con vínculos a las notas de la versión.
-ms.openlocfilehash: f70e7b3f33d08b92cb748069df368b7d5211a1fc
-ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
+ms.openlocfilehash: ffd28edabb121ba87836ccab21e87f83700186e6
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43081792"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521098"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Historial de actualizaciones de Office 365 ProPlus (ordenado por fecha)
 
@@ -38,10 +38,10 @@ En la tabla siguiente se muestra la versión compatible y el número de compilac
 
 |**Canal**|**Versión**|**Compilación**|**Fecha de publicación**|**Versión admitida hasta**|
 |:-----|:-----|:-----|:-----|:-----|
-|Mensualmente<br/>|2003<br/>|12624.20382<br/>|31 de marzo de 2020<br/>|Lanzamiento de la versión 2004<br/>|
-|Semianual (dirigido)<br/>|2002<br/>|12527.20278<br/>|10 de marzo de 2020<br/>|8 de septiembre de 2020<br/>|
-|Semianual<br/>|1908<br/>|11929.20648<br/>|10 de marzo de 2020<br/>|9 de marzo 2021<br/>|
-|Semianual<br/>|1902<br/>|11328.20554<br/>|10 de marzo de 2020<br/>|8 de septiembre de 2020<br/>|
+|Mensualmente<br/>|2003<br/>|12624.20466<br/>|15 de abril de 2020<br/>|Lanzamiento de la versión 2004<br/>|
+|Semianual (dirigido)<br/>|2002<br/>|12527.20442<br/>|14 de abril de 2020<br/>|8 de septiembre de 2020<br/>|
+|Semianual<br/>|1908<br/>|11929.20708<br/>|14 de abril de 2020<br/>|9 de marzo 2021<br/>|
+|Semianual<br/>|1902<br/>|11328.20564<br/>|14 de abril de 2020<br/>|8 de septiembre de 2020<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -53,6 +53,8 @@ En la tabla siguiente, se muestra una lista de los números de versión y compil
 
 |**Year**|**Fecha de publicación**|**Canal mensual**|**Canal semianual (dirigido)**|**Canal semianual**|
 |:-----|:-----|:-----|:-----|:-----|
+|2020|15 de abril|[Versión 2003 (compilación 12624.20466)](monthly-channel-2020.md#version-2003-april-15)| | |
+|2020|14 de abril|[Versión 2003 (compilación 12624.20442)](monthly-channel-2020.md#version-2003-april-14)|[Versión 2002 (compilación 12527.20442)](semi-annual-channel-targeted-2020.md#version-2002-april-14)|[Versión 1908 (compilación 11929.20708)](semi-annual-channel-2020.md#version-1908-april-14)<br/>[Versión 1902 (compilación 11328.20564)](semi-annual-channel-2020.md#version-1902-april-14)|
 |2020|31 de marzo|[Versión 2003 (compilación 12624.20382)](monthly-channel-2020.md#version-2003-march-31)| | |
 |2020|25 de marzo|[Versión 2003 (compilación 12624.20320)](monthly-channel-2020.md#version-2003-march-25)| | |
 |2020|10 de marzo|[Versión 2002 (compilación 12527.20278)](monthly-channel-2020.md#version-2002-march-10)|[Versión 2002 (compilación 12527.20278)](semi-annual-channel-targeted-2020.md#version-2002-march-10)|[Versión 1908 (compilación 11929.20648)](semi-annual-channel-2020.md#version-1908-march-10)<br/>[Versión 1902 (compilación 11328.20554)](semi-annual-channel-2020.md#version-1902-march-10)|

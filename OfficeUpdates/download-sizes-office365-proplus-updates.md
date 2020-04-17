@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Office 365 ProPlus según el canal de actualización.
-ms.openlocfilehash: 7b84c3a897b1bc9e3ca3d2150d49b12fdeab4558
-ms.sourcegitcommit: 4e0b36a59f36fb89207483ba9fd811c6feeef0f1
+ms.openlocfilehash: ce1a2b84f2eaf59a55431c15c3ff87b033f08bc4
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43170250"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521228"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamaños de descarga de las actualizaciones de Office 365 ProPlus
 
@@ -38,13 +38,40 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 
 [//]: # (NO ELIMINAR)
 
-## <a name="april-7-2020"></a>7 de abril de 2020
+## <a name="april-15-2020"></a>15 de abril de 2020
 
-[//]: # (NO ELIMINAR INICIO DE CONTENIDO DE PREVISIÓN)
+[//]: # (NO ELIMINAR EL CONTENIDO INICIAL15 de abril de 2020)
+
+### <a name="monthly-channel"></a>Canal mensual
+
+La versión más actual es la 2003 (compilación 12624.20466).
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 2003 (compilación 12624.20442) <br/> |14 de abril de 2020 <br/> |52<br/> |
+|Versión 2003 (compilación 12624.20382) <br/> |31 de marzo de 2020 <br/> |69<br/> |
+
+
+[//]: # (NO ELIMINAR EL CONTENIDO FINAL15 de abril de 2020)
+
+## <a name="april-14-2020"></a>14 de abril de 2020
+
+[//]: # (NO ELIMINAR EL CONTENIDO INICIAL14 de abril de 2020)
+
+### <a name="monthly-channel"></a>Canal mensual
+
+La versión más actual es la 2003 (compilación 12624.20442).
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 2003 (compilación 12624.20382) <br/> |31 de marzo de 2020 <br/> |69<br/> |
+|Versión 2003 (compilación 12624.20320) <br/> |25 de marzo de 2020 <br/> |334<br/> |
+
+
 
 ### <a name="semi-annual-channel"></a>Canal semianual
 
-<i>La versión prevista es la versión 1908 (compilación 11929.20708).</i>
+La versión más actual es la 1908 (compilación 11929.20708).
 
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
@@ -54,7 +81,7 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 
 ### <a name="semi-annual-targeted-channel"></a>Canal semianual (dirigido)
 
-<i>La versión prevista es la versión 2002 (compilación 12527.20442).</i>
+La versión más actual es la 2002 (compilación 12527.20442).
 
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
@@ -62,7 +89,8 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 |Versión 1908 (Compilación 11929.20606) <br/> |11 de febrero de 2020 <br/> |290<br/> |
 
 
-[//]: # (NO ELIMINAR FIN DE CONTENIDO DE PREVISIÓN)
+[//]: # (NO ELIMINAR EL CONTENIDO FINAL14 de abril de 2020)
+
 
 ## <a name="march-31-2020"></a>31 de marzo de 2020
 
