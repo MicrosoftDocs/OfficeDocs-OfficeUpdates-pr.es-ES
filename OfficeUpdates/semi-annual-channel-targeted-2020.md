@@ -8,22 +8,22 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Proporciona a los profesionales de TI las notas de la versión para las versiones del canal semianual (dirigido) de Office 365 ProPlus en 2020.
-ms.openlocfilehash: 624c062c713de666ec9991d680f4c8cceb32150d
-ms.sourcegitcommit: 831c87e22a31a38be8b2aaeaedaea0cd093c26b0
+description: Proporciona a los profesionales de TI las notas de la versión para las versiones del canal semianual (dirigido) de Aplicaciones de Microsoft 365 en 2020.
+ms.openlocfilehash: 5c9535a000544238e1c68eee98817eb52d12449c
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43535525"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714695"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>Notas de la versión para las versiones del canal semianual (dirigido) en 2020
 
-En estas notas de la versión, se proporciona información sobre características nuevas y actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones del canal semianual (dirigido) de Office 365 ProPlus en 2020, Visio Pro para Office 365, el Cliente de escritorio de Project Online y Office 365 Empresa.
+Estas notas de la versión proporcionan información sobre las nuevas características y las actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones de Canal semianual (dirigido) en 2020 para las Aplicaciones de Microsoft 365 para empresas, las Aplicaciones de Microsoft 365 para negocios y las versiones de suscripción de las aplicaciones de escritorio de Project y Visio.
 
 > [!NOTE]
 >
 > - A menudo publicamos características (y a veces incluso correcciones) para el Canal semianual (dirigido) durante un período de tiempo. Si no ve algo que se describe a continuación de inmediato, lo verá pronto. [Más información](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
-> - Microsoft Teams está incluido en las nuevas instalaciones de canal semianual (dirigido), empezando por la versión 1902. Se agregará Teams a las instalaciones existentes de canal semianual (dirigido) cuando se actualicen a la versión 1908 o posterior. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
+
 
 ## <a name="version-2002-april-14"></a>Versión 2002: 14 de abril
 *Versión 2002 (compilación 12527.20442)*

@@ -8,22 +8,22 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Office 365 ProPlus en 2020
-ms.openlocfilehash: f9e4d01b1d656c28115a24cf28012daea45fc372
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365 en 2020
+ms.openlocfilehash: e7208b25c8b6f6b14fbd2511e570d02b32c8d396
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521048"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714520"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Notas de la versión para las versiones de canal mensual en 2020
 
-En estas notas de la versión, se proporciona información sobre características nuevas y actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones del canal mensual de Office 365 ProPlus en 2020, Visio Pro para Office 365, el Cliente de escritorio de Project Online y Office 365 Empresa.
+Estas notas de la versión proporcionan información sobre las nuevas características y las actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones de Canal mensual en 2020 para las Aplicaciones de Microsoft 365 para empresas, las Aplicaciones de Microsoft 365 para negocios y las versiones de suscripción de las aplicaciones de escritorio de Project y Visio.
 
  > [!NOTE]
 >
 >- A menudo distribuimos características (y a veces incluso correcciones) para el Canal mensual durante un período de tiempo.  Si no ve algo que se describe a continuación de inmediato, lo verá pronto. [Más información](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
->- Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a comienzos de julio, las actualizaciones de Office 365 ProPlus (y Office 365 Empresa) incluirán Microsoft Teams.  La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
+
 
 ## <a name="version-2003-april-15"></a>Versión 2003: 15 de abril
 *Versión 2003 (compilación 12624.20466)*

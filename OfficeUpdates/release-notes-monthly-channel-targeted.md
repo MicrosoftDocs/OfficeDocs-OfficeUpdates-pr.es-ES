@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider Lento la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 1e760feeba1fa9c4cec937cb946de22052594021
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+ms.openlocfilehash: 8c308b50fe0a9be3b7949f3d3a8d8f4488b62f2b
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521298"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715028"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Las compilaciones de notas de la versión del canal mensual de Office (dirigido)
 
@@ -22,13 +22,28 @@ En este artículo hay notas de la versión para las compilaciones del canal mens
 
 > [!NOTE]
 > - La fecha de publicación de las notas de versión pueden no coincidir con la fecha real de lanzamiento de la compilación.
-> - Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a partir de finales de junio, Microsoft Teams se incluirá en instalaciones existentes de Office 365 ProPlus (y Office 365 Empresa) a la hora de actualizar dichas instalaciones. La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
+
 
 [//]: # (NO ELIMINAR)
 
 [//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
 
-[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+## <a name="version-2004-april-21"></a>Versión 2004: 21 de abril
+*Versión 2004 (compilación 12730.20182)*
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="outlook"></a>Outlook
+
+- Corrige un problema que provocaba que el ancho del panel de carpetas cambiara de forma inesperada.
+
+- Corrige un problema que provocaba que los usuarios experimentaran un error al salir de Outlook.
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
 
 ## <a name="version-2004-april-15"></a>Versión 2004: 15 de abril
 *Versión 2004 (compilación 12730.20150)*
