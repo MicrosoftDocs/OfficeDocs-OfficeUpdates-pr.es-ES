@@ -1,5 +1,5 @@
 ---
-title: Notas de la versión para las actualizaciones de seguridad de Office 365 ProPlus
+title: Notas de la versión para las actualizaciones de seguridad de las Aplicaciones de Microsoft 365
 ms.author: andrewmo
 author: TimDavenport
 manager: andrewmo
@@ -8,29 +8,25 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Proporciona a los profesionales de TI las notas de la versión de las actualizaciones de seguridad de Office 365 ProPlus
-ms.openlocfilehash: 8eab85b14ca0d034d83db85db7a30e4072eed845
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+description: Proporciona a los profesionales de TI las notas de la versión de las actualizaciones de seguridad de Aplicaciones de Microsoft 365
+ms.openlocfilehash: b2a54edbf0d9f1960f4a52ef112741e6220e8821
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521288"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715018"
 ---
-# <a name="release-notes-for-office-365-proplus-security-updates"></a>Notas de la versión para las actualizaciones de seguridad de Office 365 ProPlus
+# <a name="release-notes-for-microsoft-365-apps-security-updates"></a>Notas de la versión para las actualizaciones de seguridad de las Aplicaciones de Microsoft 365
 
-Estas notas de la versión proporcionan información sobre las correcciones de seguridad que se incluyen en las actualizaciones de Office 365 ProPlus.
+Estas notas de la versión proporcionan información sobre las correcciones de seguridad que se incluyen en las actualizaciones de Aplicaciones de Microsoft 365.
+
+Esta información se aplica a Aplicaciones de Microsoft 365 para empresa, Aplicaciones de Microsoft 365 para empresas y a las versiones de suscripción de las aplicaciones de escritorio de Project y Visio.
 
 
 > [!IMPORTANT]
-> El nombre de Office 365 ProPlus cambia a **Microsoft 365 Apps para empresa** Para obtener más información sobre este cambio de nombre, [lea esta entrada de blog](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
->
-> Para saber más sobre cuándo surte efecto este cambio y las acciones que los administradores podrían tener que llevar a cabo, [lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2123420).
-
+> A partir de la versión 2004, el nombre de Office 365 ProPlus cambia a Aplicaciones de Microsoft 365 para empresas.  [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2123420) para obtener más información. Por lo general, en nuestra documentación solo haremos referencia a él como Aplicaciones de Microsoft 365.
 
  
-> [!NOTE]
-> - Lo siguiente también proporciona información sobre actualizaciones de seguridad para Visio Pro para Office 365 y el cliente de escritorio de Project Online.
-> - Esta información también se aplica a Office 365 Empresa, que es la versión de Office que viene con algunos planes de Office 365, como Empresa Premium.  
 
 [//]: # (NO QUITAR LA LÍNEA ANTERIOR, se usa para el espaciado)  
 
@@ -39,9 +35,9 @@ Canal mensual: versión 2003 (compilación 12624.20442)
 Canal semianual (dirigido): versión 2002 (compilación 12527.20442)  
 Canal semianual: Versión 1908 (compilación 11929.20708)  
 Canal semianual: Versión 1902 (compilación 11328.20564)  
-Office 365 ProPlus en Windows 7: versión 2002 (compilación 12527.20442)  
+Aplicaciones de Microsoft 365 en Windows 7: versión 2002 (compilación 12527.20442)  
 
-[//]: # (NO QUITAR LOS DETALLES DE SEGURIDAD INICIO DEL CONTENIDO INICIAL)
+[//]: # (NO ELIMINAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO INICIAL)
 
 
 ### <a name="excel"></a>Excel
@@ -68,9 +64,9 @@ Canal mensual: versión 2002 (compilación 12527.20278)
 El canal semianual (dirigido): versión 2002 (compilación 12527.20278)  
 Canal semianual: Versión 1908 (compilación 11929.20648)  
 Canal semianual: Versión 1902 (compilación 11328.20554)  
-Office 365 ProPlus en Windows 7: versión 2002 (compilación 12527.20278)  
+Aplicaciones de Microsoft 365 en Windows 7: versión 2002 (compilación 12527.20278)  
 
-[//]: # (NO QUITAR LOS DETALLES DE SEGURIDAD INICIO DEL CONTENIDO INICIAL)
+[//]: # (NO ELIMINAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO INICIAL)
 
 
 
