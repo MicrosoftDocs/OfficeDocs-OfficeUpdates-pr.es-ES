@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista de las últimas versiones de las Aplicaciones de Microsoft 365 para cada canal de actualización y vínculos a notas de la versión y el historial de actualizaciones.
-ms.openlocfilehash: d6994deeab0a144b4642577519d670fe8a3f5643
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: c025c0afd3428c3381aeac16821ddd0eb22904b0
+ms.sourcegitcommit: 58d55cf532d1d02cca85772920a6dd71089b071d
 ms.translationtype: HT
 ms.contentlocale: es-ES
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714540"
+ms.locfileid: "43781593"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Información de publicación de actualizaciones para Aplicaciones de Microsoft 365
 
@@ -27,19 +27,19 @@ ms.locfileid: "43714540"
 ## <a name="security-updates-for-microsoft-365-apps-releases"></a>Actualizaciones de seguridad para las versiones de las Aplicaciones de Microsoft 365
 
 Para obtener una lista completa de las actualizaciones de seguridad, vea el artículo siguiente:
- - [Actualizaciones de seguridad de Office 365 ProPlus](office365-proplus-security-updates.md)
+ - [Actualizaciones de seguridad para las Aplicaciones de Microsoft 365](office365-proplus-security-updates.md)
 
 
 ## <a name="update-history-for-microsoft-365-apps-releases"></a>Historial de actualizaciones para las versiones de las Aplicaciones de Microsoft 365
 
 Para obtener una lista completa de las versiones y las versiones admitidas para cada canal, vea el artículo siguiente:
- - [Historial de actualizaciones de Office 365 ProPlus (ordenado por fecha)](update-history-office365-proplus-by-date.md)
+ - [Historial de actualizaciones de Aplicaciones de Microsoft 365 (ordenado por fecha)](update-history-office365-proplus-by-date.md)
 
 
  ## <a name="update-sizes-for-microsoft-365-apps-releases"></a>Tamaños de las actualizaciones para las versiones de las Aplicaciones de Microsoft 365
 
 Para obtener una lista completa de los tamaños de versiones de actualizaciones, vea los siguientes artículos:
- - [Tamaños de descarga de las actualizaciones de Office 365 ProPlus](download-sizes-office365-proplus-updates.md)
+ - [Tamaños de descarga de las actualizaciones de Aplicaciones de Microsoft 365](download-sizes-office365-proplus-updates.md)
 
 ## <a name="release-notes-for-microsoft-365-apps-releases"></a>Notas de la versión para las versiones de las Aplicaciones de Microsoft 365
 
