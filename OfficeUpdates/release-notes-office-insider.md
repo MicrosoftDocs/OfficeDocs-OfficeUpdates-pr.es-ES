@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: e89f899f5a890b5db7b2ebaa0cc495f9b623f699
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: 38f26f551be55a7817a993108f598c6a6a9ecdb5
+ms.sourcegitcommit: fdc89a96b2ab35af2f08654ef28117dec7657443
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714720"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "43804899"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -26,7 +26,36 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
 [//]: # (NO ELIMINAR)
 
-[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+[//]: # (NO ELIMINAR LOS DETALLES DEL CONTENIDO FINAL)
+
+## <a name="version-2005-april-24"></a>Versión 2005: 24 de abril
+*Versión 2005 (compilación 12816.20006)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+- Este cambio corrige un problema en el que el valor de la línea de tendencia del gráfico R-cuadrado (en el caso de la intersección forzada y) era incorrecto aunque la función de ESTIMACIÓN devuelva el valor correcto.
+- Este cambio arregla un problema en el que no siempre se guardaba el formato de la línea de tendencia de los gráficos personalizados.
+
+### <a name="outlook"></a>Outlook
+- Corregido un problema por el que se desactivó el botón de Categorizar para los calendarios de grupo en la cinta de opciones de Office.
+- Se ha solucionado un problema por el que los clientes de las empresas con carpetas de grupo no implementadas o que no funcionaban, hacían que Outlook mostrara un mensaje de "no responde".
+
+### <a name="powerpoint"></a>PowerPoint
+- Se ha solucionado un problema por el que al pasar el ratón por encima del símbolo del asterisco (*) no aparecía el nombre de usuario y la fecha de la última persona que actualizó el documento.
+
+### <a name="word"></a>Word
+- Al habilitar la opción "Mostrar marcadores" no se mostrarán los marcadores. Este error se ha corregido.
+- Este cambio arregla un problema por el que el texto con hipervínculos puede no aparecer si la opción "Mostrar códigos de campo en lugar de sus valores" estaba activada.
+
+[//]: # (NO ELIMINAR LOS DETALLES DEL CONTENIDO FINAL)
 
 ## <a name="version-2005-april-17"></a>Versión 2005: 17 de abril
 *Versión 2005 (compilación 12810.20002)*
