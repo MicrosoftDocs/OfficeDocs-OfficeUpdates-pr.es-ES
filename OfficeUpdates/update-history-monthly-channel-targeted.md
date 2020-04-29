@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a participantes del programa Insider el historial de actualizaciones de los lanzamientos del canal mensual de Office (dirigido) para versiones de escritorio de Windows
-ms.openlocfilehash: 6d0e2f0d76eaad219e6fb8652bba6a8794f45e48
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: 4d1a84a0d31e51080e81e7b071b7e007236a977f
+ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715300"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43907884"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Historial de actualizaciones del canal mensual de Office (dirigido) para Windows
 
@@ -35,6 +35,9 @@ Si está inscrito en el nivel del canal mensual (dirigido), anteriormente denomi
 
 
 [//]: # (NO ELIMINAR)
+
+**25 de abril de 2020**<br/>
+Versión 2004 (compilación 12730.20206)<br/>
 
 **21 de abril de 2020**<br/>
 Versión 2004 (compilación 12730.20182)<br/>
