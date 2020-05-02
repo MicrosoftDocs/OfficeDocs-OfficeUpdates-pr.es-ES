@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365 en 2020
-ms.openlocfilehash: 5580335c0736379ad74b9487954d21d98824c2be
-ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
+ms.openlocfilehash: 4cc33840330268060d799d6e5ff4ae077b77a248
+ms.sourcegitcommit: 47434ba402ec7a630ef06a91664a659bb7069dad
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43907930"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43947400"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Notas de la versión para las versiones de canal mensual en 2020
 
@@ -31,7 +31,99 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-[//]: # (NO ELIMINAR LOS DETALLES DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+
+## <a name="version-2004-april-29"></a>Versión 2004: 29 de abril
+*Versión 2004 (compilación 12730.20236)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="access"></a>Access
+
+- **Aumente su productividad con el Diseñador de consultas, la vista SQL y la ventana Relaciones:** haga clic con el botón derecho en una tabla para abrirla, diseñarla, cambiar su tamaño y ocultarla. Buscar y reemplazar texto en la vista SQL. Seleccione múltiples tablas en la ventana Relaciones.
+
+### <a name="excel"></a>Excel
+
+- **El soporte para el conector de Facebook va a terminar:** a partir de abril de 2020. Excel ya no admitirá conexiones de datos externos que usen el conector de Facebook.
+
+- **Ideas mejorado:** ahora Ideas de Excel le permite escribir una pregunta sobre los datos, ya no es necesario perder tiempo aplicando formato en primer lugar. [Más información](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+
+- **Nuevas imágenes para dar vida a sus libros de trabajo:** miles de imágenes de archivo, iconos y adhesivos sin derechos de autor que puede usar en sus libros de trabajo. Vaya a Insertar > Imágenes > Imágenes de archivo para empezar. [Más información](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+
+### <a name="outlook"></a>Outlook
+
+- **Unirse a reuniones sin salir de la bandeja de entrada:** no es necesario cambiar al calendario para unirse a reuniones en línea. Con el Calendario de Outlook anclado en el panel de tareas pendientes, únase a una reunión con un solo clic.
+
+- **Nuevas imágenes para dar vida a sus mensajes:** miles de imágenes de archivo, iconos y adhesivos sin derechos de autor que puede usar en sus mensajes de correo electrónico. Vaya a Insertar > Imágenes > Imágenes de archivo para empezar. [Más información](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+
+- **Nuevo buscador de salas:** búsqueda de salas de conferencias por distintas funcionalidades.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Actualización de las diapositivas durante la presentación:** actualice diapositivas editadas por otros autores durante la presentación.
+
+- **Nuevas imágenes para dar vida a sus diapositivas:** miles de imágenes de archivo, iconos y adhesivos sin derechos de autor que puede usar en sus diapositivas. Vaya a Insertar > Imágenes > Imágenes de archivo para empezar. [Más información](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+
+### <a name="teams"></a>Teams
+
+- **Mejoras en el calendario de Teams:** haga clic con el botón derecho en un elemento del calendario para extraer las opciones de RSVP, iniciar un chat con los participantes de la reunión o unirse a una reunión rápidamente cuando se inicie. También hemos realizado mejoras en el formulario de programación de eventos.
+
+- **Etiqueta, ¡te toca!: ** cree etiquetas y asígneles personas para que pueda mencionar un grupo, rol, departamento, etc. Los propietarios de equipos ya pueden probarlo. Vaya a un equipo, seleccione Más opciones, Administrar etiquetas.
+
+### <a name="word"></a>Word
+
+- **Tenga a mano las herramientas:** en el cuadro de herramientas de dibujo, busque el lápiz inteligente que le permite agregar gestos de entrada de lápiz al texto. [Más información](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
+
+- **Nuevas imágenes para dar vida a sus documentos:** miles de imágenes de archivo, iconos y adhesivos sin derechos de autor que puede usar en sus documentos. Vaya a Insertar > Imágenes > Imágenes de archivo para empezar. [Más información](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- En los libros guardados con una firma digital en Excel 2016 se podía invalidar la firma al abrirla en la versión actual de Excel.
+
+- Se ha corregido un problema que hacía que Excel se bloqueara en ciertos casos después de copiar una hoja que contenía una tabla dinámica.
+
+- Application.Evaluate (VBA) no funcionaba para funciones definidas por el usuario en algunos casos.
+
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema que provocaba que el ancho del panel de carpetas cambiara inesperadamente.
+
+
+- Se ha corregido un problema que provocaba que Outlook se bloqueara en algunas compilaciones de Windows.
+
+
+- Se ha corregido un problema que provocaba que Outlook se bloqueara al abrir archivos .msg y .oft guardados localmente después de una actualización de Windows.
+
+
+- Se ha corregido un problema que provocaba que Outlook se bloqueara en algunas compilaciones de Windows.
+
+
+- Se corrigió un problema que provocaba que los usuarios experimentaran un error al salir de Outlook.
+
+
+### <a name="project"></a>Project
+
+- Cuando se editan los datos del Predecesor/Sucesor dentro de una vista de formulario, se activa un evento ProjectBeforeTaskChange adicional.
+
+
+- Se ha corregido un problema que hace que si está usando Project conectado a Project Web App y el separador decimal es una coma, el método TaskDependencies Add producirá un error al intentar agregar retardo a una dependencia.
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Se ha corregido un error que impide restringir el acceso y proteger los archivos con una contraseña de forma simultánea.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2003-april-15"></a>Versión 2003: 15 de abril
 *Versión 2003 (compilación 12624.20466)*
