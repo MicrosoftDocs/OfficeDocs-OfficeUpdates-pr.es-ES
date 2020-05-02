@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI un historial de actualizaciones para las versiones permanentes de Office 2016 y Office 2019 que usan Hacer clic y ejecutar.
-ms.openlocfilehash: 80b3a12f538adba30b2cb73871205325da41018a
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+ms.openlocfilehash: 3716b555f187be6941741960bb11f3cc738f7d43
+ms.sourcegitcommit: e950bd86b21283e1d6f1f76faa26cd323ab7213d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521368"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43954903"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Historial de actualizaciones para la versión de Hacer clic y ejecutar de Office 2016 y Office 2019
 
@@ -60,6 +60,7 @@ La siguiente información se aplica a las versiones comerciales de Hacer clic y 
 
 |**Fecha de publicación**|**Número de versión**|**Más información**|
 |:-----|:-----|:-----|
+|29 de abril de 2020|Versión 2004 (compilación 12730.20236)  |Varias correcciones de errores y de rendimiento. <br/>  |
 |15 de abril de 2020|Versión 2003 (compilación 12624.20466)  |Varias correcciones de errores y de rendimiento. <br/>  |
 |14 de abril de 2020|Versión 2003 (compilación 12624.20442)  |[CVE-2020-0760](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0760) <br/> [CVE-2020-0906](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0906) <br/> [CVE-2020-0961](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0961) <br/> [CVE-2020-0979](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0979) <br/> [CVE-2020-0980](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0980) <br/>[CVE-2020-0991](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0991) <br/> |
 |31 de marzo de 2020|Versión 2003 (compilación 12624.20382)  |Varias correcciones de errores y de rendimiento. <br/>  |
