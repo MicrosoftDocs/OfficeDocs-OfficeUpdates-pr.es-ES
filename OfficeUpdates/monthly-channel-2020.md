@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365 en 2020
-ms.openlocfilehash: cdaa6ed14bc119079dfc1372820a9bf143f91267
-ms.sourcegitcommit: 13b981a8a5ef2ac7c68f245213167026bdd0bdea
+ms.openlocfilehash: 645e13aee4bbcf86541a0618c07be4811414c414
+ms.sourcegitcommit: edcf5678c775b3944a93e8d596d217a2c3e28367
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43997473"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44029880"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Notas de la versión para las versiones de canal mensual en 2020
 
@@ -31,7 +31,21 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
+
+## <a name="version-2004-may-04"></a>Versión 2004: 4 de mayo
+*Versión 2004 (Compilación 12730.20250)*
+
+[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Esta actualización corrige un problema en Visual Basic para aplicaciones en Microsoft Office en el que ciertos proyectos VBA que contienen referencias a bibliotecas de código con caracteres DBCS en el nombre de la biblioteca o en la ruta de la biblioteca serían vistos por la aplicación de Office como corruptos en la carga.
+
+
+
+[//]: # (NO QUITAR ERRORES DE DETALLES DE CONTENIDO FINAL)
 
 ## <a name="version-2004-april-29"></a>Versión 2004: 29 de abril
 *Versión 2004 (compilación 12730.20236)*
@@ -42,6 +56,9 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="access"></a>Access
 
 - **Aumente su productividad con el Diseñador de consultas, la vista SQL y la ventana Relaciones:** haga clic con el botón derecho en una tabla para abrirla, diseñarla, cambiar su tamaño y ocultarla. Buscar y reemplazar texto en la vista SQL. Seleccione múltiples tablas en la ventana Relaciones.
+
+- **Agregue tablas con menos clics:** utilizar el panel de tareas agregar tablas, que permanece abierto mientras trabaja, para agregar tablas a relaciones y consultas. [Más información](https://support.office.com/article/56eb7df2-8a52-4e90-a7e0-8f891a5c56bd)
+
 
 ### <a name="excel"></a>Excel
 
