@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI un historial de actualizaciones para las versiones permanentes de Office 2016 y Office 2019 que usan Hacer clic y ejecutar.
-ms.openlocfilehash: 3716b555f187be6941741960bb11f3cc738f7d43
-ms.sourcegitcommit: e950bd86b21283e1d6f1f76faa26cd323ab7213d
+ms.openlocfilehash: c3127aaae55214fd16f34fa39c6c59c0be706f3d
+ms.sourcegitcommit: ea14838e5a137a296a86b564cdb711fbc54e9940
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "43954903"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044613"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Historial de actualizaciones para la versión de Hacer clic y ejecutar de Office 2016 y Office 2019
 
@@ -60,6 +60,7 @@ La siguiente información se aplica a las versiones comerciales de Hacer clic y 
 
 |**Fecha de publicación**|**Número de versión**|**Más información**|
 |:-----|:-----|:-----|
+|Mayo 4, 2020|Versión 2004 (Compilación 12730.20250)  |Se corrige un problema por el que ciertos proyectos VBA que contenían referencias a bibliotecas de código con caracteres DBCS (doble byte) en el nombre de la biblioteca o en la ruta de la biblioteca eran vistos por la aplicación de Office como corruptos en la carga. <br/>  |
 |29 de abril de 2020|Versión 2004 (compilación 12730.20236)  |Varias correcciones de errores y de rendimiento. <br/>  |
 |15 de abril de 2020|Versión 2003 (compilación 12624.20466)  |Varias correcciones de errores y de rendimiento. <br/>  |
 |14 de abril de 2020|Versión 2003 (compilación 12624.20442)  |[CVE-2020-0760](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0760) <br/> [CVE-2020-0906](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0906) <br/> [CVE-2020-0961](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0961) <br/> [CVE-2020-0979](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0979) <br/> [CVE-2020-0980](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0980) <br/>[CVE-2020-0991](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0991) <br/> |
@@ -74,9 +75,6 @@ La siguiente información se aplica a las versiones comerciales de Hacer clic y 
 |14 de enero de 2020   |Versión 1912 (compilación 12325.20298)  |[CVE-2020-0650](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0650) <br/> [CVE-2020-0651](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0651) <br/> [CVE-2020-0652](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0652) <br/>  |
 |8 de enero de 2020   |Versión 1912 (compilación 12325.20288)  |Varias correcciones de errores y de rendimiento. <br/>  |
 |10 de diciembre de 2019   |Versión 1911 (compilación 12228.20364)  |[CVE-2019-1400](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-1400) <br/> [CVE-2019-1461](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-1461) <br/> [CVE-2019-1462](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-1462) <br/> [CVE-2019-1463](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-1463) <br/> [CVE-2019-1464](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-1464) <br/> |
-|22 de noviembre de 2019   |Versión 1910 (compilación 12130.20410)  |Varias correcciones de errores y de rendimiento.<br/>  |
-|18 de noviembre de 2019   |Versión 1910 (compilación 12130.20390)  |Varias correcciones de errores y de rendimiento.<br/>  |
-|12 de noviembre de 2019   |Versión 1910 (compilación 12130.20344)  |[CVE-2019-1402](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-1402) <br/> [CVE-2019-1446](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-1446) <br/> [CVE-2019-1448](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-1448) <br/> [CVE-2019-1449](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-1449) <br/>  |
 
 
 

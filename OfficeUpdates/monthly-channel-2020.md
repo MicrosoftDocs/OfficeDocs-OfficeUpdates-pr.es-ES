@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365 en 2020
-ms.openlocfilehash: 4cc33840330268060d799d6e5ff4ae077b77a248
-ms.sourcegitcommit: 47434ba402ec7a630ef06a91664a659bb7069dad
+ms.openlocfilehash: cdaa6ed14bc119079dfc1372820a9bf143f91267
+ms.sourcegitcommit: 13b981a8a5ef2ac7c68f245213167026bdd0bdea
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "43947400"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43997473"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Notas de la versión para las versiones de canal mensual en 2020
 
@@ -57,7 +57,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 - **Nuevas imágenes para dar vida a sus mensajes:** miles de imágenes de archivo, iconos y adhesivos sin derechos de autor que puede usar en sus mensajes de correo electrónico. Vaya a Insertar > Imágenes > Imágenes de archivo para empezar. [Más información](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
 
-- **Nuevo buscador de salas:** búsqueda de salas de conferencias por distintas funcionalidades.
+- **Compatibilidad con la sugerencia de ubicaciones para las reuniones periódicas:** Búsqueda de salas de conferencias con la programación de reuniones periódicas.
 
 ### <a name="powerpoint"></a>PowerPoint
 
