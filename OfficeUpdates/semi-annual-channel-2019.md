@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual de Office 365 ProPlus en 2019.
-ms.openlocfilehash: b03cf0f98c4444a19167759a1805f750866bcb78
-ms.sourcegitcommit: 2a7fa66d0cc399e8ae5d824dab7b84a460cc2c9f
+ms.openlocfilehash: df445c1318293e94d77fc62e4472124bb85c3a25
+ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42982529"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "44163532"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal semianual en 2019
 
@@ -35,7 +35,7 @@ En estas notas de la versión, se proporciona información sobre característica
 ## <a name="version-1902-december-10"></a>Versión 1902 (10 de diciembre)
 *Versión 1902 (compilación 11328.20492)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -99,7 +99,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-1902-november-12"></a>Versión 1902: 12 de noviembre
 *Versión 1902 (compilación 11328.20468)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
@@ -134,7 +134,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-1808-november-12"></a>Versión 1808: 12 de noviembre
 *Versión 1808 (compilación 10730.20416)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -154,7 +154,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-1902-october-08"></a>Versión 1902: 8 de octubre
 *Versión 1902 (compilación 11328.20438)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO INICIAL)
 
@@ -183,12 +183,12 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 *Versión 1808 (compilación 10730.20386)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-1902-september-10"></a>Versión 1902:10 de septiembre
 *Versión 1902 (compilación 11328,20420)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO INICIAL)
 
@@ -212,7 +212,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-1808-september-10"></a>Versión 1808:10 de septiembre
 *Versión 1808 (compilación 10730,20380)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO INICIAL)
@@ -225,7 +225,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-1902-august-13"></a>Versión 1902: 13 de agosto
 *Versión 1902 (compilación 11328.20392)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad
 - Se ha corregido un problema por el que se mostraba el icono borrar filtro de las segmentaciones de datos filtrados y sin filtrar de las tablas.
@@ -247,7 +247,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-1808-august-13"></a>Versión 1808: 13 de agosto
 *Versión 1808 (compilación 10730.20370)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones no relacionadas con la seguridad
 - Se ha corregido un problema por el que la API de configuración no funcionaba en la biblioteca JavaScript de Office en ciertos escenarios. [Más información](https://support.microsoft.com/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
@@ -256,7 +256,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-1803-august-13"></a>Versión 1803: 13 de agosto
 *Versión 1803 (compilación 9126.2432)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: actualizaciones no relacionadas con la seguridad
 - Se ha corregido un problema por el que la API de configuración no funcionaba en la biblioteca JavaScript de Office en ciertos escenarios. [Más información](https://support.microsoft.com/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
@@ -264,7 +264,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 ## <a name="version-1902-july-09"></a>Versión 1902: 09 de julio
 *Versión 1902 (compilación 11328.20368)*
-<br/>Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+<br/>Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 ### <a name="access-feature-updates"></a>Access: Actualizaciones de características
@@ -432,7 +432,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 ## <a name="version-1808-july-09"></a>Versión 1808: 09 de julio
 *Versión 1808 (compilación 10730.20360)*
-<br/>Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+<br/>Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 ### <a name="word-non-security-updates"></a>Word: actualizaciones no relacionadas con la seguridad
@@ -447,12 +447,12 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 ## <a name="version-1803-july-09"></a>Versión 1803: 09 de julio
 *Versión 1803 (compilación 9126.2428)*
-<br/>Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+<br/>Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 ## <a name="version-1808-june-11"></a>Versión 1808: 11 de junio
 *Versión 1808 (compilación 10730.20348)*
-<br/>Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+<br/>Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="word-non-security-updates"></a>Word: actualizaciones no relacionadas con la seguridad
  - Se ha corregido un problema relacionado con quitar firma al desproteger un archivo.
@@ -462,7 +462,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 ## <a name="version-1803-june-11"></a>Versión 1803: 11 de junio
 *Versión 1803 (compilación 9126.2388)*
-<br/>Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) 
+<br/>Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 
 
 ## <a name="version-1808-may-14"></a>Versión 1808: 14 de mayo
 *Versión 1808 (compilación 10730.20344)*   
@@ -501,7 +501,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 - Hemos agregado compatibilidad para el complemento del asistente para postales en japonés de Word para la nueva era japonesa. 
 
 ## <a name="version-1803-april-9"></a>Versión 1803: 9 de abril
-- Las actualizaciones de seguridad se enumeran [aquí](office365-proplus-security-updates.md)
+- Las actualizaciones de seguridad se enumeran [aquí](microsoft365-apps-security-updates.md)
 
 ## <a name="version-1808-march-12"></a>Versión 1808: 12 de marzo
 *Versión 1808 (compilación 10730.20304)*
@@ -520,7 +520,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 - Se ha corregido un problema por el que la actualización de Office puede quedarse bloqueada durante algún tiempo al intenta descargar.
 
 ## <a name="version-1803-march-12"></a>Versión 1803: 12 de marzo 
-- Las actualizaciones de seguridad se enumeran [aquí](office365-proplus-security-updates.md)
+- Las actualizaciones de seguridad se enumeran [aquí](microsoft365-apps-security-updates.md)
 
 ## <a name="version-1808-february-12"></a>Versión 1808: 12 de febrero
 *Versión 1808 (compilación 10730.20280)*
@@ -592,7 +592,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
  - **Edición colaborativa:** Trabajar con otras personas al mismo tiempo en el libro. [Más información](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
- - **La característica de Autoguardado de archivos en la nube ahora está habilitada de forma predeterminada:** gracias a este cambio, los usuarios no tendrán que preocuparse por perder sus cambios en los documentos almacenados en OneDrive o SharePoint Online. Los usuarios ya no tendrán que presionar Ctrl + S específicamente o el botón de guardar, ya que los cambios se guardarán en la nube automáticamente. Sin embargo, tendrán que asimilar este cambio de comportamiento para no realizar cambios accidentales en los documentos. Tenga en cuenta que los usuarios pueden desactivar el Autoguardado con el botón de alternancia Autoguardado en la parte superior de la pantalla. Le recomendamos que notifique a sus usuarios sobre este próximo cambio y que les enseñe cómo aprovechar mejor esta nueva función de Office 365. [Obtenga más información sobre el Autoguardado](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) y [Obtenga más información para los administradores de TI sobre el Autoguardado](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
+ - **El Autoguardado para archivos de nube ahora está habilitado de forma predeterminada:** con este cambio, los usuarios no tendrán que preocuparse por perder los cambios en los documentos almacenados en OneDrive o SharePoint Online. Los cambios se guardarán en la nube automáticamente y los usuarios no tendrán que presionar explícitamente Ctrl + G o el botón Guardar. Sin embargo, tendrán que comprender este cambio de comportamiento para que no realicen cambios accidentales en los documentos. Tenga en cuenta que los usuarios pueden desactivar el Autoguardado con el botón de Autoguardado en la parte superior de la pantalla. Le recomendamos que notifique a los usuarios sobre este nuevo cambio y les instruya sobre cómo aprovechar mejor esta nueva característica de Office 365. [Más información sobre el Autoguardado](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) y [Más información sobre lo que los administradores de TI deben saber sobre el Autoguardado](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
 - **Edición de la barra de fórmulas y las celdas mejorada:** ahora, puede usar CTRL + A para seleccionar el texto de una celda o de la barra de fórmulas. También se ha mejorado la compatibilidad con los emojis y otros caracteres complejos. [Más información](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **Mejoras del Comprobador de accesibilidad:** el Comprobador de accesibilidad ha actualizado la asistencia técnica para las normas internacionales y recomendaciones para que los libros sean más accesibles. [Más información](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 - **Evitar cambios no deseados:** establezca los libros para abrir como solo lectura para evitar cambios accidentales. Vaya a archivo > información > proteger libro > abrir siempre como solo lectura
@@ -655,7 +655,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 - Se ha corregido un problema de estabilidad que podía producirse en relación con la sincronización y la navegación a una sección eliminada.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características 
-- **La característica de Autoguardado de archivos en la nube ahora está habilitada de forma predeterminada:** gracias a este cambio, los usuarios no tendrán que preocuparse por perder sus cambios en los documentos almacenados en OneDrive o SharePoint Online. Los usuarios ya no tendrán que presionar Ctrl + S específicamente o el botón de guardar, ya que los cambios se guardarán en la nube automáticamente. Sin embargo, tendrán que asimilar este cambio de comportamiento para no hacer cambios accidentales en las presentaciones. Tenga en cuenta que los usuarios pueden desactivar el Autoguardado con el botón de alternancia Autoguardado en la parte superior de la pantalla. Le recomendamos que notifique a sus usuarios sobre este próximo cambio y que les enseñe cómo aprovechar mejor esta nueva función de Office 365. [Obtenga más información sobre el Autoguardado](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) y [Obtenga más información para los administradores de TI sobre el Autoguardado](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
+- **El Autoguardado para archivos de nube ahora está habilitado de forma predeterminada:** con este cambio, los usuarios no tendrán que preocuparse por perder los cambios en los documentos almacenados en OneDrive o SharePoint Online. Los cambios se guardarán en la nube automáticamente y los usuarios no tendrán que presionar explícitamente Ctrl + G o el botón Guardar. Sin embargo, tendrán que comprender este cambio de comportamiento para que no realicen cambios accidentales en presentaciones. Tenga en cuenta que los usuarios pueden desactivar el Autoguardado con el botón de Autoguardado en la parte superior de la pantalla. Le recomendamos que notifique a los usuarios sobre este nuevo cambio y les instruya sobre cómo aprovechar mejor esta nueva característica de Office 365. [Más información sobre el Autoguardado](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) y [Más información sobre lo que los administradores de TI deben saber sobre el Autoguardado](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
 - **Edición de la barra de fórmulas y las celdas mejorada:** ahora, puede usar CTRL + A para seleccionar el texto de una celda o de la barra de fórmulas. También se ha mejorado la compatibilidad con los emojis y otros caracteres complejos. [Más información](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **Convertir la entrada de lápiz:** dibuje y tome notas con garabatos y conviértalos en texto legible y formas nítidas para crear una presentación elegante. [Más información](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
 - **Compatibilidad con el formato SVG mejorada:** puede insertar imágenes SVG que tengan filtros aplicados. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
@@ -695,7 +695,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 - Se ha corregido un problema que impedía guardar un subproyecto al trabajar en él en el contexto de un proyecto principal.
 
 ### <a name="word-feature-updates"></a>Word: actualizaciones de características
-- **La característica de Autoguardado de archivos en la nube ahora está habilitada de forma predeterminada:** gracias a este cambio, los usuarios no tendrán que preocuparse por perder sus cambios en los documentos almacenados en OneDrive o SharePoint Online. Los usuarios ya no tendrán que presionar Ctrl + S específicamente o el botón de guardar, ya que los cambios se guardarán en la nube automáticamente. Sin embargo, tendrán que asimilar este cambio de comportamiento para no hacer cambios accidentales en las presentaciones. Tenga en cuenta que los usuarios pueden desactivar el Autoguardado con el botón de alternancia Autoguardado en la parte superior de la pantalla. Le recomendamos que notifique a sus usuarios sobre este próximo cambio y que les enseñe cómo aprovechar mejor esta nueva función de Office 365. [Obtenga más información sobre el Autoguardado](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) y [Obtenga más información para los administradores de TI sobre el Autoguardado](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
+- **El Autoguardado para archivos de nube ahora está habilitado de forma predeterminada:** con este cambio, los usuarios no tendrán que preocuparse por perder los cambios en los documentos almacenados en OneDrive o SharePoint Online. Los cambios se guardarán en la nube automáticamente y los usuarios no tendrán que presionar explícitamente Ctrl + G o el botón Guardar. Sin embargo, tendrán que comprender este cambio de comportamiento para que no realicen cambios accidentales en presentaciones. Tenga en cuenta que los usuarios pueden desactivar el Autoguardado con el botón de Autoguardado en la parte superior de la pantalla. Le recomendamos que notifique a los usuarios sobre este nuevo cambio y les instruya sobre cómo aprovechar mejor esta nueva característica de Office 365. [Más información sobre el Autoguardado](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) y [Más información sobre lo que los administradores de TI deben saber sobre el Autoguardado](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
 - **Mejoras del Comprobador de accesibilidad:** el Comprobador de accesibilidad ha actualizado la asistencia técnica para las recomendaciones y normas internacionales para que los documentos sean más accesibles. [Más información](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 - **Compatibilidad con el formato SVG mejorada:** puede insertar imágenes SVG que tengan filtros aplicados. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 

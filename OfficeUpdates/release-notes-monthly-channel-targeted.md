@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider Lento la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: ad71fff0a44c60626a4a6c1e1c834830ff1d0b88
-ms.sourcegitcommit: edcf5678c775b3944a93e8d596d217a2c3e28367
+ms.openlocfilehash: 7d3de2e4fe3d7d359542f6606ad08af1b5280fa0
+ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44029940"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "44163622"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Las compilaciones de notas de la versión del canal mensual de Office (dirigido)
 
@@ -56,7 +56,7 @@ En este artículo hay notas de la versión para las compilaciones del canal mens
 
 
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
+[//]: # (NO QUITAR ERRORES DE DETALLES DE CONTENIDO FINAL)
 
 ## <a name="version-2004-april-29"></a>Versión 2004: 29 de abril
 *Versión 2004 (compilación 12730.20236)*
@@ -289,7 +289,7 @@ En este artículo hay notas de la versión para las compilaciones del canal mens
 ## <a name="version-2003-april-14"></a>Versión 2003: 14 de abril
 *Versión 2003 (compilación 12624.20466)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
@@ -464,7 +464,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-2003-march-10"></a>Versión 2003: 10 de marzo
 *Versión 2003 (compilación 12624.20176)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 ### <a name="feature-updates"></a>Actualizaciones de características
@@ -684,7 +684,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-2002-february-11"></a>Versión 2002: 11 de febrero
 *Versión 2002 (compilación 12527.20092)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
@@ -892,7 +892,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-2001-january-14"></a>Versión 2001: 14 de enero
 *Versión 2001 (compilación 12430.20050)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-1912-january-08"></a>Versión 1912: 8 de enero
 *Versión 1912 (compilación 12325.20288)*
@@ -1099,7 +1099,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-1911-december-10"></a>Versión 1911: (10 de diciembre)
 *Versión 1911 (compilación 12228.20364)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
 
@@ -1162,7 +1162,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-1911-november-12"></a>Versión 1911: 12 de noviembre
 *Versión 1911 (compilación 12228.20120)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
 
