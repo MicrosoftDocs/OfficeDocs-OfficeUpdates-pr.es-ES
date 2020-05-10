@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 21c3262a0d258e5dd50a50c1edc33ed06164b29a
-ms.sourcegitcommit: 13b981a8a5ef2ac7c68f245213167026bdd0bdea
+ms.openlocfilehash: daf99ff348d31230f1905d35484e5ec1ba139c2d
+ms.sourcegitcommit: 2facbab73987c72b5118c055e32f3dfab13822af
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43997483"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44170630"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -25,6 +25,43 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 > - La fecha de publicación de las notas de versión pueden no coincidir con la fecha real de lanzamiento de la compilación.
 
 [//]: # (NO ELIMINAR)
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+
+## <a name="version-2006-may-08"></a>Versión 2006: 08 de mayo
+*Versión 2006 (Compilación 12829.20000)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Cuente sus historias con GIF animados:** los GIF animados ahora son compatibles con el editor de Office: sus documentos han pasado a ser más elegantes.
+
+### <a name="outlook"></a>Outlook
+
+- **Mejores resultados, en un instante:** actualizamos la experiencia de búsqueda para que sea más inteligente, rápida y fiable que nunca. [Más información](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
+
+- **Cuente sus historias con GIF animados:** los GIF animados ahora son compatibles con el editor de Office: sus documentos han pasado a ser más elegantes.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Cuente sus historias con GIF animados:** los GIF animados ahora son compatibles con el editor de Office: sus documentos han pasado a ser más elegantes. [Más información](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+
+### <a name="word"></a>Word
+
+- **Cuente sus historias con GIF animados:** los GIF animados ahora son compatibles con el editor de Office: sus documentos han pasado a ser más elegantes.
+
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Hemos estudiado y resuelto el problema por el que una implementación de Office 365 ProPlus a través de Intune se pausaba después de apagar el SO.
 
 [//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
@@ -81,14 +118,9 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
 
+
 ## <a name="version-2005-april-24"></a>Versión 2005: 24 de abril
 *Versión 2005 (compilación 12816.20006)*
-
-[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
-
-[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
-
-<br/>
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
@@ -109,6 +141,7 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 - Este cambio arregla un problema por el que el texto con hipervínculos puede no aparecer si la opción "Mostrar códigos de campo en lugar de sus valores" estaba activada.
 
 [//]: # (NO ELIMINAR LOS DETALLES DEL CONTENIDO FINAL)
+
 
 ## <a name="version-2005-april-17"></a>Versión 2005: 17 de abril
 *Versión 2005 (compilación 12810.20002)*
@@ -139,9 +172,8 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 - Se solucionó un problema por el cual Proyect podía bloquearse al cambiar el campo de estado del tablero en un proyecto que conectado a una lista de tareas de SharePoint.
 - Corregido un problema por el que Project podía bloquearse al guardar proyectos creados con versiones anteriores de Project.
 
-
-
 [//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+
 
 ## <a name="version-2004-april-10"></a>Versión 2004: 10 de abril
 *Versión 2004 (compilación 12730.20024)*
