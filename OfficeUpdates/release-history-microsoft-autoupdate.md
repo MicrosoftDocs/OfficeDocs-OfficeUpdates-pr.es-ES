@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales informáticos un historial de versiones de Microsoft AutoUpdate (MAU).
-ms.openlocfilehash: dbff1347c742bb0e0fc7a2e13df822f35da00496
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: dca350f83b16f776048c64b2fc023f53980be5ef
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714680"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44211115"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historial de versiones de Microsoft AutoUpdate (MAU)
  
@@ -29,6 +29,26 @@ En la siguiente tabla, se proporciona información del historial de versiones de
 > - Microsoft AutoUpdate ofrece actualizaciones para distintos productos de Mac de Microsoft. Por tanto, es posible que reciba una notificación para actualizar Microsoft AutoUpdate, incluso si no está ejecutando Office para Mac.
 
 Para ver las notas de la versión, consulte [Notas de la versión.](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="may-2020-release"></a>Versión de mayo de 2020
+
+**Fecha de lanzamiento:** 12 de mayo de 2020
+
+*Microsoft Auto Update 4.23*
+
+**Correcciones de errores y mejoras:**
+- Para los dispositivos que usan MacOS 10.13 o superior y las versiones de Office 2016, los usuarios verán notificaciones de que Office 2016 llega al final de su soporte técnico. 
+- Si las aplicaciones Word, Excel y PowerPoint no tienen una ventana abierta y el dispositivo se encuentra en modo de actualización automática de Microsoft AutoUpdate, los usuarios no necesitarán salir de estas aplicaciones para aplicar las actualizaciones. 3. Microsoft AutoUpdate ahora actualizará automáticamente su Panel de actualización con las últimas versiones en la CDN, sin que el usuario tenga que actualizarlo o iniciar una nueva sesión de AutoUpdate.
+
+**Vínculo para actualización de MAU:**
+
+[Descargar el paquete de actualización automática para Microsoft 4.23](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 Hash:**
+
+7DAB76D11427BACF30D3DBD87374CE755C618262E68FC3CA85B3FB8F3F3750AD
+
+<br/><br/>
 
 ## <a name="april-2020-release"></a>Versión de abril de 2020
 

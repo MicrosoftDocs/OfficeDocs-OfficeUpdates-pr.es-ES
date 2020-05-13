@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Aplicaciones de Microsoft 365 según el canal de actualización.
-ms.openlocfilehash: 77ecb79a3fbc6af85b16cd48aa375b698324b451
-ms.sourcegitcommit: d062befb07b0fae74b30bce2a10cdec248c252ad
+ms.openlocfilehash: b1d25b4ab4db03580e3a108fcb0435a659c2df0f
+ms.sourcegitcommit: 18f8f5d6dcd9743005ae2ba87c8e9e2d9edfe8c4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "44163522"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44211720"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tamaños de descarga de las actualizaciones de Aplicaciones de Microsoft 365 
 
@@ -26,13 +26,55 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 
 
 > [!IMPORTANT]
->  A partir de la versión 2004, el nombre de Office 365 ProPlus pasa a ser Aplicaciones de Microsoft 365 para empresas. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2123420) para obtener más información.Por lo general, en nuestra documentación solo haremos referencia a él como Aplicaciones de Microsoft 365.
+> - Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441) para obtener más información.
+> - A partir de la versión 2004, el nombre de Office 365 ProPlus pasa a ser Aplicaciones de Microsoft 365 para empresas. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2123420) para obtener más información.Por lo general, en nuestra documentación solo haremos referencia a él como Aplicaciones de Microsoft 365.
+
 
 > [!NOTE]
 > - El tamaño de descarga aproximado que aparece en las tablas solo se aplica a la versión en inglés de Estados Unidos x64 de Aplicaciones de Microsoft 365.
 > - Se muestran las versiones de los últimos cuatro meses.
 
 [//]: # (NO ELIMINAR)
+
+## <a name="may-12-2020"></a>12 de mayo de 2020
+
+[//]: # (NO ELIMINAR EL CONTENIDO INICIAL12 de mayo de 2020)
+
+### <a name="monthly-channel"></a>Canal mensual
+
+La versión más actual es la 2004 (compilación 12730.20270).
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 2004 (Compilación 12730.20250) <br/> |4 de mayo de 2020 <br/> |188<br/> |
+|Versión 2004 (compilación 12730.20236) <br/> |29 de abril de 2020 <br/> |172<br/> |
+
+
+### <a name="monthly-enterprise-channel"></a>Canal empresarial mensual
+
+La versión más actual es la 2003 (compilación 12624.20588).
+
+### <a name="semi-annual-targeted-channel"></a>Canal semestral (dirigido)
+
+La versión más actual es la 2002 (compilación 12527.20612).
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 2002 (compilación 12527.20442) <br/> |14 de abril de 2020 <br/> |67<br/> |
+|Versión 2002 (compilación 12527.20278) <br/> |10 de marzo de 2020 <br/> |79<br/> |
+
+
+### <a name="semi-annual-channel"></a>Canal semestral
+
+La versión más actual es la 1908 (compilación 11929.20776).
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1908 (compilación 11929.20708) <br/> |14 de abril de 2020 <br/> |66<br/> |
+|Versión 1908 (compilación 11929.20648) <br/> |10 de marzo de 2020 <br/> |77<br/> |
+
+
+[//]: # (NO ELIMINE EL CONTENIDO FINAL12 de mayo de 2020)
 
 
 ## <a name="may-4-2020"></a>4 de mayo de 2020
