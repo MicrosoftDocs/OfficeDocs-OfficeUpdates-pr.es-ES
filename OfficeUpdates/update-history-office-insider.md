@@ -9,19 +9,20 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a participantes del programa Insider el historial de actualizaciones de los lanzamientos del canal mensual del modo anticipado de Insider para versiones de escritorio de Windows
-ms.openlocfilehash: 41fa1f19f3a7a52ac27661bb43ac25f0fd397951
-ms.sourcegitcommit: edcf5678c775b3944a93e8d596d217a2c3e28367
+ms.openlocfilehash: 604cf53ee0a60e273e394d4454473b0507616070
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44029891"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44211185"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Historial de actualizaciones del canal de Office Insider
 
 Hola, participantes de Insider. Si os estáis preguntando si tenéis instalada la actualización más reciente o buscáis una lista de las compilaciones recientes de Insider, estáis en el lugar adecuado. Haced clic [aquí](https://insider.office.com/) para obtener más información sobre el programa Insider.
 
 > [!IMPORTANT]
-> A partir de la versión 2004, el nombre de Office 365 ProPlus pasa a ser Aplicaciones de Microsoft 365 para empresas. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2123420) para obtener más información.Por lo general, en nuestra documentación solo haremos referencia a él como Aplicaciones de Microsoft 365.
+> - Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441) para obtener más información.
+> - A partir de la versión 2004, el nombre de Office 365 ProPlus pasa a ser Aplicaciones de Microsoft 365 para empresas. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2123420) para obtener más información.Por lo general, en nuestra documentación solo haremos referencia a él como Aplicaciones de Microsoft 365.
 
 > [!NOTE]
 >
@@ -36,7 +37,10 @@ Para obtener las notas de la versión, vea [notas de la versión de Insider de O
 
 [//]: # (NO ELIMINAR)
 
-**Mayo 4, 2020**<br/>
+**11 de mayo de 2020**<br/>
+Versión 2006 (Compilación 12905.20000)<br/>
+
+**4 de mayo de 2020**<br/>
 Versión 2006 (Compilación 12829.20000)<br/>
 
 **29 de abril de 2020**<br/>

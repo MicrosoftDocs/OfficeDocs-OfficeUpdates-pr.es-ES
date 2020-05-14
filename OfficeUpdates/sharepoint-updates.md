@@ -13,18 +13,18 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: Encuentre y administre actualizaciones de SharePoint Server 2016, SharePoint 2013 y SharePoint 2010 en una única ubicación. Use los vínculos de esta página para obtener más información sobre las actualizaciones y luego descárguelas.
-ms.openlocfilehash: c689c5d04224e8e46dc60500fc68b2f630ed78e3
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+ms.openlocfilehash: 61cd44c484738565187d16c86e15233325384b0c
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521208"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44210815"
 ---
 # <a name="sharepoint-updates"></a>Actualizaciones de SharePoint
 
 Encuentre y administre actualizaciones de [SharePoint Server 2019](#sharepoint-2019-update-history), [SharePoint 2016](#sharepoint-2016-update-history), [SharePoint 2013](#sharepoint-2013-update-history) y [SharePoint 2010](#sharepoint-2010-update-history) en una única ubicación. Use los vínculos de esta página para obtener más información sobre las actualizaciones y luego descárguelas.
 
-Para obtener las últimas actualizaciones de SharePoint Online y Office 365, vea [Plan de desarrollo de Office 365](https://go.microsoft.com/fwlink/p/?linkid=529454).
+Para obtener las actualizaciones más recientes de SharePoint Online y Microsoft 365, consulte la [Hoja de ruta de Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=529454).
 
 <a name="BKMK_2016"> </a>
   
@@ -32,6 +32,7 @@ Para obtener las últimas actualizaciones de SharePoint Online y Office 365, vea
 
 |**Nombre del paquete**|**Número de KB**|**Version**|**Fecha de publicación**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Server 2019  <br/> Revisión de idioma/MUI de SharePoint Server 2019  <br/> |[KB 4484332](https://support.microsoft.com/help/4484332) <br/> [KB 4484331](https://support.microsoft.com/help/4484331) <br/> |16.0.10359.20000|Mayo de 2020  <br/> |
 |SharePoint Server 2019  <br/> Revisión de idioma/MUI de SharePoint Server 2019  <br/> |[KB 4484292](https://support.microsoft.com/help/4484292) <br/> [KB 4484291](https://support.microsoft.com/help/4484291) <br/> |16.0.10358.20000|Abril de 2020  <br/> |
 |SharePoint Server 2019  <br/> Revisión de idioma/MUI de SharePoint Server 2019  <br/> |[KB 4484271](https://support.microsoft.com/help/4484271) <br/> [KB 4484277](https://support.microsoft.com/help/4484277) <br/> |16.0.10357.20002|Marzo de 2020  <br/> |
 |SharePoint Server 2019  <br/> Revisión de idioma/MUI de SharePoint Server 2019  <br/> |[KB 4484259](https://support.microsoft.com/help/4484259) <br/> [KB 4484225](https://support.microsoft.com/help/4484225) <br/> |16.0.10355.20000|Febrero de 2020  <br/> |
@@ -54,6 +55,7 @@ Para obtener las últimas actualizaciones de SharePoint Online y Office 365, vea
 
 |**Nombre del paquete**|**Número de KB**|**Version**|**Fecha de publicación**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Server 2016  <br/> |[KB 4484336](https://support.microsoft.com/help/4484336) <br/> |16.0.5005.1000  |Mayo de 2020  <br/> |
 |SharePoint Server 2016  <br/> Revisión de idioma/MUI de SharePoint Server 2016  <br/> |[KB 4484299](https://support.microsoft.com/help/4484299) <br/> [KB 4484301](https://support.microsoft.com/help/4484301) <br/> |16.0.4993.1000  |Abril de 2020  <br/> |
 |SharePoint Server 2016  <br/> Revisión de idioma/MUI de SharePoint Server 2016  <br/> |[KB 4484272](https://support.microsoft.com/help/4484272) <br/> [KB 4484275](https://support.microsoft.com/help/4484275) <br/> |16.0.4978.1000  |Marzo de 2020  <br/> |
 |SharePoint Server 2016  <br/> Revisión de idioma/MUI de SharePoint Server 2016  <br/> |[KB 4484255](https://support.microsoft.com/help/4484255) <br/> [KB 4484257](https://support.microsoft.com/help/4484257) <br/> |16.0.4966.1000  |Febrero de 2020  <br/> |
@@ -118,6 +120,7 @@ Se proporcionan los siguientes paquetes para actualizaciones acumulativas:
     
 |**Nombre del paquete**|**Número de KB**|**Version**|**Fecha de publicación**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4484358](https://support.microsoft.com/help/4484358) <br/> [KB 4484362](https://support.microsoft.com/help/4484362) <br/> |15.0.5241.1000  |Mayo de 2020  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4484309](https://support.microsoft.com/help/4484309) <br/> [KB 4484320](https://support.microsoft.com/help/4484320) <br/> |15.0.5233.1000  |Abril de 2020  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4484278](https://support.microsoft.com/help/4484278) <br/> [KB 4484280](https://support.microsoft.com/help/4484280) <br/> |15.0.5223.1000  |Marzo de 2020  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4484261](https://support.microsoft.com/help/4484261) <br/> [KB 4484263](https://support.microsoft.com/help/4484263) <br/> |15.0.5215.1000  |Febrero de 2020  <br/> |
@@ -197,6 +200,7 @@ Se proporcionan los siguientes paquetes para actualizaciones acumulativas:
 
 |**Nombre del paquete**|**Número de KB**|**Version**|**Fecha de publicación**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4484386](https://support.microsoft.com/help/4484386) <br/> [KB 4484389](https://support.microsoft.com/help/4484389) <br/> |14.0.7250.5000  |Mayo de 2020  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4484298](https://support.microsoft.com/help/4484298) <br/> [KB 4484324](https://support.microsoft.com/help/4484324) <br/> |14.0.7248.5000  |Abril de 2020  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4484197](https://support.microsoft.com/help/4484197) <br/> [KB 4484241](https://support.microsoft.com/help/4484241) <br/> |14.0.7246.5000  |Marzo de 2020  <br/> |
 |SharePoint Server 2010  <br/> |[KB 4484195](https://support.microsoft.com/help/4484195) <br/> |14.0.7243.5000|Diciembre de 2019  <br/> |

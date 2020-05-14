@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión de las actualizaciones de seguridad de Aplicaciones de Microsoft 365
-ms.openlocfilehash: b2a54edbf0d9f1960f4a52ef112741e6220e8821
-ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
+ms.openlocfilehash: 91538ad859fe5dc3d45a73d0798ff21708f6178b
+ms.sourcegitcommit: 18f8f5d6dcd9743005ae2ba87c8e9e2d9edfe8c4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "44138577"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44211710"
 ---
 # <a name="release-notes-for-microsoft-365-apps-security-updates"></a>Notas de la versión para las actualizaciones de seguridad de las Aplicaciones de Microsoft 365
 
@@ -24,11 +24,32 @@ Esta información se aplica a Aplicaciones de Microsoft 365 para empresa, Aplica
 
 
 > [!IMPORTANT]
-> A partir de la versión 2004, el nombre de Office 365 ProPlus cambia a Aplicaciones de Microsoft 365 para empresas.  [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2123420) para obtener más información. Por lo general, en nuestra documentación solo haremos referencia a él como Aplicaciones de Microsoft 365.
+> - Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441) para obtener más información.
+> - A partir de la versión 2004, el nombre de Office 365 ProPlus pasa a ser Aplicaciones de Microsoft 365 para empresas. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2123420) para obtener más información.Por lo general, en nuestra documentación solo haremos referencia a él como Aplicaciones de Microsoft 365.
+
 
  
 
 [//]: # (NO QUITAR LA LÍNEA ANTERIOR, se usa para el espaciado)  
+
+## <a name="may-12-2020"></a>12 de mayo de 2020
+Canal mensual: versión 2004 (compilación 12730.20270)  
+Canal empresarial mensual: versión 2003 (compilación 12624.20588)  
+Canal semestral (dirigido): versión 2002 (compilación 12527.20612)  
+Canal semestral: versión 1908 (compilación 11929.20776)  
+Canal semestral: versión 1902 (compilación 11328.20586)  
+Aplicaciones de Microsoft 365 en Windows 7: versión 2002 (compilación 12527.20612)  
+
+[//]: # (NO QUITAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO INICIAL)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-0901](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0901)
+
+[//]: # (NO QUITAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO FINAL)
+
+
 
 ## <a name="april-14-2020"></a>14 de abril de 2020
 Canal mensual: versión 2003 (compilación 12624.20442)  
