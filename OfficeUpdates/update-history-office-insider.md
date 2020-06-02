@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a participantes del programa Insider el historial de actualizaciones de los lanzamientos del canal mensual del modo anticipado de Insider para versiones de escritorio de Windows
-ms.openlocfilehash: 24394cd294d3f9a40b2f4a4909bb78b7e45ae371
-ms.sourcegitcommit: 7f89660b1ac317bee396bcba1098373dfee22923
+ms.openlocfilehash: 8ab8e91cabecc86a53fc3bb8f9532f0f6af001fb
+ms.sourcegitcommit: f677a82dcce2425d747af0f17351b5e84719ac61
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44368285"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44478190"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Historial de actualizaciones del canal de Office Insider
 
@@ -36,6 +36,9 @@ Si está inscrito en el nivel de Insider, obtendrá actualizaciones frecuentes c
 Para obtener las notas de la versión, vea [notas de la versión de Insider de Office para escritorio de Windows](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider).
 
 [//]: # (NO ELIMINAR)
+
+**1 de junio de 2020**<br/>
+Versión 2006 (compilación 12930,20014)<br/>
 
 **25 de mayo de 2020**<br/>
 Versión 2006 (compilación 12920,20000)<br/>
