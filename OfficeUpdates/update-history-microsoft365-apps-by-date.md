@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista completa de las versiones de las Aplicaciones de Microsoft 365, organizada por fecha, con vínculos a las notas de la versión.
-ms.openlocfilehash: c3e7222a89bc6e854c63472f3cf123feaeb8bcda
-ms.sourcegitcommit: 18f8f5d6dcd9743005ae2ba87c8e9e2d9edfe8c4
-ms.translationtype: HT
+ms.openlocfilehash: 2a48dfaf1f2401a9dcaff8c32873547cc923fe72
+ms.sourcegitcommit: 9393c868c1a8b7b6d4bba8abbe02a6c984b9547b
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44211736"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "44520214"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Historial de actualizaciones de Aplicaciones de Microsoft 365 (ordenado por fecha)
 
@@ -36,7 +36,7 @@ En la tabla siguiente se muestra la versión compatible y el número de compilac
 
 |**Canal**|**Versión**|**Compilación**|**Fecha de publicación**|**Versión admitida hasta**|
 |:-----|:-----|:-----|:-----|:-----|
-|Mensualmente<br/>|2004<br/>|12730.20270<br/>|12 de mayo de 2020<br/>|Lanzamiento de la versión 2005<br/>|
+|Mensualmente<br/>|2005<br/>|12827,20268<br/>|2 de junio de 2020<br/>|La versión 2006 se ha lanzado<br/>|
 |Empresarial mensual<br/>|2003<br/>|12624.20588<br/>|12 de mayo de 2020<br/>|14 de julio de 2020<br/>|
 |Semianual (dirigido)<br/>|2002<br/>|12527.20612<br/>|12 de mayo de 2020<br/>|8 de septiembre de 2020<br/>|
 |Semianual<br/>|1908<br/>|11929.20776<br/>|12 de mayo de 2020<br/>|9 de marzo 2021<br/>|
@@ -52,6 +52,8 @@ La siguiente tabla proporciona una lista de los números de versión y compilaci
 
 |**Year**|**Fecha de publicación**|**Canal mensual**|**Canal empresarial mensual**|**Canal semianual (dirigido)**|**Canal semianual**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020|2 de junio|[Versión 2005 (compilación 12827,20268)](monthly-channel-2020.md#version-2005-june-02)| | | |
+|2020|21 de mayo|[Versión 2004 (compilación 12730,20352)](monthly-channel-2020.md#version-2004-may-21)| | | |
 |2020|12 de mayo|[Versión 2004 (compilación 12730.20270)](monthly-channel-2020.md#version-2004-may-12)|[Versión 2003 (compilación 12624.20588)](monthly-enterprise-channel-2020.md#version-2003-may-12)<br/>|[Versión 2002 (compilación 12527.20612)](semi-annual-channel-targeted-2020.md#version-2002-may-12)|[Versión 1908 (compilación 11929.20776)](semi-annual-channel-2020.md#version-1908-may-12)<br/>[Versión 1902 (compilación 11328.20586)](semi-annual-channel-2020.md#version-1902-may-12)|
 |2020|04 de mayo|[Versión 2004 (Compilación 12730.20250)](monthly-channel-2020.md#version-2004-may-04)| | |[Versión 1908 (Compilación 11929.20752)](semi-annual-channel-2020.md#version-1908-may-04)<br/>[Versión 1902 (compilación 11328.20572)](semi-annual-channel-2020.md#version-1902-may-04)|
 |2020|29 de abril|[Versión 2004 (compilación 12730.20236)](monthly-channel-2020.md#version-2004-april-29)| | | |
@@ -78,7 +80,7 @@ La siguiente tabla proporciona una lista de los números de versión y compilaci
 |2019|14 de octubre|[Versión 1909 (compilación 12026.20334)](monthly-channel-2019.md#version-1909-october-14)| |[Versión 1908 (compilación 11929.20396)](semi-annual-channel-targeted-2019.md#version-1908-october-14)| |
 |2019|8 de octubre|[Versión 1909 (compilación 12026.20320)](monthly-channel-2019.md#version-1909-october-08)| |[Versión 1908 (compilación 11929.20388)](semi-annual-channel-targeted-2019.md#version-1908-october-08)|[Versión 1902 (compilación 11328.20438)](semi-annual-channel-2019.md#version-1902-october-08)<br/>[Versión 1808 (compilación 10730.20386)](semi-annual-channel-2019.md#version-1808-october-08)|
 |2019|30 de septiembre|[Versión 1909 (compilación 12026.20264)](monthly-channel-2019.md#version-1909-september-30)| | | |
-|2019|10 de septiembre|[Versión 1908 (compilación 11929.20300)](monthly-channel-2019.md#version-1908-september-10)| |[Versión 1908 (compilación 11929.20300)](semi-annual-channel-targeted-2019.md#version-1908-september-10)|[Versión 1902 (compilación 11328.20420)](semi-annual-channel-2019.md#version-1902-september-10)<br/>[Versión 1808 (compilación 10730.20380)](semi-annual-channel-2019.md#version-1808-september-10)|
+|2019|10 de septiembre|[Versión 1908 (Build 11929,20300)](monthly-channel-2019.md#version-1908-september-10)| |[Versión 1908 (compilación 11929.20300)](semi-annual-channel-targeted-2019.md#version-1908-september-10)|[Versión 1902 (compilación 11328.20420)](semi-annual-channel-2019.md#version-1902-september-10)<br/>[Versión 1808 (compilación 10730.20380)](semi-annual-channel-2019.md#version-1808-september-10)|
 |2019|26 de agosto|[Versión 1908 (compilación 11929.20254)](monthly-channel-2019.md#version-1908-august-26)| | | |
 |2019|13 de agosto|[Versión 1907 (compilación 11901.20218)](monthly-channel-2019.md#version-1907-august-13)| |[Versión 1902 (compilación 11328.20392)](semi-annual-channel-targeted-2019.md#version-1902-august-13)|[Versión 1902 (compilación 11328.20392)](semi-annual-channel-2019.md#version-1902-august-13)<br/>[Versión 1808 (compilación 10730.20370)](semi-annual-channel-2019.md#version-1808-august-13)<br/>[Versión 1803 (compilación 9126.2432)](semi-annual-channel-2019.md#version-1803-august-13)|
 |2019|29 de julio|[Versión 1907 (compilación 11901.20176)](monthly-channel-2019.md#version-1907-july-29)| | | |

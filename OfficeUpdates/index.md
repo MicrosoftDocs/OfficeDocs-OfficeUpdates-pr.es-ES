@@ -11,12 +11,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Landing
 description: Proporciona a los profesionales de ti vínculos al contenido de la versión de Office para Office 365 ProPlus, Office para Mac, Perpetual Office y productos de servidor de Office
-ms.openlocfilehash: 2bdea84afebdfdfd525776aaa50e2540c9d67507
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: 9b70612a1296b764edd1f17357ef6f659bbcc701
+ms.sourcegitcommit: b1fcfac6d568a74e296ca2f874a8d33a8a81cc5e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714550"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44163452"
 ---
 # <a name="office-updates"></a>Actualizaciones de Office
 
@@ -33,10 +33,10 @@ Obtenga información sobre características, actualizaciones de seguridad y actu
                 <div class="card">
                     <div class="cardText">
                         <h3>Aplicaciones de Microsoft 365</h3>
-                        <p><a href="release-notes-office365-proplus.md">Notas de la versión</a></p>
-                        <p><a href="update-history-office365-proplus-by-date.md">Historial de actualizaciones (por fecha)</a></p>
-                        <p><a href="download-sizes-office365-proplus-updates.md">Tamaños de actualizaciones</a></p>
-                        <p><a href="office365-proplus-security-updates.md">Actualizaciones de seguridad</a></p>
+                        <p><a href="release-notes-microsoft365-apps.md">Notas de la versión</a></p>
+                        <p><a href="update-history-microsoft365-apps-by-date.md">Historial de actualizaciones (por fecha)</a></p>
+                        <p><a href="download-sizes-microsoft365-apps-updates.md">Tamaños de actualizaciones</a></p>
+                        <p><a href="microsoft365-apps-security-updates.md">Actualizaciones de seguridad</a></p>
                     </div>
                 </div>
             </div>
