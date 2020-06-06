@@ -11,12 +11,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Landing
 description: Proporciona a los profesionales de ti vínculos al contenido de la versión de Office para Office 365 ProPlus, Office para Mac, Perpetual Office y productos de servidor de Office
-ms.openlocfilehash: 9b70612a1296b764edd1f17357ef6f659bbcc701
-ms.sourcegitcommit: b1fcfac6d568a74e296ca2f874a8d33a8a81cc5e
+ms.openlocfilehash: 5f7f223ea6bac5b7af6dffd3c461e4071eeb12ac
+ms.sourcegitcommit: c32d5e03d3c8dbfaba32a8d5349edc3ce1577a38
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44163452"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44588394"
 ---
 # <a name="office-updates"></a>Actualizaciones de Office
 
@@ -48,8 +48,8 @@ Obtenga información sobre características, actualizaciones de seguridad y actu
                 <div class="card">
                     <div class="cardText">
                         <h3>Office para Mac</h3>
-                        <p><a href="release-notes-office-for-mac.md">Notas de la versión (Office 365, 2019)</a></p>
-                        <p><a href="update-history-office-for-mac.md">Historial de actualizaciones (Office 365, 2019)</a></p>
+                        <p><a href="release-notes-office-for-mac.md">Notas de la versión (Microsoft 365, 2019)</a></p>
+                        <p><a href="update-history-office-for-mac.md">Historial de actualizaciones (Microsoft 365, 2019)</a></p>
                         <p><a href="release-notes-office-2016-mac.md">Notas de la versión (2016)</a></p>
                         <p><a href="release-history-microsoft-autoupdate.md">Versiones de MAU</a></p>
                      </div>
@@ -81,12 +81,11 @@ Obtenga información sobre características, actualizaciones de seguridad y actu
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText">
-                        <h3>Office (permanente)</h3>
+                        <h3>Office (licencia perpetua)</h3>
                             <p><a href="update-history-office-2019.md">Office 2016 y 2019 (C2R)</a></p>
                             <p><a href="office-updates-msi.md">Actualizaciones de Office 2010, 2013 y 2016 (MSI)</a></p>
-                            <p><a href="outlook-updates-msi.md">Actualizaciones de Outlook 2010, 2013 y 2016 (MSI)</a></p>
-                            <p><a href="https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates">Actualizaciones de Skype empresarial</a></p>
                             <p><a href="msp-files-office-2016.md">Archivos. MSP de Office 2016</a></p>
+                            <p><a href="msp-files-office-2013.md">Archivos. MSP de Office 2013</a></p>
                     </div>
                 </div>
             </div>
@@ -98,9 +97,9 @@ Obtenga información sobre características, actualizaciones de seguridad y actu
                 <div class="card">
                     <div class="cardText">
                         <h3>Otros recursos de Office</h3>
-                            <p><a href="https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426">Novedades de Office 365</a></p>
-                            <p><a href="https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=O365">Guía básica de Office 365</a></p>
-                            <p><a href="https://support.office.com/article/719f4904-cbdd-4889-a0cf-fbd7837dfecd">Estar al día de los cambios de Office 365</a></p>
+                            <p><a href="https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426">¿Cuáles son las novedades de Microsoft 365?</a></p>
+                            <p><a href="https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=O365">Plan de desarrollo de Microsoft 365</a></p>
+                            <p><a href="https://support.office.com/article/719f4904-cbdd-4889-a0cf-fbd7837dfecd">Mantenerse al día de los cambios de Microsoft 365</a></p>
                             <p><a href="https://www.microsoft.com/microsoft-365/blog/office/">Blog de Office</a></p>
                     </div>
                 </div>

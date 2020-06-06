@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: b803fe8ec20f102d2c8cf3e68cbddb042beffb6e
-ms.sourcegitcommit: be205676acfa15f0c2170593b0b5ad721bea4f2d
+ms.openlocfilehash: 0e58405ba80e3656e5e3d4b8aef45dbd1df272d3
+ms.sourcegitcommit: 868c40861ac49ef565519e2917a9c0435ca20740
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44424592"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581789"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -29,7 +29,67 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
 [//]: # (NO ELIMINAR)
 
-[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
+
+## <a name="version-2006-june-05"></a>Versión 2006:5 de junio
+*Versión 2006 (compilación 13001,20002)*
+
+[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Ordenar o filtrar mientras colabora en Excel:** Ahora puede ordenar y filtrar el archivo de Excel mientras colabora con otros usuarios. Esta nueva característica impide que se vean afectados por las ordenaciones y los filtros de otros usuarios al coautor del documento.
+
+- **Cree tablas dinámicas de conjuntos de elementos en Power BI en Excel:** Puede crear tablas dinámicas en Excel que estén conectadas a los conjuntos de valores almacenados en Power BI con unos pocos clics.Esto le permite sacar el máximo partido de las tablas dinámicas y de Power BI. Calcule, resume y analice los datos con tablas dinámicas de los datasets de Power BI protegidos. [Más información](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
+
+### <a name="outlook"></a>Outlook
+
+- **Volver a abrir rápidamente los elementos de la sesión anterior:** Se ha agregado una opción para volver a abrir rápidamente los elementos de una sesión anterior de Outlook. Ya sea que Outlook se bloquee o lo cierre, ahora podrá volver a iniciar rápidamente los elementos cuando vuelva a abrir la aplicación. Esta característica está activada de forma predeterminada. Para desactivarla, vaya a opciones > general > opciones de inicio.
+
+
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema que provocaba que no se aplicaran correctamente los valores personalizados del eje del gráfico.
+- Se ha corregido un problema por el que las hojas de cálculo que contenían varias fórmulas con nombres definidos se producían más veces al guardar archivos.
+
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema por el que la ventana IME (editor de métodos de entrada) se solapaba con el texto subyacente que se escribe mediante el IME cuando se usan varios monitores con diferentes resoluciones.
+- Se ha corregido un problema por el que, al visualizar una plantilla al redactar un nuevo mensaje de correo electrónico, se producía un bloqueo.
+- Se ha corregido un problema por el que los usuarios no podían intercambiar 2010 carpetas públicas después de Outlook versión 1911.
+- Se ha corregido un problema por el que se deshabilitó el botón clasificar para calendarios de grupo en la cinta de Office.
+- Se ha corregido un problema que provocaba que los usuarios con conflictos de contactos experimenten bloqueos en Outlook.
+- Se ha corregido un problema que provocaba que faltase el cuadro desplegable archivo en línea en las propiedades de la carpeta para los usuarios en monitores con alta resolución de PPP.
+- Hemos corregido un problema que provocaba que los usuarios experimentaran un bloqueo en Outlook al trabajar con hipervínculos en mensajes de correo electrónico de texto sin formato.
+- Se ha corregido un problema que provocaba que Outlook no pudiera analizar nombres de archivo largos codificados con RFC2231.
+- Se ha corregido un problema que provocaba que los usuarios de Outlook experimentaban bloqueos intermitentes al usar lectores de pantalla.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Hemos corregido un problema al abrir archivos configurados por el servidor con la autenticación basada en formularios.
+- Se ha corregido un problema por el que los archivos de PowerPoint con gráficos o libros incrustados podrían provocar errores al guardar el archivo.
+- Se ha corregido un problema por el que un panel de comentarios cerrado por el usuario volvería a abrirse automáticamente.
+- Se ha corregido un problema que provocaba que el editor de diapositivas de una diapositiva se superponga en la diapositiva siguiente.
+
+### <a name="project"></a>Project
+
+- Se ha corregido un problema que impedía que las tareas huérfanas se eliminaran o se volvieran a asignar después de que se eliminara el plan primario.
+
+### <a name="word"></a>Word
+
+- Se ha corregido un problema por el que las marcas de hora en los paneles de comentarios no se basaban en la hora de la configuración regional del sistema.
+- Se ha corregido un problema por el que no se sincronizaban los comentarios entre la aplicación web y la aplicación de escritorio.
+
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
+
 
 ## <a name="version2006may29"></a>Versión 2006:29 de mayo
 *Versión 2006 (compilación 12920,20000)*
@@ -43,11 +103,11 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
 - **Rendimiento de vídeo de transmisión mejorado en PowerPoint:** Hemos realizado mejoras en el rendimiento de reproducción de los vídeos de Microsoft Stream para minimizar el tiempo de carga de vídeo y crear una experiencia de visualización fluida.  Use sus vídeos corporativos de Microsoft Stream para crear mejores presentaciones.
 
-[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
 
 <br/>
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO INICIAL)
 
 ### <a name="resolvedissues"></a>Problemas corregidos
 
@@ -75,7 +135,7 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 ## <a name="version-2006-may-22"></a>Versión 2006:22 de mayo
 *Versión 2006 (compilación 12914,20000)*
 
-[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="excel"></a>Excel
@@ -207,30 +267,30 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
 <br/>
 
-[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="office-suite"></a>Conjunto de aplicaciones de Office
 
 - Hemos estudiado y resuelto el problema por el que una implementación de Office 365 ProPlus a través de Intune se pausaba después de apagar el SO.
 
-[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
 
 ## <a name="version-2005-may-01"></a>Versión 2005: 1 de mayo
 *Versión 2005 (compilación 12827.20030)*
 
-[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="outlook"></a>Outlook
 
-- **Vínculos mejorados en el correo electrónico:** al incluir un vínculo a un archivo, la dirección URL se reemplaza por el nombre del archivo. Puede cambiar los permisos para que todos los destinatarios tengan acceso. [Más información](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)
+- **Vínculos mejorados en el correo electrónico:** al incluir un vínculo a un archivo, la dirección URL se reemplaza por el nombre del archivo. Puede cambiar los permisos para que todos los destinatarios tengan acceso. [Obtener más información](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
 <br/>
 
-[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="excel"></a>Excel
@@ -267,7 +327,7 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 - En la Vista web o en el lector inmersivo, al hacer clic en una sugerencia se desplazaba a la parte superior incluso aunque ya estuviera a la vista. Este error se ha corregido.
 - Se ha corregido un problema por el que al intentar guardar un archivo que contenía una macro con un nombre nuevo, este se guardaba con la extensión. docx y el nombre de archivo WRO0004.docx, independientemente de lo que el usuario escribiera, lo que hacía que el archivo no se pudiera volver a usar.
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
+[//]: # (NO ELIMINAR LOS DETALLES DEL CONTENIDO FINAL)
 
 
 ## <a name="version-2005-april-24"></a>Versión 2005: 24 de abril
@@ -297,7 +357,7 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 ## <a name="version-2005-april-17"></a>Versión 2005: 17 de abril
 *Versión 2005 (compilación 12810.20002)*
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO INICIAL)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="excel"></a>Excel
@@ -318,12 +378,12 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 - Se solucionó un problema que hacía que las reglas de eliminación creadas para los buzones que no fueran el buzón principal del usuario dejaran de ser válidas.
 - Se solucionó un problema que hacía que los datos adjuntos se perdieran al reenviar un mensaje cifrado.
 
-### <a name="project"></a>Proyecto
+### <a name="project"></a>Project
 - Cuando se editan los datos del Predecesor/Sucesor dentro de una vista de formulario, se activa un evento ProjectBeforeTaskChange adicional.
 - Se solucionó un problema por el cual Proyect podía bloquearse al cambiar el campo de estado del tablero en un proyecto que conectado a una lista de tareas de SharePoint.
 - Corregido un problema por el que Project podía bloquearse al guardar proyectos creados con versiones anteriores de Project.
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 
 ## <a name="version-2004-april-10"></a>Versión 2004: 10 de abril
@@ -362,7 +422,7 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
 <br/>
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="access"></a>Access
@@ -431,7 +491,7 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
 <br/>
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="outlook"></a>Outlook
@@ -448,7 +508,7 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 ### <a name="word"></a>Word
 - Este cambio corrige un problema con varias páginas seleccionadas en el menú Ver, donde el panel de comentarios podía mostrarse en blanco.
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2004-march-20"></a>Versión 2004: 20 de marzo
 *Versión 2004 (compilación 12711.20000)*
@@ -470,7 +530,7 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
 <br/>
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="excel"></a>Excel
@@ -517,12 +577,12 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
 - Se corrigió un problema por el que las firmas digitales guardadas en documentos de Word se eliminaban al enviar los documentos.
 
-[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
 
 ## <a name="version-2004-march-13"></a>Versión 2004: 13 de marzo
 *Versión 2004 (compilación 12703.20010)*
 
-[//]: # (NO QUITAR DETALLES DE CARACTERÍSTICAS CONTENIDO INICIO)
+[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 
@@ -555,7 +615,7 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 - Corrige un problema que provocaba que al presionar Entrar en el panel de búsqueda expandido no se iniciara la búsqueda y requería que los usuarios hiciesen clic en el botón de búsqueda.
 - Se ha corregido un problema por el que la búsqueda no muestra información sobre los usuarios cuando se ha deshabilitado la opción "Mostrar fotografías de usuario cuando estén disponibles".
 
-### <a name="project"></a>Project
+### <a name="project"></a>Proyecto
 - Se corrigió un problema en el que las fechas de las tareas de resumen se calculaban siempre correctamente.
 - Corregido un problema en el que el evento OnUndoOrRedo no se desencadena sin ejecutar primero el método OpenUndoTransaction.
 
@@ -565,7 +625,7 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 - Se ha corregido un problema al combinar dos documentos en uno.
 - Se ha corregido un problema que hacía que el marcado de revisiones que impliquen ecuaciones ocasionase un error al guardar el archivo.
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
 
 ## <a name="version-2003-march-06"></a>Versión 2003: 06 de marzo
 *Versión 2003 (compilación 12624.20086)*
@@ -593,9 +653,9 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
 - Se ha corregido un problema estético en el que el botón "Aceptar" del cuadro de diálogo de Archivo \ Opciones se mostraba atenuado, pero la función no se veía afectada.
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
 
-[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
 
 ## <a name="version-2003-february-28"></a>Versión 2003: 28 de febrero
 *Versión de 2003 (compilación 12619.20002)*
@@ -615,7 +675,7 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
 <br/>
 
-[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="excel"></a>Excel
@@ -638,23 +698,23 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
 - Corrige un problema por el que cuando hay varios documentos abiertos en Word/Excel/PowerPoint de la misma biblioteca de SharePoint, solo se analizará el primer documento abierto para el cumplimiento de las directivas.
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2003-february-21"></a>Versión 2003: 21 de febrero
 *Versión 2003 (compilación 12615.20000)*
 
-[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="office-suite"></a>Conjunto de aplicaciones de Office
 
 - **Elija el color perfecto:** use códigos de colores hexadecimales para elegir exactamente el color que desea para la fuente, el resaltado de texto, etc.
 
-[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
 
 <br/>
 
-[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 
@@ -677,12 +737,12 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 ### <a name="office-suite"></a>Conjunto de aplicaciones de Office
 - Al usar las propiedades Multichoice/Lookup/Managed-metadata con documentos de Word/Excel/PowerPoint y guardar en una biblioteca de documentos de SharePoint, estas propiedades se limitaban anteriormente a 255 caracteres. Cuando estas propiedades superaban 255 caracteres, estos documentos no se podían guardar. Con este cambio, este límite se ha aumentado a 2048 caracteres.
 
-[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
 
 ## <a name="version-2003-february-14"></a>Versión 2003: 14 de febrero
 *Versión 2003 (compilación 12607.20000)*
 
-[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="outlook"></a>Outlook
@@ -697,7 +757,7 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
 - **Iconos de la barra de estado más nítidos:** los iconos de la barra de estado ahora son más fáciles de ver
 
-[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
 
 <br/>
 
@@ -722,19 +782,19 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
 - Se ha corregido un problema por el que las imágenes de los documentos pierden transparencia al exportarse a PDF.
 
-[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
 
 ## <a name="version-2002-february-07"></a>Versión 2002: 07 de febrero
 *Versión 2002 (Compilación 12527.20040)*
 
-[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="access"></a>Access
 
 - **Aumente su productividad con el Diseñador de consultas, la vista SQL y la ventana Relaciones:** haga clic con el botón derecho en una tabla para abrirla, diseñarla, cambiar su tamaño y ocultarla. Buscar y reemplazar texto en la vista SQL. Seleccione múltiples tablas en la ventana Relaciones.
 
-[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
 
 <br/>
 
@@ -781,4 +841,4 @@ En este artículo hay notas de la versión para las compilaciones de Insider de 
 
 - Resuelto un problema que podía causar que el paquete de herramientas de corrección de Noruega Nynorsk (NN-no) no se instalara correctamente.
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
