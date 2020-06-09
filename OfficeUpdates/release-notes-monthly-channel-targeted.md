@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider Lento la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 41dba1efa79735aafd74b318fd49c7c3211736e3
-ms.sourcegitcommit: e9b127c7dfd80f3beb3c9aa9dadfb9e7f442c58c
+ms.openlocfilehash: 2213653fbbc529ab849142e1bf5427952299ff2a
+ms.sourcegitcommit: 9d2fb1f431933f304b68891c07a3b4eed5fdb936
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44563680"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44618936"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Las compilaciones de notas de la versión del canal mensual de Office (dirigido)
 
@@ -33,10 +33,24 @@ En este artículo hay notas de la versión para las compilaciones del canal mens
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
+## <a name="version-2005-june-08"></a>Versión 2005:8 de junio
+*Versión 2005 (compilación 12827,20336)*
+
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO INICIAL)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha corregido un problema relacionado con el cuadro de diálogo reemplazar fuentes, donde la lista desplegable reemplazar fuente sólo muestra las fuentes dentro de la presentación en lugar de las fuentes instaladas en el sistema.
+
+
+
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
+
 ## <a name="version-2005-june-04"></a>Versión 2005:4 de junio
 *Versión 2005 (compilación 12827,20320)*
 
-[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="access"></a>Access
@@ -247,7 +261,7 @@ En este artículo hay notas de la versión para las compilaciones del canal mens
 
 - Se ha solucionado un problema por el que al pasar el ratón por encima del símbolo del asterisco (*) no aparecía el nombre de usuario y la fecha de la última persona que actualizó el documento.
 
-### <a name="project"></a>Proyecto
+### <a name="project"></a>Project
 
 - Cuando se editan los datos del Predecesor/Sucesor dentro de una vista de formulario, se activa un evento ProjectBeforeTaskChange adicional.
 
@@ -409,7 +423,7 @@ En este artículo hay notas de la versión para las compilaciones del canal mens
 ## <a name="version-2004-april-21"></a>Versión 2004: 21 de abril
 *Versión 2004 (compilación 12730.20182)*
 
-[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO INICIAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="outlook"></a>Outlook
@@ -424,7 +438,7 @@ En este artículo hay notas de la versión para las compilaciones del canal mens
 ## <a name="version-2004-april-15"></a>Versión 2004: 15 de abril
 *Versión 2004 (compilación 12730.20150)*
 
-[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="excel"></a>Excel
@@ -448,7 +462,7 @@ En este artículo hay notas de la versión para las compilaciones del canal mens
 
 <br/>
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="access"></a>Access
@@ -524,7 +538,7 @@ En este artículo hay notas de la versión para las compilaciones del canal mens
 
 - Este cambio corrige un problema que provocaba que la búsqueda de caracteres especiales con "Buscar solo palabras completas" no siempre funcionase como se esperaba.
 
-### <a name="project"></a>Project
+### <a name="project"></a>Proyecto
 
 - Se corrigió un problema en el que las fechas de las tareas de resumen se calculaban siempre correctamente.
 
@@ -621,7 +635,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 - **Selector de contenido de M365 Premium:** de vida a sus documentos. Explore gratis miles de imágenes, iconos y adhesivos [Más información](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
 
 
-[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
 <br/>
 
@@ -697,7 +711,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-2003-march-21"></a>Versión 2003: 21 de marzo
 *Versión 2003 (compilación 12624.20276)*
 
-[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="outlook"></a>Outlook
@@ -711,7 +725,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 - **Actualización de las diapositivas durante la presentación:** actualice diapositivas editadas por otros autores durante la presentación.
 
 
-[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
 
 ## <a name="version-2003-march-16"></a>Versión 2003: 16 de marzo
 *Versión 2003 (compilación 12624,20224)*
@@ -741,11 +755,11 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 - **Paneles con pestañas:** ahora puede cambiar entre varios paneles con la pestaña situada en la parte derecha de la aplicación. Esta interfaz de usuario solo será visible cuando haya dos o más paneles abiertos.
 
 
-[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
 
 <br/>
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="excel"></a>Excel
@@ -905,7 +919,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 
 
-[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
 
 ## <a name="version-2002-march-01"></a>Versión 2002: 01 de marzo
 *Versión 2002 (compilación 12527.20242)*
@@ -945,11 +959,11 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 - **Nueva experiencia para redes WiFi cautivas:** ¿alguna vez se ha unido a una red WiFi que requiere una página web para iniciar sesión? Outlook ahora lo detecta y le ayuda a estar conectado.
 
 
-[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
 
 <br/>
 
-[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="excel"></a>Excel
@@ -1102,5 +1116,5 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 [//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
-[//]: # (NO ELIMINAR LOS DETALLES DE ERROR DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
 
