@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: e754309f8f647f13b6db0a1b6f4cbcfac2f4ffe5
-ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
+ms.openlocfilehash: ab1953f105cbab856ac183335fb54edb538b5d43
+ms.sourcegitcommit: 6bd9e41014037650170125aaed9847880d438645
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44668120"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "44814309"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de la versión de Office para participantes de Office Insider
 
@@ -30,6 +30,81 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 [//]: # (NO ELIMINAR)
 
 [//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
+
+## <a name="version-2007-june-19"></a>Versión 2007:19 de junio
+*Versión 2007 (compilación 13012,20000)*
+
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO INICIAL)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema por el que se quitó el XML de CustomUI para una pestaña de cinta personalizada al guardar un libro en SharePoint/OneDrive.
+- Se ha corregido un problema por el que los libros eran de solo lectura cuando el archivo sólo se rerecomendó sólo lectura.
+
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema por el que la ventana del editor de métodos de entrada (IME) se solapaba con el texto subyacente que se escribe mediante el IME cuando se usan varios monitores con diferentes resoluciones.
+- Se ha corregido un problema que provocaba que los usuarios vean el siguiente error al cerrar una cita que se guardó anteriormente: "no se puede guardar el elemento porque lo modificó otro usuario o en otra ventana. ¿Desea realizar una copia en la carpeta predeterminada del elemento? "
+- Se ha corregido un problema que provocaba que no se mostraran las fechas en el calendario mini en negrita para los usuarios en Japón.
+- Hemos corregido un problema que impedía que los avisos de calendario mostraran períodos exactos de las reuniones que aparecen en menos de una semana.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha corregido un problema que provocaba que no se actualizase el indicador de color de presencia de un usuario en la galería de co-autoría durante una sesión de co-autoría en directo.
+
+### <a name="project"></a>Project
+
+- Se ha corregido un problema por el que, si las tareas de duración fija están al 100% completadas pero no se especifica el final real, la tarea% completado se mostraría como menos del 100%.
+
+### <a name="word"></a>Word
+
+- Se ha corregido un problema por el que el color de hipervínculo HTML no se representó correctamente.
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Se ha corregido un problema por el que no se mostraban las direcciones URL que no se basaban en http o https en la lista de archivos usados recientemente.
+
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
+
+## <a name="version-2007-june-12"></a>Versión 2007:12 de junio
+*Versión 2007 (compilación 13006,20002)*
+
+[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Obtener datos de la organización de Power BI con tipos de datos:** Los tipos de datos de Excel de Power BI ahora se están implementando a los Insiders en las organizaciones con Office 365 E5/A5 o Microsoft 365 E5/A5. Obtener la información que necesita y actualizarla fácilmente es fundamental para muchos de los flujos de trabajo cotidianos. Le proporcionamos acceso a la información de su empresa u organización de Power BI como tipo de datos en Excel, lo que amplía su capacidad para vincular información en las hojas de cálculo. [Más información](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="access"></a>Access
+
+- Se ha corregido un problema que provocaba que Microsoft Access no pudiera identificar una columna de identidad en una tabla vinculada de SQL Server, lo que podría provocar que las filas se notificaran como eliminadas incorrectamente.
+
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema por el que no se podía dar formato correctamente a las líneas de cuadrícula principales de los gráficos radiales.
+
+### <a name="project"></a>Project
+
+- Se ha corregido un problema por el que el evento ProjectBeforeTaskChange no se ha desencadenado cuando había un cambio en la tarea de resumen del proyecto, ya sea en el campo comienzo/tarea del proyecto.
+- Se ha corregido un problema por el que una actualización o restablecimiento de línea base podría cambiar los recursos de trabajo y el costo presupuestado con fases temporales, y la línea base podría reflejar valores presupuestarios incorrectos.
+
+### <a name="word"></a>Word
+
+- Se ha corregido un problema que provocaba que no funcionara la posibilidad de borrar el formato en el panel de comentarios mediante el botón Borrar formato de la cinta de Office.
+- Se ha corregido un problema por el que, al cambiar el tamaño de una tabla cuando no se mostraba la regla, se iniciaba la intermitencia de otras aplicaciones que se ejecutaban en segundo plano.
+- Hemos corregido un problema en el que, en el modo de co-autoría, las respuestas de comentarios no se mostrarían a veces en el panel de comentarios, pero sería visible en el panel de revisiones.
+- Se ha corregido un problema por el que, si Word tenía una lista de los documentos abiertos con frecuencia, después 50 de guardar y abrir un documento, se mostraría un historial de revisión aunque no se hubieran realizado revisiones en ese documento.
+
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
 
 ## <a name="version-2006-june-05"></a>Versión 2006:5 de junio
 *Versión 2006 (compilación 13001,20002)*
@@ -79,7 +154,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 - Se ha corregido un problema por el que un panel de comentarios cerrado por el usuario volvería a abrirse automáticamente.
 - Se ha corregido un problema que provocaba que el editor de diapositivas de una diapositiva se superponga en la diapositiva siguiente.
 
-### <a name="project"></a>Proyecto
+### <a name="project"></a>Project
 
 - Se ha corregido un problema que impedía que las tareas huérfanas se eliminaran o se volvieran a asignar después de que se eliminara el plan primario.
 
@@ -174,7 +249,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 - Se ha solucionado un problema por el que al acercar y alejar desde el área de presentación se producía un hueco entre la marquesina de selección ampliada y el puntero del mouse.
 
-### <a name="project"></a>Proyecto
+### <a name="project"></a>Project
 
 - Se ha corregido un problema por el que Project se bloqueaba después de hacer clic en opciones.
 
@@ -267,7 +342,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 <br/>
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="office-suite"></a>Conjunto de aplicaciones de Office
@@ -284,13 +359,13 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="outlook"></a>Outlook
 
-- **Vínculos mejorados en el correo electrónico:** al incluir un vínculo a un archivo, la dirección URL se reemplaza por el nombre del archivo. Puede cambiar los permisos para que todos los destinatarios tengan acceso. [Obtener más información](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)
+- **Vínculos mejorados en el correo electrónico:** al incluir un vínculo a un archivo, la dirección URL se reemplaza por el nombre del archivo. Puede cambiar los permisos para que todos los destinatarios tengan acceso. [Más información](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)
 
-[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
 <br/>
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="excel"></a>Excel
@@ -327,7 +402,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 - En la Vista web o en el lector inmersivo, al hacer clic en una sugerencia se desplazaba a la parte superior incluso aunque ya estuviera a la vista. Este error se ha corregido.
 - Se ha corregido un problema por el que al intentar guardar un archivo que contenía una macro con un nombre nuevo, este se guardaba con la extensión. docx y el nombre de archivo WRO0004.docx, independientemente de lo que el usuario escribiera, lo que hacía que el archivo no se pudiera volver a usar.
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
 
 
 ## <a name="version-2005-april-24"></a>Versión 2005: 24 de abril
@@ -378,7 +453,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 - Se solucionó un problema que hacía que las reglas de eliminación creadas para los buzones que no fueran el buzón principal del usuario dejaran de ser válidas.
 - Se solucionó un problema que hacía que los datos adjuntos se perdieran al reenviar un mensaje cifrado.
 
-### <a name="project"></a>Proyecto
+### <a name="project"></a>Project
 - Cuando se editan los datos del Predecesor/Sucesor dentro de una vista de formulario, se activa un evento ProjectBeforeTaskChange adicional.
 - Se solucionó un problema por el cual Proyect podía bloquearse al cambiar el campo de estado del tablero en un proyecto que conectado a una lista de tareas de SharePoint.
 - Corregido un problema por el que Project podía bloquearse al guardar proyectos creados con versiones anteriores de Project.
@@ -422,7 +497,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 <br/>
 
-[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="access"></a>Access
@@ -459,7 +534,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 - Este cambio corrige un problema que provocaba que la búsqueda de caracteres especiales con "Buscar solo palabras completas" no siempre funcionase como se esperaba.
 
-### <a name="project"></a>Proyecto
+### <a name="project"></a>Project
 
 - Se corrigió un problema por el que el usuario no podía especificar el trabajo previsto con fases temporales al activar la configuración para proteger el trabajo real.
 
@@ -549,7 +624,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 - Se corrigió un problema por el que, al ordenar los resultados por categorías, en un conjunto de resultados de búsqueda devuelto no se mostraban los colores de la categoría.
 
-### <a name="project"></a>Proyecto
+### <a name="project"></a>Project
 
 - Se corrigió un problema por el que el evento "ProjectBeforeTaskChange" de las aplicaciones de Visual Basic (VBA) no se activaba cuando un usuario hacía clic en el botón "Desactivar" que se encuentra en la cinta de tareas en el grupo de programación.
 
@@ -577,12 +652,12 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 - Se corrigió un problema por el que las firmas digitales guardadas en documentos de Word se eliminaban al enviar los documentos.
 
-[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2004-march-13"></a>Versión 2004: 13 de marzo
 *Versión 2004 (compilación 12703.20010)*
 
-[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
+[//]: # (NO QUITAR DETALLES DE CARACTERÍSTICAS CONTENIDO INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 
@@ -599,7 +674,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 <br/>
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 
@@ -615,7 +690,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 - Corrige un problema que provocaba que al presionar Entrar en el panel de búsqueda expandido no se iniciara la búsqueda y requería que los usuarios hiciesen clic en el botón de búsqueda.
 - Se ha corregido un problema por el que la búsqueda no muestra información sobre los usuarios cuando se ha deshabilitado la opción "Mostrar fotografías de usuario cuando estén disponibles".
 
-### <a name="project"></a>Proyecto
+### <a name="project"></a>Project
 - Se corrigió un problema en el que las fechas de las tareas de resumen se calculaban siempre correctamente.
 - Corregido un problema en el que el evento OnUndoOrRedo no se desencadena sin ejecutar primero el método OpenUndoTransaction.
 
@@ -625,7 +700,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 - Se ha corregido un problema al combinar dos documentos en uno.
 - Se ha corregido un problema que hacía que el marcado de revisiones que impliquen ecuaciones ocasionase un error al guardar el archivo.
 
-[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
 
 ## <a name="version-2003-march-06"></a>Versión 2003: 06 de marzo
 *Versión 2003 (compilación 12624.20086)*
@@ -655,7 +730,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 [//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
 
-[//]: # (NO QUITAR DETALLES DE CARACTERÍSTICAS CONTENIDO INICIO)
+[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
 
 ## <a name="version-2003-february-28"></a>Versión 2003: 28 de febrero
 *Versión de 2003 (compilación 12619.20002)*
@@ -665,7 +740,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="outlook"></a>Outlook
 
-- **Notificación de incidentes para administradores de TI:** se notificará a los administradores globales de espacios empresariales de Microsoft 365 y a los administradores de aplicaciones de Office acerca de los incidentes de Outlook y Exchange de O365 que afectan a sus usuarios con una nueva notificación en el panel derecho en Outlook para Windows.
+- **Notificación de incidentes para administradores de TI:** se notificará a los administradores globales de espacios empresariales de Microsoft 365 y a los administradores de aplicaciones de Office acerca de los incidentes de Outlook y Exchange de O365 que afectan a sus usuarios con una nueva notificación en el panel derecho en Outlook para Windows. [Más información](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -737,12 +812,12 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 ### <a name="office-suite"></a>Conjunto de aplicaciones de Office
 - Al usar las propiedades Multichoice/Lookup/Managed-metadata con documentos de Word/Excel/PowerPoint y guardar en una biblioteca de documentos de SharePoint, estas propiedades se limitaban anteriormente a 255 caracteres. Cuando estas propiedades superaban 255 caracteres, estos documentos no se podían guardar. Con este cambio, este límite se ha aumentado a 2048 caracteres.
 
-[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2003-february-14"></a>Versión 2003: 14 de febrero
 *Versión 2003 (compilación 12607.20000)*
 
-[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="outlook"></a>Outlook
@@ -757,11 +832,11 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 - **Iconos de la barra de estado más nítidos:** los iconos de la barra de estado ahora son más fáciles de ver
 
-[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
 <br/>
 
-[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="outlook"></a>Outlook
@@ -794,7 +869,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 - **Aumente su productividad con el Diseñador de consultas, la vista SQL y la ventana Relaciones:** haga clic con el botón derecho en una tabla para abrirla, diseñarla, cambiar su tamaño y ocultarla. Buscar y reemplazar texto en la vista SQL. Seleccione múltiples tablas en la ventana Relaciones.
 
-[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
 
 <br/>
 
@@ -841,4 +916,4 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 - Resuelto un problema que podía causar que el paquete de herramientas de corrección de Noruega Nynorsk (NN-no) no se instalara correctamente.
 
-[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)

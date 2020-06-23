@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista completa de las versiones de las Aplicaciones de Microsoft 365, organizada por fecha, con vínculos a las notas de la versión.
-ms.openlocfilehash: 2bfbf1d8df2923c97e12380e8c054ddcf18f6c1e
-ms.sourcegitcommit: d8a7a35f1f685d01fbdd1780890737897364935a
+ms.openlocfilehash: cc14aacc0a08dd5c45e22410df7b50a0de51de94
+ms.sourcegitcommit: 6bd9e41014037650170125aaed9847880d438645
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "44695572"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "44814299"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Historial de actualizaciones de Aplicaciones de Microsoft 365 (ordenado por fecha)
 
@@ -47,11 +47,11 @@ En la tabla siguiente se muestra la versión compatible y el número de compilac
 
 Para obtener más información sobre los tamaños de descarga aproximados de las actualizaciones desde versiones anteriores de Aplicaciones de Microsoft 365 a la versión más reciente, vea [Tamaños de descarga de actualizaciones de Aplicaciones de Microsoft 365](download-sizes-office365-proplus-updates.md).
 
-La siguiente tabla proporciona una lista de los números de versión y compilación para cada actualización de Aplicaciones de Microsoft 365 publicada en los siguientes canales de actualización: mensual, semianual (dirigido) y semianual. Cada entrada de la tabla se vincula directamente con las notas de versión de dicha versión. Estas notas de versión proporcionan información sobre las características, las actualizaciones de seguridad y las actualizaciones no relacionadas con la seguridad que se incluyen en la actualización de Aplicaciones de Microsoft 365.  
+En la tabla siguiente se proporciona una lista de los números de versión y compilación de cada actualización de las aplicaciones de Microsoft 365 que se publican en los siguientes canales de actualización: actual, mensual, empresa semianual (versión preliminar) y empresa semianual. Cada entrada de la tabla se vincula directamente con las notas de versión de dicha versión. Estas notas de versión proporcionan información sobre las características, las actualizaciones de seguridad y las actualizaciones no relacionadas con la seguridad que se incluyen en la actualización de Aplicaciones de Microsoft 365.  
 
 [//]: # (HISTORYTABLESTART)
 
-|**Year**|**Fecha de publicación**|**Canal actual**|**Canal empresarial mensual**|**Canal empresarial semestral (versión preliminar)**|**Canal empresarial semianual**|
+|**Year**|**Fecha de publicación**|**Canal actual**|**Canal empresarial mensual**|**Canal empresarial semestral (vista previa)**|**Canal empresarial semestral**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |2020|9 de junio|[Versión 2005 (compilación 12827,20336)](current-channel.md#version-2005-june-09)|[Versión 2004 (compilación 12730,20430)](monthly-enterprise-channel.md#version-2004-june-09)<br/>[Versión 2003 (compilación 12624,20708)](monthly-enterprise-channel.md#version-2003-june-09)|[Versión 2002 (compilación 12527,20720)](semi-annual-enterprise-channel-preview.md#version-2002-june-09)|[Versión 1908 (compilación 11929,20838)](semi-annual-enterprise-channel.md#version-1908-june-09)<br/>[Versión 1902 (compilación 11328,20602)](semi-annual-enterprise-channel.md#version-1902-june-09)|
 |2020|2 de junio|[Versión 2005 (compilación 12827,20268)](current-channel.md#version-2005-june-02)| | | |

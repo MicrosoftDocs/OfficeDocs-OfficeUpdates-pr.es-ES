@@ -9,16 +9,17 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a participantes del programa Insider el historial de actualizaciones de los lanzamientos del canal mensual del modo anticipado de Insider para versiones de escritorio de Windows
-ms.openlocfilehash: 13263186e115180da3b989267f23721b13790f93
-ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
+ms.openlocfilehash: 3a015030f5f82cfab54f50c45492a0069a85aac0
+ms.sourcegitcommit: 75dd224cc25daf9e0dae2056ea7d53e7e7e790e3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44668111"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "44853958"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Historial de actualizaciones para el canal beta de Office
 
-Hola, participantes de Insider. Si os estáis preguntando si tenéis instalada la actualización más reciente o buscáis una lista de las compilaciones recientes de Insider, estáis en el lugar adecuado. Haced clic [aquí](https://insider.office.com/) para obtener más información sobre el programa Insider.
+Hello, Insiders! If you're wondering whether you have the latest update installed or are looking for a list of recent Insider build, you're in the right place.
+Click [here](https://insider.office.com/) for more information on the Insiders Program.
 
 > [!IMPORTANT]
 > - Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441) para más información.
@@ -29,13 +30,20 @@ Hola, participantes de Insider. Si os estáis preguntando si tenéis instalada l
 > - A continuación, se muestra el historial de actualizaciones con todas las compilaciones publicadas
 > - Las notas de la versión se actualizan con una cadencia lenta y pueden ser una compilación de actualizaciones de varias compilaciones hasta el número de compilación publicado de las notas de la versión.
 
-## <a name="office-beta-versions-and-builds"></a>Versiones beta de Office y compilaciones
+## <a name="office-beta-channel-versions-and-builds"></a>Versiones y compilaciones de canal beta de Office
 
-Si está inscrito en el nivel de Insider, puede recibir actualizaciones frecuentes con nuevas características y mejoras. En la siguiente lista se muestra un historial de las versiones beta recientes y de las compilaciones, con **la compilación más reciente que se muestra en primer lugar**. Las nuevas compilaciones contienen todas las actualizaciones incluidas en las versiones anteriores.
+Si está inscrito en el nivel de Insider, puede recibir actualizaciones frecuentes con nuevas características y mejoras. En la siguiente lista se muestra un historial de versiones y compilaciones de canal beta recientes, con **la última versión de compilación que se muestra en primer lugar**. Las nuevas compilaciones contienen todas las actualizaciones incluidas en las versiones anteriores.
 
-Para obtener las notas de la versión, vea [notas de la versión de Insider de Office para escritorio de Windows](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider).
+Para obtener las notas de la versión, vea [notas de la versión de Insider de Office para escritorio de Windows](https://docs.microsoft.com/OfficeUpdates/beta-channel).
+
 
 [//]: # (NO ELIMINAR)
+
+**23 de junio de 2020**<br/>
+Versión 2007 (compilación 13020,20004)<br/>
+
+**15 de junio de 2020**<br/>
+Versión 2007 (compilación 13012,20000)<br/>
 
 **9 de junio de 2020**<br/>
 Versión 2007 (compilación 13006,20002)<br/>
