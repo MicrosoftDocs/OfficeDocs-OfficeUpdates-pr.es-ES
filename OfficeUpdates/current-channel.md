@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365 en 2020
-ms.openlocfilehash: 913f473e8dd645c58aa17efb1221eb25cc280971
-ms.sourcegitcommit: 69887e53fc949b0890c3a00a8504ac732ee2cad8
+ms.openlocfilehash: 6ff977d90ed98988af281f026276cbc3f0d21807
+ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "44810872"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44874786"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notas de la versión para las versiones actuales de canal en 2020
 
@@ -35,6 +35,74 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
+
+## <a name="version-2005-june-24"></a>Versión 2005:24 de junio
+*Versión 2005 (compilación 12827,20470)*
+
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO INICIAL)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="access"></a>Access
+
+- Este error ahora se ha corregido; debe poder llamar al tipo de datos extendidos de fecha y hora en el código sin que se produzca ningún bloqueo en la aplicación. Por lo que el equipo sabrá si se encuentra con otros problemas.
+
+
+- Este problema se ha corregido ahora; Ahora puede volver a la versión de Access más actualizada y usar DAO/VBA para administrar y editar un tipo de datos decimal. Deje que el equipo de acceso sepa si encuentra algún problema con el uso de nuestro tipo de datos.
+
+
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema que provocaba que se quitara el XML de CustomUI para una pestaña de cinta personalizada al guardar en SharePoint/OneDrive.
+
+
+
+
+
+### <a name="outlook"></a>Outlook
+
+- Se ha solucionado un problema en el que Outlook no pudo habilitar sugerencias de directivas de protección contra la pérdida de datos para los usuarios que han pagado por el servicio que se encuentran en M365 Business Plus Plans.
+
+
+- Se ha solucionado un problema que provocaba que los usuarios vean la fecha de creación de los datos adjuntos que copiaron en su sistema de archivos a través de arrastrar y colocar, establecido en el 1 de enero de 4501.
+
+
+- Se ha solucionado un problema que provocaba que los usuarios vean el &quot; mensaje reglas en este equipo no coinciden con las reglas de Microsoft Exchange &quot; al actualizar sus reglas en Outlook.
+
+
+- Se ha solucionado un problema que provocaba que los usuarios de las mejoras del calendario compartido mostraran errores de calendario.
+
+
+- Se ha solucionado un problema que provocaba que los usuarios experimentaran bloqueos y bloqueos intermitentes en algunos escenarios.
+
+
+- Se ha solucionado un problema que provocaba que los usuarios vean Outlook continuamente para que ejecutaran la herramienta de reparación de la bandeja de entrada.
+
+
+- Se ha solucionado un problema que provocaba la búsqueda de una característica en sugerir una característica para devolver no resultados y dejar al usuario sin opción para enviar una nueva idea de la característica.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha corregido un problema de bloqueo con el panel de sugerencias.
+
+
+### <a name="project"></a>Project
+
+- Corregido un problema por el que una tarea marcada como 100% completada está cambiando erróneamente para ser inferior al 100% completado.
+
+### <a name="word"></a>Word
+
+- Se ha resuelto un problema que podría haber causado un bloqueo al arrastrar algún contenido de la aplicación.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Este cambio soluciona posibles bloqueos al cargar y reproducir contenido animado, como GIFs o modelos 3D.
+
+
+
+
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
 
 ## <a name="version-2005-june-09"></a>Versión 2005:9 de junio
 *Versión 2005 (compilación 12827,20336)*
@@ -128,7 +196,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 <br/>
 
-[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO INICIAL)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 
@@ -362,7 +430,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 
 
-[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
 
 ## <a name="version-2003-march-25"></a>Versión 2003: 25 de marzo
 *Versión 2003 (compilación 12624.20320)*
@@ -510,7 +578,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-2001-february-11"></a>Versión 2001: 11 de febrero
 *Versión 2001 (compilación 12430.20264)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO INICIAL)
@@ -546,7 +614,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 
 
-[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2001-january-30"></a>Versión 2001: 30 de enero
 *Versión 2001 (compilación 12430.20184)*
@@ -602,7 +670,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 - Corrige un problema que causaba que los usuarios experimentasen bloqueos al cambiar el nombre de una firma.
 
 
-[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
 
 ## <a name="version-1912-january-22"></a>Versión 1912: 22 de enero
 *Versión 1912 (compilación 12325.20344)*
@@ -616,12 +684,12 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 
 
-[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
 
 ## <a name="version-1912-january-14"></a>Versión 1912: 14 de enero
 *Versión 1912 (compilación 12325.20298)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-1912-january-08"></a>Versión 1912: 8 de enero
 *Versión 1912 (compilación 12325.20288)*
@@ -665,7 +733,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - El organizador de bloques de creación puede mostrar una alerta no válida: "ha modificado estilos, bloques de creación".
 
-### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+### <a name="office-suite"></a>Conjunto de programas de Office
 
 - Se ha corregido un problema por el que las actualizaciones de Office podían haber descargado inesperadamente archivos de la CDN de Office en lugar de la fuente prevista, como un recurso compartido local o de red, o una ubicación proporcionada por el Administrador de configuración.
 
