@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider Lento la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 6287f468ba3d600551da43047227454b26a05e06
-ms.sourcegitcommit: ad8d5cd9c165adcefcb0bbfc6b26d54212bc4c6c
+ms.openlocfilehash: 5d3f5834c1199f9d68fd527d231114611b2255fc
+ms.sourcegitcommit: 6cec37b303b316500774846b6fcdd83814b2b364
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44796691"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44889066"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notas de la versión para el canal actual de Office (versión preliminar)
 
@@ -32,6 +32,46 @@ Este artículo contiene las notas de la versión para las versiones de canal act
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
 
 [//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+
+## <a name="version-2006-june-25"></a>Versión 2006:25 de junio
+*Versión 2006 (compilación 13001,20266)*
+
+[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="visio"></a>Visio
+
+- **Cree diagramas de Visio pulidos en Excel:** Cree un diagrama de flujo o un gráfico de la organización basado en los datos de una hoja de cálculo.
+
+
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="access"></a>Access
+
+- <div>Este problema se ha resuelto ahora. Por lo que el equipo sabrá si experimenta más problemas con este proceso.</div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span style="display:inline !important;">Soluciona un problema que ha provocado que <span>&nbsp;</span> los usuarios vean</span> <span style="box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;">la fecha de creación de los &nbsp; datos adjuntos que se copiaron en el sistema de archivos mediante arrastrar y colocar se &nbsp; establece en el 1 de enero de 4501.</span><br></div>
+
+
+- <div><span style="font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;display:inline !important;">Soluciona un problema que provocaba que los usuarios de las mejoras del calendario compartido mostraran errores de calendario.</span><br></div>
+
+
+- <div><span style="display:inline !important;">Soluciona un problema que hacía que los usuarios vean que Outlook les pide continuamente que ejecutara la herramienta de reparación de la bandeja de entrada.</span><br></div>
+
+
+- <div><span style="display:inline !important;">Soluciona un problema que provocaba buscar una característica en sugerir una característica para devolver no resultados y dejar al usuario sin opción para enviar una nueva idea de la característica.</span><br></div>
+
+
+
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
 
 ## <a name="version-2006-june-18"></a>Versión 2006:18 de junio
 *Versión 2006 (compilación 13001,20198)*
@@ -495,7 +535,7 @@ Este artículo contiene las notas de la versión para las versiones de canal act
 - Esta actualización corrige un problema en Visual Basic para aplicaciones en Microsoft Office en el que ciertos proyectos VBA que contienen referencias a bibliotecas de código con caracteres DBCS en el nombre de la biblioteca o en la ruta de la biblioteca serían vistos por la aplicación de Office como corruptos en la carga.
 
 
-[//]: # (NO QUITAR ERRORES DE DETALLES DE CONTENIDO FINAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
 
 ## <a name="version-2004-may-11"></a>Versión 2004: 11 de mayo
 *Versión 2004 (compilación 12730.20270)*
@@ -526,7 +566,7 @@ Este artículo contiene las notas de la versión para las versiones de canal act
 
 <br/>
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="outlook"></a>Outlook
@@ -540,21 +580,21 @@ Este artículo contiene las notas de la versión para las versiones de canal act
 ## <a name="version-2004-may-04"></a>Versión 2004: 4 de mayo
 *Versión 2004 (Compilación 12730.20250)*
 
-[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="outlook"></a>Outlook
 
 - **Mejores resultados, en un instante:** actualizamos la experiencia de búsqueda para que sea más inteligente, rápida y fiable que nunca. [Más información](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
 
-- **Notificación de incidentes para administradores de TI:** se notificará a los administradores globales de espacios empresariales de Microsoft 365 y a los administradores de aplicaciones de Office acerca de los incidentes de Outlook y Exchange de O365 que afectan a sus usuarios con una nueva notificación en el panel derecho en Outlook para Windows. [Obtener más información](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
+- **Notificación de incidentes para administradores de TI:** se notificará a los administradores globales de espacios empresariales de Microsoft 365 y a los administradores de aplicaciones de Office acerca de los incidentes de Outlook y Exchange de O365 que afectan a sus usuarios con una nueva notificación en el panel derecho en Outlook para Windows. [Más información](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
 <br/>
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="office-suite"></a>Conjunto de aplicaciones de Office
@@ -563,12 +603,12 @@ Este artículo contiene las notas de la versión para las versiones de canal act
 
 
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
+[//]: # (NO QUITAR ERRORES DE DETALLES DE CONTENIDO FINAL)
 
 ## <a name="version-2004-april-29"></a>Versión 2004: 29 de abril
 *Versión 2004 (compilación 12730.20236)*
 
-[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="outlook"></a>Outlook
@@ -919,7 +959,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 - **Actualización de las diapositivas durante la presentación:** actualice diapositivas editadas por otros autores durante la presentación.
 
 
-[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
 ## <a name="version-2003-march-16"></a>Versión 2003: 16 de marzo
 *Versión 2003 (compilación 12624,20224)*
@@ -973,7 +1013,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
-[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO INICIAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="excel"></a>Excel
 - **Etiquetas de confidencialidad**: ahora puede aplicar una etiqueta de confidencialidad que la organización ha configurado para pedirle permisos personalizados. [Más información](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
@@ -1100,11 +1140,11 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 *Versión 2002 (compilación 12527.20264)*
 
 
-[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO INICIAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 
-### <a name="project"></a>Proyecto
+### <a name="project"></a>Project
 - <div>Se corrigió un problema en el que las fechas de las tareas de resumen se calculaban siempre correctamente.</div>
 
 
@@ -1113,7 +1153,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 
 
-[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2002-march-01"></a>Versión 2002: 01 de marzo
 *Versión 2002 (compilación 12527.20242)*
@@ -1157,7 +1197,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 <br/>
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="excel"></a>Excel
@@ -1214,7 +1254,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 <br/>
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="access"></a>Access
