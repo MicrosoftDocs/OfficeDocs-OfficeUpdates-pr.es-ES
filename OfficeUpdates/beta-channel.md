@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 9585d43c73676e2a12f38b34cbd6c57172bbe917
-ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
+ms.openlocfilehash: 55d62bf10375c72a09f93369c20f7f5b6d1b963f
+ms.sourcegitcommit: f9bf47d0d27e084205311ab6e844d044da83f252
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44874796"
+ms.lasthandoff: 06/26/2020
+ms.locfileid: "44906915"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de la versión para el canal beta
 
@@ -30,6 +30,34 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 [//]: # (NO ELIMINAR)
 
 [//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
+
+## <a name="version-2007-june-26"></a>Versión 2007:26 de junio
+*Versión 2007 (compilación 13020,20004)*
+
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO INICIAL)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="access"></a>Access
+
+- Se ha corregido un problema por el que el administrador de tablas vinculado solicitaba una clave principal si se actualizaba una tabla vinculada de SQL.
+- Se ha corregido un problema por el que las consultas en el editor de consultas se desplazaron fuera de la vista.
+- Se ha corregido un problema por el que la ejecución de la consulta duraba aproximadamente el doble de tiempo que lo esperado.
+
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema por el que los usuarios no podían "enviar como" o "enviar en nombre de" de una lista de distribución.
+- Hemos corregido un problema por el que, al insertar una imagen en línea en un mensaje, guardar el mensaje como borrador daría como resultado el cambio de tamaño de la imagen.
+- Se ha corregido un problema que provocaba que el cuerpo de un mensaje NDR cambiara de Unicode a ASCII tras editar el asunto.
+
+### <a name="project"></a>Proyecto
+
+- Se ha corregido un problema por el que se deshabilitaban los vínculos de planeación de proyecto en entornos de nube de la comunidad gubernamental.
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Se ha corregido un problema por el que el texto insertado en un gráfico vectorial escalable (SVG) se ilegible después de insertarlo en un archivo de Word, Excel o PowerPoint, guardando y cerrando el archivo y, a continuación, volviendo a abrir el archivo.
+
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
 
 ## <a name="version-2007-june-19"></a>Versión 2007:19 de junio
 *Versión 2007 (compilación 13012,20000)*
@@ -53,7 +81,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 - Se ha corregido un problema que provocaba que no se actualizase el indicador de color de presencia de un usuario en la galería de co-autoría durante una sesión de co-autoría en directo.
 
-### <a name="project"></a>Project
+### <a name="project"></a>Proyecto
 
 - Se ha corregido un problema por el que, si las tareas de duración fija están al 100% completadas pero no se especifica el final real, la tarea% completado se mostraría como menos del 100%.
 
@@ -92,7 +120,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 - Se ha corregido un problema por el que no se podía dar formato correctamente a las líneas de cuadrícula principales de los gráficos radiales.
 
-### <a name="project"></a>Project
+### <a name="project"></a>Proyecto
 
 - Se ha corregido un problema por el que el evento ProjectBeforeTaskChange no se ha desencadenado cuando había un cambio en la tarea de resumen del proyecto, ya sea en el campo comienzo/tarea del proyecto.
 - Se ha corregido un problema por el que una actualización o restablecimiento de línea base podría cambiar los recursos de trabajo y el costo presupuestado con fases temporales, y la línea base podría reflejar valores presupuestarios incorrectos.
@@ -154,7 +182,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 - Se ha corregido un problema por el que un panel de comentarios cerrado por el usuario volvería a abrirse automáticamente.
 - Se ha corregido un problema que provocaba que el editor de diapositivas de una diapositiva se superponga en la diapositiva siguiente.
 
-### <a name="project"></a>Project
+### <a name="project"></a>Proyecto
 
 - Se ha corregido un problema que impedía que las tareas huérfanas se eliminaran o se volvieran a asignar después de que se eliminara el plan primario.
 
@@ -249,7 +277,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 - Se ha solucionado un problema por el que al acercar y alejar desde el área de presentación se producía un hueco entre la marquesina de selección ampliada y el puntero del mouse.
 
-### <a name="project"></a>Project
+### <a name="project"></a>Proyecto
 
 - Se ha corregido un problema por el que Project se bloqueaba después de hacer clic en opciones.
 
@@ -288,7 +316,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 <br/>
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 
@@ -359,7 +387,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="outlook"></a>Outlook
 
-- **Vínculos mejorados en el correo electrónico:** al incluir un vínculo a un archivo, la dirección URL se reemplaza por el nombre del archivo. Puede cambiar los permisos para que todos los destinatarios tengan acceso. [Más información](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)
+- **Vínculos mejorados en el correo electrónico:** al incluir un vínculo a un archivo, la dirección URL se reemplaza por el nombre del archivo. Puede cambiar los permisos para que todos los destinatarios tengan acceso. [Obtener más información](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
@@ -432,7 +460,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 ## <a name="version-2005-april-17"></a>Versión 2005: 17 de abril
 *Versión 2005 (compilación 12810.20002)*
 
-[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO INICIAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="excel"></a>Excel
@@ -453,7 +481,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 - Se solucionó un problema que hacía que las reglas de eliminación creadas para los buzones que no fueran el buzón principal del usuario dejaran de ser válidas.
 - Se solucionó un problema que hacía que los datos adjuntos se perdieran al reenviar un mensaje cifrado.
 
-### <a name="project"></a>Project
+### <a name="project"></a>Proyecto
 - Cuando se editan los datos del Predecesor/Sucesor dentro de una vista de formulario, se activa un evento ProjectBeforeTaskChange adicional.
 - Se solucionó un problema por el cual Proyect podía bloquearse al cambiar el campo de estado del tablero en un proyecto que conectado a una lista de tareas de SharePoint.
 - Corregido un problema por el que Project podía bloquearse al guardar proyectos creados con versiones anteriores de Project.
@@ -497,7 +525,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 <br/>
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="access"></a>Access
@@ -534,7 +562,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 - Este cambio corrige un problema que provocaba que la búsqueda de caracteres especiales con "Buscar solo palabras completas" no siempre funcionase como se esperaba.
 
-### <a name="project"></a>Project
+### <a name="project"></a>Proyecto
 
 - Se corrigió un problema por el que el usuario no podía especificar el trabajo previsto con fases temporales al activar la configuración para proteger el trabajo real.
 
@@ -566,7 +594,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 <br/>
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="outlook"></a>Outlook
@@ -577,7 +605,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 ### <a name="powerpoint"></a>PowerPoint
 - Este cambio corrige un error que podría causar que los archivos de PowerPoint que contienen emojis fallen al guardarlos.
 
-### <a name="project"></a>Project
+### <a name="project"></a>Proyecto
 - Se ha solucionado un problema por el que si se ejecuta "Lista de valores de campos personalizados GetItem" y no existe una tabla de búsqueda para el campo personalizado, se crea una tabla de búsqueda vacía aunque no debería existir.
 
 ### <a name="word"></a>Word
@@ -601,11 +629,11 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 - **Actualización de las diapositivas durante la presentación:** actualice diapositivas editadas por otros autores durante la presentación.
 
-[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
 <br/>
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="excel"></a>Excel
@@ -690,7 +718,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 - Corrige un problema que provocaba que al presionar Entrar en el panel de búsqueda expandido no se iniciara la búsqueda y requería que los usuarios hiciesen clic en el botón de búsqueda.
 - Se ha corregido un problema por el que la búsqueda no muestra información sobre los usuarios cuando se ha deshabilitado la opción "Mostrar fotografías de usuario cuando estén disponibles".
 
-### <a name="project"></a>Project
+### <a name="project"></a>Proyecto
 - Se corrigió un problema en el que las fechas de las tareas de resumen se calculaban siempre correctamente.
 - Corregido un problema en el que el evento OnUndoOrRedo no se desencadena sin ejecutar primero el método OpenUndoTransaction.
 
@@ -746,7 +774,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 - **Se ha mejorado la experiencia de creación de diagramas con entrada de lápiz a formas:** dibuje mejores diagramas y convierta en objetos de Office que pueda manipular [Obtenga más información.](https://support.office.com/article/f304ef73-9514-450b-9bb9-28c6057020f2)
 
-[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
 
 <br/>
 
@@ -773,23 +801,23 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 - Corrige un problema por el que cuando hay varios documentos abiertos en Word/Excel/PowerPoint de la misma biblioteca de SharePoint, solo se analizará el primer documento abierto para el cumplimiento de las directivas.
 
-[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2003-february-21"></a>Versión 2003: 21 de febrero
 *Versión 2003 (compilación 12615.20000)*
 
-[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="office-suite"></a>Conjunto de aplicaciones de Office
 
 - **Elija el color perfecto:** use códigos de colores hexadecimales para elegir exactamente el color que desea para la fuente, el resaltado de texto, etc.
 
-[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
 <br/>
 
-[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 
@@ -812,12 +840,12 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 ### <a name="office-suite"></a>Conjunto de aplicaciones de Office
 - Al usar las propiedades Multichoice/Lookup/Managed-metadata con documentos de Word/Excel/PowerPoint y guardar en una biblioteca de documentos de SharePoint, estas propiedades se limitaban anteriormente a 255 caracteres. Cuando estas propiedades superaban 255 caracteres, estos documentos no se podían guardar. Con este cambio, este límite se ha aumentado a 2048 caracteres.
 
-[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
 
 ## <a name="version-2003-february-14"></a>Versión 2003: 14 de febrero
 *Versión 2003 (compilación 12607.20000)*
 
-[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="outlook"></a>Outlook
@@ -832,7 +860,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 - **Iconos de la barra de estado más nítidos:** los iconos de la barra de estado ahora son más fáciles de ver
 
-[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
 
 <br/>
 
