@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider Lento la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 5d3f5834c1199f9d68fd527d231114611b2255fc
-ms.sourcegitcommit: 6cec37b303b316500774846b6fcdd83814b2b364
+ms.openlocfilehash: fbc1e657c6afa8d50b5756ef5c8584ad74c3be34
+ms.sourcegitcommit: fba8a23022418305d52bcbd57be1a3fc77647e01
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44889066"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45001184"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notas de la versión para el canal actual de Office (versión preliminar)
 
@@ -109,7 +109,7 @@ Este artículo contiene las notas de la versión para las versiones de canal act
 
 - Se ha solucionado un problema que provocaba la combinación de teclas Ctrl + clic para dejar de funcionar cuando se habilitaba la configuración de nube.
 
-### <a name="project"></a>Project
+### <a name="project"></a>Proyecto
 
 - Corregido un problema por el que una tarea marcada como 100% completada está cambiando erróneamente para ser inferior al 100% completado.
 
@@ -213,7 +213,7 @@ Este artículo contiene las notas de la versión para las versiones de canal act
 
 - Se ha corregido un problema que provocaba que el editor de diapositivas de una diapositiva se superponga en la diapositiva siguiente.
 
-### <a name="project"></a>Project
+### <a name="project"></a>Proyecto
 
 - Se ha corregido un problema por el que el evento ProjectBeforeTaskChange no se desencadena cuando hay un cambio en la tarea de resumen del proyecto, ya sea el campo de inicio o de tarea del proyecto.
 
@@ -360,12 +360,9 @@ Este artículo contiene las notas de la versión para las versiones de canal act
 ## <a name="version-2005-may-21"></a>Versión 2005:21 de mayo
 *Versión 2005 (compilación 12827,20210)*
 
-[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
 
-### <a name="feature-updates"></a>Actualizaciones de características
-### <a name="excel"></a>Excel
 
-- **Obtener datos de la organización de Power BI con tipos de datos de Excel:** Puede insertar datos de la organización con los tipos de datos de Excel. Convierta una celda en el libro y obtenga información adicional y actualice los datos en cualquier momento que necesite.
 
 
 [//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
@@ -495,7 +492,7 @@ Este artículo contiene las notas de la versión para las versiones de canal act
 
 - Se ha solucionado un problema por el que al pasar el ratón por encima del símbolo del asterisco (*) no aparecía el nombre de usuario y la fecha de la última persona que actualizó el documento.
 
-### <a name="project"></a>Project
+### <a name="project"></a>Proyecto
 
 - Cuando se editan los datos del Predecesor/Sucesor dentro de una vista de formulario, se activa un evento ProjectBeforeTaskChange adicional.
 
@@ -566,7 +563,7 @@ Este artículo contiene las notas de la versión para las versiones de canal act
 
 <br/>
 
-[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="outlook"></a>Outlook
@@ -924,7 +921,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 [//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
-### <a name="project"></a>Project
+### <a name="project"></a>Proyecto
 
 - <div><span style="display:inline !important;">Se corrigió un problema por el que el usuario no podía especificar el trabajo previsto con fases temporales al activar la configuración para proteger el trabajo real.</span><br></div>
 
@@ -1307,7 +1304,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 - Se ha corregido un problema con el marcador de resaltado: los textos blancos con un marcador oscuro se imprimen como negros en escala de grises.
 
 
-### <a name="project"></a>Project
+### <a name="project"></a>Proyecto
 
 - Se ha corregido un problema por el que el 100 % de las tareas de tipo duración fija podían tener un cálculo del porcentaje incorrecto con menos del 100% completado.
 
@@ -1348,7 +1345,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - Este cambio resuelve problemas con adaptadores gráficos que aprovechan la GPU integrada de Intel.
 
-[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
 

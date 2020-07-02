@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365 en 2020
-ms.openlocfilehash: 6ff977d90ed98988af281f026276cbc3f0d21807
-ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
+ms.openlocfilehash: 7003006056b0cd045d6a21111aee512cef07e040
+ms.sourcegitcommit: f92dbf2ec2e2f11a344e97327e9cef08e9569670
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44874786"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45015632"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notas de la versión para las versiones actuales de canal en 2020
 
@@ -35,6 +35,89 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
+
+## <a name="version-2006-june-30"></a>Versión 2006:30 de junio
+*Versión 2006 (compilación 13001,20266)*
+
+[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Nombres de archivo más largos:** Excel para escritorio de Windows ahora admite archivos de OneDrive/SharePoint con nombres y rutas de hasta 400 caracteres.
+
+### <a name="outlook"></a>Outlook
+
+- **Nueva opción para desactivar las sugerencias de @menciones al escribir correo en Outlook: **¿le resulta el selector de @menciones más molesto que útil? Ahora puede desactivarlo si lo prefiere.<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/03/26/feedback-in-action-disable-mentions/)
+
+- **Notificación de incidentes para administradores de TI:** se notificará a los administradores globales de espacios empresariales de Microsoft 365 y a los administradores de aplicaciones de Office acerca de los incidentes de Outlook y Exchange de O365 que afectan a sus usuarios con una nueva notificación en el panel derecho en Outlook para Windows. [Más información](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
+
+- **Botones adicionales agregados a las notificaciones del sistema de Outlook:** Los botones de acción rápidos aparecen ahora en las notificaciones del sistema de Outlook cuando se ejecuta Outlook en Windows 10
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Rendimiento de vídeo de transmisión mejorado en PowerPoint:** Hemos realizado mejoras en el rendimiento de reproducción de los vídeos de Microsoft Stream para minimizar el tiempo de carga de vídeo y crear una experiencia de visualización fluida. Use sus vídeos corporativos de Microsoft Stream para crear mejores presentaciones.
+
+### <a name="teams"></a>Teams
+
+- Los **números de teléfono de los participantes de RTC se enmascaran de los usuarios externos:** Para los clientes con audioconferencia habilitado en sus reuniones de Microsoft Teams, se enmascarará el número de teléfono del participante en el RTC a los usuarios que se hayan Unido desde fuera de la organización.
+
+- **Forma simplificada de administrar la configuración de notificaciones de canal:** A través de la lista de equipos y canales o del encabezado de canal, los usuarios pueden administrar rápidamente la configuración de las notificaciones activando o desactivando toda la actividad con un solo clic o con un solo clic de profundidad en personalizado para establecer sus permutaciones preferidas.
+
+- **Walkie talkie:** Comunicación de voz instantánea mediante el comando Push-Talk.
+
+
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+
+<br/>
+
+[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="access"></a>Access
+
+- Se ha corregido un problema por el que la ejecución de la consulta duraba aproximadamente el doble de tiempo que lo esperado.
+
+
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema que provocaba que se quitara el XML de CustomUI para una pestaña de cinta personalizada al guardar en SharePoint/OneDrive.
+
+
+### <a name="outlook"></a>Outlook
+
+- Se ha solucionado un problema que provocaba que los usuarios vean la fecha de creación de los datos adjuntos que copiaron en su sistema de archivos a través de arrastrar y colocar, establecido en el 1 de enero de 4501.
+
+- Se ha solucionado un problema que provocaba que los usuarios de las mejoras del calendario compartido mostraran errores de calendario.
+
+
+- Se ha solucionado un problema que provocaba que los usuarios vean Outlook continuamente para que ejecutaran la herramienta de reparación de la bandeja de entrada.
+
+
+- Se ha solucionado un problema que provocaba la combinación de teclas Ctrl + clic para dejar de funcionar cuando se habilitaba la configuración de nube.
+
+
+- Se ha solucionado un problema que provocaba la búsqueda de una característica en sugerir una característica para devolver no resultados y dejar al usuario sin opción para enviar una nueva idea de la característica.
+
+
+### <a name="project"></a>Proyecto
+
+- Se ha corregido un problema por el que los proyectos no se podían abrir en el cliente de escritorio de Project desde Project Web App si la dirección URL finalizó en. com.
+
+
+- Se ha corregido un problema por el que el evento ProjectBeforeTaskChange no se desencadena cuando hay un cambio en la tarea de resumen del proyecto, ya sea el campo de inicio o de tarea del proyecto.
+
+
+- Corregido un problema por el que una tarea marcada como 100% completada está cambiando erróneamente para ser inferior al 100% completado.
+
+
+### <a name="word"></a>Word
+
+- Se ha resuelto un problema al abrir documentos de Word desde la entrega de documentos personalizados (aspx) cuando la dirección URL contiene un componente de consulta.
+
+
+
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
 
 ## <a name="version-2005-june-24"></a>Versión 2005:24 de junio
 *Versión 2005 (compilación 12827,20470)*
@@ -86,7 +169,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 - Se ha corregido un problema de bloqueo con el panel de sugerencias.
 
 
-### <a name="project"></a>Project
+### <a name="project"></a>Proyecto
 
 - Corregido un problema por el que una tarea marcada como 100% completada está cambiando erróneamente para ser inferior al 100% completado.
 
@@ -121,7 +204,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - Esto soluciona un bloqueo cuando los usuarios tienen comentarios modernos y heredados en un archivo, lo que desencadena una actualización en los comentarios.
 
-### <a name="project"></a>Project
+### <a name="project"></a>Proyecto
 
 - Se ha corregido un problema por el que el evento ProjectBeforeTaskChange no se desencadena cuando hay un cambio en la tarea de resumen del proyecto, ya sea el campo de inicio o de tarea del proyecto.
 
@@ -339,7 +422,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 <br/>
 
-[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO INICIAL)
+[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="excel"></a>Excel
@@ -424,7 +507,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - Informe a los usuarios mediante la barra de información sobre los ajustes temporales de Microsoft OneNote que le ayudarán a mejorar la sincronización y la disponibilidad del servicio durante el alto uso en todo el mundo.
 
-### <a name="project"></a>Project
+### <a name="project"></a>Proyecto
 
 - Se corrigió un problema por el que el usuario no podía especificar el trabajo previsto con fases temporales al activar la configuración para proteger el trabajo real.
 
@@ -505,7 +588,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 [//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO INICIAL)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
-### <a name="project"></a>Project
+### <a name="project"></a>Proyecto
 
 - Corregido un problema en el que el evento OnUndoOrRedo no se desencadena sin ejecutar primero el método OpenUndoTransaction.
 
@@ -516,7 +599,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-2002-march-01"></a>Versión 2002: 01 de marzo
 *Versión 2002 (compilación 12527.20242)*
 
-[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO INICIAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="outlook"></a>Outlook
@@ -525,12 +608,12 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 
 
-[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2002-february-25"></a>Versión 2002: 25 de febrero
 *Versión de 2002 (compilación 12527.20194)*
 
-[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="excel"></a>Excel
@@ -578,7 +661,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-2001-february-11"></a>Versión 2001: 11 de febrero
 *Versión 2001 (compilación 12430.20264)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO INICIAL)
@@ -603,7 +686,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 - Corrige un problema que provocaba que los usuarios experimentaran un error al cancelar la configuración de la cuenta.
 
 
-### <a name="project"></a>Project
+### <a name="project"></a>Proyecto
 
 - Se ha corregido un problema por el que el 100 % de las tareas de tipo duración fija podían tener un cálculo del porcentaje incorrecto con menos del 100% completado.
 
@@ -614,12 +697,12 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 
 
-[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
 
 ## <a name="version-2001-january-30"></a>Versión 2001: 30 de enero
 *Versión 2001 (compilación 12430.20184)*
 
-[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="excel"></a>Excel
@@ -670,7 +753,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 - Corrige un problema que causaba que los usuarios experimentasen bloqueos al cambiar el nombre de una firma.
 
 
-[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-1912-january-22"></a>Versión 1912: 22 de enero
 *Versión 1912 (compilación 12325.20344)*
@@ -684,17 +767,17 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 
 
-[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-1912-january-14"></a>Versión 1912: 14 de enero
 *Versión 1912 (compilación 12325.20298)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-1912-january-08"></a>Versión 1912: 8 de enero
 *Versión 1912 (compilación 12325.20288)*
 
-[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 
@@ -706,7 +789,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - **Optimizar la presentación para todos:** El comprobador de accesibilidad le ayuda a organizar los objetos de las diapositivas pensando en los lectores de pantalla.
 
-- **GIF en un instante:** una diapositiva, un marco. Cree fácilmente archivos GIF en bucle en PowerPoint. [Obtener más información](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **GIF en un instante:** una diapositiva, un marco. Cree fácilmente archivos GIF en bucle en PowerPoint. [Más información](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
 
@@ -733,7 +816,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - El organizador de bloques de creación puede mostrar una alerta no válida: "ha modificado estilos, bloques de creación".
 
-### <a name="office-suite"></a>Conjunto de programas de Office
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
 
 - Se ha corregido un problema por el que las actualizaciones de Office podían haber descargado inesperadamente archivos de la CDN de Office en lugar de la fuente prevista, como un recurso compartido local o de red, o una ubicación proporcionada por el Administrador de configuración.
 
