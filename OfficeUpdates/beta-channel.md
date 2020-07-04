@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 55d62bf10375c72a09f93369c20f7f5b6d1b963f
-ms.sourcegitcommit: f9bf47d0d27e084205311ab6e844d044da83f252
+ms.openlocfilehash: 2daa8404f34380ab751e17a527885dba8f084380
+ms.sourcegitcommit: 3e203ec35b9830a70836fe7b50bcf4fea5615b57
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/26/2020
-ms.locfileid: "44906915"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "45037084"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de la versión para el canal beta
 
@@ -30,6 +30,58 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 [//]: # (NO ELIMINAR)
 
 [//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
+
+## <a name="version-2007-july-03"></a>Versión 2007:3 de julio
+*Versión 2007 (compilación 13029,20006)*
+
+[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="outlook"></a>Outlook
+
+- **Cree sondeos en Outlook con sondeo rápido:** Crear fácilmente un sondeo, recopilar votos y ver los resultados de un correo electrónico [obtener más información](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+
+- **Nuevo buscador de salas:** búsqueda de salas de conferencias por distintas funcionalidades.
+
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema que provocaba que no se vieran las tablas del modelo de datos creadas en determinadas versiones de Excel en ' vista previa de la tabla ' aunque no se hubiera editado la consulta asociada a la tabla.
+- Se ha corregido un problema por el que, al deshabilitar las referencias relativas/absolutas en el cuadro de diálogo Definir nombre \ aplicar nombres, las fórmulas no funcionarían.
+- Se ha corregido un problema por el que borrar un filtro de datos avanzado podría perder el formato de tabla.
+- Se ha corregido un problema por el que la ruta completa de un documento PDF incrustado mostraría en el título del documento, en lugar de solo el nombre del archivo.
+- Se ha corregido un problema por el que, después de deshabilitar el conector de nube de Wolfram y después de guardar y volver a abrir un libro de Excel, el resultado podría ser un bloqueo.
+- Se ha corregido un problema por el que, al iniciar Excel con el complemento Solver habilitado, se producía un bloqueo.
+
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema que provocaba que Outlook se bloqueara si hubiera más de 130 destinatarios en la línea "para" y también mejoramos el rendimiento de la representación del texto.
+- Se ha corregido un problema en la "barra tareas pendientes" donde los eventos que abarcaban más de dos días mostraban la misma hora de finalización para todos los días siguientes.
+- Se ha corregido un problema que provocaba que los usuarios de Outlook vean la lista de mensajes detener la actualización durante varios minutos después de usar calendarios compartidos.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha corregido un problema por el que, al pegar HTML en un área de texto en una diapositiva, se pegarían en un cuadro de texto creado en la parte superior de la diapositiva.
+- Se ha corregido un problema por el que, al seleccionar todas las diapositivas en la vista moderador, salir de la vista moderador con Alt + Tab y volver a la presentación con diapositivas y hacer clic en ' finalizar presentación ' daría como resultado una excepción no controlada.
+
+### <a name="project"></a>Proyecto
+
+- Se ha corregido un problema por el que Project se bloqueaba al abrir determinados archivos XML.
+- Se ha corregido un problema por el que no se podía abrir un archivo de proyecto desde una biblioteca de documentos de SharePoint si la biblioteca estaba en modo moderno.
+- Se ha corregido un problema por el que los proyectos no se pudieron abrir en el cliente de escritorio de Project desde Project Web App si la dirección URL finalizó en '. com '.
+
+### <a name="word"></a>Word
+
+- Se ha corregido un problema durante el modo de co-autoría cuando se produce un conflicto de combinación y el usuario ya ha elegido descartar los cambios, ya no se muestra la opción para guardar o descartar cambios.
+- Se ha corregido un problema que, al intentar guardar un archivo que contiene una macro con un nombre nuevo, se guardaría con una extensión. docx y el nombre de archivo ' WRO0004.docx ', independientemente de lo que el usuario haya escrito, lo que representaba el documento inutilizable.
+
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
 
 ## <a name="version-2007-june-26"></a>Versión 2007:26 de junio
 *Versión 2007 (compilación 13020,20004)*
@@ -316,7 +368,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 <br/>
 
-[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 
@@ -370,7 +422,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 <br/>
 
-[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="office-suite"></a>Conjunto de aplicaciones de Office
@@ -393,7 +445,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 <br/>
 
-[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="excel"></a>Excel
@@ -430,7 +482,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 - En la Vista web o en el lector inmersivo, al hacer clic en una sugerencia se desplazaba a la parte superior incluso aunque ya estuviera a la vista. Este error se ha corregido.
 - Se ha corregido un problema por el que al intentar guardar un archivo que contenía una macro con un nombre nuevo, este se guardaba con la extensión. docx y el nombre de archivo WRO0004.docx, independientemente de lo que el usuario escribiera, lo que hacía que el archivo no se pudiera volver a usar.
 
-[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
 
 
 ## <a name="version-2005-april-24"></a>Versión 2005: 24 de abril
@@ -460,7 +512,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 ## <a name="version-2005-april-17"></a>Versión 2005: 17 de abril
 *Versión 2005 (compilación 12810.20002)*
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO INICIAL)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="excel"></a>Excel
@@ -594,7 +646,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 <br/>
 
-[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="outlook"></a>Outlook
@@ -605,7 +657,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 ### <a name="powerpoint"></a>PowerPoint
 - Este cambio corrige un error que podría causar que los archivos de PowerPoint que contienen emojis fallen al guardarlos.
 
-### <a name="project"></a>Proyecto
+### <a name="project"></a>Project
 - Se ha solucionado un problema por el que si se ejecuta "Lista de valores de campos personalizados GetItem" y no existe una tabla de búsqueda para el campo personalizado, se crea una tabla de búsqueda vacía aunque no debería existir.
 
 ### <a name="word"></a>Word
@@ -629,11 +681,11 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 - **Actualización de las diapositivas durante la presentación:** actualice diapositivas editadas por otros autores durante la presentación.
 
-[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
 
 <br/>
 
-[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="excel"></a>Excel
@@ -652,7 +704,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 - Se corrigió un problema por el que, al ordenar los resultados por categorías, en un conjunto de resultados de búsqueda devuelto no se mostraban los colores de la categoría.
 
-### <a name="project"></a>Project
+### <a name="project"></a>Proyecto
 
 - Se corrigió un problema por el que el evento "ProjectBeforeTaskChange" de las aplicaciones de Visual Basic (VBA) no se activaba cuando un usuario hacía clic en el botón "Desactivar" que se encuentra en la cinta de tareas en el grupo de programación.
 
@@ -680,12 +732,12 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 - Se corrigió un problema por el que las firmas digitales guardadas en documentos de Word se eliminaban al enviar los documentos.
 
-[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
 
 ## <a name="version-2004-march-13"></a>Versión 2004: 13 de marzo
 *Versión 2004 (compilación 12703.20010)*
 
-[//]: # (NO QUITAR DETALLES DE CARACTERÍSTICAS CONTENIDO INICIO)
+[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 
@@ -702,7 +754,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 <br/>
 
-[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 
@@ -756,9 +808,9 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 - Se ha corregido un problema estético en el que el botón "Aceptar" del cuadro de diálogo de Archivo \ Opciones se mostraba atenuado, pero la función no se veía afectada.
 
-[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
-[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
+[//]: # (NO QUITAR DETALLES DE CARACTERÍSTICAS CONTENIDO INICIO)
 
 ## <a name="version-2003-february-28"></a>Versión 2003: 28 de febrero
 *Versión de 2003 (compilación 12619.20002)*
@@ -774,7 +826,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 - **Se ha mejorado la experiencia de creación de diagramas con entrada de lápiz a formas:** dibuje mejores diagramas y convierta en objetos de Office que pueda manipular [Obtenga más información.](https://support.office.com/article/f304ef73-9514-450b-9bb9-28c6057020f2)
 
-[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
 <br/>
 
@@ -801,23 +853,23 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 - Corrige un problema por el que cuando hay varios documentos abiertos en Word/Excel/PowerPoint de la misma biblioteca de SharePoint, solo se analizará el primer documento abierto para el cumplimiento de las directivas.
 
-[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
 
 ## <a name="version-2003-february-21"></a>Versión 2003: 21 de febrero
 *Versión 2003 (compilación 12615.20000)*
 
-[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="office-suite"></a>Conjunto de aplicaciones de Office
 
 - **Elija el color perfecto:** use códigos de colores hexadecimales para elegir exactamente el color que desea para la fuente, el resaltado de texto, etc.
 
-[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
 
 <br/>
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 
@@ -864,7 +916,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 <br/>
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="outlook"></a>Outlook
@@ -897,7 +949,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 - **Aumente su productividad con el Diseñador de consultas, la vista SQL y la ventana Relaciones:** haga clic con el botón derecho en una tabla para abrirla, diseñarla, cambiar su tamaño y ocultarla. Buscar y reemplazar texto en la vista SQL. Seleccione múltiples tablas en la ventana Relaciones.
 
-[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
 <br/>
 
@@ -944,4 +996,4 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 - Resuelto un problema que podía causar que el paquete de herramientas de corrección de Noruega Nynorsk (NN-no) no se instalara correctamente.
 
-[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
