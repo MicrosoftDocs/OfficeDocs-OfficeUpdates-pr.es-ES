@@ -1,5 +1,5 @@
 ---
-title: Historial de actualizaciones para el canal actual de Office (versión preliminar)
+title: Historial de actualización del canal actual de Office (versión preliminar)
 ms.author: anankani
 author: anankani
 manager: andrewmo
@@ -8,27 +8,27 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Proporciona a participantes del programa Insider el historial de actualizaciones de los lanzamientos del canal mensual de Office (dirigido) para versiones de escritorio de Windows
-ms.openlocfilehash: f64aecd4727f710575d87312f00e4a65eb92ce72
-ms.sourcegitcommit: 6cec37b303b316500774846b6fcdd83814b2b364
-ms.translationtype: MT
+description: Proporciona a los participantes del programa Insider el historial de actualizaciones de los lanzamientos del canal mensual dirigido de Office para versiones de escritorio de Windows
+ms.openlocfilehash: cf1196ce142f481b62565cac610396c087e7c291
+ms.sourcegitcommit: f7bb0455136794c38a7f934e391b17a9c98c9d52
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44889056"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "45094660"
 ---
-# <a name="update-history-for-office-current-channel-preview-for-windows"></a>Historial de actualizaciones para el canal actual de Office (versión preliminar) para Windows
+# <a name="update-history-for-office-current-channel-preview-for-windows"></a>Historial de actualización del canal actual de Office (versión preliminar) para Windows
 
-Hola, Insider Si está preguntando si tiene instalada la actualización más reciente o está buscando una lista de las versiones recientes de canal actual (versión preliminar), está en el punto correcto.
-Haga clic [aquí](https://insider.office.com/) para obtener más información sobre el programa de Insiders.
+Hola, participantes de Office Insider. Si se está preguntando si tiene la última actualización instalada o busca una lista de compilaciones recientes del Canal actual (vista previa), se encuentra en la página correcta.
+Haga clic [aquí](https://insider.office.com/) para obtener más información sobre el programa Insider.
 
-## <a name="office-current-channel-preview-versions-and-builds"></a>Canal actual de Office (versión preliminar) versiones y compilaciones
+## <a name="office-current-channel-preview-versions-and-builds"></a>Compilaciones y versiones del canal actual de Office (versión preliminar)
 
-Si está inscrito en el nivel de canal actual (versión preliminar), que antes se llamaba Insider Slow, obtendrá una nueva actualización de características de Office aproximadamente una vez al mes, más las compilaciones posteriores que contengan correcciones o actualizaciones de seguridad importantes. En la siguiente lista se muestran las versiones y versiones de canal actual (versión preliminar) recientes, con **la última versión de compilación que se ha lanzado primero**. Las nuevas compilaciones contienen todas las actualizaciones incluidas en las versiones anteriores.
-Para buscar notas de la versión, [consulte](https://docs.microsoft.com/en-us/OfficeUpdates/current-channel-preview). Además, puede ver las novedades [de Office Insider](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
+Si está inscrito en el nivel Canal actual (versión preliminar), que anteriormente era llamado Modo aplazado de Insider, obtendrá una nueva actualización de características de Office una vez al mes aproximadamente, además de las compilaciones subsiguientes que contengan correcciones importantes o actualizaciones de seguridad. En la siguiente lista se muestran las versiones y las compilaciones recientes del Canal actual (versión preliminar), con **las compilaciones más recientes en primer lugar**. Las compilaciones nuevas incluyen todas las actualizaciones de las compilaciones anteriores.
+Para buscar notas de la versión, [vea](https://docs.microsoft.com/es-ES/OfficeUpdates/current-channel-preview). También, puede ver [Novedades para participantes de Office Insider](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
 
 
 > [!IMPORTANT]
-> - Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441) para más información.
+> - Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441) para obtener más información.
 > - A partir de la versión 2004, el nombre de Office 365 ProPlus pasa a ser Aplicaciones de Microsoft 365 para empresas. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2123420) para obtener más información.Por lo general, en nuestra documentación solo haremos referencia a él como Aplicaciones de Microsoft 365.
 
 > [!NOTE]
@@ -38,29 +38,32 @@ Para buscar notas de la versión, [consulte](https://docs.microsoft.com/en-us/Of
 
 [//]: # (NO ELIMINAR)
 
+**9 de julio de 2020**<br/>
+Versión 2006 (compilación 13001.20384)<br/>
+
 **25 de junio de 2020**<br/>
-Versión 2006 (compilación 13001,20266)<br/>
+Versión 2006 (compilación 13001.20266)<br/>
 
 **18 de junio de 2020**<br/>
-Versión 2006 (compilación 13001,20198)<br/>
+Versión 2006 (compilación 13001.20198)<br/>
 
 **11 de junio de 2020**<br/>
-Versión 2006 (compilación 13001,20144)<br/>
+Versión 2006 (compilación 13001.20144)<br/>
 
 **8 de junio de 2020**<br/>
-Versión 2005 (compilación 12827,20336)<br/>
+Versión 2005 (compilación 12827.20336)<br/>
 
 **4 de junio de 2020**<br/>
-Versión 2005 (compilación 12827,20320)<br/>
+Versión 2005 (compilación 12827.20320)<br/>
 
 **29 de mayo de 2020**<br/>
-Versión 2005 (compilación 12827,20268)<br/>
+Versión 2005 (compilación 12827.20268)<br/>
 
 **21 de mayo de 2020**<br/>
-Versión 2005 (compilación 12827,20210)<br/>
+Versión 2005 (compilación 12827.20210)<br/>
 
 **14 de mayo de 2020**<br/>
-Versión 2005 (compilación 12827,20160)<br/>
+Versión 2005 (compilación 12827.20160)<br/>
 
 **11 de mayo de 2020**<br/>
 Versión 2004 (compilación 12730.20270)<br/>
@@ -188,7 +191,7 @@ Versión 1910 (compilación 12130.20238)<br/>
 **22 de octubre de 2019**<br/>
 Versión 1910 (compilación 12130.20210)<br/>
 
-**14 de octubre en 2019**<br/>
+**14 de octubre de 2019**<br/>
 Versión 1910 (compilación 12130.20184)<br/>
 
 **14 de octubre de 2019**<br/>
