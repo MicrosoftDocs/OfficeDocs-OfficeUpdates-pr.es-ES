@@ -8,17 +8,17 @@ ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: 'Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: b7337f4dcc20631c9f0b941a7ff8060816d89e73
-ms.sourcegitcommit: 6e27566f8c2e6718da5c5597a62f91a882c8b20f
-ms.translationtype: MT
+description: Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales
+ms.openlocfilehash: d80bc153a2de2f3f364003a5691753d12bbb0416
+ms.sourcegitcommit: 39056b7c6c4fc271ff1c559f4231800862f279b4
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/07/2020
-ms.locfileid: "45052633"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "45098674"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de la versión para el canal beta
 
-Este artículo contiene las notas de la versión para las versiones beta del canal de Word, Excel, PowerPoint, Outlook, Access y Project para el escritorio de Windows. Todas las semanas se incluyen las nuevas características, correcciones importantes y los problemas principales de mayor interés para usted. Tenga en cuenta que, a menudo, implementamos características (y a veces incluso soluciones) en el canal de la versión beta en un período de tiempo. Esto nos permite asegurarnos de que todo funciona correctamente antes de publicar la característica para un público más amplio. Por lo tanto, si ve que no dispone de algo de lo que se describe a continuación, no se preocupe, lo obtendrá en algún momento.  
+El presente artículo contiene notas de la versión para las compilaciones del canal beta de las versiones de escritorio de Word, Excel, PowerPoint, Outlook, Access y Project para Windows. Cada semana se destacarán las nuevas características, correcciones importantes y los problemas principales de mayor interés para usted. Tenga en cuenta que a menudo se implementan características (o incluso correcciones) en el canal beta durante un período de tiempo. Esto nos permite asegurarnos de que todo funciona correctamente antes de publicar la característica para un público más amplio. Por lo tanto, si ve que no dispone de algo de lo que se describe a continuación, no se preocupe, lo obtendrá en algún momento.  
 
 > [!IMPORTANT]
 > Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441) para más información.
@@ -31,15 +31,37 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 [//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
 
-## <a name="version-2007-july-03"></a>Versión 2007:3 de julio
-*Versión 2007 (compilación 13029,20006)*
+## <a name="version-2008-july-10"></a>Versión 2008: 10 de julio
+*Versión 2008 (compilación 13102.20002)*
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema debido al cual la opción Permitir reenvío no aparecía en las opciones de respuesta de las reuniones del calendario compartido en aquellos casos en los que la carpeta de descarga compartida no se había comprobado.
+- Se ha corregido un problema que provocaba que el botón Imprimir apareciera en un estado deshabilitado aunque el usuario tuviera los permisos de impresión adecuados.
+
+### <a name="project"></a>Project
+
+- Se ha corregido un problema que impedía al usuario guardar desde Project un PDF o XPS en una biblioteca de documentos de SharePoint.
+
+### <a name="word"></a>Word
+
+- Se ha corregido un problema que provocaba que Word dejara de responder después de pegar texto y una imagen en un cuadro de comentarios.
+- Se ha corregido un problema que causaba que el botón "Nuevo comentario" quedara deshabilitado después de eliminar el último comentario.
+
+[//]: # (NO QUITAR LOS DETALLES DE ERROR DE FIN DE CONTENIDO)
+
+## <a name="version-2007-july-03"></a>Versión 2007: 03 de julio
+*Versión 2007 (compilación 13029.20006)*
 
 [//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="outlook"></a>Outlook
 
-- **Cree sondeos en Outlook con sondeo rápido:** Crear fácilmente un sondeo, recopilar votos y ver los resultados de un correo electrónico [obtener más información](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+- **Crear sondeos en Outlook con Sondeo rápido:** cree sondeos, recopile votos y obtenga los resultados rápidamente en un solo correo electrónico [Más información](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
 - **Nuevo buscador de salas:** búsqueda de salas de conferencias por distintas funcionalidades.
 
@@ -52,112 +74,112 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="excel"></a>Excel
 
-- Se ha corregido un problema que provocaba que no se vieran las tablas del modelo de datos creadas en determinadas versiones de Excel en ' vista previa de la tabla ' aunque no se hubiera editado la consulta asociada a la tabla.
-- Se ha corregido un problema por el que, al deshabilitar las referencias relativas/absolutas en el cuadro de diálogo Definir nombre \ aplicar nombres, las fórmulas no funcionarían.
-- Se ha corregido un problema por el que borrar un filtro de datos avanzado podría perder el formato de tabla.
-- Se ha corregido un problema por el que la ruta completa de un documento PDF incrustado mostraría en el título del documento, en lugar de solo el nombre del archivo.
-- Se ha corregido un problema por el que, después de deshabilitar el conector de nube de Wolfram y después de guardar y volver a abrir un libro de Excel, el resultado podría ser un bloqueo.
-- Se ha corregido un problema por el que, al iniciar Excel con el complemento Solver habilitado, se producía un bloqueo.
+- Se ha corregido un problema por el que las tablas del modelo de datos creadas en algunas versiones de Excel no se podían ver en "Vista previa de la tabla", pese a que no se había editado la consulta asociada a la tabla.
+- Se ha corregido un problema por el que deshabilitar la opción "Omitir tipo de referencia (relativa o absoluta)" en el cuadro de diálogo "Definir nombre/Aplicar nombres" provocaba que las fórmulas no funcionaran.
+- Se ha corregido un problema por el que al quitar filtros avanzados de datos se borraba el formato de tabla.
+- Se ha corregido un problema que provocaba que la ruta de acceso completa de un documento PDF incrustado se mostrara en el título del documento, en lugar de mostrarse solo en el nombre de archivo.
+- Se ha corregido un problema por el que deshabilitar el CloudConnector de Wolfram y, a continuación, guardar y volver a abrir un libro de Excel podía dar lugar a un bloqueo.
+- Se ha corregido un problema por el que iniciar Excel con el complemento Solver habilitado daba lugar a un bloqueo.
 
 ### <a name="outlook"></a>Outlook
 
-- Se ha corregido un problema que provocaba que Outlook se bloqueara si hubiera más de 130 destinatarios en la línea "para" y también mejoramos el rendimiento de la representación del texto.
-- Se ha corregido un problema en la "barra tareas pendientes" donde los eventos que abarcaban más de dos días mostraban la misma hora de finalización para todos los días siguientes.
-- Se ha corregido un problema que provocaba que los usuarios de Outlook vean la lista de mensajes detener la actualización durante varios minutos después de usar calendarios compartidos.
+- Se ha corregido un problema por el que Outlook se bloqueaba si había más de 130 destinatarios en la línea "Para". Asimismo, se ha mejorado el rendimiento del procesamiento de texto.
+- Se ha corregido un problema en la barra "Tareas Pendientes" que provocaba que los eventos que ocupaban más de dos días mostraran la misma hora de finalización para los siguientes días.
+- Se ha corregido un problema que provocaba que la lista de mensajes dejara de actualizarse durante varios minutos después de que los usuarios de Outlook usaran calendarios compartidos.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- Se ha corregido un problema por el que, al pegar HTML en un área de texto en una diapositiva, se pegarían en un cuadro de texto creado en la parte superior de la diapositiva.
-- Se ha corregido un problema por el que, al seleccionar todas las diapositivas en la vista moderador, salir de la vista moderador con Alt + Tab y volver a la presentación con diapositivas y hacer clic en ' finalizar presentación ' daría como resultado una excepción no controlada.
+- Se ha corregido un problema por el que, al tratar de pegar código HTML en un área de texto en una diapositiva, el código se pegaba en un cuadro de texto creado en la parte superior de la diapositiva.
+- Se ha corregido un problema por el que, al seleccionar todas las diapositivas en la vista Moderador y, a continuación, salir de dicha vista mediante ALT+TAB, volver a la presentación con diapositivas y hacer clic en "Finalizar presentación", tenía lugar una excepción no controlada.
 
-### <a name="project"></a>Proyecto
+### <a name="project"></a>Project
 
-- Se ha corregido un problema por el que Project se bloqueaba al abrir determinados archivos XML.
-- Se ha corregido un problema por el que no se podía abrir un archivo de proyecto desde una biblioteca de documentos de SharePoint si la biblioteca estaba en modo moderno.
-- Se ha corregido un problema por el que los proyectos no se pudieron abrir en el cliente de escritorio de Project desde Project Web App si la dirección URL finalizó en '. com '.
+- Se ha corregido un problema que provocaba que Project se bloqueara al abrir determinados archivos XML.
+- Se ha corregido un problema por el que no se podía abrir un archivo de Project de una biblioteca de documentos de SharePoint si la biblioteca estaba en modo moderno.
+- Se ha corregido un problema por el que los proyectos no se podían abrir en el cliente de escritorio de Project en Project Web App si la dirección URL finalizaba en ".com".
 
 ### <a name="word"></a>Word
 
-- Se ha corregido un problema durante el modo de co-autoría cuando se produce un conflicto de combinación y el usuario ya ha elegido descartar los cambios, ya no se muestra la opción para guardar o descartar cambios.
-- Se ha corregido un problema que, al intentar guardar un archivo que contiene una macro con un nombre nuevo, se guardaría con una extensión. docx y el nombre de archivo ' WRO0004.docx ', independientemente de lo que el usuario haya escrito, lo que representaba el documento inutilizable.
+- Se ha corregido un problema en el modo de coautoría: cuando se produce un conflicto de fusión y el usuario ya ha elegido previamente descartar los cambios, ya no se muestra la opción que da a elegir entre guardar o descartar los cambios.
+- Se ha corregido un problema por el que, al intentar guardar un archivo que contenía una macro con un nombre nuevo, este se guardaba con la extensión .docx y el nombre de archivo "WRO0004.docx", independientemente de lo que el usuario escribiera, lo que provocaba que el archivo no se pudiera volver a usar.
 
-[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
+[//]: # (NO QUITAR LOS DETALLES DE ERROR DE FIN DE CONTENIDO)
 
-## <a name="version-2007-june-26"></a>Versión 2007:26 de junio
-*Versión 2007 (compilación 13020,20004)*
+## <a name="version-2007-june-26"></a>Versión 2007: 26 de junio
+*Versión 2007 (compilación 13020.20004)*
 
-[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO INICIAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="access"></a>Access
 
-- Se ha corregido un problema por el que el administrador de tablas vinculado solicitaba una clave principal si se actualizaba una tabla vinculada de SQL.
-- Se ha corregido un problema por el que las consultas en el editor de consultas se desplazaron fuera de la vista.
-- Se ha corregido un problema por el que la ejecución de la consulta duraba aproximadamente el doble de tiempo que lo esperado.
+- Se ha corregido un problema por el que el administrador de tablas vinculadas solicitaba una clave principal al actualizar una tabla SQL vinculada.
+- Se ha corregido un problema por el que las consultas en el Editor de consultas quedaban desplazadas fuera de la vista.
+- Se ha corregido un problema que provocaba que la ejecución de consultas tardara en completarse aproximadamente el doble del tiempo esperado.
 
 ### <a name="outlook"></a>Outlook
 
-- Se ha corregido un problema por el que los usuarios no podían "enviar como" o "enviar en nombre de" de una lista de distribución.
-- Hemos corregido un problema por el que, al insertar una imagen en línea en un mensaje, guardar el mensaje como borrador daría como resultado el cambio de tamaño de la imagen.
-- Se ha corregido un problema que provocaba que el cuerpo de un mensaje NDR cambiara de Unicode a ASCII tras editar el asunto.
+- Se ha corregido un problema por el que los usuarios no podían "Enviar como" o "Enviar en nombre de" en una lista de distribución.
+- Se ha corregido un problema por el que, al insertar una imagen en un mensaje y, a continuación, guardar el mensaje como borrador, se cambiaba el tamaño de la imagen.
+- Se ha corregido un problema que provocaba que el cuerpo de un mensaje NDR cambiara de Unicode a ASCII después de editar el asunto.
 
-### <a name="project"></a>Proyecto
+### <a name="project"></a>Project
 
-- Se ha corregido un problema por el que se deshabilitaban los vínculos de planeación de proyecto en entornos de nube de la comunidad gubernamental.
+- Se ha corregido un problema que consistía en que los vínculos de Project Planner en entornos de Government Community Cloud habían sido deshabilitados.
 
 ### <a name="office-suite"></a>Conjunto de aplicaciones de Office
 
-- Se ha corregido un problema por el que el texto insertado en un gráfico vectorial escalable (SVG) se ilegible después de insertarlo en un archivo de Word, Excel o PowerPoint, guardando y cerrando el archivo y, a continuación, volviendo a abrir el archivo.
+- Se ha corregido un problema por el que el texto insertado en un archivo de gráficos vectoriales escalables (SVG) quedaba ilegible tras insertarlo en un archivo de Word, Excel o PowerPoint, guardar y cerrar el archivo y, a continuación, volver a abrirlo.
 
-[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
+[//]: # (NO QUITAR LOS DETALLES DE ERROR DE FIN DE CONTENIDO)
 
-## <a name="version-2007-june-19"></a>Versión 2007:19 de junio
-*Versión 2007 (compilación 13012,20000)*
+## <a name="version-2007-june-19"></a>Versión 2007: 19 de junio
+*Versión 2007 (compilación 13012.20000)*
 
-[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO INICIAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="excel"></a>Excel
 
-- Se ha corregido un problema por el que se quitó el XML de CustomUI para una pestaña de cinta personalizada al guardar un libro en SharePoint/OneDrive.
-- Se ha corregido un problema por el que los libros eran de solo lectura cuando el archivo sólo se rerecomendó sólo lectura.
+- Se ha corregido un problema que provocaba que se quitara el XML de CustomUI para una ficha de cinta personalizada al guardar un libro de trabajo en SharePoint o OneDrive.
+- Se ha corregido un problema que provocaba que los libros de trabajo fueran de solo lectura cuando el archivo tenía activada la casilla "Se recomienda solo lectura".
 
 ### <a name="outlook"></a>Outlook
 
-- Se ha corregido un problema por el que la ventana del editor de métodos de entrada (IME) se solapaba con el texto subyacente que se escribe mediante el IME cuando se usan varios monitores con diferentes resoluciones.
-- Se ha corregido un problema que provocaba que los usuarios vean el siguiente error al cerrar una cita que se guardó anteriormente: "no se puede guardar el elemento porque lo modificó otro usuario o en otra ventana. ¿Desea realizar una copia en la carpeta predeterminada del elemento? "
-- Se ha corregido un problema que provocaba que no se mostraran las fechas en el calendario mini en negrita para los usuarios en Japón.
-- Hemos corregido un problema que impedía que los avisos de calendario mostraran períodos exactos de las reuniones que aparecen en menos de una semana.
+- Se ha corregido un problema por el que la ventana del Editor de métodos de entrada (IME) se superponía al texto subyacente escrito mediante el IME al utilizar varios monitores con resoluciones diferentes.
+- Se ha corregido un problema que provocaba que los usuarios vieran el siguiente error al cerrar una cita guardada previamente: "No se puede guardar el elemento porque otro usuario lo modificó o se modificó en otra ventana. ¿Quiere realizar una copia en la carpeta predeterminada del elemento?"
+- Se ha corregido un problema por el que las fechas del minicalendario no se podían mostrar en negrita para los usuarios de Japón.
+- Se ha corregido un problema que impedía que los avisos del calendario mostraran la hora exacta de las reuniones programadas para tener lugar en menos de una semana.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- Se ha corregido un problema que provocaba que no se actualizase el indicador de color de presencia de un usuario en la galería de co-autoría durante una sesión de co-autoría en directo.
+- Se ha corregido un problema por el que el indicador de color de presencia de un usuario no se actualizaba en la galería de coautoría durante una sesión de coautoría en directo.
 
-### <a name="project"></a>Proyecto
+### <a name="project"></a>Project
 
-- Se ha corregido un problema por el que, si las tareas de duración fija están al 100% completadas pero no se especifica el final real, la tarea% completado se mostraría como menos del 100%.
+- Se ha corregido un problema por el que, si las tareas de duración fija estaban completas al 100 %, pero no se especificaba la fecha de finalización real, el porcentaje de finalización de la tarea se mostraba como inferior al 100 %.
 
 ### <a name="word"></a>Word
 
-- Se ha corregido un problema por el que el color de hipervínculo HTML no se representó correctamente.
+- Se ha corregido un problema por el que el color de los hipervínculos HTML no se representaba correctamente.
 
 ### <a name="office-suite"></a>Conjunto de aplicaciones de Office
 
-- Se ha corregido un problema por el que no se mostraban las direcciones URL que no se basaban en http o https en la lista de archivos usados recientemente.
+- Se ha corregido un problema por el que las direcciones URL que no se basaban en http o https no se mostraban en la lista Utilizado recientemente.
 
-[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
+[//]: # (NO QUITAR LOS DETALLES DE ERROR DE FIN DE CONTENIDO)
 
-## <a name="version-2007-june-12"></a>Versión 2007:12 de junio
-*Versión 2007 (compilación 13006,20002)*
+## <a name="version-2007-june-12"></a>Versión 2007: 12 de junio
+*Versión 2007 (compilación 13006.20002)*
 
 [//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="excel"></a>Excel
 
-- **Obtener datos de la organización de Power BI con tipos de datos:** Los tipos de datos de Excel de Power BI ahora se están implementando a los Insiders en las organizaciones con Office 365 E5/A5 o Microsoft 365 E5/A5. Obtener la información que necesita y actualizarla fácilmente es fundamental para muchos de los flujos de trabajo cotidianos. Le proporcionamos acceso a la información de su empresa u organización de Power BI como tipo de datos en Excel, lo que amplía su capacidad para vincular información en las hojas de cálculo. [Más información](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+- **Obtenga datos de organización de Power BI mediante Tipos de datos:** los tipos de datos de Excel de Power BI se están publicando ahora para participantes de Office Insider en las organizaciones con Office 365 E5/A5 o Microsoft 365 E5/A5. Obtener la información que necesita y actualizarla fácilmente es fundamental para muchos de los flujos de trabajo diarios. Le proporcionamos acceso a la información de Power BI de su empresa u organización como un tipo de datos en Excel, lo que amplía su capacidad de incorporar a las hojas de cálculo información vinculada. [Más información](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
-[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
 
 <br/>
 
@@ -166,41 +188,41 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="access"></a>Access
 
-- Se ha corregido un problema que provocaba que Microsoft Access no pudiera identificar una columna de identidad en una tabla vinculada de SQL Server, lo que podría provocar que las filas se notificaran como eliminadas incorrectamente.
+- Se ha corregido un problema que provocaba que Microsoft Access no identificara una Columna de identidad en una tabla vinculada de SQL Server, lo que podía hacer que las filas aparecieran como eliminadas de forma incorrecta.
 
 ### <a name="excel"></a>Excel
 
-- Se ha corregido un problema por el que no se podía dar formato correctamente a las líneas de cuadrícula principales de los gráficos radiales.
+- Se ha corregido un problema por el que no se pudo aplicar el formato correcto a las líneas de cuadrícula principales de los gráficos radiales.
 
-### <a name="project"></a>Proyecto
+### <a name="project"></a>Project
 
-- Se ha corregido un problema por el que el evento ProjectBeforeTaskChange no se ha desencadenado cuando había un cambio en la tarea de resumen del proyecto, ya sea en el campo comienzo/tarea del proyecto.
-- Se ha corregido un problema por el que una actualización o restablecimiento de línea base podría cambiar los recursos de trabajo y el costo presupuestado con fases temporales, y la línea base podría reflejar valores presupuestarios incorrectos.
+- Se ha corregido un problema que provocaba que el evento ProjectBeforeTaskChange no se activara al tener lugar un cambio en la tarea de resumen del proyecto, ya fuera en el campo de inicio o de tarea del proyecto.
+- Se ha corregido un problema por el que una actualización o un restablecimiento de la línea base podía cambiar los recursos de trabajo o el costo presupuestado con fases temporales, y la línea base podía reflejar valores de presupuesto incorrectos.
 
 ### <a name="word"></a>Word
 
-- Se ha corregido un problema que provocaba que no funcionara la posibilidad de borrar el formato en el panel de comentarios mediante el botón Borrar formato de la cinta de Office.
-- Se ha corregido un problema por el que, al cambiar el tamaño de una tabla cuando no se mostraba la regla, se iniciaba la intermitencia de otras aplicaciones que se ejecutaban en segundo plano.
-- Hemos corregido un problema en el que, en el modo de co-autoría, las respuestas de comentarios no se mostrarían a veces en el panel de comentarios, pero sería visible en el panel de revisiones.
-- Se ha corregido un problema por el que, si Word tenía una lista de los documentos abiertos con frecuencia, después 50 de guardar y abrir un documento, se mostraría un historial de revisión aunque no se hubieran realizado revisiones en ese documento.
+- Se ha corregido un problema por el que no funcionaba la opción de borrar el formato en el Panel Comentarios mediante el botón Borrar formato de la cinta de opciones de Office.
+- Se ha corregido un problema que provocaba que otras aplicaciones que se ejecutaban en segundo plano comenzaran a parpadear al cambiar el tamaño de una tabla cuando la regla no se mostraba.
+- Se ha corregido un problema por el que, en el modo de coautoría, las respuestas a los comentarios no se mostraban en el panel de comentarios en ocasiones, pero eran visibles en el panel de revisiones.
+- Se ha corregido un problema por el que, si Word tenía una lista de más de 50 documentos abiertos con frecuencia, después de guardar y abrir un documento, se mostraba un historial de revisiones pese a que no se había modificado dicho documento.
 
-[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
+[//]: # (NO QUITAR LOS DETALLES DE ERROR DE FIN DE CONTENIDO)
 
-## <a name="version-2006-june-05"></a>Versión 2006:5 de junio
-*Versión 2006 (compilación 13001,20002)*
+## <a name="version-2006-june-05"></a>Versión 2006: 05 de junio
+*Versión 2006 (compilación 13001.20002)*
 
 [//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="excel"></a>Excel
 
-- **Ordenar o filtrar mientras colabora en Excel:** Ahora puede ordenar y filtrar el archivo de Excel mientras colabora con otros usuarios. Esta nueva característica impide que se vean afectados por las ordenaciones y los filtros de otros usuarios al coautor del documento.
+- **Ordenar o filtrar mientras colabora en Excel:** ahora puede ordenar y filtrar un archivo de Excel mientras colabora con otras personas. Esta nueva característica evita que sus acciones se vean afectadas por la ordenación y los filtros de otros usuarios mientras se trabaja en un documento en coautoría.
 
-- **Cree tablas dinámicas de conjuntos de elementos en Power BI en Excel:** Puede crear tablas dinámicas en Excel que estén conectadas a los conjuntos de valores almacenados en Power BI con unos pocos clics.Esto le permite sacar el máximo partido de las tablas dinámicas y de Power BI. Calcule, resume y analice los datos con tablas dinámicas de los datasets de Power BI protegidos. [Más información](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
+- **Crear tablas dinámicas de conjuntos de datos en Power BI en Excel:** puede crear tablas dinámicas en Excel conectadas a los conjuntos de datos almacenados en Power BI con tan solo unos clics.Así, podrá obtener lo mejor de las tablas dinámicas y de Power BI. Calcule, resuma y analice sus datos con tablas dinámicas desde sus conjuntos de datos seguros de Power BI. [Más información](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
 
 ### <a name="outlook"></a>Outlook
 
-- **Volver a abrir rápidamente los elementos de la sesión anterior:** Se ha agregado una opción para volver a abrir rápidamente los elementos de una sesión anterior de Outlook. Ya sea que Outlook se bloquee o lo cierre, ahora podrá volver a iniciar rápidamente los elementos cuando vuelva a abrir la aplicación. Esta característica está activada de forma predeterminada. Para desactivarla, vaya a opciones > general > opciones de inicio.
+- **Volver a abrir rápidamente los elementos de una sesión anterior:** hemos agregado una opción para volver a abrir rápidamente los elementos de una sesión anterior de Outlook. Si Outlook se bloquea o usted cierra la aplicación, ahora podrá reiniciar elementos rápidamente al reabrir Outlook. Esta característica está activada de forma predeterminada. Para desactivarla, vaya a Opciones > General > Opciones de inicio.
 
 
 [//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
@@ -212,100 +234,100 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="excel"></a>Excel
 
-- Se ha corregido un problema que provocaba que no se aplicaran correctamente los valores personalizados del eje del gráfico.
-- Se ha corregido un problema por el que las hojas de cálculo que contenían varias fórmulas con nombres definidos se producían más veces al guardar archivos.
+- Se ha corregido un problema por el que los valores personalizados en el eje del gráfico no se aplicaban correctamente.
+- Se ha corregido un problema por el que las hojas de cálculo que contenían varias fórmulas con nombres definidos tardaban más en guardarse.
 
 ### <a name="outlook"></a>Outlook
 
-- Se ha corregido un problema por el que la ventana IME (editor de métodos de entrada) se solapaba con el texto subyacente que se escribe mediante el IME cuando se usan varios monitores con diferentes resoluciones.
-- Se ha corregido un problema por el que, al visualizar una plantilla al redactar un nuevo mensaje de correo electrónico, se producía un bloqueo.
-- Se ha corregido un problema por el que los usuarios no podían intercambiar 2010 carpetas públicas después de Outlook versión 1911.
-- Se ha corregido un problema por el que se deshabilitó el botón clasificar para calendarios de grupo en la cinta de Office.
-- Se ha corregido un problema que provocaba que los usuarios con conflictos de contactos experimenten bloqueos en Outlook.
-- Se ha corregido un problema que provocaba que faltase el cuadro desplegable archivo en línea en las propiedades de la carpeta para los usuarios en monitores con alta resolución de PPP.
-- Hemos corregido un problema que provocaba que los usuarios experimentaran un bloqueo en Outlook al trabajar con hipervínculos en mensajes de correo electrónico de texto sin formato.
+- Se ha corregido un problema por el que la ventana del Editor de métodos de entrada (IME) se superponía al texto subyacente escrito mediante el IME cuando se usaban varios monitores con resoluciones diferentes.
+- Se ha corregido un problema que causaba un bloqueo cuando se visualizaba una plantilla mientras se redactaba un nuevo mensaje de correo electrónico.
+- Se ha corregido un problema por el que los usuarios no podían intercambiar carpetas públicas de Exchange 2010 después de la versión 1911 de Outlook.
+- Se ha corregido un problema por el que se deshabilitaba el botón de Categorizar para los calendarios de grupo en la cinta de opciones de Office.
+- Se ha corregido un problema que hacía que los usuarios con contactos en conflicto experimentaran bloqueos en Outlook.
+- Se ha corregido un problema por el que la lista desplegable del Archivo en línea en las propiedades de carpeta no aparecía en monitores con un alto nivel de ppp.
+- Se ha corregido un problema que provocaba un bloqueo en Outlook al trabajar con hipervínculos en mensajes de correo electrónico de texto sin formato.
 - Se ha corregido un problema que provocaba que Outlook no pudiera analizar nombres de archivo largos codificados con RFC2231.
-- Se ha corregido un problema que provocaba que los usuarios de Outlook experimentaban bloqueos intermitentes al usar lectores de pantalla.
+- Se ha corregido un problema que provocaba que los usuarios de Outlook experimentaran interrupciones intermitentes al usar lectores de pantalla.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- Hemos corregido un problema al abrir archivos configurados por el servidor con la autenticación basada en formularios.
-- Se ha corregido un problema por el que los archivos de PowerPoint con gráficos o libros incrustados podrían provocar errores al guardar el archivo.
-- Se ha corregido un problema por el que un panel de comentarios cerrado por el usuario volvería a abrirse automáticamente.
-- Se ha corregido un problema que provocaba que el editor de diapositivas de una diapositiva se superponga en la diapositiva siguiente.
+- Se ha corregido un problema al abrir archivos configurados por el servidor con autenticación basada en formularios.
+- Se ha corregido un problema por el que los archivos de PowerPoint con gráficos o libros incrustados podían causar errores al guardar el archivo.
+- Se ha corregido un problema que provocaba que los paneles de Comentarios cerrados por el usuario se abrieran automáticamente de nuevo.
+- Se ha corregido un problema por el que el editor de diapositivas de una diapositiva se superponía a la siguiente diapositiva.
 
-### <a name="project"></a>Proyecto
+### <a name="project"></a>Project
 
-- Se ha corregido un problema que impedía que las tareas huérfanas se eliminaran o se volvieran a asignar después de que se eliminara el plan primario.
+- Se ha corregido un problema que impedía que las tareas huérfanas se eliminaran o reasignaran después de eliminar su plan primario.
 
 ### <a name="word"></a>Word
 
-- Se ha corregido un problema por el que las marcas de hora en los paneles de comentarios no se basaban en la hora de la configuración regional del sistema.
-- Se ha corregido un problema por el que no se sincronizaban los comentarios entre la aplicación web y la aplicación de escritorio.
+- Se ha corregido un problema por el que las marcas de tiempo en los paneles de comentarios no se basaban en la hora de la configuración regional del sistema.
+- Se ha corregido un problema por el que los comentarios entre la aplicación web y la aplicación de escritorio no estaban sincronizados.
 
-[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
+[//]: # (NO QUITAR LOS DETALLES DE ERROR DE FIN DE CONTENIDO)
 
 
-## <a name="version2006may29"></a>Versión 2006:29 de mayo
-*Versión 2006 (compilación 12920,20000)*
+## <a name="version2006may29"></a>Versión 2006: 29 de mayo
+*Versión 2006 (compilación 12920.20000)*
 
 ### <a name="featureupdates"></a>Actualizaciones de características
 ### <a name="outlook"></a>Outlook
 
-- **Botones adicionales agregados a las notificaciones del sistema de Outlook:** Ahora aparecen botones de acción rápidos en las notificaciones del sistema de Outlook al ejecutar Outlook en Windows 10.
+- **Se agregaron botones adicionales a las notificaciones del sistema de Outlook:** ahora aparecen botones de acción rápida en las notificaciones del sistema de Outlook cuando se ejecuta Outlook en Windows 10.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Rendimiento de vídeo de transmisión mejorado en PowerPoint:** Hemos realizado mejoras en el rendimiento de reproducción de los vídeos de Microsoft Stream para minimizar el tiempo de carga de vídeo y crear una experiencia de visualización fluida.  Use sus vídeos corporativos de Microsoft Stream para crear mejores presentaciones.
+- **Rendimiento mejorado de vídeos de Stream en PowerPoint:** hemos realizado mejoras en el rendimiento de la reproducción de los vídeos de Microsoft Stream para minimizar el tiempo de carga de vídeo y lograr una visualización más fluida.  Utilice sus vídeos corporativos de Microsoft Stream para crear presentaciones mejoradas.
 
-[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL FIN DE CONTENIDO)
 
 <br/>
 
-[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO INICIAL)
+[//]: # (NO QUITAR DETALLES DE ERRORES DE INICIO DE CONTENIDO)
 
-### <a name="resolvedissues"></a>Problemas corregidos
+### <a name="resolvedissues"></a>Problemas resueltos
 
 ### <a name="excel"></a>Excel
 
-- Se ha corregido un problema por el que Excel se cerraba ocasionalmente al participar en OneDrive.
-- Se ha corregido un problema por el que, al hacer clic en un hipervínculo marcado en el mismo libro, el libro se ocultaba.
-- Se ha corregido un problema por el que algunos vínculos de gráfico copiado y pegado usaban direcciones de unidad asignadas en lugar de direcciones universales.
-- Se ha corregido un problema por el que Excel podía dejar de responder después de usar Ctrl + Mayús + teclas de flecha para desplazarse cuando se compartía la ventana de Excel a través de Teams.
+- Se ha corregido un problema por el que Excel se cerraba ocasionalmente al utilizar OneDrive.
+- Se ha corregido un problema que provocaba que, al hacer clic en un hipervínculo marcado en el propio libro, se ocultara dicho libro.
+- Se ha corregido un problema por el que algunos vínculos de un gráfico copiado y pegado usaban direcciones de unidad asignadas, en lugar de direcciones universales.
+- Se ha corregido un problema por el que Excel podía dejar de responder después de presionar Ctrl + Mayús + teclas de dirección para desplazarse cuando la ventana de Excel se compartía en Teams.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- Se ha corregido un problema por el que las diapositivas no se centraban después de hacer zoom con la rueda del mouse.
+- Se ha corregido un problema que hacía que las diapositivas no quedaran centradas después de usar la rueda del mouse para hacer zoom.
 
 ### <a name="word"></a>Word
 
-- Se ha corregido un problema que provocaba que no se mostrara el texto de copiar y pegar en un panel de comentarios.
-- Se ha corregido un problema en el que las burbujas de sugerencias de comentarios aparecían borrosas al 100% de zoom.
-- Se ha corregido un problema por el que, al habilitar la Directiva, los documentos binarios de Word 2007 y versiones posteriores podrían provocar errores en algunos casos de co-autoría.
-- Se ha corregido un problema por el que no se abrirían los archivos con nombres de ruta largos (mayor que 32K) y no se mostraba un mensaje de error apropiado.
+- Se ha corregido un problema por el que no se mostraban los textos copiados y pegados en un panel de comentarios.
+- Se ha corregido un problema debido al cual las burbujas de sugerencias de comentarios aparecían borrosas al 100 % de zoom.
+- Se ha corregido un problema que causaba errores en ciertos casos de coautoría al habilitar la directiva de Word 2007 y, después, las plantillas y documentos binarios.
+- Se ha corregido un problema por el que no se abrían los archivos con nombres de ruta largos (mayores que 32 000 caracteres) y no se mostraba un mensaje de error adecuado.
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 
-## <a name="version-2006-may-22"></a>Versión 2006:22 de mayo
-*Versión 2006 (compilación 12914,20000)*
+## <a name="version-2006-may-22"></a>Versión 2006: 22 de mayo
+*Versión 2006 (compilación 12914.20000)*
 
 [//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="excel"></a>Excel
 
-- **Guardar en carpetas ancladas:** Anclar las carpetas facilita el almacenamiento de archivos de Office. Recibimos comentarios que los usuarios desean tener un mayor control sobre las carpetas disponibles cuando se guarda un archivo nuevo. Nos entusiasmamos con una nueva capacidad para usted: anclar las carpetas en el cuadro de diálogo Guardar. Esta nueva capacidad hará que sea más fácil guardar los archivos de Word, Excel y PowerPoint.<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Guardar en carpetas fijadas:** anclar las carpetas facilita el almacenamiento de archivos de Office. Recibimos un comentario en el que se nos informa de que los usuarios desean tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil.<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Guardar en carpetas ancladas:** Anclar las carpetas facilita el almacenamiento de archivos de Office. Recibimos comentarios que los usuarios desean tener un mayor control sobre las carpetas disponibles cuando se guarda un archivo nuevo. Nos entusiasmamos con una nueva capacidad para usted: anclar las carpetas en el cuadro de diálogo Guardar. Esta nueva capacidad hará que sea más fácil guardar los archivos de Word, Excel y PowerPoint.<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Guardar en carpetas fijadas:** anclar las carpetas facilita el almacenamiento de archivos de Office. Recibimos un comentario en el que se nos informa de que los usuarios desean tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil.<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 ### <a name="word"></a>Word
 
-- **Guardar en carpetas ancladas:** Anclar las carpetas facilita el almacenamiento de archivos de Office. Recibimos comentarios que los usuarios desean tener un mayor control sobre las carpetas disponibles cuando se guarda un archivo nuevo. Nos entusiasmamos con una nueva capacidad para usted: anclar las carpetas en el cuadro de diálogo Guardar. Esta nueva capacidad hará que sea más fácil guardar los archivos de Word, Excel y PowerPoint.<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Guardar en carpetas fijadas:** anclar las carpetas facilita el almacenamiento de archivos de Office. Recibimos un comentario en el que se nos informa de que los usuarios desean tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil.<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
-[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
 
 <br/>
 
@@ -314,31 +336,31 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="excel"></a>Excel
 
-- Se ha corregido un problema por el que aparecía el mensaje de error: "este libro está referenciado actualmente por otro y no se puede cerrar" aparecería porque los complementos se cargaban en orden alfabético en lugar de en un orden especificado por el usuario.
-- Se ha corregido un problema por el que se dañaba la memoria al administrar las fuentes entre Excel y algunas aplicaciones de tecnología de asistencia de otros fabricantes.
-- Se ha corregido un problema por el que Excel se bloqueaba cuando los complementos solicitaban elementos host en hojas de cálculo que contienen formas con bloqueos noselect.
+- Se ha corregido un problema que producía el siguiente mensaje de error: "No se puede cerrar el libro de trabajo debido a que otro libro hace referencia al mismo". El mensaje aparecía si los complementos se cargaban en orden alfabético en lugar de en un orden especificado por el usuario.
+- Se ha corregido un problema que causaba problemas de memoria al administrar fuentes entre Excel y algunas aplicaciones tecnológicas de asistencia de terceros.
+- Se ha corregido un problema por el que Excel se bloqueaba cuando los complementos solicitaban elementos de host en hojas de cálculo que tuvieran formas con bloqueos noSelect.
 
 ### <a name="outlook"></a>Outlook
 
-- Se ha corregido un problema por el que el evento Folder. BeforeItemMove no se ha desencadenado correctamente cuando un usuario movió elementos entre carpetas.
-- Se ha corregido un problema que provocaba que los usuarios vieran elementos de calendario que abarcaban el umbral de medianoche como eventos de todo el día.
-- Se ha corregido un problema por el que Outlook se bloqueaba cuando dos complementos agregaban un botón al mismo grupo en la cinta.
-- Se ha corregido un problema por el que los usuarios no podían compartir un calendario con un usuario invitado.
+- Se ha corregido un problema por el que el evento Folder.BeforeItemMove no se activaba correctamente cuando un usuario movía elementos entre carpetas.
+- Se ha corregido un problema en el que los usuarios veían los elementos del calendario que pasaban de la medianoche como Eventos de todo el día.
+- Se ha corregido un problema por el que Outlook se bloqueaba cuando dos complementos agregaban un botón al mismo grupo en la cinta de opciones.
+- Se ha corregido un problema por el que los usuarios no podían compartir calendarios con usuarios invitados.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- Se ha solucionado un problema por el que al acercar y alejar desde el área de presentación se producía un hueco entre la marquesina de selección ampliada y el puntero del mouse.
+- Se ha corregido un problema que provocaba que, al acercar y alejar el área de presentación, apareciera una separación entre el recuadro de selección ampliado y el puntero del mouse.
 
-### <a name="project"></a>Proyecto
+### <a name="project"></a>Project
 
-- Se ha corregido un problema por el que Project se bloqueaba después de hacer clic en opciones.
+- Se ha corregido un problema por el que Project se bloqueaba después de hacer clic en Opciones.
 
 ### <a name="word"></a>Word
 
-- Se ha corregido un problema por el que los hipervínculos de los comentarios no funcionaban.
-- Se ha solucionado un problema por el que al acercar y alejar desde el área de presentación se producía un hueco entre la marquesina de selección ampliada y el puntero del mouse.
-- Se ha corregido un problema que provocaba que al pegar HTML en WordMail para el calendario no funcionase.
-- Hemos corregido un problema por el que, en ocasiones, la respuesta a un Comentario en una sesión en co-autoría podría hacer que Word se bloqueara.
+- Se ha corregido un problema por el que los hipervínculos en los comentarios no funcionaban.
+- Se ha corregido un problema que provocaba que, al acercar y alejar el área de presentación, apareciera una separación entre el recuadro de selección ampliado y el puntero del mouse.
+- Se ha corregido un problema por el que no se podía pegar código HTML en WordMail para Calendario.
+- Se ha corregido un problema por el que, en ocasiones, Word se bloqueaba al responder a un comentario en una sesión de coautoría.
 
 [//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
@@ -388,11 +410,11 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 - Hemos corregido un problema en Visual Basic para las aplicaciones de Microsoft Office, por el que la aplicación de Office consideraba como corruptos ciertos proyectos de VBA que contienen referencias a bibliotecas de código con caracteres DBCS en el nombre o la ruta de la biblioteca.
 
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2006-may-08"></a>Versión 2006: 08 de mayo
 *Versión 2006 (Compilación 12829.20000)*
@@ -408,7 +430,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 - **Mejores resultados, en un instante:** actualizamos la experiencia de búsqueda para que sea más inteligente, rápida y fiable que nunca. [Más información](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
 
-- **Cuente sus historias con GIF animados:** los GIF animados ahora son compatibles con el editor de Office. Sus documentos han pasado a ser más elegantes.
+- **Cuente sus historias con GIF animados:** los GIF animados ahora son compatibles con el editor de Office: sus documentos han pasado a ser más elegantes.
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -429,17 +451,17 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 - Hemos estudiado y resuelto el problema por el que una implementación de Office 365 ProPlus a través de Intune se pausaba después de apagar el SO.
 
-[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2005-may-01"></a>Versión 2005: 1 de mayo
 *Versión 2005 (compilación 12827.20030)*
 
-[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="outlook"></a>Outlook
 
-- **Vínculos mejorados en el correo electrónico:** al incluir un vínculo a un archivo, la dirección URL se reemplaza por el nombre del archivo. Puede cambiar los permisos para que todos los destinatarios tengan acceso. [Obtener más información](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)
+- **Vínculos mejorados en el correo electrónico:** al incluir un vínculo a un archivo, la dirección URL se reemplaza por el nombre del archivo. Puede cambiar los permisos para que todos los destinatarios tengan acceso. [Más información](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
@@ -512,7 +534,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 ## <a name="version-2005-april-17"></a>Versión 2005: 17 de abril
 *Versión 2005 (compilación 12810.20002)*
 
-[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO INICIAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="excel"></a>Excel
@@ -533,7 +555,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 - Se solucionó un problema que hacía que las reglas de eliminación creadas para los buzones que no fueran el buzón principal del usuario dejaran de ser válidas.
 - Se solucionó un problema que hacía que los datos adjuntos se perdieran al reenviar un mensaje cifrado.
 
-### <a name="project"></a>Proyecto
+### <a name="project"></a>Project
 - Cuando se editan los datos del Predecesor/Sucesor dentro de una vista de formulario, se activa un evento ProjectBeforeTaskChange adicional.
 - Se solucionó un problema por el cual Proyect podía bloquearse al cambiar el campo de estado del tablero en un proyecto que conectado a una lista de tareas de SharePoint.
 - Corregido un problema por el que Project podía bloquearse al guardar proyectos creados con versiones anteriores de Project.
@@ -577,7 +599,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 <br/>
 
-[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="access"></a>Access
@@ -614,7 +636,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 - Este cambio corrige un problema que provocaba que la búsqueda de caracteres especiales con "Buscar solo palabras completas" no siempre funcionase como se esperaba.
 
-### <a name="project"></a>Proyecto
+### <a name="project"></a>Project
 
 - Se corrigió un problema por el que el usuario no podía especificar el trabajo previsto con fases temporales al activar la configuración para proteger el trabajo real.
 
@@ -663,7 +685,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 ### <a name="word"></a>Word
 - Este cambio corrige un problema con varias páginas seleccionadas en el menú Ver, donde el panel de comentarios podía mostrarse en blanco.
 
-[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2004-march-20"></a>Versión 2004: 20 de marzo
 *Versión 2004 (compilación 12711.20000)*
@@ -681,7 +703,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 - **Actualización de las diapositivas durante la presentación:** actualice diapositivas editadas por otros autores durante la presentación.
 
-[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
 <br/>
 
@@ -704,7 +726,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 - Se corrigió un problema por el que, al ordenar los resultados por categorías, en un conjunto de resultados de búsqueda devuelto no se mostraban los colores de la categoría.
 
-### <a name="project"></a>Proyecto
+### <a name="project"></a>Project
 
 - Se corrigió un problema por el que el evento "ProjectBeforeTaskChange" de las aplicaciones de Visual Basic (VBA) no se activaba cuando un usuario hacía clic en el botón "Desactivar" que se encuentra en la cinta de tareas en el grupo de programación.
 
@@ -732,12 +754,12 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 - Se corrigió un problema por el que las firmas digitales guardadas en documentos de Word se eliminaban al enviar los documentos.
 
-[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2004-march-13"></a>Versión 2004: 13 de marzo
 *Versión 2004 (compilación 12703.20010)*
 
-[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
+[//]: # (NO QUITAR DETALLES DE CARACTERÍSTICAS CONTENIDO INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 
@@ -750,7 +772,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 ### <a name="word"></a>Word
 - **Etiquetas de confidencialidad**: ahora puede aplicar una etiqueta de confidencialidad que la organización ha configurado para pedirle permisos personalizados. [Más información](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
 
-[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
 <br/>
 
@@ -770,7 +792,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 - Corrige un problema que provocaba que al presionar Entrar en el panel de búsqueda expandido no se iniciara la búsqueda y requería que los usuarios hiciesen clic en el botón de búsqueda.
 - Se ha corregido un problema por el que la búsqueda no muestra información sobre los usuarios cuando se ha deshabilitado la opción "Mostrar fotografías de usuario cuando estén disponibles".
 
-### <a name="project"></a>Proyecto
+### <a name="project"></a>Project
 - Se corrigió un problema en el que las fechas de las tareas de resumen se calculaban siempre correctamente.
 - Corregido un problema en el que el evento OnUndoOrRedo no se desencadena sin ejecutar primero el método OpenUndoTransaction.
 
@@ -780,7 +802,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 - Se ha corregido un problema al combinar dos documentos en uno.
 - Se ha corregido un problema que hacía que el marcado de revisiones que impliquen ecuaciones ocasionase un error al guardar el archivo.
 
-[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2003-march-06"></a>Versión 2003: 06 de marzo
 *Versión 2003 (compilación 12624.20086)*
@@ -830,7 +852,7 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 <br/>
 
-[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="excel"></a>Excel
@@ -853,23 +875,23 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 - Corrige un problema por el que cuando hay varios documentos abiertos en Word/Excel/PowerPoint de la misma biblioteca de SharePoint, solo se analizará el primer documento abierto para el cumplimiento de las directivas.
 
-[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2003-february-21"></a>Versión 2003: 21 de febrero
 *Versión 2003 (compilación 12615.20000)*
 
-[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="office-suite"></a>Conjunto de aplicaciones de Office
 
 - **Elija el color perfecto:** use códigos de colores hexadecimales para elegir exactamente el color que desea para la fuente, el resaltado de texto, etc.
 
-[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
 <br/>
 
-[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 
@@ -892,12 +914,12 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 ### <a name="office-suite"></a>Conjunto de aplicaciones de Office
 - Al usar las propiedades Multichoice/Lookup/Managed-metadata con documentos de Word/Excel/PowerPoint y guardar en una biblioteca de documentos de SharePoint, estas propiedades se limitaban anteriormente a 255 caracteres. Cuando estas propiedades superaban 255 caracteres, estos documentos no se podían guardar. Con este cambio, este límite se ha aumentado a 2048 caracteres.
 
-[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2003-february-14"></a>Versión 2003: 14 de febrero
 *Versión 2003 (compilación 12607.20000)*
 
-[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="outlook"></a>Outlook
@@ -908,15 +930,15 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 - **Busque el editor de entrada de lápiz en el cuadro de herramientas de dibujo:** seleccione Dibujar y seleccione el lápiz del editor de entrada de lápiz para editar el documento con el dedo o un lápiz digital. [Más información](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
 
-### <a name="office-suite"></a>Conjunto de programas de Office
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
 
 - **Iconos de la barra de estado más nítidos:** los iconos de la barra de estado ahora son más fáciles de ver
 
-[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
 <br/>
 
-[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="outlook"></a>Outlook
@@ -937,12 +959,12 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 - Se ha corregido un problema por el que las imágenes de los documentos pierden transparencia al exportarse a PDF.
 
-[//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2002-february-07"></a>Versión 2002: 07 de febrero
 *Versión 2002 (Compilación 12527.20040)*
 
-[//]: # (NO BORRAR LAS CARACTERÍSTICAS DEL CONTENIDO DE INICIO)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="access"></a>Access
@@ -996,8 +1018,9 @@ Este artículo contiene las notas de la versión para las versiones beta del can
 
 - Resuelto un problema que podía causar que el paquete de herramientas de corrección de Noruega Nynorsk (NN-no) no se instalara correctamente.
 
-[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR LOS DETALLES DE ERROR DE FIN DE CONTENIDO)
 
 
-[//]: # (NO MODIFICAR EL INICIO DEL CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
-[//]: # (NO MODIFICAR EL FINAL DEL CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13102.20002|version-2008-july-10|)
+[//]: # (NO MODIFICAR FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
