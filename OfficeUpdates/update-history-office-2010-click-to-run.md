@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI un historial de actualizaciones para las versiones perpetuas de Office 2010 que usan Hacer clic y ejecutar.
-ms.openlocfilehash: dec15fba44ac8c936ec10d9aaac81854bd2bbdda
-ms.sourcegitcommit: 6a6295bb1d4cdef49379bf11db5ea0cc8e927e8b
+ms.openlocfilehash: 97d44abc2663f643fd7f38333280eedb90c1f4c5
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44666598"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138796"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Historial de actualizaciones para productos de Hacer clic y ejecutar de Office 2010
 
@@ -33,7 +33,7 @@ Los siguientes productos de Office 2010 se actualizan automáticamente mediante 
 Si usa uno de estos productos y desea asegurarse de que dispone de las últimas actualizaciones, compruebe su número de versión de Office y actualice manualmente Office si es necesario.
   
 > [!NOTE]
-> La versión más reciente de Office 2010 es **14.0.7252.5000**, que se ha lanzado el 9 de junio de 2020.
+> La versión más reciente de Office 2010 es **14.0.7254.5000**, que se ha lanzado el 14 de julio de 2020.
   
 Para comprobar su versión de Office, siga estos pasos:
   
@@ -52,12 +52,13 @@ En la tabla siguiente figura una lista de actualizaciones de Office 2010, con la
 Las versiones nuevas incluyen todas las actualizaciones de versiones anteriores.
 
 > [!NOTE]
-> Los artículos de Knowledge Base que se muestran a continuación son solo informativos. Las actualizaciones de Hacer clic y ejecutar incluyen todas las correcciones especificadas en los artículos de Knowledge Base. No es necesario descargar las actualizaciones independientes que se muestran en los artículos de Knowledge Base.
+> The KB articles listed below are for reference purposes only. Click-to-Run updates include all the fixes listed in the KB articles. You don't need to download the separate updates listed in the KB articles.
 
   
 |**Año de publicación**|**Fecha de publicación**|**Número de versión**|**Más información**|
 |:-----|:-----|:-----|:-----|
-|2020|9 de junio  <br/> |14.0.7252.5000  <br/> |[KB 4559448](https://support.microsoft.com/help/4559448 ) <br/> |
+|2020|14 de julio <br/> |14.0.7254.5000 <br/> |[KB 4559453](https://support.microsoft.com/help/4559453) <br/>|
+||9 de junio  <br/> |14.0.7252.5000  <br/> |[KB 4559448](https://support.microsoft.com/help/4559448 ) <br/> |
 ||12 de mayo  <br/> |14.0.7249.5000  <br/> |[KB 4549680 ](https://support.microsoft.com/help/4549680 ) <br/> |
 ||14 de abril  <br/> |14.0.7248.5000  <br/> |[KB 4549670 ](https://support.microsoft.com/help/4549670 ) <br/> |
 ||11 de marzo  <br/> |14.0.7247.5000  <br/> |[KB 4538705 ](https://support.microsoft.com/help/4538705 ) <br/> |
