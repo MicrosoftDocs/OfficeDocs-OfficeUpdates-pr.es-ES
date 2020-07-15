@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Aplicaciones de Microsoft 365 según el canal de actualización.
-ms.openlocfilehash: 8fd7abbc8ed7c24162c9daeef0d0a2fad8d05bab
-ms.sourcegitcommit: e94688d66388221a9ebd9d29f49487544da5cc49
+ms.openlocfilehash: ff7377974bb0cb152b1200b1d890c6dc7e3ae620
+ms.sourcegitcommit: 7759ec0cf20d53865fa24f5eb483392c9e9fa53b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45083366"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "45091056"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tamaños de descarga de las actualizaciones de Aplicaciones de Microsoft 365 
 
@@ -36,11 +36,44 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 
 [//]: # (NO ELIMINAR)
 
-[//]: # (NO ELIMINAR INICIO DE CONTENIDO DE PREVISIÓN)
+[//]: # (NO ELIMINAR INICIO DEL CONTENIDO DE PREVISIÓN)
+
+## <a name="july-9-2020"></a>9 de julio de 2020
+
+
+### <a name="monthly-enterprise-channel"></a>Canal empresarial mensual
+
+<i>La versión prevista es la versión 2005 (compilación 12827.20550).</i>
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 2004 (compilación 12730.20430) <br/> |9 de junio de 2020 <br/> |174<br/> |
 
 
 
-[//]: # (NO ELIMINAR FIN DE CONTENIDO DE PREVISIÓN)
+### <a name="semi-annual-enterprise-channel-preview"></a>Canal empresarial semestral (vista previa)
+
+<i>La versión prevista es la versión 2002 (compilación 12527.20880).</i>
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 2002 (compilación 12527.20720) <br/> |9 de junio de 2020 <br/> |50<br/> |
+|Versión 2002 (compilación 12527.20612) <br/> |12 de mayo de 2020 <br/> |59<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>Canal empresarial semestral
+
+<i>La versión prevista es la versión 2002 (compilación 12527.20880).</i>
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 1908 (compilación 11929.20838) <br/> |9 de junio de 2020 <br/> |291<br/> |
+|Versión 1908 (compilación 11929.20776) <br/> |12 de mayo de 2020 <br/> |291<br/> |
+
+
+[//]: # (NO ELIMINAR FINAL DEL CONTENIDO DE PREVISIÓN)
+
+
 
 
 ## <a name="june-30-2020"></a>30 de junio de 2020
