@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión de las actualizaciones de seguridad de Aplicaciones de Microsoft 365
-ms.openlocfilehash: 91538ad859fe5dc3d45a73d0798ff21708f6178b
-ms.sourcegitcommit: 18f8f5d6dcd9743005ae2ba87c8e9e2d9edfe8c4
+ms.openlocfilehash: 58228af0a7958547331b95c28c6497b5bfa3f460
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44211710"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138526"
 ---
 # <a name="release-notes-for-microsoft-365-apps-security-updates"></a>Notas de la versión para las actualizaciones de seguridad de las Aplicaciones de Microsoft 365
 
@@ -31,6 +31,80 @@ Esta información se aplica a Aplicaciones de Microsoft 365 para empresa, Aplica
  
 
 [//]: # (NO QUITAR LA LÍNEA ANTERIOR, se usa para el espaciado)  
+
+## <a name="july-14-2020"></a>14 de julio de 2020
+Canal actual: Versión 2006 (compilación 13001.20384)  
+Canal empresarial mensual: versión 2005 (compilación 12827.20538)  
+Canal empresarial mensual: versión 2004 (compilación 12730.20602)  
+Canal empresarial semestral (vista previa): versión 2002 (compilación 12527.20880)  
+Canal empresarial semestral: versión 2002 (compilación 12527.20880)  
+Canal empresarial semestral: versión 1908 (compilación 11929.20904)  
+Canal empresarial semestral: versión 1902 (compilación 11328.20624)  
+Aplicaciones de Microsoft 365 en Windows 7: versión 2002 (compilación 12527.20880)  
+
+[//]: # (NO QUITAR LOS DETALLES DE SEGURIDAD INICIO DEL CONTENIDO INICIAL)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1240](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1240)
+
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2020-1349](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1349)
+
+### <a name="project"></a>Project
+
+-   [CVE-2020-1449](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1449)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-1445](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1445)
+-   [CVE-2020-1342](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1342)
+-   [CVE-2020-1447](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1447)
+-   [CVE-2020-1446](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1446)
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+-   [CVE-2020-1458](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1458)
+
+[//]: # (NO QUITAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO FINAL)
+
+
+
+## <a name="june-09-2020"></a>09 de junio de 2020
+Canal actual: versión 2005 (compilación 12827.20336)  
+Canal empresarial mensual: versión 2004 (compilación 12730.20430)  
+Canal empresarial mensual: versión 2003 (compilación 12624.20708)  
+Canal empresarial semestral (vista previa): versión 2002 (compilación 12527.20720)  
+Canal empresarial semestral: versión 1908 (compilación 11929.20838)  
+Canal empresarial semestral: versión 1902 (compilación 11328.20602)  
+Aplicaciones de Microsoft 365 en Windows 7: versión 2002 (compilación 12527.20720)  
+
+[//]: # (NO QUITAR LOS DETALLES DE SEGURIDAD INICIO DEL CONTENIDO INICIAL)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1226](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1226)
+-   [CVE-2020-1225](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1225)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2020-1229](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1229)
+
+### <a name="project"></a>Project
+
+-   [CVE-2020-1322](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1322)
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+-   [CVE-2020-1321](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1321)
+
+[//]: # (NO QUITAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO FINAL)
+
+
 
 ## <a name="may-12-2020"></a>12 de mayo de 2020
 Canal mensual: versión 2004 (compilación 12730.20270)  
