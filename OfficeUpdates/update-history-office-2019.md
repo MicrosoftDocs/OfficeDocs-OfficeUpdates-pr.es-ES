@@ -18,18 +18,18 @@ ms.locfileid: "45001130"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Historial de actualizaciones para la versión de Hacer clic y ejecutar de Office 2016 y Office 2019
 
-Microsoft releases security and quality updates for the Click-To-Run (C2R) version of Office 2016 and for Office 2019, which is exclusively C2R. These updates are released approximately once a month, usually on the second Tuesday of the month.
+Microsoft publica actualizaciones de seguridad y calidad de la versión de Hacer clic y ejecutar de Office 2016 y Office 2019, que es exclusivamente de Hacer clic y ejecutar. Estas actualizaciones se publican aproximadamente una vez al mes, normalmente el segundo martes del mes.
 
-If you'd like to verify that you're up to date, check your Office version number and manually update Office if necessary. To check your version of Office, do the following:
+Si desea comprobar que está actualizado, compruebe el número de versión de Office y actualice Office manualmente si es necesario. Para comprobar su versión de Office, siga estos pasos:
 
   1.    Abra una aplicación de Office, como Word o Excel.
   2.    Elija **archivo > cuenta**.
   3.    En **Información del producto**, vea el número de versión en la **sección Acerca de**.
 
-If the version number matches the most current version, you're up to date. If not, you can manually update to get the latest version of Office. To update Office, [follow these steps](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
+Si el número de versión coincide con la versión más reciente, está actualizado. Si no es así, actualice manualmente para obtener la última versión de Office 2019. Para actualizar Office, [siga estos pasos](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 
 
-The following tables provide the update history for the volume licensed version of Office 2019, as well as the retail versions of Office 2016 C2R and Office 2019, with the most recent release date listed first. The tables include the version and build number for the release and list the security updates that are included, along with a link to more information about the security update.
+Las tablas siguientes proporcionan el historial de actualizaciones para la versión de licencia de volumen de Office 2019, así como las versiones comerciales de Hacer clic y ejecutar de Office 2016 y 2019 Office, con la fecha de lanzamiento más reciente en primer lugar. Las tablas muestran la versión, número de versión de compilación y las actualizaciones de seguridad que se incluyen, además de vínculos para obtener más información sobre la actualización de seguridad.
 
 Las versiones nuevas incluyen todas las actualizaciones de versiones anteriores.
 
