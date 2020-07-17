@@ -1,5 +1,5 @@
 ---
-title: Historial de actualizaciones para el canal beta de Office
+title: Historial de actualizaciones del Canal Office beta
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a participantes del programa Insider el historial de actualizaciones de los lanzamientos del canal mensual del modo anticipado de Insider para versiones de escritorio de Windows
-ms.openlocfilehash: 75dba530be25321c904196bcb9b25ee611652175
-ms.sourcegitcommit: b3740a6df29ec013b7b8b7d74fbe05f5147cc74e
+ms.openlocfilehash: e4d242d5b7b9d9564cca3b3cbe7324101265f769
+ms.sourcegitcommit: 275efa6dec144dc7a6756d45086a0b3d3672f4b9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45080165"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45153638"
 ---
-# <a name="update-history-for-office-beta-channel"></a>Historial de actualizaciones para el canal beta de Office
+# <a name="update-history-for-office-beta-channel"></a>Historial de actualizaciones del Canal Office beta
 
 Hola, participantes de Insider. Si os estáis preguntando si tenéis instalada la actualización más reciente o buscáis una lista de las compilaciones recientes de Insider, estáis en el lugar adecuado. Haced clic [aquí](https://insider.office.com/) para obtener más información sobre el programa Insider.
 
 > [!IMPORTANT]
-> - Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441) para más información.
+> - Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441) para obtener más información.
 > - A partir de la versión 2004, el nombre de Office 365 ProPlus pasa a ser Aplicaciones de Microsoft 365 para empresas. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2123420) para obtener más información.Por lo general, en nuestra documentación solo haremos referencia a él como Aplicaciones de Microsoft 365.
 
 > [!NOTE]
@@ -29,44 +29,47 @@ Hola, participantes de Insider. Si os estáis preguntando si tenéis instalada l
 > - A continuación, se muestra el historial de actualizaciones con todas las compilaciones publicadas
 > - Las notas de la versión se actualizan con una cadencia lenta y pueden ser una compilación de actualizaciones de varias compilaciones hasta el número de compilación publicado de las notas de la versión.
 
-## <a name="office-beta-channel-versions-and-builds"></a>Versiones y compilaciones de canal beta de Office
+## <a name="office-beta-channel-versions-and-builds"></a>Versiones y compilaciones de Canal Office beta
 
-Si está inscrito en el nivel de Insider, puede recibir actualizaciones frecuentes con nuevas características y mejoras. En la siguiente lista se muestra un historial de versiones y compilaciones de canal beta recientes, con **la última versión de compilación que se muestra en primer lugar**. Las nuevas compilaciones contienen todas las actualizaciones incluidas en las versiones anteriores.
+Si se ha inscrito en el nivel de Insider, obtendrá actualizaciones frecuentes con nuevas características y mejoras. En la lista siguiente, se muestra un historial de versiones y compilaciones recientes del Canal beta, con **las compilaciones más nuevas en primer lugar**. Las compilaciones nuevas incluyen todas las actualizaciones de las compilaciones anteriores.
 
 Para obtener las notas de la versión, vea [notas de la versión de Insider de Office para escritorio de Windows](https://docs.microsoft.com/OfficeUpdates/beta-channel).
 
 
 [//]: # (NO ELIMINAR)
 
+**16 de julio de 2020**<br/>
+Versión 2008 (compilación 13115.20000)<br/>
+
 **7 de julio de 2020**<br/>
-Versión 2008 (compilación 13102,20002)<br/>
+Versión 2008 (compilación 13102.20002)<br/>
 
 **1 de julio de 2020**<br/>
-Versión 2007 (compilación 13029,20006)<br/>
+Versión 2007 (compilación 13029.20006)<br/>
 
 **29 de junio de 2020**<br/>
-Versión 2007 (compilación 13025,20000)<br/>
+Versión 2007 (compilación 13025.20000)<br/>
 
 **23 de junio de 2020**<br/>
-Versión 2007 (compilación 13020,20004)<br/>
+Versión 2007 (compilación 13020.20004)<br/>
 
 **15 de junio de 2020**<br/>
-Versión 2007 (compilación 13012,20000)<br/>
+Versión 2007 (compilación 13012.20000)<br/>
 
 **9 de junio de 2020**<br/>
-Versión 2007 (compilación 13006,20002)<br/>
+Versión 2007 (compilación 13006.20002)<br/>
 
 **3 de junio de 2020**<br/>
-Versión 2006 (compilación 13001,20002)<br/>
+Versión 2006 (compilación 13001.20002)<br/>
 
 **1 de junio de 2020**<br/>
-Versión 2006 (compilación 12930,20014)<br/>
+Versión 2006 (compilación 12930.20014)<br/>
 
 **25 de mayo de 2020**<br/>
-Versión 2006 (compilación 12920,20000)<br/>
+Versión 2006 (compilación 12920.20000)<br/>
 
 **18 de mayo de 2020**<br/>
-Versión 2006 (compilación 12914,20000)<br/>
+Versión 2006 (compilación 12914.20000)<br/>
 
 **11 de mayo de 2020**<br/>
 Versión 2006 (Compilación 12905.20000)<br/>
