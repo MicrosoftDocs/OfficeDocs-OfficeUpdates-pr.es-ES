@@ -52,7 +52,7 @@ En la tabla siguiente figura una lista de actualizaciones de Office 2010, con la
 Las versiones nuevas incluyen todas las actualizaciones de versiones anteriores.
 
 > [!NOTE]
-> The KB articles listed below are for reference purposes only. Click-to-Run updates include all the fixes listed in the KB articles. You don't need to download the separate updates listed in the KB articles.
+> Los artículos de Knowledge Base que se muestran a continuación son solo informativos. Las actualizaciones de Hacer clic y ejecutar incluyen todas las correcciones especificadas en los artículos de Knowledge Base. No es necesario descargar las actualizaciones independientes que se muestran en los artículos de Knowledge Base.
 
   
 |**Año de publicación**|**Fecha de publicación**|**Número de versión**|**Más información**|

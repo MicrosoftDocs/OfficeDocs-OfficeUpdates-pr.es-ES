@@ -11,15 +11,14 @@ ms.collection: RelNotes_ProPlus
 description: Proporciona a participantes del programa Insider el historial de actualizaciones de los lanzamientos del canal mensual del modo anticipado de Insider para versiones de escritorio de Windows
 ms.openlocfilehash: 75dba530be25321c904196bcb9b25ee611652175
 ms.sourcegitcommit: b3740a6df29ec013b7b8b7d74fbe05f5147cc74e
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: es-ES
 ms.lasthandoff: 07/08/2020
 ms.locfileid: "45080165"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Historial de actualizaciones para el canal beta de Office
 
-Hello, Insiders! If you're wondering whether you have the latest update installed or are looking for a list of recent Insider build, you're in the right place.
-Click [here](https://insider.office.com/) for more information on the Insiders Program.
+Hola, participantes de Insider. Si os estáis preguntando si tenéis instalada la actualización más reciente o buscáis una lista de las compilaciones recientes de Insider, estáis en el lugar adecuado. Haced clic [aquí](https://insider.office.com/) para obtener más información sobre el programa Insider.
 
 > [!IMPORTANT]
 > - Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441) para más información.

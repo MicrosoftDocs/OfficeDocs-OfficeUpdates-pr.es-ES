@@ -11,30 +11,30 @@ ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales de TI las notas de la versión de las versiones de Office 2016 para Mac a partir de septiembre de 2018
 ms.openlocfilehash: 82b39ea10b77dc559d3a9066cd7d7b8825efa7eb
 ms.sourcegitcommit: 7e7bf8d99063c0b89a515bedfa2bd612d16270b2
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: es-ES
 ms.lasthandoff: 06/16/2020
 ms.locfileid: "44761548"
 ---
 # <a name="update-history-for-office-2016-for-mac"></a>Historial de actualización de Office 2016 para Mac
 
-Office 2016 for Mac is a version of Office that’s available as a one-time purchase from a retail store or through a volume licensing agreement. It will be supported with security updates and bug fixes, as needed, until October 13, 2020. The minimum supported macOS for Office 2016 for Mac is 10.10 (Yosemite).
+Office 2016 para Mac es una versión de Office que está disponible como una compra de pago único en una tienda o a través de un contrato de licencia por volumen. Será compatible con las actualizaciones de seguridad y correcciones de errores, según sea necesario, hasta el 13 de octubre de 2020. La versión mínima de macOS compatible para Office 2016 para Mac es 10.10 (Yosemite).
 
 > [!IMPORTANT]
 > - El soporte de Office 2016 para Mac finaliza el 13 de octubre de 2020. Si aún no ha empezado a actualizar a una versión más reciente, le recomendamos que comience ahora. Para más información, vea [Finalización del soporte para Office 2016 para Mac](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsupport.office.com%2Farticle%2Fe944a907-bbc8-4be5-918d-a514068d0056%3F&data=02%7C01%7Cv-lislo%40microsoft.com%7C6d81b3b1d6144587d18f08d7dfdff720%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637224025336277242&sdata=RkN3lJa%2BWIbzIk1PC08EhXOuI1RvYuyGYJfaVlYxU2U%3D&reserved=0).
 
 > [!NOTE]
-> - For security reason, Microsoft has deprecated the use of SHA-1. [Learn more](https://docs.microsoft.com/security-updates/SecurityAdvisories/2017/4010323)
+> - Por motivos de seguridad, Microsoft ha descartado el uso de SHA-1. [Más información](https://docs.microsoft.com/security-updates/SecurityAdvisories/2017/4010323)
 > - Para obtener las notas de versión de las versiones de Office 2016 para Mac anteriores a septiembre de 2018, vea [Notas de la versión de Office para Mac](release-notes-office-for-mac.md).  
 > - Para obtener información de versiones de Office para Mac, que es la versión que viene con las suscripciones a Office 365, vea las [notas de la versión](release-notes-office-for-mac.md) y el [historial de actualizaciones](update-history-office-for-mac.md) de Office para Mac.
-> - Office 2019 for Mac is the most current version that’s available as a one-time purchase. For release information for Office 2019 for Mac, see the [release notes](release-notes-office-for-mac.md) and [update history](update-history-office-for-mac.md) for Office for Mac.
+> - Office 2019 para Mac es la versión más actual que está disponible como una compra de pago única. Para obtener información de la versión de Office 2019 para Mac, vea las [notas de la versión](release-notes-office-for-mac.md) y el [historial de actualizaciones](update-history-office-for-mac.md) de Office para Mac.
 
-Updates for Office 2016 for Mac are available from Microsoft AutoUpdate (MAU). To use Microsoft AutoUpdate, start an Office application, such as Word, and then choose **Help** > **Check for Updates**. If you're an admin and want to update the computers in your organization with your existing software deployment tools, you can download and deploy the update packages for each application.
+Las actualizaciones de Office 2016 para Mac están disponibles desde Microsoft AutoUpdate (MAU). Para usar Microsoft AutoUpdate, inicie una aplicación de Office, como Word, y luego seleccione **Ayuda** > **Buscar actualizaciones**. Si es un administrador y quiere actualizar los equipos de la organización con las herramientas de implementación de software existentes, puede descargar e implementar los paquetes de actualización para cada aplicación.
 
 
 ## <a name="most-current-packages-for-office-2016-for-mac"></a>Paquetes más actuales de Office 2016 para Mac
 
-The following table lists the most current packages for Office 2016 for Mac and for the individual applications, such as Word and Excel. All packages are 64-bit only. The build date is listed in parentheses, in a YYMMDD format, after the version number. The install package is used if you don't have the application already installed, while the update package is used to update an existing installation.
+En la siguiente tabla, se enumeran los paquetes más recientes de Office 2016 para Mac y para las aplicaciones individuales, como Word y Excel. Todos los paquetes son 64 bits. La fecha de compilación se muestra entre paréntesis, con un formato AAMMDD, después del número de versión. Si no tiene la aplicación ya instalada, se usa el paquete de instalación, mientras que el paquete de actualización se utiliza para actualizar una instalación existente.
 
 ### <a name="june-16-2020"></a>16 de junio de 2020
 Versión 16.16.23 (20061500)
