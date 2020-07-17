@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los participantes del programa Insider el historial de actualizaciones de los lanzamientos del canal mensual dirigido de Office para versiones de escritorio de Windows
-ms.openlocfilehash: cf1196ce142f481b62565cac610396c087e7c291
-ms.sourcegitcommit: f7bb0455136794c38a7f934e391b17a9c98c9d52
+ms.openlocfilehash: 480c4b876a295a092aca8ee22bc1851496b9a57b
+ms.sourcegitcommit: e04ac83b98dee6ee37338f9eba361e4ae436f9f5
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "45094660"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45147872"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Historial de actualización del canal actual de Office (versión preliminar) para Windows
 
@@ -37,6 +37,9 @@ Para buscar notas de la versión, [vea](https://docs.microsoft.com/es-ES/OfficeU
 
 
 [//]: # (NO ELIMINAR)
+
+**15 de julio de 2020**<br/>
+Versión 2007 (compilación 13029.20200)<br/>
 
 **9 de julio de 2020**<br/>
 Versión 2006 (compilación 13001.20384)<br/>
