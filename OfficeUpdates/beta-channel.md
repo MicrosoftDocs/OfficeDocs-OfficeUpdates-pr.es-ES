@@ -50,12 +50,12 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="onenote"></a>OneNote
 
-- Se ha corregido un problema por el que el texto de marcador de posición en el cuadro de edición de búsqueda se desborda si se reduce el tamaño de la ventana de la aplicación.
+- Se ha corregido un problema que provocaba que el texto de marcador de posición en el cuadro de edición de búsqueda se desbordase si se reducía el tamaño de la ventana de la aplicación.
 
 ### <a name="word"></a>Word
 
-- Se ha corregido un problema por el que el texto de marcador de posición en el cuadro de edición de búsqueda se desborda si se reduce el tamaño de la ventana de la aplicación.
-- Se ha corregido un problema por el que se había deshabilitado la opción de "Personas específicas" de Control de cambios.
+- Se ha corregido un problema que provocaba que el texto de marcador de posición en el cuadro de edición de búsqueda se desbordase si se reducía el tamaño de la ventana de la aplicación.
+- Se ha corregido un problema que provocaba la deshabilitación de la opción de "Personas específicas" de Control de cambios.
 - Se ha corregido un bloqueo ocasional al abrir archivos HTML.
 
 [//]: # (NO QUITAR LOS DETALLES DE ERROR DE FIN DE CONTENIDO)
