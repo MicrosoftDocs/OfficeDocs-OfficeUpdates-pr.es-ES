@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI un historial de actualizaciones para las versiones permanentes de Office 2016 y Office 2019 que usan Hacer clic y ejecutar.
-ms.openlocfilehash: bb253c92976d420d74da61968dae95ce42313188
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+ms.openlocfilehash: b6b4c21b61b32eed96ca96a77d30e787915b4765
+ms.sourcegitcommit: 5a58fccf5a097a2b66b42c9c00b140a8d21a1eb1
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138765"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522437"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Historial de actualizaciones para la versión de Hacer clic y ejecutar de Office 2016 y Office 2019
 
@@ -58,6 +58,7 @@ La siguiente información se aplica a las versiones comerciales de Hacer clic y 
 
 |**Fecha de publicación**|**Número de versión**|**Más información**|
 |:-----|:-----|:-----|
+|28 de julio de 2020|Versión 2006 (compilación 13001.20498)  |Varias correcciones de errores y rendimiento.  <br/>  |
 |14 de julio de 2020|Versión 2006 (Compilación 13001.20384)  |[CVE-2020-1342](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1449) <br/>[CVE-2020-1458](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1458) <br/>|
 |30 de junio de 2020|Versión 2006 (compilación 13001.20266)  |Varias correcciones de errores y de rendimiento.  <br/>  |
 |24 de junio de 2020|Versión 2005 (compilación 12827.20470)  |Varias correcciones de errores y de rendimiento.  <br/>  |
