@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista completa de las versiones de las Aplicaciones de Microsoft 365, organizada por fecha, con vínculos a las notas de la versión.
-ms.openlocfilehash: 7bdde6bc513c17f8814440f4231e22f45737c369
-ms.sourcegitcommit: 525e9abf1319f42ed01a4f2ba2852b1a74181e81
+ms.openlocfilehash: 7a67b3203f4efc05e11b2e85d7451f7fb72c9381
+ms.sourcegitcommit: 094f41a7cd3ac7044923aab24da75e9236772836
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46506607"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "46530359"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Historial de actualizaciones de Aplicaciones de Microsoft 365 (ordenado por fecha)
 
@@ -36,7 +36,7 @@ En la tabla siguiente se muestra la versión compatible y el número de compilac
 
 |**Canal**|**Versión**|**Compilación**|**Fecha de publicación**|**Versión admitida hasta**|
 |:-----|:-----|:-----|:-----|:-----|
-|Canal actual<br/>|2006<br/>|13001.20498<br/>|28 de julio de 2020<br/>|Lanzamiento de la versión 2007<br/>|
+|Canal actual<br/>|2007<br/>|13029.20308<br/>|30 de julio de 2020<br/>|Lanzamiento de la versión 2008<br/>|
 |Canal empresarial mensual<br/>|2005<br/>|12827.20538<br/>|14 de julio de 2020<br/>|8 de septiembre de 2020<br/>|
 |Canal empresarial mensual<br/>|2004<br/>|12730.20602<br/>|14 de julio de 2020<br/>|11 de agosto de 2020<br/>|
 |Canal empresarial semestral (vista previa)<br/>|2002<br/>|12527.20880<br/>|14 de julio de 2020<br/>|8 de septiembre de 2020<br/>|
@@ -54,6 +54,7 @@ La siguiente tabla proporciona una lista de los números de versión y compilaci
 
 |**Year**|**Fecha de publicación**|**Canal actual**|**Canal empresarial mensual**|**Canal empresarial semestral (vista previa)**|**Canal empresarial semestral**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020|30 de julio|[Versión 2007 (compilación 13029.20308)](current-channel.md#version-2007-july-30)| | | |
 |2020|28 de julio|[Versión 2006 (compilación 13001.20498)](current-channel.md#version-2006-july-28)| | | |
 |2020|14 de julio|[Versión 2006 (compilación 13001.20384)](current-channel.md#version-2006-july-14)|[Versión 2005 (compilación 12827.20538)](monthly-enterprise-channel.md#version-2005-july-14)<br/>[Versión 2004 (compilación 12730.20602)](monthly-enterprise-channel.md#version-2004-july-14)|[Versión 2002 (compilación 12527.20880)](semi-annual-enterprise-channel-preview.md#version-2002-july-14)|[Versión 2002 (compilación 12527.20880)](semi-annual-enterprise-channel.md#version-2002-july-14)<br/>[Versión 1908 (Compilación 11929.20904)](semi-annual-enterprise-channel.md#version-1908-july-14)<br/>[Versión 1902 (compilación 11328.20624)](semi-annual-enterprise-channel.md#version-1902-july-14)|
 |2020|30 de junio|[Versión 2006 (compilación 13001.20266)](current-channel.md#version-2006-june-30)| | | |

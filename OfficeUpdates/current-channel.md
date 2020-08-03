@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365 en 2020
-ms.openlocfilehash: dbc49b56f2769318b9ec38253979262123844866
-ms.sourcegitcommit: 525e9abf1319f42ed01a4f2ba2852b1a74181e81
+ms.openlocfilehash: f45483874015c51255690647cc36952b6f4e257b
+ms.sourcegitcommit: 3e6b6412adb50393fb5cabcb52671bbb00d9e697
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46506617"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46532595"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notas de la versión para las versiones del canal actual en 2020
 
@@ -34,7 +34,106 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-[//]: # (NO QUITAR LOS DETALLES DE ERROR DE FIN DE CONTENIDO)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+
+## <a name="version-2007-july-30"></a>Versión 2007: 30 de julio
+*Versión 2007 (compilación 13029.20308)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Realice una conexión PDF:** Conectar, importar, actualizar los datos de un PDF. [Más información](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
+
+- **Filtrar y ordenar sin perturbar a otras personas:** ahora puede ordenar y filtrar un archivo de Excel mientras colabora con otras personas con la Vista de hoja. Esta nueva característica evita que sus acciones se vean afectadas por la ordenación y los filtros de otros usuarios mientras se trabaja en un documento en coautoría. [Más información](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)
+
+- **Aplicar automáticamente o recomendar etiquetas de confidencialidad:** Office puede recomendar o aplicar automáticamente una etiqueta de confidencialidad basada en el contenido confidencial detectado.
+
+- **Crear tablas dinámicas de conjuntos de datos en Power BI desde Excel:** puede crear tablas dinámicas en Excel conectadas a los conjuntos de datos almacenados en Power BI con tan solo unos clics.Así, podrá obtener lo mejor de las tablas dinámicas y de Power BI. Calcule, resuma y analice sus datos con tablas dinámicas desde sus conjuntos de datos seguros de Power BI. [Más información](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+
+### <a name="outlook"></a>Outlook
+
+- **Crear sondeos en Outlook con Sondeo rápido:** cree sondeos, recopile votos y vea los resultados rápidamente en un solo correo electrónico [Más información](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+
+- ** Mantenga la fidelidad de sus imágenes cuando las envíe como parte de un correo electrónico:** una nueva configuración de Outlook está disponible para limitar la compresión de imágenes cuando envía imágenes como parte de contenido del correo electrónico
+
+- **Volver a abrir rápidamente los elementos de una sesión anterior:** hemos agregado una opción para volver a abrir rápidamente los elementos de una sesión anterior de Outlook. Si Outlook se bloquea o usted cierra la aplicación, ahora podrá reiniciar elementos rápidamente al reabrir Outlook. Esta característica está activada de forma predeterminada. Para desactivarla, vaya a Opciones > General > Opciones de inicio.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Aplicar automáticamente o recomendar etiquetas de confidencialidad:** Office puede recomendar o aplicar automáticamente una etiqueta de confidencialidad basada en el contenido confidencial detectado.
+
+- **Mejor rendimiento de vídeos de Stream en PowerPoint:** hemos realizado mejoras en el rendimiento de la reproducción de los vídeos de Microsoft Stream para reducir el tiempo de carga de vídeo y crear una visualización más suave. Utilice sus vídeos corporativos de Microsoft Stream para crear presentaciones mejoradas.
+
+### <a name="teams"></a>Teams
+
+- **Nueva configuración de notificaciones simplificada:** ahora los usuarios pueden administrar la configuración de sus notificaciones de forma más simplificada con funciones mejoradas.
+
+- **Las notificaciones nativas de Windows ahora son compatibles con Teams:** ahora los usuarios pueden seleccionar su forma preferida de entrega de notificaciones, ya sea a través de banners integrados en Teams o banners nativos de Windows.
+
+- **Panel de información del canal:** cuando se selecciona en el icono "Información del canal" en el encabezado del canal, se abrirá un panel en el que se muestra un resumen de la información del canal, incluida la descripción del canal, una lista de los colaboradores y miembros recientes, así como la nueva página principal de mensajes del sistema.
+
+- **Desactivar las vistas previas de las notificaciones de chat:** los usuarios pueden cambiar la configuración y administrar vistas previas de las notificaciones de chat.
+
+- **Respuestas sugeridas:** hemos agregado la posibilidad de que los usuarios de Teams tengan una respuesta sugerida a sus conversaciones. Estas sugerencias se mostrarán en la parte inferior de un mensaje de chat si están habilitadas. Hacen que la respuesta a los mensajes sea rápida y sencilla.
+
+### <a name="word"></a>Word
+
+- **Aplicar automáticamente o recomendar etiquetas de confidencialidad:** Office puede recomendar o aplicar automáticamente una etiqueta de confidencialidad basada en el contenido confidencial detectado.
+
+- **Retener texto en vectores:** ahora puede conservar el texto en mapas, gráficos y otros vectores de SVG al convertir estos objetos en Excel, Word y PowerPoint.
+
+
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="access"></a>Access
+
+- Esta corrección resuelve el problema en el que al intentar ejecutar determinadas consultas anteriormente generaba el mensaje de error "La consulta es demasiado compleja".
+
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema por el que podía producirse un error o bloqueo al cargar un libro con varias hojas en la vista previa de salto de página.
+
+
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema que provocaba que los usuarios de CLP experimenten un bloqueo al cambiar la dirección del remitente en una respuesta desde un contexto protegido a uno no protegido.
+
+
+- Se ha corregido un problema que causaba que faltara la opción "Permitir reenvío" en las "Opciones de respuesta" de la reunión de calendario compartida cuando NO está marcada Descargar carpeta compartida.
+
+
+- Se ha corregido un problema que causaba que los delegados recibieran un error al editar una cita de calendario existente en el calendario de un administrador.
+
+
+- Se ha corregido un problema que evitaba que los usuarios guardaran los datos adjuntos de OneDrive desde fuera de su inquilino en su equipo local al seleccionar la opción "Guardar" en el cuadro de diálogo de seguridad.
+
+- Se ha corregido un problema que provocaba que la página del Asistente para programación no se mostrara.
+
+- Se ha abordado un problema que causaba problemas de formato en las alertas de notificación de incidentes.
+
+### <a name="project"></a>Project
+
+- Se ha corregido un problema por el que la tarea seleccionada en el cuadro de diálogo de asignación de recursos no era la misma que la tarea seleccionada en la vista del panel de tareas.
+
+- Se ha corregido un problema por el que si pegaba una tarea que tenía varias dependencias, no todas las dependencias se copiaban correctamente.
+
+- Se ha corregido un problema que impedía guardar desde Project un PDF o XPS en una biblioteca de documentos de SharePoint.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Se ha corregido un problema que provocaba que se mostrara un mensaje de tiempo de ejecución aunque se completara la transición al producto completo. La corrección para este problema era asegurarse de que el servicio computase correctamente los productos agregados. Se han filtrado los nuevos productos agregados (lo que garantiza que también se encuentren en la nueva configuración) y se han agregado al final de los ID de versión de producto existentes.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2006-july-28"></a>Versión 2006: 28 de julio
 *Versión 2006 (compilación 13001.20498)*
@@ -892,6 +991,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 > Si necesita ayuda con algún problema de uso de Office, le recomendamos que publique la pregunta en el [foro de preguntas de Microsoft](https://answers.microsoft.com/) o [Tech Community](https://techcommunity.microsoft.com/), o bien puede ponerse en contacto con el [servicio de soporte técnico](https://support.microsoft.com/contactus).
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|CC|Producción| |16.0.13029.20308|versión-2007-julio-30|)
 [//]: # (|Win32|CC|Producción| |16.0.13001.20498|versión-2006-julio-28|)
 [//]: # (|Win32|CC|Producción| |16.0.13001.20384|versión-2006-julio-14|)
 [//]: # (|Win32|CC|Producción| |16.0.13001.20266|versión-2006-junio-30|)

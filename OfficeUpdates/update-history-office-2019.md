@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI un historial de actualizaciones para las versiones permanentes de Office 2016 y Office 2019 que usan Hacer clic y ejecutar.
-ms.openlocfilehash: b6b4c21b61b32eed96ca96a77d30e787915b4765
-ms.sourcegitcommit: 5a58fccf5a097a2b66b42c9c00b140a8d21a1eb1
+ms.openlocfilehash: f51a17e603f506a099b750b1b673fc13a5452e4b
+ms.sourcegitcommit: 094f41a7cd3ac7044923aab24da75e9236772836
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "46522437"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "46530349"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Historial de actualizaciones para la versión de Hacer clic y ejecutar de Office 2016 y Office 2019
 
@@ -44,7 +44,7 @@ La siguiente información se aplica a las versiones de licencia por volumen de O
 |14 de abril de 2020   |Versión 1808 (compilación 10358.20061)  |[CVE-2020-0760](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0760) <br/> [CVE-2020-0906](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0906) <br/> [CVE-2020-0961](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0961) <br/> [CVE-2020-0980](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0980) <br/>[CVE-2020-0991](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0991) <br/> |
 |10 de marzo de 2020   |Versión 1808 (compilación 10357.20081)  |[CVE-2020-0850](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0850) <br/> [CVE-2020-0852](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0852) <br/> [CVE-2020-0892](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0892) <br/>  |
 |11 de febrero de 2020   |Versión 1808 (compilación 10356.20006)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0759) <br/>  |
-|14 de enero de 2020   |Versión 1808 (compilación 10354.20022)  |[CVE-2020-0650](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0650) <br/> [CVE-2020-0651](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0651) <br/> [CVE-2020-0652](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0652) <br/>  |
+
 
 
 
@@ -58,6 +58,7 @@ La siguiente información se aplica a las versiones comerciales de Hacer clic y 
 
 |**Fecha de publicación**|**Número de versión**|**Más información**|
 |:-----|:-----|:-----|
+|30 de julio de 2020|Versión 2007 (compilación 13029.20308)  |Varias correcciones de errores y rendimiento.  <br/>  |
 |28 de julio de 2020|Versión 2006 (compilación 13001.20498)  |Varias correcciones de errores y rendimiento.  <br/>  |
 |14 de julio de 2020|Versión 2006 (Compilación 13001.20384)  |[CVE-2020-1342](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1449) <br/>[CVE-2020-1458](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1458) <br/>|
 |30 de junio de 2020|Versión 2006 (compilación 13001.20266)  |Varias correcciones de errores y de rendimiento.  <br/>  |
@@ -76,10 +77,7 @@ La siguiente información se aplica a las versiones comerciales de Hacer clic y 
 |1 de marzo de 2020   |Versión 2002 (compilación 12527.20242)  |Corrige un problema que provocaba que las aplicaciones de terceros no puedan enviar correo electrónico desde Outlook. <br/>  |
 |25 de febrero de 2020   |Versión de 2002 (compilación 12527.20194)  |Varias correcciones de errores y de rendimiento. <br/>  |
 |11 de febrero de 2020   |Versión 2001 (compilación 12430.20264)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0697](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0697) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0759) <br/>  |
-|30 de enero de 2020   |Versión 2001 (Compilación 12430.20184)  |Varias correcciones de errores y de rendimiento. <br/>  |
-|22 de enero de 2020   |Versión 1912 (Compilación 12325.20344)  |Varias correcciones de errores y de rendimiento. <br/>  |
-|14 de enero de 2020   |Versión 1912 (compilación 12325.20298)  |[CVE-2020-0650](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0650) <br/> [CVE-2020-0651](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0651) <br/> [CVE-2020-0652](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0652) <br/>  |
-|8 de enero de 2020   |Versión 1912 (compilación 12325.20288)  |Varias correcciones de errores y rendimiento. <br/>  |
+
 
 
 
