@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI vínculos a la información de las últimas actualizaciones no relacionadas con la seguridad de las versiones perpetuas de Office 2016, Office 2013 y Office 2010.
-ms.openlocfilehash: f1924b4ad7dac69ad94228998da3042e156e12c6
-ms.sourcegitcommit: 6e27566f8c2e6718da5c5597a62f91a882c8b20f
+ms.openlocfilehash: 24c7c09611d2af4c88edf989ba7fae08e61675ac
+ms.sourcegitcommit: 1a9ceb0e62ff42213babaf1dbb854b4d911f0e7a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/07/2020
-ms.locfileid: "45052623"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "46560105"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Últimas actualizaciones no relacionadas con la seguridad para las versiones de Office que usan Windows Installer (MSI)
 
@@ -25,6 +25,14 @@ Esta página enumera las actualizaciones de Office no relacionadas con la seguri
 > - La información de este artículo no se aplica a las aplicaciones de Microsoft 365.
 > - Para obtener más información sobre la instalación de actualizaciones de Office, vea [Instalación de actualizaciones de Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
+## <a name="august-4-2020"></a>4 de agosto de 2020
+
+**Office 2016**<br/>
+Actualización para Microsoft Office 2016 ([KB4484418](https://support.microsoft.com/help/4484418))<br/> Actualización para Microsoft Project 2016 ([KB4484477](https://support.microsoft.com/help/4484477))<br/>
+Actualización para Skype Empresarial 2016 ([KB4484464](https://support.microsoft.com/help/4484464))<br/> 
+
+**Office 2010**<br/>
+Actualización para Microsoft Office 2010 ([KB4484454](https://support.microsoft.com/help/4484454))<br/> Actualización para Microsoft PowerPoint 2010 ([KB4092435](https://support.microsoft.com/help/4092435))<br/> 
 
 ## <a name="july-7-2020"></a>7 de julio de 2020
 
@@ -76,13 +84,4 @@ Actualización de Skype Empresarial 2016 ([KB4484245](https://support.microsoft.
 
 **Office 2013**<br/>
 Actualización de Skype Empresarial 2015 ([KB4484097](https://support.microsoft.com/help/4484097))<br/>
-
-
-## <a name="february-4-2020"></a>4 de febrero de 2020
-
-**Office 2016**<br/>
-Actualización de Microsoft Project 2016 ([KB4484253](https://support.microsoft.com/help/4484253)) <br/>
-Actualización de Microsoft Word 2016 ([KB4484249](https://support.microsoft.com/help/4484249)) <br/>
-
-
 
