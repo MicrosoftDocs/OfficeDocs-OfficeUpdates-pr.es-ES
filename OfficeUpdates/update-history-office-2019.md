@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI un historial de actualizaciones para las versiones permanentes de Office 2016 y Office 2019 que usan Hacer clic y ejecutar.
-ms.openlocfilehash: f51a17e603f506a099b750b1b673fc13a5452e4b
-ms.sourcegitcommit: 094f41a7cd3ac7044923aab24da75e9236772836
+ms.openlocfilehash: 01d2cc4d699e233e7bb60946b7400f25cc2c2e3f
+ms.sourcegitcommit: 20be7ca53ff4bb9bb64d9c347420af575497ea9b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "46530349"
+ms.lasthandoff: 08/10/2020
+ms.locfileid: "46612342"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Historial de actualizaciones para la versión de Hacer clic y ejecutar de Office 2016 y Office 2019
 
@@ -36,6 +36,9 @@ Las versiones nuevas incluyen todas las actualizaciones de versiones anteriores.
 ## <a name="volume-licensed-versions-of-office-2019"></a>Versiones de licencia por volumen de Office de 2019
 La siguiente información se aplica a las versiones de licencia por volumen de Office 2019, como Office Profesional Plus 2019, adquiridas a través de un contrato de licencia de volumen.
 
+[//]: # (No eliminar el inicio de la tabla de licencias por volumen)
+
+
 |**Fecha de publicación**|**Número de versión**|**Más información**|
 |:-----|:-----|:-----|
 |14 de julio de 2020   |Versión 1808 (Compilación 10363.20015)  |[CVE-2020-1342](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1448](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1448) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1449) <br/>|
@@ -46,15 +49,30 @@ La siguiente información se aplica a las versiones de licencia por volumen de O
 |11 de febrero de 2020   |Versión 1808 (compilación 10356.20006)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0759) <br/>  |
 
 
+[//]: # (No eliminar el final de la tabla de licencias por volumen)
+
+<details>
+<summary>Versiones anteriores</summary>
+ 
+[//]: # (No eliminar el inicio de la antigua tabla de licencias por volumen)
 
 
+|**Fecha de publicación**|**Número de versión**|**Más información**|
+|:-----|:-----|:-----|
 
+
+[//]: # (No eliminar el final de la antigua tabla de licencias por volumen)
+
+</details>
 
 
 <br/>
 
 ## <a name="retail-versions-of-office-2016-c2r-and-office-2019"></a>Versiones comerciales de Hacer clic y ejecutar de Office 2016 y Office 2019
 La siguiente información se aplica a las versiones comerciales de Hacer clic y ejecutar de Office 2016 y Office 2019, que comparten las mismas fechas de publicación y números de versión.
+
+[//]: # (No eliminar el inicio de la tabla de ventas al por menor)
+
 
 |**Fecha de publicación**|**Número de versión**|**Más información**|
 |:-----|:-----|:-----|
@@ -64,6 +82,18 @@ La siguiente información se aplica a las versiones comerciales de Hacer clic y 
 |30 de junio de 2020|Versión 2006 (compilación 13001.20266)  |Varias correcciones de errores y de rendimiento.  <br/>  |
 |24 de junio de 2020|Versión 2005 (compilación 12827.20470)  |Varias correcciones de errores y de rendimiento.  <br/>  |
 |9 de junio de 2020|Versión 2005 (compilación 12827.20336)  |[CVE-2020-1225](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1225)  <br/> [CVE-2020-1226](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1226)  <br/> [CVE-2020-1229](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1229)  <br/> [CVE-2020-1321](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1321)  <br/> [CVE-2020-1322](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1322)  <br/>|
+
+
+[//]: # (No eliminar el final de la tabla de ventas al por menor)
+
+<details>
+<summary>Versiones anteriores</summary>
+ 
+[//]: # (No eliminar el inicio de la antigua tabla de ventas al por menor)
+
+
+|**Fecha de publicación**|**Número de versión**|**Más información**|
+|:-----|:-----|:-----|
 |2 de junio de 2020|Versión 2005 (compilación 12827.20268)  |Varias correcciones de errores y de rendimiento.  <br/>  |
 |21 de mayo de 2020|Versión 2004 (compilación 12730.20352)  |Varias correcciones de errores y de rendimiento.  <br/>  |
 |12 de mayo de 2020|Versión 2004 (compilación 12730.20270)  |[CVE-2020-0901](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0901)  <br/>  |
@@ -79,7 +109,9 @@ La siguiente información se aplica a las versiones comerciales de Hacer clic y 
 |11 de febrero de 2020   |Versión 2001 (compilación 12430.20264)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0697](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0697) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0759) <br/>  |
 
 
+[//]: # (No eliminar el final de la antigua tabla de ventas al por menor)
 
+</details>
 
 
 
