@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Aplicaciones de Microsoft 365 según el canal de actualización.
-ms.openlocfilehash: c2f321c0c1465fd2814232eaab6e1782f83629b9
-ms.sourcegitcommit: 66c77c0b4b04bd91b4624dc741a9aed272bf9807
+ms.openlocfilehash: 7ccf04ceb82ce5552de8852e2b7c062402be7f38
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "46588102"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634831"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tamaños de descarga de las actualizaciones de Aplicaciones de Microsoft 365 
 
@@ -36,14 +36,23 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 
 [//]: # (NO ELIMINAR)
 
-[//]: # (NO ELIMINAR INICIO DEL CONTENIDO DE PREVISIÓN)
+## <a name="august-11-2020"></a>11 de agosto de 2020
 
-## <a name="august-6-2020"></a>6 de agosto de 2020
+[//]: # (NO ELIMINAR INICIO DEL CONTENIDO 11 de agosto de 2020)
+
+### <a name="current-channel"></a>Canal actual
+
+La versión más actual es la 2007 (compilación 13029.20344).
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 2007 (compilación 13029.20308) <br/> |30 de julio de 2020 <br/> |50<br/> |
+|Versión 2006 (compilación 13001.20498) <br/> |28 de julio de 2020 <br/> |374<br/> |
 
 
 ### <a name="monthly-enterprise-channel"></a>Canal empresarial mensual
 
-<i>La versión prevista es la versión 2006 (compilación 13001.20540).</i>
+La versión más actual es la 2006 (compilación 13001.20520).
 
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
@@ -51,27 +60,30 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 
 
 
-### <a name="semi-annual-enterprise-channel-preview"></a>Canal empresarial semestral (versión preliminar)
+### <a name="semi-annual-enterprise-channel-preview"></a>Canal empresarial semestral (vista previa)
 
-<i>La versión prevista es la versión 2002 (compilación 12527.20964).</i>
+La versión más actual es la 2002 (compilación 12527.20988).
 
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
-|Versión 2002 (compilación 12527.20880) <br/> |14 de julio de 2020 <br/> |57<br/> |
+|Versión 2002 (compilación 12527.20880) <br/> |14 de julio de 2020 <br/> |58<br/> |
 |Versión 2002 (compilación 12527.20720) <br/> |9 de junio de 2020 <br/> |62<br/> |
 
 
 ### <a name="semi-annual-enterprise-channel"></a>Canal empresarial semestral
 
-<i>La versión prevista es la versión 2002 (compilación 12527.20964).</i>
+La versión más actual es la 2002 (compilación 12527.20988).
 
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
-|Versión 2002 (compilación 12527.20880) <br/> |14 de julio de 2020 <br/> |57<br/> |
+|Versión 2002 (compilación 12527.20880) <br/> |14 de julio de 2020 <br/> |58<br/> |
 |Versión 1908 (compilación 11929.20838) <br/> |9 de junio de 2020 <br/> |291<br/> |
 
 
-[//]: # (NO ELIMINAR FINAL DEL CONTENIDO DE PREVISIÓN)
+[//]: # (NO ELIMINAR FINAL DEL CONTENIDO 11 de agosto de 2020)
+
+
+
 
 ## <a name="july-30-2020"></a>30 de julio de 2020
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales de TI las notas de la versión de las versiones de Office para Mac para los suscriptores de Aplicaciones de Microsoft 365
-ms.openlocfilehash: 4c1b7d69a40afae6c6172d3d3135c2e22a7daa71
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+ms.openlocfilehash: d723fa5a294e8dbd3650d0ac69fa201538486089
+ms.sourcegitcommit: 79f26d59de01abb85869e9d91f3af30129709f62
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138546"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46637698"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de la versión de Office para Mac
 
@@ -40,6 +40,48 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
 
 
+
+
+## <a name="august-11-2020"></a>11 de agosto de 2020
+*Versión 16.40 (compilación 20081000)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Filtrar y ordenar sin interrumpir a los demás:** cree sus propias vistas mientras colabora con otros Excel, para filtrar y ordenar sin interrumpir lo que los demás ven. [Más información](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/sheet-view-makes-collaborating-easier)
+
+### <a name="outlook"></a>Outlook
+
+- **Seguridad mejorada para cuentas de Outlook.com:** gracias a las mejoras de seguridad, ya no es necesario establecer una contraseña de aplicación cuando está habilitada la verificación en dos pasos para la cuenta Outlook.com.
+
+### <a name="powerpoint-mac"></a>PowerPoint en Mac
+
+- **Decirlo con la entrada de lápiz:** use el lápiz digital para ilustrar sus puntos al grabar una presentación y también se grabarán los trazos de lápiz. [Más información](https://support.office.com/article/0b9502c6-5f6c-40ae-b1e7-e47d8741161c)
+
+
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+
+
+[//]: # (NO QUITAR LOS DETALLES DE SEGURIDAD INICIO DEL CONTENIDO INICIAL)
+
+
+### <a name="security-updates"></a>Actualizaciones de seguridad
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1495](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1495)
+-   [CVE-2020-1498](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1498)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-1503](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1503)
+-   [CVE-2020-1583](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1583)
+
+[//]: # (NO QUITAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO FINAL)
+
 ## <a name="july-14-2020"></a>14 de julio de 2020
 *Versión 16.39 (compilación 20071300)*
 
@@ -50,7 +92,7 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
 - **Agregue etiquetas de gráfico desde los valores de celda:** use los valores de celdas como etiquetas en los datos del gráfico. [Más información](https://support.office.com/article/884bf2f1-2e29-454e-8b42-f467c9f4eb2d)
 
-- **Cuente sus historias con GIF animados:** los GIF animados ahora son compatibles con el editor de Office: sus documentos han pasado a ser más llamativos.
+- **Cuente sus historias con GIF animados:** los GIF animados ahora son compatibles con el editor de Office: sus documentos ahora son más elegantes.
 
 ### <a name="outlook"></a>Outlook
 
@@ -707,8 +749,8 @@ En esta versión se incluyen las actualizaciones siguientes:
 |**Aplicación**|**Actualizaciones de características**|**Actualizaciones de seguridad**|**Vínculo de descarga para el paquete de actualización**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| **Descansar los ojos con el modo oscuro:** un fondo oscuro es menos dañino para la vista en entornos de poca luz. Requiere macOS Mojave. <br/><br/>  **Conservar el aspecto del texto:** incruste fuentes para asegurarse de que texto del documento tiene el mismo aspecto en cualquier equipo. No más sorpresas. [Más información](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/><br/>**Ver las fuentes incrustadas en los documentos:** permite que las fuentes incrustadas en un archivo se representen en Word para Mac.<br/><br/>**Barra de estado invocable del modo de enfoque:** en el modo de enfoque, vea más fácilmente el recuento de palabras y acceda a los controles de zoom con la barra de estado invocable.<br/><br/>**Obtenga más ayuda con el modo de enfoque:** le hemos oído. Ahora, el Modo Enfoque se abre en el nivel de zoom establecido y muestra además el número de página mientras se desplaza.| |[Paquete de actualización de Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg) <br/>|
-|Excel  <br/>|  **Descansar los ojos con el modo oscuro:** un fondo oscuro es menos dañino para la vista en entornos de poca luz. Requiere macOS Mojave <br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8597): Vulnerabilidad de la ejecución remota de código de Microsoft Excel <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8627): vulnerabilidad de divulgación de información de Microsoft Excel |[Paquete de actualización de Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
-|PowerPoint  <br/>| **Descansar los ojos con el modo oscuro:** un fondo oscuro es menos dañino para la vista en entornos de poca luz. Requiere macOS Mojave <br/><br/>  **Desde el iPhone a PowerPoint en un momento:** use la continuidad de cámara de Apple para insertar una foto desde su iPhone en la diapositiva. Requiere macOS Mojave. [Más información](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8628): Vulnerabilidad de la ejecución remota de código de Microsoft PowerPoint <br/>|[Paquete de actualización de PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
+|Excel  <br/>|  **Descansar los ojos con el modo oscuro:** un fondo oscuro es menos dañino para la vista en entornos de poca luz. Requiere macOS Mojave. <br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8597): Vulnerabilidad de la ejecución remota de código de Microsoft Excel <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8627): vulnerabilidad de divulgación de información de Microsoft Excel |[Paquete de actualización de Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
+|PowerPoint  <br/>| **Descansar los ojos con el modo oscuro:** un fondo oscuro es menos dañino para la vista en entornos de poca luz. Requiere macOS Mojave. <br/><br/>  **Desde el iPhone a PowerPoint en un momento:** use la continuidad de cámara de Apple para insertar una foto desde su iPhone en la diapositiva. Requiere macOS Mojave. [Más información](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8628): Vulnerabilidad de la ejecución remota de código de Microsoft PowerPoint <br/>|[Paquete de actualización de PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
 |Outlook  <br/>|  **Descansar los ojos con el modo oscuro:** un fondo oscuro es menos dañino para la vista en entornos de poca luz. Requiere macOS Mojave. <br/><br/>  **Compartir el calendario:** comparta su calendario con compañeros, amigos y familiares. Abra los calendarios compartidos con usted en las versiones de nube, PC o Mac de Outlook. [Más información](https://support.office.com/article/365-b576ecc3-0945-4d75-85f1-5efafb8a37b4) <br/><br/> **Desactivar el reenvío para una reunión** Impida que los asistentes reenvíen la reunión a otros usuarios. [Más información](https://support.office.com/article/8cd354e5-b319-403e-8dd2-88b8ee89b4dd) <br/><br/> **Usar Teams para conectarse a las reuniones:** ¿trabaja con equipos remotos? Use Teams en Outlook para programar y asistir a reuniones en línea. [Más información](https://support.office.com/article/883cc15c-580f-441a-92ea-0992c00a9b0f) <br/><br/>**Ver quién asistirá a la reunión:** haga clic en cualquier reunión o evento del calendario para ver quién tiene previsto asistir.<br/><br/> **Ver tres zonas horarias:** ¿necesita programar una reunión en distintas zonas horarias? Agregue varias zonas horarias al calendario para ver la disponibilidad de todos los usuarios fácilmente y seleccione una hora adecuada para todos. [Más información](https://support.office.com/article/938d9db9-14ae-4203-ab91-b2d183429382)<br/><br/>  ||[Paquete de actualización de Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.20.18120801_Updater.pkg) <br/>|
 |Microsoft Auto Update 4.6 <br/>| Se han actualizado los catálogos de seguridad para contener hashes SHA-256 en lugar de SHA-1 <br/>|<br/> | [Paquete de actualización de Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.6.18120801_Updater.pkg)|
 |OfficeSuite  <br/>|**Los iconos de la cinta tienen un aspecto nuevo:** no se preocupe, todo funciona de la misma forma. Además, ahora todos los iconos se ven bien en todos los tamaños de pantalla. [Más información](https://support.office.com/article/a6cdf19a-b2bd-4be1-9515-d74a37aa59bf)<br/><br/>**Panel de texto alternativo actualizado:** haga que su contenido sea más accesible al agregar títulos útiles o incluso marcar elementos como decorativos. |<br/>||

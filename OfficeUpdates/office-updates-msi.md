@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI vínculos a la información de las últimas actualizaciones de las versiones perpetuas de Office 2016, Office 2013 y Office 2010.
-ms.openlocfilehash: ecbff53bf619e72f2440e903f6c8825e38a3a323
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+ms.openlocfilehash: a869543c55d0e3a6522e4c807b76670889605e7d
+ms.sourcegitcommit: 79f26d59de01abb85869e9d91f3af30129709f62
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138776"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46637638"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Últimas actualizaciones para las versiones de Office que usan Windows Installer (MSI)
 
@@ -31,25 +31,26 @@ Use los vínculos de esta página para obtener más información sobre las actua
 
 |**Versiones y productos**|**Service Pack (SP) más reciente**|**Actualización pública (AP) más reciente**|
 |:-----|:-----|:-----|
-|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |N/D  <br/> |PU julio 2020  <br/> [KB4559453](https://support.microsoft.com/help/4559453) <br/> |
+|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |N/A  <br/> |AP de agosto de 2020  <br/> [KB4563408](https://support.microsoft.com/help/4563408) <br/> |
    
 ## <a name="office-2013-updates"></a>Actualizaciones de Office 2013
 
 |**Versiones y productos**|**Service Pack (SP) más reciente**|**Actualización pública (AP) más reciente**|
 |:-----|:-----|:-----|:-----|
-|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |PU julio 2020  <br/> [KB4559453](https://support.microsoft.com/help/4559453) <br/> |
+|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |AP de agosto de 2020  <br/> [KB4563408](https://support.microsoft.com/help/4563408) <br/> |
    
 ## <a name="office-2010-updates"></a>Actualizaciones de Office 2010
 > [!IMPORTANT]
-El soporte técnico para Office 2010 finaliza el 13 de octubre de 2020. Si todavía no ha empezado a actualizar su entorno de Office 2010, se recomienda que empiece ahora. Para más información, vea [Guía de finalización del soporte para Office 2010](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap).
+> El soporte técnico para Office 2010 finaliza el 13 de octubre de 2020. Si todavía no ha empezado a actualizar su entorno de Office 2010, se recomienda que empiece ahora. Para más información, vea [Guía de finalización del soporte para Office 2010](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap). 
 
 |**Versiones y productos**|**Service Pack (SP) más reciente**|**Actualización pública (AP) más reciente**|
 |:-----|:-----|:-----|:-----|
-|**2010** <br/> Conjuntos de aplicaciones de Office 2010  <br/> Project 2010  <br/> Visio 2010  <br/> Servidores de Office 2010  <br/> Office Web Apps  <br/> Search Server 2010  <br/> Productos de SharePoint 2010  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |PU julio 2020  <br/> [KB4559453](https://support.microsoft.com/help/4559453) <br/>|
+|**2010** <br/> Conjuntos de aplicaciones de Office 2010  <br/> Project 2010  <br/> Visio 2010  <br/> Servidores de Office 2010  <br/> Office Web Apps  <br/> Search Server 2010  <br/> Productos de SharePoint 2010  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |AP de agosto de 2020  <br/> [KB4563408](https://support.microsoft.com/help/4563408) <br/>|
    
 
    
 ## <a name="updates-released-in-past-12-months"></a>Actualizaciones publicadas en los últimos 12 meses
+[Actualizaciones de seguridad y no relacionadas con la seguridad de agosto de 2020: KB4563408](https://support.microsoft.com/help/4563408)
 
 [ Actualizaciones de seguridad y no seguridad para julio de 2020: KB4559453 ](https://support.microsoft.com/help/4559453)
 
@@ -73,7 +74,6 @@ El soporte técnico para Office 2010 finaliza el 13 de octubre de 2020. Si todav
 
 [Actualizaciones de seguridad y no relacionadas con la seguridad de septiembre de 2019: KB4517986](https://support.microsoft.com/help/4517986 )
 
-[Actualizaciones de seguridad y no relacionadas con la seguridad de agosto de 2019: KB4514418](https://support.microsoft.com/help/4514418)
 
 
 </br>
