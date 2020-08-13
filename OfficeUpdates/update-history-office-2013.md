@@ -9,19 +9,19 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI un historial de actualizaciones para las versiones perpetuas de Office 2013 que usan Hacer clic y ejecutar.
-ms.openlocfilehash: 1b1dd6974f76fc1182edacaa3b82c66e54d84ded
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+ms.openlocfilehash: 7a8ea9fc651d9fa889d7d494c264dd82de6bb554
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138786"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634536"
 ---
 # <a name="update-history-for-office-2013"></a>Historial de actualizaciones para Office 2013
 
 Algunos productos de Office 2013 se actualizan automáticamente mediante una tecnología denominada hacer clic y ejecutar. Si desea comprobar que está actualizado, compruebe su número de versión de Office y actualice Office manualmente si es necesario.
   
 > [!NOTE]
-> La versión más actual de Office 2013 es la **15.0.5259.1000**, que fue lanzada el 14 de julio de 2020.
+> La versión más reciente de Office 2013 es **15.0.5267.1000**, que se publicó el 11 de agosto de 2020.
   
 Para comprobar su versión de Office, siga estos pasos:
   
@@ -45,7 +45,8 @@ Las versiones nuevas incluyen todas las actualizaciones de versiones anteriores.
   
 |**Año de publicación**|**Fecha de publicación**|**Número de versión**|**Más información**|
 |:-----|:-----|:-----|:-----|
-|2020|14 de julio    | 15.0.5259.1000    |[KB 4559453](https://support.microsoft.com/help/4559453)|
+|2020| 11 de agosto | 15.0.5267.1000  | [KB 4563408](https://support.microsoft.com/help/4563408)|
+||14 de julio    | 15.0.5259.1000    |[KB 4559453](https://support.microsoft.com/help/4559453)|
 ||9 de junio   |15.0.5249.1001   |[KB 4559448](https://support.microsoft.com/help/4559448)|
 ||12 de mayo   |15.0.5241.1000   |[KB 4549680 ](https://support.microsoft.com/help/4549680)  |
 ||14 de abril   |15.0.5233.1000   |[KB 4549670 ](https://support.microsoft.com/help/4549670)  |

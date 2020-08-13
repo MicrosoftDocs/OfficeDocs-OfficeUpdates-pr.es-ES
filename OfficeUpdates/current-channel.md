@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365 en 2020
-ms.openlocfilehash: ce80a830a0c18416cadc9c49c46ae12eea07998b
-ms.sourcegitcommit: 0c33b30b826a4bded208c4d4523d89b63d1c5c67
+ms.openlocfilehash: a33941600839c16e69449e27a240a52711cee246
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "46580853"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634845"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notas de la versión para las versiones del canal actual en 2020
 
@@ -31,6 +31,31 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+
+## <a name="version-2007-august-11"></a>Versión 2007: 11 de agosto
+*Versión 2007 (compilación 13029.20344)*
+
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="outlook"></a>Outlook
+
+- Se corrigió un problema que provocaba que Outlook no pudiese recuperar sugerencias de búsqueda.
+
+
+- Se corrigió un problema que provocaba que los usuarios se bloquearan en ocasiones al recuperar información personal.
+
+
+### <a name="project"></a>Project
+
+- Se corrigió un problema por el que no se podía abrir un proyecto que estaba en mal estado.
 
 
 
@@ -63,8 +88,6 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="powerpoint"></a>PowerPoint
 
 - **Aplicar automáticamente o recomendar etiquetas de confidencialidad:** Office puede recomendar o aplicar automáticamente una etiqueta de confidencialidad basada en el contenido confidencial detectado.
-
-- **Mejor rendimiento de vídeos de Stream en PowerPoint:** hemos realizado mejoras en el rendimiento de la reproducción de los vídeos de Microsoft Stream para reducir el tiempo de carga de vídeo y crear una visualización más suave. Utilice sus vídeos corporativos de Microsoft Stream para crear presentaciones mejoradas.
 
 ### <a name="teams"></a>Teams
 
@@ -995,6 +1018,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 > Si necesita ayuda con algún problema de uso de Office, le recomendamos que publique la pregunta en el [foro de preguntas de Microsoft](https://answers.microsoft.com/) o [Tech Community](https://techcommunity.microsoft.com/), o bien puede ponerse en contacto con el [servicio de soporte técnico](https://support.microsoft.com/contactus).
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|CC|Producción| |16.0.13029.20344|versión-2007-11-agosto|)
 [//]: # (|Win32|CC|Producción| |16.0.13029.20308|versión-2007-julio-30|)
 [//]: # (|Win32|CC|Producción| |16.0.13001.20498|versión-2006-julio-28|)
 [//]: # (|Win32|CC|Producción| |16.0.13001.20384|versión-2006-julio-14|)

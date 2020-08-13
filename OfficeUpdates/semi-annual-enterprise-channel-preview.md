@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones del canal semestral (dirigido) de Aplicaciones de Microsoft 365 en 2020.
-ms.openlocfilehash: 28b78e3952867cb55b2b91e9e6d9d8d5f2e35063
-ms.sourcegitcommit: 6f79e3c3948db4d7ae1c6dfc855970551d3b1678
+ms.openlocfilehash: e567d3139d7766b54d05e0ddf5272bc683c6f82a
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/20/2020
-ms.locfileid: "45187590"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634876"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>Notas de la versión para las versiones de canal empresarial semestral (vista previa) en 2020
 
@@ -23,6 +23,43 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 > [!IMPORTANT]
 > Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441) para obtener más información.
 
+
+## <a name="version-2002-august-11"></a>Versión 2002: 11 de agosto
+*Versión 2002 (compilación 12527.20988)*
+
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Se corrigió un problema por el que no se podía cambiar a la edición de archivos que se han abierto como "recomendado solo lectura".
+
+### <a name="onenote"></a>OneNote
+
+- Se quitaron las llamadas de identidad redundantes para reducir el uso de recursos
+
+- Se mejoró la detección del estado de la coautoría para reducir el uso de recursos.
+
+- Se mejoró la función de detección de errores y la calidad de la experiencia de sincronización.
+
+### <a name="outlook"></a>Outlook
+
+- Se corrigió un problema que causaba un problema de rendimiento importante al iniciar Outlook en algunos espacios empresariales.
+
+### <a name="skype"></a>Skype
+
+- Se corrigió un problema por el que se podía producir un error al compartir la pantalla en un cliente de Skype Empresarial de 32 bits después de ejecutarlo durante varios días.
+
+### <a name="office-suite"></a>Conjunto de programas de Office
+
+- Se corrigió un problema que se producía al desactivar el autoguardado a través de la directiva de grupo: era posible que algunos documentos no mostraran el contenido más reciente de servidor al abrirse hasta que el usuario hiciera clic en "Actualizaciones disponibles".
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2002-july-14"></a>Versión 2002: 14 de julio
 *Versión 2002 (compilación 12527.20880)*
@@ -465,9 +502,9 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
-### <a name="access"></a>Access
+### <a name="access"></a>Acceso
 
-- Esta actualización corrige un problema en Microsoft Access que puede causar el error &quot;La consulta está dañada&quot; cuando se ejecuta una consulta de actualización o cuando se usa una instrucción UPDATE en SQL.
+- Esta actualización corrige un problema en Microsoft Access que puede causar el error "La consulta está dañada" cuando se ejecuta una consulta de actualización o cuando se usa una instrucción UPDATE en SQL.
 
 - Esta actualización corrige un problema que puede hacer que Microsoft Access no identifique una Columna de identidad en una tabla vinculada de SQL Server, lo que puede provocar que las filas aparezcan como eliminadas de forma incorrecta.
 
@@ -535,13 +572,13 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - Corregido un problema que provocaba que las aplicaciones de terceros no pudiesen enviar correo electrónico.
 
-- Se ha corregido un problema por el que los usuarios veían un cuadro de mensaje vacío con el botón &quot;Aceptar&quot; al intentar ponerse en contacto con el soporte técnico desde la Creación de cuenta.
+- Se ha solucionado un problema que hacía que los usuarios vieran un cuadro de mensaje vacío con el botón "ok" cuando intentaban ponerse en contacto con el soporte técnico desde el contexto de la creación de la cuenta.
 
 - Se ha corregido un problema que provocaba que los usuarios sufrieran un bloqueo durante la creación del perfil.
 
 - Se ha corregido un problema por el que Outlook sincronizaba inesperadamente todo el correo, incluso cuando el deslizador de sincronización estaba configurado en un ajuste menor.
 
-- Se ha corregido un problema por el que los usuarios con el tema Negro veían la lista desplegable &quot;De&quot; con un texto blanco sobre un fondo blanco.
+- Se corrigió un problema por el que los usuarios con el tema negro veían la lista desplegable "De" con un texto blanco sobre un fondo blanco.
 
 - Se ha corregido un problema que provocaba que los usuarios experimentaran un error al cancelar la configuración de la cuenta.
 
@@ -549,7 +586,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - Se ha corregido un problema que hacía que la opción deshabilitar el resaltado de elementos marcados no se pudiera respetar en algunos escenarios.
 
-- Se ha corregido un problema que hacía que los usuarios vieran una &quot;Las reglas de este equipo no coinciden con las reglas de Microsoft Exchange&quot; al abrir el cuadro de diálogo de las reglas.
+- Corregido un problema que hacía que los usuarios vieran el mensaje "Las reglas de este equipo no coinciden con las reglas de Microsoft Exchange" al abrir el cuadro de diálogo Reglas.
 
 - Se ha corregido un problema que provocaba que los usuarios experimentaran un bloqueo al especificar una dirección de origen no válida.
 
@@ -573,7 +610,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - Corregidos problemas relacionados con las reuniones y las citas establecidas en la zona horaria de la Brasil.
 
-- Se ha corregido un problema que provocaba que los usuarios vieran mensajes enviados inesperadamente al presionar la tecla &quot;S&quot; después de cerrar el panel del comprobador de accesibilidad.
+- Se corrigió un problema por el que se enviaban inesperadamente mensajes de correos electrónicos al presionar la tecla "S" después de cerrar el panel del comprobador de accesibilidad.
 
 - Esto actualiza la lógica de bloqueo de adjuntos en Outlook para bloquear también los adjuntos de Python.
 
@@ -601,9 +638,9 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 ### <a name="word"></a>Word
 
-- Corregido un problema ocasional en el que al guardar un archivo existente siempre aparece el cuadro de diálogo Guardar como y el archivo nunca se guarda.
+- Corregido un problema ocasional en el que al guardar un archivo existente siempre aparece el cuadro de diálogo Guardar como, pero el archivo nunca se guarda.
 
-- El organizador de bloques de construcción puede mostrar una alerta inválida:&quot;Has modificado estilos, bloques de construcción&quot;.
+- El organizador de bloques de creación puede mostrar una alerta no válida: "Ha modificado estilos, bloques de creación".
 
 ### <a name="office-suite"></a>Conjunto de aplicaciones de Office
 
@@ -731,5 +768,6 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|FRDC|Insiders| |16.0.12527.20988|version-2002-11-agosto|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.12527.20880|version-2002-july-14|)
 [//]: # (NO MODIFICAR EL FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)

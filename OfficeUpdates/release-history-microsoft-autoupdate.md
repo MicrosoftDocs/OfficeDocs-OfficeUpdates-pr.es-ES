@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales informáticos un historial de versiones de Microsoft AutoUpdate (MAU).
-ms.openlocfilehash: ad34c6a3f64da52611f8bb5b3502f448d823c096
-ms.sourcegitcommit: 460a51d38fc5364ad8fbf7b32a46786ee8b62dea
+ms.openlocfilehash: aa066d6d5cc89060d3c56be2106559e47e93e9b9
+ms.sourcegitcommit: 79f26d59de01abb85869e9d91f3af30129709f62
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45145117"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46637648"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historial de versiones de Microsoft AutoUpdate (MAU)
  
@@ -29,6 +29,30 @@ En la siguiente tabla, se proporciona información del historial de versiones de
 > - Microsoft AutoUpdate ofrece actualizaciones para distintos productos de Mac de Microsoft. Por tanto, es posible que reciba una notificación para actualizar Microsoft AutoUpdate, incluso si no está ejecutando Office para Mac.
 
 Para ver las notas de la versión, consulte [Notas de la versión.](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="august-2020-release"></a>Versión de agosto de 2020
+
+**Fecha de lanzamiento:** 11 de agosto de 2020
+
+*Microsoft AutoUpdate 4.26*
+
+**Correcciones de errores y mejoras:**
+-   El icono de MAU en el Dock ahora mostrará el número de actualizaciones disponibles. 
+-   MAU se iniciará ahora en estado minimizado cuando se detecten actualizaciones.
+-   Se agregó una nueva preferencia "IgnoreUIOpenAfterInstall" que se puede usar para impedir que la interfaz de usuario de MAU se inicie después de la instalación.
+-   Se resolvió un problema de permisos que causaba la visualización de un mensaje de "Instalación incorrecta". 
+-   Se extendió la persistencia del mensaje de notificación "Fecha límite de la actualización" de MAU de 60 segundos a 1 hora.
+
+
+**Vínculo de actualización de MAU:**
+
+[Descargar el paquete de Microsoft AutoUpdate 4.26](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**Hash SHA-256:**
+
+E81CEADF900A0C7E7D593720D08146DBC1C55868D5B21C7E7A175AA36DFE0178
+
+<br/><br/>
 
 ## <a name="july-2020-release"></a>Versión de julio de 2020
 
