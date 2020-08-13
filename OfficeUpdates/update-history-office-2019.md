@@ -36,7 +36,7 @@ Las versiones nuevas incluyen todas las actualizaciones de versiones anteriores.
 ## <a name="volume-licensed-versions-of-office-2019"></a>Versiones de licencia por volumen de Office de 2019
 La siguiente información se aplica a las versiones de licencia por volumen de Office 2019, como Office Profesional Plus 2019, adquiridas a través de un contrato de licencia de volumen.
 
-[//]: # (No eliminar el inicio de la tabla de licencias por volumen)
+[//]: # (NO QUITAR EL INICIO DE LA TABLA DE LICENCIAS POR VOLUMEN)
 
 
 |**Fecha de publicación**|**Número de versión**|**Más información**|
@@ -49,19 +49,19 @@ La siguiente información se aplica a las versiones de licencia por volumen de O
 |11 de febrero de 2020   |Versión 1808 (compilación 10356.20006)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0759) <br/>  |
 
 
-[//]: # (No eliminar el final de la tabla de licencias por volumen)
+[//]: # (NO QUITAR EL FINAL DE LA TABLA DE LICENCIAS POR VOLUMEN)
 
 <details>
 <summary>Versiones anteriores</summary>
  
-[//]: # (No eliminar el inicio de la antigua tabla de licencias por volumen)
+[//]: # (NO QUITAR EL INICIO DE LA ANTIGUA TABLA DE LICENCIAS POR VOLUMEN)
 
 
 |**Fecha de publicación**|**Número de versión**|**Más información**|
 |:-----|:-----|:-----|
 
 
-[//]: # (No eliminar el final de la antigua tabla de licencias por volumen)
+[//]: # (NO QUITAR EL FINAL DE LA ANTIGUA TABLA DE LICENCIAS POR VOLUMEN)
 
 </details>
 
@@ -71,7 +71,7 @@ La siguiente información se aplica a las versiones de licencia por volumen de O
 ## <a name="retail-versions-of-office-2016-c2r-and-office-2019"></a>Versiones comerciales de Hacer clic y ejecutar de Office 2016 y Office 2019
 La siguiente información se aplica a las versiones comerciales de Hacer clic y ejecutar de Office 2016 y Office 2019, que comparten las mismas fechas de publicación y números de versión.
 
-[//]: # (No eliminar el inicio de la tabla de ventas al por menor)
+[//]: # (NO QUITAR EL INICIO DE LA TABLA DE VENTAS AL POR MENOR)
 
 
 |**Fecha de publicación**|**Número de versión**|**Más información**|
@@ -84,12 +84,12 @@ La siguiente información se aplica a las versiones comerciales de Hacer clic y 
 |9 de junio de 2020|Versión 2005 (compilación 12827.20336)  |[CVE-2020-1225](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1225)  <br/> [CVE-2020-1226](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1226)  <br/> [CVE-2020-1229](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1229)  <br/> [CVE-2020-1321](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1321)  <br/> [CVE-2020-1322](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1322)  <br/>|
 
 
-[//]: # (No eliminar el final de la tabla de ventas al por menor)
+[//]: # (NO QUITAR EL FINAL DE LA TABLA DE VENTAS AL POR MENOR)
 
 <details>
 <summary>Versiones anteriores</summary>
  
-[//]: # (No eliminar el inicio de la antigua tabla de ventas al por menor)
+[//]: # (NO QUITAR EL INICIO DE LA ANTIGUA TABLA DE VENTAS AL POR MENOR)
 
 
 |**Fecha de publicación**|**Número de versión**|**Más información**|
@@ -109,7 +109,7 @@ La siguiente información se aplica a las versiones comerciales de Hacer clic y 
 |11 de febrero de 2020   |Versión 2001 (compilación 12430.20264)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0697](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0697) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0759) <br/>  |
 
 
-[//]: # (No eliminar el final de la antigua tabla de ventas al por menor)
+[//]: # (NO QUITAR EL FINAL DE LA ANTIGUA TABLA DE VENTAS AL POR MENOR)
 
 </details>
 
