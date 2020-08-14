@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider Lento la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 236270115273755c69cbd334e7341ccec839e353
-ms.sourcegitcommit: 9033eb8901f337897a27b10b9fdb3cbd4acf4c38
+ms.openlocfilehash: 1af6025eea51fcf6d231796b453eca1aac0f9cf3
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "46576802"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634856"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notas de la versión del canal actual de Office (versión preliminar)
 
@@ -27,6 +27,125 @@ En este artículo hay notas de la versión para las compilaciones del canal actu
 > - La fecha de publicación de las notas de versión pueden no coincidir con la fecha real de lanzamiento de la compilación.
 
 [//]: # (NO ELIMINAR)
+
+## <a name="version-2008-august-11"></a>Versión 2008: 11 de agosto
+*Versión 2008 (Compilación 13127.20164)*
+
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="access"></a>Acceso
+
+- Esta corrección resuelve un problema por el que al intentar ejecutar determinadas consultas anteriormente se generaba el mensaje de error "La consulta es demasiado compleja".
+
+- Si tiene Office 365 instalado, ya no necesita instalar el nuestro motor de Componente redistribuíble de ACE para exponer ACE fuera del ecosistema de Office. Por ello, los usuarios con Office 365 ya no necesitarán el motor de Componente redistribuíble de ACE por lo que no debería experimentar este problema.
+
+- Este problema se ha resuelto: ahora puede usar el controlador ODBC fuera de las aplicaciones de Hacer clic y ejecutar de Office.
+
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema por el que si se cambia el orden de una serie de gráficos, la casilla de verificación correspondiente alineada con la serie no se reordenaba junto con la serie.
+
+- Se puede producir un error al intentar guardar un archivo que contiene una fórmula con la función LET().
+
+- Se corrigió un problema por el que los gráficos no siempre se actualizaban como se esperaba al habilitar "ForceFullCalculation" a través de VBA en el libro.
+
+- Se corrigió un problema por el que una copia de una imagen con un relleno degradado radial no coincidía con el original.
+
+### <a name="onenote"></a>OneNote
+
+- Se ha corregido un problema que provocaba que el texto de marcador de posición en el cuadro de edición de búsqueda se desbordase si se reducía el tamaño de la ventana de la aplicación.
+
+### <a name="outlook"></a>Outlook
+
+- Se corrigió un problema en la creación de varios perfiles en Outlook desde el mismo dominio de correo electrónico.
+
+- Se corrigió un problema que impedía a algunos usuarios de la característica Mejoras del calendario compartido ver un calendario compartido recién agregado.
+
+- Se corrigió un problema por el que el icono de bloqueo no se mostraba en el encabezado de los mensajes cifrados S/MIME.
+
+- Se corrigió un problema por el que la opción Permitir reenvío no aparecía en las Opciones de respuesta de las reuniones del calendario compartido en aquellos casos en los que la carpeta de descarga compartida NO se había comprobado.
+
+- Se ha corregido un problema que evitaba que los usuarios guardaran los datos adjuntos de OneDrive desde fuera de su inquilino en su equipo local al seleccionar la opción "Guardar" en el cuadro de diálogo de seguridad.
+
+- Se corrigió un problema por el que el botón Imprimir aparecía en un estado deshabilitado aunque el usuario tuviera los permisos de impresión adecuados.
+
+- Se corrigió un problema por el que los datos adjuntos se quitaban de mensajes S/MIME al enviarse sin cifrar.
+
+- Se corrigió un problema por el que los mensajes de texto sin formato S/MIME se volvían ilegibles al enviarse.
+
+- Se corrigió un problema por el que los datos adjuntos se dañaban al enviar un correo electrónico S/MIME sin cifrar.
+
+- Se corrigió un problema por el que los destinatarios no podían guardar los mensajes con derechos protegidos incluso cuando el remitente otorgaba el permiso de Guardar como.
+
+- Esta corrección aborda un problema que hacía que los usuarios no pudieran agregar una firma al responder a un mensaje administrado con derechos digitales desde una ventana de inspección cuando el usuario no tenía permisos de propietario sobre el mensaje al que se respondía.
+
+- La corrección aborda un problema que provocaba que Outlook no mostrara correctamente los saltos de línea en el contenido de Markdown.
+
+- Se corrigió un problema por el que las etiquetas de algunas opciones de Búsqueda avanzada se truncaban en algunos idiomas.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha corregido un problema por el que una copia de una imagen con un relleno degradado radial no coincidía con el original.
+
+- Se corrigió un problema por el que el botón Formularios de PowerPoint no permitía la creación de formularios cuando no se permitía el acceso a la Tienda Office.
+
+### <a name="project"></a>Project
+
+- Se corrigió un problema por el que las tareas que aparecen en la vista Panel de tareas no estaban sincronizadas con las del cuadro de diálogo Asignar recursos.
+
+- Se corrigió un problema que impedía al usuario guardar desde Project un PDF o XPS en una biblioteca de documentos de SharePoint.
+
+- Se corrigió un problema por el que si se copiaba y pegaba una tarea con varias dependencias, no se copiaban todas las dependencias correctamente.
+
+- Se corrigió un problema por el que en una lista de tareas de SharePoint, los botones de la cinta de opciones en la segunda pestaña se podían deshabilitar.
+
+### <a name="skype"></a>Skype
+
+- Se cambió el tono de piel del emoticono de baile a un color neutro
+
+### <a name="visio"></a>Visio
+
+- Después de esta corrección, si el usuario detiene la ejecución del comando Delete con algún mecanismo intermedio (en este caso, con un complemento) la memoria no se verá afectada, y no afectará a todo el equipo.
+
+### <a name="word"></a>Word
+
+- Se ha corregido un problema que provocaba que Word dejara de responder después de pegar texto y una imagen en un cuadro de comentarios.
+
+- Se corrigió un problema por el que una copia de una imagen con un relleno degradado radial no coincidía con el original.
+
+- Se ha corregido un problema que provocaba que el texto de marcador de posición en el cuadro de edición de búsqueda se desbordase si se reducía el tamaño de la ventana de la aplicación.
+
+- Se corrigió un problema por el que si se agregaba un comentario para realizar el seguimiento de un cambio, el panel de revisiones se abría de forma inesperada.
+
+- Se corrigió un problema por el que el comando Editor se deshabilitaba cuando el foco estaba en un cuadro de texto de comentario.
+
+- Se corrigió un problema por el que el comando Mostrar marcas se deshabilitaba cuando el foco estaba en un cuadro de texto de comentario.
+
+- Se corrigió un problema por el que el botón Nuevo comentario quedaba deshabilitado después de eliminar el último comentario.
+
+- Se corrigió un problema por el que se deshabilitaba la opción Personas específicas de Control de cambios.
+
+- Se corrigió un problema por el que los vínculos a los documentos no se insertaban en el cuadro de comentarios a través de la lista desplegable Insertar > Vínculo.
+
+- Se corrigió un bloqueo ocasional al abrir archivos HTML.
+
+- Se corrigió un problema en un archivo XML personalizado en el que se podía perder el estado de los comentarios al abrir el documento.
+
+- Se ha corregido un problema por el que el recuento de hipervínculos en la colección de hipervínculos de VBA no realizaba correctamente la iteración después de agregar una imagen que contenía un hipervínculo.
+
+- Para un antiguo panel de uso compartido basado en servicio no Web, al cerrar el documento mientras el panel de uso compartido está abierto, se podría producir un bloqueo. Este problema ya está solucionado.
+
+- Se corrigió un problema en el que, después de abrir el usuario una nueva ventana de la aplicación desde la barra de tareas y crear un nuevo documento en blanco, se creaban archivos adicionales.
+
+- Se corrigió un problema por el que, si un usuario estaba editando un documento pero había perdido los permisos, no se informaba al usuario de que tenía que volver a autenticarse.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2007-august-05"></a>Versión 2007: 05 de agosto
 *Versión 2007 (compilación 13029.20344)*
@@ -71,10 +190,6 @@ En este artículo hay notas de la versión para las compilaciones del canal actu
 ### <a name="outlook"></a>Outlook
 
 - **Elija dónde buscar:** La nueva lista desplegable del ámbito de búsqueda le permite modificar de manera más sencilla su búsqueda y cambiar entre la carpeta actual y el buzón actual. Gracias a todos los usuarios de Próximamente, quienes brindaron comentarios acerca de la nueva experiencia de búsqueda Search at Top. ¡Este diseño y actualización son el resultado de sus comentarios!
-
-### <a name="powerpoint"></a>PowerPoint
-
-- **Mejor rendimiento de vídeos de Stream en PowerPoint:** hemos realizado mejoras en el rendimiento de la reproducción de los vídeos de Microsoft Stream para reducir el tiempo de carga de vídeo y crear una visualización más suave. Use los vídeos corporativos de Microsoft Stream para crear presentaciones mejoradas.
 
 ### <a name="word"></a>Word
 
