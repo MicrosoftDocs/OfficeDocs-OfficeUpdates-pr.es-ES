@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales
-ms.openlocfilehash: e6eed857b8283a1fc54df709d9c467e86ef27abc
-ms.sourcegitcommit: a08ea72a9245e2d6136f3d9430a784777f2ff1e4
+ms.openlocfilehash: 5dd3ce25eb04453e84bfd6aa69bf54d50be666e3
+ms.sourcegitcommit: b710cf05db7ca14c8ee959b8cbe284e794d7c980
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "46590307"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "46695304"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de la versión para el canal beta
 
@@ -30,6 +30,27 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 [//]: # (NO ELIMINAR)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+## <a name="version-2009-august-14"></a>Versión 2009: 14 de agosto
+*Versión 2009 (Compilación 13205.20000)*
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Hemos corregido un problema en el que si un usuario escribía el nombre de una fórmula, incluidos los paréntesis, e invocaba ayuda a través de F1, el tema de ayuda específico de esa fórmula no se mostraba.
+- Se ha corregido un problema en el que los macros asignados a los botones no funcionaban después de restaurar una versión anterior del archivo.
+
+### <a name="outlook"></a>Outlook
+
+- Este cambio corrige un problema que hace que la página de Reunión continuara mostrándose después de que el usuario había cambiado de pestaña desde la página Reunión a la página del Asistente para programación.
+
+### <a name="word"></a>Word
+
+- Hemos corregido un problema en el que el icono de la imagen de viñeta no se mostraba correctamente.
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2009-august-07"></a>Versión 2009: 07 de agosto
 *Versión 2009 (compilación 13130.20000)*
@@ -1169,6 +1190,7 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13205.20000|version-2009-august-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|version-2009-august-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13127.20002|version-2008-july-31|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13117.20000|version-2008-july-24|)
