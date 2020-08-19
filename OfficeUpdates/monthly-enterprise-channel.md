@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de empresa para Aplicaciones de Microsoft 365 en 2020
-ms.openlocfilehash: 9e734fb545548386b10a62366c1b2fa93dc134f0
-ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
+ms.openlocfilehash: 64e8dff5a369300676ae6342ab76e4d8c6d2fae3
+ms.sourcegitcommit: 0f37f62725ac99324a39cffeca7f4ce750d98e28
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46634806"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "46798376"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Notas de la versión para las versiones de canal de empresa mensual en 2020
 
@@ -61,7 +61,9 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Cuente sus historias con GIF animados:** los GIF animados ahora son compatibles con el editor de Office: sus documentos han pasado a ser más elegantes.
 
-[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+- **Decirlo de otra forma:** si lo quiere decir de forma diferente, la reescritura le puede ayudar. La reescritura ofrece alternativas para afinar sus frases.<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2019/08/12/rewrite-in-word-say-it-another-way/)
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
 <br/>
 
@@ -146,12 +148,10 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - **Mejores resultados, en un instante:** actualizamos la experiencia de búsqueda para que sea más inteligente, rápida y fiable que nunca. [Más información](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
 
-### <a name="word"></a>Word
-
-- **Decirlo de otra forma:** si lo quiere decir de forma diferente, la reescritura le puede ayudar. La reescritura ofrece alternativas para afinar sus frases.<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2019/08/12/rewrite-in-word-say-it-another-way/)
 
 
-[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
 <br/>
 
@@ -510,7 +510,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 - Esta actualización corrige un problema en Visual Basic para aplicaciones en Microsoft Office en el que ciertos proyectos VBA que contienen referencias a bibliotecas de código con caracteres DBCS en el nombre de la biblioteca o en la ruta de la biblioteca serían vistos por la aplicación de Office como corruptos en la carga.
 
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
