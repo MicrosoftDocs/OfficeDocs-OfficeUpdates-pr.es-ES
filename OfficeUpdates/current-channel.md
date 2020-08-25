@@ -256,7 +256,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 ### <a name="word"></a>Word
 
-- **Confirmación de acción en lectores de pantalla:** la confirmación de la acción es un requisito de accesibilidad importante. Con la introducción de una nueva API de notificación de Windows, ahora podemos alertar a los usuarios de lectores de pantalla sobre el éxito de sus acciones. Las opciones de cortar, copiar, pegar, negrita, cursiva, subrayado, deshacer, rehacer, corrección automática y uso automático de mayúsculas ahora se anuncian a los usuarios del narrador en Word Win32. Para habilitar esta característica active el narrador presionando Windows + Ctrl + Entrar.
+- **Confirmación de acción en lectores de pantalla:** la confirmación de la acción es un requisito de accesibilidad importante. Con la introducción de una nueva API de notificación de Windows, ahora podemos alertar a los usuarios de lectores de pantalla sobre el éxito de sus acciones. Las opciones de cortar, copiar, pegar, negrita, cursiva, subrayado, deshacer, rehacer, corrección automática y uso automático de mayúsculas ahora se anuncian a los usuarios del narrador en Word Win32. Para habilitar esta característica, active el narrador presionando Windows + Ctrl + Entrar.
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
