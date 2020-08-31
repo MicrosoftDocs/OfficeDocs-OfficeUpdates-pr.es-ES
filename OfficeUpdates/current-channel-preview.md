@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider Lento la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 580dfcb7a5360c3a9dabb2f1c3667b24b8b5f60a
-ms.sourcegitcommit: 52894617de8b2f9e74dd58163bee481377cbce45
+ms.openlocfilehash: b14aec3680a609752ae84dbd3d9c12732e01345f
+ms.sourcegitcommit: d7a1fa2d08122b27a4fb4a6f7c89f8c88f15a8a8
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "46895704"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47294382"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notas de la versión del canal actual de Office (versión preliminar)
 
@@ -27,6 +27,46 @@ En este artículo hay notas de la versión para las compilaciones del canal actu
 > - La fecha de publicación de las notas de versión pueden no coincidir con la fecha real de lanzamiento de la compilación.
 
 [//]: # (NO ELIMINAR)
+
+## <a name="version-2008-august-27"></a>Versión 2008: 27 de agosto
+*Versión 2008 (Compilación 13127.20296)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="outlook"></a>Outlook
+
+- **Reciba sugerencias por datos adjuntos al realizar una búsqueda:** A medida que escriba los términos de búsqueda en Outlook, recibirá los archivos más relevantes en las sugerencias.
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="outlook"></a>Outlook
+
+- Corrige un problema que evitaba que los usuarios que intentaran crear una solicitud de reunión desde una cuenta secundaria añadida a su perfil vieran el campo De: en blanco en lugar de su dirección de correo electrónico.
+
+- Corrige un problema que evitaba que los usuarios se conectaran a las carpetas públicas luego de agregar un buzón compartido.
+
+- Corrige un problema que provocaba que los usuarios experimentaran bloqueos ocasionales al interactuar con datos adjuntos en la nube.
+
+- Esto corrige un problema que provocaba que los usuarios experimentaran bloqueos ocasionales al editar los destinatarios.
+
+- Corrige un problema que provocaba que los usuarios vieran anomalías al usar la vista compacta.
+
+### <a name="word"></a>Word
+
+- Este cambio corrige un problema que provocaba que las aplicaciones de Office se queden atascadas en un estado de error de guardado silencioso después de una sesión de coautoría anterior.
+
+- Se ha corregido un problema por el que se ejecuta la macro AutoOpen antes de AutoExec.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL FIN DE CONTENIDO)
 
 ## <a name="version-2008-august-25"></a>Versión 2008: 25 de agosto
 *Versión 2008 (Compilación 13127.20268)*
