@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365 en 2020
-ms.openlocfilehash: 8e6bae8a355d7d42e43c90db51355c42d9226198
-ms.sourcegitcommit: 52894617de8b2f9e74dd58163bee481377cbce45
+ms.openlocfilehash: 753f95cd70404c2fb027d500409d83919be495f4
+ms.sourcegitcommit: 7334591a0116e3ec442be378a72bec42826cc506
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "46895703"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "47291078"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notas de la versión para las versiones del canal actual en 2020
 
@@ -26,6 +26,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
  > [!NOTE]
 >
 >- A menudo distribuimos características (y a veces incluso correcciones) para el canal actual durante un período de tiempo.  Si no ve algo que se describe a continuación de inmediato, lo verá pronto. [Más información](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
+>- Las características de Microsoft Teams pueden diferir del último canal actual publicado ya que tienen una cadencia de publicación más frecuente.
 
 
 
