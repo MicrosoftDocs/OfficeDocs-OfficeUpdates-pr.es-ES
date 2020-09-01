@@ -58,8 +58,8 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 
 ### <a name="excel"></a>Excel
 
-- Se ha corregido un problema por el que al usar una macro para establecer la propiedad FormulaR1C1 para un rango las referencias de celda eran incorrectas si una hoja de gráfico era la hoja activa.
-- Se ha corregido un problema por el que las entradas manuscritas podrían causar que Excel dejara de responder.
+- Se ha corregido un problema por el que, al usar una macro para establecer la propiedad FormulaR1C1 para un rango, las referencias de celda eran incorrectas si una hoja de gráfico era la hoja activa.
+- Se ha corregido un problema por el que las entradas manuscritas podrían hacer que Excel dejara de responder.
 
 ### <a name="outlook"></a>Outlook
 
