@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365 en 2020
-ms.openlocfilehash: 753f95cd70404c2fb027d500409d83919be495f4
-ms.sourcegitcommit: 7334591a0116e3ec442be378a72bec42826cc506
+ms.openlocfilehash: a0ddedfa36170790d7d21ba7ac27fdd677fab501
+ms.sourcegitcommit: 28b617b37fdd0d1ac629b12b20970d8f300d5122
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "47291078"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "47319016"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notas de la versión para las versiones del canal actual en 2020
 
@@ -32,6 +32,108 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+
+## <a name="version-2008-august-31"></a>Versión 2008: 31 de agosto
+*Versión 2008 (compilación 13127.20296)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Guardar en carpetas fijadas:** anclar las carpetas facilita el almacenamiento de archivos de Office. Recibimos un comentario en el que se nos informa de que los usuarios desean tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. [Más información](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+
+### <a name="outlook"></a>Outlook
+
+- **Vínculos mejorados en el correo electrónico:** al incluir un vínculo a un archivo, la dirección URL se reemplaza por el nombre del archivo. Puede cambiar los permisos para que todos los destinatarios tengan acceso. [Más información](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)
+
+- **Compatibilidad con idiomas naturales en Búsqueda:** con la implementación del Soporte en lenguaje natural en Búsqueda, los usuarios pueden filtrar fácilmente los resultados de la búsqueda sin tener que recordar la sintaxis específica de búsqueda.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Guardar en carpetas fijadas:** anclar las carpetas facilita el almacenamiento de archivos de Office. Recibimos un comentario en el que se nos informa de que los usuarios desean tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. [Más información](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+
+### <a name="teams"></a>Teams
+
+- **Combinar llamada:** esta función ofrece a los usuarios finales la capacidad de combinar una llamada individual activa no retenida con otra llamada individual o grupal. Esto aplica para las llamadas VOIP de Teams y las llamadas de RTC.
+
+- **Los administradores pueden configurar la presencia de acuerdo con los turnos (de turno, fuera de turno) para sus trabajadores de primera línea:** los administradores pueden configurar los estados de sus trabajadores de primera línea de acuerdo con sus turnos: De turno, Ocupado (puede alternar cuando esté de turno) y Fuera de turno.
+
+- **Habilidades de voz de Cortana en Teams:** las habilidades de voz de Cortana en la aplicación móvil de Teams ayuda a los usuarios a llevar a cabo las tareas de reuniones, comunicación y colaboración con tan solo usar lenguaje natural hablado. Los usuarios pueden hablarle a Cortana al hacer clic en el botón de micrófono en la aplicación Teams y hacer solicitudes, como "Llamar a Megan" o "Enviar un mensaje para mi próxima reunión", si necesitan contactar a otras personas mientras hacen las tareas del hogar, pasean al perro o, en general, sobre la marcha. Los usuarios pueden unirse a las reuniones con tan solo decir "Unirme a mi próxima reunión" o bien, comprobar su calendario al preguntar "¿Qué tengo que hacer esta mañana?". Una vez en la reunión o llamada, pueden invocar a Cortana desde el menú de desbordamiento en la fase de reunión y realizar tareas habituales de la reunión como agregar personas por nombre o número ("Agrega a Megan a la llamada"), presentar conjuntos de diapositivas ("Presentar el conjunto de diapositivas de la revisión trimestral") o desplazarse por las diapositivas ("Ir a la diapositiva de apéndice"). Otras actividades compatibles con la característica incluyen encontrar y compartir archivos, buscar y, en general, navegar por la aplicación Teams ("Abrir el chat con John, Ir a mis actividades no leídas, Ir a mis menciones”, etc.). Cortana en Teams cumple las mismas promesas de privacidad, seguridad y cumplimiento de nivel empresarial para los servicios de empresas de Cortana, tal como se refleja en el los [Términos de los servicios en línea (OST)](https://www.microsoft.com/licensing/product-licensing/products).
+
+- **Aumento del chat de grupo:** Teams ahora agregó la capacidad para incluir a 250 participantes en un chat grupal.
+
+- **Etiquetado por turno:** con esta característica, se les asignan automáticamente a los usuarios las etiquetas que coincidan con su programación y turno por nombre del grupo en la [aplicación Turnos](https://support.microsoft.com/office/get-started-in-shifts-5f3e30d8-1821-4904-be26-c3cd25a497d6#bkmk_openshiftsappdesktop) de Teams.
+
+### <a name="word"></a>Word
+
+- **Guardar en carpetas fijadas:** anclar las carpetas facilita el almacenamiento de archivos de Office. Recibimos un comentario en el que se nos informa de que los usuarios desean tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. [Más información](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- **Paneles con pestañas:** ahora puede cambiar entre varios paneles con la pestaña situada en la parte derecha de la aplicación. Esta interfaz de usuario solo será visible cuando haya dos o más paneles abiertos.<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/02/20/improved-pane-management/)
+
+
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="access"></a>Acceso
+
+- Este problema fue resuelto: ahora puede usar el controlador ODBC fuera de las aplicaciones de Hacer clic y ejecutar de Office.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrige un problema que evitaba que los usuarios que intentaran crear una solicitud de reunión desde una cuenta secundaria añadida a su perfil vieran el campo De: en blanco en lugar de su dirección de correo electrónico.
+
+- Corrige un problema que evitaba que los usuarios se conectaran a las carpetas públicas luego de agregar un buzón compartido.
+
+- Se ha corregido un problema que provocaba un error al tratar de eliminar las reuniones del calendario de un administrador, cuando un delegado las rechazaba en determinadas circunstancias.
+
+- Se corrigió un problema que impedía a algunos usuarios de la característica Mejoras del calendario compartido ver un calendario compartido recién agregado.
+
+- Corrige un problema que provocaba que los usuarios experimentaran bloqueos ocasionales al interactuar con los datos adjuntos en la nube.
+
+- Se ha corregido un problema que provocaba que los usuarios de algunos juegos de caracteres viesen nombres de archivo que se mostraban de forma incorrecta al agregar un vínculo inteligente a un archivo de SharePoint.
+
+- Corrige un problema que provocaba que los usuarios experimentaran un bloqueo al responder o redactar un correo nuevo.
+
+- Se ha corregido un problema que provocaba que los usuarios experimentaran un error al eliminar 4 o más mensajes de correo electrónico de una cuenta POP con la opción "Descargar solo encabezados" seleccionada.
+
+- Se ha corregido un problema que impedía a algunos usuarios visualizar correctamente la página del Asistente para programación.
+
+- Esto corrige un problema que provocaba que los usuarios experimentaran bloqueos ocasionales al editar los destinatarios.
+
+- Corrige un problema que provocaba que los usuarios vieran anomalías al usar la vista compacta.
+
+- Se ha corregido un problema que provocaba que el menú contextual del botón derecho no apareciera en los controles de búsqueda.
+
+- Corrige un problema que provocaba que los usuarios recibieran el siguiente error al responder a un correo o al redactar uno nuevo: "Algunos archivos de esta página web no están en la ubicación esperada. ¿Desea descargarlos de todos modos? Si está seguro de que la página web es una fuente de confianza, haga clic en Sí".
+
+
+### <a name="project"></a>Project
+
+- Se ha corregido un problema en el que la fecha de finalización de Project no se actualiza para los proyectos conectados a la lista de tareas de SharePoint.
+
+- Se ha corregido un problema debido al cual, si un recurso tenía más de una tabla de tasa de costo definida, el costo restante no siempre se calculaba correctamente.
+
+### <a name="skype"></a>Skype
+
+- Se cambió el tono de piel del emoticono de baile a un color neutro
+
+### <a name="word"></a>Word
+
+- Este cambio corrige un problema que provocaba que las aplicaciones de Office se queden atascadas en un estado de error de guardado silencioso después de una sesión de coautoría anterior.
+
+- Se ha corregido un problema por el que se ejecuta la macro AutoOpen antes de AutoExec.
 
 
 
@@ -1063,6 +1165,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 > Si necesita ayuda con algún problema de uso de Office, le recomendamos que publique la pregunta en el [foro de preguntas de Microsoft](https://answers.microsoft.com/) o [Tech Community](https://techcommunity.microsoft.com/), o bien puede ponerse en contacto con el [servicio de soporte técnico](https://support.microsoft.com/contactus).
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|CC|Producción| |16.0.13127.20296|versión-2008-31-agosto|)
 [//]: # (|Win32|CC|Producción| |16.0.13029.20460|versión-2007-25-agosto|)
 [//]: # (|Win32|CC|Producción| |16.0.13029.20344|versión-2007-11-agosto|)
 [//]: # (|Win32|CC|Producción| |16.0.13029.20308|versión-2007-julio-30|)
