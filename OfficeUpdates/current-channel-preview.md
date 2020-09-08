@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider Lento la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 8953376164e06da93d331a31a86d43b8d3bbf3ab
-ms.sourcegitcommit: 24a6f5290f2c3a86c9109d64ff0ed39b2de9337c
+ms.openlocfilehash: 3ad72b7012b7220dfce130c8976158a496624882
+ms.sourcegitcommit: 770b87eb73d3fd4142157eef2bcc5bc9bc8f95a6
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "47341036"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "47399667"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notas de la versión del canal actual de Office (versión preliminar)
 
@@ -27,6 +27,20 @@ En este artículo hay notas de la versión para las compilaciones del canal actu
 > - La fecha de publicación de las notas de versión pueden no coincidir con la fecha real de lanzamiento de la compilación.
 
 [//]: # (NO ELIMINAR)
+
+## <a name="version-2008-september-04"></a>Versión 2008: 04 de septiembre
+*Versión 2008 (compilación 13127.20378)*
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Este cambio resuelve un problema con el cuadro de diálogo de Comprimir imagen, que no retiene determinadas configuraciones de usuario.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2008-september-02"></a>Versión 2008: 02 de septiembre
 *Versión 2008 (compilación 13127.20360)*

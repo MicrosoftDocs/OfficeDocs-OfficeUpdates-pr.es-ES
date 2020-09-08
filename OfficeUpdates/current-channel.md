@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365 en 2020
-ms.openlocfilehash: a0ddedfa36170790d7d21ba7ac27fdd677fab501
-ms.sourcegitcommit: 28b617b37fdd0d1ac629b12b20970d8f300d5122
+ms.openlocfilehash: 239ab8450f6aaf71f7dd6b4730d1832170ac9b56
+ms.sourcegitcommit: d93d7fb502ee4afac66dbccfe6a4397baa9eebc6
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "47319016"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364181"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notas de la versión para las versiones del canal actual en 2020
 
@@ -49,9 +49,9 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 ### <a name="outlook"></a>Outlook
 
-- **Vínculos mejorados en el correo electrónico:** al incluir un vínculo a un archivo, la dirección URL se reemplaza por el nombre del archivo. Puede cambiar los permisos para que todos los destinatarios tengan acceso. [Más información](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)
+- **Vínculos mejorados en el correo electrónico:** al incluir un vínculo a un archivo, la dirección URL se reemplaza por el nombre del archivo. Puede cambiar los permisos para que todos los destinatarios tengan acceso. [Más información](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)
 
-- **Compatibilidad con idiomas naturales en Búsqueda:** con la implementación del Soporte en lenguaje natural en Búsqueda, los usuarios pueden filtrar fácilmente los resultados de la búsqueda sin tener que recordar la sintaxis específica de búsqueda.
+
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -922,6 +922,17 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 *Versión 2002 (compilación 12527.20278)*
 
 Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="powerpoint"></a>PowerPoint
+
+- **Vínculo a la diapositiva:** Pídale a un compañero que participe en la presentación de diapositivas y llévelo directamente a la diapositiva con la que necesita ayuda.
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
