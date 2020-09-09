@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI un historial de actualizaciones para las versiones perpetuas de Office 2010 que usan Hacer clic y ejecutar.
-ms.openlocfilehash: 9e3ae5ac437c67270c7e8fdb561887249cff3ddf
-ms.sourcegitcommit: 79f26d59de01abb85869e9d91f3af30129709f62
+ms.openlocfilehash: 734ec43002528cfe422a26c6fdf56e48fe4275ab
+ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46637688"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "47413158"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Historial de actualizaciones para productos de Hacer clic y ejecutar de Office 2010
 
@@ -33,7 +33,7 @@ Los siguientes productos de Office 2010 se actualizan automáticamente mediante 
 Si usa uno de estos productos y desea asegurarse de que dispone de las últimas actualizaciones, compruebe su número de versión de Office y actualice manualmente Office si es necesario.
   
 > [!NOTE]
-> La versión más reciente de Office 2010 es **14.0.7257.5000**, que se presentó el 11 de agosto de 2020.
+> La versión más reciente de Office 2010 es **14.0.7258.5000**, que se ha lanzado el 8 de septiembre de 2020.
   
 Para comprobar su versión de Office, siga estos pasos:
   
@@ -57,7 +57,8 @@ Las versiones nuevas incluyen todas las actualizaciones de versiones anteriores.
   
 |**Año de publicación**|**Fecha de publicación**|**Número de versión**|**Más información**|
 |:-----|:-----|:-----|:-----|
-|2020| 11 de agosto <br/>|14.0.7257.5000 <br/>|[KB 4563408](https://support.microsoft.com/help/4563408) <br/>|
+|2020|8 de septiembre|14.0.7258.5000 <br/> |[KB 4576653](https://support.microsoft.com/help/4576653)<br/>|
+|| 11 de agosto <br/>|14.0.7257.5000 <br/>|[KB 4563408](https://support.microsoft.com/help/4563408) <br/>|
 ||14 de julio <br/> |14.0.7254.5000 <br/> |[KB 4559453](https://support.microsoft.com/help/4559453) <br/>|
 ||9 de junio  <br/> |14.0.7252.5000  <br/> |[KB 4559448](https://support.microsoft.com/help/4559448 ) <br/> |
 ||12 de mayo  <br/> |14.0.7249.5000  <br/> |[KB 4549680 ](https://support.microsoft.com/help/4549680 ) <br/> |
