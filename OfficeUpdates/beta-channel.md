@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales
-ms.openlocfilehash: ac7805c2d64654f7c2bb2589f0df964f696fd65e
-ms.sourcegitcommit: 01644a92de14661e9f84a777deb504226b9a2bcc
+ms.openlocfilehash: eb4b836572e45be9d0e67facda63c4aa3b77d361
+ms.sourcegitcommit: 7a1e592270aad83a5496f7946c3c2af9d6b4e42f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47300314"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "47395429"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de la versión para el canal beta
 
@@ -30,6 +30,79 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 [//]: # (NO ELIMINAR)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+## <a name="version-2010-september-04"></a>Versión 2010: 04 de septiembre 
+*Versión 2010 (Compilación 13301.20004)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Crear tipos de datos con Power Query:** crear tipos de datos enriquecidos con Power Query desde cualquier origen de datos
+
+- **Alineación de marca de Azure Synapse Analytics:** se cambió el nombre del conector de datos de Azure SQL Data Warehouse a Azure Synapse Analytics.
+
+### <a name="outlook"></a>Outlook
+
+- **Anclar correo electrónico:** esta característica permite a los usuarios realizar un seguimiento de los correos electrónicos a los que necesitan volver o tenerlos como recordatorio manteniéndolos en la parte superior de la lista de mensajes.
+
+- **Reciba sugerencias de correo electrónico al buscar por persona:** a medida que escriba los términos de búsqueda en Outlook, recibirá los correos electrónicos más relevantes en las sugerencias.
+
+- **Reciba sugerencias de correo electrónico al buscar por persona:** a medida que escriba los términos de búsqueda en Outlook, recibirá los correos electrónicos más relevantes en las sugerencias.
+
+- **Microsoft Editor proporciona una actualización para los clientes de escritorio de Word y Outlook:** añadimos un nuevo modelo de revisión con un clic para las sugerencias de estilo, gramática y ortografía avanzada del Editor. Este cambio también incluye una nueva superficie de tarjeta dedicada para revisar las sugerencias.
+
+### <a name="word"></a>Word
+
+- **Microsoft Editor proporciona una actualización para los clientes de escritorio de Word y Outlook:** añadimos un nuevo modelo de revisión con un clic para las sugerencias de estilo, gramática y ortografía avanzada del Editor. Este cambio también incluye una nueva superficie de tarjeta dedicada para revisar las sugerencias.
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Se corrigió un problema por el cual si abría un archivo que contiene la función LET, mostraba la alerta: "Encontramos un problema con el contenido en "su archivo.xlsx". ¿Quiere que intentemos recuperar todo lo que podamos? Si confía en el origen de este libro, haga clic en Sí".
+- Se corrigió un bloqueo relacionado con las referencias de complementos XLAM y los rangos con nombre.
+- Se corrigió un problema por el cual los usuarios no podían modificar un filtro de tabla dinámica porque estaba configurado en un valor que ya no estaba presente en una base de datos de Analysis Services.
+- Se corrigió un problema por el que si un usuario aplicaba un estilo personalizado a una matriz dinámica, obtenía el error: "No se puede cambiar parte de una matriz". Esta era una restricción heredada que se ha eliminado.
+- Se corrigió un problema por el cual la barra de fórmulas de Excel no se mostraba completamente después de que se perdiera la conexión a un dispositivo, como una conexión o desconexión de sesión remota o un cambio de monitor.
+
+### <a name="outlook"></a>Outlook
+
+- Se corrigió un problema que proporciona más flexibilidad para habilitar o deshabilitar las opciones de registro predeterminadas mediante la directiva de grupo.
+- Se corrigió un problema por el que el nombre de dominio heredado de un remitente de correo electrónico se conservaba y mostraba después de que se moviera un borrador del correo electrónico entre buzones con permisos de asistente y permisos de administrador.
+- Se corrigió un problema que hacía que algunos usuarios vieran que Outlook se iniciaba en un estado sin conexión hasta que optaban manualmente por trabajar en línea.
+- Se corrigió un problema por el cual ejecutar el código VBA ActiveInspector.CommandBars.ExecuteMso("ShowSchedulingPage") después de habilitar Cinta de opciones de una línea (SLR) daba como resultado un error de tiempo de ejecución.
+- Se corrigió un problema por el cual los botones 'Aceptar' y 'Cancelar' en el cuadro de diálogo Respuestas automáticas no eran visibles en un sistema con una resolución alta (como 1750 x 1920) combinada con un tamaño de texto grande (como 175 %).
+- Se corrigió una condición por la que enviar una convocatoria de reunión desde un grupo de contactos vacío a otro grupo de contactos provocaba un bloqueo.
+- Se corrigió un problema que provocaba que los usuarios experimentaran un bloqueo al abrir algunos correos electrónicos muy grandes.
+- Se corrigió un problema por el que si la directiva de grupo requiere que un complemento esté siempre habilitado, los complementos de supervisión no están disponibles para evitar que los usuarios deshabiliten el complemento.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se corrigió un problema por el que los vídeos no se reproducen automáticamente en las presentaciones.
+- Se corrigió un problema por el cual, después de iniciar PowerPoint, insertar una diapositiva y abrir y cerrar el panel de comentarios, las diapositivas en el panel de miniaturas se mostraban superpuestas.
+
+### <a name="project"></a>Project
+
+- Se corrigió un problema por el cual si un recurso tiene varias tablas de tasas de coste, es posible que el coste restante no se calcule correctamente.
+- Se corrigió un problema por el que la fecha de finalización de Project no se actualizaba para los proyectos conectados a la lista de tareas de SharePoint.
+
+### <a name="word"></a>Word
+
+- Se corrigió un problema por el cual la tarjeta de Comentarios mostraba un borde alrededor del texto del comentario si el usuario hacía clic en el comentario.
+- Se corrigió un problema por el cual el foco no iba al panel de comentarios si el documento se ampliaba al 160 % o más y el panel de comentarios no estaba visible.
+- Se corrigió un problema por el cual los comentarios de un documento se mostraban en otros documentos abiertos después de cambiar entre varios documentos abiertos.
+- Se corrigió un problema por el cual si un usuario creaba un borrador de comentario anclado a una línea que ya contenía comentarios comprometidos, el borrador se organizaba en el orden incorrecto en relación con el comentario comprometido en SideTrack.
+- Se corrigió un problema por el cual los vínculos largos no se ajustaban al guardar un documento en formato HTML.
+- Se corrigió un problema con las macros en las que AutoOpen se ejecuta antes de AutoExec.
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2009-august-28"></a>Versión 2009: 28 de agosto
 *Versión 2009 (compilación 13219.20004)*
@@ -1258,6 +1331,7 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13219.20004|version-2009-august-28|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|version-2009-august-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13205.20000|version-2009-august-14|)

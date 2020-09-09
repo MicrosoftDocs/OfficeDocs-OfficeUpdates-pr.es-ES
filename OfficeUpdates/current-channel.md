@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365 en 2020
-ms.openlocfilehash: 239ab8450f6aaf71f7dd6b4730d1832170ac9b56
-ms.sourcegitcommit: d93d7fb502ee4afac66dbccfe6a4397baa9eebc6
+ms.openlocfilehash: b3e74d8867a1970350b2aed1cbc792edb7cfb38e
+ms.sourcegitcommit: 770b87eb73d3fd4142157eef2bcc5bc9bc8f95a6
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "47364181"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "47399657"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notas de la versión para las versiones del canal actual en 2020
 
@@ -525,8 +525,27 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-2005-june-09"></a>Versión 2005: 9 de junio
 *Versión 2005 (compilación 12827.20336)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Lazo y borrador en el Cuadro de herramientas de entrada de lápiz:** al usar las herramientas de dibujo, el lazo y el borrador están ahora disponibles en Cuadro de herramientas de entrada de lápiz.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Lazo y borrador en el Cuadro de herramientas de entrada de lápiz:** al usar las herramientas de dibujo, el lazo y el borrador están ahora disponibles en Cuadro de herramientas de entrada de lápiz.
+
+### <a name="word"></a>Word
+
+- **Lazo y borrador en el Cuadro de herramientas de entrada de lápiz:** al usar las herramientas de dibujo, el lazo y el borrador están ahora disponibles en Cuadro de herramientas de entrada de lápiz.
+
+
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
