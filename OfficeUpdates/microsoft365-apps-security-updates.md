@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión de las actualizaciones de seguridad de Microsoft Office
-ms.openlocfilehash: d9485549b015ae78f3bfe524f8fbcda55bf3c522
-ms.sourcegitcommit: c018dbeeecba6e838bd5fc6178ba1cc78680415f
+ms.openlocfilehash: ae1402e77905e221cbcd0a6736ad3fb4ba4d507b
+ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/12/2020
-ms.locfileid: "46641806"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "47413088"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Notas de la versión para las actualizaciones de seguridad de Microsoft Office
 
@@ -31,6 +31,39 @@ Esta información se aplica a las Aplicaciones de Microsoft 365 para empresas, l
  
 
 [//]: # (NO QUITAR LA LÍNEA ANTERIOR, se usa para el espaciado)  
+
+## <a name="september-08-2020"></a>8 de septiembre de 2020
+Canal empresarial mensual: versión 2007 (compilación 13029.20534)  
+Canal empresarial mensual: versión 2006 (compilación 13001.20648)  
+Canal empresarial semestral (vista previa): versión 2008 (compilación 13127.20408)  
+Canal empresarial semestral: versión 2002 (compilación 12527.21104)  
+Canal empresarial semestral: versión 1908 (compilación 11929.20946)  
+Licencia por volumen de Office 2019: versión 1808 (compilación 10366.20016)  
+
+[//]: # (NO ELIMINAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO INICIAL)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1594](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1594)
+-   [CVE-2020-1335](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1335)
+-   [CVE-2020-1224](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1224)
+-   [CVE-2020-1332](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1332)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-1338](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1338)
+-   [CVE-2020-1218](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1218)
+-   [CVE-2020-1445](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1445)
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+-   [CVE-2020-1458](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1458)
+-   [CVE-2020-1193](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-1193)
+
+[//]: # (NO ELIMINAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO FINAL)
+
+
 
 ## <a name="august-11-2020"></a>11 de agosto de 2020
 Canal actual: versión 2007 (compilación 13029.20344)  
