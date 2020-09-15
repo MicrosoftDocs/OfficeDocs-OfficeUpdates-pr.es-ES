@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365 en 2020
-ms.openlocfilehash: 4032a576a996076dd4c352112e7be533dce4c3bc
-ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
+ms.openlocfilehash: d3309f60d502cdcc50564028e8de5954a43af71f
+ms.sourcegitcommit: 931b78282277a0d12779c6b4cae33181b4568c34
 ms.translationtype: HT
 ms.contentlocale: es-ES
 ms.lasthandoff: 09/09/2020
-ms.locfileid: "47413058"
+ms.locfileid: "47420754"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notas de la versión para las versiones del canal actual en 2020
 
@@ -32,6 +32,38 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+
+## <a name="version-2008-september-09"></a>Versión 2008: 09 de septiembre
+*Versión 2008 (Compilación 13127.20408)*
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="access"></a>Acceso
+
+- Access ha corregido este problema actual, pero se está investigando en nuestras interfaces adicionales para asegurarnos de que este problema no persista. El equipo le informará sobre actualizaciones futuras. Agradecemos su paciencia.
+
+
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema que provocaba que Excel se bloqueara en determinadas circunstancias al usar Copiar formato.
+
+
+### <a name="word"></a>Word
+
+- Se ha corregido un problema que provocaba que el usuario pudiera perder contenido al cambiar el tamaño de una forma.
+
+
+- Se ha corregido un problema que provocaba que los estilos base no se actualizaran con el estilo Normal.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Este cambio resuelve un problema con el cuadro de diálogo de Comprimir imagen, que no retiene determinadas configuraciones de usuario.
 
 
 
@@ -1201,6 +1233,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 > Si necesita ayuda con algún problema de uso de Office, le recomendamos que publique la pregunta en el [foro de preguntas de Microsoft](https://answers.microsoft.com/) o [Tech Community](https://techcommunity.microsoft.com/), o bien puede ponerse en contacto con el [servicio de soporte técnico](https://support.microsoft.com/contactus).
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|CC|Production| |16.0.13127.20408|versión-2008-09-septiembre|)
 [//]: # (|Win32|CC|Producción| |16.0.13127.20296|versión-2008-31-agosto|)
 [//]: # (|Win32|CC|Producción| |16.0.13029.20460|versión-2007-25-agosto|)
 [//]: # (|Win32|CC|Producción| |16.0.13029.20344|versión-2007-11-agosto|)

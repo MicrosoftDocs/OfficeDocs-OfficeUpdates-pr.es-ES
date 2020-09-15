@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales
-ms.openlocfilehash: ddff6144ac2e7ae86bfbfdb40bfe2b9802bfd347
-ms.sourcegitcommit: 3832aa4f4117ee05f88018a2227b3f4a51550ea9
+ms.openlocfilehash: 4ca5dc1d6e3050de558adfad9ea3c7709ca79d46
+ms.sourcegitcommit: 67f8d4a8655b95abc51fc6a81ff7142baf2194d4
 ms.translationtype: HT
 ms.contentlocale: es-ES
 ms.lasthandoff: 09/11/2020
-ms.locfileid: "47431579"
+ms.locfileid: "47449563"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de la versión para el canal beta
 
@@ -30,6 +30,69 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 [//]: # (NO ELIMINAR)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+## <a name="version-2010-september-11"></a>Versión 2010: 11 de septiembre
+*Versión 2010 (Compilación 13304.20000)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="access"></a>Acceso
+
+- **Office puede seguir con la configuración de modo oscuro de Windows 10:** ¿Usa Windows 10 en modo oscuro? Ahora Office puede cambiar entre temas de modo que coincidan de manera automática: Solo seleccione "Usar configuración del sistema" como tema de Office.
+
+### <a name="excel"></a>Excel
+
+- **Office puede seguir con la configuración de modo oscuro de Windows 10:** ¿Usa Windows 10 en modo oscuro? Ahora Office puede cambiar entre temas de modo que coincidan de manera automática: Solo seleccione "Usar configuración del sistema" como tema de Office.
+
+### <a name="onenote"></a>OneNote
+
+- **Office puede seguir con la configuración de modo oscuro de Windows 10:** ¿Usa Windows 10 en modo oscuro? Ahora Office puede cambiar entre temas de modo que coincidan de manera automática: Solo seleccione "Usar configuración del sistema" como tema de Office.
+
+### <a name="outlook"></a>Outlook
+
+- **Office puede seguir con la configuración de modo oscuro de Windows 10:** ¿Usa Windows 10 en modo oscuro? Ahora Office puede cambiar entre temas de modo que coincidan de manera automática: Solo seleccione "Usar configuración del sistema" como tema de Office.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Office puede seguir con la configuración de modo oscuro de Windows 10:** ¿Usa Windows 10 en modo oscuro? Ahora Office puede cambiar entre temas de modo que coincidan de manera automática: Solo seleccione "Usar configuración del sistema" como tema de Office.
+
+### <a name="project"></a>Project
+
+- **Office puede seguir con la configuración de modo oscuro de Windows 10:** ¿Usa Windows 10 en modo oscuro? Ahora Office puede cambiar entre temas de modo que coincidan de manera automática: Solo seleccione "Usar configuración del sistema" como tema de Office.
+
+### <a name="publisher"></a>Publisher
+
+- **Office puede seguir con la configuración de modo oscuro de Windows 10:** ¿Usa Windows 10 en modo oscuro? Ahora Office puede cambiar entre temas de modo que coincidan de manera automática: Solo seleccione "Usar configuración del sistema" como tema de Office.
+
+### <a name="visio"></a>Visio
+
+- **Office puede seguir con la configuración de modo oscuro de Windows 10:** ¿Usa Windows 10 en modo oscuro? Ahora Office puede cambiar entre temas de modo que coincidan de manera automática: Solo seleccione "Usar configuración del sistema" como tema de Office.
+
+### <a name="word"></a>Word
+
+- **Office puede seguir con la configuración de modo oscuro de Windows 10:** ¿Usa Windows 10 en modo oscuro? Ahora Office puede cambiar entre temas de modo que coincidan de manera automática: Solo seleccione "Usar configuración del sistema" como tema de Office.
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema que provocaba un retraso considerable al cambiar entre hojas de cálculo con grandes cantidades de datos cuando la 'Vista previa de salto de página' estaba habilitada.
+
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema que provocaba que los correos electrónicos se ocultaran después de desactivar la Bandeja de entrada Prioritarios y ordenarlos.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha corregido un problema que provocaba que los GIF solo muestren la animación una vez en el editor y en las presentaciones.
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2010-september-04"></a>Versión 2010: 04 de septiembre 
 *Versión 2010 (Compilación 13301.20004)*
@@ -1329,6 +1392,7 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13219.20004|version-2009-august-28|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|version-2009-august-21|)
