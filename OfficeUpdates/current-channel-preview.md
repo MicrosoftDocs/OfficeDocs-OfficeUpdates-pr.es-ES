@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporciona a los participantes del modo anticipado de Insider Lento la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: cbb7abb985eccb0e7ee8669812ff4b9837565377
-ms.sourcegitcommit: 67f8d4a8655b95abc51fc6a81ff7142baf2194d4
+ms.openlocfilehash: 064769dde88f0198237af611b788ed02317235ba
+ms.sourcegitcommit: ba25ac98f7eb014f8730caee66fc34699c341121
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "47449553"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47816561"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notas de la versión del canal actual de Office (versión preliminar)
 
@@ -28,7 +28,17 @@ En este artículo hay notas de la versión para las compilaciones del canal actu
 
 [//]: # (NO ELIMINAR)
 
-## <a name="version-2009-september-10"></a>Versión 2009:10 de septiembre
+## <a name="version-2009-september-14"></a>Versión 2009: 14 de septiembre
+*Versión 2009 (compilación 13231.20152)*
+* Varias correcciones de errores y rendimiento.
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+## <a name="version-2009-september-10"></a>Versión 2009: 10 de septiembre
 *Versión 2009 (Compilación 13231.20126)*
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
