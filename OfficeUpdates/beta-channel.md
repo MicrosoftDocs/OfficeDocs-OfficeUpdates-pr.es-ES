@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales
-ms.openlocfilehash: 4ca5dc1d6e3050de558adfad9ea3c7709ca79d46
-ms.sourcegitcommit: 67f8d4a8655b95abc51fc6a81ff7142baf2194d4
+ms.openlocfilehash: be0f92656f096b888632bb73d10187305ab7be48
+ms.sourcegitcommit: ba25ac98f7eb014f8730caee66fc34699c341121
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "47449563"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47816581"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de la versión para el canal beta
 
@@ -100,10 +100,6 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
-### <a name="excel"></a>Excel
-
-- **Crear tipos de datos con Power Query:** crear tipos de datos enriquecidos con Power Query desde cualquier origen de datos.
-
 ### <a name="outlook"></a>Outlook
 
 - **Anclar correo electrónico:** esta característica permite a los usuarios realizar un seguimiento de los correos electrónicos a los que necesitan volver o tenerlos como recordatorio manteniéndolos en la parte superior de la lista de mensajes.
