@@ -1,20 +1,20 @@
 ---
 title: Historial de actualizaciones del Canal Office beta
-ms.author: andrewmo
+ms.author: anankani
 author: anankani
-manager: andrewmo
+manager: anankani
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a participantes del programa Insider el historial de actualizaciones de los lanzamientos del canal mensual del modo anticipado de Insider para versiones de escritorio de Windows
-ms.openlocfilehash: c5e4b6e3caa97357004b7d3ccafcbb5fd68af249
-ms.sourcegitcommit: 18b3341c6b8caebdcfa61a4d2b2a584e405178f4
+ms.openlocfilehash: 4955f2f844c4b52938626a9dc6dc071d88911c81
+ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/07/2020
-ms.locfileid: "47402828"
+ms.lasthandoff: 09/16/2020
+ms.locfileid: "47942817"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Historial de actualizaciones del Canal Office beta
 
@@ -37,6 +37,9 @@ Para obtener las notas de la versión, vea [notas de la versión de Insider de O
 
 
 [//]: # (NO ELIMINAR)
+
+**15 de septiembre de 2020**<br/>
+Versión 2010 (Compilación 13312.20006)<br/>
 
 **07 de septiembre de 2020**<br/>
 Versión 2010 (Compilación 13304.20000)<br/>
