@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporcionar a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: 67f78eb141917beb3111180fbdfe42f210c3ab4e
-ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
+ms.openlocfilehash: a0750c2e3c087a0504f0b7d00b864cd2b203d522
+ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47942857"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48174589"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notas de la versión del canal actual de Office (versión preliminar)
 
@@ -27,6 +27,74 @@ En este artículo hay notas de la versión para las compilaciones del canal actu
 > - La fecha de publicación de las notas de versión pueden no coincidir con la fecha real de lanzamiento de la compilación.
 
 [//]: # (NO ELIMINAR)
+
+## <a name="version-2009-september-21"></a>Versión 2009: 21 de septiembre
+*Versión 2009 (Compilación 13231.20200)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="access"></a>Acceso
+
+- **Cambiar los temas de Office automáticamente:** Office puede cambiar los temas automáticamente para que coincidan con la configuración de tema de Windows 10. Vaya a Archivo > Opciones y seleccione "Usar configuración del sistema" junto al Tema de Office. [Más información](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="excel"></a>Excel
+
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
+
+- **Cambiar los temas de Office automáticamente:** Office puede cambiar los temas automáticamente para que coincidan con la configuración de tema de Windows 10. Vaya a Archivo > Opciones y seleccione "Usar configuración del sistema" junto al Tema de Office. [Más información](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="onenote"></a>OneNote
+
+- **Cambiar los temas de Office automáticamente:** Office puede cambiar los temas automáticamente para que coincidan con la configuración de tema de Windows 10. Vaya a Archivo > Opciones y seleccione "Usar configuración del sistema" junto al Tema de Office. [Más información](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="outlook"></a>Outlook
+
+- **Eliminar conversación por propietario del mensaje:** esta característica permite eliminar una conversación por propietario del mensaje.
+
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
+
+- **Cambiar los temas de Office automáticamente:** Office puede cambiar los temas automáticamente para que coincidan con la configuración de tema de Windows 10. Vaya a Archivo > Opciones y seleccione "Usar configuración del sistema" junto al Tema de Office. [Más información](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
+
+- **Cambiar los temas de Office automáticamente:** Office puede cambiar los temas automáticamente para que coincidan con la configuración de tema de Windows 10. Vaya a Archivo > Opciones y seleccione "Usar configuración del sistema" junto al Tema de Office. [Más información](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="project"></a>Project
+
+- **Cambiar los temas de Office automáticamente:** Office puede cambiar los temas automáticamente para que coincidan con la configuración de tema de Windows 10. Vaya a Archivo > Opciones y seleccione "Usar configuración del sistema" junto al Tema de Office. [Más información](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="publisher"></a>Publisher
+
+- **Cambiar los temas de Office automáticamente:** Office puede cambiar los temas automáticamente para que coincidan con la configuración de tema de Windows 10. Vaya a Archivo > Opciones y seleccione "Usar configuración del sistema" junto al Tema de Office. [Más información](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="visio"></a>Visio
+
+- **Cambiar los temas de Office automáticamente:** Office puede cambiar los temas automáticamente para que coincidan con la configuración de tema de Windows 10. Vaya a Archivo > Opciones y seleccione "Usar configuración del sistema" junto al Tema de Office. [Más información](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="word"></a>Word
+
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
+
+- **Cambiar los temas de Office automáticamente:** Office puede cambiar los temas automáticamente para que coincidan con la configuración de tema de Windows 10. Vaya a Archivo > Opciones y seleccione "Usar configuración del sistema" junto al Tema de Office. [Más información](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha corregido un problema que provocaba la coautoría lenta en archivos que contienen números grandes de determinados tipos de objetos de datos (E2o).
+
+
+
+[//]: # (NO QUITAR EL EXTREMO DEL CONTENIDO CON LOS DETALLES DEL ERROR)
 
 ## <a name="version-2009-september-14"></a>Versión 2009: 14 de septiembre
 *Versión 2009 (compilación 13231.20152)*
