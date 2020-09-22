@@ -2,7 +2,7 @@
 title: Actualizaciones de Project Server
 ms.author: timda
 author: TimDavenport
-manager: andrewmo
+manager: TimDavenport
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -12,12 +12,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Encuentre y administre actualizaciones de Project Server 2013 y Project Server 2010 en una única ubicación. Use los vínculos de esta página para obtener más información sobre las actualizaciones y para descargarlas.
-ms.openlocfilehash: c13511d5d62126ac6a91e122265d72121dec30f4
-ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
+ms.openlocfilehash: 3bf2a62b25bee075d4ff271fb7042bdd6b636569
+ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "47413038"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48174549"
 ---
 # <a name="project-server-updates"></a>Actualizaciones de Project Server
 

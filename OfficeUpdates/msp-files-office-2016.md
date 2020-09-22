@@ -2,19 +2,19 @@
 title: Lista de los archivos. MSP más recientes para los productos de Office 2016
 ms.author: timda
 author: TimDavenport
-manager: andrewmo
+manager: TimDavenport
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de ti una lista de los archivos. MSP más recientes para las versiones perpetuas de Office 2016 que usan Windows Installer (MSI).
-ms.openlocfilehash: cc9f7f97499e5e360d4df1210302f7025150b1c4
-ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
+ms.openlocfilehash: 692a20b6c3e88fdfde6296ddadaa8180d1801c16
+ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "47413098"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48174569"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2016-products"></a>Lista de los archivos. MSP más recientes para los productos de Office 2016
 
