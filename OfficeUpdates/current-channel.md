@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365 en 2020
-ms.openlocfilehash: f9aa18090ec3cad58f37cd9699e1e85a74736992
-ms.sourcegitcommit: 751e19cd300a15d25b3757f8978ec491fc720740
+ms.openlocfilehash: 06a009030ac93c32e4085019e0daf70353c9f1b0
+ms.sourcegitcommit: 75494441a6d325f8cb947f1905fe623dce2f05f0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/18/2020
-ms.locfileid: "48100202"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48222486"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notas de la versión para las versiones del canal actual en 2020
 
@@ -32,6 +32,51 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+
+## <a name="version-2008-september-22"></a>Versión 2008: 22 de septiembre
+*Versión 2008 (Compilación 13127.20508)*
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema que provocaba que Excel se bloqueara al usar el Análisis rápido después de inmovilizar la fila superior de la hoja.
+
+
+- Se ha corregido un problema que podía producir una advertencia acerca de un libro dañado si contenía fórmulas que usan SI.ND.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrige un problema que provocaba que los usuarios no pudieran cerrar los calendarios compartidos haciendo clic en la "X" de la esquina.
+
+
+- Corrige un problema de rendimiento con la carga de archivos adjuntos.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha corregido un problema que provocaba el bloqueo en la aplicación de PowerPoint.
+
+
+### <a name="visio"></a>Visio
+
+- Los usuarios han reportado el bloqueo de la Vista previa dinámica en la alineación del texto. Bloqueo al llegar a la parte superior en la bifurcación de repositorio de julio.
+
+
+### <a name="word"></a>Word
+
+- Se ha corregido un problema con el cuadro de diálogo Galería de estilos.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Corrige el uso elevado de la CPU en modo inactivo con GIF o modelo 3D animado
 
 
 
@@ -1233,6 +1278,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 > Si necesita ayuda con algún problema de uso de Office, le recomendamos que publique la pregunta en el [foro de preguntas de Microsoft](https://answers.microsoft.com/) o [Tech Community](https://techcommunity.microsoft.com/), o bien puede ponerse en contacto con el [servicio de soporte técnico](https://support.microsoft.com/contactus).
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|CC|Production| |16.0.13127.20508|versión-2008-22-septiembre|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20408|versión-2008-09-septiembre|)
 [//]: # (|Win32|CC|Producción| |16.0.13127.20296|versión-2008-31-agosto|)
 [//]: # (|Win32|CC|Producción| |16.0.13029.20460|versión-2007-25-agosto|)
