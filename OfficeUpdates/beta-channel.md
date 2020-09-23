@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales
-ms.openlocfilehash: 4c3c30f66df886e67c9e5b669fd41d192a62b662
-ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
+ms.openlocfilehash: c814f4877fe57ce57136626277f281fcbadc6b73
+ms.sourcegitcommit: 751e19cd300a15d25b3757f8978ec491fc720740
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47942796"
+ms.lasthandoff: 09/18/2020
+ms.locfileid: "48100212"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de la versión para el canal beta
 
@@ -30,6 +30,63 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 [//]: # (NO ELIMINAR)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+## <a name="version-2010-september-18"></a>Versión 2010:18 de septiembre
+*Versión 2010 (compilación 13312.20006)*
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="outlook"></a>Outlook
+
+- **Revisar los mensajes con el editor:** Ahora puede obtener sugerencias de gramática y de estilo en los mensajes de correo electrónico de los usuarios de 64 bits de Outlook. Busque las palabras subrayadas para ver las sugerencias del editor para refinar su escritura.
+
+- **Rompa la barrera del idioma con un traductor incorporado:** Los complementos para la traducción ya no son necesarios. En un mensaje, haga clic con el botón derecho para traducir palabras o frases específicas, o todo el mensaje.
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema con los gráficos de mapas 2D que provocaba que el uso de VBA para establecer los colores de los valores max, mid y min para una serie no funcione.
+
+
+- Se ha corregido un problema que aparecía cuando se configuraba el idioma de Office en español. Este problema provocaba que las listas de validación de datos puedan no mostrar todos los elementos de la lista.
+
+
+- Se ha corregido un problema que podría provocar un error que indicaba que Excel se quedó sin recursos al intentar calcular una o varias fórmulas.
+
+
+- Se ha corregido un problema que provocaba que ChartSheet se bloquee en ciertos casos cuando se insertaba una fórmula en la barra de fórmulas.
+
+
+### <a name="outlook"></a>Outlook
+
+- Cuando un usuario copia y pega una dirección de correo electrónico en el campo del destinatario con el nombre para mostrar, la dirección de correo electrónico no siempre se analizaba de forma correcta, y esto generaba que aparezca una advertencia sobre una dirección de correo electrónico no válida.  Se ha corregido y, por tanto, el nombre y la dirección de correo electrónico se analizan de forma correcta para que ya no se muestre la advertencia.
+
+
+### <a name="word"></a>Word
+
+- Se ha corregido un problema que provocaba que el hecho que un usuario seleccionara una marca de revisión (inserción o eliminación) mostrara un comentario emergente.
+
+
+- Se ha corregido un problema al eliminar llamadas de comentario en Word.
+
+
+- Se ha corregido un problema con Outlook al establecer un mensaje en No reenviar
+
+
+- Se ha corregido un problema al guardar un documento de Word que contenía cita y ecuación.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2010-september-11"></a>Versión 2010: 11 de septiembre
 *Versión 2010 (Compilación 13304.20000)*
@@ -274,19 +331,19 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="excel"></a>Excel
 
-- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="outlook"></a>Outlook
 
-- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="word"></a>Word
 
-- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en [entrada de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
 
 [//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
 
@@ -1388,6 +1445,7 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13312.20006|version-2010-september-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13219.20004|version-2009-august-28|)
@@ -1397,5 +1455,4 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 [//]: # (|Win32|DevMain|Insiders| |16.0.13127.20002|version-2008-july-31|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13117.20000|version-2008-july-24|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13115.20000|version-2008-july-17|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13102.20002|version-2008-july-10|)
 [//]: # (NO MODIFICAR FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
