@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365 en 2020
-ms.openlocfilehash: b19d5a9a0dab889d2c06b894a4143f856a959176
-ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
+ms.openlocfilehash: f9aa18090ec3cad58f37cd9699e1e85a74736992
+ms.sourcegitcommit: 751e19cd300a15d25b3757f8978ec491fc720740
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47942837"
+ms.lasthandoff: 09/18/2020
+ms.locfileid: "48100202"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notas de la versión para las versiones del canal actual en 2020
 
@@ -45,7 +45,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="access"></a>Acceso
 
-- Access ha corregido este problema actual, pero se está investigando en nuestras interfaces adicionales para asegurarnos de que este problema no persista. El equipo le informará sobre actualizaciones futuras. Agradecemos su paciencia.
+- Este cambio corrige un problema que podía provocar que Access se bloqueara al iniciar el cuadro de Zoom (Mayús + F2) para editar el texto.
 
 
 ### <a name="excel"></a>Excel
@@ -1196,7 +1196,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Optimizar la presentación para todos:** El comprobador de accesibilidad le ayuda a organizar los objetos de las diapositivas pensando en los lectores de pantalla.
 
-- **GIF en un instante:** una diapositiva, un marco. Cree fácilmente archivos GIF en bucle en PowerPoint. [Más información](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **GIF en un instante:** una diapositiva, un marco. Cree fácilmente archivos GIF en bucle en PowerPoint. [Más información](https://support.office.com/es-ES/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
