@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 'Proporcionar a los participantes del modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos principales '
-ms.openlocfilehash: a0750c2e3c087a0504f0b7d00b864cd2b203d522
-ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
+ms.openlocfilehash: 6c935826b7492cd10ce1ced58f18b202a32730ae
+ms.sourcegitcommit: 99ac054b629a031233c9bad7b18896b84d2448ea
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48174589"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293202"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notas de la versión del canal actual de Office (versión preliminar)
 
@@ -27,6 +27,25 @@ En este artículo hay notas de la versión para las compilaciones del canal actu
 > - La fecha de publicación de las notas de versión pueden no coincidir con la fecha real de lanzamiento de la compilación.
 
 [//]: # (NO ELIMINAR)
+
+## <a name="version-2009-september-26"></a>Versión 2009: 26 de septiembre
+*Versión 2009 (Compilación 13231.20262)*
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="outlook"></a>Outlook
+
+- Corrige un problema que causaba que se enviaran algunos mensajes de correo electrónico generados automáticamente con el cuerpo en blanco cuando la línea del asunto está en blanco.
+
+
+### <a name="project"></a>Project
+
+- Se ha corregido un problema por el que si un código de eventos se está ejecutando y se intenta realizar cambios desde la vista del Formulario de tareas, es posible que el botón Aceptar no confirme los cambios.
+
+
+
+[//]: # (NO QUITAR EL CONTENIDO DE LOS DETALLES DE ERROR FINAL)
 
 ## <a name="version-2009-september-21"></a>Versión 2009: 21 de septiembre
 *Versión 2009 (Compilación 13231.20200)*
@@ -1925,7 +1944,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - Al usar las propiedades Multichoice/Lookup/Managed-metadata con documentos de Word/Excel/PowerPoint y guardar en una biblioteca de documentos de SharePoint, estas propiedades se limitaban anteriormente a 255 caracteres. Cuando estas propiedades superaban 255 caracteres, estos documentos no se podían guardar. Con este cambio, este límite se ha aumentado a 2048 caracteres.
 
-- Se ha corregido un problema en Word/Excel/PowerPoint. Ahora, el nombre principal de usuario (UPN) ya no distingue entre mayúsculas y minúsculas, lo que provoca menos errores al trabajar con archivos en SharePoint.
+- Se ha corregido un problema en Word/Excel/PowerPoint donde el nombre principal de usuario (UPN) ya no distingue entre mayúsculas y minúsculas, lo que provoca menos errores al trabajar con archivos en SharePoint.
 
 - Corregido un problema por el que cuando hay varios documentos abiertos en Word/Excel/PowerPoint de la misma biblioteca de SharePoint, solo se analizará el primer documento abierto para el cumplimiento de las directivas.
 
