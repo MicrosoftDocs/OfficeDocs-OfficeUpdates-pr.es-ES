@@ -1,8 +1,8 @@
 ---
 title: Notas de la versión para las versiones de Canal semianual en 2018
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 12/13/2018
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal semianual de Office 365 ProPlus en 2018.
-ms.openlocfilehash: ab7cdeb05800c0f98f97bf895f1c88c167075ff9
-ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
+ms.openlocfilehash: 62c342fc8e2d8829398377dd0611e101f4a01fac
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "44163552"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48370128"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>Notas de la versión para las versiones de Canal semianual en 2018
 
@@ -919,9 +919,9 @@ En estas notas de la versión, se proporciona información sobre característica
 -   Se corrige un problema que provocaba que la ventana de las conversaciones en blanco no apareciera hasta que no se había unido correctamente a una reunión.
 -   Se corrige un problema que provocaba que la información del campo del departamento de una tarjeta de contacto no apareciera en los resultados de la búsqueda si el campo del título estaba vacío.
 -   Se corrigen los errores de inicio de sesión de los usuarios migrados de un entorno local a uno en línea que se producían a causa de las reglas de firewall.
--   Se ha agregado una nueva clave del Registro DWORD para corregir un problema que provocaba que, cuando un usuario iniciaba sesión en el cliente en una red externa con LyncAutoD, el cliente restableciese la clave del Registro de OAuthUsed a false. Para solucionar el problema, establezca el valor en 1 para EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket en HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Lync\\\<Id.SIP\>.
+-   Se ha agregado una nueva clave del Registro DWORD para corregir un problema por el que, cuando un usuario iniciaba sesión en el cliente en una red externa con LyncAutoD, el cliente restablecía la clave del Registro OAuthUsed en falso. Para solucionar el problema, establezca el valor de EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket en 1 en HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Lync\\\<SipID\>.
 
-### <a name="visio-feature-updates"></a>Visio: Actualizaciones de características
+### <a name="visio-feature-updates"></a>Visio: actualizaciones de características
 -   **Crear diagramas de los datos de Excel:** Se crea automáticamente un diagrama de flujo básico o un diagrama de flujo de funciones cruzadas a partir de datos de Excel mediante plantillas de visualizador de datos nuevos. [Más información](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 -   **Vínculos seguros:** Cuando un usuario hace clic en un vínculo, Protección contra amenazas avanzada de Office 365 (ATP) lo inspecciona para comprobar si es malintencionado o no. Si el vínculo se considera malintencionado, se redirige al usuario a una página de advertencia en lugar de redirigirlo a la URL de destino original. [Más información](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 
