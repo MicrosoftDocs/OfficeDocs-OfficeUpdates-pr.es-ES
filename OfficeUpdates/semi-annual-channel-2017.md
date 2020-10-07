@@ -1,8 +1,8 @@
 ---
 title: Notas de la versión para las versiones de canal semianual en 2017
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 12/12/2017
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de ti las notas de la versión para las versiones de canal semianual para Office 365 ProPlus en 2017
-ms.openlocfilehash: 9d3a8a62656e52fd556920745d64ba2d1da47b1f
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: e98b5359a10f2a6cba7dd8539983496f95b5177a
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615162"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48370168"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2017"></a>Notas de la versión para las versiones de canal semianual en 2017
 
@@ -32,7 +32,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="powerpoint-security-updates"></a>PowerPoint: Actualizaciones de seguridad
 -   [CVE-2017-11934](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11934): Vulnerabilidad de divulgación de información de Microsoft PowerPoint
 
-### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
+### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
 -   [Advertencia 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021): Actualización de defensa en profundidad de Microsoft Office
 
 
@@ -45,7 +45,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="powerpoint-security-updates"></a>PowerPoint: Actualizaciones de seguridad
 -   [CVE-2017-11934](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11934): Vulnerabilidad de divulgación de información de Microsoft PowerPoint
 
-### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
+### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
 -   [Advertencia 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021): Actualización de defensa en profundidad de Microsoft Office
 
 
@@ -64,7 +64,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="excel-security-updates"></a>Excel: Actualizaciones de seguridad
 -   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877): Vulnerabilidad de omisión de característica de seguridad de Microsoft Excel
 -   [CVE-2017-11878](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11878): Vulnerabilidad de los daños en la memoria de Microsoft Excel
--   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884): Vulnerabilidad de los daños en la memoria de Microsoft Office
+-   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884): vulnerabilidad de los daños en la memoria de Microsoft Office
 
 ### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
 -   [Advertencia 170020](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170020): Actualización de defensa en profundidad de Microsoft Office
@@ -82,7 +82,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="excel-security-updates"></a>Excel: Actualizaciones de seguridad
 -   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877): Vulnerabilidad de omisión de característica de seguridad de Microsoft Excel
 -   [CVE-2017-11878](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11878): Vulnerabilidad de los daños en la memoria de Microsoft Excel
--   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884): Vulnerabilidad de los daños en la memoria de Microsoft Office
+-   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884): vulnerabilidad de los daños en la memoria de Microsoft Office
 
 ### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
 -   [Advertencia 170020](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170020): Actualización de defensa en profundidad de Microsoft Office
@@ -140,7 +140,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   **Soporte de números grandes (bigint):** Utilice el tipo de datos de número grande en las tablas de Access para calcular números grandes y vincular o importar desde bases de datos externas que utilicen un tipo de datos equivalente, como bigint en SQL Server. [Más información](https://blogs.office.com/2017/03/06/new-in-access-2016-large-number-bigint-support/)
 
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
--   **Compatibilidad con Windows Information Protection (WIP):**    ahora Excel es una aplicación habilitada y puede diferenciar entre los datos personales y los datos corporativos, y determinar correctamente qué proteger, en función de las directivas configuradas.   [Más información](https://aka.ms/wiptechnet)
+-   **Compatibilidad con Windows Information Protection (WIP):**    Excel ahora es una aplicación habilitada y puede diferenciar entre los datos personales y los corporativos, ya que determina correctamente qué proteger, en función de las directivas configuradas.   [Más información](https://aka.ms/wiptechnet)
 -   **Mejora de Obtener y transformar:** En el Editor de consultas, cree una columna nueva proporcionando valores de ejemplo. A medida que escribe, Excel detecta las transformaciones necesarias y muestra una vista previa de la columna nueva.
 -   **Insertar vínculos recientes:** Adjunte fácilmente hipervínculos a sitios web o archivos basados en la nube recientes y cree nombres para mostrar significativos para los usuarios que usen lectores de pantalla. [Más información](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **Personalizar el diseño de tabla dinámica predeterminado:** Configure una tabla dinámica de la forma que desee y comience con ese diseño cada vez que cree otra. [Más información](https://support.office.com/article/efd8569c-f07a-43c1-9db2-4f2912a0f94e)
@@ -154,7 +154,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   **Usar un lápiz para seleccionar y cambiar objetos:** seleccione controles de objeto con un lápiz digital para cambiar el tamaño, girar, mover y realizar otras operaciones.
 -   **Gráfico de mapa:** compare valores y muestre categorías en regiones geográficas. [Más información](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 -   **Imágenes SVG:** inserte y edite Scalable Vector Graphics (SVG) en libros. [Más información](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Insertar iconos:**   use iconos de una biblioteca estándar de archivos Scalable Vector Graphics (SVG) yendo a \> insertar \> iconos de ilustraciones. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Insertar iconos:**   Use iconos de una biblioteca estándar de archivos de Scalable Vector Graphics (SVG) yendo a insertar \> iconos de ilustraciones \> . [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **Guardar en carpetas recientes:** guarde un libro en una carpeta que se ha usado recientemente mediante la pestaña Reciente cuando seleccione Archivo \> Guardar como.
 -   **Mejoras en la accesibilidad:** compatibilidad mejorada para usar el teclado, Narrador y otra tecnología de asistencia para leer y editar libros. [Más información](https://support.office.com/article/51fcb17a-b15b-4b13-ae04-d4f38ece3f78)
 
@@ -191,7 +191,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   Se corrige un problema que provocaba que el lienzo de OneNote ocultase contenido o actualizaciones cuando hubiese muchas fotografías en la vista.
 
 ### <a name="outlook-feature-updates"></a>Outlook: Actualizaciones de características
--   **Compatibilidad con Windows Information Protection (WIP):**    ahora Outlook es una aplicación habilitada y puede diferenciar entre los datos personales y los corporativos, lo que determina correctamente qué proteger, en función de las directivas configuradas.   [Más información](https://aka.ms/wiptechnet)
+-   **Compatibilidad con Windows Information Protection (WIP):**    Outlook ahora es una aplicación habilitada y puede diferenciar entre los datos personales y los datos corporativos, y determinar correctamente qué proteger, en función de las directivas configuradas.   [Más información](https://aka.ms/wiptechnet)
 -   **Insertar vínculos recientes:** Adjunte hipervínculos a sitios web o archivos basados en la nube recientes y cree nombres para mostrar significativos para los usuarios que usen lectores de pantalla. [Más información](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **Fuente Dubái:** Familia de fuentes que admite los idiomas de Europa occidental, así como los principales idiomas que usan el alfabeto árabe. [Más información](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **Eliminación del fondo:** Quite un fondo de imagen con una herramienta de dibujo de forma libre.
@@ -199,7 +199,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   **Establecer permisos para los datos adjuntos:** Para los datos adjuntos de OneDrive o de SharePoint, el usuario puede establecer si los destinatarios de la organización o externos a ella tienen permisos de lectura o edición de los datos adjuntos.
 -   **Panel de tareas anclable:** Deje el panel de tareas de complementos abierto mientras cambia entre los diferentes mensajes de un buzón. [Más información](https://blogs.msdn.microsoft.com/exchangedev/2017/01/26/pinnable-taskpane-in-outlook-2016/)
 -   **Imágenes SVG:** inserte y edite Scalable Vector Graphics (SVG) en correos electrónicos. [Más información](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Insertar iconos:**   use iconos de una biblioteca estándar de archivos Scalable Vector Graphics (SVG) yendo a \> insertar \> iconos de ilustraciones.   [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Insertar iconos:**   Use iconos de una biblioteca estándar de archivos de Scalable Vector Graphics (SVG) yendo a insertar \> iconos de ilustraciones \> .  [ Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-security-updates"></a>Outlook: Actualizaciones de seguridad
 -   [CVE-2017-0106](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0106): Vulnerabilidad de ejecución remota de código de Microsoft Outlook
@@ -220,13 +220,13 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   Se soluciona un problema por el que no se muestra una imagen de un mensaje enviado desde un equipo con alta resolución de PPP.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Actualizaciones de características
--   **Compatibilidad con Windows Information Protection (WIP):**    ahora PowerPoint es una aplicación habilitada y puede diferenciar entre los datos personales y los datos corporativos, y determinar correctamente cuáles se deben proteger basándose en las directivas configuradas.   [Más información](https://aka.ms/wiptechnet)
+-   **Compatibilidad con Windows Information Protection (WIP):**    PowerPoint ahora es una aplicación habilitada y puede diferenciar entre los datos personales y los corporativos, ya que determina correctamente qué proteger, en función de las directivas configuradas.   [Más información](https://aka.ms/wiptechnet)
 -   **Insertar vínculos recientes:** Adjunte hipervínculos a sitios web o archivos basados en la nube recientes y cree nombres para mostrar significativos para los usuarios que usen lectores de pantalla. [Más información](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **Implementación centralizada de los complementos**: Los administradores pueden implementar y actualizar complementos para los usuarios o grupos desde el Centro de administración de Office 365. [Más información](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
 -   **Fuente Dubái:** Familia de fuentes que admite los idiomas de Europa occidental, así como los principales idiomas que usan el alfabeto árabe. [Más información](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **Eliminación del fondo:** Quite un fondo de imagen con una herramienta de dibujo de forma libre.
 -   **Imágenes SVG:** inserte y edite Scalable Vector Graphics (SVG) en presentaciones. [Más información](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Insertar iconos:**   use iconos de una biblioteca estándar de archivos Scalable Vector Graphics (SVG) yendo a \> insertar \> iconos de ilustraciones. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Insertar iconos:**   Use iconos de una biblioteca estándar de archivos de Scalable Vector Graphics (SVG) yendo a insertar \> iconos de ilustraciones \> . [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **Escritura en tiempo real durante la co-autoría:** Compruebe dónde están trabajando otros en la presentación y vea los cambios a medida que escriben. [Más información](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **Guardar en carpetas recientes:** guarde una presentación en una carpeta que se ha usado recientemente mediante la pestaña Reciente cuando seleccione Archivo \> Guardar como.
 -   **Crear formas de lápiz precisas:** arrastre el borrador de segmentos para quitar el exceso de bits de lápiz, hasta la línea más cercana.
@@ -245,7 +245,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 ### <a name="project-feature-updates"></a>Project: Actualizaciones de características
 -   **Usar una lista desplegable para establecer rápidamente los predecesores:** Use la lista desplegable de los gráficos de Gantt para elegir los predecesores o sucesores que desea vincular a una tarea.
--   **Nombre de Resumen de tarea:**   campo de tarea de solo lectura que muestra el nombre de la tarea de Resumen de la tarea.  
+-   **Nombre de Resumen de tareas:**   Campo de tarea de solo lectura que muestra el nombre de la tarea de Resumen de la tarea.  
 
 ### <a name="project-non-security-updates"></a>Project: Actualizaciones no relacionadas con la seguridad
 -   Se ha solucionado un problema que producía que los valores seleccionados de un gráfico o una tabla no se viesen en el panel de gráficos o tablas.
@@ -343,7 +343,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   **Fragmentos de diapositiva:** Tome fragmentos de un dibujo de Visio y expórtelos como diapositivas a PowerPoint. [Más información](https://support.office.com/article/e7da404b-4208-49d1-9518-6fe1a4723657)
 
 ### <a name="word-feature-updates"></a>Word: Actualizaciones de características
--   **Compatibilidad con Windows Information Protection (WIP):**    ahora Word es una aplicación habilitada y puede diferenciar entre los datos personales y los datos corporativos, y determinar correctamente cuáles se deben proteger basándose en las directivas configuradas.   [Más información](https://aka.ms/wiptechnet)
+-   **Compatibilidad con Windows Information Protection (WIP):**    Word es ahora una aplicación habilitada y puede diferenciar entre los datos personales y los datos corporativos, y determinar correctamente qué proteger, en función de las directivas configuradas.   [Más información](https://aka.ms/wiptechnet)
 -   **Insertar vínculos recientes:** Adjunte hipervínculos a sitios web o archivos basados en la nube recientes y cree nombres para mostrar significativos para los usuarios que usen lectores de pantalla. [Más información](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **Implementación centralizada de complementos**: los administradores pueden implementar y actualizar complementos a usuarios o grupos desde el centro de administración de Office 365.   [Más información](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
 -   **Fuente Dubái:** Familia de fuentes que admite los idiomas de Europa occidental, así como los principales idiomas que usan el alfabeto árabe. [Más información](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
@@ -351,7 +351,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   **De un lado a otro:** Desplácese por las páginas de la vista Diseño de impresión deslizándolas de un lado a otro como en una pila de papel. [Más información](https://support.office.com/article/21bfd0ff-0e1f-4c43-b188-8b36dfe6dcf4)
 -   **Usar un lápiz para seleccionar y cambiar objetos:** seleccione controles de objeto con un lápiz digital para cambiar el tamaño, girar, mover y realizar otras operaciones.
 -   **Imágenes SVG:** inserte y edite Scalable Vector Graphics (SVG) en documentos. [Más información](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Insertar iconos:**   use iconos de una biblioteca estándar de archivos Scalable Vector Graphics (SVG) yendo a \> insertar \> iconos de ilustraciones.   [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Insertar iconos:**   Use iconos de una biblioteca estándar de archivos de Scalable Vector Graphics (SVG) yendo a insertar \> iconos de ilustraciones \> .  [ Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **Guardar en carpetas recientes:** guarde un documento en una carpeta que se ha usado recientemente mediante la pestaña Reciente cuando seleccione Archivo \> Guardar como.
 -   **Lectura mejorada con Herramientas de aprendizaje:** los nuevos comandos en el modo Lectura mejoran las habilidades de lectura ajustando el espaciado de texto, mostrando los saltos entre sílabas y resaltando cada palabra a medida que el documento se lee en voz alta. [Más información](https://support.office.com/article/29efa413-e2da-4cac-b2a5-2defc6d34fd9)
 -   **Reconocimiento de formas:** Transforme automáticamente sus dibujos en formas utilizando Dibujar \> Convertir en formas.[Más información](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
@@ -637,7 +637,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   Se soluciona un problema en el que no se detecta ningún micrófono en una llamada al usar un dispositivo Polycom CX100.
 -   Fix an issue where choosing a link such as \\\\servername or file:// in an IM message results in an error message instead of opening the location.
 -   Se soluciona un problema en el que, en un entorno de Infraestructura de escritorio virtual (VDI) que usa enrutamiento basado en ubicación, el usuario no puede realizar o recibir llamadas RTC porque el servidor cree que la ubicación del usuario no es válida para las llamadas RTC.
--   Cuando el estado del usuario esté establecido en No molestar o Presentando, cambie la línea de asunto del correo enviado sobre un mensaje perdido de "Conversación perdida con \<nombre\>" a "\<Nombre\> te envió un mensaje en Skype Empresarial."
+-   Cambiar la línea de asunto del correo electrónico que se ha enviado para un mensaje perdido, cuando el estado del usuario se establece en no molestar o presentar, desde "conversación perdida con \<name\> " a " \<Name\> enviado un mensaje en Skype empresarial."
 -   Para empezar, capture la marca de tiempo de la primera vez que inicie sesión en el dispositivo como parte de los [datos del censo](https://docs.microsoft.com/skypeforbusiness/legal-and-regulatory/data-collection-practices) para que sea más fácil identificar las tendencias de confiabilidad de inicio de sesión.
 -   Se soluciona un problema en el que la opción de compartir un monitor secundario no aparece con determinadas configuraciones de monitor en la versión 1607 de Windows 10 (conocida también como Actualización de aniversario).
 -   Se soluciona un problema en el que Skype Empresarial se bloquea al ampliar contenido compartido cuando la persona que lo comparte utiliza una implementación externa de Protocolo de escritorio remoto (RDP).
@@ -760,7 +760,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   [CVE-2017-0283](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0283): Vulnerabilidad de la ejecución remota de código de Uniscribe de Windows
 -   [CVE-2017-8550](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8550): Vulnerabilidad de ejecución remota de código de Skype Empresarial
 
-### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
+### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
 -   [CVE-2017-0292](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0292): Vulnerabilidad de la ejecución remota de código de PDF de Windows 
 -   [CVE-2017-8509](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8509): Vulnerabilidad de la ejecución remota de código de Microsoft Office  
 
@@ -774,10 +774,10 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ## <a name="version-1609-may-9"></a>Versión 1609:9 de mayo
 *Versión 1609 (compilación 7369.2130)*
 
-### <a name="skype-for-business-security-updates"></a>Skype Empresarial: Actualizaciones de seguridad
+### <a name="skype-for-business-security-updates"></a>Skype Empresarial: actualizaciones de seguridad
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): Vulnerabilidad de la ejecución remota de código de Microsoft Office
 
-### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
+### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
 -   [CVE-2017-0254](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0254): Vulnerabilidad de los daños en la memoria de Microsoft Office
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): Vulnerabilidad de la ejecución remota de código de Microsoft Office
 
@@ -793,10 +793,10 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 *Esta es la versión del canal diferido que estuvo disponible desde el 2016 de octubre. Seguirá recibiendo soporte técnico y actualizaciones de seguridad hasta el 2017 de junio. Sin embargo, ahora hay disponible una nueva versión del canal diferido (versión 1609, compilación 7369,2130), que contiene nuevas características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad.*
 
-### <a name="skype-for-business-security-updates"></a>Skype Empresarial: Actualizaciones de seguridad
+### <a name="skype-for-business-security-updates"></a>Skype Empresarial: actualizaciones de seguridad
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): Vulnerabilidad de la ejecución remota de código de Microsoft Office
 
-### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
+### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
 -   [CVE-2017-0254](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0254): Vulnerabilidad de los daños en la memoria de Microsoft Office
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): Vulnerabilidad de la ejecución remota de código de Microsoft Office
 
@@ -848,7 +848,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: Actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema que provoca que Skype Empresarial deje de responder cuando se abren al mismo tiempo varias ventanas de conversación.
 
-### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
+### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS17-014](https://technet.microsoft.com/library/security/ms17-014): Actualización de seguridad para Microsoft Office (3217868)
 
 
@@ -927,7 +927,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   Corrección de un problema que hace que OneNote se bloquee al eliminar una tabla.
 
 ### <a name="outlook-feature-updates"></a>Outlook: Actualizaciones de características
--   ** \@menciones:** Asegúrese de que los destinatarios sepan que se les pide entrada o acción; para ello, incluya el símbolo @ seguido del nombre de la persona en el cuerpo de un correo electrónico o elemento de calendario. Esto también los agregará automáticamente a la línea Para. [Más información](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   ** \@ menciones:** Asegúrese de que los destinatarios saben que se les pide entrada o acción; para ello, incluya el símbolo @ seguido del nombre de la persona en el cuerpo de un elemento de correo electrónico o calendario. Esto también los agregará automáticamente a la línea Para. [Más información](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 -   **Tarjetas de resumen para reservas y paquetes de viajes:** Comprobar y realizar un seguimiento de reservas de viajes, así como entregas de paquetes, mediante tarjetas de resumen que se crean automáticamente en la Bandeja de entrada y el calendario. [Más información](https://blogs.office.com/2016/06/28/stay-on-top-of-your-travel-and-deliveries-with-outlook/)
 -   **Minivistas previas de fotos adjuntas**: Cuando se adjunta una foto a un correo electrónico, Outlook muestra una pequeña vista previa de la foto en el mensaje.
 -   **Vínculo Recuperar elementos eliminados:** En la carpeta Elementos eliminados, aparece un vínculo "Recuperar elementos eliminados recientemente de esta carpeta" sobre la lista de elementos eliminados y abre el cuadro de diálogo Recuperar elementos eliminados cuando se selecciona el vínculo.
@@ -974,7 +974,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 ### <a name="skype-for-business-feature-updates"></a>Skype Empresarial: Actualizaciones de características
 -   **Elementos visuales actualizados:** Cambios a iconos y colores para mejorar la accesibilidad. [Más información](https://blogs.technet.microsoft.com/nexthop/2016/10/27/new-skype-for-business-2016-look-and-feel-coming-your-way/)
--   **Actualice la interfaz de usuario a "compartir":** cambie "presente" por "compartir" en elementos de la interfaz de usuario, como el cambio de "presentar escritorio" a "compartir el escritorio" y "presentar el programa" para "compartir una ventana".
+-   **Actualizar la interfaz de usuario a "compartir":**   Cambie "presente" por "compartir" en elementos de la interfaz de usuario, como el cambio de "presentar escritorio" a "compartir el escritorio" y "presentar programa" para "compartir una ventana".
 -   **Compatibilidad con Citrix**: Compatibilidad para entornos de infraestructura de escritorio virtual (VDI) basados en Citrix, junto con el Pack de optimización en tiempo real de Citrix HDX 2.1.
 
 ### <a name="skype-for-business-security-updates"></a>Skype Empresarial: Actualizaciones de seguridad

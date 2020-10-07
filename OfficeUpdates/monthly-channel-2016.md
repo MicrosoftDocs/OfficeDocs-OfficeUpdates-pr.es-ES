@@ -1,8 +1,8 @@
 ---
 title: Notas de la versión para las versiones de canal mensual en 2016
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 12/13/2016
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de ti las notas de la versión para las versiones de canal mensual para Office 365 ProPlus en 2016
-ms.openlocfilehash: f2d8fe18751f3b3b7dac9af3412c872325e23949
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: 11e672280c3a41e9d73782b13c43d286171de7b1
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615125"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48369928"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2016"></a>Notas de la versión para las versiones de canal mensual en 2016
 
@@ -42,7 +42,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
 -   **Gráfico de mapa:** compare valores y muestre categorías en regiones geográficas. [Más información](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 -   **Imágenes SVG:** inserte y edite Scalable Vector Graphics (SVG) en libros. [Más información](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Insertar iconos:**   use iconos de una biblioteca estándar de archivos Scalable Vector Graphics (SVG) yendo a \> insertar \> iconos de ilustraciones. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Insertar iconos:**   Use iconos de una biblioteca estándar de archivos de Scalable Vector Graphics (SVG) yendo a insertar \> iconos de ilustraciones \> . [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **Guardar en carpetas recientes:** guarde un libro en una carpeta que se ha usado recientemente mediante la pestaña Reciente cuando seleccione Archivo \> Guardar como.
 -   **Mejoras en la accesibilidad:** compatibilidad mejorada para usar el teclado, Narrador y otra tecnología de asistencia para leer y editar libros. [Más información](https://support.office.com/article/51fcb17a-b15b-4b13-ae04-d4f38ece3f78)
 
@@ -54,12 +54,12 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 ### <a name="outlook-feature-updates"></a>Outlook: Actualizaciones de características
 -   **Imágenes SVG:** inserte y edite Scalable Vector Graphics (SVG) en correos electrónicos. [Más información](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Insertar iconos:**   use iconos de una biblioteca estándar de archivos Scalable Vector Graphics (SVG) yendo a \> insertar \> iconos de ilustraciones.   [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Insertar iconos:**   Use iconos de una biblioteca estándar de archivos de Scalable Vector Graphics (SVG) yendo a insertar \> iconos de ilustraciones \> .  [ Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **Pulse:** Buscar y reutilizar contenido de los documentos pertinentes de la organización. [Más información](https://support.office.com/article/860118fc-1f61-41f6-922f-40084a284658)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
 -   **Imágenes SVG:** inserte y edite Scalable Vector Graphics (SVG) en presentaciones. [Más información](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Insertar iconos:**   use iconos de una biblioteca estándar de archivos Scalable Vector Graphics (SVG) yendo a \> insertar \> iconos de ilustraciones. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Insertar iconos:**   Use iconos de una biblioteca estándar de archivos de Scalable Vector Graphics (SVG) yendo a insertar \> iconos de ilustraciones \> . [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **Escritura en tiempo real durante la co-autoría:** Compruebe dónde están trabajando otros en la presentación y vea los cambios a medida que escriben. [Más información](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **Guardar en carpetas recientes:** guarde una presentación en una carpeta que se ha usado recientemente mediante la pestaña Reciente cuando seleccione Archivo \> Guardar como.
 -   **Crear formas de lápiz precisas:** arrastre el borrador de segmentos para quitar el exceso de bits de lápiz, hasta la línea más cercana.
@@ -81,7 +81,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 ### <a name="skype-for-business-feature-updates"></a>Skype Empresarial: Actualizaciones de características
 
--   **Actualice la interfaz de usuario a "compartir":** cambie "presente" por "compartir" en elementos de la interfaz de usuario, como el cambio de "presentar escritorio" a "compartir pantalla" y "presentar programa" a "compartir ventana".
+-   **Actualizar la interfaz de usuario a "compartir":**   Cambie "presente" por "compartir" en elementos de la interfaz de usuario, como el cambio de "presentar escritorio" a "compartir pantalla" y "presentar programa" a "compartir ventana".
 -   **Deshabilitar "Mi número":** Use la entrada del Registro DisableDisplayMyNumber para deshabilitar "Mi número" en el teclado de marcado.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: Actualizaciones no relacionadas con la seguridad
@@ -119,7 +119,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 ### <a name="word-feature-updates"></a>Word: Actualizaciones de características
 -   **Imágenes SVG:** inserte y edite Scalable Vector Graphics (SVG) en documentos. [Más información](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Insertar iconos:**   use iconos de una biblioteca estándar de archivos Scalable Vector Graphics (SVG) yendo a \> insertar \> iconos de ilustraciones.   [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Insertar iconos:**   Use iconos de una biblioteca estándar de archivos de Scalable Vector Graphics (SVG) yendo a insertar \> iconos de ilustraciones \> .  [ Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **Guardar en carpetas recientes:** guarde un documento en una carpeta que se ha usado recientemente mediante la pestaña Reciente cuando seleccione Archivo \> Guardar como.
 -   **Lectura mejorada con Herramientas de aprendizaje:** los nuevos comandos en el modo Lectura mejoran las habilidades de lectura ajustando el espaciado de texto, mostrando los saltos entre sílabas y resaltando cada palabra a medida que el documento se lee en voz alta. [Más información](https://support.office.com/article/29efa413-e2da-4cac-b2a5-2defc6d34fd9)
 -   **Mejoras en la accesibilidad:** compatibilidad mejorada para usar el teclado, Narrador y otra tecnología de asistencia para leer y editar documentos. [Más información](https://support.office.com/article/69aed572-336e-4722-a97e-23393cc481b2)
@@ -148,17 +148,17 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   Se soluciona un problema en el que, si se escribe en la barra de fórmulas y se utiliza una función con una lista desplegable, como BUSCARV, al pulsar Entrar para completar la fórmula, se selecciona el primer elemento de la lista desplegable Autocompletar en lugar de dejar el valor escrito como está.
 -   Se soluciona un problema en el que, si se abre un archivo con formato de archivo binario (BIFF8) de Excel 97 - Excel 2003 con un hipervínculo en una hoja protegida, Excel interpreta que el archivo estaba dañado e intenta reparar o eliminar el contenido ilegible.
 
-### <a name="onenote-non-security-updates"></a>OneNote: actualizaciones no relacionadas con la seguridad
+### <a name="onenote-non-security-updates"></a>OneNote: Actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que un usuario no puede eliminar una plantilla de página personalizada.
 
-### <a name="outlook-feature-updates"></a>Outlook: actualizaciones de características
+### <a name="outlook-feature-updates"></a>Outlook: Actualizaciones de características
 -   **Tarjetas de resumen para reservas y paquetes de viajes:** Comprobar y realizar un seguimiento de reservas de viajes, así como entregas de paquetes, mediante tarjetas de resumen que se crean automáticamente en la Bandeja de entrada y el calendario. [Más información](https://blogs.office.com/2016/06/28/stay-on-top-of-your-travel-and-deliveries-with-outlook/)
 -   **Redacción:** Proporciona una corrección avanzada y con contexto que ayuda a mejorar la escritura. [Más información](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que los mensajes de correo electrónico en formato de texto enriquecido (RTF) no se podían abrir por el destinatario si el mensaje se había enviado con Information Rights Management.
 
-### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
+### <a name="powerpoint-feature-updates"></a>PowerPoint: Actualizaciones de características
 -   **Copia de secciones:** Copiar y pegar secciones entre presentaciones.
 -   **Compartidos conmigo:** Vea los documentos que otros usuarios han compartido con usted yendo a Archivo \> Abrir \> Compartidos conmigo. [Más información](https://support.office.com/article/e0476dc7-bf2f-4203-b9ad-c809578b03e7)
 
@@ -279,7 +279,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   Se ha corregido un problema que provocaba que solo se mostrara la primera etiqueta de varias etiquetas para una línea de texto en el panel Resumen de etiquetas cuando se buscan etiquetas.
 
 ### <a name="outlook-feature-updates"></a>Outlook: Actualizaciones de características
--   ** \@menciones:** Asegúrese de que los destinatarios sepan que se les pide entrada o acción; para ello, incluya el símbolo @ seguido del nombre de la persona en el cuerpo de un correo electrónico o elemento de calendario. Esto también los agregará automáticamente a la línea Para. [Más información](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   ** \@ menciones:** Asegúrese de que los destinatarios saben que se les pide entrada o acción; para ello, incluya el símbolo @ seguido del nombre de la persona en el cuerpo de un elemento de correo electrónico o calendario. Esto también los agregará automáticamente a la línea Para. [Más información](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Actualizaciones no relacionadas con la seguridad
 -   Se ha corregido un problema que provocaba que al usar diseños de fondo personalizados como tema predeterminado, se agregaran saltos de línea adicionales en mensajes de correo nuevos y se estableciera la fuente en Calibri.
@@ -353,7 +353,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   Se ha corregido un problema que provocaba que la tecla ENTRAR no funcionara para separar entradas de lista al crear una lista de ordenación personalizada en el cuadro de diálogo Listas personalizadas.
 -   Fix an issue where copying or moving information causes an error message to appear, such as “Cannot open the Clipboard” or “We couldn’t free up space on the Clipboard. Another program might be using it right now.”
 
-### <a name="outlook-feature-updates"></a>Outlook: actualizaciones de características
+### <a name="outlook-feature-updates"></a>Outlook: Actualizaciones de características
 -   **Minivistas previas de fotos adjuntas**: Cuando se adjunta una foto a un correo electrónico, Outlook muestra una pequeña vista previa de la foto en el mensaje.
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Actualizaciones no relacionadas con la seguridad
@@ -537,7 +537,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="outlook-security-updates"></a>Outlook: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Actualización de seguridad para Microsoft Office (3170008)
 
-### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
+### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Actualización de seguridad para Microsoft Office (3170008)
 
 ### <a name="word-non-security-updates"></a>Word: Actualizaciones no relacionadas con la seguridad
@@ -640,7 +640,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   Se soluciona un problema en el que Excel deja en ocasiones un archivo temporal después de que se guarde el archivo.
 -   Se soluciona un problema en el que la llamada a un método o propiedad en una hoja de cálculo eliminada hace que Excel se bloquee en lugar de mostrar un error que indique que no se encontró el objeto en esa hoja.
 
-### <a name="outlook-feature-updates"></a>Outlook: actualizaciones de características
+### <a name="outlook-feature-updates"></a>Outlook: Actualizaciones de características
 -   **Creación de perfiles simplificada:** Experiencia de interfaz de usuario simplificada para configurar perfiles de Outlook adicionales para buzones de Office 365 cuando se ha iniciado sesión con una cuenta de Office 365.
 
     Nota: Esta característica se está distribuyendo durante un período de tiempo a los suscriptores, por lo que es posible que no vea esta característica inmediatamente. El momento en el que recibirá esta característica también depende de cómo actualice Office su organización.
@@ -771,7 +771,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   Se soluciona un problema en el que las imágenes en firmas HTML aparecen como cuadros grises al enviar nuevos mensajes o al responder.
 -   Se soluciona un problema en el que la carpeta de búsqueda de elementos leídos también muestra los no leídos.
 
-### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
+### <a name="powerpoint-feature-updates"></a>PowerPoint: Actualizaciones de características
 -   **Mejoras del Diseñador de PowerPoint:** Sugerencias de diseño para varias imágenes, el extractor de color y el reconocimiento facial. [Más información](https://blogs.office.com/2016/03/24/powerpoint-designer-whats-new-and-whats-next/)
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Actualizaciones no relacionadas con la seguridad
@@ -805,7 +805,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="onenote-non-security-updates"></a>OneNote: Actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que no se muestra contenido destacado al usar la opción Ver reproducción.
 
-### <a name="outlook-feature-updates"></a>Outlook: actualizaciones de características
+### <a name="outlook-feature-updates"></a>Outlook: Actualizaciones de características
 -   **Comando de archivo en la cinta:** Le permite mover rápidamente un elemento almacenado en la Bandeja de entrada o en cualquier otra carpeta a una carpeta de archivo. [Más información](https://support.office.com/article/25f75777-3cdc-4c77-9783-5929c7b47028)
 -   **Trabajar con grupos:** Explore y cree grupos (o únase a ellos) desde Outlook y agregue a Favoritos los grupos que siga con mayor frecuencia. [Más información](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102)
 

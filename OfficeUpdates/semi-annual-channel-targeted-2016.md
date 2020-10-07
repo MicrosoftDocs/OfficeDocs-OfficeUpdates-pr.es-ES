@@ -1,8 +1,8 @@
 ---
 title: Notas de la versión para las versiones de canal semianual (dirigido) en 2016
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 12/13/2016
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de ti las notas de la versión para las versiones de canal semianual (dirigido) para Office 365 ProPlus en 2016
-ms.openlocfilehash: 7560a299409682010d2bf4e435dc733432781dab
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: 2ae156c4e02e56aca8b9ccb562804ade1173ec17
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615158"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48370088"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2016"></a>Notas de la versión para las versiones de canal semianual (dirigido) en 2016
 
@@ -84,7 +84,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 ### <a name="skype-for-business-feature-updates"></a>Skype Empresarial: Actualizaciones de características
 -   **Elementos visuales actualizados:** Cambios a iconos y colores para mejorar la accesibilidad. [Más información](https://blogs.technet.microsoft.com/nexthop/2016/10/27/new-skype-for-business-2016-look-and-feel-coming-your-way/)
--   **Actualice la interfaz de usuario a "compartir":** cambie "presente" por "compartir" en elementos de la interfaz de usuario, como el cambio de "presentar escritorio" a "compartir el escritorio" y "presentar el programa" para "compartir una ventana".
+-   **Actualizar la interfaz de usuario a "compartir":**   Cambie "presente" por "compartir" en elementos de la interfaz de usuario, como el cambio de "presentar escritorio" a "compartir el escritorio" y "presentar programa" para "compartir una ventana".
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: Actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que el usuario no puede conectarse a Exchange para obtener información del historial de conversaciones, contactos o correos de voz después de migrar el usuario a Exchange Online.
@@ -163,7 +163,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   Corrección de un problema que hace que OneNote se bloquee al eliminar una tabla.
 
 ### <a name="outlook-feature-updates"></a>Outlook: Actualizaciones de características
--   ** \@menciones:** Asegúrese de que los destinatarios sepan que se les pide entrada o acción; para ello, incluya el símbolo @ seguido del nombre de la persona en el cuerpo de un correo electrónico o elemento de calendario. Esto también los agregará automáticamente a la línea Para. [Más información](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   ** \@ menciones:** Asegúrese de que los destinatarios saben que se les pide entrada o acción; para ello, incluya el símbolo @ seguido del nombre de la persona en el cuerpo de un elemento de correo electrónico o calendario. Esto también los agregará automáticamente a la línea Para. [Más información](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 -   **Tarjetas de resumen para reservas y paquetes de viajes:** Comprobar y realizar un seguimiento de reservas de viajes, así como entregas de paquetes, mediante tarjetas de resumen que se crean automáticamente en la Bandeja de entrada y el calendario. [Más información](https://blogs.office.com/2016/06/28/stay-on-top-of-your-travel-and-deliveries-with-outlook/)
 -   **Minivistas previas de fotos adjuntas**: Cuando se adjunta una foto a un correo electrónico, Outlook muestra una pequeña vista previa de la foto en el mensaje.
 -   **Vínculo Recuperar elementos eliminados:** En la carpeta Elementos eliminados, aparece un vínculo "Recuperar elementos eliminados recientemente de esta carpeta" sobre la lista de elementos eliminados y abre el cuadro de diálogo Recuperar elementos eliminados cuando se selecciona el vínculo.
@@ -346,7 +346,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="skype-for-business-security-updates"></a>Skype Empresarial: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS16-097](https://technet.microsoft.com/library/security/ms16-097): Actualización de seguridad para el componente de gráficos de Microsoft (3177393)
 
-### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
+### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Actualización de seguridad para Microsoft Office (3177451)
 
 ### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones de seguridad
@@ -834,7 +834,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   **Ordenar la funcionalidad en Archivo \> Abrir:** Ordenar por nombre o fecha modificada en Archivo \> Abrir en todas las aplicaciones excepto en Outlook. Para Word, Excel y PowerPoint, la ordenación también está disponible en Archivo \> Guardar como.
 -   **Funcionalidad de exploración en carpetas en Archivo \> Guardar como:** Use la navegación completa por carpetas en Archivo \> Guardar como en Word, Excel y PowerPoint para las carpetas de OneDrive, las carpetas de OneDrive para la Empresa y este equipo PC.
 -   **Opciones de Enviar como:** Envíe un documento como datos adjuntos o como un archivo PDF desde el panel Compartir en Word o en PowerPoint.
--   **API de inserción de imágenes:**  Insertar imágenes en Word, Excel o PowerPoint con el [método document. setSelectedDataAsync](https://msdn.microsoft.com/library/office/fp142145.aspx) en la biblioteca Office. js común. La API de JavaScript de Word proporciona métodos específicos de hosts denominados insertInlinePictureFromBase64() para establecer imágenes incorporadas en los objetos [Body](https://msdn.microsoft.com/library/office/mt598674.aspx), [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [Párrafo](https://msdn.microsoft.com/library/office/mt598682.aspx)y Range.
+-   **API de inserción de imágenes:**  Insertar imágenes en Word, Excel o PowerPoint con el [método document. setSelectedDataAsync](https://msdn.microsoft.com/library/office/fp142145.aspx) en la biblioteca de office.js comunes. La API de JavaScript de Word proporciona métodos específicos de hosts denominados insertInlinePictureFromBase64() para establecer imágenes incorporadas en los objetos [Body](https://msdn.microsoft.com/library/office/mt598674.aspx), [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [Párrafo](https://msdn.microsoft.com/library/office/mt598682.aspx)y Range.
 
 ### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Ciertas vulnerabilidades de Microsoft Office podrían permitir la ejecución remota de código (3080790)
@@ -888,7 +888,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="excel-security-updates"></a>Excel: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft MS [16-015](https://go.microsoft.com/fwlink/?LinkId=722214): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3134226)
 
-### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
+### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft MS [16-015](https://go.microsoft.com/fwlink/?LinkId=722214): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3134226)
 
 

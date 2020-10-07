@@ -1,20 +1,20 @@
 ---
 title: Notas de la versión para las versiones de Canal mensual en 2019
-ms.author: andrewmo
+ms.author: anankani
 author: anankani
-manager: andrewmo
+manager: anankani
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2019
-ms.openlocfilehash: 1a4652ad9d7b3ec8150bc8e0b07cf65cdbfca864
-ms.sourcegitcommit: 2474d341cb1c1c2e0b43b5c324345d853e192c59
+ms.openlocfilehash: 88dca91031e19422e076e50674d0ada3968af135
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44565065"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48369938"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de la versión para las versiones de Canal mensual en 2019
 
@@ -22,12 +22,12 @@ En estas notas de la versión, se proporciona información sobre característica
 
  > [!NOTE]
 >- A menudo distribuimos características (y a veces incluso correcciones) para el Canal mensual durante un período de tiempo.  Si no ve algo que se describe a continuación de inmediato, lo verá pronto. [Más información](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
->- Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a comienzos de julio, las actualizaciones de Office 365 ProPlus (y Office 365 Empresa) incluirán Microsoft Teams.  La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/teams-install).
+>- Microsoft Teams en instalaciones existentes de Office 365 ProPlus: a comienzos de julio, las actualizaciones de Office 365 ProPlus (y Office 365 Empresa) incluirán Microsoft Teams.  La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, vea [Implementar Microsoft Teams con Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
 
 ## <a name="version-1911-december-10"></a>Versión 1911: (10 de diciembre)
 *Versión 1911 (compilación 12228.20364)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
@@ -119,7 +119,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-1910-november-12"></a>Versión 1910: 12 de noviembre
 *Versión 1910 (compilación 12130.20344)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -179,7 +179,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 ### <a name="office-suite"></a>Conjunto de programas de Office
 
-- **Instalar Microsoft Teams en instalaciones existentes de Office 365 ProPlus:** a partir de finales de junio, Microsoft Teams se incluirá en las instalaciones existentes de Office 365 ProPlus (y Office 365 Empresa) cuando se actualicen estas instalaciones. La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, consulte implementar Microsoft Teams con Office 365 ProPlus. [Más información](https://docs.microsoft.com/DeployOffice/teams-install)
+- **Instalar Microsoft Teams en instalaciones existentes de Office 365 ProPlus:** a partir de finales de junio, Microsoft Teams se incluirá en las instalaciones existentes de Office 365 ProPlus (y Office 365 Empresa) cuando se actualicen estas instalaciones. La fecha en la que se agregará Teams depende del canal de actualización que use. Para obtener más información, consulte implementar Microsoft Teams con Office 365 ProPlus. [Más información](https://docs.microsoft.com/deployoffice/teams-install)
 
 [//]: # (NO QUITAR DETALLES DE CARACTERÍSTICAS DE CONTENIDO FINAL)
 
@@ -222,7 +222,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-1909-october-08"></a>Versión 1909: 8 de octubre
 *Versión 1909 (compilación 12026.20320)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO INICIAL)
 
@@ -334,7 +334,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-1908-september-10"></a>Versión 1908: 10 de septiembre
 *Versión 1908 (Build 11929,20300)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (NO QUITAR DETALLES DEL ERROR CONTENIDO INICIAL)
 
@@ -400,7 +400,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-1907-august-13"></a>Versión 1907: 13 de agosto
 *Versión 1907 (compilación 11901.20218)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad
 
@@ -454,7 +454,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-1906-july-09"></a>Versión 1906: 09 de julio
 *Versión 1906 (compilación 11727.20244)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="outlook-non-security-updates"></a>Outlook: actualizaciones no relacionadas con la seguridad
 
@@ -520,7 +520,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 ## <a name="version-1905-june-11"></a>Versión 1905: 11 de junio
 *Versión 1905 (compilación 11629.20246)*
-<br/>Las actualizaciones de seguridad se muestran [aquí](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+<br/>Las actualizaciones de seguridad se muestran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad
 

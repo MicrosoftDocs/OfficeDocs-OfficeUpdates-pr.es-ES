@@ -1,8 +1,8 @@
 ---
 title: Notas de la versión para las versiones de canal semianual (dirigido) en 2015
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 12/8/2015
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de ti las notas de la versión para las versiones de canal semianual (dirigido) para Office 365 ProPlus en 2015
-ms.openlocfilehash: 4b6eb5b96fddc57d8a1f64adfaeb10166d541c42
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 45fc19b81f2d207c7abf42e773c98b359701eaca
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32439145"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48370108"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2015"></a>Notas de la versión para las versiones de canal semianual (dirigido) en 2015
 
@@ -90,11 +90,11 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="publisher-security-updates"></a>Publisher: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS15-116](https://technet.microsoft.com/library/security/ms15-116): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3104540)
 
-### <a name="skype-for-business-security-updates"></a>Skype Empresarial: actualizaciones de seguridad
+### <a name="skype-for-business-security-updates"></a>Skype Empresarial: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS15-116](https://technet.microsoft.com/library/security/ms15-116): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3104540)
 -   Boletín de seguridad Microsoft [MS15-123](https://technet.microsoft.com/library/security/ms15-123): Actualización de seguridad de Skype Empresarial y Microsoft Lync para abordar la divulgación de información (3105872)
 
-### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: actualizaciones no relacionadas con la seguridad
+### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: Actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema con el ruido de audio en los dispositivos que tienen dos micrófonos de entrada.
 -   Se soluciona un problema en el que los usuarios no se pueden unir correctamente una reunión después de reanudar un equipo portátil en modo de suspensión y antes de que el cliente de Skype cliente vuelve a iniciar sesión.
 -   Se agrega compatibilidad para mensajes contextuales para ayudar a advertir a los usuarios sobre las características.
@@ -135,7 +135,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   Se soluciona un problema en el que un lector de pantalla solo lee el primer párrafo de una firma de correo electrónico de varios párrafos al editar la firma de correo electrónico.
 -   Se soluciona un problema en el que el cursor no se encuentra en la posición correcta al escribir o responder a un correo electrónico.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: actualizaciones no relacionadas con la seguridad
+### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: Actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que, en condiciones de memoria insuficiente, al intentar visualizar un escritorio o una aplicación compartidos se produce la desconexión e intentos repetidos para volver a unirse automáticamente y ver el escritorio o la aplicación compartidos.
 -   Se soluciona un problema en el que, a medida que aumenta el número de participantes, empeora la experiencia de escritorio compartido.
 -   Se soluciona un problema por el que, cuando se configura la autenticación multifactor, se reciben varias solicitudes de autenticación por teléfono durante el día.

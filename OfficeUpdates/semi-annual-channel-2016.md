@@ -1,8 +1,8 @@
 ---
 title: Notas de la versión para las versiones de canal semianual en 2016
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 12/13/2016
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de ti las notas de la versión para las versiones de canal semianual para Office 365 ProPlus en 2016
-ms.openlocfilehash: b70dda115d271a4ec0779c4b99927275dae7969d
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: 749a68d693a3f962d547bc2f8cb257fba5e70370
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615142"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48370148"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2016"></a>Notas de la versión para las versiones de canal semianual en 2016
 
@@ -200,7 +200,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="word-feature-updates"></a>Word: Actualizaciones de características
 -   **Globos de comentarios:** Aparecen botones en el globo del comentario para que pueda responder, resolver o volver a abrir un comentario fácilmente.
 
-### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
+### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Actualización de seguridad para Microsoft Office (3155544)
 -   Boletín de seguridad Microsoft [MS16-070](https://technet.microsoft.com/library/security/ms16-070): Actualización de seguridad para Microsoft Office (3163610)
 -   Boletín de seguridad Microsoft [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Actualización de seguridad para Microsoft Office (3170008)
@@ -244,10 +244,10 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 *Esta es la versión del canal diferido que estuvo disponible desde el 2016 de junio. Seguirá recibiendo soporte técnico y actualizaciones de seguridad hasta el 2017 de febrero. Sin embargo, ahora hay disponible una nueva versión del canal diferido (versión 1605, compilación 6965,2092), que contiene nuevas características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad.*
 
-### <a name="skype-for-business-security-updates"></a>Skype Empresarial: Actualizaciones de seguridad
+### <a name="skype-for-business-security-updates"></a>Skype Empresarial: actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS16-120](https://technet.microsoft.com/library/security/ms16-120): Actualización de seguridad para el componente de gráficos de Microsoft (3192884)
 
-### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
+### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS16-121](https://technet.microsoft.com/library/security/ms16-121): Actualización de seguridad para Microsoft Office (3194063)
 
 
@@ -328,7 +328,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="skype-for-business-security-updates"></a>Skype Empresarial: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS16-097](https://technet.microsoft.com/library/security/ms16-097): Actualización de seguridad para el componente de gráficos de Microsoft (3177393)
 
-### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
+### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
 -   Boletín de seguridad Microsoft [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Actualización de seguridad para Microsoft Office (3177451)
 
 ### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones de seguridad
