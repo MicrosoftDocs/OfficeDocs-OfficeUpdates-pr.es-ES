@@ -8,7 +8,7 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Proporciona a los participantes del Modo aplazado de Insider la lista más reciente de las nuevas funciones, correcciones o problemas conocidos.
+description: Proporciona a los participantes del Modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos.
 ms.openlocfilehash: 594acccf4870613399a10f74233fd5a1b3c68237
 ms.sourcegitcommit: a543668818e709f17019d13f7e094c8cae33433a
 ms.translationtype: HT
