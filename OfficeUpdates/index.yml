@@ -1,9 +1,9 @@
 ### YamlMime:Landing
 title: Actualizaciones de Office
-summary: Obtenga información sobre las características, las actualizaciones de los productos de Office, incluidas las aplicaciones de Microsoft 365, Office para Mac, los productos de servidor de Office y las versiones perpetuas de Office.
+summary: Obtenga información sobre características, actualizaciones para productos de Office, incluidas las Aplicaciones de Microsoft 365, Office para Mac, productos de servidor de Office y versiones perpetuas de Office.
 metadata:
   title: Actualizaciones de Office
-  description: Obtenga información sobre las características, las actualizaciones de los productos de Office, incluidas las aplicaciones de Microsoft 365, Office para Mac, los productos de servidor de Office y las versiones perpetuas de Office.
+  description: Obtenga información sobre características, actualizaciones para productos de Office, incluidas las Aplicaciones de Microsoft 365, Office para Mac, productos de servidor de Office y versiones perpetuas de Office.
   ms.service: o365-proplus-itpro
   manager: andrewmo
   ms.audience: ITPro
@@ -12,12 +12,12 @@ metadata:
   author: TimDavenport
   ms.author: andrewmo
   ms.date: 06/18/2020
-  ms.openlocfilehash: c8b117874eca2923172290475e6ce7cad5894b1c
-  ms.sourcegitcommit: 75dd224cc25daf9e0dae2056ea7d53e7e7e790e3
-  ms.translationtype: MTPE
+  ms.openlocfilehash: 01f52a9d26307a582896969a567055f9107df572
+  ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+  ms.translationtype: HT
   ms.contentlocale: es-ES
-  ms.lasthandoff: 06/23/2020
-  ms.locfileid: "44854586"
+  ms.lasthandoff: 10/07/2020
+  ms.locfileid: "48369968"
 landingContent:
 - title: Aplicaciones de Microsoft 365
   linkLists:
@@ -49,7 +49,7 @@ landingContent:
     links:
     - text: Actualizaciones de Exchange Server
       url: https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates
-    - text: Actualización de Project Server
+    - text: Actualizaciones de Project Server
       url: project-server-updates.md
     - text: Actualizaciones de SharePoint Server
       url: sharepoint-updates.md
@@ -63,19 +63,19 @@ landingContent:
       url: update-history-office-2019.md
     - text: Actualizaciones de Office 2010, 2013 y 2016 (MSI)
       url: office-updates-msi.md
-    - text: Archivos. MSP de Office 2016
+    - text: Archivos .msp de Office 2016
       url: msp-files-office-2016.md
-    - text: Archivos. MSP de Office 2013
+    - text: Archivos .msp de Office 2013
       url: msp-files-office-2013.md
 - title: Otros recursos de Office
   linkLists:
   - linkListType: whats-new
     links:
-    - text: ¿Cuáles son las novedades de Microsoft 365?
+    - text: Novedades de Microsoft 365
       url: https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426
     - text: Plan de desarrollo de Microsoft 365
       url: https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=O365
-    - text: Mantenerse al día de los cambios de Microsoft 365
+    - text: Mantenerse al día con los cambios de Microsoft 365
       url: https://support.office.com/article/719f4904-cbdd-4889-a0cf-fbd7837dfecd
     - text: Blog de Office
       url: https://www.microsoft.com/microsoft-365/blog/office/
@@ -83,9 +83,9 @@ landingContent:
   linkLists:
   - linkListType: overview
     links:
-    - text: Información sobre la versión de Windows 10
+    - text: Información de versión de Windows 10
       url: https://www.microsoft.com/itpro/windows-10/release-information
-    - text: Directiva de Microsoft vida
+    - text: Directiva de ciclo de vida de Microsoft
       url: https://support.microsoft.com/lifecycle
     - text: Guía de actualización de seguridad de Microsoft
       url: https://portal.msrc.microsoft.com/
