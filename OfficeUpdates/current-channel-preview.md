@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporcionar a los participantes del Modo aplazado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos
-ms.openlocfilehash: 1bafe7aada2fc74fa57c2e5344deb6605db9cebe
-ms.sourcegitcommit: a543668818e709f17019d13f7e094c8cae33433a
+ms.openlocfilehash: e481bdbb11579efd8de903f1099038faf9a1c8e2
+ms.sourcegitcommit: 3e406a2082be4a9c922f3f7143b4ad3850a08181
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48368713"
+ms.lasthandoff: 10/08/2020
+ms.locfileid: "48382722"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notas de la versión del canal actual de Office (versión preliminar)
 
@@ -27,6 +27,52 @@ En este artículo hay notas de la versión para las compilaciones del canal actu
 > - La fecha de publicación de las notas de versión pueden no coincidir con la fecha real de lanzamiento de la compilación.
 
 [//]: # (NO ELIMINAR)
+
+## <a name="version-2009-october-07"></a>Versión 2009: 07 de agosto
+*Versión 2009 (Compilación 13231.20360)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Crear tipos de datos con Power Query:** crear tipos de datos enriquecidos con Power Query desde cualquier origen de datos
+
+### <a name="outlook"></a>Outlook
+
+- **La revisión gramatical se ha vuelto:** Outlook marca los errores gramaticales mientras escribe, por lo que puede aplicar sugerencias con un solo clic. <br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/grammar-and-style-suggestions-available-in-outlook)
+
+
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="outlook"></a>Outlook
+
+- Corrige un problema que provocaba que la búsqueda no devuelve ningún resultado al buscar en los calendarios compartidos sin almacenamiento en caché.
+
+
+- Corrige un problema que causaba que algunos usuarios observaban Outlook de forma inesperada en un estado sin conexión.
+
+
+- Corrige un problema que causaba que los delegados vean errores intermitentes al abrir carpetas compartidas en otro buzón.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrección de seguridad para solucionar un problema que deshabilita las protecciones IRM al abrir un archivo de PowerPoint en la vista protegida.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Cuando el usuario imprime cualquier documento o archivo en las impresoras de inyección de tinta de Office y la tinta de la impresora es poco visible, el mensaje "tóner bajo" o "sin tóner" se mostrará, aunque las impresoras de inyección de tinta no tengan toners Cambiar mensaje para mostrar "tóner/Ink Low" & "no tóner/tinta".
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2009-september-26"></a>Versión 2009: 26 de septiembre
 *Versión 2009 (Compilación 13231.20262)*
@@ -42,7 +88,6 @@ En este artículo hay notas de la versión para las compilaciones del canal actu
 ### <a name="project"></a>Project
 
 - Se ha corregido un problema por el que si un código de eventos se está ejecutando y se intenta realizar cambios desde la vista del Formulario de tareas, es posible que el botón Aceptar no confirme los cambios.
-
 
 
 [//]: # (NO QUITAR EL CONTENIDO DE LOS DETALLES DE ERROR FINAL)
@@ -956,7 +1001,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 - **Retener texto en vectores:** ahora puede conservar el texto en mapas, gráficos y otros vectores de SVG al convertir estos objetos en Excel, Word y PowerPoint.
 
 
-[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
 <br/>
 
