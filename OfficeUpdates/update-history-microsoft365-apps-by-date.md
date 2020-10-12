@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista completa de las versiones de las Aplicaciones de Microsoft 365, organizada por fecha, con vínculos a las notas de la versión.
-ms.openlocfilehash: e1c35c7ba1e829e3c035a2ab6ee80c83473cba26
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+ms.openlocfilehash: adf26720387ee5d3bb1bc1abbf46999566302589
+ms.sourcegitcommit: 01f34ec0267eb63ffb29045cca4d0a4520256ad0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48369888"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "48398395"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Historial de actualizaciones de Aplicaciones de Microsoft 365 (ordenado por fecha)
 
@@ -36,7 +36,7 @@ En la tabla siguiente se muestra la versión compatible y el número de compilac
 
 |**Canal**|**Versión**|**Compilación**|**Fecha de publicación**|**Versión admitida hasta**|
 |:-----|:-----|:-----|:-----|:-----|
-|Canal actual<br/>|2009<br/>|13231.20262<br/>|28 de septiembre de 2020<br/>|Lanzamiento de la versión 2010<br/>|
+|Canal actual<br/>|2009<br/>|13231.20368<br/>|8 de octubre de 2020<br/>|Lanzamiento de la versión 2010<br/>|
 |Canal empresarial mensual<br/>|2007<br/>|13029.20534<br/>|8 de septiembre de 2020<br/>|10 de noviembre de 2020<br/>|
 |Canal empresarial mensual<br/>|2006<br/>|13001.20648<br/>|8 de septiembre de 2020<br/>|13 de octubre de 2020<br/>|
 |Canal empresarial semestral (vista previa)<br/>|2008<br/>|13127.20408<br/>|8 de septiembre de 2020<br/>|9 de marzo de 2021<br/>|
@@ -53,6 +53,7 @@ La siguiente tabla proporciona una lista de los números de versión y compilaci
 
 |**Year**|**Fecha de publicación**|**Canal actual**|**Canal empresarial mensual**|**Canal empresarial semestral (vista previa)**|**Canal empresarial semestral**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020|08 de octubre|[Versión 2009 (compilación 13231.20368)](current-channel.md#version-2009-october-08)| | | |
 |2020|28 de septiembre|[Versión 2009 (Compilación 13231.20262)](current-channel.md#version-2009-september-28)| | | |
 |2020|22 de septiembre|[Versión 2008 (Compilación 13127.20508)](current-channel.md#version-2008-september-22))| | | |
 |2020|09 de septiembre|[Versión 2008 (Compilación 13127.20408)](current-channel.md#version-2008-september-09)| | | |
