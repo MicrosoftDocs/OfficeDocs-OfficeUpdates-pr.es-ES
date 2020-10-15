@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista completa de las versiones de las Aplicaciones de Microsoft 365, organizada por fecha, con vínculos a las notas de la versión.
-ms.openlocfilehash: adf26720387ee5d3bb1bc1abbf46999566302589
-ms.sourcegitcommit: 01f34ec0267eb63ffb29045cca4d0a4520256ad0
+ms.openlocfilehash: 3bf6c9882cb09a45b1e4dd1ac28f2643da11da73
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2020
-ms.locfileid: "48398395"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453108"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Historial de actualizaciones de Aplicaciones de Microsoft 365 (ordenado por fecha)
 
 Estos números de versión y compilación se aplican a Aplicaciones de Microsoft 365 para empresas, Aplicaciones de Microsoft 365 para negocios y a las versiones de suscripción de las aplicaciones de escritorio de Project y Visio.
 
 > [!IMPORTANT]
-> - Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441) para obtener más información.
+> - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 > - A partir de la versión 2004, el nombre de Office 365 ProPlus pasa a ser Aplicaciones de Microsoft 365 para empresas. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2123420) para obtener más información.Por lo general, en nuestra documentación solo haremos referencia a él como Aplicaciones de Microsoft 365.
 
 
@@ -36,12 +36,12 @@ En la tabla siguiente se muestra la versión compatible y el número de compilac
 
 |**Canal**|**Versión**|**Compilación**|**Fecha de publicación**|**Versión admitida hasta**|
 |:-----|:-----|:-----|:-----|:-----|
-|Canal actual<br/>|2009<br/>|13231.20368<br/>|8 de octubre de 2020<br/>|Lanzamiento de la versión 2010<br/>|
-|Canal empresarial mensual<br/>|2007<br/>|13029.20534<br/>|8 de septiembre de 2020<br/>|10 de noviembre de 2020<br/>|
-|Canal empresarial mensual<br/>|2006<br/>|13001.20648<br/>|8 de septiembre de 2020<br/>|13 de octubre de 2020<br/>|
-|Canal empresarial semestral (vista previa)<br/>|2008<br/>|13127.20408<br/>|8 de septiembre de 2020<br/>|9 de marzo de 2021<br/>|
-|Canal empresarial semestral<br/>|2002<br/>|12527.21104<br/>|8 de septiembre de 2020<br/>|14 de septiembre de 2021<br/>|
-|Canal empresarial semestral<br/>|1908<br/>|11929.20946<br/>|8 de septiembre de 2020<br/>|9 de marzo de 2021<br/>|
+|Canal actual<br/>|2009<br/>|13231.20390<br/>|13 de octubre de 2020<br/>|Lanzamiento de la versión 2010<br/>|
+|Canal empresarial mensual<br/>|2008<br/>|13127.20638<br/>|13 de octubre de 2020<br/>|8 de diciembre de 2020<br/>|
+|Canal empresarial mensual<br/>|2007<br/>|13029.20708<br/>|13 de octubre de 2020<br/>|10 de noviembre de 2020<br/>|
+|Canal empresarial semestral (vista previa)<br/>|2008<br/>|13127.20638<br/>|13 de octubre de 2020<br/>|9 de marzo de 2021<br/>|
+|Canal empresarial semestral<br/>|2002<br/>|12527.21236<br/>|13 de octubre de 2020<br/>|14 de septiembre de 2021<br/>|
+|Canal empresarial semestral<br/>|1908<br/>|11929.20966<br/>|13 de octubre de 2020<br/>|9 de marzo de 2021<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -53,6 +53,7 @@ La siguiente tabla proporciona una lista de los números de versión y compilaci
 
 |**Year**|**Fecha de publicación**|**Canal actual**|**Canal empresarial mensual**|**Canal empresarial semestral (vista previa)**|**Canal empresarial semestral**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020|13 de octubre|[Versión 2009 (compilación 13231.20390)](current-channel.md#version-2009-october-13)|[Versión 2008 (compilación 13127.20638)](monthly-enterprise-channel.md#version-2008-october-13)|[Versión 2008 (compilación 13127.20638)](semi-annual-enterprise-channel-preview.md#version-2008-october-13)|[Versión 2002 (compilación 12527.21236)](semi-annual-enterprise-channel.md#version-2002-october-13)<br/>[Versión 1908 (compilación 11929.20966)](semi-annual-enterprise-channel.md#version-1908-october-13)|
 |2020|08 de octubre|[Versión 2009 (compilación 13231.20368)](current-channel.md#version-2009-october-08)| | | |
 |2020|28 de septiembre|[Versión 2009 (Compilación 13231.20262)](current-channel.md#version-2009-september-28)| | | |
 |2020|22 de septiembre|[Versión 2008 (Compilación 13127.20508)](current-channel.md#version-2008-september-22))| | | |

@@ -9,26 +9,83 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones del canal semestral de Aplicaciones de Microsoft 365 en 2020.
-ms.openlocfilehash: 9e420ed8c7c6f5c329b3137f21b952f7a29af7e1
-ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
+ms.openlocfilehash: f7f3b39521132fb11226bc512f782e0adec5aba8
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47942777"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453418"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>Notas de la versión para las versiones de canal empresarial semestral en 2020
 
 Estas notas de la versión proporcionan información sobre las nuevas características y las actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones de canal empresarial semestral en 2020 para las Aplicaciones de Microsoft 365 para empresas, las Aplicaciones de Microsoft 365 para negocios y las versiones de suscripción de las aplicaciones de escritorio de Project y Visio.
 
 > [!IMPORTANT]
-> Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441) para obtener más información.
+> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
 > [!NOTE]
 >
 >- OneNote 2016 ahora se incluirá de forma predeterminada cuando un usuario en el canal empresarial semestral descargue e instale las Aplicaciones de Microsoft 365 en Windows 10 desde el Portal de Office.
 
 
-[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO FINAL)
+
+## <a name="version-2002-october-13"></a>Versión 2002: 13 de octubre
+*Versión 2002 (compilación 12527.21236)*
+
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="access"></a>Acceso
+
+- Ya no debería recibir un error "La consulta es demasiado compleja" o de recurso del sistema excedido en su versión de 64 bits de Access, siempre y cuando cumpla con las directrices y requisitos de la base de datos de Access.
+
+
+- Una vez que decida usar nuestra característica de filtro después de nuestro diseñador de consultas, la base de datos ya no debería bloquearse. Compruebe lo que corresponda.
+
+
+### <a name="excel"></a>Excel
+
+- Se corrigió un problema por el cual los usuarios no podían modificar un filtro de tabla dinámica porque estaba configurado en un valor que ya no estaba presente en una base de datos de Analysis Services.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Las nuevas presentaciones creadas a partir de una plantilla podían heredar una configuración que impedía una buena experiencia de coautoría. Esta corrección garantiza que la configuración se haya borrado en este caso.
+
+
+### <a name="word"></a>Word
+
+- Se ha corregido un problema por el que al abrir documentos con saltos de página y columnas, el usuario podía encontrar un mensaje de error, "Ha excedido el número máximo de páginas admitidas por Microsoft Word, o el documento puede estar dañado"
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Cuando el usuario imprime cualquier documento o archivo en las impresoras de inyección de tinta de Office y la tinta de la impresora es poco visible, el mensaje "tóner bajo" o "sin tóner" se mostrará, aunque las impresoras de inyección de tinta no tengan toners Cambiar mensaje para mostrar "tóner/Ink Low" & "no tóner/tinta".
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO FINAL)
+
+## <a name="version-1908-october-13"></a>Versión 1908: 13 de octubre
+*Versión 1908 (compilación 11929.20966)*
+
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Cuando el usuario imprime cualquier documento o archivo en las impresoras de inyección de tinta de Office y la tinta de la impresora es poco visible, el mensaje "tóner bajo" o "sin tóner" se mostrará, aunque las impresoras de inyección de tinta no tengan toners Cambiar mensaje para mostrar "tóner/Ink Low" & "no tóner/tinta".
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO FINAL)
 
 ## <a name="version-2002-september-08"></a>Versión 2002: 08 de septiembre
 *Versión 2002 (Compilación 12527.21104)*
@@ -819,7 +876,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - Corrige un problema que provocaba que los usuarios tuvieran problemas al intentar sincronizar carpetas del calendario compartido con el OST, lo que producía errores en los permisos al tratar de interactuar con estas carpetas.
 
-- Se ha corregido un problema que causaba que los usuarios sufrieran un error al visualizar más de 30 calendarios en un entorno Citrix. Aquí está el [KB individual, donde se ha documentado esto para versiones anteriores](https://support.microsoft.com/en-us/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
+- Se ha corregido un problema que causaba que los usuarios sufrieran un error al visualizar más de 30 calendarios en un entorno Citrix. Aquí está el [KB individual, donde se ha documentado esto para versiones anteriores](https://support.microsoft.com/es-ES/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
 
 - Corrige un problema con la selección de algoritmos SMIME.
 
@@ -1696,7 +1753,8 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 > Si necesita ayuda con algún problema de uso de Office, le recomendamos que publique la pregunta en el [foro de preguntas de Microsoft](https://answers.microsoft.com/) o [Tech Community](https://techcommunity.microsoft.com/), o bien puede ponerse en contacto con el [servicio de soporte técnico](https://support.microsoft.com/contactus).
 
 
-[//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (NO MODIFICAR INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|DC|Production| |16.0.12527.21236|versión-2002-13-octubre|)
 [//]: # (|Win32|DC|Producción| |16.0.12527.21104|versión-2002-08-agosto|)
 [//]: # (|Win32|DC|Producción| |16.0.12527.20988|versión-2002-11-agosto|)
 [//]: # (| Win32 | CC | Producción | | 16.0.12527.20880 | versión-2002-julio-14 |)

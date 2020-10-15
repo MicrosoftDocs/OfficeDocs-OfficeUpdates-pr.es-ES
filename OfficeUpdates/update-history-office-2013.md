@@ -9,19 +9,19 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI un historial de actualizaciones para las versiones perpetuas de Office 2013 que usan Hacer clic y ejecutar.
-ms.openlocfilehash: 48678f5621aa51279653f7a000261e3d776c973b
-ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
+ms.openlocfilehash: 768a146b2be4bccae92489e665c4e9ac9738dac5
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48174679"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453348"
 ---
 # <a name="update-history-for-office-2013"></a>Historial de actualizaciones para Office 2013
 
 Algunos productos de Office 2013 se actualizan automáticamente mediante una tecnología denominada hacer clic y ejecutar. Si desea comprobar que está actualizado, compruebe su número de versión de Office y actualice Office manualmente si es necesario.
   
 > [!NOTE]
-> La versión más reciente de Office 2013 es **15.0.5275.1000**, que fue publicada el 8 de septiembre de 2020.
+> La versión más reciente de Office 2013 es **15.0.5285.1000**, que se publicó el 13 de octubre de 2020.
   
 Para comprobar su versión de Office, siga estos pasos:
   
@@ -45,7 +45,8 @@ Las versiones nuevas incluyen todas las actualizaciones de versiones anteriores.
   
 |**Año de publicación**|**Fecha de publicación**|**Número de versión**|**Más información**|
 |:-----|:-----|:-----|:-----|
-|2020| 8 de septiembre| 15.0.5275.1000 | [KB 4576653](https://support.microsoft.com/help/4576653)|
+|2020| 13 de octubre| 15.0.5285.1000| [KB 4583495](https://support.microsoft.com/help/4583495)|
+||8 de septiembre| 15.0.5275.1000 | [KB 4576653](https://support.microsoft.com/help/4576653)|
 ||11 de agosto | 15.0.5267.1000  | [KB 4563408](https://support.microsoft.com/help/4563408)|
 ||14 de julio    | 15.0.5259.1000    |[KB 4559453](https://support.microsoft.com/help/4559453)|
 ||9 de junio   |15.0.5249.1001   |[KB 4559448](https://support.microsoft.com/help/4559448)|

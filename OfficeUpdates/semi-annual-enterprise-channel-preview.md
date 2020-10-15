@@ -9,20 +9,93 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones del canal semestral (dirigido) de Aplicaciones de Microsoft 365 en 2020.
-ms.openlocfilehash: 224c64a8f12489edd5050be683e477a05369f8c9
-ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
+ms.openlocfilehash: 1d67f64f2d0821addfdffbe4ac5b51895bf1e48f
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47942867"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453398"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>Notas de la versión para las versiones de canal empresarial semestral (vista previa) en 2020
 
 Estas notas de la versión proporcionan información sobre las nuevas características y las actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones de canal empresarial semestral (vista previa) en 2020 para las Aplicaciones de Microsoft 365 para empresas, las Aplicaciones de Microsoft 365 para negocios y las versiones de suscripción de las aplicaciones de escritorio de Project y Visio.
 
 > [!IMPORTANT]
-> Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441) para obtener más información.
+> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
+
+## <a name="version-2008-october-13"></a>Versión 2008: 13 de octubre
+*Versión 2008 (compilación 13127.20638)*
+
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Se ha corregido un error con las API de PivotDateFilter en el que las condiciones de filtro 'Antes' y 'Después' se revertían.
+
+
+- Se corrigió un problema por el cual los usuarios no podían modificar un filtro de tabla dinámica porque estaba configurado en un valor que ya no estaba presente en una base de datos de Analysis Services.
+
+
+- Se ha corregido un problema que provocaba que Excel se bloqueara al usar el Análisis rápido después de inmovilizar la fila superior de la hoja.
+
+
+- Se ha corregido un problema que podía producir una advertencia acerca de un libro dañado si contenía fórmulas que usan SI.ND.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrige un problema que provocaba que los usuarios no pudieran cerrar los calendarios compartidos haciendo clic en la "X" de la esquina.
+
+
+- Corrige un problema que causaba que la configuración "Activar las mejoras del calendario compartido" en ocasiones no se pudiera aplicar a los calendarios compartidos existentes.
+
+
+- Corrige un problema que provocaba que los usuarios vieran un error en la página de vínculos seguros en lugar del documento que intentaban abrir al abrir un archivo adjunto en la nube.
+
+
+- Corrige un problema de rendimiento con la carga de archivos adjuntos.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Este cambio corrige un problema relacionado con la característica Exportar a GIF animado, en la que no se exporta al hacer clic en el botón Exportar.
+
+
+- Corrección de seguridad para solucionar un problema que deshabilita las protecciones IRM al abrir un archivo de PowerPoint en la vista protegida.
+
+
+### <a name="word"></a>Word
+
+- Corrige un problema que provocaba que los usuarios experimentaran un bloqueo al abrir algunos correos electrónicos muy grandes.
+
+
+- Se ha corregido un problema por el que el usuario podría experimentar un error al abrir un documento.
+
+
+- Se ha corregido un problema que podía provocar un bloqueo al iniciar Word.
+
+
+- Se ha corregido un problema con el cuadro de diálogo Galería de estilos.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Cuando el usuario imprime cualquier documento o archivo en las impresoras de inyección de tinta de Office y la tinta de la impresora es poco visible, el mensaje "tóner bajo" o "sin tóner" se mostrará, aunque las impresoras de inyección de tinta no tengan toners Cambiar mensaje para mostrar "tóner/Ink Low" & "no tóner/tinta".
+
+
+- Corrige el uso elevado de la CPU en modo inactivo con un GIF o un modelo 3D animado
+
+
+- Este cambio corrige un bloqueo al iniciar las aplicaciones de Office debido a un error al cargar d2d1.dll.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO FINAL)
 
 ## <a name="version-2008-september-08"></a>Versión 2008: 08 de septiembre
 *Versión 2008 (Compilación 13127.20408)*
@@ -65,7 +138,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Unirse a reuniones sin salir de la bandeja de entrada:** no es necesario cambiar al calendario para unirse a reuniones en línea. Con el Calendario de Outlook anclado en el panel de tareas pendientes, únase a una reunión con un solo clic.
 
-- **Nueva experiencia para redes WiFi cautivas:** ¿alguna vez se ha unido a una red WiFi que requiere una página web para iniciar sesión? Outlook ahora lo detecta y le ayuda a estar conectado.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)
+- **Nueva experiencia para redes WiFi cautivas:** ¿alguna vez se ha unido a una red WiFi que requiere una página web para iniciar sesión? Outlook ahora lo detecta y le ayuda a estar conectado.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/outlook-on-public-wi-fi-networks-just-got-easier)
 
 - **Obtener sugerencias de correo electrónico cuando busca un contacto:** cuando escriba el nombre de una persona en el cuadro de búsqueda, se incluirán los mensajes de correo electrónico más relevantes con las sugerencias de búsqueda. [Más información](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
@@ -1114,7 +1187,8 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 > Si necesita ayuda con algún problema de uso de Office, le recomendamos que publique la pregunta en el [foro de preguntas de Microsoft](https://answers.microsoft.com/) o [Tech Community](https://techcommunity.microsoft.com/), o bien puede ponerse en contacto con el [servicio de soporte técnico](https://support.microsoft.com/contactus).
 
 
-[//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (NO MODIFICAR INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|FRDC|Insiders| |16.0.13127.20638|versión-2008-13-octubre|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20408|version-2008-septiembre-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.12527.20988|version-2002-11-agosto|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.12527.20880|version-2002-july-14|)

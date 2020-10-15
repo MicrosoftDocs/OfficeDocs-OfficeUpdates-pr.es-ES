@@ -9,23 +9,227 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de empresa para Aplicaciones de Microsoft 365 en 2020
-ms.openlocfilehash: a9301d0f53144a666571e563472f88b3bc5da924
-ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
+ms.openlocfilehash: 022bfa584cf864f9e1c38a57d7d1c54d4f5dc34e
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47942807"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453318"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Notas de la versión para las versiones de canal de empresa mensual en 2020
 
 Estas notas de la versión proporcionan información sobre las nuevas características y las actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones del Canal de empresa mensual en 2020 para Aplicaciones de Microsoft 365 para empresas, Aplicaciones de Microsoft 365 para negocios y las versiones de suscripción de las aplicaciones de escritorio de Project y Visio.
 
 > [!IMPORTANT]
-> Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441) para obtener más información.
+> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
 [//]: # (NO ELIMINAR)
 
 
+
+## <a name="version-2008-october-13"></a>Versión 2008: 13 de octubre
+*Versión 2008 (compilación 13127.20638)*
+
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **¿Tiene dudas? Pregúntele a Excel:** ahora las Ideas de Excel le permiten realizar preguntas sobre sus datos, no necesita gastar tiempo escribiendo fórmulas (solo disponible en inglés). [Más información](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+
+- **Guardar en carpetas fijadas:** anclar las carpetas facilita el almacenamiento de archivos de Office.  Recibimos un comentario en el que se nos informa de que los usuarios desean tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. [Más información](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+
+- **Realice una conexión PDF:** Conectar, importar, actualizar los datos de un PDF. [Más información](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
+
+- **Guarde formas como imágenes:** con tan solo unos pocos clics, guarde una forma, icono u otro objeto como archivo de imagen para que pueda volver a usarlo en otro lugar. [Más información](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+### <a name="outlook"></a>Outlook
+
+- **Crear sondeos en Outlook con Sondeo rápido:** cree sondeos, recopile votos y vea los resultados rápidamente en un solo correo electrónico [Más información](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+
+- **Nueva tarjeta de perfil para Outlook:** Nueva tarjeta de perfil para Outlook en la que se muestra una Vista de organización mejorada y que coincide con el estilo de tarjeta de Outlook Web. [Más información](https://support.office.com/article/e80f931f-5fc4-4a59-ba6e-c1e35a85b501)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Guardar en carpetas fijadas:** anclar las carpetas facilita el almacenamiento de archivos de Office.  Recibimos un comentario en el que se nos informa de que los usuarios desean tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. [Más información](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+
+### <a name="word"></a>Word
+
+- **Guardar en carpetas fijadas:** anclar las carpetas facilita el almacenamiento de archivos de Office.  Recibimos un comentario en el que se nos informa de que los usuarios desean tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. [Más información](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+
+
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="access"></a>Acceso
+
+- Este problema fue resuelto: ahora puede usar el controlador ODBC fuera de las aplicaciones de Hacer clic y ejecutar de Office.
+
+
+- Este cambio corrige un problema que podía provocar que Access se bloqueara al iniciar el cuadro de Zoom (Mayús + F2) para editar el texto.
+
+
+- Se ha corregido el problema y ya no debería experimentar el bloqueo.
+
+
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema que podía producir una advertencia acerca de un libro dañado si contenía fórmulas que usan SI.ND().
+
+
+- Se ha corregido un problema que provocaba que Excel se bloqueara al usar el Análisis rápido después de inmovilizar la fila superior de la hoja.
+
+
+- Se corrigió un problema por el cual los usuarios no podían modificar un filtro de tabla dinámica porque estaba configurado en un valor que ya no estaba presente en una base de datos de Analysis Services.
+
+
+- Se ha corregido un problema que provocaba que Excel se bloqueara en determinadas circunstancias al usar Copiar formato.
+
+
+- Se ha corregido un error con las API de PivotDateFilter en el que las condiciones de filtro 'Antes' y 'Después' se revertían.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrige un problema que provocaba que los usuarios recibieran el siguiente error al responder a un correo o al redactar uno nuevo: "Algunos archivos de esta página web no están en la ubicación esperada. ¿Desea descargarlos de todos modos? Si está seguro de que la página web es una fuente de confianza, haga clic en Sí".
+
+
+- Se ha corregido un problema que provocaba que el menú contextual del botón derecho no apareciera en los controles de búsqueda.
+
+
+- Corrige un problema que provocaba que los usuarios vieran anomalías al usar la vista compacta.
+
+
+- Esto corrige un problema que provocaba que los usuarios experimentaran bloqueos ocasionales al editar los destinatarios.
+
+
+- Corrige un problema que impedía a algunos usuarios visualizar correctamente la página del Asistente para programación.
+
+
+- Corrige un problema de rendimiento con la carga de archivos adjuntos.
+
+
+- Se ha corregido un problema que provocaba que los usuarios experimentaran un error al eliminar 4 o más mensajes de correo electrónico de una cuenta POP con la opción "Descargar solo encabezados" seleccionada.
+
+
+- Corrige un problema que provocaba que los usuarios vieran un error en la página de vínculos seguros en lugar del documento que intentaban abrir al abrir un archivo adjunto en la nube.
+
+
+- Corrige un problema que provocaba que los usuarios experimentaran bloqueos ocasionales al interactuar con los datos adjuntos en la nube.
+
+
+- Corrige un problema que provocaba que los usuarios no pudieran cerrar los calendarios compartidos haciendo clic en la "X" de la esquina.
+
+
+- Corrige un problema que evitaba que los usuarios se conectaran a las carpetas públicas luego de agregar un buzón compartido.
+
+
+- Se ha corregido un problema que provocaba un error al tratar de eliminar las reuniones del calendario de un administrador, cuando un delegado las rechazaba en determinadas circunstancias.
+
+
+- Se corrigió un problema que impedía a algunos usuarios de la característica Mejoras del calendario compartido ver un calendario compartido recién agregado.
+
+
+- Corrige un problema que causaba que la configuración "Activar las mejoras del calendario compartido" en ocasiones no se pudiera aplicar a los calendarios compartidos existentes.
+
+
+- Corrige un problema que evitaba que los usuarios que intentaran crear una solicitud de reunión desde una cuenta secundaria añadida a su perfil vieran el campo De: en blanco en lugar de su dirección de correo electrónico.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha corregido un problema que provocaba el bloqueo en la aplicación de PowerPoint.
+
+
+- Corrección de seguridad para solucionar un problema que deshabilita las protecciones IRM al abrir un archivo de PowerPoint en la vista protegida.
+
+
+- Este cambio corrige un problema relacionado con la característica Exportar a GIF animado, en la que no se exporta al hacer clic en el botón Exportar.
+
+
+### <a name="project"></a>Project
+
+- Se ha corregido un problema en el que la fecha de finalización de Project no se actualiza para los proyectos conectados a la lista de tareas de SharePoint.
+
+
+- Se ha corregido un problema debido al cual, si un recurso tenía más de una tabla de tasa de costo definida, el costo restante no siempre se calculaba correctamente.
+
+### <a name="skype"></a>Skype
+
+- Se cambió el tono de piel del emoticono de baile a un color neutro
+
+
+### <a name="visio"></a>Visio
+
+- Los usuarios han reportado el bloqueo de la Vista previa dinámica en la alineación del texto. Bloqueo al llegar a la parte superior en la bifurcación de repositorio de julio.
+
+
+### <a name="word"></a>Word
+
+- Se ha corregido un problema por el que se ejecuta la macro AutoOpen antes de AutoExec.
+
+
+- Se ha corregido un problema con el cuadro de diálogo Galería de estilos.
+
+
+- Se ha corregido un problema que podía provocar un bloqueo al iniciar Word.
+
+
+- Se ha corregido un problema que provocaba que los estilos base no se actualizaran con el estilo Normal.
+
+
+- Se ha corregido un problema por el que el usuario podría experimentar un error al abrir un documento.
+
+
+- Se ha corregido un problema que provocaba que el usuario pudiera perder contenido al cambiar el tamaño de una forma.
+
+
+- Corrige un problema que provocaba que los usuarios experimentaran un bloqueo al abrir algunos correos electrónicos muy grandes.
+
+
+- Corrige un problema que provocaba que los usuarios experimentaran un bloqueo al responder o redactar un correo nuevo.
+
+
+- Este cambio corrige un problema que provocaba que las aplicaciones de Office se quedaran atascadas en un estado de error de guardado silencioso después de una sesión de coautoría anterior.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Este cambio corrige un bloqueo al iniciar las aplicaciones de Office debido a un error al cargar d2d1.dll.
+
+
+- Corrige el uso elevado de la CPU en modo inactivo con un GIF o un modelo 3D animado
+
+
+- Cuando el usuario imprime cualquier documento o archivo en las impresoras de inyección de tinta de Office y la tinta de la impresora es poco visible, el mensaje "tóner bajo" o "sin tóner" se mostrará, aunque las impresoras de inyección de tinta no tengan toners Cambiar mensaje para mostrar "tóner/Ink Low" & "no tóner/tinta".
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO FINAL)
+
+## <a name="version-2007-october-13"></a>Versión 2007: 13 de octubre
+*Versión 2007 (compilación 13029.20708)*
+
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Se ha corregido un error con las API de PivotDateFilter en el que las condiciones de filtro 'Antes' y 'Después' se revertían.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO FINAL)
 
 ## <a name="version-2007-september-08"></a>Versión 2007: 08 de septiembre
 *Versión 2007 (compilación 13029.20534)*
@@ -635,7 +839,8 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 > Si necesita ayuda con algún problema de uso de Office, le recomendamos que publique la pregunta en el [foro de preguntas de Microsoft](https://answers.microsoft.com/) o [Tech Community](https://techcommunity.microsoft.com/), o bien puede ponerse en contacto con el [servicio de soporte técnico](https://support.microsoft.com/contactus).
 
 
-[//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (NO MODIFICAR INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13127.20638|versión-2008-13-octubre|)
 [//]: # (| Win32 | MEC | Producción | Característica | 16.0.13029.20534 | versión-2007-septiembre-08 |)
 [//]: # (|Win32|MEC|Producción|Característica|16.0.13001.20520|versión-2006-11-agosto|)
 [//]: # (|Win32|MEC|Producción|Característica|16.0.12827.20538|version-2005-july-14|)

@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365 en 2020
-ms.openlocfilehash: c9d58f34f90b8fac9d765ebc0242c49c169e72ff
-ms.sourcegitcommit: 01f34ec0267eb63ffb29045cca4d0a4520256ad0
+ms.openlocfilehash: eecc9d0164fbec792cf944b6ee6e5cd361d53ef4
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2020
-ms.locfileid: "48398405"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453328"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notas de la versión para las versiones del canal actual en 2020
 
 Estas notas de la versión proporcionan información sobre las nuevas características y las actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones de canal actual en 2020 para las Aplicaciones de Microsoft 365 para empresas, las Aplicaciones de Microsoft 365 para negocios y las versiones de suscripción de las aplicaciones de escritorio de Project y Visio.
 
 > [!IMPORTANT]
-> Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441) para obtener más información.
+> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
  > [!NOTE]
 >
@@ -35,7 +35,24 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO FINAL)
+
+## <a name="version-2009-october-13"></a>Versión 2009:13 de octubre
+*Versión 2009 (compilación 13231.20390)*
+
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="project"></a>Project
+
+- Se ha corregido un problema por el que Project podía bloquearse al abrir archivos donde los contornos de recursos se especificaban de cierta manera.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO FINAL)
 
 ## <a name="version-2009-october-08"></a>Versión 2009: 08 de octubre
 *Versión 2009 (compilación 13231.20368)*
@@ -421,7 +438,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 - **Retener texto en vectores:** ahora puede conservar el texto en mapas, gráficos y otros vectores de SVG al convertir estos objetos en Excel, Word y PowerPoint.
 
 
-[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
 <br/>
 
@@ -1370,7 +1387,8 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 > [!NOTE]
 > Si necesita ayuda con algún problema de uso de Office, le recomendamos que publique la pregunta en el [foro de preguntas de Microsoft](https://answers.microsoft.com/) o [Tech Community](https://techcommunity.microsoft.com/), o bien puede ponerse en contacto con el [servicio de soporte técnico](https://support.microsoft.com/contactus).
 
-[//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (NO MODIFICAR INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|CC|Production| |16.0.13231.20390|versión-2009-13-octubre|)
 [//]: # (|Win32|CC|Producción| |16.0.13231.20368|versión-2009-julio-08|)
 [//]: # (|Win32|CC|Producción| |16.0.13231.20262|versión-2009-28-septiembre|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20508|versión-2008-22-septiembre|)
@@ -1380,5 +1398,4 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 [//]: # (|Win32|CC|Producción| |16.0.13029.20344|versión-2007-11-agosto|)
 [//]: # (|Win32|CC|Producción| |16.0.13029.20308|versión-2007-julio-30|)
 [//]: # (|Win32|CC|Producción| |16.0.13001.20498|versión-2006-julio-28|)
-[//]: # (|Win32|CC|Producción| |16.0.13001.20384|versión-2006-julio-14|)
 [//]: # (NO MODIFICAR FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)

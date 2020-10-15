@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Aplicaciones de Microsoft 365 según el canal de actualización.
-ms.openlocfilehash: 9bc7fd4a134c46d74198afb17147a81a151a4f64
-ms.sourcegitcommit: 01f34ec0267eb63ffb29045cca4d0a4520256ad0
+ms.openlocfilehash: 5f7e6ca7fc98e3b3e8620807c523893802ba69de
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2020
-ms.locfileid: "48398375"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453278"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tamaños de descarga de las actualizaciones de Aplicaciones de Microsoft 365 
 
@@ -26,7 +26,7 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 
 
 > [!IMPORTANT]
-> - Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441) para obtener más información.
+> - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 > - A partir de la versión 2004, el nombre de Office 365 ProPlus pasa a ser Aplicaciones de Microsoft 365 para empresas. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2123420) para obtener más información.Por lo general, en nuestra documentación solo haremos referencia a él como Aplicaciones de Microsoft 365.
 
 
@@ -35,6 +35,52 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 > - Se muestran las versiones de los últimos cuatro meses.
 
 [//]: # (NO ELIMINAR)
+
+## <a name="october-13-2020"></a>13 de octubre de 2020
+
+[//]: # (NO ELIMINAR COMIENZO DEL CONTENIDO13 de octubre de 2020)
+
+### <a name="current-channel"></a>Canal actual
+
+La versión más actual es la Versión 2009 (compilación 13231.20390).
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 2009 (compilación 13231.20368) <br/> |8 de octubre de 2020 <br/> |42<br/> |
+|Versión 2009 (Compilación 13231.20262) <br/> |28 de septiembre de 2020 <br/> |47<br/> |
+
+
+### <a name="monthly-enterprise-channel"></a>Canal mensual para empresas
+
+La versión más actual es la Versión 2008 (compilación 13127.20638).
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 2007 (compilación 13029.20534) <br/> |8 de septiembre de 2020 <br/> |252<br/> |
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>Canal empresarial semestral (vista previa)
+
+La versión más actual es la Versión 2008 (compilación 13127.20638).
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 2008 (Compilación 13127.20408) <br/> |8 de septiembre de 2020 <br/> |49<br/> |
+|Versión 2002 (compilación 12527.20988) <br/> |11 de agosto de 2020 <br/> |499<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>Canal empresarial semestral
+
+La versión más actual es la Versión 2002 (compilación 12527.21236).
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 2002 (Compilación 12527.21104) <br/> |8 de septiembre de 2020 <br/> |76<br/> |
+|Versión 2002 (compilación 12527.20988) <br/> |11 de agosto de 2020 <br/> |89<br/> |
+
+
+
+[//]: # (NO ELIMINAR FINALES DEL CONTENIDO13 de octubre de 2020)
 
 ## <a name="october-8-2020"></a>8 de octubre de 2020
 
@@ -52,42 +98,8 @@ La versión más actual es la Versión 2009 (Compilación 13231.20368).
 
 [//]: # (NO ELIMINAR FINALES DEL CONTENIDO 8 de octubre de 2020)
 
-[//]: # (NO ELIMINAR INICIO DEL CONTENIDO DE PREVISIÓN)
-
-## <a name="october-8-2020"></a>8 de octubre de 2020
 
 
-### <a name="monthly-enterprise-channel"></a>Canal empresarial mensual
-
-<i>La versión prevista es la versión 2008 (compilación 13127.20618).</i>
-
-|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
-|:-----|:-----|:-----|
-|Versión 2007 (compilación 13029.20534) <br/> |8 de septiembre de 2020 <br/> |252<br/> |
-
-
-
-### <a name="semi-annual-enterprise-channel-preview"></a>Canal empresarial semestral (vista previa)
-
-<i>La versión prevista es la versión 2008 (compilación 13127.20600).</i>
-
-|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
-|:-----|:-----|:-----|
-|Versión 2008 (Compilación 13127.20408) <br/> |8 de septiembre de 2020 <br/> |48<br/> |
-|Versión 2002 (compilación 12527.20988) <br/> |11 de agosto de 2020 <br/> |499<br/> |
-
-
-### <a name="semi-annual-enterprise-channel"></a>Canal empresarial semestral
-
-<i>La versión prevista es la versión 2002 (compilación 12527.21216).</i>
-
-|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
-|:-----|:-----|:-----|
-|Versión 2002 (Compilación 12527.21104) <br/> |8 de septiembre de 2020 <br/> |72<br/> |
-|Versión 2002 (compilación 12527.20988) <br/> |11 de agosto de 2020 <br/> |86<br/> |
-
-
-[//]: # (NO ELIMINAR FINAL DEL CONTENIDO DE PREVISIÓN)
 
 ## <a name="september-28-2020"></a>28 de septiembre de 2020
 
