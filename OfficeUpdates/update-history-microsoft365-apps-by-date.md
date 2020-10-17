@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista completa de las versiones de las Aplicaciones de Microsoft 365, organizada por fecha, con vínculos a las notas de la versión.
-ms.openlocfilehash: 31c289363017fd7511036d7a879542dd34a2a83c
-ms.sourcegitcommit: 3a03037114edb3662a0e076218e42be7c4c1ee89
+ms.openlocfilehash: 1ba64e6f8c8c6c4f28784aa7bc32472ee7b7088b
+ms.sourcegitcommit: cffaa3a1571bd422c22e182b1722d2428cb6a6af
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "48464733"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "48473051"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Historial de actualizaciones de Aplicaciones de Microsoft 365 (ordenado por fecha)
 
@@ -52,7 +52,7 @@ La siguiente tabla proporciona una lista de los números de versión y compilaci
 |**Year**|**Fecha de publicación**|**Canal actual**|**Canal empresarial mensual**|**Canal empresarial semestral (vista previa)**|**Canal empresarial semestral**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |
-|2020|13 de octubre|[Versión 2009 (compilación 13231.20390)](current-channel.md#version-2009-october-13)|[Versión 2008 (Compilación 13127.20638)](monthly-enterprise-channel.md#version-2008-october-13)<br/>[Versión 2007 (Compilación 13029.20708)](monthly-enterprise-channel.md#version-2007-october-14)|[Versión 2008 (Compilación 13127.20638)](semi-annual-enterprise-channel-preview.md#version-2008-october-13)|[Versión 2002 (compilación 12527.21236)](semi-annual-enterprise-channel.md#version-2002-october-13)<br/>[Versión 1908 (compilación 11929.20966)](semi-annual-enterprise-channel.md#version-1908-october-13)|
+|2020|13 de octubre|[Versión 2009 (compilación 13231.20390)](current-channel.md#version-2009-october-13)|[Versión 2008 (Compilación 13127.20638)](monthly-enterprise-channel.md#version-2008-october-13)<br/>[Versión 2007 (Compilación 13029.20708)](monthly-enterprise-channel.md#version-2007-october-13)|[Versión 2008 (Compilación 13127.20638)](semi-annual-enterprise-channel-preview.md#version-2008-october-13)|[Versión 2002 (compilación 12527.21236)](semi-annual-enterprise-channel.md#version-2002-october-13)<br/>[Versión 1908 (compilación 11929.20966)](semi-annual-enterprise-channel.md#version-1908-october-13)|
 |2020|08 de octubre|[Versión 2009 (compilación 13231.20368)](current-channel.md#version-2009-october-08)| | | |
 |2020|28 de septiembre|[Versión 2009 (Compilación 13231.20262)](current-channel.md#version-2009-september-28)| | | |
 |2020|22 de septiembre|[Versión 2008 (Compilación 13127.20508)](current-channel.md#version-2008-september-22))| | | |
