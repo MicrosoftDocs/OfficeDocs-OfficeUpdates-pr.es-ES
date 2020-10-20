@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los participantes del programa Insider el historial de actualizaciones de los lanzamientos del canal mensual dirigido de Office para versiones de escritorio de Windows
-ms.openlocfilehash: f4c124be4655216618e2aab6e352af2a0e5693d4
-ms.sourcegitcommit: 9b9a423f50245a12dfb1917b1a9cdb2e7eca1614
+ms.openlocfilehash: 164f08c6b192be36396419c8e5c4b5412b0e8e7a
+ms.sourcegitcommit: d073ad1fa5007a3c01248e4cddc2d5a6e98e9811
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/12/2020
-ms.locfileid: "48422549"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "48597773"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Historial de actualización del canal actual de Office (versión preliminar) para Windows
 
@@ -28,7 +28,7 @@ Para buscar notas de la versión, [vea](https://docs.microsoft.com/OfficeUpdates
 
 
 > [!IMPORTANT]
-> - Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441) para obtener más información.
+> - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 > - A partir de la versión 2004, el nombre de Office 365 ProPlus pasa a ser Aplicaciones de Microsoft 365 para empresas. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2123420) para obtener más información.Por lo general, en nuestra documentación solo haremos referencia a él como Aplicaciones de Microsoft 365.
 
 > [!NOTE]
@@ -37,6 +37,9 @@ Para buscar notas de la versión, [vea](https://docs.microsoft.com/OfficeUpdates
 
 
 [//]: # (NO ELIMINAR)
+
+**19 de octubre de 2020**<br/>
+Versión 2010 (compilación 13328.20210)<br/>
 
 **11 de octubre de 2020**<br/>
 Versión 2010 (compilación 13328.20154)<br/>
