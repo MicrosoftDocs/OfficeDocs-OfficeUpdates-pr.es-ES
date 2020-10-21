@@ -70,7 +70,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 - Se ha corregido un problema con los gráficos de mapas 2D que provocaba que el uso de VBA para establecer los colores de los valores max, mid y min para una serie no funcione.
 
 
-- Se ha corregido un problema por el que Excel indicaba por error haberse quedado sin recursos al intentar calcular una o varias fórmulas.
+- Se ha corregido un problema por el que Excel indicaba por error que se había quedado sin recursos al intentar calcular una o varias fórmulas.
 
 
 - Se ha corregido un problema que aparecía cuando se configuraba el idioma de Office en español. Este problema provocaba que las listas de validación de datos puedan no mostrar todos los elementos de la lista.
@@ -79,13 +79,13 @@ This article contains release notes for Current Channel (Preview) builds of Word
 - Se ha corregido un problema que provocaba un retraso considerable al cambiar entre hojas de cálculo con grandes cantidades de datos cuando la 'Vista previa de salto de página' estaba habilitada.
 
 
-- Se ha corregido un problema que provocaba que no se actualizaran las opciones de todas las hojas del libro al agregar una tabla usada para la validación de datos.
+- Se ha corregido un problema que hacía que no se actualizaran las opciones de todas las hojas del libro al agregar una tabla usada para la validación de datos.
 
 
-- Se ha corregido un problema que podía provocar un bloqueo al actualizar las tablas dinámicas de OLAP.
+- Se ha corregido un problema que podía producir un bloqueo al actualizar las tablas dinámicas de OLAP.
 
 
-- Se ha corregido un problema que provocaba que ChartSheet se bloquee en ciertos casos cuando se insertaba una fórmula en la barra de fórmulas.
+- Se ha corregido un problema que hacía que ChartSheet se bloqueara en ciertos casos cuando se insertaba una fórmula en la barra de fórmulas.
 
 
 - Se corrigió un problema por el cual la barra de fórmulas de Excel no se mostraba completamente después de que se perdiera la conexión a un dispositivo, como una conexión o desconexión de sesión remota o un cambio de monitor.
@@ -96,10 +96,10 @@ This article contains release notes for Current Channel (Preview) builds of Word
 - Se ha corregido un problema que impedía al usuario seleccionar y copiar la dirección URL del bloc de notas del cuadro de texto en un archivo de OutSpace > Información.
 
 
-- Se ha corregido un problema que provocaba que, al pasar el ratón sobre el color verde en el selector de colores del bloc de notas, el elemento emergente muestre "red chalk" (tiza roja).
+- Se ha corregido un problema que hacía que, al pasar el ratón sobre el color verde en el selector de colores del bloc de notas, el elemento emergente indicara "red chalk" (tiza roja).
 
 
-- Se ha corregido un problema que provocaba que OneNote no respetara los colores de contraste alto en el lienzo para temas personalizados.
+- Se ha corregido un problema que hacía que OneNote no respetara los colores de contraste alto en el lienzo para temas personalizados.
 
 
 ### <a name="outlook"></a>Outlook
@@ -122,13 +122,13 @@ This article contains release notes for Current Channel (Preview) builds of Word
 - Se ha corregido un problema para ofrecer a los usuarios una forma de personalizar el texto de justificación al anular una directiva.
 
 
-- Se ha corregido un problema que provocaba que se activara el control de cambios después de reabrir el borrador desde el panel de vista previa de solo lectura.
+- Se ha corregido un problema que hacía que se activara el control de cambios después de reabrir el borrador desde el panel de vista previa de solo lectura.
 
 
-- Se ha corregido un problema que provocaba que los correos electrónicos se ocultaran después de desactivar la Bandeja de entrada Prioritarios y ordenarlos.
+- Se ha corregido un problema que hacía que los correos electrónicos se ocultaran después de desactivar la Bandeja de entrada Prioritarios y ordenarlos.
 
 
-- Se ha corregido un problema que provocaba que Outlook creara una segunda firma vacía para las personas con la configuración de la nube habilitada.
+- Se ha corregido un problema que hacía que Outlook creara una segunda firma vacía para las personas con la configuración de la nube habilitada.
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -136,10 +136,10 @@ This article contains release notes for Current Channel (Preview) builds of Word
 - Se ha corregido un problema que impedía a PowerPoint exportar las viñetas rectangulares al exportar a PDF.
 
 
-- Se ha corregido un problema que provocaba que los GIF solo muestren la animación una vez en el editor y en las presentaciones.
+- Se ha corregido un problema que hacía que los GIF solo mostraran la animación una vez en el editor y en las presentaciones.
 
 
-- Se ha corregido un problema que provocaba que el gráfico de Excel vinculado cambiara incorrectamente a la hoja de Excel cuando el usuario cambiaba la ruta de origen a la carpeta de OneDrive local.
+- Se ha corregido un problema que hacía que el gráfico de Excel vinculado cambiara incorrectamente a la hoja de Excel cuando el usuario cambiaba la ruta de origen a la carpeta de OneDrive local.
 
 
 - Se ha corregido un problema debido al cual, si se encuentra en la última diapositiva y pasa a la siguiente diapositiva tras pulsar "Finalizar sesión" y antes de que aparezca el resumen, el cuadro de diálogo de sesión final también aparece visible en la página de resumen.
