@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI un historial de actualizaciones para las versiones permanentes de Office 2016 y Office 2019 que usan Hacer clic y ejecutar.
-ms.openlocfilehash: d808192979c1d29053e5782e7ce64d0f144a9de5
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: b4564f0ee33fe1f1625e2410855330f07fb391bd
+ms.sourcegitcommit: 1fa0c0b581efdfd4225f535186cb12fbccc403a1
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453098"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48657308"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Historial de actualizaciones para la versión de Hacer clic y ejecutar de Office 2016 y Office 2019
 
@@ -85,12 +85,12 @@ La siguiente información se aplica a las versiones comerciales de Hacer clic y 
 
 |**Fecha de publicación**|**Número de versión**|**Más información**|
 |:-----|:-----|:-----|
+|21 de octubre de 2020|Versión 2009 (compilación 13231.20418)| |
 |13 de octubre de 2020|Versión 2009 (compilación 13231.20390)|Consulte la [página de actualización de seguridad](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)  |
 |8 de octubre de 2020|Versión 2009 (compilación 13231.20368)| |
 |28 de septiembre de 2020|Versión 2009 (Compilación 13231.20262)| |
 |22 de septiembre de 2020|Versión 2008 (Compilación 13127.20508)| |
 |9 de septiembre de 2020|Versión 2008 (Compilación 13127.20408)|Consulte la [página de actualización de seguridad](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
-|31 de agosto de 2020|Versión 2008 (compilación 13127.20296)| |
 
 
 [//]: # (NO QUITAR EL FINAL DE LA TABLA DE VENTAS AL POR MENOR)
@@ -104,6 +104,7 @@ La siguiente información se aplica a las versiones comerciales de Hacer clic y 
 
 |**Fecha de publicación**|**Número de versión**|**Más información**|
 |:-----|:-----|:-----|
+|31 de agosto de 2020|Versión 2008 (compilación 13127.20296)| |
 |25 de agosto de 2020|Versión 2007 (compilación 13029.20460)| |
 |11 de agosto de 2020|Versión 2007 (compilación 13029.20344)|Consulte la [página de actualización de seguridad](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
 |30 de julio de 2020|Versión 2007 (compilación 13029.20308)  |Varias correcciones de errores y rendimiento.  <br/>  |
