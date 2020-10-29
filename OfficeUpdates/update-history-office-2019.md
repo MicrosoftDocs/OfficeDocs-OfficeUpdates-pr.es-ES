@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI un historial de actualizaciones para las versiones permanentes de Office 2016 y Office 2019 que usan Hacer clic y ejecutar.
-ms.openlocfilehash: b4564f0ee33fe1f1625e2410855330f07fb391bd
-ms.sourcegitcommit: 1fa0c0b581efdfd4225f535186cb12fbccc403a1
+ms.openlocfilehash: ba996da9bf21f307388eec47801e18ee10567c58
+ms.sourcegitcommit: 16da127be61d3ac4db852de244516a36e3f5e129
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48657308"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48782285"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Historial de actualizaciones para la versión de Hacer clic y ejecutar de Office 2016 y Office 2019
 
@@ -23,8 +23,8 @@ Microsoft publica actualizaciones de seguridad y calidad de la versión de Hacer
 Si desea comprobar que está actualizado, compruebe el número de versión de Office y actualice Office manualmente si es necesario. Para comprobar su versión de Office, siga estos pasos:
 
   1.    Abra una aplicación de Office, como Word o Excel.
-  2.    Elija **archivo > cuenta**.
-  3.    En **Información del producto**, vea el número de versión en la **sección Acerca de**.
+  2.    Elija **archivo > cuenta** .
+  3.    En **Información del producto** , vea el número de versión en la **sección Acerca de** .
 
 Si el número de versión coincide con la versión más reciente, está actualizado. Si no es así, actualice manualmente para obtener la última versión de Office 2019. Para actualizar Office, [siga estos pasos](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 
@@ -85,12 +85,12 @@ La siguiente información se aplica a las versiones comerciales de Hacer clic y 
 
 |**Fecha de publicación**|**Número de versión**|**Más información**|
 |:-----|:-----|:-----|
+|27 de octubre de 2020|Versión 2010 (compilación 13328.20292)| |
 |21 de octubre de 2020|Versión 2009 (compilación 13231.20418)| |
 |13 de octubre de 2020|Versión 2009 (compilación 13231.20390)|Consulte la [página de actualización de seguridad](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)  |
 |8 de octubre de 2020|Versión 2009 (compilación 13231.20368)| |
 |28 de septiembre de 2020|Versión 2009 (Compilación 13231.20262)| |
 |22 de septiembre de 2020|Versión 2008 (Compilación 13127.20508)| |
-|9 de septiembre de 2020|Versión 2008 (Compilación 13127.20408)|Consulte la [página de actualización de seguridad](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
 
 
 [//]: # (NO QUITAR EL FINAL DE LA TABLA DE VENTAS AL POR MENOR)
@@ -104,6 +104,7 @@ La siguiente información se aplica a las versiones comerciales de Hacer clic y 
 
 |**Fecha de publicación**|**Número de versión**|**Más información**|
 |:-----|:-----|:-----|
+|9 de septiembre de 2020|Versión 2008 (Compilación 13127.20408)|Consulte la [página de actualización de seguridad](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
 |31 de agosto de 2020|Versión 2008 (compilación 13127.20296)| |
 |25 de agosto de 2020|Versión 2007 (compilación 13029.20460)| |
 |11 de agosto de 2020|Versión 2007 (compilación 13029.20344)|Consulte la [página de actualización de seguridad](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |

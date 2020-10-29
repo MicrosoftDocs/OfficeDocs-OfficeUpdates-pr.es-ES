@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a participantes del programa Insider el historial de actualizaciones de los lanzamientos del canal mensual del modo anticipado de Insider para versiones de escritorio de Windows
-ms.openlocfilehash: ec1d640039b853b0492a6a4de2de30d8651e0470
-ms.sourcegitcommit: d073ad1fa5007a3c01248e4cddc2d5a6e98e9811
+ms.openlocfilehash: 1058b8b2012d910f02e490fae0be580d036f974a
+ms.sourcegitcommit: aff017c0f687d7501c877de09291079fecfc9362
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "48597743"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "48773622"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Historial de actualizaciones del Canal Office beta
 
@@ -22,7 +22,7 @@ Hola, participantes de Insider. Si os estáis preguntando si tenéis instalada l
 
 > [!IMPORTANT]
 > - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - A partir de la versión 2004, el nombre de Office 365 ProPlus pasa a ser Aplicaciones de Microsoft 365 para empresas. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2123420) para obtener más información.Por lo general, en nuestra documentación solo haremos referencia a él como Aplicaciones de Microsoft 365.
+> - A partir de la versión 2004, el nombre de Office 365 ProPlus cambia a Aplicaciones de Microsoft 365 para empresas. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2123420) para obtener más información. Por lo general, en nuestra documentación solo haremos referencia al producto como Aplicaciones de Microsoft 365.
 
 > [!NOTE]
 >
@@ -31,12 +31,15 @@ Hola, participantes de Insider. Si os estáis preguntando si tenéis instalada l
 
 ## <a name="office-beta-channel-versions-and-builds"></a>Versiones y compilaciones de Canal Office beta
 
-Si se ha inscrito en el nivel de Insider, obtendrá actualizaciones frecuentes con nuevas características y mejoras. En la lista siguiente, se muestra un historial de versiones y compilaciones recientes del Canal beta, con **las compilaciones más nuevas en primer lugar**. Las compilaciones nuevas incluyen todas las actualizaciones de las compilaciones anteriores.
+Si se ha inscrito en el nivel de Insider, obtendrá actualizaciones frecuentes con nuevas características y mejoras. En la lista siguiente, se muestra un historial de versiones y compilaciones recientes del Canal beta, con **las compilaciones más nuevas en primer lugar** . Las compilaciones nuevas incluyen todas las actualizaciones de las compilaciones anteriores.
 
 Para obtener las notas de la versión, vea [notas de la versión de Insider de Office para escritorio de Windows](https://docs.microsoft.com/OfficeUpdates/beta-channel).
 
 
 [//]: # (NO ELIMINAR)
+
+**26 de octubre de 2020**<br/>
+Versión 2011 (compilación 13422.20000)<br/>
 
 **19 de octubre de 2020**<br/>
 Versión 2011 (compilación 13415.20002)<br/>
