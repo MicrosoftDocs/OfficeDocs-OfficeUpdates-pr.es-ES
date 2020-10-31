@@ -9,96 +9,99 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Historial de versiones de la Herramienta de implementación de Office (ODT) para los profesionales de TI
-ms.openlocfilehash: 4f65d41bfa18321a951fb18abcf919056bec7c5d
-ms.sourcegitcommit: 57e715a8a3c0565b902cb3e6ca45d18a26f8ec45
+ms.openlocfilehash: f578849552bb4fda0198bad3651170923d0ceb35
+ms.sourcegitcommit: b19297da26ce6f740f3e2c94ea8a6c5d4e2aaa75
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "48469999"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "48806798"
 ---
-# <a name="release-history-for-office-deployment-tool"></a><span data-ttu-id="5fdb4-103">Historial de versiones de la Herramienta de implementación de Office</span><span class="sxs-lookup"><span data-stu-id="5fdb4-103">Release history for Office Deployment Tool</span></span>
+# <a name="release-history-for-office-deployment-tool"></a><span data-ttu-id="1ac47-103">Historial de versiones de la Herramienta de implementación de Office</span><span class="sxs-lookup"><span data-stu-id="1ac47-103">Release history for Office Deployment Tool</span></span>
 
-<span data-ttu-id="5fdb4-104">La Herramienta de implementación de Office (ODT) es una herramienta de línea de comandos que puede usar para descargar e implementar versiones de hacer clic y ejecutar de Office, como aplicaciones de Microsoft 365, en sus equipos cliente.</span><span class="sxs-lookup"><span data-stu-id="5fdb4-104">The Office Deployment Tool (ODT) is a command-line tool that you can use to download and deploy Click-to-Run versions of Office, such as Microsoft 365 Apps, to your client computers.</span></span> 
+<span data-ttu-id="1ac47-104">La Herramienta de implementación de Office (ODT) es una herramienta de línea de comandos que puede usar para descargar e implementar versiones de hacer clic y ejecutar de Office, como aplicaciones de Microsoft 365, en sus equipos cliente.</span><span class="sxs-lookup"><span data-stu-id="1ac47-104">The Office Deployment Tool (ODT) is a command-line tool that you can use to download and deploy Click-to-Run versions of Office, such as Microsoft 365 Apps, to your client computers.</span></span> 
 
 
-<span data-ttu-id="5fdb4-105">ODT le ofrece más control de la instalación de Office.</span><span class="sxs-lookup"><span data-stu-id="5fdb4-105">The ODT gives you more control over an Office installation.</span></span> <span data-ttu-id="5fdb4-106">Le permite definir los productos e idiomas que se instalarán, cómo se actualizarán esos productos y si quiere o no mostrar la experiencia de instalación a los usuarios.</span><span class="sxs-lookup"><span data-stu-id="5fdb4-106">You can define which products and languages are installed, how those products should be updated, and whether or not to display the install experience to your users.</span></span> <span data-ttu-id="5fdb4-107">Para obtener información sobre cómo usar la ODT, vea [Información general sobre la herramienta de implementación de Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool).</span><span class="sxs-lookup"><span data-stu-id="5fdb4-107">For information on how to use the ODT, see the [Overview of the Office Deployment Tool](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool).</span></span>
+<span data-ttu-id="1ac47-105">ODT le ofrece más control de la instalación de Office.</span><span class="sxs-lookup"><span data-stu-id="1ac47-105">The ODT gives you more control over an Office installation.</span></span> <span data-ttu-id="1ac47-106">Le permite definir los productos e idiomas que se instalarán, cómo se actualizarán esos productos y si quiere o no mostrar la experiencia de instalación a los usuarios.</span><span class="sxs-lookup"><span data-stu-id="1ac47-106">You can define which products and languages are installed, how those products should be updated, and whether or not to display the install experience to your users.</span></span> <span data-ttu-id="1ac47-107">Para obtener información sobre cómo usar la ODT, vea [Información general sobre la herramienta de implementación de Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool).</span><span class="sxs-lookup"><span data-stu-id="1ac47-107">For information on how to use the ODT, see the [Overview of the Office Deployment Tool](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool).</span></span>
 
- <span data-ttu-id="5fdb4-108">**Sistema operativo compatible**: Windows 10, Windows 8.1, Windows Server 2019, Windows Server 2016</span><span class="sxs-lookup"><span data-stu-id="5fdb4-108">**Supported Operating System**: Windows 10, Windows 8.1, Windows Server 2019, Windows Server 2016</span></span> 
+ <span data-ttu-id="1ac47-108">**Sistema operativo compatible** : Windows 10, Windows 8.1, Windows Server 2019, Windows Server 2016</span><span class="sxs-lookup"><span data-stu-id="1ac47-108">**Supported Operating System** : Windows 10, Windows 8.1, Windows Server 2019, Windows Server 2016</span></span> 
  
- <span data-ttu-id="5fdb4-109">**Instrucciones de instalación**: Descargue y ejecute el archivo ejecutable autoextraíble de la Herramienta de implementación de Office (setup.exe) y un archivo de configuración de ejemplo (configuration.xml).</span><span class="sxs-lookup"><span data-stu-id="5fdb4-109">**Install Instructions**: Download and then run the self-extracting executable file, which contains the Office Deployment Tool executable (setup.exe) and a sample configuration file (configuration.xml).</span></span> 
+ <span data-ttu-id="1ac47-109">**Instrucciones de instalación** : Descargue y ejecute el archivo ejecutable autoextraíble de la Herramienta de implementación de Office (setup.exe) y un archivo de configuración de ejemplo (configuration.xml).</span><span class="sxs-lookup"><span data-stu-id="1ac47-109">**Install Instructions** : Download and then run the self-extracting executable file, which contains the Office Deployment Tool executable (setup.exe) and a sample configuration file (configuration.xml).</span></span> 
 
-[<span data-ttu-id="5fdb4-110">Descargar la Herramienta de implementación de Office</span><span class="sxs-lookup"><span data-stu-id="5fdb4-110">Download Office Deployment Tool</span></span>](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+[<span data-ttu-id="1ac47-110">Descargar la Herramienta de implementación de Office</span><span class="sxs-lookup"><span data-stu-id="1ac47-110">Download Office Deployment Tool</span></span>](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
 
-## <a name="october-14-2020"></a><span data-ttu-id="5fdb4-111">14 de octubre de 2020</span><span class="sxs-lookup"><span data-stu-id="5fdb4-111">October 14, 2020</span></span>
-<span data-ttu-id="5fdb4-112">Versión 16.0.13231.20368 (setup.exe versión 16.0.13231.20350)</span><span class="sxs-lookup"><span data-stu-id="5fdb4-112">Version 16.0.13231.20368 (setup.exe version 16.0.13231.20350)</span></span>
-- <span data-ttu-id="5fdb4-113">Todos los productos ahora usarán el Canal mensual de forma predeterminada cuando no se especifique ningún canal</span><span class="sxs-lookup"><span data-stu-id="5fdb4-113">All products will now use Monthly Channel by default when no channel is specified</span></span>
-- <span data-ttu-id="5fdb4-114">Resuelve un problema por el que determinados productos de Office 2007 pueden bloquear la instalación inesperadamente al usar RemoveMSI</span><span class="sxs-lookup"><span data-stu-id="5fdb4-114">Resolves an issue where certain Office 2007 products may unexpectedly block installation when using RemoveMSI</span></span>
-- <span data-ttu-id="5fdb4-115">Seguridad mejorada al ejecutar ODT desde un directorio que contiene otras DLL</span><span class="sxs-lookup"><span data-stu-id="5fdb4-115">Improved security when running ODT from a directory that contains other DLL’s</span></span>
-- <span data-ttu-id="5fdb4-116">Mejoras de confiabilidad y resiliencia</span><span class="sxs-lookup"><span data-stu-id="5fdb4-116">Reliability and resiliency improvements</span></span>
+## <a name="october-29-2020"></a><span data-ttu-id="1ac47-111">29 de octubre de 2020</span><span class="sxs-lookup"><span data-stu-id="1ac47-111">October 29, 2020</span></span>
+<span data-ttu-id="1ac47-112">Versión 16.0.13328.20292 (setup.exe versión 16.0.13328.20290)</span><span class="sxs-lookup"><span data-stu-id="1ac47-112">Version 16.0.13328.20292 (setup.exe version 16.0.13328.20290)</span></span>
+- <span data-ttu-id="1ac47-113">Resuelva un problema por el que determinados productos de Office 2007 puedan bloquear la instalación inesperadamente al usar RemoveMSI</span><span class="sxs-lookup"><span data-stu-id="1ac47-113">Resolves an issue where certain Office 2007 products may unexpectedly block installation when using RemoveMSI</span></span>
 
-## <a name="june-9-2020"></a><span data-ttu-id="5fdb4-117">9 de junio de 2020</span><span class="sxs-lookup"><span data-stu-id="5fdb4-117">June 9, 2020</span></span>
+## <a name="october-14-2020"></a><span data-ttu-id="1ac47-114">14 de octubre de 2020</span><span class="sxs-lookup"><span data-stu-id="1ac47-114">October 14, 2020</span></span>
+<span data-ttu-id="1ac47-115">Versión 16.0.13231.20368 (setup.exe versión 16.0.13231.20350)</span><span class="sxs-lookup"><span data-stu-id="1ac47-115">Version 16.0.13231.20368 (setup.exe version 16.0.13231.20350)</span></span>
+- <span data-ttu-id="1ac47-116">Todos los productos ahora usarán el Canal mensual de forma predeterminada cuando no se especifique ningún canal</span><span class="sxs-lookup"><span data-stu-id="1ac47-116">All products will now use Monthly Channel by default when no channel is specified</span></span>
+- <span data-ttu-id="1ac47-117">Seguridad mejorada al ejecutar ODT desde un directorio que contiene otras DLL</span><span class="sxs-lookup"><span data-stu-id="1ac47-117">Improved security when running ODT from a directory that contains other DLL’s</span></span>
+- <span data-ttu-id="1ac47-118">Mejoras de confiabilidad y resiliencia</span><span class="sxs-lookup"><span data-stu-id="1ac47-118">Reliability and resiliency improvements</span></span>
 
-<span data-ttu-id="5fdb4-118">Versión 16.0.12827.20268 (setup.exe versión 16.0.12827.20258)</span><span class="sxs-lookup"><span data-stu-id="5fdb4-118">Version 16.0.12827.20268 (setup.exe version 16.0.12827.20258)</span></span>
-- <span data-ttu-id="5fdb4-119">El Canal actual ahora es el canal predeterminado cuando no se especifica ningún canal</span><span class="sxs-lookup"><span data-stu-id="5fdb4-119">Current Channel is now the default channel when a channel is not specified</span></span>
-- <span data-ttu-id="5fdb4-120">Se agregó soporte técnico para el Canal mensual para empresas</span><span class="sxs-lookup"><span data-stu-id="5fdb4-120">Added support for Monthly Enterprise Channel</span></span>
-- <span data-ttu-id="5fdb4-121">Se agregó soporte técnico para los nuevos nombres del canal</span><span class="sxs-lookup"><span data-stu-id="5fdb4-121">Added support for new channel names</span></span>
-- <span data-ttu-id="5fdb4-122">Otras características de resistencia para continuar la instalación, si es posible, incluso cuando no estén disponibles algunos recursos de idioma.</span><span class="sxs-lookup"><span data-stu-id="5fdb4-122">Additional resiliency features to continue install if possible even when some language resources are unavailable</span></span>
-- <span data-ttu-id="5fdb4-123">Funciones MSIRemove expandidas para quitar productos de Office 2007</span><span class="sxs-lookup"><span data-stu-id="5fdb4-123">MSIRemove capabilities expanded to remove Office 2007 products</span></span>
-- <span data-ttu-id="5fdb4-124">Funciones MSIRemove expandidas para quitar el Motor de acceso a la base de datos</span><span class="sxs-lookup"><span data-stu-id="5fdb4-124">MSIRemove capabilities expanded to remove Access Database Engine</span></span> 
+## <a name="june-9-2020"></a><span data-ttu-id="1ac47-119">9 de junio de 2020</span><span class="sxs-lookup"><span data-stu-id="1ac47-119">June 9, 2020</span></span>
 
-## <a name="april-15-2020"></a><span data-ttu-id="5fdb4-125">15 de abril de 2020</span><span class="sxs-lookup"><span data-stu-id="5fdb4-125">April 15, 2020</span></span>
+<span data-ttu-id="1ac47-120">Versión 16.0.12827.20268 (setup.exe versión 16.0.12827.20258)</span><span class="sxs-lookup"><span data-stu-id="1ac47-120">Version 16.0.12827.20268 (setup.exe version 16.0.12827.20258)</span></span>
+- <span data-ttu-id="1ac47-121">El Canal actual ahora es el canal predeterminado cuando no se especifica ningún canal</span><span class="sxs-lookup"><span data-stu-id="1ac47-121">Current Channel is now the default channel when a channel is not specified</span></span>
+- <span data-ttu-id="1ac47-122">Se agregó soporte técnico para el Canal mensual para empresas</span><span class="sxs-lookup"><span data-stu-id="1ac47-122">Added support for Monthly Enterprise Channel</span></span>
+- <span data-ttu-id="1ac47-123">Se agregó soporte técnico para los nuevos nombres del canal</span><span class="sxs-lookup"><span data-stu-id="1ac47-123">Added support for new channel names</span></span>
+- <span data-ttu-id="1ac47-124">Otras características de resistencia para continuar la instalación, si es posible, incluso cuando no estén disponibles algunos recursos de idioma.</span><span class="sxs-lookup"><span data-stu-id="1ac47-124">Additional resiliency features to continue install if possible even when some language resources are unavailable</span></span>
+- <span data-ttu-id="1ac47-125">Funciones MSIRemove expandidas para quitar productos de Office 2007</span><span class="sxs-lookup"><span data-stu-id="1ac47-125">MSIRemove capabilities expanded to remove Office 2007 products</span></span>
+- <span data-ttu-id="1ac47-126">Funciones MSIRemove expandidas para quitar el Motor de acceso a la base de datos</span><span class="sxs-lookup"><span data-stu-id="1ac47-126">MSIRemove capabilities expanded to remove Access Database Engine</span></span> 
 
-<span data-ttu-id="5fdb4-126">Versión 16.0.12624.20320 (setup.exe versión 16.0.12624.20290)</span><span class="sxs-lookup"><span data-stu-id="5fdb4-126">Version 16.0.12624.20320 (setup.exe version 16.0.12624.20290)</span></span>
-- <span data-ttu-id="5fdb4-127">Agrega soporte técnico para las versiones finales de Office específicas de Windows 7</span><span class="sxs-lookup"><span data-stu-id="5fdb4-127">Adds support for Windows 7-specific end of life Office versions</span></span>
-- <span data-ttu-id="5fdb4-128">Corrige un problema en el que la configuración de personalización puede no aplicarse como se esperaba</span><span class="sxs-lookup"><span data-stu-id="5fdb4-128">Fixes an issue where customization settings may not be applied as expected</span></span>
-- <span data-ttu-id="5fdb4-129">Corrige un problema por el que los archivos extraños .cat se pueden descargar de forma inesperada.</span><span class="sxs-lookup"><span data-stu-id="5fdb4-129">Fixes an issue where extraneous .cat files may be downloaded unexpectedly</span></span>
+## <a name="april-15-2020"></a><span data-ttu-id="1ac47-127">15 de abril de 2020</span><span class="sxs-lookup"><span data-stu-id="1ac47-127">April 15, 2020</span></span>
 
-## <a name="january-16-2020"></a><span data-ttu-id="5fdb4-130">Enero de 16 de 2020</span><span class="sxs-lookup"><span data-stu-id="5fdb4-130">January 16, 2020</span></span>
+<span data-ttu-id="1ac47-128">Versión 16.0.12624.20320 (setup.exe versión 16.0.12624.20290)</span><span class="sxs-lookup"><span data-stu-id="1ac47-128">Version 16.0.12624.20320 (setup.exe version 16.0.12624.20290)</span></span>
+- <span data-ttu-id="1ac47-129">Agrega soporte técnico para las versiones finales de Office específicas de Windows 7</span><span class="sxs-lookup"><span data-stu-id="1ac47-129">Adds support for Windows 7-specific end of life Office versions</span></span>
+- <span data-ttu-id="1ac47-130">Corrige un problema en el que la configuración de personalización puede no aplicarse como se esperaba</span><span class="sxs-lookup"><span data-stu-id="1ac47-130">Fixes an issue where customization settings may not be applied as expected</span></span>
+- <span data-ttu-id="1ac47-131">Corrige un problema por el que los archivos extraños .cat se pueden descargar de forma inesperada.</span><span class="sxs-lookup"><span data-stu-id="1ac47-131">Fixes an issue where extraneous .cat files may be downloaded unexpectedly</span></span>
 
-<span data-ttu-id="5fdb4-131">Versión 16.0.12325.20288</span><span class="sxs-lookup"><span data-stu-id="5fdb4-131">Version 16.0.12325.20288</span></span>
-- <span data-ttu-id="5fdb4-132">Corrige un problema que causaba que la interfaz de usuario de instalación de Office aparezca en un idioma incorrecto al instalar varios idiomas.</span><span class="sxs-lookup"><span data-stu-id="5fdb4-132">Fixes an issue where Office installation UI may display in an incorrect language when multiple languages are installed</span></span>
-- <span data-ttu-id="5fdb4-133">Corrige un problema que causaba que la instalación de Office falle inesperadamente cuando se instalaban determinados paquetes de herramientas de corrección</span><span class="sxs-lookup"><span data-stu-id="5fdb4-133">Fixes an issue where Office installation may unexpectedly fail when certain proofing tools packages are installed</span></span>
-- <span data-ttu-id="5fdb4-134">Agrega soporte para controlar, opcionalmente, la implementación inicial de la [ característica Búsqueda de Microsoft en Bing](https://go.microsoft.com/fwlink/p/?linkid=2109345)</span><span class="sxs-lookup"><span data-stu-id="5fdb4-134">Adds support to optionally control initial deployment of [Microsoft Search in Bing feature](https://go.microsoft.com/fwlink/p/?linkid=2109345)</span></span>
+## <a name="january-16-2020"></a><span data-ttu-id="1ac47-132">Enero de 16 de 2020</span><span class="sxs-lookup"><span data-stu-id="1ac47-132">January 16, 2020</span></span>
 
-
-## <a name="october-31-2019"></a><span data-ttu-id="5fdb4-135">31 de octubre de 2019</span><span class="sxs-lookup"><span data-stu-id="5fdb4-135">October 31, 2019</span></span>
-
-<span data-ttu-id="5fdb4-136">Versión 16.0.12130.20272</span><span class="sxs-lookup"><span data-stu-id="5fdb4-136">Version 16.0.12130.20272</span></span>
-- <span data-ttu-id="5fdb4-137">Se ha corregido un problema que permite que Skype Empresarial Basic 2019 se instale con productos de licencia por volumen perpetuo 2019</span><span class="sxs-lookup"><span data-stu-id="5fdb4-137">Fixes an issue to allow Skype for Business Basic 2019 to install with 2019 perpetual enterprise volume licensed products</span></span>
-- <span data-ttu-id="5fdb4-138">Se ha corregido un problema que puede ocasionar que el modo de descarga ODT falle inesperadamente en determinadas circunstancias cuando se utiliza un proxy.</span><span class="sxs-lookup"><span data-stu-id="5fdb4-138">Fixes an issue that may cause ODT download mode to fail unexpectedly in certain circumstances when a proxy is used</span></span>
-- <span data-ttu-id="5fdb4-139">Se ha desarrollado una nueva capacidad que permite que el modo de descarga ODT descargue a través de HTTP utilizando un puerto distinto al puerto 80.</span><span class="sxs-lookup"><span data-stu-id="5fdb4-139">New capability that allows ODT download mode to download via HTTP using a port other than port 80</span></span>
+<span data-ttu-id="1ac47-133">Versión 16.0.12325.20288</span><span class="sxs-lookup"><span data-stu-id="1ac47-133">Version 16.0.12325.20288</span></span>
+- <span data-ttu-id="1ac47-134">Corrige un problema que causaba que la interfaz de usuario de instalación de Office aparezca en un idioma incorrecto al instalar varios idiomas.</span><span class="sxs-lookup"><span data-stu-id="1ac47-134">Fixes an issue where Office installation UI may display in an incorrect language when multiple languages are installed</span></span>
+- <span data-ttu-id="1ac47-135">Corrige un problema que causaba que la instalación de Office falle inesperadamente cuando se instalaban determinados paquetes de herramientas de corrección</span><span class="sxs-lookup"><span data-stu-id="1ac47-135">Fixes an issue where Office installation may unexpectedly fail when certain proofing tools packages are installed</span></span>
+- <span data-ttu-id="1ac47-136">Agrega soporte para controlar, opcionalmente, la implementación inicial de la [ característica Búsqueda de Microsoft en Bing](https://go.microsoft.com/fwlink/p/?linkid=2109345)</span><span class="sxs-lookup"><span data-stu-id="1ac47-136">Adds support to optionally control initial deployment of [Microsoft Search in Bing feature](https://go.microsoft.com/fwlink/p/?linkid=2109345)</span></span>
 
 
-## <a name="july-10-2019"></a><span data-ttu-id="5fdb4-140">10 de julio de 2019</span><span class="sxs-lookup"><span data-stu-id="5fdb4-140">July 10, 2019</span></span>
+## <a name="october-31-2019"></a><span data-ttu-id="1ac47-137">31 de octubre de 2019</span><span class="sxs-lookup"><span data-stu-id="1ac47-137">October 31, 2019</span></span>
 
-<span data-ttu-id="5fdb4-141">Versión 16.0.11901.20022</span><span class="sxs-lookup"><span data-stu-id="5fdb4-141">Version 16.0.11901.20022</span></span>
-- <span data-ttu-id="5fdb4-142">Compatibilidad con productos adicionales cuando se instalan con Office 2019: Access Runtime, Skype Empresarial Basic.</span><span class="sxs-lookup"><span data-stu-id="5fdb4-142">Added support for additional products when installed with Office 2019: Access Runtime, Skype for Business Basic.</span></span>
-- <span data-ttu-id="5fdb4-143">Compatibilidad con la instalación condicional de productos independientes al actualizar desde MSI.</span><span class="sxs-lookup"><span data-stu-id="5fdb4-143">Added support for conditional installation of standalone products when upgrading from MSI.</span></span>
-
-## <a name="april-23-2019"></a><span data-ttu-id="5fdb4-144">23 de abril de 2019</span><span class="sxs-lookup"><span data-stu-id="5fdb4-144">April 23, 2019</span></span>
-
-<span data-ttu-id="5fdb4-145">Versión 16.0.11617.33601</span><span class="sxs-lookup"><span data-stu-id="5fdb4-145">Version 16.0.11617.33601</span></span>
-- <span data-ttu-id="5fdb4-146">Se ha corregido un error con RemoveMSI=True para limpiar las configuraciones de registro relacionadas.</span><span class="sxs-lookup"><span data-stu-id="5fdb4-146">Fixed a bug with RemoveMSI=True to clean up related registry settings.</span></span>
-- <span data-ttu-id="5fdb4-147">Se han actualizado los códigos de error para dar información adicional sobre errores inesperados (E_UNEXPECTED).</span><span class="sxs-lookup"><span data-stu-id="5fdb4-147">Updated error codes to provide additional detail for unexpected failures (E_UNEXPECTED).</span></span>
-
-## <a name="april-16-2019"></a><span data-ttu-id="5fdb4-148">16 de abril de 2019</span><span class="sxs-lookup"><span data-stu-id="5fdb4-148">April 16 2019</span></span>
-
-<span data-ttu-id="5fdb4-149">Versión 16.0.11615.33602</span><span class="sxs-lookup"><span data-stu-id="5fdb4-149">Version 16.0.11615.33602</span></span>
-- <span data-ttu-id="5fdb4-150">Compatibilidad para actualizar de C2R 32 bits a C2R 64 bits con el nuevo atributo MigrateArch.</span><span class="sxs-lookup"><span data-stu-id="5fdb4-150">Support for upgrading 32-bit C2R to 64-bit C2R with new MigrateArch attribute.</span></span>
-- <span data-ttu-id="5fdb4-151">Se ha actualizado la lógica para /configure. Ahora permite acceder a los archivos XML de configuración almacenados en ubicaciones Web (http y https).</span><span class="sxs-lookup"><span data-stu-id="5fdb4-151">Updated logic for /configure that allows accessing configuration XML files stored in web locations (http and https).</span></span>
-- <span data-ttu-id="5fdb4-152">Se ha agregado MatchInstalled como un nuevo atributo que permite a la ODT coincidir con la versión existente cuando se agreguen más productos o idiomas.</span><span class="sxs-lookup"><span data-stu-id="5fdb4-152">MatchInstalled added as a new attribute which allows ODT to match the existing version when adding additional products or languages.</span></span>
-
-## <a name="march-13-2019"></a><span data-ttu-id="5fdb4-153">13 de marzo de 2019</span><span class="sxs-lookup"><span data-stu-id="5fdb4-153">March 13, 2019</span></span>
-
-<span data-ttu-id="5fdb4-154">Versión 16.0.11509.33604</span><span class="sxs-lookup"><span data-stu-id="5fdb4-154">Version 16.0.11509.33604</span></span>
-- <span data-ttu-id="5fdb4-155">Mejoras en situaciones de actualización y migración.</span><span class="sxs-lookup"><span data-stu-id="5fdb4-155">Improvements to upgrade and migration scenarios.</span></span>
-
-## <a name="january-14-2019"></a><span data-ttu-id="5fdb4-156">14 de enero de 2019</span><span class="sxs-lookup"><span data-stu-id="5fdb4-156">January 14, 2019</span></span>
-
-<span data-ttu-id="5fdb4-157">Versión 16.0.11306.33602</span><span class="sxs-lookup"><span data-stu-id="5fdb4-157">Version 16.0.11306.33602</span></span>
-- <span data-ttu-id="5fdb4-158">Mejoras en el registro y la telemetría para la configuración de implementación.</span><span class="sxs-lookup"><span data-stu-id="5fdb4-158">Improvements to logging and telemetry for deployment configuration.</span></span>
+<span data-ttu-id="1ac47-138">Versión 16.0.12130.20272</span><span class="sxs-lookup"><span data-stu-id="1ac47-138">Version 16.0.12130.20272</span></span>
+- <span data-ttu-id="1ac47-139">Se ha corregido un problema que permite que Skype Empresarial Basic 2019 se instale con productos de licencia por volumen perpetuo 2019</span><span class="sxs-lookup"><span data-stu-id="1ac47-139">Fixes an issue to allow Skype for Business Basic 2019 to install with 2019 perpetual enterprise volume licensed products</span></span>
+- <span data-ttu-id="1ac47-140">Se ha corregido un problema que puede ocasionar que el modo de descarga ODT falle inesperadamente en determinadas circunstancias cuando se utiliza un proxy.</span><span class="sxs-lookup"><span data-stu-id="1ac47-140">Fixes an issue that may cause ODT download mode to fail unexpectedly in certain circumstances when a proxy is used</span></span>
+- <span data-ttu-id="1ac47-141">Se ha desarrollado una nueva capacidad que permite que el modo de descarga ODT descargue a través de HTTP utilizando un puerto distinto al puerto 80.</span><span class="sxs-lookup"><span data-stu-id="1ac47-141">New capability that allows ODT download mode to download via HTTP using a port other than port 80</span></span>
 
 
-## <a name="related-links"></a><span data-ttu-id="5fdb4-159">Vínculos relacionados</span><span class="sxs-lookup"><span data-stu-id="5fdb4-159">Related links</span></span>
+## <a name="july-10-2019"></a><span data-ttu-id="1ac47-142">10 de julio de 2019</span><span class="sxs-lookup"><span data-stu-id="1ac47-142">July 10, 2019</span></span>
 
-[<span data-ttu-id="5fdb4-160">Centro de descarga de ODT</span><span class="sxs-lookup"><span data-stu-id="5fdb4-160">ODT Download Center</span></span>](https://www.microsoft.com/en-us/download/details.aspx?id=49117)
+<span data-ttu-id="1ac47-143">Versión 16.0.11901.20022</span><span class="sxs-lookup"><span data-stu-id="1ac47-143">Version 16.0.11901.20022</span></span>
+- <span data-ttu-id="1ac47-144">Compatibilidad con productos adicionales cuando se instalan con Office 2019: Access Runtime, Skype Empresarial Basic.</span><span class="sxs-lookup"><span data-stu-id="1ac47-144">Added support for additional products when installed with Office 2019: Access Runtime, Skype for Business Basic.</span></span>
+- <span data-ttu-id="1ac47-145">Compatibilidad con la instalación condicional de productos independientes al actualizar desde MSI.</span><span class="sxs-lookup"><span data-stu-id="1ac47-145">Added support for conditional installation of standalone products when upgrading from MSI.</span></span>
+
+## <a name="april-23-2019"></a><span data-ttu-id="1ac47-146">23 de abril de 2019</span><span class="sxs-lookup"><span data-stu-id="1ac47-146">April 23, 2019</span></span>
+
+<span data-ttu-id="1ac47-147">Versión 16.0.11617.33601</span><span class="sxs-lookup"><span data-stu-id="1ac47-147">Version 16.0.11617.33601</span></span>
+- <span data-ttu-id="1ac47-148">Se ha corregido un error con RemoveMSI=True para limpiar las configuraciones de registro relacionadas.</span><span class="sxs-lookup"><span data-stu-id="1ac47-148">Fixed a bug with RemoveMSI=True to clean up related registry settings.</span></span>
+- <span data-ttu-id="1ac47-149">Se han actualizado los códigos de error para dar información adicional sobre errores inesperados (E_UNEXPECTED).</span><span class="sxs-lookup"><span data-stu-id="1ac47-149">Updated error codes to provide additional detail for unexpected failures (E_UNEXPECTED).</span></span>
+
+## <a name="april-16-2019"></a><span data-ttu-id="1ac47-150">16 de abril de 2019</span><span class="sxs-lookup"><span data-stu-id="1ac47-150">April 16 2019</span></span>
+
+<span data-ttu-id="1ac47-151">Versión 16.0.11615.33602</span><span class="sxs-lookup"><span data-stu-id="1ac47-151">Version 16.0.11615.33602</span></span>
+- <span data-ttu-id="1ac47-152">Compatibilidad para actualizar de C2R 32 bits a C2R 64 bits con el nuevo atributo MigrateArch.</span><span class="sxs-lookup"><span data-stu-id="1ac47-152">Support for upgrading 32-bit C2R to 64-bit C2R with new MigrateArch attribute.</span></span>
+- <span data-ttu-id="1ac47-153">Se ha actualizado la lógica para /configure. Ahora permite acceder a los archivos XML de configuración almacenados en ubicaciones Web (http y https).</span><span class="sxs-lookup"><span data-stu-id="1ac47-153">Updated logic for /configure that allows accessing configuration XML files stored in web locations (http and https).</span></span>
+- <span data-ttu-id="1ac47-154">Se ha agregado MatchInstalled como un nuevo atributo que permite a la ODT coincidir con la versión existente cuando se agreguen más productos o idiomas.</span><span class="sxs-lookup"><span data-stu-id="1ac47-154">MatchInstalled added as a new attribute which allows ODT to match the existing version when adding additional products or languages.</span></span>
+
+## <a name="march-13-2019"></a><span data-ttu-id="1ac47-155">13 de marzo de 2019</span><span class="sxs-lookup"><span data-stu-id="1ac47-155">March 13, 2019</span></span>
+
+<span data-ttu-id="1ac47-156">Versión 16.0.11509.33604</span><span class="sxs-lookup"><span data-stu-id="1ac47-156">Version 16.0.11509.33604</span></span>
+- <span data-ttu-id="1ac47-157">Mejoras en situaciones de actualización y migración.</span><span class="sxs-lookup"><span data-stu-id="1ac47-157">Improvements to upgrade and migration scenarios.</span></span>
+
+## <a name="january-14-2019"></a><span data-ttu-id="1ac47-158">14 de enero de 2019</span><span class="sxs-lookup"><span data-stu-id="1ac47-158">January 14, 2019</span></span>
+
+<span data-ttu-id="1ac47-159">Versión 16.0.11306.33602</span><span class="sxs-lookup"><span data-stu-id="1ac47-159">Version 16.0.11306.33602</span></span>
+- <span data-ttu-id="1ac47-160">Mejoras en el registro y la telemetría para la configuración de implementación.</span><span class="sxs-lookup"><span data-stu-id="1ac47-160">Improvements to logging and telemetry for deployment configuration.</span></span>
+
+
+## <a name="related-links"></a><span data-ttu-id="1ac47-161">Vínculos relacionados</span><span class="sxs-lookup"><span data-stu-id="1ac47-161">Related links</span></span>
+
+[<span data-ttu-id="1ac47-162">Centro de descarga de ODT</span><span class="sxs-lookup"><span data-stu-id="1ac47-162">ODT Download Center</span></span>](https://www.microsoft.com/en-us/download/details.aspx?id=49117)
