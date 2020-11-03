@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365 en 2020
-ms.openlocfilehash: 171bf1f59e7e1568512c1d1a0e2cd4e3ef8ef83d
-ms.sourcegitcommit: e79abb06d8096f75a23bb759ac4bb5491e071719
+ms.openlocfilehash: 82e056874fbe4e95247e6b5ccb09accdfcc98816
+ms.sourcegitcommit: 8b12ed0c94df66ae0220e8c6e2e4c957d4c64e75
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48815616"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48830331"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notas de la versión para las versiones del canal actual en 2020
 
@@ -49,21 +49,21 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 ### <a name="excel"></a>Excel
 
-- **Crear tipos de datos con Power Query:** crear tipos de datos enriquecidos con Power Query desde cualquier origen de datos.<br />Ver detalles en la [entrada de blog](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)
+- **Crear tipos de datos con Power Query:** crear tipos de datos enriquecidos con Power Query desde cualquier origen de datos. [Más información](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br />Ver detalles en la [entrada de blog](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)
 
-- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 - **Realice ediciones rápidas con el lápiz de acción:** con el lápiz de acción, puede escribir a mano directamente en las celdas y apuntar datos con entradas de lápiz que se convierten automáticamente en datos de Excel.
 
 ### <a name="outlook"></a>Outlook
 
-- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
-- **Puedes contar con la revisión gramatical:** Outlook marca los errores gramaticales conforme usted escribe, para que pueda aplicar sugerencias con un solo clic. [Más información](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />Ver detalles en [entrada de blog](https://insider.office.com/es-ES/blog/grammar-and-style-suggestions-available-in-outlook)
+- **Puedes contar con la revisión gramatical:** Outlook marca los errores gramaticales conforme usted escribe, para que pueda aplicar sugerencias con un solo clic. [Más información](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />Ver detalles en [entrada de blog](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="teams"></a>Teams
 
@@ -77,10 +77,10 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 ### <a name="word"></a>Word
 
-- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en [entrada de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 
-[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
 <br/>
 
@@ -388,7 +388,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 - **Paneles con pestañas:** ahora puede cambiar entre varios paneles con la pestaña situada en la parte derecha de la aplicación. Esta interfaz de usuario solo será visible cuando haya dos o más paneles abiertos.<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/02/20/improved-pane-management/)
 
 
-[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
 <br/>
 
@@ -1034,7 +1034,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 
 
-[//]: # (NO QUITAR ERRORES DE DETALLES DE CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2004-april-29"></a>Versión 2004: 29 de abril
 *Versión 2004 (compilación 12730.20236)*
@@ -1152,7 +1152,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - Abordó un problema que causó que los usuarios experimentaran ocasionalmente un choque al usar el botón "X" de su ratón.
 
-### <a name="project"></a>Proyecto
+### <a name="project"></a>Project
 
 - Cuando se editan los datos del Predecesor/Sucesor dentro de una vista de formulario, se activa un evento ProjectBeforeTaskChange adicional.
 
@@ -1474,7 +1474,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Optimizar la presentación para todos:** El comprobador de accesibilidad le ayuda a organizar los objetos de las diapositivas pensando en los lectores de pantalla.
 
-- **GIF en un instante:** una diapositiva, un marco. Cree fácilmente archivos GIF en bucle en PowerPoint. [Más información](https://support.office.com/es-ES/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **GIF en un instante:** una diapositiva, un marco. Cree fácilmente archivos GIF en bucle en PowerPoint. [Más información](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
