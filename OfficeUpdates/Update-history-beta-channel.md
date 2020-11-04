@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a participantes del programa Insider el historial de actualizaciones de los lanzamientos del canal mensual del modo anticipado de Insider para versiones de escritorio de Windows
-ms.openlocfilehash: b4867e5455923e7fde99fb3f81fe4f8810cf1b9f
-ms.sourcegitcommit: d467499b7c0725f8f998ce34bfe7f1286e37e683
+ms.openlocfilehash: 3220d75a6c2c248a9daed4982e99d037c5ae7322
+ms.sourcegitcommit: 0bc99107bfb04f1180b2cfb763cdc0f981f1b19a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48794391"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48840449"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Historial de actualizaciones del Canal Office beta
 
@@ -31,12 +31,15 @@ Hola, participantes de Insider. Si os estáis preguntando si tenéis instalada l
 
 ## <a name="office-beta-channel-versions-and-builds"></a>Versiones y compilaciones de Canal Office beta
 
-Si se ha inscrito en el nivel de Insider, obtendrá actualizaciones frecuentes con nuevas características y mejoras. En la lista siguiente, se muestra un historial de versiones y compilaciones recientes del Canal beta, con **las compilaciones más nuevas en primer lugar** . Las compilaciones nuevas incluyen todas las actualizaciones de las compilaciones anteriores.
+Si se ha inscrito en el nivel de Insider, obtendrá actualizaciones frecuentes con nuevas características y mejoras. En la lista siguiente, se muestra un historial de versiones y compilaciones recientes del Canal beta, con **las compilaciones más nuevas en primer lugar**. Las compilaciones nuevas incluyen todas las actualizaciones de las compilaciones anteriores.
 
 Para obtener las notas de la versión, vea [notas de la versión de Insider de Office para escritorio de Windows](https://docs.microsoft.com/OfficeUpdates/beta-channel).
 
 
 [//]: # (NO ELIMINAR)
+
+**2 de noviembre de 2020**<br/>
+Versión 2012 (compilación 13430.20000)<br/>
 
 **28 de octubre de 2020**<br/>
 Versión 2011 (compilación 13426.20004)<br/>
