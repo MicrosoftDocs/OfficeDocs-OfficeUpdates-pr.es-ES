@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Aplicaciones de Microsoft 365 según el canal de actualización.
-ms.openlocfilehash: 1078760ca45011d1d690140f597f5a4f0752bd75
-ms.sourcegitcommit: 16da127be61d3ac4db852de244516a36e3f5e129
+ms.openlocfilehash: b5159bfcd85131f58cbbc5450d3a811e29b60961
+ms.sourcegitcommit: f76985cad6ada2284d09d1d574cb64622a12c8df
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48782315"
+ms.lasthandoff: 11/05/2020
+ms.locfileid: "48927143"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tamaños de descarga de las actualizaciones de Aplicaciones de Microsoft 365 
 
@@ -35,6 +35,43 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 > - Se muestran las versiones de los últimos cuatro meses.
 
 [//]: # (NO ELIMINAR)
+
+[//]: # (NO ELIMINAR INICIO DEL CONTENIDO DE PREVISIÓN)
+
+## <a name="november-5-2020"></a>5 de noviembre de 2020
+
+
+### <a name="monthly-enterprise-channel"></a>Canal empresarial mensual
+
+<i>La versión prevista es la versión 2009 (compilación 13231.20492).</i>
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 2008 (compilación 13127.20638) <br/> |13 de octubre de 2020 <br/> |130<br/> |
+
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>Canal empresarial semestral (vista previa)
+
+<i>La versión prevista es la versión 2008 (compilación 13127.20760).</i>
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 2008 (compilación 13127.20638) <br/> |13 de octubre de 2020 <br/> |60<br/> |
+|Versión 2008 (Compilación 13127.20408) <br/> |8 de septiembre de 2020 <br/> |65<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>Canal empresarial semestral
+
+<i>La versión prevista es la versión 2002 (compilación 12527.21316).</i>
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 2002 (compilación 12527.21236) <br/> |13 de octubre de 2020 <br/> |63<br/> |
+|Versión 2002 (Compilación 12527.21104) <br/> |8 de septiembre de 2020 <br/> |77<br/> |
+
+
+[//]: # (NO ELIMINAR FINAL DEL CONTENIDO DE PREVISIÓN)
 
 ## <a name="october-27-2020"></a>27 de octubre de 2020
 
