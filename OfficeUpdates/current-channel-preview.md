@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporcionar a los participantes del Modo aplazado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos
-ms.openlocfilehash: a9af3ed5d8e04263855dcfa8b2ce4137c941f79d
-ms.sourcegitcommit: c6e102b60f4e412b1255dee700a27a80b5690c48
+ms.openlocfilehash: c04d875533233abd4996724e524f6ddc7cddb2cc
+ms.sourcegitcommit: 6da2dfccc63a75bf36d2660b770a62e61e8463be
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/05/2020
-ms.locfileid: "48919432"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "48944144"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notas de la versión del canal actual de Office (versión preliminar)
 
@@ -27,6 +27,17 @@ This article contains release notes for Current Channel (Preview) builds of Word
 > - La fecha de publicación de las notas de versión pueden no coincidir con la fecha real de lanzamiento de la compilación.
 
 [//]: # (NO ELIMINAR)
+
+## <a name="version-2010-november-06"></a>Versión 2010: 06 de noviembre
+*Versión 2010 (compilación 13328.20356)*
+* Varias correcciones de errores y rendimiento.
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
 ## <a name="version-2010-november-04"></a>Versión 2010: 4 de noviembre
 *Versión 2010 (compilación 13328.20340)*
