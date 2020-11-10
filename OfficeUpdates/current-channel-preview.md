@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporcionar a los participantes del Modo aplazado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos
-ms.openlocfilehash: c04d875533233abd4996724e524f6ddc7cddb2cc
-ms.sourcegitcommit: 6da2dfccc63a75bf36d2660b770a62e61e8463be
+ms.openlocfilehash: 246f164b26d01b25894879cfb0625cf76829a2e0
+ms.sourcegitcommit: 82473b6efabedf74014a9a41c6c43ec53b0def88
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "48944144"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48950009"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notas de la versión del canal actual de Office (versión preliminar)
 
@@ -28,7 +28,159 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 [//]: # (NO ELIMINAR)
 
-## <a name="version-2010-november-06"></a>Versión 2010: 06 de noviembre
+## <a name="version-2011-november-09"></a>Versión 2011: 9 de octubre
+*Versión 2011 (compilación 13426.20184)*
+
+[//]: # (NO QUITAR DETALLES DE CARACTERÍSTICAS CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Crear flujos de datos de Power Platform a partir de consultas:** ahora puede exportar sus consultas a plantillas de Power Query que se pueden usar para crear nuevos flujos de datos de Power Platform.
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="access"></a>Acceso
+
+- Corregimos un problema por el que algunos usuarios veían el error "recurso del sistema excedido" al intentar exportar una consulta de su carpeta sincronizada de OneDrive.
+
+
+- Corregimos un problema en el que el cambio automático entre las ventanas de la forma estaba cambiando a otra forma.
+
+
+- Se ha corregido un problema que provocaba que, al utilizar DAO desde aplicaciones que no son de Office, la aplicación se cerrara de forma inesperada.
+
+
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema por el que el nombre de archivo no cambiaba después de una operación Guardar como con complementos COM habilitados.
+
+
+- Se ha corregido un problema con Power Pivot cuando usa una conexión en una base de datos de Oracle.
+
+
+- Se ha corregido un problema cuando se produce un error de Autoguardado con un mensaje de error incorrecto o engañoso cuando hay una definición de medida incorrecta en el modelo de datos de Excel.
+
+
+- Se corrigió un problema por el que Excel terminó de forma inesperada cuando se activó el proceso de calcular MTR y la actualización de objetos de directiva de grupo (por ejemplo, a través de la actualización remota de la directiva de grupo).
+
+
+- Corregido un problema por el que un usuario no podía abrir el archivo de atomsvc (UTF8 + BOM) desde SharePoint directamente.
+
+
+- Corregido un problema que provocaba que, al acercar y alejar el área de presentación, apareciera una separación entre el recuadro de selección ampliado y el puntero del mouse.
+
+
+- Corregido un problema en el que Word parecía bloquearse al insertar un libro de Excel en un documento de Word.
+
+
+### <a name="outlook"></a>Outlook
+
+- Resuelto un problema que hacía que Outlook dejara de funcionar esporádicamente al agregar o guardar datos adjuntos.
+
+
+- Se ha corregido un problema por el que la impresión rápida de los datos adjuntos de imagen provocaba un error "Windows no puede encontrar esta imagen. Compruebe la ubicación y vuelva a intentarlo".
+
+
+- Se corrigió un problema que hacía que algunos usuarios vieran que Outlook se iniciaba en un estado sin conexión hasta que optaban manualmente por trabajar en línea.
+
+
+- Corregimos un problema al pegar una dirección URL copiada desde la ubicación de la reunión a otro lugar (como un explorador), la dirección URL contiene un punto y coma al final.
+
+
+- Se ha corregido un problema que impedía a los usuarios eliminar citas en el Calendario de Grupos de Microsoft 365 en autenticación básica.
+
+
+- Se ha corregido un problema que producía errores en el inicio de Outlook durante la carga de la caché de sobrenombres.
+
+
+- Se ha corregido un problema por el que el propietario de un buzón no podía administrar el permiso compartido en su propio Calendario de Outlook, ya que la opción se había desactivado.
+
+
+- Corregido un problema por el cual Outlook no podía crear un mensaje con permisos restringidos.
+
+
+- Se ha corregido un problema por el cual al guardar las plantillas de correo electrónico como .OFT se cambiaban los caracteres chinos por signos de interrogación.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corregido un problema que provocaba que, al acercar y alejar el área de presentación, apareciera una separación entre el recuadro de selección ampliado y el puntero del mouse.
+
+
+- Se ha corregido un problema que provocaba que el icono del marcador de posición de contenido junto a Imágenes no incluyera información sobre herramientas.
+
+
+- Se ha corregido un problema debido al cual la Vista protegida de presentación con diapositivas, mostrada en archivo PPTSX, permitía la captura de pantalla de documentos protegidos por IRM.
+
+
+- Se ha corregido un problema por el cual las líneas de cuadrícula se desplazaban de las diapositivas al cerrar el panel Diseño.
+
+
+- Corregimos un problema al duplicar la presentación con diapositivas en un monitor secundario, la presentación puede ocultarse detrás de la otra ventana.
+
+
+- Se ha corregido un problema por el que la barra de desplazamiento en la diapositiva comienza a ajustarse a sí misma después de detener la grabación de pantalla con el panel de selección abierto.
+
+
+### <a name="project"></a>Project
+
+- Se ha corregido un problema por el que la NewVal en el evento ProjectBeforeTaskChagne no tiene el valor correcto si se cambia un retraso en una vista de tipo de formulario de tarea.
+
+
+- Corregimos un problema por el que el Proyecto puede finalizar inesperadamente al abrir archivos en los que se especificaban los contornos de los recursos de una determinada manera.
+
+
+- Se ha corregido un problema que provocaba que, al guardar un proyecto desde PWA en un archivo MPP local, ProjectBeforeTaskChangeEvent se desencadenara para datos no modificados por el usuario.
+
+
+- Se ha corregido un problema en el que las negociaciones de recursos buscaban un recurso por nombre en lugar de un GUID, lo que causaba problemas si había varios recursos con el mismo nombre.
+
+
+- Se ha corregido un problema que hace que si tiene una lista de tareas en un sitio de proyecto y agrupa la lista de tareas, no pueda editar rápidamente la lista de tareas.
+
+
+- Se ha corregido un problema que hace que si actualiza un recurso de empresa a través del CSOM, puede perderse la capacidad máxima del recurso.
+
+
+### <a name="word"></a>Word
+
+- Corregido un problema que provocaba que, al acercar y alejar el área de presentación, apareciera una separación entre el recuadro de selección ampliado y el puntero del mouse.
+
+
+- Se ha corregido un problema por el que al hacer clic en la sugerencia de comentario no se mostraba la tarjeta comentario en la vista.
+
+
+- Corregido un problema de diseño en el que la línea entre columnas podía cambiar.
+
+
+- Corregimos un problema en Control de cambios por el que a veces se podía mostrar un mensaje de error al abrir un documento de Word.
+
+
+- Corregido un problema en el que Word parecía bloquearse al insertar un libro de Excel en un documento de Word.
+
+
+- Corregimos un problema de impresión cuando se aplica la etiqueta de carácter con marcas de agua.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Se ha corregido un problema en la Herramienta de implementación de Office que provocaba errores en la configuración al usar la característica RemoveMSI con el producto de Office 2007 "Informes de errores de aplicaciones de Microsoft".
+
+
+- Se ha corregido un problema por el que el inicio de sesión interactivo de la API de SSO devuelve un código de error.
+
+
+
+[//]: # (NO QUITAR EL CONTENIDO FINAL DE LOS DETALLES DE LOS ERRORES)
+
+## <a name="version-2010-november-06"></a>Versión 2010: 6 de noviembre
 *Versión 2010 (compilación 13328.20356)*
 * Varias correcciones de errores y rendimiento.
 
@@ -912,7 +1064,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 
 
-[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
 <br/>
 
