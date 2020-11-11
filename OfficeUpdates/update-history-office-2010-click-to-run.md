@@ -9,17 +9,17 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI un historial de actualizaciones para las versiones perpetuas de Office 2010 que usan Hacer clic y ejecutar.
-ms.openlocfilehash: 93ac645aaef5ab770d4ca07f0e4049c93354ead4
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: b01719e43ad29de589bd9cf90c583cb11d7fb0bb
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453408"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48989939"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Historial de actualizaciones para productos de Hacer clic y ejecutar de Office 2010
 
 > [!IMPORTANT]
-> El soporte técnico para Office 2010 finaliza el 13 de octubre de 2020. Si todavía no ha empezado a actualizar su entorno de Office 2010, se recomienda que empiece ahora. Para más información, vea [Guía de finalización del soporte para Office 2010](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap). 
+> La compatibilidad con Office 2010 finalizó el 13 de octubre de 2020. Si todavía no ha empezado a actualizar su entorno de Office 2010, se recomienda que empiece ahora. Para más información, vea [Guía de finalización del soporte para Office 2010](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap). 
 
 
 Los siguientes productos de Office 2010 se actualizan automáticamente mediante una tecnología denominada Hacer clic y ejecutar.
@@ -33,7 +33,7 @@ Los siguientes productos de Office 2010 se actualizan automáticamente mediante 
 Si usa uno de estos productos y desea asegurarse de que dispone de las últimas actualizaciones, compruebe su número de versión de Office y actualice manualmente Office si es necesario.
   
 > [!NOTE]
-> La versión más reciente de Office 2010 es **14.0.7261.5000**, que se presentó el 13 de octubre de 2020.
+> La versión más reciente de Office 2010 es **14.0.7261.5000** , que se presentó el 13 de octubre de 2020.
   
 Para comprobar su versión de Office, siga estos pasos:
   
@@ -41,7 +41,7 @@ Para comprobar su versión de Office, siga estos pasos:
     
 2. Elija **Archivo** > **Ayuda**.
     
-3. En **Actualizaciones de productos Hacer clic y ejecutar**, anote el número de versión que aparece.
+3. En **Actualizaciones de productos Hacer clic y ejecutar** , anote el número de versión que aparece.
     
     Si el número de versión coincide con la versión más reciente, ya dispone de las últimas actualizaciones. Si no es así, actualice manualmente para obtener la última versión de Office 2010. Para actualizar Office, [siga estos pasos](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2010).
     
