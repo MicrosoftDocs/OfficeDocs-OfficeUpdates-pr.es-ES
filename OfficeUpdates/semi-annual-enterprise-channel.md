@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones del canal semestral de Aplicaciones de Microsoft 365 en 2020.
-ms.openlocfilehash: f7f3b39521132fb11226bc512f782e0adec5aba8
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: c719a54075f57b031cf99ef7459fe38c0cab63dc
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453418"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48990079"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>Notas de la versión para las versiones de canal empresarial semestral en 2020
 
@@ -28,7 +28,49 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 >- OneNote 2016 ahora se incluirá de forma predeterminada cuando un usuario en el canal empresarial semestral descargue e instale las Aplicaciones de Microsoft 365 en Windows 10 desde el Portal de Office.
 
 
-[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO FINAL)
+[//]: # (NO QUITAR EL CONTENIDO FINAL DE LOS DETALLES DE LOS ERRORES)
+
+## <a name="version-2002-november-10"></a>Versión 2002: 10 de noviembre
+*Versión 2002 (compilación 12527.21330)*
+
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema que aparecía cuando se configuraba el idioma de Office en español. Este problema provocaba que las listas de validación de datos pudieran no mostrar todos los elementos de la lista.
+
+
+- Se ha corregido un problema que podía producir un bloqueo al actualizar las tablas dinámicas de OLAP.
+
+
+- Se ha corregido un problema por el que algunas funciones podían tener un resultado incorrecto después de cargar un libro.
+
+
+- Se ha corregido un problema relacionado con las referencias de complemento de XLAM y los rangos con nombre que cerraba la aplicación de forma inesperada.
+
+
+- Se ha corregido un problema que producía que la ejecución de la macro de filtro avanzada mostrara errores incorrectamente.
+
+
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema por el que se deshabilitaban de forma inesperada complementos internos cuando se deshabilitaban las experiencias conectadas opcionales.
+
+
+- Se ha corregido un problema que impedía a los usuarios enviar como (o en nombre de) una lista de distribución oculta para la lista global de direcciones.
+
+
+
+[//]: # (NO QUITAR EL CONTENIDO FINAL DE LOS DETALLES DE LOS ERRORES)
+
+## <a name="version-1908-november-10"></a>Versión 1908: 10 de noviembre
+*Versión 1908 (compilación 11929.20974)*
+
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2002-october-13"></a>Versión 2002: 13 de octubre
 *Versión 2002 (compilación 12527.21236)*
@@ -196,25 +238,25 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - **Más iconos para que encuentre el que refleja su estado de ánimo:** hemos agregado más de 300 iconos nuevos. Encuéntrelos en Insertar > Iconos. [Más información](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
-- **Convertir los archivos para mejorar la accesibilidad**: actualice los archivos al formato moderno para que sean más accesibles para todos los demás.<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2019/10/07/take-full-advantage-of-accessibility-in-office-documents/)
+- **Convertir los archivos para mejorar la accesibilidad** : actualice los archivos al formato moderno para que sean más accesibles para todos los demás.<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2019/10/07/take-full-advantage-of-accessibility-in-office-documents/)
 
-- **Resalte lo que queda por hacer**: seleccione Resolver para contraer los comentarios y hacer que resalten los elementos abiertos.
+- **Resalte lo que queda por hacer** : seleccione Resolver para contraer los comentarios y hacer que resalten los elementos abiertos.
 
-- **Escriba una fórmula que devuelva varios valores: **Escriba rápidamente una fórmula que devuelva múltiples valores y se derramarán automáticamente en las celdas vecinas. [Más información](https://support.office.com/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2019/06/13/dynamic-arrays-and-new-functions-in-excel/)
+- **Escriba una fórmula que devuelva varios valores:** Escriba rápidamente una fórmula que devuelva múltiples valores y se derramarán automáticamente en las celdas vecinas. [Más información](https://support.office.com/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2019/06/13/dynamic-arrays-and-new-functions-in-excel/)
 
 - **Se acabaron los saltos al explorador:** usted decide cómo se abren los vínculos a los documentos de Office: en el explorador o en la aplicación. 
 
-- **Un toque humano**: dé un aspecto informal y de dibujado a mano a las formas de Office en su libro. [Más información](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2019/07/03/sketchy-shapes-for-word-powerpoint-and-excel/)
+- **Un toque humano** : dé un aspecto informal y de dibujado a mano a las formas de Office en su libro. [Más información](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2019/07/03/sketchy-shapes-for-word-powerpoint-and-excel/)
 
 - **Encuentre lo que busca:** Realice búsquedas de comandos, personas, archivos, fotos, artículos en la web y más. [Más información](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
 - **Seis potentes funciones:** Seis potentes funciones: Hemos agregado seis nuevas funciones para mejorar las hojas de cálculo: FILTRAR, ORDENAR, ORDENARPOR, UNICOS, SECUENCIA y MATRIZALEAT. [Más información](https://support.office.com/article/003df6c7-1dcb-4388-8e2e-0fe77a0887bc)
 
-- **Busque a la izquierda, busque a la derecha... BUSCARX ya está aquí**: fila por fila, busque lo que necesite en una tabla o un rango con BUSCARX. [Más información](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2019/08/29/announcing-xlookup/)
+- **Busque a la izquierda, busque a la derecha... BUSCARX ya está aquí** : fila por fila, busque lo que necesite en una tabla o un rango con BUSCARX. [Más información](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2019/08/29/announcing-xlookup/)
 
 - **Dominar el libro grande:** celdas, fórmulas, gráficos y tablas... Obtenga una instantánea de su libro con estadísticas de libros.
 
-- **Lea y responda sobre la marcha: **responda a los comentarios y las menciones directamente desde el correo electrónico sin abrir el libro.
+- **Lea y responda sobre la marcha:** responda a los comentarios y las menciones directamente desde el correo electrónico sin abrir el libro.
 
 - **Consiga su atención con\@menciones:** use @menciones en los comentarios para avisar a los compañeros de trabajo cuando necesite su participación. [Más información](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 
@@ -228,7 +270,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - **Obtenga sugerencias de ubicaciones:** Empiece a escribir en Ubicación cuando programe citas y reuniones, Outlook le sugerirá salas, direcciones y otros lugares recientes. [Más información](https://support.office.com/article/1d8631be-611a-4e3d-9109-b153e4622d53)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2019/07/08/location-suggestions-in-outlook-for-windows/)
 
-- **Protección avanzada frente a ataques**: con la Protección contra amenazas avanzada de Office 365, estará protegido frente a ataques mediante hipervínculos en asuntos de correos electrónicos, mensajes adjuntos, mensajes firmados, rutas de red, etc.
+- **Protección avanzada frente a ataques** : con la Protección contra amenazas avanzada de Office 365, estará protegido frente a ataques mediante hipervínculos en asuntos de correos electrónicos, mensajes adjuntos, mensajes firmados, rutas de red, etc.
 
 - **Insertar el menú de vínculos en Outlook inserta un vínculo con el permiso definido por el administrador de inquilinos:** un vínculo desde Insertar vínculo utilizado recientemente en Outlook insertaba un vínculo que solo funcionaba para los usuarios que ya tenían permisos. A menudo esto causaba un intercambio continuo de mensajes de correo electrónico entre los usuarios que pedían acceso a un documento. Hemos actualizado esta experiencia para que ahora el vínculo se inserte con el permiso predeterminado establecido por el administrador de inquilinos. Para MSIT se trata de "la organización puede editar", por lo que todos los usuarios internos que reciban un vínculo compartido de esta manera podrán acceder a él.
 
@@ -252,7 +294,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - **Entrada de tinta para magníficas diapositivas:** convierta el texto de tinta en formas estándar y texto y obtenga ideas de diseño inteligente del Diseñador de PowerPoint. [Más información](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-- **Un toque humano**: dé un aspecto informal y de dibujado a mano a las formas de Office en su presentación. [Más información](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2019/07/03/sketchy-shapes-for-word-powerpoint-and-excel/)
+- **Un toque humano** : dé un aspecto informal y de dibujado a mano a las formas de Office en su presentación. [Más información](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2019/07/03/sketchy-shapes-for-word-powerpoint-and-excel/)
 
 - **Repetición de entrada de lápiz:** cuando haya entradas de lápiz en sus diapositivas, aplique una animación de reproducción para reproducir el dibujo real de la entrada de lápiz durante la presentación con diapositivas. [Más información](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2019/07/02/be-more-expressive-in-your-presentations-by-using-ink-replay-in-powerpoint/)
 
@@ -262,9 +304,9 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - **Impresión de números de diapositiva en documentos:** los números de diapositiva se incluyen automáticamente en los documentos. Ahora es usted quien decide si los deja o los quita. [Más información](https://support.office.com/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
-- **Encuentre los títulos de diapositivas que faltan y escríbalos**: los títulos de diapositivas añaden fuerza a su discurso y permiten que las diapositivas sean accesibles para los usuarios de todas las capacidades. El comprobador de accesibilidad le muestra dónde faltan títulos para que pueda agregarlos en el momento. [Más información](https://support.office.com/article/c5286802-495a-4b47-a8ae-212fb8a7dc74)
+- **Encuentre los títulos de diapositivas que faltan y escríbalos** : los títulos de diapositivas añaden fuerza a su discurso y permiten que las diapositivas sean accesibles para los usuarios de todas las capacidades. El comprobador de accesibilidad le muestra dónde faltan títulos para que pueda agregarlos en el momento. [Más información](https://support.office.com/article/c5286802-495a-4b47-a8ae-212fb8a7dc74)
 
-- **Convertir los archivos para mejorar la accesibilidad**: actualice los archivos al formato moderno para que sean más accesibles para todos los demás.<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2019/10/07/take-full-advantage-of-accessibility-in-office-documents/)
+- **Convertir los archivos para mejorar la accesibilidad** : actualice los archivos al formato moderno para que sean más accesibles para todos los demás.<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2019/10/07/take-full-advantage-of-accessibility-in-office-documents/)
 
 - **Más iconos para que encuentre el que refleja su estado de ánimo:** hemos agregado más de 300 iconos nuevos. Encuéntrelos en Insertar > Iconos. [Más información](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
@@ -302,9 +344,9 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - **Borrar con precisión:** elija entre dos tamaños de borrador para arreglar pequeñas imperfecciones de la entrada de lápiz. [Más información](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
-- **Convertir los archivos para mejorar la accesibilidad**: actualice los archivos al formato moderno para que sean más accesibles para todos los demás.<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2019/10/07/take-full-advantage-of-accessibility-in-office-documents/)
+- **Convertir los archivos para mejorar la accesibilidad** : actualice los archivos al formato moderno para que sean más accesibles para todos los demás.<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2019/10/07/take-full-advantage-of-accessibility-in-office-documents/)
 
-- **Un toque humano**: dé un aspecto informal y de dibujado a mano a las formas de Office en su documento. [Más información](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2019/07/03/sketchy-shapes-for-word-powerpoint-and-excel/)
+- **Un toque humano** : dé un aspecto informal y de dibujado a mano a las formas de Office en su documento. [Más información](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2019/07/03/sketchy-shapes-for-word-powerpoint-and-excel/)
 
 - **Encuentre lo que busca:** use el cuadro de búsqueda para buscar texto, comandos, ayuda y mucho más. [Más información](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
@@ -679,7 +721,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - Se ha corregido un problema de bloqueo con el host de Office en Windows cuando se activa un complemento mientras el valor del registro TabProcGrowth era del tipo REG_SZ.
 
-- Esta actualización corrige un problema en Microsoft Office en el que los proyectos de Visual Basic para aplicaciones con referencias que se espera encontrar buscando las ubicaciones especificadas en la variable de entorno PATH podían no encontrarse correctamente en tiempo de ejecución, lo que provoca errores en tiempo de ejecución de VBA.
+- Esta actualización corrige un problema en Microsoft Office en el que los proyectos de VBA con referencias que se espera encontrar buscando las ubicaciones especificadas en la variable de entorno PATH podían no encontrarse correctamente en tiempo de ejecución, lo que provoca errores en tiempo de ejecución de VBA.
 
 - Se ha corregido el problema por el que Access y Publisher podrían no iniciarse correctamente en función de los idiomas que se hubieran instalado.
 
@@ -1102,11 +1144,11 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 ### <a name="word"></a>Word
 
-- Se ha corregido un problema al combinar dos documentos en uno.
+- Se ha corregido un problema al combinar 2 documentos en uno.
 
-- Se ha corregido un problema con la característica Comparación para los documentos protegidos para la edición.
+- Se ha corregido un problema con la característica Comparar de los documentos protegidos para la edición.
 
-[//]: # (NO ELIMINAR LOS DETALLES DE ERROR DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
 
 ## <a name="version-1902-may-12"></a>Versión 1902:12 de mayo
 *Versión 1902 (compilación 11328.20586)*
@@ -1134,11 +1176,11 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="outlook"></a>Outlook
 
-- Se ha corregido un problema que provocaba que los usuarios experimentaran un bloqueo al seleccionar determinados resultados de búsqueda.
+- Corregido un problema que provocaba que los usuarios experimentaran un bloqueo al seleccionar determinados resultados de búsqueda.
 
 - Se ha corregido un problema que hacía que el botón "Guardar en la nube" faltara en las Herramientas de datos adjuntos.
 
-- De forma predeterminada, las etiquetas de directivas de retención muestran el período de tiempo de retención entre paréntesis.Esto proporciona una clave del registro para permitir que los administradores especifiquen que solo se debería mostrar el nombre de la directiva.HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration.0 = predeterminado 1 = solo se mostrará el nombre de directiva del texto de la directiva de retención.
+- De forma predeterminada, las etiquetas de directivas de retención muestran el período de tiempo de retención entre paréntesis. Esto proporciona una clave del registro para permitir que los administradores especifiquen que solo se debería mostrar el nombre de la directiva. HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration. 0 = predeterminado 1 = solo se mostrará el nombre de directiva del texto de la directiva de retención.
 
 ### <a name="office-suite"></a>Conjunto de aplicaciones de Office
 
@@ -1150,12 +1192,12 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="office-suite"></a>Conjunto de aplicaciones de Office
 
-- Se ha corregido un problema en Visual Basic para las aplicaciones de Microsoft Office, por el que la aplicación de Office consideraba como corruptos ciertos proyectos de VBA que contienen referencias a bibliotecas de código con caracteres DBCS en el nombre o la ruta de la biblioteca.
+- Se ha corregido un problema en VBA de Microsoft Office, por el que la aplicación de Office consideraba como corruptos ciertos proyectos de VBA que contienen referencias a bibliotecas de código con caracteres DBCS en el nombre o la ruta de la biblioteca.
 
-## <a name="version1908april-26"></a>Versión 1908: 26 de abril
+## <a name="version-1908-april-26"></a>Versión 1908: 26 de abril
 *Versión 1908 (Compilación 11929.20736)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="excel"></a>Excel
@@ -1376,11 +1418,11 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - **Encuentre ese archivo rápido:** ¿Busca un archivo en el que trabajó recientemente? Basta con que escriba en el cuadro de búsqueda en la página Archivo > Inicio para encontrar el archivo que busca.
 
-- **Vea cómo la hoja de cálculo cobra vida**: inserte gráficos 3D animados para ver corazones que laten, planetas en órbita y dinosaurios a toda velocidad por el libro. [Más información](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)
+- **Vea cómo la hoja de cálculo cobra vida** : inserte gráficos 3D animados para ver corazones que laten, planetas en órbita y dinosaurios a toda velocidad por el libro. [Más información](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)
 
 - **Obtener más información sobre los datos:** el nuevo botón Ideas busca patrones en los datos y los usa para crear sugerencias inteligentes y personalizadas. [Más información](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
-- **La colaboración es ahora más fácil**: las mejoras en la coautoría significan que al trabajar con el formato condicional, los estilos de celda y otros elementos, los cambios se combinan perfectamente con los de los colaboradores.
+- **La colaboración es ahora más fácil** : las mejoras en la coautoría significan que al trabajar con el formato condicional, los estilos de celda y otros elementos, los cambios se combinan perfectamente con los de los colaboradores.
 
 - **Unir tablas en columnas similares:** obtener y transformar (Power Query) ahora ofrece una lógica de coincidencia de texto (también denominada coincidencia aproximada) al comparar columnas en la combinación de tablas. [Más información](https://support.office.com/article/ffdd5082-c0c8-4c8e-a794-bd3962b90649)
 
@@ -1444,11 +1486,11 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - **Cambiar sin problemas:** el nuevo administrador de cuentas muestra todas sus cuentas personales y profesionales de Office 365 en un solo lugar. Cambiar de una a otra nunca había sido tan fácil. [Más información](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
-- **Exportar objetos visuales de Visio desde Power BI**: los objetos visuales de Visio para Power BI ahora se mostrarán correctamente al exportar informes de Power BI como archivos PDF, archivos de PowerPoint, etc. [Más información](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+- **Exportar objetos visuales de Visio desde Power BI** : los objetos visuales de Visio para Power BI ahora se mostrarán correctamente al exportar informes de Power BI como archivos PDF, archivos de PowerPoint, etc. [Más información](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
 
 ### <a name="word"></a>Word
 
-- **El modo herramientas de aprendizaje tiene soporte adicional para más colores de página: **las herramientas de aprendizaje de Word son compatibles con más colores de tema de página, lo que permite cambiar el color de fondo de la página. Muchas personas tienen dificultades para leer con un fondo totalmente blanco o negro, por lo que hemos ampliado la elección de colores en Word para PC y Mac.
+- **El modo herramientas de aprendizaje tiene soporte adicional para más colores de página:** las herramientas de aprendizaje de Word son compatibles con más colores de tema de página, lo que permite cambiar el color de fondo de la página. Muchas personas tienen dificultades para leer con un fondo totalmente blanco o negro, por lo que hemos ampliado la elección de colores en Word para PC y Mac.
 
 - **Edición natural con el Editor para entradas de lápiz:** con un solo trazo, divida o una palabras, agregue una nueva línea o inserte palabras con el lápiz. [Más información](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
 
@@ -1754,7 +1796,8 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 
 [//]: # (NO MODIFICAR INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
-[//]: # (|Win32|DC|Production| |16.0.12527.21236|versión-2002-13-octubre|)
+[//]: # (|Win32|DC|Production| |16.0.12527.21330|versión-10-noviembre-2002|)
+[//]: # (|Win32|DC|Production| |16.0.12527.21236|versión-13-octubre-2002|)
 [//]: # (|Win32|DC|Producción| |16.0.12527.21104|versión-2002-08-agosto|)
 [//]: # (|Win32|DC|Producción| |16.0.12527.20988|versión-2002-11-agosto|)
 [//]: # (| Win32 | CC | Producción | | 16.0.12527.20880 | versión-2002-julio-14 |)

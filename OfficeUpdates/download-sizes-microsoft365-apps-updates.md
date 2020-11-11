@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Aplicaciones de Microsoft 365 según el canal de actualización.
-ms.openlocfilehash: b5159bfcd85131f58cbbc5450d3a811e29b60961
-ms.sourcegitcommit: f76985cad6ada2284d09d1d574cb64622a12c8df
+ms.openlocfilehash: 03142d126521058ac2762a3f0004b7944f4f2bc4
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/05/2020
-ms.locfileid: "48927143"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48990139"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tamaños de descarga de las actualizaciones de Aplicaciones de Microsoft 365 
 
@@ -36,14 +36,23 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 
 [//]: # (NO ELIMINAR)
 
-[//]: # (NO ELIMINAR INICIO DEL CONTENIDO DE PREVISIÓN)
+## <a name="november-10-2020"></a>10 de noviembre de 2020
 
-## <a name="november-5-2020"></a>5 de noviembre de 2020
+[//]: # (NO ELIMINAR EL CONTENIDO FINAL 10 de noviembre de 2020)
+
+### <a name="current-channel"></a>Canal actual
+
+La versión más actual es la 2010 (compilación 13328.20356).
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 2010 (compilación 13328.20292) <br/> |27 de octubre de 2020 <br/> |57<br/> |
+|Versión 2009 (compilación 13231.20418) <br/> |21 de octubre de 2020 <br/> |286<br/> |
 
 
 ### <a name="monthly-enterprise-channel"></a>Canal empresarial mensual
 
-<i>La versión prevista es la versión 2009 (compilación 13231.20492).</i>
+La versión más actual es la Versión 2009 (compilación 13231.20514).
 
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
@@ -53,7 +62,7 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 
 ### <a name="semi-annual-enterprise-channel-preview"></a>Canal empresarial semestral (vista previa)
 
-<i>La versión prevista es la versión 2008 (compilación 13127.20760).</i>
+La versión más actual es la Versión 2008 (compilación 13127.20760).
 
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
@@ -61,17 +70,20 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 |Versión 2008 (Compilación 13127.20408) <br/> |8 de septiembre de 2020 <br/> |65<br/> |
 
 
-### <a name="semi-annual-enterprise-channel"></a>Canal empresarial semestral
+### <a name="semi-annual-enterprise-channel"></a>Canal semestral para empresas
 
-<i>La versión prevista es la versión 2002 (compilación 12527.21316).</i>
+La versión más actual es la de 2002 (compilación 12527.21330).
 
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
 |Versión 2002 (compilación 12527.21236) <br/> |13 de octubre de 2020 <br/> |63<br/> |
-|Versión 2002 (Compilación 12527.21104) <br/> |8 de septiembre de 2020 <br/> |77<br/> |
+|Versión 2002 (Compilación 12527.21104) <br/> |8 de septiembre de 2020 <br/> |76<br/> |
 
 
-[//]: # (NO ELIMINAR FINAL DEL CONTENIDO DE PREVISIÓN)
+[//]: # (NO ELIMINAR EL CONTENIDO FINAL 10 de noviembre de 2020)
+
+
+
 
 ## <a name="october-27-2020"></a>27 de octubre de 2020
 

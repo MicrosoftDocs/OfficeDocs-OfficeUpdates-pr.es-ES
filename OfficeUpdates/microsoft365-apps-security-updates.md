@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión de las actualizaciones de seguridad de Microsoft Office
-ms.openlocfilehash: c9a4d3af52431016160bc8aa9e5f37200b90966d
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 47c4bc082265b63106f3293fbad1b830d012b504
+ms.sourcegitcommit: d898fa4f06c90444f9d729a1b0df2c82bde7d719
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453298"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "48992695"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Notas de la versión para las actualizaciones de seguridad de Microsoft Office
 
@@ -24,13 +24,47 @@ Esta información se aplica a las Aplicaciones de Microsoft 365 para empresas, l
 
 
 > [!IMPORTANT]
-> - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - A partir de la versión 2004, el nombre de Office 365 ProPlus pasa a ser Aplicaciones de Microsoft 365 para empresas. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2123420) para obtener más información.Por lo general, en nuestra documentación solo haremos referencia a él como Aplicaciones de Microsoft 365.
+> - Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. Para más información, [lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> - A partir de la versión 2004, el nombre de Office 365 ProPlus cambia a Aplicaciones de Microsoft 365 para empresas. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2123420) para obtener más información. Por lo general, en nuestra documentación solo haremos referencia al producto como Aplicaciones de Microsoft 365.
 
 
  
 
 [//]: # (NO QUITAR LA LÍNEA ANTERIOR, se usa para el espaciado)  
+
+## <a name="november-10-2020"></a>10 de noviembre de 2020
+Versión 2010 (compilación 13328.20356)  
+Canal mensual para empresas: versión 2009 (compilación 13231.20514)  
+Canal mensual para empresas: versión 2008 (compilación 13127.20760)  
+Canal semestral para empresas (versión preliminar): versión 2008 (compilación 13127.20760)  
+Canal semestral para empresas: versión 2002 (compilación 12527.21330)  
+Canal semestral para empresas: versión 1908 (compilación 11929.20974)  
+Aplicaciones de Microsoft 365 en Windows 7: versión 2002 (compilación 12527.21330)  
+Office 2019 Retail: versión 2010 (compilación 13328.20356)  
+Office 2016 Retail: versión 2010 (compilación 13328.20356)  
+Licencia por volumen de Office 2019: versión 1808 (compilación 10368.20035)  
+
+[//]: # (NO ELIMINAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO INICIAL)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-17064](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-17064)
+-   [CVE-2020-17065](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-17065)
+-   [CVE-2020-17067](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-17067)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-17020](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-17020)
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+-   [CVE-2020-17062](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-17062)
+-   [CVE-2020-17063](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-17063)
+
+[//]: # (NO ELIMINAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO FINAL)
+
+
 
 ## <a name="october-13-2020"></a>13 de octubre de 2020
 Canal actual: versión 2009 (compilación 13231.20390)  

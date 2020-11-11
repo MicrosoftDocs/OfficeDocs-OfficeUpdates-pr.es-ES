@@ -9,20 +9,89 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones del canal semestral (dirigido) de Aplicaciones de Microsoft 365 en 2020.
-ms.openlocfilehash: 18637bac9ff51237a2afe97136febbd20cb46512
-ms.sourcegitcommit: f906906efeaa6b3d35d324a70303ed4c79771552
+ms.openlocfilehash: e448b5e1d0ea334401c9bd9c91291376f6579367
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "48466118"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48990059"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>Notas de la versión para las versiones de canal empresarial semestral (vista previa) en 2020
 
 Estas notas de la versión proporcionan información sobre las nuevas características y las actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones de canal empresarial semestral (vista previa) en 2020 para las Aplicaciones de Microsoft 365 para empresas, las Aplicaciones de Microsoft 365 para negocios y las versiones de suscripción de las aplicaciones de escritorio de Project y Visio.
 
 > [!IMPORTANT]
-> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. Para más información, [lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
+
+## <a name="version-2008-november-10"></a>Versión 2008: 10 de julio
+*La versión prevista es la versión 2008 (compilación 13127.20760).*
+
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema por el que algunas funciones podían tener un resultado incorrecto después de cargar un libro.
+
+
+- Se ha corregido un problema relacionado con las referencias de complemento de XLAM y los rangos con nombre que cerraba la aplicación de forma inesperada.
+
+
+- Se ha corregido un problema por el que, al usar una macro para establecer la propiedad FormulaR1C1 para un rango, las referencias de celda eran incorrectas si una hoja de gráfico era la hoja activa.
+
+
+- Se ha corregido un problema por el que Excel indicaba por error que se había quedado sin recursos al intentar calcular una o varias fórmulas.
+
+
+- Se ha corregido un problema que aparecía cuando se configuraba el idioma de Office en español. Este problema provocaba que las listas de validación de datos pudieran no mostrar todos los elementos de la lista.
+
+
+- Se ha corregido un problema que podía producir un bloqueo al actualizar las tablas dinámicas de OLAP.
+
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema para permitir que los usuarios deshabiliten IRM (Information Rights Management) para Outlook sin tener que deshabilitarlo para el resto de las aplicaciones de Office.
+
+
+- Se ha corregido un problema que provocaba que los usuarios no pudieran conceder permisos de editor a los delegados.
+
+
+- Se ha corregido un problema que provocaba que la aplicación finalizara de forma abrupta cuando el cliente seleccionaba un resultado de búsqueda.
+
+
+- Se ha corregido un problema que provocaba que las búsquedas en calendarios de Grupo no dieran resultados.
+
+
+- Corregido un problema que causaba que los delegados sufrieran errores intermitentemente al abrir carpetas compartidas en otro buzón.
+
+
+- Corregido un problema que causaba que se enviaran algunos mensajes de correo electrónico generados automáticamente con el cuerpo en blanco cuando la línea del asunto estaba también en blanco.
+
+
+- Se ha corregido un problema que provocaba que los encabezados de mensajes en chino fueran ilegibles al responder o reenviar.
+
+- Se ha corregido un problema por el que las experiencias opcionales conectadas bloqueaban la carga de los complementos web.  <br />Ver detalles en la [entrada de blog](https://developer.microsoft.com/es-ES/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha corregido un problema en el que el complemento de contenido de formularios no se reproducía después de la inserción hasta que el usuario hiciera clic en otra diapositiva para hacer que aparezca.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Se ha atendido un problema para los clientes comerciales que usan el System Center Configuration Manager u otras herramientas de administración para Office Update mediante la prevención de pérdida de datos del punto de conexión de Microsoft 365.
+
+- Corrección de un problema por el que no funcionaba la API de mensajería para los complementos de Office.
+
+
+
+[//]: # (NO QUITAR EL CONTENIDO FINAL DE LOS DETALLES DE LOS ERRORES)
 
 ## <a name="version-2008-october-13"></a>Versión 2008: 13 de octubre
 *Versión 2008 (compilación 13127.20638)*
@@ -124,7 +193,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Elija el color perfecto:** use códigos de colores hexadecimales para elegir exactamente el color que desea para la fuente, el resaltado de texto, etc.<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)
 
-- **Crear tablas dinámicas de conjuntos de datos en Power BI desde Excel:** puede crear tablas dinámicas en Excel conectadas a los conjuntos de datos almacenados en Power BI con tan solo unos clics.Así, podrá obtener lo mejor de las tablas dinámicas y de Power BI. Calcule, resuma y analice sus datos con tablas dinámicas desde sus conjuntos de datos seguros de Power BI. [Más información](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+- **Crear tablas dinámicas de conjuntos de datos en Power BI desde Excel:** puede crear tablas dinámicas en Excel conectadas a los conjuntos de datos almacenados en Power BI con tan solo unos clics. Así, podrá obtener lo mejor de las tablas dinámicas y de Power BI. Calcule, resuma y analice sus datos con tablas dinámicas desde sus conjuntos de datos seguros de Power BI. [Más información](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
 - **Sus funciones favoritas de Excel se han vuelto más rápidas:** las funciones SUMAR.SI.CONJUNTO, CONTAR.SI.CONJUNTO, PROMEDIO.SI.CONJUNTO, MAX.SI.CONJUNTO y MIN.SI.CONJUNTO son más rápidas que nunca. Llegue al final más rápidamente. Pruebe ahora una.
 
@@ -156,7 +225,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **GIF en un instante:** una diapositiva, un marco. Cree fácilmente archivos GIF en bucle en PowerPoint. [Más información](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2019/12/30/create-animated-gifs-using-powerpoint/)
 
-- **Mejores diagramas ** con mejores conectores y un proceso de conversión de entrada de lápiz más fluido, puede aplicar sus ideas con más confianza. [Más información](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **Mejores diagramas** con mejores conectores y un proceso de conversión de entrada de lápiz más fluido, puede aplicar sus ideas con más confianza. [Más información](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 - **Elija el color perfecto:** use códigos de colores hexadecimales para elegir exactamente el color que desea para la fuente, el resaltado de texto, etc.<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)
 
@@ -555,7 +624,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 - Se ha corregido un problema de bloqueo con el host de Office en Windows cuando se activa un complemento mientras el valor del registro TabProcGrowth era del tipo REG_SZ.
 
 
-[//]: # (NO QUITAR LOS DETALLES DE ERROR DE FIN DE CONTENIDO)
+[//]: # (NO QUITAR EL CONTENIDO FINAL DE LOS DETALLES DE LOS ERRORES)
 
 ## <a name="version-2002-june-09"></a>Versión 2002: 09 de junio
 *Versión 2002 (compilación 12527.20720)*
@@ -710,9 +779,9 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="excel"></a>Excel
 
-- **Escriba una fórmula que devuelva varios valores:** escriba rápidamente una fórmula que devuelva varios valores y se depositarán automáticamente en las celdas vecinas. [Más información](https://support.microsoft.com/en-us/office/new-array-functions-003df6c7-1dcb-4388-8e2e-0fe77a0887bc?ui=en-us&rs=en-us&ad=us)
-- **Seis potentes funciones:** hemos agregado seis nuevas funciones para mejorar las hojas de cálculo: FILTRAR, ORDENAR, ORDENARPOR, UNICOS, SECUENCIA y MATRIZALEAT.  [Más información](https://support.microsoft.com/en-us/office/easier-array-formulas-5c2c9cbb-def8-409a-b380-2fbf91b20aa3?ui=en-us&rs=en-us&ad=us)
-- **Buscar a la izquierda, buscar a la derecha... BUSCARX ya está aquí:** fila por fila, encuentre lo que necesite en una tabla o un rango con BUSCARX.  
+- **Escriba una fórmula que devuelva varios valores:** Escriba rápidamente una fórmula que devuelva múltiples valores y se derramarán automáticamente en las celdas vecinas. [Más información](https://support.microsoft.com/en-us/office/new-array-functions-003df6c7-1dcb-4388-8e2e-0fe77a0887bc?ui=en-us&rs=en-us&ad=us)
+- **Seis potentes funciones:** Seis potentes funciones: Hemos agregado seis nuevas funciones para mejorar las hojas de cálculo: FILTRAR, ORDENAR, ORDENARPOR, UNICOS, SECUENCIA y MATRIZALEAT.  [Más información](https://support.microsoft.com/en-us/office/easier-array-formulas-5c2c9cbb-def8-409a-b380-2fbf91b20aa3?ui=en-us&rs=en-us&ad=us)
+- **Busque a la izquierda, busque a la derecha... BUSCARX ya está aquí** : fila por fila, busque lo que necesite en una tabla o un rango con BUSCARX.  
   [Más información](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -789,21 +858,21 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 - **Encuentre lo que busca:** Realice búsquedas de comandos, personas, archivos, fotos, artículos en la web y más. [Más información](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
 
-- **Un toque humano**: dé un aspecto informal y de dibujado a mano a las formas de Office en su libro. [Más información](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+- **Un toque humano** : dé un aspecto informal y de dibujado a mano a las formas de Office en su libro. [Más información](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
 - **Uso compartido de archivos más rápido:** comparta sus documentos directamente desde la lista usada recientemente sin tener que abrir el archivo.
 
 - **Se acabaron los saltos al explorador:** usted decide cómo se abren los vínculos a los documentos de Office: en el explorador o en la aplicación. 
 
-- **Resalte lo que queda por hacer**: seleccione Resolver para contraer los comentarios y hacer que resalten los elementos abiertos.
+- **Resalte lo que queda por hacer** : seleccione Resolver para contraer los comentarios y hacer que resalten los elementos abiertos.
 
 - **Cree archivos PDF más accesibles:** Cree un PDF y el verificador de accesibilidad le indicará los problemas de accesibilidad que debe solucionar antes de guardar. [Más información](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
 
-- **Convertir los archivos para mejorar la accesibilidad**: actualice los archivos al formato moderno para que sean más accesibles para todos los demás.
+- **Convertir los archivos para mejorar la accesibilidad** : actualice los archivos al formato moderno para que sean más accesibles para todos los demás.
 
 - **Complemento del visualizador de datos:** Crear rápidamente diagramas de flujo de Visio desde Excel. [Más información](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
-- **Lea y responda sobre la marcha: **responda a los comentarios y las menciones directamente desde el correo electrónico, sin abrir el libro.
+- **Lea y responda sobre la marcha:** responda a los comentarios y las menciones directamente desde el correo electrónico, sin abrir el libro.
 
 - **Obtenga estadísticas en el libro:** Estadísticas del libro da información general sobre el contenido de un libro, para ayudarle a descubrir más fácilmente su contenido.
 
@@ -819,9 +888,9 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Busque incluso con errores ortográficos o tipográficos:** Outlook encontrará lo que busca, aunque no coincida con la forma exacta en que lo escribió.
 
-- **Ahora es más fácil detectar correos de suplantación de identidad:** los mensajes de correo no deseado y de suplantación de identidad tienen un aspecto diferente para que pueda identificarlos y eliminarlos fácilmente en la bandeja de entrada.
+- **Ahora es más fácil detectar correos de suplantación de identidad:** los mensajes de correo no deseado y de suplantación de identidad tienen una apariencia diferente para que pueda identificarlos y eliminarlos fácilmente en la bandeja de entrada.
 
-- **Protección avanzada frente a ataques**: con la Protección contra amenazas avanzada de Office 365, estará protegido frente a ataques mediante hipervínculos en asuntos de correos electrónicos, mensajes adjuntos, mensajes firmados, rutas de red, etc.
+- **Protección avanzada frente a ataques** : con la Protección contra amenazas avanzada de Office 365, estará protegido frente a ataques mediante hipervínculos en asuntos de correos electrónicos, mensajes adjuntos, mensajes firmados, rutas de red, etc.
 
 - **Deja que lo dibuje:** garabatee sobre las imágenes o agregue un Lienzo de dibujo para enviar sus pensamientos con la entrada de lápiz. [Más información](https://support.office.com/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
 
@@ -847,9 +916,9 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Encuentre lo que busca:** use el cuadro de búsqueda para buscar texto, comandos, ayuda y mucho más. [Más información](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
-- **Encuentre los títulos de diapositivas que faltan y escríbalos**: los títulos de diapositivas añaden fuerza a su discurso y permiten que las diapositivas sean accesibles para los usuarios de todas las capacidades. El comprobador de accesibilidad le muestra dónde faltan títulos para que pueda agregarlos en el momento. [Más información](https://support.office.com/article/c5286802-495a-4b47-a8ae-212fb8a7dc74)
+- **Encuentre los títulos de diapositivas que faltan y escríbalos** : los títulos de diapositivas añaden fuerza a su discurso y permiten que las diapositivas sean accesibles para los usuarios de todas las capacidades. El comprobador de accesibilidad le muestra dónde faltan títulos para que pueda agregarlos en el momento. [Más información](https://support.office.com/article/c5286802-495a-4b47-a8ae-212fb8a7dc74)
 
-- **Un toque humano**: dé un aspecto informal y de dibujado a mano a las formas de Office en su presentación. [Más información](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+- **Un toque humano** : dé un aspecto informal y de dibujado a mano a las formas de Office en su presentación. [Más información](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
 - **Uso compartido de archivos más rápido:** comparta sus documentos directamente desde la lista usada recientemente sin tener que abrir el archivo.
 
@@ -865,7 +934,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Optimizar la presentación para todos:** el comprobador de accesibilidad le ayuda a organizar los objetos de las diapositivas pensando en los lectores de pantalla.
 
-- **Convertir los archivos para mejorar la accesibilidad**: actualice los archivos al formato moderno para que sean más accesibles para todos los usuarios.
+- **Convertir los archivos para mejorar la accesibilidad** : actualice los archivos al formato moderno para que sean más accesibles para todos los usuarios.
 
 - **Una experiencia de vídeo más segura:** las mejoras de seguridad hacen que la experiencia de vídeo en línea sea más segura.
 
@@ -899,9 +968,9 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Más iconos para que encuentre el que refleja su estado de ánimo:** hemos agregado más de 300 iconos nuevos. Encuéntrelos en Insertar > Iconos. [Más información](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
-- **Otros usuarios verán los cambios rápidamente**: las mejoras en la coautoría significan que los colaboradores podrán ver los cambios más rápido que nunca.
+- **Otros usuarios verán los cambios rápidamente** : las mejoras en la coautoría significan que los colaboradores podrán ver los cambios más rápido que nunca.
 
-- **Un toque humano**: dé un aspecto informal y de dibujado a mano a las formas de Office en su documento. [Más información](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+- **Un toque humano** : dé un aspecto informal y de dibujado a mano a las formas de Office en su documento. [Más información](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
 - **Borrar con precisión:** elija entre dos tamaños de borrador para arreglar pequeñas imperfecciones de la entrada de lápiz. [Más información](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
@@ -913,7 +982,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Cree archivos PDF más accesibles:** Cree un PDF y el verificador de accesibilidad le indicará los problemas de accesibilidad que debe solucionar antes de guardar. [Más información](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
 
-- **Convertir los archivos para mejorar la accesibilidad**: Actualice los archivos al formato moderno para que sean más accesibles para todos los usuarios.
+- **Convertir los archivos para mejorar la accesibilidad** : Actualice los archivos al formato moderno para que sean más accesibles para todos los usuarios.
 
 - **Una experiencia de vídeo más segura:** las mejoras de seguridad hacen que la experiencia de vídeo en línea sea más segura. [Obtener más información](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
 
@@ -1194,7 +1263,8 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 
 [//]: # (NO MODIFICAR INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
-[//]: # (|Win32|FRDC|Insiders| |16.0.13127.20638|versión-2008-13-octubre|)
+[//]: # (|Win32|FRDC|Insiders| |16.0.13127.20760|versión-10-noviembre-2008|)
+[//]: # (|Win32|FRDC|Insiders| |16.0.13127.20638|versión-13-octubre-2008|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20408|version-2008-septiembre-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.12527.20988|version-2002-11-agosto|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.12527.20880|version-2002-july-14|)

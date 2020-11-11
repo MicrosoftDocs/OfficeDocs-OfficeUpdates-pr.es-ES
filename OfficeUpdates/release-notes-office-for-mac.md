@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales de TI las notas de la versión de las versiones de Office para Mac para los suscriptores de Aplicaciones de Microsoft 365
-ms.openlocfilehash: ba500a25ed32a9a3c7a57401fbfdc7ba7b3f208d
-ms.sourcegitcommit: 6da2dfccc63a75bf36d2660b770a62e61e8463be
+ms.openlocfilehash: 9700bf78b5c49d5e5419a26cde1f2fd9d24d1bf3
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "48944172"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48990109"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de la versión de Office para Mac
 
@@ -45,6 +45,34 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
 
 
+
+
+
+## <a name="november-10-2020"></a>10 de noviembre de 2020
+*Versión 16.43 (Compilación 20110804)*
+
+[//]: # (NO QUITAR DETALLES DE CARACTERÍSTICAS CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="powerpoint-mac"></a>PowerPoint en Mac
+
+- **Buscar es más rápido y sencillo:** busque rápidamente en el archivo con el cuadro de búsqueda.
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+
+[//]: # (NO QUITAR LOS DETALLES DE SEGURIDAD INICIO DEL CONTENIDO INICIAL)
+
+
+### <a name="security-updates"></a>Actualizaciones de seguridad
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-17067](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-17067)
+
+[//]: # (NO ELIMINAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO FINAL)
 
 ## <a name="october-13-2020"></a>13 de octubre de 2020
 *Versión 16.42 (compilación 20101102)*
@@ -1066,7 +1094,7 @@ En esta versión se incluyen las actualizaciones siguientes.
 |:-----|:-----|:-----|
 |Word  <br/> |**Editar con otros usuarios en tiempo real:** en las miniaturas de la esquina superior derecha de la ventana se muestra quién más está trabajando con usted en un documento compartido. Los iconos de marcador muestran dónde están trabajando los demás usuarios y se pueden ver los cambios a medida que escriben. [Más información](https://support.office.com/article/7dd3040c-3f30-4fdd-bab0-8586492a1f1d#ID0EABAAA=Mac)  <br/><br/> **Los cambios se guardan automáticamente** Los cambios se guardan automáticamente para los documentos, las hojas de cálculo y las presentaciones almacenados en la nube, y puede ver las actualizaciones de otros usuarios en cuestión de segundos. ¿Necesita revertir? Consulte el historial de versiones para obtener una lista de los cambios y acceder a versiones anteriores. [Más información](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5.aspx#OfficeVersion=Mac) <br/> <br/> **Obtener acceso rápidamente a los sitios y a los grupos:** busque rápidamente las presentaciones almacenadas en los sitios y grupos que usa a menudo en el menú Archivo.  <br/> |[CVE-2018-0792](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-0792): Vulnerabilidad de la ejecución remota de código de Microsoft Word  <br/>  <br/>[CVE-2018-0794](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-0794): Vulnerabilidad de la ejecución remota de código de Microsoft Word |
 |Excel  <br/> |**Edición colaborativa:** trabaje con otras personas al mismo tiempo en el libro. En las miniaturas de la esquina superior derecha de la ventana se muestra quién más está viendo o modificando el archivo con usted. [Más información](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104#ID0EAABAAA=Mac)  <br/><br/> **Los cambios se guardan automáticamente** Los cambios se guardan automáticamente para los documentos, las hojas de cálculo y las presentaciones almacenados en la nube, y puede ver las actualizaciones de otros usuarios en cuestión de segundos. ¿Necesita revertir? Consulte el historial de versiones para obtener una lista de los cambios y acceder a versiones anteriores. [Más información](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5.aspx#OfficeVersion=Mac)  <br/><br/> **Más gráficos:** use los gráficos nuevos, como embudo, de proyección solar y el histograma, para transformar los datos en visualizaciones profesionales, o bien use el nuevo tipo de gráfico Mapa para transformar datos geográficos en un mapa con unos pocos pasos.   <br/><br/> **Más funciones:** acorte las fórmulas que escriba con las nuevas funciones lógicas [SI.CONJUNTO](https://support.office.com/article/36329a26-37b2-467c-972b-4a39bd951d45) y [CAMBIAR](https://support.office.com/article/47ab33c0-28ce-4530-8a45-d532ec4aa25e).   <br/><br/> **Obtener acceso rápidamente a los sitios y a los grupos:** busque rápidamente las presentaciones almacenadas en los sitios y grupos que usa a menudo en el menú Archivo.  <br/> <br/> **Mejor compatibilidad para los gráficos de tabla dinámica:** cambie los filtros de una tabla dinámica y el gráfico que se ha creado se ajustará de manera automática para mostrar exactamente lo que quiere.  <br/> <br/> **Cálculos multiproceso** Las fórmulas se actualizan más rápido cuando se cambian los valores, ya que Excel usa varios subprocesos de procesamiento. |
-|PowerPoint  <br/> |**Editar con otros usuarios en tiempo real:** en las miniaturas de la esquina superior derecha de la ventana se muestra quién más está trabajando con usted en un documento compartido. Los iconos de marcador muestran dónde están trabajando los demás usuarios y se pueden ver los cambios a medida que escriben. [Más información](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)  <br/><br/> **Los cambios se guardan automáticamente** Los cambios se guardan automáticamente para los documentos, las hojas de cálculo y las presentaciones almacenados en la nube, y puede ver las actualizaciones de otros usuarios en cuestión de segundos. ¿Necesita revertir? Consulte el historial de versiones para obtener una lista de los cambios y acceder a versiones anteriores. [Más información](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5.aspx#OfficeVersion=Mac) <br/> <br/> **Ver qué ha cambiado:** las diapositivas que otros usuarios han modificado en su ausencia siempre se resaltan. [Más información](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d) <br/> <br/> **Un inicio rápido para la investigación:** empezar desde cero es difícil. Inicio rápido crea de forma automática un esquema para el tema elegido con sugerencias de puntos de discusión y diseños para destacar la presentación. [Más información](https://support.office.com/article/4784f273-0b2c-456c-9c89-24e5b977c224.aspx) <br/> <br/> **Recorte de elemento multimedia:** quite contenido no deseado del principio o final de un clip de audio o vídeo. [Más información](https://support.office.com/article/1fc386f2-8404-43e8-9dbd-fee3a11a1d8f#Platform=Mac) <br/> <br/> **Obtener acceso rápidamente a los sitios y a los grupos:** busque rápidamente las presentaciones almacenadas en los sitios y grupos que usa a menudo en el menú Archivo.  <br/> <br/> **Puntero láser en la presentación con diapositivas:** use el mouse como un puntero láser para destacar partes concretas de la diapositiva.<br/><br/>**Marcador de resaltado de texto:** ahora, el texto resaltado está en Mac. Use el marcador de resaltado de texto para enfatizar fragmentos importantes de texto.
+|PowerPoint  <br/> |**Editar con otros usuarios en tiempo real:** en las miniaturas de la esquina superior derecha de la ventana se muestra quién más está trabajando con usted en un documento compartido. Los iconos de marcador muestran dónde están trabajando los demás usuarios y se pueden ver los cambios a medida que escriben. [Más información](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)  <br/><br/> **Los cambios se guardan automáticamente** Los cambios se guardan automáticamente para los documentos, las hojas de cálculo y las presentaciones almacenados en la nube, y puede ver las actualizaciones de otros usuarios en cuestión de segundos. ¿Necesita revertir? Consulte el historial de versiones para obtener una lista de los cambios y acceder a versiones anteriores. [Más información](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5.aspx#OfficeVersion=Mac) <br/> <br/> **Ver qué ha cambiado:** las diapositivas que otros usuarios han modificado en su ausencia siempre se resaltan. [Más información](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d) <br/> <br/> **Un inicio rápido para la investigación:** empezar desde cero es difícil. Inicio rápido crea de forma automática un esquema para el tema elegido con sugerencias de puntos de discusión y diseños para destacar la presentación. [Más información](https://support.office.com/article/4784f273-0b2c-456c-9c89-24e5b977c224.aspx) <br/> <br/> **Recorte de elemento multimedia:** quite contenido no deseado del principio o final de un clip de audio o vídeo. [Más información](https://support.office.com/article/1fc386f2-8404-43e8-9dbd-fee3a11a1d8f#Platform=Mac) <br/> <br/> **Obtener acceso rápidamente a los sitios y a los grupos:** busque rápidamente las presentaciones almacenadas en los sitios y grupos que usa a menudo en el menú Archivo.  <br/> <br/> **Puntero láser en la presentación con diapositivas:** use el mouse como un puntero láser para destacar partes concretas de la diapositiva.<br/><br/>**Marcador de texto:** el texto resaltado llega a Mac. Use el marcador de resaltado de texto para enfatizar fragmentos importantes de texto.
  |
 |Outlook  <br/> |**Archivar o eliminar con solo pasar el dedo:** ahorre tiempo al organizar la Bandeja de entrada deslizando hacia la izquierda con dos dedos en el panel táctil para archivar un correo electrónico o deslizando hacia la derecha para eliminarlo.  <br/> |[CVE-2018-0793](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-0793): Vulnerabilidad de la ejecución remota de código de Microsoft Outlook |
 

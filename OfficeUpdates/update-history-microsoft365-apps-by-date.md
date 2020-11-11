@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista completa de las versiones de las Aplicaciones de Microsoft 365, organizada por fecha, con vínculos a las notas de la versión.
-ms.openlocfilehash: d94549f509b812d37638a5f0e6a0077fafd229f6
-ms.sourcegitcommit: 16da127be61d3ac4db852de244516a36e3f5e129
+ms.openlocfilehash: bf1870a04fbbc542d12aa64c611bf47351bba865
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48782325"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48989949"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Historial de actualizaciones de Aplicaciones de Microsoft 365 (ordenado por fecha)
 
@@ -34,12 +34,12 @@ En la tabla siguiente se muestra la versión compatible y el número de compilac
 
 |**Canal**|**Versión**|**Compilación**|**Fecha de publicación**|**Versión admitida hasta**|
 |:-----|:-----|:-----|:-----|:-----|
-|Canal actual<br/>|2010<br/>|13328.20292<br/>|27 de octubre de 2020<br/>|Lanzamiento de la versión 2011<br/>|
-|Canal empresarial mensual<br/>|2008<br/>|13127.20638<br/>|13 de octubre de 2020<br/>|8 de diciembre de 2020<br/>|
-|Canal empresarial mensual<br/>|2007<br/>|13029.20708<br/>|13 de octubre de 2020<br/>|10 de noviembre de 2020<br/>|
-|Canal empresarial semestral (vista previa)<br/>|2008<br/>|13127.20638<br/>|13 de octubre de 2020<br/>|9 de marzo de 2021<br/>|
-|Canal empresarial semestral<br/>|2002<br/>|12527.21236<br/>|13 de octubre de 2020<br/>|14 de septiembre de 2021<br/>|
-|Canal empresarial semestral<br/>|1908<br/>|11929.20966<br/>|13 de octubre de 2020<br/>|9 de marzo de 2021<br/>|
+|Canal actual<br/>|2010<br/>|13328.20356<br/>|10 de noviembre de 2020<br/>|Lanzamiento de la versión 2011<br/>|
+|Canal empresarial mensual<br/>|2009<br/>|13231.20514<br/>|10 de noviembre de 2020<br/>|12 de enero de 2021<br/>|
+|Canal empresarial mensual<br/>|2008<br/>|13127.20760<br/>|10 de noviembre de 2020<br/>|8 de diciembre de 2020<br/>|
+|Canal empresarial semestral (vista previa)<br/>|2008<br/>|13127.20760<br/>|10 de noviembre de 2020<br/>|9 de marzo de 2021<br/>|
+|Canal empresarial semestral<br/>|2002<br/>|12527.21330<br/>|10 de noviembre de 2020<br/>|14 de septiembre de 2021<br/>|
+|Canal empresarial semestral<br/>|1908<br/>|11929.20974<br/>|10 de noviembre de 2020<br/>|9 de marzo de 2021<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -51,6 +51,7 @@ La siguiente tabla proporciona una lista de los números de versión y compilaci
 
 |**Year**|**Fecha de publicación**|**Canal actual**|**Canal empresarial mensual**|**Canal empresarial semestral (vista previa)**|**Canal empresarial semestral**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020|10 de noviembre|[Versión 2010 (compilación 13328.20356)](current-channel.md#version-2010-november-10)|[Versión 2009 (compilación 13231.20514)](monthly-enterprise-channel.md#version-2009-november-10)<br/>[La versión prevista es la versión 2008 (compilación 13127.20760).](monthly-enterprise-channel.md#version-2008-november-10)|[La versión prevista es la versión 2008 (compilación 13127.20760).](semi-annual-enterprise-channel-preview.md#version-2008-november-10)|[Versión 2002 (compilación 12527.21330)](semi-annual-enterprise-channel.md#version-2002-november-10)<br/>[Versión 1908 (compilación 11929.20974)](semi-annual-enterprise-channel.md#version-1908-november-10)|
 |2020|27 de octubre |[Versión 2010 (compilación 13328.20292)](current-channel.md#version-2010-october-27)| | | |
 |2020|21 de octubre|[Versión 2009 (compilación 13231.20418)](current-channel.md#version-2009-october-21)| | | |
 |2020|13 de octubre|[Versión 2009 (compilación 13231.20390)](current-channel.md#version-2009-october-13)|[Versión 2008 (Compilación 13127.20638)](monthly-enterprise-channel.md#version-2008-october-13)<br/>[Versión 2007 (Compilación 13029.20708)](monthly-enterprise-channel.md#version-2007-october-13)|[Versión 2008 (Compilación 13127.20638)](semi-annual-enterprise-channel-preview.md#version-2008-october-13)|[Versión 2002 (compilación 12527.21236)](semi-annual-enterprise-channel.md#version-2002-october-13)<br/>[Versión 1908 (compilación 11929.20966)](semi-annual-enterprise-channel.md#version-1908-october-13)|

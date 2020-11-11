@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de empresa para Aplicaciones de Microsoft 365 en 2020
-ms.openlocfilehash: 022bfa584cf864f9e1c38a57d7d1c54d4f5dc34e
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 924c774b56a1b39fdaaf6a55ea2cfcff65e128fb
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453318"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48990159"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Notas de la versión para las versiones de canal de empresa mensual en 2020
 
@@ -26,6 +26,171 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 [//]: # (NO ELIMINAR)
 
 
+
+## <a name="version-2009-november-10"></a>Versión 2009:10 de noviembre
+*Versión 2009 (compilación 13231.20514)*
+
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Aplicar automáticamente o recomendar etiquetas de confidencialidad:** Office puede recomendar o aplicar automáticamente una etiqueta de confidencialidad basada en el contenido confidencial detectado.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Aplicar automáticamente o recomendar etiquetas de confidencialidad:** Office puede recomendar o aplicar automáticamente una etiqueta de confidencialidad basada en el contenido confidencial detectado.
+
+### <a name="word"></a>Word
+
+- **Aplicar automáticamente o recomendar etiquetas de confidencialidad:** Office puede recomendar o aplicar automáticamente una etiqueta de confidencialidad basada en el contenido confidencial detectado.
+
+
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema que provocaba que los encabezados de mensajes en chino no se pudieran leer al responder o reenviar.
+
+
+- Corregido un problema que causaba que los delegados sufrieran errores intermitentemente al abrir carpetas compartidas en otro buzón.
+
+
+- Corregido un problema que causaba que se enviaran algunos mensajes de correo electrónico generados automáticamente con el cuerpo en blanco cuando la línea del asunto estaba también en blanco.
+
+
+- Corregido un problema que causaba que algunos usuarios vieran Outlook de forma inesperada en un estado sin conexión.
+
+
+- Corregido un problema que provocaba que la búsqueda no devolviera ningún resultado al buscar en los calendarios compartidos sin almacenamiento en caché.
+
+
+- Se ha corregido un problema que provocaba que la aplicación finalizara de forma abrupta cuando el cliente seleccionaba un resultado de búsqueda.
+
+
+- Se ha corregido un problema que provocaba que los usuarios no pudieran conceder permisos de editor a los delegados.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha corregido un problema que provocaba la coautoría lenta en archivos que contienen números grandes de determinados tipos de objetos de datos (E2o).
+
+
+- Corregido un problema que deshabilita las protecciones IRM al abrir un archivo de PowerPoint en la Vista protegida.
+
+
+- Se ha corregido un problema en el que el complemento de contenido de formularios no se reproducía después de la inserción hasta que el usuario hiciera clic en otra diapositiva para hacer que aparezca.
+
+
+### <a name="project"></a>Project
+
+- Se ha corregido un problema por el que si se ejecutaba un código de evento y se intentaba realizar cambios desde la vista Formulario de tareas, el botón Aceptar podía no confirmar los cambios.
+
+
+- Se ha corregido un problema que podía hacer que Project se cerrara de manera inesperada al abrir archivos en los que se especificaban los contornos de los recursos de una determinada manera.
+
+
+- Se ha corregido un problema que provocaba que, al guardar un proyecto desde PWA en un archivo MPP local, ProjectBeforeTaskChangeEvent se desencadenara para datos no modificados por el usuario.
+
+
+### <a name="word"></a>Word
+
+- Se ha corregido un problema con el cuadro de diálogo Galería de estilos.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Corregido un problema con el cuadro de diálogo de Comprimir imagen, que no retiene determinadas configuraciones de usuario.
+
+
+- Se ha corregido un problema por el que la prevención de pérdida de datos de Microsoft 365 Endpoint no pudo clasificar documentos de Office en disco.
+
+
+- Cuando el usuario imprime cualquier documento o archivo en las impresoras de inyección de tinta de Office y la tinta de la impresora es poco visible, el mensaje "tóner bajo" o "sin tóner" se mostrará, aunque las impresoras de inyección de tinta no tengan tóners. Cambiar mensaje para mostrar "tóner/Ink Low" & "no tóner/tinta".
+
+
+
+[//]: # (NO QUITAR EL CONTENIDO FINAL DE LOS DETALLES DE LOS ERRORES)
+
+## <a name="version-2008-november-10"></a>Versión 2008: 10 de julio
+*La versión prevista es la versión 2008 (compilación 13127.20760).*
+
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema por el que, al usar una macro para establecer la propiedad FormulaR1C1 para un rango, las referencias de celda eran incorrectas si una hoja de gráfico era la hoja activa.
+
+
+- Se ha corregido un problema por el que Excel indicaba por error que se había quedado sin recursos al intentar calcular una o varias fórmulas.
+
+
+- Se ha corregido un problema que aparecía cuando se configuraba el idioma de Office en español. Este problema provocaba que las listas de validación de datos pudieran no mostrar todos los elementos de la lista.
+
+
+- Se ha corregido un problema que podía producir un bloqueo al actualizar las tablas dinámicas de OLAP.
+
+
+- Se ha corregido un problema por el que algunas funciones podían tener un resultado incorrecto después de cargar un libro.
+
+
+- Se ha corregido un problema relacionado con las referencias de complemento de XLAM y los rangos con nombre que cerraba la aplicación de forma inesperada.
+
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema que provocaba que los encabezados de mensajes en chino fueran ilegibles al responder o reenviar.
+
+
+- Corregido un problema que causaba que se enviaran algunos mensajes de correo electrónico generados automáticamente con el cuerpo en blanco cuando la línea del asunto estaba también en blanco.
+
+
+- Corregido un problema que causaba que los delegados sufrieran errores intermitentemente al abrir carpetas compartidas en otro buzón.
+
+
+- Se ha corregido un problema que provocaba que las búsquedas en calendarios de Grupo no dieran resultados.
+
+
+- Se ha corregido un problema que provocaba que la aplicación finalizara de forma abrupta cuando el cliente seleccionaba un resultado de búsqueda.
+
+
+- Se ha corregido un problema para permitir que los usuarios deshabiliten IRM (Information Rights Management) para Outlook sin tener que deshabilitarlo para el resto de las aplicaciones de Office.
+
+
+- Se ha corregido un problema que provocaba que los usuarios no pudieran conceder permisos de editor a los delegados.
+
+
+- Se ha corregido un problema por el que las experiencias opcionales conectadas bloqueaban la carga de los complementos web.<br />Ver detalles en la [entrada de blog](https://developer.microsoft.com/es-ES/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Esta es una solución para un problema por el que se muestra la solicitud de guardar en un bucle al cerrar el documento cuando hay un complemento que escucha al evento PresentationBeforeClose y comprueba la propiedad Presentation.Saved como parte del controlador de eventos.
+
+
+- Se ha corregido un problema en el que el complemento de contenido de formularios no se reproducía después de la inserción hasta que el usuario hiciera clic en otra diapositiva para hacer que aparezca.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Se ha atendido un problema para los clientes comerciales que usan el System Center Configuration Manager u otras herramientas de administración para Office Update mediante la prevención de pérdida de datos del punto de conexión de Microsoft 365.
+
+- Corrección de un problema por el que no funcionaba la API de mensajería para los complementos de Office.
+
+
+
+[//]: # (NO QUITAR EL CONTENIDO FINAL DE LOS DETALLES DE LOS ERRORES)
 
 ## <a name="version-2008-october-13"></a>Versión 2008: 13 de octubre
 *Versión 2008 (compilación 13127.20638)*
@@ -365,7 +530,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Cuente sus historias con GIF animados:** los GIF animados ahora son compatibles con el editor de Office para que sus documentos sean aún más llamativos.
 
-- **Nueva opción para desactivar las sugerencias de @menciones al escribir correo en Outlook: **¿le resulta el selector de @menciones más molesto que útil? Ahora puede desactivarlo si lo prefiere.<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/03/26/feedback-in-action-disable-mentions/)
+- **Nueva opción para desactivar las sugerencias de @menciones al escribir correo en Outlook:** ¿le resulta el selector de @menciones más molesto que útil? Ahora puede desactivarlo si lo prefiere.<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/03/26/feedback-in-action-disable-mentions/)
 
 - **Mantenga la fidelidad de las imágenes al enviarlas como parte de un correo electrónico:** una nueva configuración de Outlook está disponible para limitar la compresión de imágenes al enviarlas como parte de contenido del correo electrónico.
 
@@ -691,15 +856,15 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 ### <a name="excel"></a>Excel
 
-- **Escriba una fórmula que devuelva varios valores: **Escriba rápidamente una fórmula que devuelva múltiples valores y se derramarán automáticamente en las celdas vecinas. [Más información](https://support.office.com/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2019/06/13/dynamic-arrays-and-new-functions-in-excel/)
+- **Escriba una fórmula que devuelva varios valores:** Escriba rápidamente una fórmula que devuelva múltiples valores y se derramarán automáticamente en las celdas vecinas. [Más información](https://support.office.com/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2019/06/13/dynamic-arrays-and-new-functions-in-excel/)
 
 - **Se acabaron los saltos al explorador:** usted decide cómo se abren los vínculos a los documentos de Office: en el explorador o en la aplicación. 
 
 - **Seis potentes funciones:** Seis potentes funciones: Hemos agregado seis nuevas funciones para mejorar las hojas de cálculo: FILTRAR, ORDENAR, ORDENARPOR, UNICOS, SECUENCIA y MATRIZALEAT. [Más información](https://support.office.com/article/003df6c7-1dcb-4388-8e2e-0fe77a0887bc)
 
-- **Busque a la izquierda, busque a la derecha... BUSCARX ya está aquí**: fila por fila, busque lo que necesite en una tabla o un rango con BUSCARX. [Más información](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2019/08/29/announcing-xlookup/)
+- **Busque a la izquierda, busque a la derecha... BUSCARX ya está aquí** : fila por fila, busque lo que necesite en una tabla o un rango con BUSCARX. [Más información](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2019/08/29/announcing-xlookup/)
 
-- **Lea y responda sobre la marcha: **responda a los comentarios y las menciones directamente desde el correo electrónico sin abrir el libro.
+- **Lea y responda sobre la marcha:** responda a los comentarios y las menciones directamente desde el correo electrónico sin abrir el libro.
 
 ### <a name="outlook"></a>Outlook
 
@@ -721,7 +886,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - **GIF en un instante:** una diapositiva, un marco. Cree fácilmente archivos GIF en bucle en PowerPoint. [Más información](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2019/12/30/create-animated-gifs-using-powerpoint/)
 
-- **Mejores diagramas ** con mejores conectores y un proceso de conversión de entrada de lápiz más fluido, puede aplicar sus ideas con más confianza. [Más información](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **Mejores diagramas** con mejores conectores y un proceso de conversión de entrada de lápiz más fluido, puede aplicar sus ideas con más confianza. [Más información](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 - **Actualización de las diapositivas durante la presentación:** actualice diapositivas editadas por otros autores durante la presentación.<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)
 
@@ -729,7 +894,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - **Se acabaron los saltos al explorador:** usted decide cómo se abren los vínculos a los documentos de Office: en el explorador o en la aplicación. 
 
-- **Otros usuarios verán los cambios rápidamente**: las mejoras en la coautoría significan que los colaboradores podrán ver los cambios más rápido que nunca.
+- **Otros usuarios verán los cambios rápidamente** : las mejoras en la coautoría significan que los colaboradores podrán ver los cambios más rápido que nunca.
 
 ### <a name="office-suite"></a>Conjunto de aplicaciones de Office
 
@@ -840,7 +1005,8 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 
 [//]: # (NO MODIFICAR INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
-[//]: # (|Win32|MEC|Production|Feature|16.0.13127.20638|versión-2008-13-octubre|)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13231.20514|version-10-noviembre-2009|)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13127.20638|versión-13-octubre-2008|)
 [//]: # (| Win32 | MEC | Producción | Característica | 16.0.13029.20534 | versión-2007-septiembre-08 |)
 [//]: # (|Win32|MEC|Producción|Característica|16.0.13001.20520|versión-2006-11-agosto|)
 [//]: # (|Win32|MEC|Producción|Característica|16.0.12827.20538|version-2005-july-14|)

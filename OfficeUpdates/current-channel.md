@@ -9,24 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365 en 2020
-ms.openlocfilehash: d47124846cd605174e6ca23e26cd0e61bb5cf779
-ms.sourcegitcommit: d03cdba884e24c4122db59bd06176ae5273d16e4
+ms.openlocfilehash: ddf6a8dc89f09b831bf162ecab4e853970843431
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "48878924"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48989909"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notas de la versión para las versiones del canal actual en 2020
 
 Estas notas de la versión proporcionan información sobre las nuevas características y las actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones de canal actual en 2020 para las Aplicaciones de Microsoft 365 para empresas, las Aplicaciones de Microsoft 365 para negocios y las versiones de suscripción de las aplicaciones de escritorio de Project y Visio.
 
 > [!IMPORTANT]
-> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. Para más información, [lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
  > [!NOTE]
 >
->- A menudo distribuimos características (y a veces incluso correcciones) para el canal actual durante un período de tiempo.  Si no ve algo que se describe a continuación de inmediato, lo verá pronto. [Más información](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
->- Las características de Microsoft Teams pueden diferir del último canal actual publicado ya que tienen una cadencia de publicación más frecuente.
+>- A menudo distribuimos características (y a veces incluso correcciones) para el Canal actual durante un período de tiempo. Si no ve de inmediato algo que se describe a continuación, lo verá pronto. [Más información](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
+>- Las características de Microsoft Teams pueden diferir del último Canal actual publicado ya que tienen una cadencia de publicación más frecuente.
 
 
 
@@ -36,6 +36,28 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 [//]: # (NO QUITAR EL CONTENIDO FINAL DE LOS DETALLES DE LOS ERRORES)
+
+## <a name="version-2010-november-10"></a>Versión 2010: 10 de noviembre
+*Versión 2010 (compilación 13328.20356)*
+
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema que provocaba que los usuarios no puedan conceder permisos de editor a los delegados.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Se ha corregido un problema que provocaba un error al intentar guardar archivos que habían pasado de sincronizados a solo en el servidor.
+
+
+
+[//]: # (NO QUITAR LOS DETALLES DE ERROR DE CONTENIDO DEL FINAL)
 
 ## <a name="version-2010-october-27"></a>Versión 2010: 27 de octubre
 *Versión 2010 (compilación 13328.20292)*
@@ -130,12 +152,12 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 ### <a name="office-suite"></a>Conjunto de aplicaciones de Office
 
-- Cuando el usuario imprime cualquier documento o archivo en las impresoras de inyección de tinta de Office y la tinta de la impresora es poco visible, el mensaje "tóner bajo" o "sin tóner" se mostrará, aunque las impresoras de inyección de tinta no tengan toners Cambiar mensaje para mostrar "tóner bajo" y "sin tóner".
+- Cuando el usuario imprime cualquier documento o archivo en las impresoras de inyección de tinta de Office y la tinta de la impresora es poco visible, el mensaje "tóner bajo" o "sin tóner" se mostrará, aunque las impresoras de inyección de tinta no tengan toners Cambiar mensaje para mostrar "tóner/tinta bajos" y "sin tóner/tinta".
 
-- Se ha atendido un problema para los clientes comerciales que usan el System Center Configuration Manager u otras herramientas de administración para Office Update mediante la prevención de pérdida de datos del punto de conexión de Microsoft 365.
+- Se ha corregido un problema por el que la prevención de pérdida de datos de Microsoft 365 Endpoint no pudo clasificar documentos de Office en disco.
 
 
-[//]: # (NO QUITAR LOS DETALLES DE ERROR DE CONTENIDO DEL FINAL)
+[//]: # (NO QUITAR EL CONTENIDO FINAL DE LOS DETALLES DE LOS ERRORES)
 
 ## <a name="version-2009-october-21"></a>Versión 2009: 21 de octubre
 *Versión 2009 (compilación 13231.20418)*
@@ -1513,7 +1535,8 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 > Si necesita ayuda con algún problema de uso de Office, le recomendamos que publique la pregunta en el [foro de preguntas de Microsoft](https://answers.microsoft.com/) o [Tech Community](https://techcommunity.microsoft.com/), o bien puede ponerse en contacto con el [servicio de soporte técnico](https://support.microsoft.com/contactus).
 
 [//]: # (NO MODIFICAR INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
-[//]: # (|Win32|CC|Production| |16.0.13328.20292|versión-2010-27-octubre|)
+[//]: # (|Win32|CC|Production| |16.0.13328.20356|versión-10-noviembre-2010|)
+[//]: # (|Win32|CC|Production| |16.0.13328.20292|versión-27-octubre-2010|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20418|versión-2009-21-octubre|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20390|versión-2009-13-octubre|)
 [//]: # (|Win32|CC|Producción| |16.0.13231.20368|versión-2009-julio-08|)
@@ -1521,6 +1544,5 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 [//]: # (|Win32|CC|Production| |16.0.13127.20508|versión-2008-22-septiembre|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20408|versión-2008-09-septiembre|)
 [//]: # (|Win32|CC|Producción| |16.0.13127.20296|versión-2008-31-agosto|)
-[//]: # (|Win32|CC|Producción| |16.0.13029.20460|versión-2007-25-agosto|)
-[//]: # (|Win32|CC|Producción| |16.0.13029.20344|versión-2007-11-agosto|)
+[//]: # (|Win32|CC|Producción| |16.0.13029.20460|versión-25-agosto-2007|)
 [//]: # (NO MODIFICAR FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
