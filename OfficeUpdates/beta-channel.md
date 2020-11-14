@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los participantes del Modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos.
-ms.openlocfilehash: 3704121a210dc5e31cc63f98fe0ea763ee50e097
-ms.sourcegitcommit: 23b4900574769cc6848db009b4204c460621d909
+ms.openlocfilehash: 36166e5e6ab4c814e56d5a5458747ba1c67964e7
+ms.sourcegitcommit: 9775ae224ef323ec5f92db13c85a8d0abf256f9c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2020
-ms.locfileid: "48939307"
+ms.lasthandoff: 11/13/2020
+ms.locfileid: "49071539"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de la versión para el canal beta
 
@@ -29,7 +29,48 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 [//]: # (NO ELIMINAR)
 
-[//]: # (NO QUITAR DETALLES DE CARACTERÍSTICAS CONTENIDO INICIO)
+[//]: # (NO QUITAR NINGÚN DETALLE DE CARACTERÍSTICAS EN EL INICIO DEL CONTENIDO)
+
+## <a name="version-2012-november-13"></a>Versión 2012: 13 de noviembre
+*Versión 2012 (Compilación 13510.20004)*
+
+
+[//]: # (NO QUITAR NINGÚN DETALLE DE ERROR EN EL INICIO DEL CONTENIDO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Hemos corregido un problema por el cual el comando Insertar objeto no muestra el icono correcto cuando se inserta un archivo desde la carpeta de sincronización local de OneDrive.
+
+
+### <a name="outlook"></a>Outlook
+
+- Hemos corregido un problema que provocaba que el campo Para: quedara en blanco en los informes de estado de la tarea.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Hemos corregido un problema de VBA por el cual Slide.Shapes.AddMediaObject2 se bloqueaba con formatos de vídeo heredados (MPG-1, MPEG-2).
+
+
+### <a name="project"></a>Project
+
+- Hemos corregidoo un problema por el cual no se podían eliminar las dependencias de las entregas si el sitio de SharePoint en el que estaba asociada la entrega ya no existía.
+
+
+- Hemos corregido un problema por el cual los usuarios creaban proyectos que supuestamente se guardaban con información actualizada pero en lo que no había ninguna actualización.
+
+
+### <a name="word"></a>Word
+
+- Hemos corregido un problema relacionado con las imágenes difuminadas por usar el zoom.
+
+
+- Hemos corregido un problema por el cual se truncaban hipervínculos largos.
+
+
+
+[//]: # (NO QUITAR NINGÚN DETALLE DE ERROR EN EL FINAL DEL CONTENIDO)
 
 ## <a name="version-2012-november-06"></a>Versión 2012: 6 de noviembre
 *Versión 2012 (compilación 13430.20000)*
@@ -919,7 +960,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 - **Crear sondeos en Outlook con Sondeo rápido:** cree sondeos, recopile votos y obtenga los resultados rápidamente en un solo correo electrónico [Más información](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
-- **Nuevo buscador de salas:** búsqueda de salas de conferencias por distintas funcionalidades.
+- **Nuevo buscador de salas:** búsqueda de salas de conferencias según distintas funcionalidades.
 
 [//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
 
@@ -1877,7 +1918,8 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (NO QUITAR LOS DETALLES DE ERROR DE FIN DE CONTENIDO)
 
 
-[//]: # (NO MODIFICAR INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (NO MODIFICAR EL INICIO DEL CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|version-2012-november-13|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
@@ -1887,5 +1929,4 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (|Win32|DevMain|Insiders| |16.0.13318.20000|version-2010-september-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13312.20006|version-2010-september-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
-[//]: # (NO MODIFICAR FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (NO MODIFICAR EL FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
