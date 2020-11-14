@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Historial de versiones de la Herramienta de implementación de Office (ODT) para los profesionales de TI
-ms.openlocfilehash: b14d9998a0dab3ea0d4a4f6cae10702688fa4427
-ms.sourcegitcommit: d898fa4f06c90444f9d729a1b0df2c82bde7d719
+ms.openlocfilehash: acc7e37ae203c824c0759eab641491d377073a7f
+ms.sourcegitcommit: 0cba381a1439abdc7044a81772609c91998d65f0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "48992685"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "48999545"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Historial de versiones de la Herramienta de implementación de Office
 
-La Herramienta de implementación de Office (ODT) es una herramienta de línea de comandos que puede usar para descargar e implementar versiones de hacer clic y ejecutar de Office, como aplicaciones de Microsoft 365, en sus equipos cliente. 
+La Herramienta de implementación de Office (ODT) es una herramienta de línea de comandos que se puede usar para descargar e implementar versiones de la característica “Hacer clic y ejecutar” de Office, como Aplicaciones de Microsoft 365, en sus equipos cliente. 
 
 
-ODT le ofrece más control de la instalación de Office. Le permite definir los productos e idiomas que se instalarán, cómo se actualizarán esos productos y si quiere o no mostrar la experiencia de instalación a los usuarios. Para obtener información sobre cómo usar la ODT, vea [Información general sobre la herramienta de implementación de Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool).
+La ODT le ofrece más control que una instalación de Office. Puede definir los productos e idiomas que se instalarán, cómo se actualizarán esos productos y si quiere o no mostrar la experiencia de instalación a los usuarios. Para más información sobre cómo usar la ODT, consulte la [Introducción a la Herramienta de implementación de Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool).
 
  **Sistema operativo compatible** : Windows 10, Windows 8.1, Windows Server 2019, Windows Server 2016 
  
