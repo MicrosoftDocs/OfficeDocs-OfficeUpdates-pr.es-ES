@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Historial de versiones de la Herramienta de implementación de Office (ODT) para los profesionales de TI
-ms.openlocfilehash: acc7e37ae203c824c0759eab641491d377073a7f
-ms.sourcegitcommit: 0cba381a1439abdc7044a81772609c91998d65f0
+ms.openlocfilehash: a1553a3f08a254c9c177fec88073073c34a3427c
+ms.sourcegitcommit: 413694d561d367e93ad51c9be41495ad09a24af3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "48999545"
+ms.lasthandoff: 11/23/2020
+ms.locfileid: "49385486"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Historial de versiones de la Herramienta de implementación de Office
 
@@ -23,11 +23,19 @@ La Herramienta de implementación de Office (ODT) es una herramienta de línea d
 
 La ODT le ofrece más control que una instalación de Office. Puede definir los productos e idiomas que se instalarán, cómo se actualizarán esos productos y si quiere o no mostrar la experiencia de instalación a los usuarios. Para más información sobre cómo usar la ODT, consulte la [Introducción a la Herramienta de implementación de Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool).
 
- **Sistema operativo compatible** : Windows 10, Windows 8.1, Windows Server 2019, Windows Server 2016 
+ **Sistema operativo compatible**: Windows 10, Windows 8.1, Windows Server 2019, Windows Server 2016 
  
- **Instrucciones de instalación** : Descargue y ejecute el archivo ejecutable autoextraíble de la Herramienta de implementación de Office (setup.exe) y un archivo de configuración de ejemplo (configuration.xml). 
+ **Instrucciones de instalación**: Descargue y ejecute el archivo ejecutable autoextraíble de la Herramienta de implementación de Office (setup.exe) y un archivo de configuración de ejemplo (configuration.xml). 
 
 [Descargar la Herramienta de implementación de Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+## <a name="november-23-2020"></a>23 de noviembre de 2020
+Versión 16.0.13328.20420 (setup.exe versión 16.0.13328.20420)
+- Se ha corregido un problema que causaba que las herramientas de corrección no se descargaran en el modo de descarga
+- Se ha corregido un problema que causaba un error en el modo de descarga al ejecutarse en un contexto de usuario no elevado
+- Se ha corregido un problema que causaba que, al especificar un atributo de versión en el archivo XML de configuración, no se completaran las descargas en el modo de descarga
+- Se ha corregido un problema que causaba que la Herramienta de implementación de Office no se denominara "setup.exe" al extraerse
+- Se ha corregido un problema relativo a la prioridad de la instalación de origen cuando se proporciona un atributo de canal en el archivo XML de configuración
 
 ## <a name="november-10-2020"></a>10 de noviembre de 2020
 Version 16.0.13328.20356 (setupODT.exe versión 16.0.13328.20336)
