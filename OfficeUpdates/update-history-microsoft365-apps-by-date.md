@@ -9,20 +9,20 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista completa de las versiones de las Aplicaciones de Microsoft 365, organizada por fecha, con vínculos a las notas de la versión.
-ms.openlocfilehash: bf1870a04fbbc542d12aa64c611bf47351bba865
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: 7ff4270fbd49b887717858f0f9cb120f14903f4f
+ms.sourcegitcommit: 20605334d158c0b79db02d1bd4fbc418578b575c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48989949"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "49387454"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Historial de actualizaciones de Aplicaciones de Microsoft 365 (ordenado por fecha)
 
 Estos números de versión y compilación se aplican a Aplicaciones de Microsoft 365 para empresas, Aplicaciones de Microsoft 365 para negocios y a las versiones de suscripción de las aplicaciones de escritorio de Project y Visio.
 
 > [!IMPORTANT]
-> - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - A partir de la versión 2004, el nombre de Office 365 ProPlus cambia a Aplicaciones de Microsoft 365 para empresas. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2123420) para obtener más información. Por lo general, en nuestra documentación solo haremos referencia al producto como Aplicaciones de Microsoft 365.
+> - Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. Para más información, [lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> - Se cambiará el nombre de Office 365 ProPlus a Aplicaciones de Microsoft 365 para empresas. Se empezará por la versión 2004. Para obtener más información, [lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2123420). Por lo general, en nuestra documentación, solo se hará referencia a este conjunto como Aplicaciones de Microsoft 365.
 
 > [!NOTE]
 > - La tabla está ordenada por fecha de lanzamiento, con la fecha del lanzamiento más reciente en primer lugar.
@@ -34,7 +34,7 @@ En la tabla siguiente se muestra la versión compatible y el número de compilac
 
 |**Canal**|**Versión**|**Compilación**|**Fecha de publicación**|**Versión admitida hasta**|
 |:-----|:-----|:-----|:-----|:-----|
-|Canal actual<br/>|2010<br/>|13328.20356<br/>|10 de noviembre de 2020<br/>|Lanzamiento de la versión 2011<br/>|
+|Canal actual<br/>|2011<br/>|13426.20274<br/>|23 de noviembre de 2020<br/>|Lanzamiento de la versión 2012<br/>|
 |Canal empresarial mensual<br/>|2009<br/>|13231.20514<br/>|10 de noviembre de 2020<br/>|12 de enero de 2021<br/>|
 |Canal empresarial mensual<br/>|2008<br/>|13127.20760<br/>|10 de noviembre de 2020<br/>|8 de diciembre de 2020<br/>|
 |Canal empresarial semestral (vista previa)<br/>|2008<br/>|13127.20760<br/>|10 de noviembre de 2020<br/>|9 de marzo de 2021<br/>|
@@ -51,6 +51,8 @@ La siguiente tabla proporciona una lista de los números de versión y compilaci
 
 |**Year**|**Fecha de publicación**|**Canal actual**|**Canal empresarial mensual**|**Canal empresarial semestral (vista previa)**|**Canal empresarial semestral**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020|23 de noviembre|[Versión 2011 (compilación 13426.20274)](current-channel.md#version-2011-november-23)| | | |
+|2020|17 de noviembre|[Versión 2010 (compilación 13328.20408)](current-channel.md#version-2010-november-17)| | | |
 |2020|10 de noviembre|[Versión 2010 (compilación 13328.20356)](current-channel.md#version-2010-november-10)|[Versión 2009 (compilación 13231.20514)](monthly-enterprise-channel.md#version-2009-november-10)<br/>[La versión prevista es la versión 2008 (compilación 13127.20760).](monthly-enterprise-channel.md#version-2008-november-10)|[La versión prevista es la versión 2008 (compilación 13127.20760).](semi-annual-enterprise-channel-preview.md#version-2008-november-10)|[Versión 2002 (compilación 12527.21330)](semi-annual-enterprise-channel.md#version-2002-november-10)<br/>[Versión 1908 (compilación 11929.20974)](semi-annual-enterprise-channel.md#version-1908-november-10)|
 |2020|27 de octubre |[Versión 2010 (compilación 13328.20292)](current-channel.md#version-2010-october-27)| | | |
 |2020|21 de octubre|[Versión 2009 (compilación 13231.20418)](current-channel.md#version-2009-october-21)| | | |
