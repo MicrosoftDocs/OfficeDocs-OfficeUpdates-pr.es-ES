@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporcionar a los participantes del Modo aplazado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos
-ms.openlocfilehash: 246f164b26d01b25894879cfb0625cf76829a2e0
-ms.sourcegitcommit: 82473b6efabedf74014a9a41c6c43ec53b0def88
+ms.openlocfilehash: 23b62c7eb5c91e4fecb0c14567b2554f4f89b371
+ms.sourcegitcommit: 3a7eddcac9238b1394f1c1623ddb3273254b9ceb
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48950009"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "49408346"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notas de la versión del canal actual de Office (versión preliminar)
 
@@ -27,6 +27,87 @@ This article contains release notes for Current Channel (Preview) builds of Word
 > - La fecha de publicación de las notas de versión pueden no coincidir con la fecha real de lanzamiento de la compilación.
 
 [//]: # (NO ELIMINAR)
+
+## <a name="version-2011-november-24"></a>Versión 2011: 24 de noviembre
+*Versión 2011 (Compilación 13426.20294)*
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Se ha corregido un problema relacionado con copiar o pegar una ecuación de Word a PowerPoint.
+
+
+
+[//]: # (NO QUITAR NINGÚN DETALLE DE ERROR EN EL FINAL DEL CONTENIDO)
+
+## <a name="version-2011-november-21"></a>Versión 2011: 21 de noviembre
+*Versión 2011 (Compilación 13426.20274)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="powerpoint"></a>PowerPoint
+
+- **Biblioteca de vídeos:** Mejore sus documentos con una biblioteca de videos editados y libres de royalties disponibles en la aplicación.
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema que provocaba que se interrumpiera el evento MailItem. BeforeAttachmentAdd.
+
+
+- Se ha agregado una clave de registro que permite a los clientes deshabilitar la inclusión de hora de archivo para datos adjuntos en operaciones de IDataObject (es decir, arrastrar y soltar, portapapeles). HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments. REG_DWORD IncludeFileTimesInDataObject. 0 = se excluyen filetimes. 1 = (predeterminado) filetimes se incluyen
+
+
+- Se ha corregido un problema por el que las imágenes en línea desaparecían al responder a un mensaje con una etiqueta de protección de Azure Information Protection.
+
+
+
+[//]: # (NO QUITAR NINGÚN DETALLE DE ERROR EN EL FINAL DEL CONTENIDO)
+
+## <a name="version-2011-november-18"></a>Versión 2011: 18 de noviembre
+*Versión 2011 (Compilación 13426.20250)*
+* Varias correcciones de errores y rendimiento.
+
+## <a name="version-2011-november-16"></a>Versión 2011: 16 de noviembre
+*Versión 2011 (Compilación 13426.20234)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="outlook"></a>Outlook
+
+- **Misma firma, todos los dispositivos:** su firma se almacena en la nube. Créelo una vez y úselo en cualquier lugar donde use Outlook.
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema que provocaba que el campo Para quedara vacío al enviar un informe de estado en una tarea.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Hemos corregido un problema de VBA por el cual Slide.Shapes.AddMediaObject2 se bloqueaba con formatos de vídeo heredados (MPG-1,MPEG-2).
+
+
+
+[//]: # (NO QUITAR NINGÚN DETALLE DE ERROR EN EL FINAL DEL CONTENIDO)
 
 ## <a name="version-2011-november-09"></a>Versión 2011: 9 de octubre
 *Versión 2011 (compilación 13426.20184)*
@@ -207,9 +288,9 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Compatibilidad con el portapapeles SVG:** ahora puede pegar contenido SVG de Office en aplicaciones de terceros. [Más información](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/svg-content-office-third-party-apps)
+- **Compatibilidad con el portapapeles SVG:** ahora puede pegar contenido SVG de Office en aplicaciones de terceros. [Más información](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)
 
-- **Crear GIF con fondos transparentes:** cuando se exporta a un GIF animado, una nueva opción permite que el fondo sea transparente.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/export-animated-gifs-transparent-backgrounds)
+- **Crear GIF con fondos transparentes:** cuando se exporta a un GIF animado, una nueva opción permite que el fondo sea transparente.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)
 
 - **Exportar GIF animado en un rango:** seleccione un intervalo de diapositivas cuando exporte a GIF animado
 
@@ -244,7 +325,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 [//]: # (NO QUITAR DETALLES DE CARACTERÍSTICAS CONTENIDO INICIO)
 
 
-[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
 <br/>
 
@@ -269,7 +350,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 
 
-[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
 <br/>
 
@@ -303,7 +384,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="outlook"></a>Outlook
 
-- **Ahorre tiempo mientras redacta mensajes:** Outlook le muestra sugerencias de escritura que le ayudarán a redactar mensajes de manera rápida. Para aceptar la sugerencia, solo tiene que usar la tecla TAB.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/text-predictions-in-word-outlook)
+- **Ahorre tiempo mientras redacta mensajes:** Outlook le muestra sugerencias de escritura que le ayudarán a redactar mensajes de manera rápida. Para aceptar la sugerencia, solo tiene que usar la tecla TAB.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/text-predictions-in-word-outlook)
 
 - **Rompa la barrera del idioma con un traductor incorporado:** Los complementos para la traducción ya no son necesarios. En un mensaje, haga clic con el botón derecho para traducir palabras o frases específicas, o todo el mensaje. [Más información](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
 
@@ -386,13 +467,13 @@ This article contains release notes for Current Channel (Preview) builds of Word
 - Se ha corregido un problema que provocaba un retraso considerable al cambiar entre hojas de cálculo con grandes cantidades de datos cuando la 'Vista previa de salto de página' estaba habilitada.
 
 
-- Se ha corregido un problema que hacía que no se actualizaran las opciones de todas las hojas del libro al agregar una tabla usada para la validación de datos.
+- Se ha corregido un problema que provocaba que no se actualizaran las opciones de todas las hojas del libro al agregar una tabla usada para la validación de datos.
 
 
-- Se ha corregido un problema que podía producir un bloqueo al actualizar las tablas dinámicas de OLAP.
+- Se ha corregido un problema que podía provocar un bloqueo al actualizar las tablas dinámicas de OLAP.
 
 
-- Se ha corregido un problema que hacía que ChartSheet se bloqueara en ciertos casos cuando se insertaba una fórmula en la barra de fórmulas.
+- Se ha corregido un problema que provocaba que ChartSheet se bloquee en ciertos casos cuando se insertaba una fórmula en la barra de fórmulas.
 
 
 - Se corrigió un problema por el cual la barra de fórmulas de Excel no se mostraba completamente después de que se perdiera la conexión a un dispositivo, como una conexión o desconexión de sesión remota o un cambio de monitor.
@@ -406,7 +487,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 - Se ha corregido un problema que hacía que, al pasar el ratón sobre el color verde en el selector de colores del bloc de notas, el elemento emergente indicara "red chalk" (tiza roja).
 
 
-- Se ha corregido un problema que hacía que OneNote no respetara los colores de contraste alto en el lienzo para temas personalizados.
+- Se ha corregido un problema que provocaba que OneNote no respetara los colores de contraste alto en el lienzo para temas personalizados.
 
 
 ### <a name="outlook"></a>Outlook
@@ -429,10 +510,10 @@ This article contains release notes for Current Channel (Preview) builds of Word
 - Se ha corregido un problema para ofrecer a los usuarios una forma de personalizar el texto de justificación al anular una directiva.
 
 
-- Se ha corregido un problema que hacía que se activara el control de cambios después de reabrir el borrador desde el panel de vista previa de solo lectura.
+- Se ha corregido un problema que provocaba que se activara el control de cambios después de reabrir el borrador desde el panel de vista previa de solo lectura.
 
 
-- Se ha corregido un problema que hacía que los correos electrónicos se ocultaran después de desactivar la Bandeja de entrada Prioritarios y ordenarlos.
+- Se ha corregido un problema que provocaba que los correos electrónicos se ocultaran después de desactivar la Bandeja de entrada Prioritarios y ordenarlos.
 
 
 - Se ha corregido un problema que hacía que Outlook creara una segunda firma vacía para las personas con la configuración de la nube habilitada.
@@ -443,10 +524,10 @@ This article contains release notes for Current Channel (Preview) builds of Word
 - Se ha corregido un problema que impedía a PowerPoint exportar las viñetas rectangulares al exportar a PDF.
 
 
-- Se ha corregido un problema que hacía que los GIF solo mostraran la animación una vez en el editor y en las presentaciones.
+- Se ha corregido un problema que provocaba que los GIF solo muestren la animación una vez en el editor y en las presentaciones.
 
 
-- Se ha corregido un problema que hacía que el gráfico de Excel vinculado cambiara incorrectamente a la hoja de Excel cuando el usuario cambiaba la ruta de origen a la carpeta de OneDrive local.
+- Se ha corregido un problema que provocaba que el gráfico de Excel vinculado cambiara incorrectamente a la hoja de Excel cuando el usuario cambiaba la ruta de origen a la carpeta de OneDrive local.
 
 
 - Se ha corregido un problema debido al cual, si se encuentra en la última diapositiva y pasa a la siguiente diapositiva tras pulsar "Finalizar sesión" y antes de que aparezca el resumen, el cuadro de diálogo de sesión final también aparece visible en la página de resumen.
@@ -509,10 +590,10 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 ### <a name="outlook"></a>Outlook
 
-- **La revisión gramatical se ha vuelto:** Outlook marca los errores gramaticales mientras escribe, por lo que puede aplicar sugerencias con un solo clic. <br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/grammar-and-style-suggestions-available-in-outlook)
+- **La revisión gramatical se ha vuelto:** Outlook marca los errores gramaticales mientras escribe, por lo que puede aplicar sugerencias con un solo clic. <br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)
 
 
-[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
 <br/>
 
@@ -556,7 +637,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 ### <a name="project"></a>Project
 
-- Se ha corregido un problema por el que si un código de eventos se está ejecutando y se intenta realizar cambios desde la vista del Formulario de tareas, es posible que el botón Aceptar no confirme los cambios.
+- Se ha corregido un problema por el que si se ejecuta un código de evento y se intenta realizar cambios desde la vista del Formulario de tareas, es posible que el botón Aceptar no confirme los cambios.
 
 
 [//]: # (NO QUITAR EL CONTENIDO DE LOS DETALLES DE ERROR FINAL)
@@ -573,7 +654,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 ### <a name="excel"></a>Excel
 
-- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 - **Cambiar los temas de Office automáticamente:** Office puede cambiar los temas automáticamente para que coincidan con la configuración de tema de Windows 10. Vaya a Archivo > Opciones y seleccione "Usar configuración del sistema" junto al Tema de Office. [Más información](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -585,13 +666,13 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 - **Eliminar conversación por propietario del mensaje:** esta característica permite eliminar una conversación por propietario del mensaje.
 
-- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 - **Cambiar los temas de Office automáticamente:** Office puede cambiar los temas automáticamente para que coincidan con la configuración de tema de Windows 10. Vaya a Archivo > Opciones y seleccione "Usar configuración del sistema" junto al Tema de Office. [Más información](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 - **Cambiar los temas de Office automáticamente:** Office puede cambiar los temas automáticamente para que coincidan con la configuración de tema de Windows 10. Vaya a Archivo > Opciones y seleccione "Usar configuración del sistema" junto al Tema de Office. [Más información](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -609,7 +690,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 ### <a name="word"></a>Word
 
-- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 - **Cambiar los temas de Office automáticamente:** Office puede cambiar los temas automáticamente para que coincidan con la configuración de tema de Windows 10. Vaya a Archivo > Opciones y seleccione "Usar configuración del sistema" junto al Tema de Office. [Más información](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -850,7 +931,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
 
 
-[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
 <br/>
 
@@ -1421,18 +1502,18 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 
 
-- **Guardar en Carpetas ancladas:** anclar tus carpetas hace que el almacenamiento de archivos de Office sea más fácil. Nuestros usuarios nos dijeron que querían tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. <br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Guardar en Carpetas ancladas:** anclar tus carpetas hace que el almacenamiento de archivos de Office sea más fácil. Nuestros usuarios nos dijeron que querían tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. <br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Guardar en Carpetas ancladas:** anclar tus carpetas hace que el almacenamiento de archivos de Office sea más fácil. Nuestros usuarios nos dijeron que querían tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil.<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Guardar en Carpetas ancladas:** anclar tus carpetas hace que el almacenamiento de archivos de Office sea más fácil. Nuestros usuarios nos dijeron que querían tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil.<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 ### <a name="word"></a>Word
 
 - **Guardar en Carpetas ancladas:** anclar tus carpetas hace que el almacenamiento de archivos de Office sea más fácil. Nuestros usuarios nos dijeron que querían tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. <br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 
-[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
 <br/>
 
@@ -1703,7 +1784,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 
 
-[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
 <br/>
 
@@ -1938,7 +2019,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 
 
-[//]: # (NO QUITAR ERRORES DE DETALLES DE CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2004-april-29"></a>Versión 2004: 29 de abril
 *Versión 2004 (compilación 12730.20236)*
@@ -2016,7 +2097,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 ### <a name="outlook"></a>Outlook
 
-- **Nueva opción para desactivar las sugerencias de @menciones al escribir correo en Outlook:** ¿le resulta el selector de @menciones más molesto que útil? Ahora puede desactivarlo si lo prefiere.
+- **Nueva opción para desactivar las sugerencias de @menciones al escribir correo en Outlook:**¿le resulta el selector de @menciones más molesto que útil? Ahora puede desactivarlo si lo prefiere.
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -2107,7 +2188,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - Este cambio corrige un problema que provocaba que la búsqueda de caracteres especiales con "Buscar solo palabras completas" no siempre funcionase como se esperaba.
 
-### <a name="project"></a>Proyecto
+### <a name="project"></a>Project
 
 - Se corrigió un problema en el que las fechas de las tareas de resumen se calculaban siempre correctamente.
 
@@ -2166,7 +2247,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 - Se ha corregido un problema que hacía que el marcado de revisiones que impliquen ecuaciones ocasionase un error al guardar el archivo.
 
 
-[//]: # (NO QUITAR LOS DETALLES DE ERROR DE CONTENIDO DEL FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2003-april-14"></a>Versión 2003: 14 de abril
 *Versión 2003 (compilación 12624.20466)*
@@ -2208,7 +2289,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 <br/>
 
-[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO INICIAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
 
 
@@ -2351,13 +2432,13 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="excel"></a>Excel
-- **Etiquetas de confidencialidad** : ahora puede aplicar una etiqueta de confidencialidad que la organización ha configurado para pedirle permisos personalizados. [Más información](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **Etiquetas de confidencialidad**: ahora puede aplicar una etiqueta de confidencialidad que la organización ha configurado para pedirle permisos personalizados. [Más información](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="powerpoint"></a>PowerPoint
-- **Etiquetas de confidencialidad** : ahora puede aplicar una etiqueta de confidencialidad que la organización ha configurado para pedirle permisos personalizados. [Más información](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **Etiquetas de confidencialidad**: ahora puede aplicar una etiqueta de confidencialidad que la organización ha configurado para pedirle permisos personalizados. [Más información](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="word"></a>Word
-- **Etiquetas de confidencialidad** : ahora puede aplicar una etiqueta de confidencialidad que la organización ha configurado para pedirle permisos personalizados. [Más información](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **Etiquetas de confidencialidad**: ahora puede aplicar una etiqueta de confidencialidad que la organización ha configurado para pedirle permisos personalizados. [Más información](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 </br>
 
 ### <a name="resolved-issues"></a>Problemas corregidos
@@ -2578,7 +2659,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 ### <a name="word"></a>Word
 
-- **Otros usuarios verán los cambios rápidamente** : las mejoras en la coautoría significan que los colaboradores podrán ver los cambios más rápido que nunca.
+- **Otros usuarios verán los cambios rápidamente**: las mejoras en la coautoría significan que los colaboradores podrán ver los cambios más rápido que nunca.
 
 ### <a name="office-suite"></a>Conjunto de aplicaciones de Office
 
