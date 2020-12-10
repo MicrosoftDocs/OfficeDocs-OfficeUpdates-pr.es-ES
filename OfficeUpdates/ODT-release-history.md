@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Historial de versiones de la Herramienta de implementación de Office (ODT) para los profesionales de TI
-ms.openlocfilehash: a1553a3f08a254c9c177fec88073073c34a3427c
-ms.sourcegitcommit: 413694d561d367e93ad51c9be41495ad09a24af3
+ms.openlocfilehash: 125f37f1fb4b21d2d63784e51703c1297d928f49
+ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "49385486"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601415"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Historial de versiones de la Herramienta de implementación de Office
 
-La Herramienta de implementación de Office (ODT) es una herramienta de línea de comandos que se puede usar para descargar e implementar versiones de la característica “Hacer clic y ejecutar” de Office, como Aplicaciones de Microsoft 365, en sus equipos cliente. 
+La Herramienta de implementación de Office (ODT) es una herramienta de línea de comandos que puede usar para descargar e implementar versiones de hacer clic y ejecutar de Office, como aplicaciones de Microsoft 365, en sus equipos cliente. 
 
 
-La ODT le ofrece más control que una instalación de Office. Puede definir los productos e idiomas que se instalarán, cómo se actualizarán esos productos y si quiere o no mostrar la experiencia de instalación a los usuarios. Para más información sobre cómo usar la ODT, consulte la [Introducción a la Herramienta de implementación de Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool).
+ODT le ofrece más control de la instalación de Office. Le permite definir los productos e idiomas que se instalarán, cómo se actualizarán esos productos y si quiere o no mostrar la experiencia de instalación a los usuarios. Para obtener información sobre cómo usar la ODT, vea [Información general sobre la herramienta de implementación de Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool).
 
  **Sistema operativo compatible**: Windows 10, Windows 8.1, Windows Server 2019, Windows Server 2016 
  
@@ -29,13 +29,19 @@ La ODT le ofrece más control que una instalación de Office. Puede definir los 
 
 [Descargar la Herramienta de implementación de Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
 
+## <a name="december-8-2020"></a>8 de diciembre de 2020
+Versión 16.0.13426.20308 (setup.exe versión 16.0.13426.20308)
+- Se ha corregido un problema que provocaba que el modo de descarga bloqueara las descargas del canal perpetuo 2019 si el dispositivo tenía un producto de Office instalado desde un canal 2019 no perpetuo.
+- Se ha corregido un problema que provocaba que una migración de arquitectura produjera un error en un origen local creado mediante el modo de descarga que había especificado una versión explícita en el XML de configuración.
+
+
 ## <a name="november-23-2020"></a>23 de noviembre de 2020
 Versión 16.0.13328.20420 (setup.exe versión 16.0.13328.20420)
-- Se ha corregido un problema que causaba que las herramientas de corrección no se descargaran en el modo de descarga
-- Se ha corregido un problema que causaba un error en el modo de descarga al ejecutarse en un contexto de usuario no elevado
-- Se ha corregido un problema que causaba que, al especificar un atributo de versión en el archivo XML de configuración, no se completaran las descargas en el modo de descarga
-- Se ha corregido un problema que causaba que la Herramienta de implementación de Office no se denominara "setup.exe" al extraerse
-- Se ha corregido un problema relativo a la prioridad de la instalación de origen cuando se proporciona un atributo de canal en el archivo XML de configuración
+- Se ha corregido un problema que provocaba que las herramientas de corrección no se descargaran en el modo de /descarga
+- Se ha corregido un problema que provocaba un error en el modo de /descarga al ejecutarse en un contexto de usuario no elevado
+- Se ha corregido un problema que provocaba que, al especificar un atributo de versión en el archivo XML de configuración, no se completaran las descargas en el modo de /descarga
+- Se ha corregido un problema que provocaba que la Herramienta de implementación de Office no se denominara "setup.exe" al extraerse
+- Se ha corregido un problema relacionado con la prioridad de la instalación de origen cuando se proporcionaba un atributo de canal en el archivo XML de configuración
 
 ## <a name="november-10-2020"></a>10 de noviembre de 2020
 Version 16.0.13328.20356 (setupODT.exe versión 16.0.13328.20336)

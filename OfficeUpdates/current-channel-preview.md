@@ -9,24 +9,202 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporcionar a los participantes del Modo aplazado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos
-ms.openlocfilehash: 23b62c7eb5c91e4fecb0c14567b2554f4f89b371
-ms.sourcegitcommit: 3a7eddcac9238b1394f1c1623ddb3273254b9ceb
+ms.openlocfilehash: 150483fce6c504af839174e761f680e651842435
+ms.sourcegitcommit: 551c3050697b157bbfb4f1d6bf8800ee9542ead3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "49408346"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49588353"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notas de la versión del canal actual de Office (versión preliminar)
 
-This article contains release notes for Current Channel (Preview) builds of Word, Excel, PowerPoint, Outlook, Access, and Project for Windows desktop. Every week, we’ll highlight interesting new features, important fixes, and any significant issues we want you to know about. Note that we often roll out features (and sometimes even fixes) to Current Channel (Preview) over a period of time. This allows us to ensure that things are working smoothly before releasing the feature to a wider audience. So, if you don’t see something described below, don't worry you'll get it eventually.  
+En este artículo hay notas de la versión para las compilaciones del canal actual (versión preliminar) de las versiones de escritorio de Word, Excel, PowerPoint, Outlook, Access y Project para Windows. Todas las semanas se incluyen las nuevas características, correcciones importantes y los problemas principales de mayor interés para usted. Tenga en cuenta que a menudo publicamos características (y a veces incluso correcciones) para el Canal actual (versión preliminar) durante un período de tiempo. Esto nos permite asegurarnos de que todo funciona correctamente antes de publicar la característica para un público más amplio. Por tanto, si a continuación no ve algo descrito, no se preocupe, lo recibirá con el tiempo.  
 
 > [!IMPORTANT]
-> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441) para obtener más información.
 
 > [!NOTE]
 > - La fecha de publicación de las notas de versión pueden no coincidir con la fecha real de lanzamiento de la compilación.
 
 [//]: # (NO ELIMINAR)
+
+## <a name="version-2012-december-07"></a>Versión 2012: 7 de diciembre
+*Versión 2012 (compilación 13530.20064)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="visio"></a>Visio
+
+- **Nuevas galerías de símbolos y formas de Azure:** Hemos agregado muchas más galerías de símbolos para ayudarle a crear diagramas de Azure actualizados. [Más información](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Hemos corregido un problema en el que algunos elementos de la cinta de opciones no se localizaban en chino simplificado.
+
+
+- Hemos corregido un problema en el que Excel se terminaba inesperadamente durante la actualización.
+
+
+- Hemos corregido un problema por el cual el comando Insertar objeto no muestra el icono correcto cuando se inserta un archivo desde la carpeta de sincronización local de OneDrive.
+
+
+- Se ha corregido un problema por el que la edición en idiomas que requieren el uso del IME funcionaba mal al editar en el modo de sobrescritura.
+
+
+- Se ha corregido un problema por el que algunos usuarios veían incorrectamente una barra de mensajes que les informaba de una nueva versión de un archivo durante la coautoría.
+
+
+- Se ha corregido un problema que provocaba que Excel se cerrase de forma inesperada al copiar y pegar datos en la vista Fórmula.
+
+
+- Se ha corregido un hipervínculo roto a un artículo de ayuda en una alerta que aparecía al deshabilitar Autoguardado.
+
+
+- Se ha corregido un problema que causaba que Excel dejara de funcionar cuando se escribían datos en determinados lenguajes.
+
+
+- Este cambio soluciona un problema que impedía mostrar correctamente fuentes en ecuaciones.
+
+
+- Corregido un problema por el que Power Pivot no importaba correctamente un archivo de texto delimitado por tabulaciones.
+
+
+### <a name="outlook"></a>Outlook
+
+- Hemos corregido un problema que provocaba que el campo Para: quedara en blanco en los informes de estado de la tarea.
+
+
+- Se ha corregido un problema que provocaba que se interrumpiera el evento MailItem.BeforeAttachmentAdd.
+
+
+- Corregido un problema que provocaba que los usuarios experimentaran problemas al enviar correo de Outlook desde aplicaciones que no son Outlook.
+
+
+- Se ha corregido un problema que provocaba que SmartLinks perdiera el formato cuando se guardaba en Borradores.
+
+
+- Corregido un problema en el que la adición de un archivo adjunto a un mensaje abierto desde un archivo zip fallaba.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha corregido un problema relacionado con copiar o pegar una ecuación de Word a PowerPoint.
+
+
+- Este cambio resuelve un problema relacionado con los tiempos de espera experimentados durante el análisis de entrada de lápiz.
+
+
+- Este cambio corrige un error gramatical en la interfaz de usuario Crear un archivo GIF animado.
+
+
+- Este cambio resuelve un problema con el relleno de rutas al aplicar las operaciones de Combinar formas con determinadas geometrías.
+
+
+- Este cambio soluciona un problema que impedía mostrar correctamente fuentes en ecuaciones.
+
+
+- Este cambio resuelve un problema con el control de errores que se pueden producir durante la carga de vídeo.
+
+
+- Hemos corregido un problema de VBA por el cual Slide.Shapes.AddMediaObject2 se bloqueaba con formatos de vídeo heredados (MPG-1, MPEG-2).
+
+
+- Se ha corregido un problema que evitaba que el indicador de presencia de un coautor desconocido no se actualizara por completo cuando había disponible más información sobre el coautor.
+
+
+- Se ha corregido un puntero nulo al cambiar el tamaño de la vista con la regla activada.
+
+
+- Se ha corregido un problema que evitaba que algunos archivos de PowerPoint corruptos se abrieran correctamente, incluso después de la operación de reparación de un documento.
+
+
+### <a name="project"></a>Project
+
+- Hemos corregido un problema por el cual los usuarios creaban proyectos que supuestamente se guardaban con información actualizada pero en los que no había ninguna actualización.
+
+
+- Hemos corregido un problema por el cual no se podían eliminar las dependencias de las entregas si el sitio de SharePoint en el que estaba asociada la entrega ya no existía.
+
+
+- Se ha corregido un problema que alargaba demasiado el tiempo de apertura de un proyecto con muchos recursos.
+
+
+- Se ha corregido un problema en el que los usuarios pueden ver varias tareas no asignadas asociadas a una tarea.
+
+
+- Se ha corregido un problema en el que los proyectos de gran tamaño pueden tardar más en especificar un nombre de tarea.
+
+
+- Se ha corregido un problema por el que algunos proyectos específicos podrían abrirse si había un problema con el archivo del proyecto en una parte específica de la carga.
+
+
+### <a name="word"></a>Word
+
+- A menudo, Pegar como texto sin formato tiene preferencia sobre Pegar como texto enriquecido. La corrección de este menú contextual permite al usuario pegar como texto sin formato. De lo contrario, el usuario tendría que copiarlo en un editor de texto sin formato como el Bloc de notas y, luego, copiarlo de allí a la aplicación de destino deseada.
+
+
+- Se ha corregido un problema relacionado con copiar o pegar una ecuación de Word a PowerPoint.
+
+
+- Este cambio resuelve un problema con el cursor al editar un documento.
+
+
+- Hemos corregido un problema relacionado con las imágenes difuminadas por usar el zoom.
+
+
+- Hemos corregido un problema por el cual se truncaban hipervínculos largos.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Corregido un problema en el Conjunto de aplicaciones de Office por el que la instalación de una versión más reciente de Office sobre algunas versiones anteriores podía resultar en un deterioro de la funcionalidad (por ejemplo, no poder usar Power Query) debido a que faltaban entradas del registro.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+
+## <a name="version-2011-december-01"></a>Versión 2011: 1 de diciembre
+*Versión 2011 (compilación 13426.20306)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="outlook"></a>Outlook
+
+- **Todas las reuniones en línea:** facilite la programación de reuniones en línea con una nueva configuración para que todas las reuniones sean en línea de forma predeterminada.
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema que provocaba que los asistentes originales de algunas reuniones recibían una cancelación cuando un asistente reenviaba la reunión.
+
+
+- Se ha corregido un problema que causaba que algunos usuarios no vieran ninguna firma en la lista desplegable a pesar de que se configuraron una o varias firmas.
+
+
+### <a name="project"></a>Project
+
+- Se ha corregido un problema por el que algunos proyectos específicos podrían abrirse si había un problema con el archivo del proyecto en una parte específica de la carga.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2011-november-24"></a>Versión 2011: 24 de noviembre
 *Versión 2011 (Compilación 13426.20294)*
@@ -40,10 +218,10 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 
 
-[//]: # (NO QUITAR NINGÚN DETALLE DE ERROR EN EL FINAL DEL CONTENIDO)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2011-november-21"></a>Versión 2011: 21 de noviembre
-*Versión 2011 (Compilación 13426.20274)*
+*Versión 2011 (compilación 13426.20274)*
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
 
@@ -62,7 +240,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="outlook"></a>Outlook
 
-- Se ha corregido un problema que provocaba que se interrumpiera el evento MailItem. BeforeAttachmentAdd.
+- Se ha corregido un problema que provocaba que se interrumpiera el evento MailItem.BeforeAttachmentAdd.
 
 
 - Se ha agregado una clave de registro que permite a los clientes deshabilitar la inclusión de hora de archivo para datos adjuntos en operaciones de IDataObject (es decir, arrastrar y soltar, portapapeles). HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments. REG_DWORD IncludeFileTimesInDataObject. 0 = se excluyen filetimes. 1 = (predeterminado) filetimes se incluyen
@@ -72,14 +250,14 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 
 
-[//]: # (NO QUITAR NINGÚN DETALLE DE ERROR EN EL FINAL DEL CONTENIDO)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2011-november-18"></a>Versión 2011: 18 de noviembre
-*Versión 2011 (Compilación 13426.20250)*
+*Versión 2011 (compilación 13426.20250)*
 * Varias correcciones de errores y rendimiento.
 
 ## <a name="version-2011-november-16"></a>Versión 2011: 16 de noviembre
-*Versión 2011 (Compilación 13426.20234)*
+*Versión 2011 (compilación 13426.20234)*
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
 
@@ -103,16 +281,16 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- Hemos corregido un problema de VBA por el cual Slide.Shapes.AddMediaObject2 se bloqueaba con formatos de vídeo heredados (MPG-1,MPEG-2).
+- Corregimos un problema de VBA por el que Slide.Shapes.AddMediaObject2 se bloqueaba con formatos de vídeo heredados (MPG-1, MPEG-2).
 
 
 
-[//]: # (NO QUITAR NINGÚN DETALLE DE ERROR EN EL FINAL DEL CONTENIDO)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
-## <a name="version-2011-november-09"></a>Versión 2011: 9 de octubre
+## <a name="version-2011-november-09"></a>Versión 2011: 9 de noviembre
 *Versión 2011 (compilación 13426.20184)*
 
-[//]: # (NO QUITAR DETALLES DE CARACTERÍSTICAS CONTENIDO INICIO)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="excel"></a>Excel
@@ -155,7 +333,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 - Corregido un problema por el que un usuario no podía abrir el archivo de atomsvc (UTF8 + BOM) desde SharePoint directamente.
 
 
-- Corregido un problema que provocaba que, al acercar y alejar el área de presentación, apareciera una separación entre el recuadro de selección ampliado y el puntero del mouse.
+- Se ha corregido un problema en el que al acercar y alejar el área de presentación se daba una separación entre el recuadro de selección ampliado y el puntero del mouse.
 
 
 - Corregido un problema en el que Word parecía bloquearse al insertar un libro de Excel en un documento de Word.
@@ -192,7 +370,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- Corregido un problema que provocaba que, al acercar y alejar el área de presentación, apareciera una separación entre el recuadro de selección ampliado y el puntero del mouse.
+- Se ha corregido un problema que provocaba que, al acercar y alejar el área de presentación, apareciera una separación entre el recuadro de selección ampliado y el puntero del mouse.
 
 
 - Se ha corregido un problema que provocaba que el icono del marcador de posición de contenido junto a Imágenes no incluyera información sobre herramientas.
@@ -232,7 +410,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 ### <a name="word"></a>Word
 
-- Corregido un problema que provocaba que, al acercar y alejar el área de presentación, apareciera una separación entre el recuadro de selección ampliado y el puntero del mouse.
+- Se ha corregido un problema en el que al acercar y alejar el área de presentación se daba una separación entre el recuadro de selección ampliado y el puntero del mouse.
 
 
 - Se ha corregido un problema por el que al hacer clic en la sugerencia de comentario no se mostraba la tarjeta comentario en la vista.
@@ -275,7 +453,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 ## <a name="version-2010-november-04"></a>Versión 2010: 4 de noviembre
 *Versión 2010 (compilación 13328.20340)*
 
-[//]: # (NO QUITAR DETALLES DE CARACTERÍSTICAS CONTENIDO INICIO)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="excel"></a>Excel
@@ -322,7 +500,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 ## <a name="version-2010-october-27"></a>Versión 2010: 27 de octubre
 *Versión 2010 (compilación 13328.20292)*
 
-[//]: # (NO QUITAR DETALLES DE CARACTERÍSTICAS CONTENIDO INICIO)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
@@ -346,7 +524,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 ## <a name="version-2010-october-24"></a>Versión 2010: 24 de octubre
 *Versión 2010 (compilación 13328.20278)*
 
-[//]: # (NO QUITAR DETALLES DE CARACTERÍSTICAS CONTENIDO INICIO)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
 
 
 
@@ -419,7 +597,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 ## <a name="version-2010-october-11"></a>Versión 2010: 11 de octubre
 *Versión 2010 (compilación 13328.20154)*
 
-[//]: # (NO QUITAR DETALLES DE CARACTERÍSTICAS CONTENIDO INICIO)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="excel"></a>Excel
@@ -467,13 +645,13 @@ This article contains release notes for Current Channel (Preview) builds of Word
 - Se ha corregido un problema que provocaba un retraso considerable al cambiar entre hojas de cálculo con grandes cantidades de datos cuando la 'Vista previa de salto de página' estaba habilitada.
 
 
-- Se ha corregido un problema que provocaba que no se actualizaran las opciones de todas las hojas del libro al agregar una tabla usada para la validación de datos.
+- Se ha corregido un problema que hacía que no se actualizaran las opciones de todas las hojas del libro al agregar una tabla usada para la validación de datos.
 
 
-- Se ha corregido un problema que podía provocar un bloqueo al actualizar las tablas dinámicas de OLAP.
+- Se ha corregido un problema que podía producir un bloqueo al actualizar las tablas dinámicas de OLAP.
 
 
-- Se ha corregido un problema que provocaba que ChartSheet se bloquee en ciertos casos cuando se insertaba una fórmula en la barra de fórmulas.
+- Se ha corregido un problema que hacía que ChartSheet se bloqueara en ciertos casos cuando se insertaba una fórmula en la barra de fórmulas.
 
 
 - Se corrigió un problema por el cual la barra de fórmulas de Excel no se mostraba completamente después de que se perdiera la conexión a un dispositivo, como una conexión o desconexión de sesión remota o un cambio de monitor.
@@ -487,7 +665,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 - Se ha corregido un problema que hacía que, al pasar el ratón sobre el color verde en el selector de colores del bloc de notas, el elemento emergente indicara "red chalk" (tiza roja).
 
 
-- Se ha corregido un problema que provocaba que OneNote no respetara los colores de contraste alto en el lienzo para temas personalizados.
+- Se ha corregido un problema que hacía que OneNote no respetara los colores de contraste alto en el lienzo para temas personalizados.
 
 
 ### <a name="outlook"></a>Outlook
@@ -510,10 +688,10 @@ This article contains release notes for Current Channel (Preview) builds of Word
 - Se ha corregido un problema para ofrecer a los usuarios una forma de personalizar el texto de justificación al anular una directiva.
 
 
-- Se ha corregido un problema que provocaba que se activara el control de cambios después de reabrir el borrador desde el panel de vista previa de solo lectura.
+- Se ha corregido un problema que hacía que se activara el control de cambios después de reabrir el borrador desde el panel de vista previa de solo lectura.
 
 
-- Se ha corregido un problema que provocaba que los correos electrónicos se ocultaran después de desactivar la Bandeja de entrada Prioritarios y ordenarlos.
+- Se ha corregido un problema que hacía que los correos electrónicos se ocultaran después de desactivar la Bandeja de entrada Prioritarios y ordenarlos.
 
 
 - Se ha corregido un problema que hacía que Outlook creara una segunda firma vacía para las personas con la configuración de la nube habilitada.
@@ -524,10 +702,10 @@ This article contains release notes for Current Channel (Preview) builds of Word
 - Se ha corregido un problema que impedía a PowerPoint exportar las viñetas rectangulares al exportar a PDF.
 
 
-- Se ha corregido un problema que provocaba que los GIF solo muestren la animación una vez en el editor y en las presentaciones.
+- Se ha corregido un problema que hacía que los GIF solo mostraran la animación una vez en el editor y en las presentaciones.
 
 
-- Se ha corregido un problema que provocaba que el gráfico de Excel vinculado cambiara incorrectamente a la hoja de Excel cuando el usuario cambiaba la ruta de origen a la carpeta de OneDrive local.
+- Se ha corregido un problema que hacía que el gráfico de Excel vinculado cambiara incorrectamente a la hoja de Excel cuando el usuario cambiaba la ruta de origen a la carpeta de OneDrive local.
 
 
 - Se ha corregido un problema debido al cual, si se encuentra en la última diapositiva y pasa a la siguiente diapositiva tras pulsar "Finalizar sesión" y antes de que aparezca el resumen, el cuadro de diálogo de sesión final también aparece visible en la página de resumen.
@@ -576,7 +754,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 
 
-[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2009-october-07"></a>Versión 2009: 7 de agosto
 *Versión 2009 (Compilación 13231.20360)*
@@ -1502,15 +1680,15 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 
 
-- **Guardar en Carpetas ancladas:** anclar tus carpetas hace que el almacenamiento de archivos de Office sea más fácil. Nuestros usuarios nos dijeron que querían tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. <br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Guardar en Carpetas ancladas:** anclar tus carpetas hace que el almacenamiento de archivos de Office sea más fácil. Nuestros usuarios nos dijeron que querían tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. <br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Guardar en Carpetas ancladas:** anclar tus carpetas hace que el almacenamiento de archivos de Office sea más fácil. Nuestros usuarios nos dijeron que querían tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil.<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Guardar en Carpetas ancladas:** anclar tus carpetas hace que el almacenamiento de archivos de Office sea más fácil. Nuestros usuarios nos dijeron que querían tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil.<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 ### <a name="word"></a>Word
 
-- **Guardar en Carpetas ancladas:** anclar tus carpetas hace que el almacenamiento de archivos de Office sea más fácil. Nuestros usuarios nos dijeron que querían tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. <br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Guardar en Carpetas ancladas:** anclar tus carpetas hace que el almacenamiento de archivos de Office sea más fácil. Nuestros usuarios nos dijeron que querían tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. <br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
@@ -1712,7 +1890,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 ### <a name="excel"></a>Excel
 
-- **Crear tablas dinámicas de conjuntos de datos en Power BI desde Excel:** puede crear tablas dinámicas en Excel conectadas a los conjuntos de datos almacenados en Power BI con tan solo unos clics. Así, podrá obtener lo mejor de las tablas dinámicas y de Power BI. Calcule, resuma y analice sus datos con tablas dinámicas desde sus conjuntos de datos seguros de Power BI.
+- **Crear tablas dinámicas de conjuntos de datos en Power BI desde Excel:** puede crear tablas dinámicas en Excel conectadas a los conjuntos de datos almacenados en Power BI con tan solo unos clics. Así, podrá obtener lo mejor de las tablas dinámicas y de Power BI. Calcule, resuma y analice los conjuntos de datos seguros de Power BI con las tablas dinámicas de Excel.
 
 ### <a name="outlook"></a>Outlook
 

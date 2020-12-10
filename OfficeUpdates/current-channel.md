@@ -9,24 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365 en 2020
-ms.openlocfilehash: 1601e91a17da4d4896ca6e058d14f2973c8c4eaa
-ms.sourcegitcommit: 20605334d158c0b79db02d1bd4fbc418578b575c
+ms.openlocfilehash: 108ed93c82608f00453919ce0d1b50a3d5a4dc0c
+ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "49387465"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601555"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notas de la versión para las versiones del canal actual en 2020
 
 Estas notas de la versión proporcionan información sobre las nuevas características y las actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones de canal actual en 2020 para las Aplicaciones de Microsoft 365 para empresas, las Aplicaciones de Microsoft 365 para negocios y las versiones de suscripción de las aplicaciones de escritorio de Project y Visio.
 
 > [!IMPORTANT]
-> Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. Para más información, [lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441) para obtener más información.
 
  > [!NOTE]
 >
->- A menudo distribuimos características (y a veces incluso correcciones) para el Canal actual durante un período de tiempo. Si no ve de inmediato algo que se describe a continuación, lo verá pronto. [Más información](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
->- Las características de Microsoft Teams pueden diferir del último Canal actual publicado ya que tienen una cadencia de publicación más frecuente.
+>- A menudo distribuimos características (y a veces incluso correcciones) para el canal actual durante un período de tiempo.  Si no ve algo que se describe a continuación de inmediato, lo verá pronto. [Más información](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
+>- Las características de Microsoft Teams pueden diferir del último canal actual publicado ya que tienen una cadencia de publicación más frecuente.
 
 
 
@@ -35,7 +35,74 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-[//]: # (NO QUITAR EL CONTENIDO FINAL DE LOS DETALLES DE LOS ERRORES)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+
+## <a name="version-2011-december-08"></a>Versión 2011: 08 de diciembre
+*Versión 2011 (compilación 13426.20332)*
+
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Se ha corregido un problema que provocaba que SaveRequestManagerCam causara que la aplicación se cerrara en lugar de devolver un error. 
+
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+
+## <a name="version-2011-december-02"></a>Versión 2011: 2 de diciembre
+*Versión 2011 (compilación 13426.20308)*
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema que provocaba que los asistentes originales de algunas reuniones reciban una cancelación cuando otro asistente reenviaba la reunión.
+
+
+- Se ha corregido un problema que causaba que algunos usuarios no vieran ninguna firma en la lista desplegable a pesar de que se configuraron una o varias firmas.
+
+
+### <a name="project"></a>Project
+
+- Se ha corregido un problema que provocaba que algunos proyectos específicos pudieran abrirse si había un problema con el archivo del proyecto en una parte específica de la carga.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Conjunto de aplicaciones de Office ha corregido un problema que provocaba que la instalación de una versión más reciente de Office sobre algunas versiones anteriores pudiera causar una funcionalidad afectada (como no poder usar Power Query) debido a que faltaban entradas del registro.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+
+## <a name="version-2011-november-30"></a>Versión 2011: 30 de noviembre
+*Versión 2011 (compilación 13426.20294)*
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha corregido un problema relacionado con la función de copiar y pegar una ecuación de Word a PowerPoint.
+
+
+### <a name="word"></a>Word
+
+- Se ha corregido un problema relacionado con la función de copiar y pegar una ecuación de Word a PowerPoint.
+
+
+- Se ha corregido un problema que reemplazaba los estilos del documento con otros estilos de la plantilla.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2011-november-23"></a>Versión 2011: 23 de noviembre
 *Versión 2011 (compilación 13426.20274)*
@@ -61,7 +128,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 - **Compatibilidad con el portapapeles SVG:** ahora puede pegar contenido SVG de Office en aplicaciones de terceros. [Más información](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
-- **Cambiar los temas de Office automáticamente:** Office puede cambiar los temas automáticamente para que coincidan con la configuración de tema de Windows 10. Vaya a Archivo > Cuenta de Office y elija "Usar la opción del sistema" en la lista desplegable Temas de Office. [Obtenga más información](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- **Cambiar los temas de Office automáticamente:** Office puede cambiar los temas automáticamente para que coincidan con la configuración de tema de Windows 10. Vaya a Archivo > Cuenta de Office y elija "Usar la opción del sistema" en la lista desplegable Temas de Office. [Más información](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 - **Actualizaciones de la experiencia de usuario en Tareas:** Una actualización visual de los elementos de las tareas.
 
@@ -71,7 +138,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 - **Crear GIF con fondos transparentes:** cuando se exporta a un GIF animado, una nueva opción permite que el fondo sea transparente.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)
 
-- **Cambiar los temas de Office automáticamente:** Office puede cambiar los temas automáticamente para que coincidan con la configuración de tema de Windows 10. Vaya a Archivos > Cuenta y elija "Usar la opción del sistema" en la lista desplegable Temas de Office. [Obtenga más información](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- **Cambiar los temas de Office automáticamente:** Office puede cambiar los temas automáticamente para que coincidan con la configuración de tema de Windows 10. Vaya a Archivos > Cuenta y elija "Usar la opción del sistema" en la lista desplegable Temas de Office. [Más información](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 - **Exportar GIF animado en un rango:** seleccione un intervalo de diapositivas cuando exporte a GIF animado.
 
@@ -103,24 +170,24 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="outlook"></a>Outlook
 
-- Se ha corregido un problema que provocaba que el campo Para quedara vacío al enviar un informe de estado en una tarea.
+- Se ha corregido un problema que provocaba que el campo "Para;" quedara vacío al enviar un informe de estado en una tarea.
 
 
 - Se ha corregido un problema que provocaba que se interrumpiera el evento MailItem.BeforeAttachmentAdd.
 
 
-- Se ha agregado una clave de registro que permite a los clientes deshabilitar la inclusión de hora de archivo para datos adjuntos en operaciones de IDataObject (es decir, arrastrar y soltar, portapapeles).  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments. REG_DWORD IncludeFileTimesInDataObject. 0 = se excluyen filetimes. 1 = (predeterminado) filetimes se incluyen.
+- Se ha agregado una clave de registro que permite a los clientes deshabilitar la inclusión de hora de archivo para los datos adjuntos en las operaciones de IDataObject (es decir, arrastrar y soltar, portapapeles).  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments. REG_DWORD IncludeFileTimesInDataObject. 0 = se excluyen horas de archivo. 1 = (predeterminado) se incluyen horas de archivo.
 
 
-- Se ha corregido un problema que causaba que las imágenes en línea desaparecieran al responder a un mensaje con una etiqueta de protección de Azure Information Protection.
+- Se ha corregido un problema que provocaba que las imágenes en línea desaparecieran al responder a un mensaje con una etiqueta de protección de Azure Information Protection.
 
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- Hemos corregido un problema de VBA por el cual Slide.Shapes.AddMediaObject2 se bloqueaba con formatos de vídeo heredados (MPG-1, MPEG-2).
+- Se ha corregido un problema de VBA que provocaba que Slide.Shapes.AddMediaObject2 se bloqueara con formatos de vídeo heredados (MPG-1, MPEG-2).
 
 
-- Se ha corregido un problema que producía un error al guardar el archivo después de duplicar una diapositiva que contiene un audio grabado recientemente.
+- Se ha corregido un problema que provocaba un error al guardar el archivo después de duplicar una diapositiva que contuviera un audio grabado recientemente.
 
 
 - Se ha corregido un problema que evitaba que algunos archivos de PowerPoint corruptos se abrieran correctamente, incluso después de la operación de reparación de un documento.
@@ -132,7 +199,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-[//]: # (NO QUITAR NINGÚN DETALLE DE ERROR EN EL FINAL DEL CONTENIDO)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2010-november-17"></a>Versión 2010: 17 de noviembre
 *Versión 2010 (compilación 13328.20408)*
@@ -145,7 +212,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 - Se ha corregido un problema que provocaba que se interrumpiera el evento MailItem.BeforeAttachmentAdd.
 
 
-- Se ha agregado una clave de registro que permite a los clientes deshabilitar la inclusión de hora de archivo para datos adjuntos en operaciones de IDataObject (es decir, arrastrar y soltar, portapapeles).  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments.  REG_DWORD IncludeFileTimesInDataObject.  0 = se excluyen filetimes.  1 = (predeterminado) filetimes se incluyen.
+- Se ha agregado una clave de registro que permite a los clientes deshabilitar la inclusión de hora de archivo para los datos adjuntos en las operaciones de IDataObject (es decir, arrastrar y soltar, portapapeles).  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments.  REG_DWORD IncludeFileTimesInDataObject.  0 = se excluyen horas de archivo.  1 = (predeterminado) se incluyen horas de archivo.
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -164,7 +231,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-[//]: # (NO QUITAR EL CONTENIDO FINAL DE LOS DETALLES DE LOS ERRORES)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2010-november-10"></a>Versión 2010: 10 de noviembre
 *Versión 2010 (compilación 13328.20356)*
@@ -191,7 +258,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-2010-october-27"></a>Versión 2010: 27 de octubre
 *Versión 2010 (compilación 13328.20292)*
 
-[//]: # (NO QUITAR DETALLES DE CARACTERÍSTICAS CONTENIDO INICIO)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="access"></a>Access
@@ -200,7 +267,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 ### <a name="excel"></a>Excel
 
-- **Crear tipos de datos con Power Query:** Crear tipos de datos enriquecidos con Power Query desde cualquier origen de datos. [Más información](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br />Ver detalles en la [entrada de blog](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)
+- **Crear tipos de datos con Power Query:** crear tipos de datos enriquecidos con Power Query desde cualquier origen de datos. [Más información](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br />Ver detalles en la [entrada de blog](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)
 
 - **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
@@ -210,7 +277,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
-- **Puedes contar con la revisión gramatical:** Outlook marca los errores gramaticales conforme usted escribe, para que pueda aplicar sugerencias con un solo clic. [Más información](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />Ver detalles en [entrada de blog](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)
+- **Puedes contar con la revisión gramatical:** Outlook marca los errores gramaticales conforme usted escribe, para que pueda aplicar sugerencias con un solo clic. [Más información](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -228,7 +295,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 ### <a name="word"></a>Word
 
-- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en [entrada de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
@@ -328,7 +395,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 
 
-[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2009-october-08"></a>Versión 2009: 08 de octubre
 *Versión 2009 (compilación 13231.20368)*
@@ -512,7 +579,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 ### <a name="outlook"></a>Outlook
 
-- **Vínculos mejorados en el correo electrónico:** al incluir un vínculo a un archivo, la dirección URL se reemplaza por el nombre del archivo. Puede cambiar los permisos para que todos los destinatarios tengan acceso. [Más información](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)
+- **Vínculos mejorados en el correo electrónico:** al incluir un vínculo a un archivo, la dirección URL se reemplaza por el nombre del archivo. Puede cambiar los permisos para que todos los destinatarios tengan acceso. [Más información](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)
 
 
 
@@ -990,7 +1057,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-2005-june-09"></a>Versión 2005: 9 de junio
 *Versión 2005 (compilación 12827.20336)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="excel"></a>Excel
@@ -1045,7 +1112,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - **Usar automáticamente los nuevos tipos de datos**: al digitar un valor de datos que se asemeja a una ubicación geográfica o cotización, Excel ofrece la posibilidad de convertirlo en el tipo de datos conectado apropiado (cotizaciones o geografía). [Más información](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
 
-- **Cuente sus historias con GIF animados:** los GIF animados ahora son compatibles con el editor de Office: sus documentos han pasado a ser más llamativos.
+- **Cuente sus historias con GIF animados:** los GIF animados ahora son compatibles con el editor de Office: sus documentos ahora son más elegantes.
 
 ### <a name="outlook"></a>Outlook
 
@@ -1055,7 +1122,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - **Cuente sus historias con GIF animados:** los GIF animados ahora son compatibles con el editor de Office: sus documentos ahora son más elegantes.
 
-- **El Calendario se transforma:** vea las actualizaciones visuales que hacen que el calendario sea más fácil de examinar. [Más información](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)
+- **El Calendario se transforma:** vea las actualizaciones visuales que hacen que el calendario sea más fácil de examinar. [Más información](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -1063,7 +1130,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - **Sincronice los cambios mientras realiza la presentación:** sincronice los cambios cuando se hagan aunque la presentación esté en el modo de presentación con diapositivas. [Más información](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)
 
-- **No es necesario hacer clic, sus miniauriculares se encargarán:** utilice sus Surface Earbuds para controlar sus presentaciones de PowerPoint. Cómo funciona: una vez emparejados, tendrá que habilitar esta característica en PowerPoint. Para iniciar una presentación, presione F5 o seleccione Presentación con diapositivas > Desde el principio.  En la presentación con diapositivas, haga clic derecho en la diapositiva y en la configuración de Surface Earbuds elija Usar gestos para controlar la presentación.  Esta configuración se recordará para todas las presentaciones futuras. Ahora, puede desplazarse hacia delante o atrás en el miniauricular izquierdo para navegar por las presentaciones en el modo Presentación con diapositivas.  Pulse dos veces para reproducir o pausar los vídeos incrustados.  Importante: Debe emparejar sus Surface Earbuds en la aplicación Surface Audio para Windows 10 para poder usar gestos para controlar las presentaciones. Aquí encontrará instrucciones para empezar a usar la aplicación Surface Audio en Windows 10. [Más información](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
+- **No es necesario hacer clic, sus miniauriculares se encargarán:** utilice sus Surface Earbuds para controlar sus presentaciones de PowerPoint. Cómo funciona: una vez emparejados, tendrá que habilitar esta característica en PowerPoint. Para iniciar una presentación, presione F5 o seleccione Presentación con diapositivas > Desde el principio.  En la presentación con diapositivas, haga clic derecho en la diapositiva y en la configuración de Surface Earbuds elija Usar gestos para controlar la presentación.  Esta configuración se recordará para todas las presentaciones futuras. Ahora, puede desplazarse hacia delante o atrás en el miniauricular izquierdo para navegar por las presentaciones en el modo Presentación con diapositivas.  Pulse dos veces para reproducir o pausar los vídeos insertados.  Importante: Debe emparejar sus Surface Earbuds en la aplicación Surface Audio para Windows 10 para poder usar gestos para controlar las presentaciones. Aquí encontrará instrucciones para empezar a usar la aplicación Surface Audio en Windows 10. [Más información](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
 
 ### <a name="teams"></a>Teams
 
@@ -1663,15 +1730,15 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 > [!NOTE]
 > Si necesita ayuda con algún problema de uso de Office, le recomendamos que publique la pregunta en el [foro de preguntas de Microsoft](https://answers.microsoft.com/) o [Tech Community](https://techcommunity.microsoft.com/), o bien puede ponerse en contacto con el [servicio de soporte técnico](https://support.microsoft.com/contactus).
 
-[//]: # (NO MODIFICAR INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
-[//]: # (|Win32|CC|Production| |16.0.13426.20274|versión-2011-noviembre-23|)
-[//]: # (|Win32|CC|Production| |16.0.13328.20408|versión-2010-noviembre-17|)
-[//]: # (|Win32|CC|Production| |16.0.13328.20356|versión-10-noviembre-2010|)
+[//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (| Win32 | CC | Producción | | 16.0.13426.20332 | versión-08-diciembre-2011 |)
+[//]: # (| Win32 | CC | Producción | | 16.0.13426.20308 | versión-02-diciembre-2011 |)
+[//]: # (| Win32 | CC | Producción | | 16.0.13426.20294 | versión-30-noviembre-2011 |)
+[//]: # (|Win32|CC|Production| |16.0.13426.20274|versión-23-noviembre-2011|)
+[//]: # (|Win32|CC|Producción| |16.0.13328.20408|versión-17-noviembre-2010|)
+[//]: # (|Win32|CC|Producción| |16.0.13328.20356|versión-10-noviembre-2010|)
 [//]: # (|Win32|CC|Production| |16.0.13328.20292|versión-27-octubre-2010|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20418|versión-2009-21-octubre|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20390|versión-2009-13-octubre|)
-[//]: # (|Win32|CC|Producción| |16.0.13231.20368|versión-2009-julio-08|)
-[//]: # (|Win32|CC|Producción| |16.0.13231.20262|versión-2009-28-septiembre|)
-[//]: # (|Win32|CC|Production| |16.0.13127.20508|versión-2008-22-septiembre|)
-[//]: # (|Win32|CC|Production| |16.0.13127.20408|versión-2008-09-septiembre|)
-[//]: # (NO MODIFICAR EL FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|CC|Producción| |16.0.13231.20368|versión-08-octubre-2009|)
+[//]: # (NO MODIFICAR FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
