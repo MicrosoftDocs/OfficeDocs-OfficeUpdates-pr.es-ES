@@ -9,34 +9,43 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a participantes del programa Insider el historial de actualizaciones de los lanzamientos del canal mensual del modo anticipado de Insider para versiones de escritorio de Windows
-ms.openlocfilehash: f5e93a54dfc4745e1b7c412d1dbd02037d6cef3b
-ms.sourcegitcommit: 413694d561d367e93ad51c9be41495ad09a24af3
+ms.openlocfilehash: e183ddcbfb653678aaf3246fc7caae179c8b6426
+ms.sourcegitcommit: 551c3050697b157bbfb4f1d6bf8800ee9542ead3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "49385496"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49588303"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Historial de actualizaciones del Canal Office beta
 
 Hola, participantes de Insider. Si os estáis preguntando si tenéis instalada la actualización más reciente o buscáis una lista de las compilaciones recientes de Insider, estáis en el lugar adecuado. Haced clic [aquí](https://insider.office.com/) para obtener más información sobre el programa Insider.
 
 > [!IMPORTANT]
-> - Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. Para más información, [lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Se cambiará el nombre de Office 365 ProPlus a Aplicaciones de Microsoft 365 para empresas. Se empezará por la versión 2004. Para obtener más información, [lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2123420). Por lo general, en nuestra documentación, solo se hará referencia a este conjunto como Aplicaciones de Microsoft 365.
+> - Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441) para obtener más información.
+> - A partir de la versión 2004, el nombre de Office 365 ProPlus cambia a Aplicaciones de Microsoft 365 para empresas. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2123420) para obtener más información. Por lo general, en nuestra documentación solo haremos referencia al producto como Aplicaciones de Microsoft 365.
 
 > [!NOTE]
 >
 > - A continuación, se muestra el historial de actualizaciones con todas las compilaciones publicadas
 > - Las notas de la versión se actualizan con una cadencia lenta y pueden ser una compilación de actualizaciones de varias compilaciones hasta el número de compilación publicado de las notas de la versión.
 
-## <a name="office-beta-channel-versions-and-builds"></a>Versiones y compilaciones del canal beta de Office
+## <a name="office-beta-channel-versions-and-builds"></a>Versiones y compilaciones de Canal Office beta
 
-Si está inscrito en el nivel de Insider, obtendrá actualizaciones frecuentes con nuevas características y mejoras. La siguiente lista muestra un historial de versiones y compilaciones del canal beta con **la compilación publicada de manera más reciente en el primer lugar**. Las compilaciones nuevas incluyen todas las actualizaciones de compilaciones anteriores.
+Si se ha inscrito en el nivel de Insider, obtendrá actualizaciones frecuentes con nuevas características y mejoras. En la lista siguiente, se muestra un historial de versiones y compilaciones recientes del Canal beta, con **las compilaciones más nuevas en primer lugar**. Las compilaciones nuevas incluyen todas las actualizaciones de las compilaciones anteriores.
 
-Para obtener las notas de la versión, consulte [notas de la versión de Insider de Office para escritorio de Windows](https://docs.microsoft.com/OfficeUpdates/beta-channel).
+Para obtener las notas de la versión, vea [notas de la versión de Insider de Office para escritorio de Windows](https://docs.microsoft.com/OfficeUpdates/beta-channel).
 
 
 [//]: # (NO ELIMINAR)
+
+**07 de diciembre de 2020**<br/>
+Versión 2101 (compilación 13604.20000)<br/>
+
+**02 de diciembre de 2020**<br/>
+Versión 2012 (compilación 13530.20000)<br/>
+
+**30 de noviembre de 2020**<br/>
+Versión 2012 (compilación 13524.20004)<br/>
 
 **23 de noviembre de 2020**<br/>
 Versión 2012 (compilación 13519.20000)<br/>

@@ -9,25 +9,25 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Aplicaciones de Microsoft 365 según el canal de actualización.
-ms.openlocfilehash: b5b7bdea32117e9147861133dd37c0c7035589a1
-ms.sourcegitcommit: 20605334d158c0b79db02d1bd4fbc418578b575c
+ms.openlocfilehash: d3645b8814459970e7eaf0a2788cb292be739825
+ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "49387455"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601435"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tamaños de descarga de las actualizaciones de Aplicaciones de Microsoft 365 
 
 Cuando sea posible, queremos dar información sobre el tamaño de las actualizaciones, para que los clientes empresariales puedan planificar el uso del ancho de banda de su red.
 
-The following tables show the approximate download size when updating from the previous release of Microsoft 365 Apps to the most current release. Actual download sizes might vary, by as much as 50 mb. If you are updating from an older release to the current release, your download size could be larger.
+En las siguientes tablas se muestran los tamaños de descarga aproximados de las actualizaciones desde versiones anteriores recientes de Aplicaciones de Microsoft 365 a la versión más reciente. Los tamaños de descarga reales pueden variar unos 50 MB como máximo. Si va a realizar la actualización desde una versión más antigua a la más actual, el tamaño de descarga podría ser mayor.
 
-If you are switching to a different channel, for example from Semi-Annual Channel (Targeted) to Semi-Annual Channel, your update size could be considerably larger than what's listed in the table. It could entail a full download, which could be at least 1 GB.
+Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal semianual, el tamaño de actualización será considerablemente mayor que el que se muestra en la tabla. Puede comportar una descarga completa, que podría ser de un 1 GB o más.
 
 
 > [!IMPORTANT]
-> - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 ProPlus is being renamed to Microsoft 365 Apps for enterprise, starting with Version 2004. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2123420). In our documentation, we'll usually just refer to it as Microsoft 365 Apps.
+> - Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441) para obtener más información.
+> - A partir de la versión 2004, el nombre de Office 365 ProPlus cambiará a Aplicaciones de Microsoft 365 para empresas. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2123420) para obtener más información. Por lo general, en nuestra documentación solo haremos referencia al producto como Aplicaciones de Microsoft 365.
 
 
 > [!NOTE]
@@ -36,9 +36,90 @@ If you are switching to a different channel, for example from Semi-Annual Channe
 
 [//]: # (NO ELIMINAR)
 
+## <a name="december-8-2020"></a>8 de diciembre de 2020
+
+[//]: # (NO ELIMINAR COMIENZO DEL CONTENIDO8 de diciembre de 2020)
+
+### <a name="current-channel"></a>Canal actual
+
+La versión más actual es la versión 2011 (compilación 13426.20332).
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 2011 (compilación 13426.20308) <br/> |2 de diciembre de 2020 <br/> |55<br/> |
+|Versión 2011 (compilación 13426.20294) <br/> |30 de noviembre de 2020 <br/> |227<br/> |
+
+
+### <a name="monthly-enterprise-channel"></a>Canal mensual para empresas
+
+La versión más reciente es la versión 2010 (compilación 13328.20478).
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 2009 (compilación 13231.20514) <br/> |10 de noviembre de 2020 <br/> |127<br/> |
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>Canal semestral para empresas (versión preliminar)
+
+La versión más reciente es la versión 2008 (compilación 13127.20910).
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 2008 (compilación 13127.20760) <br/> |10 de noviembre de 2020 <br/> |68<br/> |
+|Versión 2008 (compilación 13127.20638) <br/> |13 de octubre de 2020 <br/> |75<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>Canal semestral para empresas
+
+La versión más reciente es la versión 2002 (compilación 12527.21416).
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión de 2002 (compilación 12527.21330) <br/> |10 de noviembre de 2020 <br/> |68<br/> |
+|Versión 2002 (compilación 12527.21236) <br/> |13 de octubre de 2020 <br/> |71<br/> |
+
+
+
+[//]: # (NO ELIMINAR FINAL DEL CONTENIDO8 de diciembre de 2020)
+
+
+
+
+## <a name="december-2-2020"></a>2 de diciembre de 2020
+
+[//]: # (NO ELIMINAR INICIAL DEL CONTENIDO 2 de diciembre de 2020)
+
+### <a name="current-channel"></a>Canal actual
+
+La versión más actual es la 2011 (compilación 13426.20308).
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 2011 (Compilación 13426.20294) <br/> |30 de noviembre de 2020 <br/> |53<br/> |
+|Versión 2011 (compilación 13426.20274) <br/> |23 de noviembre de 2020 <br/> |241<br/> |
+
+
+[//]: # (NO ELIMINAR FINAL DEL CONTENIDO 2 de diciembre de 2020)
+
+## <a name="november-30-2020"></a>30 de noviembre de 2020
+
+[//]: # (NO ELIMINAR EL CONTENIDO INICIAL del 30 de noviembre de 2020)
+
+### <a name="current-channel"></a>Canal actual
+
+La versión más actual es la 2011 (compilación 13426.20294).
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 2011 (compilación 13426.20274) <br/> |23 de noviembre de 2020 <br/> |40<br/> |
+|Versión 2010 (compilación 13328.20408) <br/> |17 de noviembre de 2020 <br/> |146<br/> |
+
+
+[//]: # (NO ELIMINAR EL CONTENIDO FINAL del 30 de noviembre de 2020)
+
 ## <a name="november-23-2020"></a>23 de noviembre de 2020
 
-[//]: # (NO ELIMINAR EL COMIENZO DEL CONTENIDO23 de noviembre de 2020)
+[//]: # (NO ELIMINAR EL CONTENIDO INICIAL del 23 de noviembre de 2020)
 
 ### <a name="current-channel"></a>Canal actual
 
@@ -50,11 +131,11 @@ La versión más actual es la Versión 2011 (compilación 13426.20274).
 |Versión 2010 (compilación 13328.20356) <br/> |10 de noviembre de 2020 <br/> |148<br/> |
 
 
-[//]: # (NO ELIMINAR EL CONTENIDO FINAL 23 de noviembre de 2020)
+[//]: # (NO ELIMINAR EL CONTENIDO FINAL del 23 de noviembre de 2020)
 
 ## <a name="november-17-2020"></a>17 de noviembre de 2020
 
-[//]: # (NO ELIMINAR EL COMIENZO DEL CONTENIDO17 de noviembre de 2020)
+[//]: # (NO ELIMINAR EL CONTENIDO INICIAL del 17 de noviembre de 2020)
 
 ### <a name="current-channel"></a>Canal actual
 
@@ -66,7 +147,7 @@ La versión más actual es la 2010 (compilación 13328.20408).
 |Versión 2010 (compilación 13328.20292) <br/> |27 de octubre de 2020 <br/> |60<br/> |
 
 
-[//]: # (NO ELIMINAR EL CONTENIDO FINAL17 de noviembre de 2020)
+[//]: # (NO ELIMINAR EL CONTENIDO FINAL del 17 de noviembre de 2020)
 
 ## <a name="november-10-2020"></a>10 de noviembre de 2020
 

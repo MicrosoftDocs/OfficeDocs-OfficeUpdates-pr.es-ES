@@ -9,19 +9,19 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI un historial de actualizaciones para las versiones perpetuas de Office 2013 que usan Hacer clic y ejecutar.
-ms.openlocfilehash: 13d1a91f39169c073ffa8732b22051d95a512e2a
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: 0d11acb0a63bf32c86bebcd3352c8be79017c7fb
+ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48989959"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601465"
 ---
 # <a name="update-history-for-office-2013"></a>Historial de actualizaciones para Office 2013
 
 Algunos productos de Office 2013 se actualizan automáticamente mediante una tecnología denominada hacer clic y ejecutar. Si desea comprobar que está actualizado, compruebe su número de versión de Office y actualice Office manualmente si es necesario.
   
 > [!NOTE]
-> La versión más reciente de Office 2013 es la **15.0.5293.1000** , que se publicó el 10 de noviembre de 2020.
+> La versión más reciente de Office 2013 es **15.0.5301.1000**, que fue publicada el 8 de diciembre de 2020.
   
 Para comprobar su versión de Office, siga estos pasos:
   
@@ -29,7 +29,7 @@ Para comprobar su versión de Office, siga estos pasos:
     
 2. Elija **Archivo** > **Cuenta**.
     
-3. En **Información del producto** , vea el número de versión en **Actualizaciones de Office**.
+3. En **Información del producto**, vea el número de versión en **Actualizaciones de Office**.
     
     Si el número de versión coincide con la versión más reciente, está actualizado. Si no es así, actualice manualmente para obtener la última versión de Office 2013. Para actualizar Office, [siga estos pasos](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2013).
     
@@ -45,7 +45,8 @@ Las versiones nuevas incluyen todas las actualizaciones de versiones anteriores.
   
 |**Año de publicación**|**Fecha de publicación**|**Número de versión**|**Más información**|
 |:-----|:-----|:-----|:-----|
-|2020| 10 de noviembre|15.0.5293.1000|[KB 4583503](https://support.microsoft.com/help/4583503)|
+|2020| 8 de diciembre|15.0.5301.1000 |[KB 4583521](https://support.microsoft.com/help/4583521)|
+||10 de noviembre|15.0.5293.1000|[KB 4583503](https://support.microsoft.com/help/4583503)|
 ||13 de octubre| 15.0.5285.1000| [KB 4583495](https://support.microsoft.com/help/4583495)|
 ||8 de septiembre| 15.0.5275.1000 | [KB 4576653](https://support.microsoft.com/help/4576653)|
 ||11 de agosto | 15.0.5267.1000  | [KB 4563408](https://support.microsoft.com/help/4563408)|
@@ -100,7 +101,7 @@ Las versiones nuevas incluyen todas las actualizaciones de versiones anteriores.
 ||25 de julio   |15.0.4841.1002   |[KB 3179661](https://support.microsoft.com/kb/3179661)  |
 ||12 de julio   |15.0.4841.1001   |[KB 3173835](https://support.microsoft.com/kb/3173835)  |
 ||14 de junio   |15.0.4833.1001   |[KB 3166910](https://support.microsoft.com/kb/3166910)  |
-||25   |15.0.4823.1004   |En esta versión se corrige un bloqueo que podía producirse durante el proceso de instalación.   |
+||25 de mayo   |15.0.4823.1004   |En esta versión se corrige un bloqueo que podía producirse durante el proceso de instalación.   |
 ||10 de mayo   |15.0.4823.1002   |[KB 3158453](https://support.microsoft.com/kb/3158453 )  |
 ||12 de abril   |15.0.4815.1002   |[KB 3150264](https://support.microsoft.com/kb/3150264)  |
 ||8 de marzo   |15.0.4805.1003   |[KB 3143491](https://support.microsoft.com/kb/3143491)  |
