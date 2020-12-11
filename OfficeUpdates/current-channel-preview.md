@@ -9,22 +9,23 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporcionar a los participantes del Modo aplazado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos
-ms.openlocfilehash: 150483fce6c504af839174e761f680e651842435
-ms.sourcegitcommit: 551c3050697b157bbfb4f1d6bf8800ee9542ead3
+ms.openlocfilehash: 39d685dc793bf9afae8126923272c428470125bd
+ms.sourcegitcommit: 40dff4c716db4382af4841031ba0050869e78e42
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49588353"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "49613542"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notas de la versión del canal actual de Office (versión preliminar)
 
-En este artículo hay notas de la versión para las compilaciones del canal actual (versión preliminar) de las versiones de escritorio de Word, Excel, PowerPoint, Outlook, Access y Project para Windows. Todas las semanas se incluyen las nuevas características, correcciones importantes y los problemas principales de mayor interés para usted. Tenga en cuenta que a menudo publicamos características (y a veces incluso correcciones) para el Canal actual (versión preliminar) durante un período de tiempo. Esto nos permite asegurarnos de que todo funciona correctamente antes de publicar la característica para un público más amplio. Por tanto, si a continuación no ve algo descrito, no se preocupe, lo recibirá con el tiempo.  
+En este artículo hay notas de la versión para las compilaciones del Canal actual (versión preliminar) de las versiones de escritorio de Word, Excel, PowerPoint, Outlook, Access, Project Y Teams para Windows. Todas las semanas se incluyen las nuevas características, correcciones importantes y los problemas principales de mayor interés para usted. Tenga en cuenta que a menudo publicamos características (y a veces incluso correcciones) para el Canal actual (versión preliminar) durante un período de tiempo. Esto nos permite asegurarnos de que todo funciona correctamente antes de publicar la característica para un público más amplio. Por tanto, si a continuación no ve algo descrito, no se preocupe, lo recibirá con el tiempo.  
 
 > [!IMPORTANT]
 > Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441) para obtener más información.
 
 > [!NOTE]
 > - La fecha de publicación de las notas de versión pueden no coincidir con la fecha real de lanzamiento de la compilación.
+> - Las características de Microsoft Teams pueden diferir de la última versión preliminar del Canal actual publicada ya que tienen una cadencia de publicación más frecuente.
 
 [//]: # (NO ELIMINAR)
 
@@ -34,6 +35,24 @@ En este artículo hay notas de la versión para las compilaciones del canal actu
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
+
+### <a name="teams"></a>Teams
+
+- **Las notificaciones nativas de Windows ahora son compatibles con Teams:** ahora los usuarios pueden seleccionar su forma preferida de entrega de notificaciones, ya sea a través de banners integrados en Teams o banners nativos de Windows.
+
+
+- **Vista de galería 2x2 de reuniones de Microsoft Teams en Citrix y VMware VDI:** la característica vista de galería de VDI 2x2 en Microsoft Teams permitirá ver hasta cuatro vídeos de asistentes en la vista de galería de 2x2 en clientes de VDI de Citrix, VMWare cuando el cliente de Microsoft Teams está en modo optimizado para VDI.
+
+
+- **Reacciones de la reunión:**  las reacciones de la reunión son una nueva forma de interactuar en las reuniones. Los participantes pueden enviar reacciones que se muestran como un flujo en el contenido que se comparte y en la persona que envió la reacción si se muestra en la fase de reunión. 
+
+
+- **Modo Juntos y Galería grande para reuniones web:** la galería grande permite ver los vídeos de hasta 49 otras personas a la vez. Esta opción está disponible cuando al menos diez personas tienen las cámaras activadas. El modo Juntos le permite sentir que está en el mismo espacio compartido con todos los usuarios de la reunión. El modo Juntos está disponible cuando hay al menos cinco personas en la reunión. 
+
+
+- **Combinación de llamadas** la combinación de llamadas permite a los usuarios combinar una nueva llamada que realizan o una nueva llamada entrante en su llamada con otra persona o grupal. Esto se aplica para las llamadas de VoIP de Teams y las llamadas de RTC. 
+
+
 ### <a name="visio"></a>Visio
 
 - **Nuevas galerías de símbolos y formas de Azure:** Hemos agregado muchas más galerías de símbolos para ayudarle a crear diagramas de Azure actualizados. [Más información](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
