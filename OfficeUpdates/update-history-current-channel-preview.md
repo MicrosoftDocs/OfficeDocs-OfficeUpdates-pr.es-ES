@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los participantes del programa Insider el historial de actualizaciones de los lanzamientos del canal mensual dirigido de Office para versiones de escritorio de Windows
-ms.openlocfilehash: bf9c104215f5bd1824bc6536e113a4e5c2c670e6
-ms.sourcegitcommit: 551c3050697b157bbfb4f1d6bf8800ee9542ead3
+ms.openlocfilehash: 29a5e61611e853638aa63e1e5ee4cce47e0ba06c
+ms.sourcegitcommit: d57f0f22474e99f5e4497f164c6dd1bb404cd7c3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49588293"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49673998"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Historial de actualización del canal actual de Office (versión preliminar) para Windows
 
@@ -24,7 +24,7 @@ Haga clic [aquí](https://insider.office.com/) para obtener más información so
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Compilaciones y versiones del canal actual de Office (versión preliminar)
 
 Si está inscrito en el nivel Canal actual (versión preliminar), que anteriormente era llamado Modo aplazado de Insider, obtendrá una nueva actualización de características de Office una vez al mes aproximadamente, además de las compilaciones subsiguientes que contengan correcciones importantes o actualizaciones de seguridad. En la siguiente lista se muestran las versiones y las compilaciones recientes del Canal actual (versión preliminar), con **las compilaciones más recientes en primer lugar**. Las compilaciones nuevas incluyen todas las actualizaciones de las compilaciones anteriores.
-Para buscar notas de la versión, [vea](https://docs.microsoft.com/OfficeUpdates/current-channel-preview). También, puede ver [Novedades para participantes de Office Insider](https://insider.office.com/en-us/releasenotes/windows/slow).
+Para buscar notas de la versión, [vea](https://docs.microsoft.com/OfficeUpdates/current-channel-preview). También, puede ver [Novedades para participantes de Office Insider](https://insider.office.com/es-ES/releasenotes/windows/slow).
 
 
 > [!IMPORTANT]
@@ -37,6 +37,9 @@ Para buscar notas de la versión, [vea](https://docs.microsoft.com/OfficeUpdates
 
 
 [//]: # (NO ELIMINAR)
+
+**14 de diciembre de 2020**<br/>
+Versión 2012 (compilación 13530.20144)<br/>
 
 **07 de diciembre de 2020**<br/>
 Versión 2012 (compilación 13530.20064)<br/>

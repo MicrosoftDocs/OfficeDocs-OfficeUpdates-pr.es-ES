@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista completa de las versiones de las Aplicaciones de Microsoft 365, organizada por fecha, con vínculos a las notas de la versión.
-ms.openlocfilehash: 86e2ac3bb42e3b179214e1c030ef941878054883
-ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
+ms.openlocfilehash: b6fb5a7ee354c847d907b87933b44b76f168c727
+ms.sourcegitcommit: 033070b22b91c5d361c030abc516986ee305390a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49601565"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "49662705"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Historial de actualizaciones de Aplicaciones de Microsoft 365 (ordenado por fecha)
 
@@ -29,6 +29,8 @@ Estos números de versión y compilación se aplican a Aplicaciones de Microsoft
 > - Para obtener más información sobre los canales de actualización, vea [Información general sobre los canales de actualización para Aplicaciones de Microsoft 365](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus).
 
 En la tabla siguiente se muestra la versión compatible y el número de compilación más actual para cada canal de actualización.
+
+### <a name="supported-versions"></a>**Versiones compatibles**
 
 [//]: # (EOSTABLESTART)
 
@@ -45,7 +47,9 @@ En la tabla siguiente se muestra la versión compatible y el número de compilac
 
 Para obtener más información sobre los tamaños de descarga aproximados de las actualizaciones desde versiones anteriores de Aplicaciones de Microsoft 365 a la versión más reciente, vea [Tamaños de descarga de actualizaciones de Aplicaciones de Microsoft 365](download-sizes-office365-proplus-updates.md).
 
-La siguiente tabla proporciona una lista de los números de versión y compilación para cada actualización de Aplicaciones de Microsoft 365 publicada en los siguientes canales de actualización: actual, empresarial mensual, empresarial semestral (vista previa) y empresarial semestral. Cada entrada de la tabla se vincula directamente con las notas de versión de dicha versión. Estas notas de versión proporcionan información sobre las características, las actualizaciones de seguridad y las actualizaciones no relacionadas con la seguridad que se incluyen en la actualización de Aplicaciones de Microsoft 365.  
+La siguiente tabla proporciona una lista de los números de versión y compilación para cada actualización de Aplicaciones de Microsoft 365 publicada en los siguientes canales de actualización: actual, empresarial mensual, empresarial semestral (vista previa) y empresarial semestral. Cada entrada de la tabla se vincula directamente con las notas de versión de dicha versión. Estas notas de versión proporcionan información sobre las características, las actualizaciones de seguridad y las actualizaciones no relacionadas con la seguridad que se incluyen en la actualización de Aplicaciones de Microsoft 365.
+
+### <a name="version-history"></a>**Historial de versiones**
 
 [//]: # (HISTORYTABLESTART)
 
