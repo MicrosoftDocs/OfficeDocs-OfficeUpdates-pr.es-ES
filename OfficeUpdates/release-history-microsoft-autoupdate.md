@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales informáticos un historial de versiones de Microsoft AutoUpdate (MAU).
-ms.openlocfilehash: 67a97d3d11dfea8db10f3d0cfbf45800dfd0b773
-ms.sourcegitcommit: 8365e449159add26608ff6b0188d05ab14ff0fef
+ms.openlocfilehash: f6b5462189fa7cf9310c3d69b8ab34474ed96c07
+ms.sourcegitcommit: 1587fea5b37f632608fe67e28030d380aba6b781
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "48994969"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49684082"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historial de versiones de Microsoft AutoUpdate (MAU)
  
@@ -29,6 +29,25 @@ En la siguiente tabla, se proporciona información del historial de versiones de
 > - Microsoft AutoUpdate ofrece actualizaciones para distintos productos de Mac de Microsoft. Por tanto, es posible que reciba una notificación para actualizar Microsoft AutoUpdate, incluso si no está ejecutando Office para Mac.
 
 Para ver las notas de la versión, consulte [Notas de la versión.](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="december-2020-release"></a>Versión de diciembre de 2020
+
+**Fecha de lanzamiento:** 15 de septiembre de 2020
+
+*Actualización automática de Microsoft 4.30*
+
+**Correcciones de errores y mejoras:**
+- Agregar el soporte de la aplicación Universal para Macs con M1.
+
+**Vínculo para actualización de MAU:**
+
+[Descargar el paquete Actualización automática para Microsoft 4.30](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 Hash:**
+
+9F4C49BE4FCC82DED7BD394F4F2057912B40D0083F754D15495B7BDE9E58EAC4
+
+<br/><br/>
 
 
 ## <a name="november-2020-release"></a>Versión de noviembre de 2020
