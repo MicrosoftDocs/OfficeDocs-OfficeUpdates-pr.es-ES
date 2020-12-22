@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporcionar a los participantes del Modo aplazado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos
-ms.openlocfilehash: 0be2192fb0bc08c399c4c7d698de759bfec3433e
-ms.sourcegitcommit: d57f0f22474e99f5e4497f164c6dd1bb404cd7c3
+ms.openlocfilehash: 33fad2b4d91d05abedee0de26c8a0bc101e9c4bd
+ms.sourcegitcommit: d4973d351666da9b360f4f83cd588e327ccbab1a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49673978"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49725779"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notas de la versión del canal actual de Office (versión preliminar)
 
@@ -28,6 +28,46 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 > - Las características de Microsoft Teams pueden diferir de la última versión preliminar del Canal actual publicada ya que tienen una cadencia de publicación más frecuente.
 
 [//]: # (NO ELIMINAR)
+
+## <a name="version-2012-december-21"></a>Versión 2012: 21 de diciembre
+*Versión 2012 (compilación 13530.20218)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Envío de datos de auditoría sobre el etiquetado de confidencialidad a los administradores de M365:** cuando los usuarios apliquen, cambien o eliminen las etiquetas de confidencialidad en sus documentos y correos electrónicos, Office enviará datos de auditoría al back-end de auditoría de M365 para que los administradores los vean. Esta es una funcionalidad silenciosa (sin interfaz de usuario) para beneficio del administrador.
+
+### <a name="outlook"></a>Outlook
+
+- **Dar algo de tiempo entre reuniones consecutivas:** asigne a los asistentes el tiempo necesario para que descansen o se desplacen entre las distintas ubicaciones. Para ello haga que las reuniones empiecen de 5 a 10 minutos antes de forma predeterminada. [Más información](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
+
+- **Envío de datos de auditoría sobre el etiquetado de confidencialidad a los administradores de M365:** cuando los usuarios apliquen, cambien o eliminen las etiquetas de confidencialidad en sus documentos y correos electrónicos, Office enviará datos de auditoría al back-end de auditoría de M365 para que los administradores los vean. Esta es una funcionalidad silenciosa (sin interfaz de usuario) para beneficio del administrador.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Envío de datos de auditoría sobre el etiquetado de confidencialidad a los administradores de M365:** cuando los usuarios apliquen, cambien o eliminen las etiquetas de confidencialidad en sus documentos y correos electrónicos, Office enviará datos de auditoría al back-end de auditoría de M365 para que los administradores los vean. Esta es una funcionalidad silenciosa (sin interfaz de usuario) para beneficio del administrador.
+
+### <a name="word"></a>Word
+
+- **Envío de datos de auditoría sobre el etiquetado de confidencialidad a los administradores de M365:** cuando los usuarios apliquen, cambien o eliminen las etiquetas de confidencialidad en sus documentos y correos electrónicos, Office enviará datos de auditoría al back-end de auditoría de M365 para que los administradores los vean. Esta es una funcionalidad silenciosa (sin interfaz de usuario) para beneficio del administrador.
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha corregido un problema por el que el comando tamaño de fuente, agregado a la herramienta de acceso rápido, se completaba automáticamente al tamaño de fuente definido más cercano al actualizarse.
+
+
+
+[//]: # (NO QUITAR NINGÚN DETALLE DE ERROR EN EL FINAL DEL CONTENIDO)
 
 ## <a name="version-2012-december-14"></a>Versión 2012: 14 de diciembre
 *Versión 2012 (compilación 13530.20144)*
@@ -2601,7 +2641,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 - **Actualización de las diapositivas durante la presentación:** actualice diapositivas editadas por otros autores durante la presentación.
 
 
-[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
 ## <a name="version-2003-march-16"></a>Versión 2003: 16 de marzo
 *Versión 2003 (compilación 12624,20224)*

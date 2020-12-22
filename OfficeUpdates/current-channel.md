@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365 en 2020
-ms.openlocfilehash: 108ed93c82608f00453919ce0d1b50a3d5a4dc0c
-ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
+ms.openlocfilehash: 05b0f1f990c33ae7e3e7f76971eac447c66382f2
+ms.sourcegitcommit: d4973d351666da9b360f4f83cd588e327ccbab1a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49601555"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49725799"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notas de la versión para las versiones del canal actual en 2020
 
@@ -32,6 +32,28 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+
+## <a name="version-2011-december-21"></a>Versión 2011: 21 de diciembre
+*Versión 2011 (compilación 13426.20404)*
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema por el que Excel mostraba de forma incorrecta una barra de mensajes donde se indicaba que estaba disponible una nueva versión del archivo y obligaba al usuario a descartar los cambios o guardarlos en una copia del libro.
+
+
+- Se solucionó un problema que provocaba que Excel dejara macros deshabilitadas sin preguntar al abrir archivos de complemento de Excel que contuvieran macros Excel 4.0.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Se solucionó un problema que impedía que se abriera un archivo como NO SyncBacked cuando la dirección URL de la memoria caché y la dirección URL de OneDrive NO coincidían.
 
 
 
@@ -63,7 +85,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="outlook"></a>Outlook
 
-- Se ha corregido un problema que provocaba que los asistentes originales de algunas reuniones reciban una cancelación cuando otro asistente reenviaba la reunión.
+- Se ha corregido un problema que provocaba que los asistentes originales de algunas reuniones recibían una cancelación cuando un asistente reenviaba la reunión.
 
 
 - Se ha corregido un problema que causaba que algunos usuarios no vieran ninguna firma en la lista desplegable a pesar de que se configuraron una o varias firmas.
@@ -76,7 +98,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 ### <a name="office-suite"></a>Conjunto de aplicaciones de Office
 
-- Conjunto de aplicaciones de Office ha corregido un problema que provocaba que la instalación de una versión más reciente de Office sobre algunas versiones anteriores pudiera causar una funcionalidad afectada (como no poder usar Power Query) debido a que faltaban entradas del registro.
+- Corregido un problema en el Conjunto de aplicaciones de Office por el que la instalación de una versión más reciente de Office sobre algunas versiones anteriores podía resultar en un deterioro de la funcionalidad (por ejemplo, no poder usar Power Query) debido a que faltaban entradas del registro.
 
 
 
@@ -134,9 +156,9 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Compatibilidad con el portapapeles SVG:** ahora puede pegar contenido SVG de Office en aplicaciones de terceros. [Más información](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)
+- **Compatibilidad con el portapapeles SVG:** ahora puede pegar contenido SVG de Office en aplicaciones de terceros. [Más información](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/svg-content-office-third-party-apps)
 
-- **Crear GIF con fondos transparentes:** cuando se exporta a un GIF animado, una nueva opción permite que el fondo sea transparente.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)
+- **Crear GIF con fondos transparentes:** cuando se exporta a un GIF animado, una nueva opción permite que el fondo sea transparente.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/export-animated-gifs-transparent-backgrounds)
 
 - **Cambiar los temas de Office automáticamente:** Office puede cambiar los temas automáticamente para que coincidan con la configuración de tema de Windows 10. Vaya a Archivos > Cuenta y elija "Usar la opción del sistema" en la lista desplegable Temas de Office. [Más información](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -176,7 +198,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 - Se ha corregido un problema que provocaba que se interrumpiera el evento MailItem.BeforeAttachmentAdd.
 
 
-- Se ha agregado una clave de registro que permite a los clientes deshabilitar la inclusión de hora de archivo para los datos adjuntos en las operaciones de IDataObject (es decir, arrastrar y soltar, portapapeles).  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments. REG_DWORD IncludeFileTimesInDataObject. 0 = se excluyen horas de archivo. 1 = (predeterminado) se incluyen horas de archivo.
+- Se ha agregado una clave de registro que permite a los clientes deshabilitar la inclusión de hora de archivo para datos adjuntos en operaciones de IDataObject (es decir, arrastrar y soltar, portapapeles).  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments. REG_DWORD IncludeFileTimesInDataObject. 0 = se excluyen horas de archivo. 1 = (predeterminado) se incluyen horas de archivo.
 
 
 - Se ha corregido un problema que provocaba que las imágenes en línea desaparecieran al responder a un mensaje con una etiqueta de protección de Azure Information Protection.
@@ -212,7 +234,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 - Se ha corregido un problema que provocaba que se interrumpiera el evento MailItem.BeforeAttachmentAdd.
 
 
-- Se ha agregado una clave de registro que permite a los clientes deshabilitar la inclusión de hora de archivo para los datos adjuntos en las operaciones de IDataObject (es decir, arrastrar y soltar, portapapeles).  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments.  REG_DWORD IncludeFileTimesInDataObject.  0 = se excluyen horas de archivo.  1 = (predeterminado) se incluyen horas de archivo.
+- Se ha agregado una clave de registro que permite a los clientes deshabilitar la inclusión de hora de archivo para datos adjuntos en operaciones de IDataObject (es decir, arrastrar y soltar, portapapeles).  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments.  REG_DWORD IncludeFileTimesInDataObject.  0 = se excluyen horas de archivo.  1 = (predeterminado) se incluyen horas de archivo.
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -231,7 +253,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 
 
-[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR LOS DETALLES DE ERROR DE CONTENIDO DEL FINAL)
 
 ## <a name="version-2010-november-10"></a>Versión 2010: 10 de noviembre
 *Versión 2010 (compilación 13328.20356)*
@@ -269,19 +291,19 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Crear tipos de datos con Power Query:** crear tipos de datos enriquecidos con Power Query desde cualquier origen de datos. [Más información](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br />Ver detalles en la [entrada de blog](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)
 
-- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
 
 - **Realice ediciones rápidas con el lápiz de acción:** con el lápiz de acción, puede escribir a mano directamente en las celdas y apuntar datos con entradas de lápiz que se convierten automáticamente en datos de Excel.
 
 ### <a name="outlook"></a>Outlook
 
-- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
 
-- **Puedes contar con la revisión gramatical:** Outlook marca los errores gramaticales conforme usted escribe, para que pueda aplicar sugerencias con un solo clic. [Más información](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)
+- **Puedes contar con la revisión gramatical:** Outlook marca los errores gramaticales conforme usted escribe, para que pueda aplicar sugerencias con un solo clic. [Más información](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />Ver detalles en [entrada de blog](https://insider.office.com/es-ES/blog/grammar-and-style-suggestions-available-in-outlook)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="teams"></a>Teams
 
@@ -295,7 +317,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 ### <a name="word"></a>Word
 
-- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
@@ -579,7 +601,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 ### <a name="outlook"></a>Outlook
 
-- **Vínculos mejorados en el correo electrónico:** al incluir un vínculo a un archivo, la dirección URL se reemplaza por el nombre del archivo. Puede cambiar los permisos para que todos los destinatarios tengan acceso. [Más información](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)
+- **Vínculos mejorados en el correo electrónico:** al incluir un vínculo a un archivo, la dirección URL se reemplaza por el nombre del archivo. Puede cambiar los permisos para que todos los destinatarios tengan acceso. [Más información](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)
 
 
 
@@ -1112,7 +1134,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Usar automáticamente los nuevos tipos de datos**: al digitar un valor de datos que se asemeja a una ubicación geográfica o cotización, Excel ofrece la posibilidad de convertirlo en el tipo de datos conectado apropiado (cotizaciones o geografía). [Más información](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
 
-- **Cuente sus historias con GIF animados:** los GIF animados ahora son compatibles con el editor de Office: sus documentos ahora son más elegantes.
+- **Cuente sus historias con GIF animados:** los GIF animados ahora son compatibles con el editor de Office: sus documentos han pasado a ser más llamativos.
 
 ### <a name="outlook"></a>Outlook
 
@@ -1122,7 +1144,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Cuente sus historias con GIF animados:** los GIF animados ahora son compatibles con el editor de Office: sus documentos ahora son más elegantes.
 
-- **El Calendario se transforma:** vea las actualizaciones visuales que hacen que el calendario sea más fácil de examinar. [Más información](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)
+- **El Calendario se transforma:** vea las actualizaciones visuales que hacen que el calendario sea más fácil de examinar. [Más información](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -1694,7 +1716,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Optimizar la presentación para todos:** El comprobador de accesibilidad le ayuda a organizar los objetos de las diapositivas pensando en los lectores de pantalla.
 
-- **GIF en un instante:** una diapositiva, un marco. Cree fácilmente archivos GIF en bucle en PowerPoint. [Más información](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **GIF en un instante:** una diapositiva, un marco. Cree fácilmente archivos GIF en bucle en PowerPoint. [Más información](https://support.office.com/es-ES/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
@@ -1731,6 +1753,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 > Si necesita ayuda con algún problema de uso de Office, le recomendamos que publique la pregunta en el [foro de preguntas de Microsoft](https://answers.microsoft.com/) o [Tech Community](https://techcommunity.microsoft.com/), o bien puede ponerse en contacto con el [servicio de soporte técnico](https://support.microsoft.com/contactus).
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|CC|Producción| |16.0.13426.20404|versión-21-diciembre-2011|)
 [//]: # (| Win32 | CC | Producción | | 16.0.13426.20332 | versión-08-diciembre-2011 |)
 [//]: # (| Win32 | CC | Producción | | 16.0.13426.20308 | versión-02-diciembre-2011 |)
 [//]: # (| Win32 | CC | Producción | | 16.0.13426.20294 | versión-30-noviembre-2011 |)
@@ -1740,5 +1763,4 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 [//]: # (|Win32|CC|Production| |16.0.13328.20292|versión-27-octubre-2010|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20418|versión-2009-21-octubre|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20390|versión-2009-13-octubre|)
-[//]: # (|Win32|CC|Producción| |16.0.13231.20368|versión-08-octubre-2009|)
 [//]: # (NO MODIFICAR FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
