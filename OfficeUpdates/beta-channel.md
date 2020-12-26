@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los participantes del Modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos.
-ms.openlocfilehash: ade0bd6ee25f8a5cce262f1c2428adeeef9a2b5d
-ms.sourcegitcommit: 481be0fc1d299537985563e5b29249f0fdc873a1
+ms.openlocfilehash: 6b42dcee02fa315647a1176bda1d581833ca5211
+ms.sourcegitcommit: 9a0952ac6d6c19231b3f4148a69d3260300ae78a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49716950"
+ms.lasthandoff: 12/25/2020
+ms.locfileid: "49733213"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de la versión para el canal beta
 
@@ -30,6 +30,48 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 [//]: # (NO ELIMINAR)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+## <a name="version-2101-december-25"></a>Versión 2101: 25 de diciembre
+*Versión 2101 (compilación 13617.20002)*
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Actualización para que la configuración de los separadores decimales y de millares se mantenga al copiar un gráfico de Excel y pegarlo en Word.
+
+
+- Se ha corregido un problema por el que Excel se cerraba inesperadamente al abrir archivos UNC con atributos de archivo no válidos (hora de creación, fecha de modificación, etc.).
+
+
+- Este cambio resuelve un problema relacionado con la modificación de los colores del contorno de imágenes SVG.
+
+
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema que provocaba que los usuarios no pudiesen especificar durante cuánto tiempo querían permitir el acceso al iniciar una combinación de correo de Word, lo que hacía que se enviasen demasiados avisos.
+
+
+- Se ha corregido un problema que provocaba que Outlook se cerrara de forma inesperada para los usuarios de complementos basados en Redemption.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Este cambio resuelve un problema relacionado con la modificación de los colores del contorno de imágenes SVG.
+
+
+### <a name="word"></a>Word
+
+- Este cambio resuelve un problema relacionado con la modificación de los colores del contorno de imágenes SVG.
+
+
+- Corrige un problema por el que el cuadro de respuesta en una tarjeta de comentario aparece fuera de la pantalla.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO FINAL)
 
 ## <a name="version-2101-december-18"></a>Versión 2101: 18 de diciembre
 *Version 2101 (compilación 13610.20002)*
@@ -271,7 +313,7 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 
 
 
-[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR NINGÚN DETALLE DE ERROR EN EL FINAL DEL CONTENIDO)
 
 ## <a name="version-2012-november-13"></a>Versión 2012: 13 de noviembre
 *Versión 2012 (Compilación 13510.20004)*
@@ -2165,6 +2207,7 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|versión-25-diciembre-2101|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|versión-18-diciembre-2101|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|versión-11-diciembre-2101|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|versión-4-diciembre-2012|)
@@ -2174,5 +2217,4 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 [//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
 [//]: # (NO MODIFICAR FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
