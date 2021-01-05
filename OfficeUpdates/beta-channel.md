@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los participantes del Modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos.
-ms.openlocfilehash: 6b42dcee02fa315647a1176bda1d581833ca5211
-ms.sourcegitcommit: 9a0952ac6d6c19231b3f4148a69d3260300ae78a
+ms.openlocfilehash: 042e83845d033f3f2f854e7d3f2198f698032c7a
+ms.sourcegitcommit: f0d1cbcbb5b9e5077dc21b7de9b2146b9e4c530c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/25/2020
-ms.locfileid: "49733213"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49748228"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de la versión para el canal beta
 
@@ -30,6 +30,65 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 [//]: # (NO ELIMINAR)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+## <a name="version-2101-january-01"></a>Versión 2101: 01 de enero
+*Versión 2101 (compilación 13624.20002)*
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Etiqueta obligatoria:** usuarios con la Directiva de etiquetado obligatoria se debe establecer que los administradores les etiqueten sus documentos y mensajes de correo electrónico.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Etiqueta obligatoria:** usuarios con la Directiva de etiquetado obligatoria se debe establecer que los administradores les etiqueten sus documentos y mensajes de correo electrónico.
+
+### <a name="word"></a>Word
+
+- **Etiqueta obligatoria:** usuarios con la Directiva de etiquetado obligatoria se debe establecer que los administradores les etiqueten sus documentos y mensajes de correo electrónico.
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="onenote"></a>OneNote
+
+- Este cambio resuelve un problema de representación que afecta a OneNote.
+
+
+### <a name="outlook"></a>Outlook
+
+- Este cambio permite a Outlook aprovechar una configuración de Exchange Server que suprime la presentación del buzón de correo de Exchange Online para usuarios finales.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Este cambio resuelve un problema con las formas de combinar trabajar con texto.
+
+
+### <a name="word"></a>Word
+
+- Corrección para mejorar la solidez de los comentarios modernos.
+
+
+- Se ha corregido un problema al editar una entrada de comentario con @mention.
+
+
+- Los borradores de comentarios desaparecen al crear una nueva instancia de Word.
+
+
+- Corrección y problema con las barras de desplazamiento anidadas en la ventana Comentarios.
+
+
+
+[//]: # (NO QUITAR LOS DETALLES DE ERROR AL FINAL DEL CONTENIDO)
 
 ## <a name="version-2101-december-25"></a>Versión 2101: 25 de diciembre
 *Versión 2101 (compilación 13617.20002)*
@@ -313,7 +372,7 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 
 
 
-[//]: # (NO QUITAR NINGÚN DETALLE DE ERROR EN EL FINAL DEL CONTENIDO)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2012-november-13"></a>Versión 2012: 13 de noviembre
 *Versión 2012 (Compilación 13510.20004)*
@@ -2207,6 +2266,7 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|versión-25-diciembre-2101|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|versión-18-diciembre-2101|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|versión-11-diciembre-2101|)
@@ -2216,5 +2276,4 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 [//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|versión-13-noviembre-2012|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
 [//]: # (NO MODIFICAR FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)

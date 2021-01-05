@@ -10,18 +10,18 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista de las últimas versiones de las Aplicaciones de Microsoft 365 para cada canal de actualización y vínculos a notas de la versión y el historial de actualizaciones.
-ms.openlocfilehash: da1785c6d08afec30753b97d633f3baa9fbd209b
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+ms.openlocfilehash: 6050fdcd08ffcfcde37b0f79886079dc38ddc790
+ms.sourcegitcommit: f0d1cbcbb5b9e5077dc21b7de9b2146b9e4c530c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48370139"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49748238"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Información de publicación de actualizaciones para Aplicaciones de Microsoft 365
 
 
 > [!IMPORTANT]
-> A partir de la versión 2004, el nombre de Office 365 ProPlus pasa a ser Aplicaciones de Microsoft 365 para empresas. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2123420) para obtener más información.Por lo general, en nuestra documentación solo haremos referencia a él como Aplicaciones de Microsoft 365.
+> A partir de la versión 2004, el nombre de Office 365 ProPlus cambia a Aplicaciones de Microsoft 365 para empresas. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2123420) para obtener más información. Por lo general, en nuestra documentación solo haremos referencia al producto como Aplicaciones de Microsoft 365.
 
 
 ## <a name="security-updates-for-microsoft-365-apps-releases"></a>Actualizaciones de seguridad para las versiones de las Aplicaciones de Microsoft 365
@@ -45,10 +45,10 @@ Para obtener una lista completa de los tamaños de versiones de actualizaciones,
 ## <a name="release-notes-for-microsoft-365-apps-releases"></a>Notas de la versión para las versiones de las Aplicaciones de Microsoft 365
 
 Para obtener una lista completa de notas de la versión por canal y año de la actualización, vea los siguientes artículos:
- - Actual: [2020](current-channel.md), [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md), [2017](monthly-channel-2017.md), [2016](monthly-channel-2016.md)
- - Canal empresarial mensual: [2020](monthly-enterprise-channel.md)
- - Empresa semianual (versión preliminar): [2020](semi-annual-enterprise-channel-preview.md), [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md), [2017](semi-annual-channel-targeted-2017.md) y [2016](semi-annual-channel-targeted-2016.md).
- - Empresa semianual: [2020](semi-annual-enterprise-channel.md), [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md), [2017](semi-annual-channel-2017.md), [2016](semi-annual-channel-2016.md)
+ - Canal actual: [2021-2020](current-channel.md), [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md)
+ - Canal empresarial mensual: [2021-2020](monthly-enterprise-channel.md)
+ - Empresarial semianual (versión preliminar): [2021-2020](semi-annual-enterprise-channel-preview.md), [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md)
+ - Empresarial Semianual: [2021-2020](semi-annual-enterprise-channel.md), [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md)
 
  ## <a name="release-history-for-office-deployment-tool"></a>Historial de versiones de la Herramienta de implementación de Office
  Para obtener una lista completa de las versiones de la Herramienta de implementación de Office, vea el artículo siguiente:
@@ -64,7 +64,7 @@ Para obtener más información sobre las actualizaciones de Office para Mac, que
 
 ## <a name="related-topics"></a>Temas relacionados
 
-- [Información general sobre los canales de actualización de Aplicaciones de Microsoft 365](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Información general sobre los canales de actualización de Aplicaciones de Microsoft 365](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
 - [Implementación de Office](https://docs.microsoft.com/deployoffice/)
 - [Novedades de Aplicaciones de Microsoft 365](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
 - [Guía básica de Aplicaciones de Microsoft 365](https://products.office.com/business/office-365-roadmap)
