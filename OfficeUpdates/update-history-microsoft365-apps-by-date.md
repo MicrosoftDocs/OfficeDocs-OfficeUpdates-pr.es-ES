@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista completa de las versiones de las Aplicaciones de Microsoft 365, organizada por fecha, con vínculos a las notas de la versión.
-ms.openlocfilehash: 2f72d1f036be1874e5b911ec57ca18a07fc1c41c
-ms.sourcegitcommit: d4973d351666da9b360f4f83cd588e327ccbab1a
+ms.openlocfilehash: cffc6cc2083d3afe5ce79e96ab9fa89a001bd18c
+ms.sourcegitcommit: f0d1cbcbb5b9e5077dc21b7de9b2146b9e4c530c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49725759"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49748248"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Historial de actualizaciones de Aplicaciones de Microsoft 365 (ordenado por fecha)
 
@@ -211,48 +211,7 @@ La siguiente tabla proporciona una lista de los números de versión y compilaci
 ||25 de enero  <br/> | [Versión 1612 (compilación 7668.2066)](monthly-channel-2017.md#version-1612-january-25)  <br/> |  <br/> |  <br/> |  <br/> |
 ||10 de enero  <br/> |  <br/> |  <br/> | [Versión 1609 (compilación 7369.2102)](semi-annual-channel-targeted-2017.md#version-1609-january-10)  <br/> | [Versión 1605 (compilación 6965.2117)](semi-annual-channel-2017.md#version-1605-january-10)  <br/>  [Versión 1602 (compilación 6741.2105)](semi-annual-channel-2017.md#version-1602-january-10)  <br/> |
 ||4 de enero  <br/> | [Versión 1611 (compilación 7571.2109)](monthly-channel-2017.md#version-1611-january-4)  <br/> |  <br/> |  <br/> |  <br/> |
-|2016|13 de diciembre  <br/> | [Versión 1611 (compilación 7571.2075)](monthly-channel-2016.md#version-1611-december-13)  <br/> |  <br/> |[Versión 1609 (compilación 7369.2095)](semi-annual-channel-targeted-2016.md#version-1609-december-13)  <br/> | [Versión 1605 (compilación 6965.2115)](semi-annual-channel-2016.md#version-1605-december-13)  <br/> [Versión 1602 (compilación 6741.2098)](semi-annual-channel-2016.md#version-1602-december-13)  <br/> |
-||6 de diciembre  <br/> | [Versión 1611 (compilación 7571.2072)](monthly-channel-2016.md#version-1611-december-6)  <br/> |  <br/> |  <br/> |  <br/> |
-||10 de noviembre  <br/> | [Versión 1610 (compilación 7466.2038)](monthly-channel-2016.md#version-1610-november-10)  <br/> |  <br/> |  <br/> |  <br/> |
-||8 de noviembre  <br/> |[Versión 1609 (compilación 7369.2055)](monthly-channel-2016.md#version-1609-november-8)  <br/> |  <br/> | [Versión 1609 (compilación 7369.2055)](semi-annual-channel-targeted-2016.md#version-1609-november-8)  <br/> | [Versión 1605 (compilación 6965.2105)](semi-annual-channel-2016.md#version-1605-november-8)  <br/>  [Versión 1602 (compilación 6741.2088)](semi-annual-channel-2016.md#version-1602-november-8)  <br/> |
-||2 de noviembre  <br/> |[Versión 1609 (compilación 7369.2054)](monthly-channel-2016.md#version-1609-november-2) <br/> |  <br/> |[Versión 1609 (compilación 7369.2054)](semi-annual-channel-targeted-2016.md#version-1609-november-2)  <br/> |  <br/> |
-||11 de octubre  <br/> | [Versión 1609 (compilación 7369.2038)](monthly-channel-2016.md#version-1609-october-11)  <br/> |  <br/> |[Versión 1609 (compilación 7369.2038)](semi-annual-channel-targeted-2016.md#version-1609-october-11)  <br/> | [Versión 1605 (compilación 6965.2092)](semi-annual-channel-2016.md#version-1605-october-11)  <br/>  [Versión 1602 (compilación 6741.2081)](semi-annual-channel-2016.md#version-1602-october-11)  <br/> |
-||4 de octubre  <br/> | [Versión 1609 (compilación 7369.2024)](monthly-channel-2016.md#version-1609-october-4)  <br/> |  <br/> |  <br/> |  <br/> |
-||26 de septiembre  <br/> |[Versión 1608 (compilación 7341.2035)](monthly-channel-2016.md#version-1608-september-26)  <br/> |  <br/> |  <br/> |  <br/> |
-||21 de septiembre  <br/> |[Versión 1608 (compilación 7341.2032)](monthly-channel-2016.md#version-1608-september-21)  <br/> |  <br/> |  <br/> |  <br/> |
-||13 de septiembre  <br/> |[Versión 1607 (compilación 7167.2060)](monthly-channel-2016.md#version-1607-september-13)  <br/> |  <br/> |[Versión 1605 (compilación 6965.2084)](semi-annual-channel-targeted-2016.md#version-1605-september-13)  <br/> | [Versión 1602 (compilación 6741.2071)](semi-annual-channel-2016.md#version-1602-september-13)  <br/>  [Versión 1509 (compilación 6001.1090)](semi-annual-channel-2016.md#version-1509-september-13)  <br/> |
-||6 de septiembre  <br/> |[Versión 1607 (compilación 7167.2055)](monthly-channel-2016.md#version-1607-september-6)  <br/> |  <br/> |  <br/> |  <br/> |
-||31 de agosto  <br/> |[Versión 1607 (compilación 7167.2047)](monthly-channel-2016.md#version-1607-august-31)  <br/> |  <br/> |  <br/> |  <br/> |
-||16 de agosto  <br/> |[Versión 1607 (compilación 7167.2040)](monthly-channel-2016.md#version-1607-august-16)  <br/> |  <br/> |  <br/> |  <br/> |
-||9 de agosto  <br/> |[Versión 1606 (compilación 7070.2036)](monthly-channel-2016.md#version-1606-august-9)  <br/> |  <br/> |[Versión 1605 (compilación 6965.2076)](semi-annual-channel-targeted-2016.md#version-1605-august-9)  <br/> | [Versión 1602 (compilación 6741.2063)](semi-annual-channel-2016.md#version-1602-august-9)  <br/>  [Versión 1509 (compilación 6001.1087)](semi-annual-channel-2016.md#version-1509-august-9)  <br/> |
-||26 de julio  <br/> |[Versión 1606 (compilación 7070.2033)](monthly-channel-2016.md#version-1606-july-26)  <br/> |  <br/> |  <br/> |  <br/> |
-||21 de julio  <br/> |  <br/> |  <br/> |[Versión 1605 (compilación 6965.2069)](semi-annual-channel-targeted-2016.md#version-1605-july-21)  <br/> |  <br/> |
-||20 de julio  <br/> |[Versión 1606 (compilación 7070.2028)](monthly-channel-2016.md#version-1606-july-20)  <br/> |  <br/> |  <br/> |  <br/> |
-||12 de julio  <br/> |[Versión 1606 (compilación 7070.2026)](monthly-channel-2016.md#version-1606-july-12)  <br/> |  <br/> |[Versión 1605 (compilación 6965.2066)](semi-annual-channel-targeted-2016.md#version-1605-july-12)  <br/> | [Versión 1602 (compilación 6741.2056)](semi-annual-channel-2016.md#version-1602-july-12) <br/>  [Versión 1509 (compilación 6001.1085)](semi-annual-channel-2016.md#version-1509-july-12)  <br/> |
-||5 de julio  <br/> |[Versión 1606 (compilación 7070.2022)](monthly-channel-2016.md#version-1606-july-5)  <br/> |  <br/> |  <br/> |  <br/> |
-||30 de junio  <br/> |[Versión 1605 (compilación 6965.2063)](monthly-channel-2016.md#version-1605-june-30)  <br/> |  <br/> |[Versión 1605 (compilación 6965.2063)](semi-annual-channel-targeted-2016.md#version-1605-june-30)  <br/> |  <br/> |
-||14 de junio  <br/> |[Versión 1605 (compilación 6965.2058)](monthly-channel-2016.md#version-1605-june-14)  <br/> |  <br/> |[Versión 1605 (compilación 6965.2058)](semi-annual-channel-targeted-2016.md#version-1605-june-14)  <br/> | [Versión 1602 (compilación 6741.2048)](semi-annual-channel-2016.md#version-1602-june-14)  <br/>  [Versión 1509 (compilación 6001.1082)](semi-annual-channel-2016.md#version-1509-june-14)  <br/> |
-||7 de junio  <br/> |  <br/> |  <br/> |[Versión 1602 (compilación 6741.2047)](semi-annual-channel-targeted-2016.md#version-1602-june-7)  <br/> |  <br/> |
-||6 de junio  <br/> |[Versión 1605 (compilación 6965.2053)](monthly-channel-2016.md#version-1605-june-6)  <br/> |  <br/> |  <br/> |  <br/> |
-||23 de mayo  <br/> |[Versión 1604 (compilación 6868.2067)](monthly-channel-2016.md#version-1604-may-23)  <br/> |  <br/> |[Versión 1602 (compilación 6741.2042)](semi-annual-channel-targeted-2016.md#version-1602-may-23)  <br/> |  <br/> |
-||10 de mayo  <br/> |[Versión 1604 (compilación 6868.2062)](monthly-channel-2016.md#version-1604-may-10)  <br/> |  <br/> |[Versión 1602 (compilación 6741.2037)](semi-annual-channel-targeted-2016.md#version-1602-may-10)  <br/> |[Versión 1509 (compilación 6001.1078)](semi-annual-channel-2016.md#version-1509-may-10)  <br/> |
-||4 de mayo  <br/> |[Versión 1604 (compilación 6868.2060)](monthly-channel-2016.md#version-1604-may-4)  <br/> |  <br/> |  <br/> |  <br/> |
-||3 de mayo  <br/> |  <br/> |  <br/> |[Versión 1602 (compilación 6741.2033)](semi-annual-channel-targeted-2016.md#version-1602-may-3)  <br/> |  <br/> |
-||28 de abril  <br/> |[Versión 1603 (compilación 6769.2040)](monthly-channel-2016.md#version-1603-april-28)  <br/> |  <br/> |  <br/> |  <br/> |
-||12 de abril  <br/> |[Versión 1603 (compilación 6769.2017)](monthly-channel-2016.md#version-1603-april-12)  <br/> |  <br/> |[Versión 1602 (compilación 6741.2026) ](semi-annual-channel-targeted-2016.md#version-1602-april-12) <br/> |[Versión 1509 (compilación 6001.1073)](semi-annual-channel-2016.md#version-1509-april-12)  <br/> |
-||4 de abril  <br/> |[Versión 1603 (compilación 6769.2015)](monthly-channel-2016.md#version-1603-april-4)  <br/> |  <br/> |[Versión 1602 (compilación 6741.2025)](semi-annual-channel-targeted-2016.md#version-1602-april-4)  <br/> |  <br/> |
-||24 de marzo  <br/> |[Versión 1602 (compilación 6741.2021)](monthly-channel-2016.md#version-1602-march-24)  <br/> |  <br/> |  <br/> |  <br/> |
-||23 de marzo  <br/> |  <br/> |  <br/> |[Versión 1602 (compilación 6741.2021)](semi-annual-channel-targeted-2016.md#version-1602-march-23)  <br/> |  <br/> |
-||17 de marzo  <br/> |[Versión 1602 (compilación 6741.2017)](monthly-channel-2016.md#version-1602-march-17)  <br/> |  <br/> |  <br/> |  <br/> |
-||16 de marzo  <br/> |  <br/> |  <br/> |[Versión 1602 (compilación 6741.2017)](semi-annual-channel-targeted-2016.md#version-1602-march-16)  <br/> |  <br/> |
-||14 de marzo  <br/> |  <br/> |  <br/> |[Versión 1602 (compilación 6741.2015)](semi-annual-channel-targeted-2016.md#version-1602-march-14)  <br/> |  <br/> |
-||8 de marzo  <br/> |  <br/> |  <br/> |[Versión 1602 (compilación 6741.2014)](semi-annual-channel-targeted-2016.md#version-1602-march-8)  <br/> |[Versión 1509 (compilación 6001.1068)](semi-annual-channel-2016.md#version-1509-march-8)  <br/> |
-||4 de marzo  <br/> |[Versión 1601 (compilación 6568.2036)](monthly-channel-2016.md#version-1601-march-4)  <br/> |  <br/> |  <br/> |  <br/> |
-||3 de marzo  <br/> |[Versión 1601 (compilación 6568.2034)](monthly-channel-2016.md#version-1601-march-3)  <br/> |  <br/> |  <br/> |  <br/> |
-||16 de febrero  <br/> |[Versión 1601 (compilación 6568.2025)](monthly-channel-2016.md#version-1601-february-16)  <br/> |  <br/> |  <br/> |  <br/> |
-||9 de febrero  <br/> |[Versión 1511 (compilación 6366.2068)](monthly-channel-2016.md#version-1511-february-9)  <br/> |  <br/> |[Versión 1509 (compilación 6001.1061)](semi-annual-channel-targeted-2016.md#version-1509-february-9)  <br/> |[Versión 1509 (compilación 6001.1061)](semi-annual-channel-2016.md#version-1509-february-9)  <br/> |
-||25 de enero  <br/> |[Versión 1511 (compilación 6366.2062)](monthly-channel-2016.md#version-1511-january-25)  <br/> |  <br/> |  <br/> |  <br/> |
-||12 de enero  <br/> |[Versión 1511 (compilación 6366.2056)](monthly-channel-2016.md#version-1511-january-12)  <br/> |  <br/> |[Versión 1509 (compilación 6001.1054)](semi-annual-channel-targeted-2016.md#version-1509-january-12)  <br/> |  <br/> |
+
 
 [//]: # (HISTORYTABLEEND)
 
