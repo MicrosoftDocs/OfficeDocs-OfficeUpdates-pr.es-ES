@@ -9,16 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365 en 2020
-ms.openlocfilehash: 05b0f1f990c33ae7e3e7f76971eac447c66382f2
-ms.sourcegitcommit: d4973d351666da9b360f4f83cd588e327ccbab1a
+ms.openlocfilehash: 5f7a0c255d98678baf5b868b5fd41e213e2901bc
+ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49725799"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49760684"
 ---
-# <a name="release-notes-for-current-channel-releases-in-2020"></a>Notas de la versión para las versiones del canal actual en 2020
+# <a name="release-notes-for-current-channel"></a>Notas de la versión para el canal actual
 
-Estas notas de la versión proporcionan información sobre las nuevas características y las actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones de canal actual en 2020 para las Aplicaciones de Microsoft 365 para empresas, las Aplicaciones de Microsoft 365 para negocios y las versiones de suscripción de las aplicaciones de escritorio de Project y Visio.
+Estas notas de la versión proporcionan información sobre las nuevas características y las actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones del canal actual para las Aplicaciones de Microsoft 365 para empresas, las Aplicaciones de Microsoft 365 para negocios, y las versiones de suscripción de las aplicaciones de escritorio de Project y Visio.
 
 > [!IMPORTANT]
 > Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441) para obtener más información.
@@ -32,6 +32,69 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+
+## <a name="version-2012-january-05"></a>Versión 2012: 5 de enero
+*Versión 2012 (compilación 13530.20316)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="outlook"></a>Outlook
+
+- **Su configuración de Outlook en la nube:** elija la configuración de Outlook para Windows, como Respuestas automáticas, la Bandeja de entrada Prioritarios y Privacidad, y acceda a ellos desde cualquier PC.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Ensaye su presentación con el asesor para moderadores:** obtenga comentarios sobre las cosas que ayuden a mantener a un público comprometido, como el ritmo, el tono, las palabras de relleno, las frases sensibles y más. [Más información](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema que provocaba que Excel se cerrara de manera inesperada al usar el menú "Mostrar valores como" para una tabla dinámica.
+
+
+- Se ha corregido un problema que provocaba que Excel dejara macros deshabilitadas sin preguntar al abrir archivos de complemento de Excel que contuvieran macros Excel 4.0.
+
+
+- Se ha corregido un problema que provocaba que algunos usuarios vieran incorrectamente una barra de mensajes que les informaba acerca de una nueva versión de un archivo durante la coautoría.
+
+
+- Este cambio soluciona un problema que impedía mostrar correctamente las fuentes en ecuaciones.
+
+
+### <a name="outlook"></a>Outlook
+
+- Se ha arreglado un problema que causaba que algunos clientes experimentaran un cuelgue mientras cargaban sus calendarios.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Este cambio resuelve un problema con el relleno de rutas al aplicar las operaciones de Combinar formas con determinadas geometrías.
+
+
+- Este cambio soluciona un problema que impedía mostrar correctamente fuentes en ecuaciones.
+
+
+- Se ha corregido un problema que provocaba que el comando tamaño de fuente, agregado a la barra de herramientas de acceso rápido, se completara automáticamente al tamaño de fuente definido más cercano al actualizarse.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Tamaño binario optimizado.
+
+
+- Anaheim WebView aún no es compatible con Windows Information Protection. Con esta corrección, la plataforma de complementos de Office retrocede al nivel inferior de WebView en un entorno habilitado para WIP. Según el entorno de máquina del cliente, esto puede ser Edge Spartan WebView o Trident WebView. Las vistas previas de nivel inferior son compatibles con WIP.
 
 
 
@@ -253,7 +316,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 
 
-[//]: # (NO QUITAR LOS DETALLES DE ERROR DE CONTENIDO DEL FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2010-november-10"></a>Versión 2010: 10 de noviembre
 *Versión 2010 (compilación 13328.20356)*
@@ -1134,7 +1197,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Usar automáticamente los nuevos tipos de datos**: al digitar un valor de datos que se asemeja a una ubicación geográfica o cotización, Excel ofrece la posibilidad de convertirlo en el tipo de datos conectado apropiado (cotizaciones o geografía). [Más información](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
 
-- **Cuente sus historias con GIF animados:** los GIF animados ahora son compatibles con el editor de Office: sus documentos han pasado a ser más llamativos.
+- **Cuente sus historias con GIF animados:** los GIF animados ahora son compatibles con el editor de Office: sus documentos ahora son más elegantes.
 
 ### <a name="outlook"></a>Outlook
 
@@ -1753,6 +1816,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 > Si necesita ayuda con algún problema de uso de Office, le recomendamos que publique la pregunta en el [foro de preguntas de Microsoft](https://answers.microsoft.com/) o [Tech Community](https://techcommunity.microsoft.com/), o bien puede ponerse en contacto con el [servicio de soporte técnico](https://support.microsoft.com/contactus).
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|CC|Producción| |16.0.13530.20316|versión-05-enero-2012|)
 [//]: # (|Win32|CC|Producción| |16.0.13426.20404|versión-21-diciembre-2011|)
 [//]: # (| Win32 | CC | Producción | | 16.0.13426.20332 | versión-08-diciembre-2011 |)
 [//]: # (| Win32 | CC | Producción | | 16.0.13426.20308 | versión-02-diciembre-2011 |)
@@ -1762,5 +1826,4 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 [//]: # (|Win32|CC|Producción| |16.0.13328.20356|versión-10-noviembre-2010|)
 [//]: # (|Win32|CC|Production| |16.0.13328.20292|versión-27-octubre-2010|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20418|versión-2009-21-octubre|)
-[//]: # (|Win32|CC|Production| |16.0.13231.20390|versión-2009-13-octubre|)
 [//]: # (NO MODIFICAR FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)

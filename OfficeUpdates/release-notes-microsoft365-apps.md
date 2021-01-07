@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista de las últimas versiones de las Aplicaciones de Microsoft 365 para cada canal de actualización y vínculos a notas de la versión y el historial de actualizaciones.
-ms.openlocfilehash: 6050fdcd08ffcfcde37b0f79886079dc38ddc790
-ms.sourcegitcommit: f0d1cbcbb5b9e5077dc21b7de9b2146b9e4c530c
+ms.openlocfilehash: dfba017d577f874222fd6d9cde05088820a7bf90
+ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49748238"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49760644"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Información de publicación de actualizaciones para Aplicaciones de Microsoft 365
 
@@ -45,10 +45,10 @@ Para obtener una lista completa de los tamaños de versiones de actualizaciones,
 ## <a name="release-notes-for-microsoft-365-apps-releases"></a>Notas de la versión para las versiones de las Aplicaciones de Microsoft 365
 
 Para obtener una lista completa de notas de la versión por canal y año de la actualización, vea los siguientes artículos:
- - Canal actual: [2021-2020](current-channel.md), [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md)
- - Canal empresarial mensual: [2021-2020](monthly-enterprise-channel.md)
- - Empresarial semianual (versión preliminar): [2021-2020](semi-annual-enterprise-channel-preview.md), [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md)
- - Empresarial Semianual: [2021-2020](semi-annual-enterprise-channel.md), [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md)
+ - Canal actual: [Notas de la versión](current-channel.md), [Notas de la versión archivadas](monthly-channel-archived.md)
+ - Canal mensual para empresas: [Notas de la versión](monthly-enterprise-channel.md)
+ - Semestral para empresas (vista previa): [Notas de la versión](semi-annual-enterprise-channel-preview.md), [Notas de la versión archivadas](semi-annual-enterprise-channel-preview-archived.md)
+ - Semestral para empresas: [Notas de la versión](semi-annual-enterprise-channel.md), [Notas de la versión archivadas](semi-annual-enterprise-channel-archived.md)
 
  ## <a name="release-history-for-office-deployment-tool"></a>Historial de versiones de la Herramienta de implementación de Office
  Para obtener una lista completa de las versiones de la Herramienta de implementación de Office, vea el artículo siguiente:

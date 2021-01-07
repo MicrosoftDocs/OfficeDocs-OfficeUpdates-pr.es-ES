@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista completa de las versiones de las Aplicaciones de Microsoft 365, organizada por fecha, con vínculos a las notas de la versión.
-ms.openlocfilehash: cffc6cc2083d3afe5ce79e96ab9fa89a001bd18c
-ms.sourcegitcommit: f0d1cbcbb5b9e5077dc21b7de9b2146b9e4c530c
+ms.openlocfilehash: 9bc0ae1c12110b0813e9cba587a5c9d2d0968bcc
+ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49748248"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49760694"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Historial de actualizaciones de Aplicaciones de Microsoft 365 (ordenado por fecha)
 
@@ -36,7 +36,7 @@ En la tabla siguiente se muestra la versión compatible y el número de compilac
 
 |**Canal**|**Versión**|**Compilación**|**Fecha de publicación**|**Versión admitida hasta**|
 |:-----|:-----|:-----|:-----|:-----|
-|Canal actual<br/>|2011<br/>|13426.20404<br/>|21 de diciembre de 2020<br/>|Lanzamiento de la versión 2012<br/>|
+|Canal actual<br/>|2012<br/>|13530.20316<br/>|5 de enero de 2021<br/>|Lanzamiento de la versión 2101<br/>|
 |Canal empresarial mensual<br/>|2010<br/>|13328.20478<br/>|8 de diciembre de 2020<br/>|9 de febrero de 2021<br/>|
 |Canal empresarial mensual<br/>|2009<br/>|13231.20620<br/>|8 de diciembre de 2020<br/>|12 de enero de 2021<br/>|
 |Canal empresarial semestral (vista previa)<br/>|2008<br/>|13127.20910<br/>|8 de diciembre de 2020<br/>|9 de marzo de 2021<br/>|
@@ -55,6 +55,7 @@ La siguiente tabla proporciona una lista de los números de versión y compilaci
 
 |**Year**|**Fecha de publicación**|**Canal actual**|**Canal empresarial mensual**|**Canal empresarial semestral (vista previa)**|**Canal empresarial semestral**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2021|5 de enero|[Versión 2012 (compilación 13530.20316)](current-channel.md#version-2012-january-05)| | | |
 |2020|21 de diciembre|[Versión 2011 (compilación 13426.20404)](current-channel.md#version-2011-december-21)| | | |
 |2020|8 de diciembre|[Versión 2011 (compilación 13426.20332)](current-channel.md#version-2011-december-08)|[Versión 2010 (compilación 13328.20478)](monthly-enterprise-channel.md#version-2010-december-08)<br/>[Versión 2009 (compilación 13231.20620)](monthly-enterprise-channel.md#version-2009-december-08)|[Versión 2008 (compilación 13127.20910)](semi-annual-enterprise-channel-preview.md#version-2008-december-08)|[Versión 2002 (compilación 12527.21416)](semi-annual-enterprise-channel.md#version-2002-december-08)<br/>[Versión 1908 (compilación 11929.20984)](semi-annual-enterprise-channel.md#version-1908-december-08)|
 |2020|02 de diciembre|[Versión 2011 (compilación 13426.20308)](current-channel.md#version-2011-december-02)| | | |
@@ -97,44 +98,44 @@ La siguiente tabla proporciona una lista de los números de versión y compilaci
 |2020|22 de enero|[Versión 1912 (Compilación 12325.20344)](current-channel.md#version-1912-january-22)| | | |
 |2020|14 de enero|[Versión 1912 (compilación 12325.20298)](current-channel.md#version-1912-january-14)| |[Versión 1908 (compilación 11929.20562)](semi-annual-enterprise-channel-preview.md#version-1908-january-14)|[Versión 1908 (compilación 11929.20562)](semi-annual-enterprise-channel.md#version-1908-january-14)<br/>[Versión 1902 (compilación 11328.20512)](semi-annual-enterprise-channel.md#version-1902-january-14)<br/>[Versión 1808 (compilación 10730.20432)](semi-annual-enterprise-channel.md#version-1808-january-14)|
 |2020|8 de enero|[Versión 1912 (compilación 12325.20288)](current-channel.md#version-1912-january-08)| | | |
-|2019|10 de diciembre|[Versión 1911 (compilación 12228.20364)](monthly-channel-2019.md#version-1911-december-10)| |[Versión 1908 (compilación 11929.20516)](semi-annual-channel-2019.md#version-1902-december-10)  |[Versión 1902 (compilación 11328.20492)](semi-annual-channel-2019.md#version-1902-december-10)<br/>[Versión 1808 (compilación 10730.20426)](semi-annual-channel-2019.md#version-1808-december-10)|
-|2019|3 de diciembre |[Versión 1911 (compilación 12228.20332)](monthly-channel-2019.md#version-1911-december-03)| | | |
-|2019|22 de noviembre|[Versión 1910 (compilación 12130.20410)](monthly-channel-2019.md#version-1910-november-22)| |[Versión 1908 (compilación 11929.20494)](semi-annual-channel-targeted-2019.md#version-1908-november-22)|[Versión 1902 (compilación 11328.20480)](semi-annual-channel-2019.md#version-1902-november-22)<br/>[Versión 1808 (compilación 10730.20422)](semi-annual-channel-2019.md#version-1808-november-22)|
-|2019|18 de noviembre|[Versión 1910 (compilación 12130.20390)](monthly-channel-2019.md#version-1910-november-18)| | | |
-|2019|12 de noviembre|[Versión 1910 (compilación 12130.20344)](monthly-channel-2019.md#version-1910-november-12) | |[Versión 1908 (compilación 11929.20436)](semi-annual-channel-targeted-2019.md#version-1908-november-12)|[Versión 1902 (compilación 11328.20468)](semi-annual-channel-2019.md#version-1902-november-12)<br/>[Versión 1808 (compilación 10730.20416)](semi-annual-channel-2019.md#version-1808-november-12)|
-|2019|30 de octubre|[Versión 1910 (compilación 12130.20272)](monthly-channel-2019.md#version-1910-october-30)| | | |
-|2019|22 de octubre|[Versión 1909 (compilación 12026.20344)](monthly-channel-2019.md#version-1909-october-22)| | | |
-|2019|14 de octubre|[Versión 1909 (compilación 12026.20334)](monthly-channel-2019.md#version-1909-october-14)| |[Versión 1908 (compilación 11929.20396)](semi-annual-channel-targeted-2019.md#version-1908-october-14)| |
-|2019|8 de octubre|[Versión 1909 (compilación 12026.20320)](monthly-channel-2019.md#version-1909-october-08)| |[Versión 1908 (compilación 11929.20388)](semi-annual-channel-targeted-2019.md#version-1908-october-08)|[Versión 1902 (compilación 11328.20438)](semi-annual-channel-2019.md#version-1902-october-08)<br/>[Versión 1808 (compilación 10730.20386)](semi-annual-channel-2019.md#version-1808-october-08)|
-|2019|30 de septiembre|[Versión 1909 (compilación 12026.20264)](monthly-channel-2019.md#version-1909-september-30)| | | |
-|2019|10 de septiembre|[Versión 1908 (compilación 11929.20300)](monthly-channel-2019.md#version-1908-september-10)| |[Versión 1908 (compilación 11929.20300)](semi-annual-channel-targeted-2019.md#version-1908-september-10)|[Versión 1902 (compilación 11328.20420)](semi-annual-channel-2019.md#version-1902-september-10)<br/>[Versión 1808 (compilación 10730.20380)](semi-annual-channel-2019.md#version-1808-september-10)|
-|2019|26 de agosto|[Versión 1908 (compilación 11929.20254)](monthly-channel-2019.md#version-1908-august-26)| | | |
-|2019|13 de agosto|[Versión 1907 (compilación 11901.20218)](monthly-channel-2019.md#version-1907-august-13)| |[Versión 1902 (compilación 11328.20392)](semi-annual-channel-targeted-2019.md#version-1902-august-13)|[Versión 1902 (compilación 11328.20392)](semi-annual-channel-2019.md#version-1902-august-13)<br/>[Versión 1808 (compilación 10730.20370)](semi-annual-channel-2019.md#version-1808-august-13)<br/>[Versión 1803 (compilación 9126.2432)](semi-annual-channel-2019.md#version-1803-august-13)|
-|2019|29 de julio|[Versión 1907 (compilación 11901.20176)](monthly-channel-2019.md#version-1907-july-29)| | | |
-|2019|9 de julio|[Versión 1906 (compilación 11727.20244)](monthly-channel-2019.md#version-1906-july-09)| |[Versión 1902 (compilación 11328.20368)](semi-annual-channel-targeted-2019.md#version-1902-july-09)|[Versión 1902 (compilación 11328.20368)](semi-annual-channel-2019.md#version-1902-july-09)<br/>[Versión 1808 (compilación 10730.20360)](semi-annual-channel-2019.md#version-1808-july-09)<br/>[Versión 1803 (compilación 9126.2428)](semi-annual-channel-2019.md#version-1803-july-09)|
-|2019|27 de junio|[Versión 1906 (compilación 11727.20230)](monthly-channel-2019.md#version-1906-june-27)| | | |
-|2019|26 de junio|[Versión 1906 (compilación 11727.20224)](monthly-channel-2019.md#version-1906-june-26)| | | |
-|2019|24 de junio|[Versión 1906 (compilación 11727.20210)](monthly-channel-2019.md#version-1906-june-24)| | | |
-|2019|11 de junio|[Versión 1905 (compilación 11629.20246)](monthly-channel-2019.md#version-1905-june-11)| |[Versión 1902 (compilación 11328.20318)](semi-annual-channel-targeted-2019.md#version-1902-june-11)|[Versión 1808 (compilación 10730.20348)](semi-annual-channel-2019.md#version-1808-june-11)<br/>[Versión 1803 (compilación 9126.2388)](semi-annual-channel-2019.md#version-1803-june-11)|
-|2019|3 de junio |[Versión 1905 (compilación 11629.20214)](monthly-channel-2019.md#version-1905-june-3)| | | |
-|2019|29 de mayo |[Versión 1905 (compilación 11629.20196)](monthly-channel-2019.md#version-1905-may-29)| | | |
-|2019|22 de mayo |[Versión 1904 (compilación 11601.20230)](monthly-channel-2019.md#version-1904-may-22)| | | |
-|2019|14 de mayo |[Versión 1904 (compilación 11601.20204)](monthly-channel-2019.md#version-1904-may-14)| |[Versión 1902 (compilación 11328.20286)](semi-annual-channel-targeted-2019.md#version-1902-may-14) |[Versión 1808 (compilación 10730.20344)](semi-annual-channel-2019.md#version-1808-may-14)  <br/>  [Versión 1803 (compilación 9126.2387)](semi-annual-channel-2019.md#version-1803-may-14) |
-|2019|8 de mayo |[Versión 1904 (Compilación 11601.20178)](monthly-channel-2019.md#version-1904-may-8)| | | |
-|2019|Abril 29 |[Versión 1904 (compilación 11601.20144)](monthly-channel-2019.md#version-1904-april-29)| | | |
-|2019|23 de abril |[Versión 1903 (compilación 11425.20244)](monthly-channel-2019.md#version-1903-april-23)| | | |
-|2019|17 de abril |[Versión 1903 (compilación 11425.20228)](monthly-channel-2019.md#version-1903-april-17)| | | |
-|2019|16 de abril |[Versión 1903 (compilación 11425.20218)](monthly-channel-2019.md#version-1903-april-16)| | | |
-|2019|9 de abril |[Versión 1903 (compilación 11425.20204)](monthly-channel-2019.md#version-1903-april-9)| |[Versión 1902 (compilación 11328.20230)](semi-annual-channel-targeted-2019.md#version-1902-april-9) |[Versión 1808 (compilación 10730.20334)](semi-annual-channel-2019.md#version-1808-april-9)  <br/>  [Versión 1803 (compilación 9126.2382)](semi-annual-channel-2019.md#version-1803-april-9) |
-|2019|1 de abril |[Versión 1903 (compilación 11425.20202)](monthly-channel-2019.md#version-1903-april-01)| | | |
-|2019|25 de marzo |[Versión 1902 (compilación 11328.20222)](monthly-channel-2019.md#version-1902-march-25)| | | |
-|2019|12 de marzo |[Versión 1902 (compilación 11328.20158)](monthly-channel-2019.md#version-1902-march-12)| |[Versión 1902 (compilación 11328.20158)](semi-annual-channel-targeted-2019.md#version-1902-march-12) |[Versión 1808 (compilación 10730.20304)](semi-annual-channel-2019.md#version-1808-march-12)  <br/> | |
-|2019|4 de marzo  |[Versión 1902 (compilación 11328.20146)](monthly-channel-2019.md#version-1902-march-4)| | | |
-|2019|12 de febrero |[Versión 1901 (compilación 11231.20174)](monthly-channel-2019.md#version-1901-february-12)| |[Versión 1808 (compilación 10730.20280)](semi-annual-channel-targeted-2019.md#version-1808-february-12) |[Versión 1808 (compilación 10730.20280)](semi-annual-channel-2019.md#version-1808-february-12)  <br/>  [Versión 1803 (compilación 9126.2356)](semi-annual-channel-2019.md#version-1803-february-12)  <br/> [Versión 1708 (compilación 8431.2372)](office365-proplus-security-updates.md#february-12-2019) |
-|2019|31 de enero   |[Versión 1901 (compilación 11231.20130)](monthly-channel-2019.md#version-1901-january-31)| | | |
-|2019|14 de enero   |[Versión 1812 (compilación 11126.20266)](monthly-channel-2019.md#version-1812-january-14)| | | |
-|2019|8 de enero |[Versión 1812 (compilación 11126.20196)](monthly-channel-2019.md#version-1812-january-8)| |[Versión 1808 (compilación 10730.20264)](semi-annual-channel-targeted-2019.md#version-1808-january-8) |[Versión 1808 (compilación 10730.20264)](semi-annual-channel-2019.md#version-1808-january-8)  <br/>  [Versión 1803 (compilación 9126.2351)](semi-annual-channel-2019.md#version-1803-january-8)  <br/> [Versión 1708 (compilación 8431.2366)](office365-proplus-security-updates.md#january-8-2019) |
-|2019|3 de enero   |[Versión 1812 (compilación 11126.20188)](monthly-channel-2019.md#version-1812-january-3)| | | |
+|2019|10 de diciembre|[Versión 1911 (compilación 12228.20364)](monthly-channel-archived.md#version-1911-december-10)| |[Versión 1908 (compilación 11929.20516)](semi-annual-enterprise-channel-archived.md#version-1902-december-10)  |[Versión 1902 (compilación 11328.20492)](semi-annual-enterprise-channel-archived.md#version-1902-december-10)<br/>[Versión 1808 (compilación 10730.20426)](semi-annual-enterprise-channel-archived.md#version-1808-december-10)|
+|2019|3 de diciembre |[Versión 1911 (compilación 12228.20332)](monthly-channel-archived.md#version-1911-december-03)| | | |
+|2019|22 de noviembre|[Versión 1910 (compilación 12130.20410)](monthly-channel-archived.md#version-1910-november-22)| |[Versión 1908 (compilación 11929.20494)](semi-annual-enterprise-channel-preview-archived.md#version-1908-november-22)|[Versión 1902 (compilación 11328.20480)](semi-annual-enterprise-channel-archived.md#version-1902-november-22)<br/>[Versión 1808 (compilación 10730.20422)](semi-annual-enterprise-channel-archived.md#version-1808-november-22)|
+|2019|18 de noviembre|[Versión 1910 (compilación 12130.20390)](monthly-channel-archived.md#version-1910-november-18)| | | |
+|2019|12 de noviembre|[Versión 1910 (compilación 12130.20344)](monthly-channel-archived.md#version-1910-november-12) | |[Versión 1908 (compilación 11929.20436)](semi-annual-enterprise-channel-preview-archived.md#version-1908-november-12)|[Versión 1902 (compilación 11328.20468)](semi-annual-enterprise-channel-archived.md#version-1902-november-12)<br/>[Versión 1808 (compilación 10730.20416)](semi-annual-enterprise-channel-archived.md#version-1808-november-12)|
+|2019|30 de octubre|[Versión 1910 (compilación 12130.20272)](monthly-channel-archived.md#version-1910-october-30)| | | |
+|2019|22 de octubre|[Versión 1909 (compilación 12026.20344)](monthly-channel-archived.md#version-1909-october-22)| | | |
+|2019|14 de octubre|[Versión 1909 (compilación 12026.20334)](monthly-channel-archived.md#version-1909-october-14)| |[Versión 1908 (compilación 11929.20396)](semi-annual-enterprise-channel-preview-archived.md#version-1908-october-14)| |
+|2019|8 de octubre|[Versión 1909 (compilación 12026.20320)](monthly-channel-archived.md#version-1909-october-08)| |[Versión 1908 (compilación 11929.20388)](semi-annual-enterprise-channel-preview-archived.md#version-1908-october-08)|[Versión 1902 (compilación 11328.20438)](semi-annual-enterprise-channel-archived.md#version-1902-october-08)<br/>[Versión 1808 (compilación 10730.20386)](semi-annual-enterprise-channel-archived.md#version-1808-october-08)|
+|2019|30 de septiembre|[Versión 1909 (compilación 12026.20264)](monthly-channel-archived.md#version-1909-september-30)| | | |
+|2019|10 de septiembre|[Versión 1908 (compilación 11929.20300)](monthly-channel-archived.md#version-1908-september-10)| |[Versión 1908 (compilación 11929.20300)](semi-annual-enterprise-channel-preview-archived.md#version-1908-september-10)|[Versión 1902 (compilación 11328.20420)](semi-annual-enterprise-channel-archived.md#version-1902-september-10)<br/>[Versión 1808 (compilación 10730.20380)](semi-annual-enterprise-channel-archived.md#version-1808-september-10)|
+|2019|26 de agosto|[Versión 1908 (compilación 11929.20254)](monthly-channel-archived.md#version-1908-august-26)| | | |
+|2019|13 de agosto|[Versión 1907 (compilación 11901.20218)](monthly-channel-archived.md#version-1907-august-13)| |[Versión 1902 (compilación 11328.20392)](semi-annual-enterprise-channel-preview-archived.md#version-1902-august-13)|[Versión 1902 (compilación 11328.20392)](semi-annual-enterprise-channel-archived.md#version-1902-august-13)<br/>[Versión 1808 (compilación 10730.20370)](semi-annual-enterprise-channel-archived.md#version-1808-august-13)<br/>[Versión 1803 (compilación 9126.2432)](semi-annual-enterprise-channel-archived.md#version-1803-august-13)|
+|2019|29 de julio|[Versión 1907 (compilación 11901.20176)](monthly-channel-archived.md#version-1907-july-29)| | | |
+|2019|9 de julio|[Versión 1906 (compilación 11727.20244)](monthly-channel-archived.md#version-1906-july-09)| |[Versión 1902 (compilación 11328.20368)](semi-annual-enterprise-channel-preview-archived.md#version-1902-july-09)|[Versión 1902 (compilación 11328.20368)](semi-annual-enterprise-channel-archived.md#version-1902-july-09)<br/>[Versión 1808 (compilación 10730.20360)](semi-annual-enterprise-channel-archived.md#version-1808-july-09)<br/>[Versión 1803 (compilación 9126.2428)](semi-annual-enterprise-channel-archived.md#version-1803-july-09)|
+|2019|27 de junio|[Versión 1906 (compilación 11727.20230)](monthly-channel-archived.md#version-1906-june-27)| | | |
+|2019|26 de junio|[Versión 1906 (compilación 11727.20224)](monthly-channel-archived.md#version-1906-june-26)| | | |
+|2019|24 de junio|[Versión 1906 (compilación 11727.20210)](monthly-channel-archived.md#version-1906-june-24)| | | |
+|2019|11 de junio|[Versión 1905 (compilación 11629.20246)](monthly-channel-archived.md#version-1905-june-11)| |[Versión 1902 (compilación 11328.20318)](semi-annual-enterprise-channel-preview-archived.md#version-1902-june-11)|[Versión 1808 (compilación 10730.20348)](semi-annual-enterprise-channel-archived.md#version-1808-june-11)<br/>[Versión 1803 (compilación 9126.2388)](semi-annual-enterprise-channel-archived.md#version-1803-june-11)|
+|2019|3 de junio |[Versión 1905 (compilación 11629.20214)](monthly-channel-archived.md#version-1905-june-3)| | | |
+|2019|29 de mayo |[Versión 1905 (compilación 11629.20196)](monthly-channel-archived.md#version-1905-may-29)| | | |
+|2019|22 de mayo |[Versión 1904 (compilación 11601.20230)](monthly-channel-archived.md#version-1904-may-22)| | | |
+|2019|14 de mayo |[Versión 1904 (compilación 11601.20204)](monthly-channel-archived.md#version-1904-may-14)| |[Versión 1902 (compilación 11328.20286)](semi-annual-enterprise-channel-preview-archived.md#version-1902-may-14) |[Versión 1808 (compilación 10730.20344)](semi-annual-enterprise-channel-archived.md#version-1808-may-14)  <br/>  [Versión 1803 (compilación 9126.2387)](semi-annual-enterprise-channel-archived.md#version-1803-may-14) |
+|2019|8 de mayo |[Versión 1904 (Compilación 11601.20178)](monthly-channel-archived.md#version-1904-may-8)| | | |
+|2019|Abril 29 |[Versión 1904 (compilación 11601.20144)](monthly-channel-archived.md#version-1904-april-29)| | | |
+|2019|23 de abril |[Versión 1903 (compilación 11425.20244)](monthly-channel-archived.md#version-1903-april-23)| | | |
+|2019|17 de abril |[Versión 1903 (compilación 11425.20228)](monthly-channel-archived.md#version-1903-april-17)| | | |
+|2019|16 de abril |[Versión 1903 (compilación 11425.20218)](monthly-channel-archived.md#version-1903-april-16)| | | |
+|2019|9 de abril |[Versión 1903 (compilación 11425.20204)](monthly-channel-archived.md#version-1903-april-9)| |[Versión 1902 (compilación 11328.20230)](semi-annual-enterprise-channel-preview-archived.md#version-1902-april-9) |[Versión 1808 (compilación 10730.20334)](semi-annual-enterprise-channel-archived.md#version-1808-april-9)  <br/>  [Versión 1803 (compilación 9126.2382)](semi-annual-enterprise-channel-archived.md#version-1803-april-9) |
+|2019|1 de abril |[Versión 1903 (compilación 11425.20202)](monthly-channel-archived.md#version-1903-april-01)| | | |
+|2019|25 de marzo |[Versión 1902 (compilación 11328.20222)](monthly-channel-archived.md#version-1902-march-25)| | | |
+|2019|12 de marzo |[Versión 1902 (compilación 11328.20158)](monthly-channel-archived.md#version-1902-march-12)| |[Versión 1902 (compilación 11328.20158)](semi-annual-enterprise-channel-preview-archived.md#version-1902-march-12) |[Versión 1808 (compilación 10730.20304)](semi-annual-enterprise-channel-archived.md#version-1808-march-12)  <br/> | |
+|2019|4 de marzo  |[Versión 1902 (compilación 11328.20146)](monthly-channel-archived.md#version-1902-march-4)| | | |
+|2019|12 de febrero |[Versión 1901 (compilación 11231.20174)](monthly-channel-archived.md#version-1901-february-12)| |[Versión 1808 (compilación 10730.20280)](semi-annual-enterprise-channel-preview-archived.md#version-1808-february-12) |[Versión 1808 (compilación 10730.20280)](semi-annual-enterprise-channel-archived.md#version-1808-february-12)  <br/>  [Versión 1803 (compilación 9126.2356)](semi-annual-enterprise-channel-archived.md#version-1803-february-12)  <br/> [Versión 1708 (compilación 8431.2372)](office365-proplus-security-updates.md#february-12-2019) |
+|2019|31 de enero   |[Versión 1901 (compilación 11231.20130)](monthly-channel-archived.md#version-1901-january-31)| | | |
+|2019|14 de enero   |[Versión 1812 (compilación 11126.20266)](monthly-channel-archived.md#version-1812-january-14)| | | |
+|2019|8 de enero |[Versión 1812 (compilación 11126.20196)](monthly-channel-archived.md#version-1812-january-8)| |[Versión 1808 (compilación 10730.20264)](semi-annual-enterprise-channel-preview-archived.md#version-1808-january-8) |[Versión 1808 (compilación 10730.20264)](semi-annual-enterprise-channel-archived.md#version-1808-january-8)  <br/>  [Versión 1803 (compilación 9126.2351)](semi-annual-enterprise-channel-archived.md#version-1803-january-8)  <br/> [Versión 1708 (compilación 8431.2366)](office365-proplus-security-updates.md#january-8-2019) |
+|2019|3 de enero   |[Versión 1812 (compilación 11126.20188)](monthly-channel-archived.md#version-1812-january-3)| | | |
 |2018|11 de diciembre |[Versión 1811 (compilación 11029.20108)](monthly-channel-2018.md#version-1811-december-11)| |[Versión 1808 (compilación 10730.20262)](semi-annual-channel-targeted-2018.md#version-1808-december-11) |[Versión 1803 (compilación 9126.2336)](semi-annual-channel-2018.md#version-1803-december-11)  <br/>  [Versión 1708 (compilación 8431.2351)](semi-annual-channel-2018.md#version-1708-december-11)   |
 |2018|27 de noviembre   |[Versión 1811 (compilación 11029.20079)](monthly-channel-2018.md#version-1811-november-27)| | | |
 |2018|13 de noviembre |[Versión 1810 (compilación 11001.20108)](monthly-channel-2018.md#version-1810-november-13)| |[Versión 1808 (compilación 10730.20205)](semi-annual-channel-targeted-2018.md#version-1808-november-13) |[Versión 1803 (compilación 9126.2315)](semi-annual-channel-2018.md#version-1803-november-13)  <br/>  [Versión 1708 (compilación 8431.2329)](semi-annual-channel-2018.md#version-1708-november-13)   |
@@ -211,7 +212,6 @@ La siguiente tabla proporciona una lista de los números de versión y compilaci
 ||25 de enero  <br/> | [Versión 1612 (compilación 7668.2066)](monthly-channel-2017.md#version-1612-january-25)  <br/> |  <br/> |  <br/> |  <br/> |
 ||10 de enero  <br/> |  <br/> |  <br/> | [Versión 1609 (compilación 7369.2102)](semi-annual-channel-targeted-2017.md#version-1609-january-10)  <br/> | [Versión 1605 (compilación 6965.2117)](semi-annual-channel-2017.md#version-1605-january-10)  <br/>  [Versión 1602 (compilación 6741.2105)](semi-annual-channel-2017.md#version-1602-january-10)  <br/> |
 ||4 de enero  <br/> | [Versión 1611 (compilación 7571.2109)](monthly-channel-2017.md#version-1611-january-4)  <br/> |  <br/> |  <br/> |  <br/> |
-
 
 [//]: # (HISTORYTABLEEND)
 
