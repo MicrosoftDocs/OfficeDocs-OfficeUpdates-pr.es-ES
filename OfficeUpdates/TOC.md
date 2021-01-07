@@ -6,20 +6,20 @@
 
 ## Canal actual
 ### [Notas de la versión](current-channel.md)
-### [Notas archivadas de la versión ](monthly-channel-2019.md)
+### [Notas archivadas de la versión ](monthly-channel-archived.md)
 
 ## Canal empresarial mensual
 ### [Notas de la versión](monthly-enterprise-channel.md)
 
 ## Canal semestral para empresas
 ### [Notas de la versión](semi-annual-enterprise-channel.md)
-### [Notas archivadas de la versión ](semi-annual-channel-2019.md)
+### [Notas archivadas de la versión ](semi-annual-enterprise-channel-archived.md)
 
 
 
 ## Canal semestral para empresas (vista previa)
 ### [Notas de la versión](semi-annual-enterprise-channel-preview.md)
-### [Notas archivadas de la versión ](semi-annual-channel-targeted-2019.md)
+### [Notas archivadas de la versión ](semi-annual-enterprise-channel-preview-archived.md)
 
 
 
