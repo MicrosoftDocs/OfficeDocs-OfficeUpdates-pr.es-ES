@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista de las últimas versiones de las Aplicaciones de Microsoft 365 para cada canal de actualización y vínculos a notas de la versión y el historial de actualizaciones.
-ms.openlocfilehash: dfba017d577f874222fd6d9cde05088820a7bf90
-ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
+ms.openlocfilehash: 40c9a96422c9e608e6b847fbe4e2d220f4f407ab
+ms.sourcegitcommit: 1404eb977e0bc5d5de5a89c713eae9f32fdc877f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49760644"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49780685"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Información de publicación de actualizaciones para Aplicaciones de Microsoft 365
 
@@ -64,12 +64,12 @@ Para obtener más información sobre las actualizaciones de Office para Mac, que
 
 ## <a name="related-topics"></a>Temas relacionados
 
-- [Información general sobre los canales de actualización de Aplicaciones de Microsoft 365](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
+- [Información general sobre los canales de actualización de Aplicaciones de Microsoft 365](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 - [Implementación de Office](https://docs.microsoft.com/deployoffice/)
 - [Novedades de Aplicaciones de Microsoft 365](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
 - [Guía básica de Aplicaciones de Microsoft 365](https://products.office.com/business/office-365-roadmap)
 - [Información general sobre el centro de mensajes de Aplicaciones de Microsoft 365](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
-- [Información sobre la versión de Windows 10](https://www.microsoft.com/itpro/windows-10/release-information)
+- [Información sobre la versión de Windows 10](https://aka.ms/windows/releaseinfo)
 - [Guía de actualización de seguridad de Microsoft](https://portal.msrc.microsoft.com/)
 
 > [!NOTE]
