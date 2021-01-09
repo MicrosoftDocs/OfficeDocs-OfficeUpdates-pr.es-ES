@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporcionar a los participantes del Modo aplazado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos
-ms.openlocfilehash: 7e328c89e2aae647ced22808720a1bcfdf906f79
-ms.sourcegitcommit: aae2d2bcce3ea8a26226062f0ad695d80587db11
+ms.openlocfilehash: 5c14b7c5e42d76034712a07789bce366b69d1543
+ms.sourcegitcommit: 1404eb977e0bc5d5de5a89c713eae9f32fdc877f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49750631"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49780688"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notas de la versión del canal actual de Office (versión preliminar)
 
@@ -28,6 +28,151 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 > - Las características de Microsoft Teams pueden diferir de la última versión preliminar del Canal actual publicada ya que tienen una cadencia de publicación más frecuente.
 
 [//]: # (NO ELIMINAR)
+
+## <a name="version-2101-january-07"></a>Versión 2101: 7 de enero
+*Versión 2101 (compilación 13628.20030)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Mostrar varias hojas de cálculo al mismo tiempo:** no es necesario que se muestren las hojas de una en una, ya que se pueden mostrar varias hojas ocultas al mismo tiempo. [Más información](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+
+- **Cuadros de diálogo de formato condicional mejorados:** Los diálogos de formato condicional ahora son de tamaño ajustable y se puede duplicar la regla con un solo clic. [Más información](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema por el que Excel mostraba de forma incorrecta una barra de mensajes donde se indicaba que estaba disponible una nueva versión del archivo y obligaba al usuario a descartar los cambios o guardarlos en una copia del libro.
+
+
+- Se ha corregido un problema con los separadores de conmutación después de Selection.Parent.Copy.
+
+
+- Se realizó una mejora de rendimiento al aplicar estilos de formato a las tablas dinámicas.
+
+
+- Se ha corregido un problema que provocaba que Excel dejara macros deshabilitadas sin preguntar al abrir archivos de complemento de Excel que contuvieran macros Excel 4.0.
+
+
+- Actualización para que la configuración de los separadores decimales y de millares se mantenga al copiar un gráfico de Excel y pegarlo en Word.
+
+
+- Se ha corregido un problema por el que Excel se cerraba inesperadamente al abrir archivos UNC con atributos de archivo no válidos (hora de creación, fecha de modificación, etc.).
+
+
+- Se ha corregido un problema que podría provocar una alerta de "recursos insuficientes" al usar la función STOCKHISTORY.
+
+
+- Se ha agregado una DLL FuzzyClustering a la lista de DLL PQ.
+
+
+- Este cambio resuelve un problema relacionado con la modificación de los colores del contorno de imágenes SVG.
+
+
+- Se ha corregido un problema que provocaba que la vista previa del intervalo de Excel insertado en PowerPoint mostrara un tamaño incorrecto.
+
+
+### <a name="onenote"></a>OneNote
+
+- Este cambio resuelve un problema de representación que afecta a OneNote.
+
+
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema que provocaba que los usuarios no pudiesen especificar durante cuánto tiempo querían permitir el acceso al iniciar una combinación de correo de Word, lo que hacía que se enviasen demasiados avisos.
+
+
+- Este cambio permite a Outlook aprovechar una configuración de Exchange Server que suprime la presentación del buzón de correo de Exchange Online para usuarios finales.
+
+
+- Se ha corregido un problema que provocaba que Outlook se cerrara de forma inesperada para los usuarios de complementos basados en Redemption.
+
+
+- Se corrigió el problema que causaba que los usuarios no pudieran seleccionar más de una categoría para buscar.
+
+
+- Se corrigió el problema que causaba que la hora de inicio de algunos elementos del calendario cambiara inesperadamente cuando el evento se copiaba de otra cita.
+
+
+- Se corrigió un problema por el que los mensajes de texto sin formato S/MIME se volvían ilegibles al enviarse.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Este cambio resuelve un problema con las formas de combinar trabajar con texto.
+
+
+- Este cambio resuelve un problema relacionado con la modificación de los colores del contorno de imágenes SVG.
+
+
+- Este cambio resuelve un problema en la reproducción de vídeos de fondo en bucle en la presentación con diapositivas.
+
+
+- Se ha corregido un problema por el que el comando tamaño de fuente, agregado a la herramienta de acceso rápido, se completaba automáticamente al tamaño de fuente definido más cercano al actualizarse.
+
+
+### <a name="project"></a>Project
+
+- Se ha corregido un problema que provocaba que las unidades máximas de un recurso no siempre reflejaran la actualización más reciente en las unidades máximas.
+
+
+### <a name="visio"></a>Visio
+
+- El problema se debe a una regresión reciente. Se ha resuelto el problema. El cuadro de diálogo "Guardar como página web" ahora hará que los campos se rellenen correctamente en función de las entradas de usuario, y que los usuarios puedan guardar los archivos como páginas web sin problemas.
+
+
+- Este problema se ha corregido. Ahora se pueden insertar archivos de Visio como objetos en otras aplicaciones de Office, como PowerPoint y Word, y obtener acceso a ellos fácilmente desde estas aplicaciones.
+
+
+### <a name="word"></a>Word
+
+- Se ha corregido un problema que provocaba que los equipos con la configuración de hash personalizada tuvieran problemas al estar en una sesión de colaboración con una configuración de hash diferente de sha512.
+
+
+- Este cambio resuelve un problema relacionado con la modificación de los colores del contorno de imágenes SVG.
+
+
+- Se ha corregido un problema al editar una entrada de comentario que incluía una @mención.
+
+
+- Se ha corregido un problema para mejorar la solidez de los comentarios modernos.
+
+
+- Se ha corregido un problema en torno a la eliminación de los comentarios modernos en un control de contenido marcado como no editable.
+
+
+- Animación corregida al escribir en la parte inferior de una tarjeta de comentario.
+
+
+- Corrección de un problema que provocaba que el cuadro de respuesta en una tarjeta de comentario apareciera fuera de la pantalla.
+
+
+- Corrección de un problema con una tarjeta de comentario que se mostraba en la parte superior de la página.
+
+
+- Corrección de errores en comentarios en los que el texto podía desplazarse fuera de la pantalla.
+
+
+- Corrección de un problema con las barras de desplazamiento anidadas en el panel de comentarios.
+
+
+- Los borradores de comentarios desaparecen al crear una nueva instancia de Word.
+
+
+- Se ha corregido un problema que causaba que Word se bloqueara al guardar un documento en PDF con texto oculto.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2012-january-04"></a>Versión 2012: 4 de enero
 *Versión 2012 (compilación 13530.20316)*
@@ -1439,7 +1584,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 
 
-[//]: # (NO QUITAR LOS DETALLES DE ERROR DE FIN DE CONTENIDO)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2007-august-05"></a>Versión 2007: 05 de agosto
 *Versión 2007 (compilación 13029.20344)*
@@ -1805,15 +1950,15 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 
 
-- **Guardar en Carpetas ancladas:** anclar tus carpetas hace que el almacenamiento de archivos de Office sea más fácil. Nuestros usuarios nos dijeron que querían tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. <br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Guardar en Carpetas ancladas:** anclar tus carpetas hace que el almacenamiento de archivos de Office sea más fácil. Nuestros usuarios nos dijeron que querían tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. <br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Guardar en Carpetas ancladas:** anclar tus carpetas hace que el almacenamiento de archivos de Office sea más fácil. Nuestros usuarios nos dijeron que querían tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil.<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Guardar en Carpetas ancladas:** anclar tus carpetas hace que el almacenamiento de archivos de Office sea más fácil. Nuestros usuarios nos dijeron que querían tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil.<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 ### <a name="word"></a>Word
 
-- **Guardar en Carpetas ancladas:** anclar tus carpetas hace que el almacenamiento de archivos de Office sea más fácil. Nuestros usuarios nos dijeron que querían tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. <br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Guardar en Carpetas ancladas:** anclar tus carpetas hace que el almacenamiento de archivos de Office sea más fácil. Nuestros usuarios nos dijeron que querían tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. <br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
@@ -2309,7 +2454,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 - **Notificación de incidentes para administradores de TI:** se notificará a los administradores globales de espacios empresariales de Microsoft 365 y a los administradores de aplicaciones de Office acerca de los incidentes de Outlook y Exchange de O365 que afectan a sus usuarios con una nueva notificación en el panel derecho en Outlook para Windows. [Más información](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
 
-[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO DEL FIN)
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
 <br/>
 

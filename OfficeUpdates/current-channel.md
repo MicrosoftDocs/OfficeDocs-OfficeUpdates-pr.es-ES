@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365 en 2020
-ms.openlocfilehash: 5f7a0c255d98678baf5b868b5fd41e213e2901bc
-ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
+ms.openlocfilehash: 3b79261feff06820428a77b05fb778b577b0f046
+ms.sourcegitcommit: 1404eb977e0bc5d5de5a89c713eae9f32fdc877f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49760684"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49780758"
 ---
 # <a name="release-notes-for-current-channel"></a>Notas de la versión para el canal actual
 
@@ -205,6 +205,10 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Cambiar los temas de Office automáticamente:** Office puede cambiar los temas automáticamente para que coincidan con la configuración de tema de Windows 10. Vaya a Archivos > Cuenta y elija "Usar la opción del sistema" en la lista desplegable Temas de Office. [Más información](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
+- **Dele un nombre a la nueva hoja después de la consulta de origen:** cuando se carguen los datos en la nueva hoja, la hoja recibirá un nombre basado en el nombre de la consulta de origen.
+
+- **Usar el cuadro de diálogo Opciones avanzadas para crear tipos de datos:** el cuadro de diálogo Opciones avanzadas le permite seleccionar manualmente las columnas que combinan el tipo de datos que está creando.
+
 ### <a name="onenote"></a>OneNote
 
 - **Cambiar los temas de Office automáticamente:** Office puede cambiar los temas automáticamente para que coincidan con la configuración de tema de Windows 10. Vaya a Archivos > Cuenta y elija "Usar la opción del sistema" en la lista desplegable Temas de Office. [Más información](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
@@ -226,6 +230,8 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 - **Cambiar los temas de Office automáticamente:** Office puede cambiar los temas automáticamente para que coincidan con la configuración de tema de Windows 10. Vaya a Archivos > Cuenta y elija "Usar la opción del sistema" en la lista desplegable Temas de Office. [Más información](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 - **Exportar GIF animado en un rango:** seleccione un intervalo de diapositivas cuando exporte a GIF animado.
+
+- **Biblioteca de vídeos:** Mejore sus documentos con una biblioteca de videos editados y libres de regalías disponibles en la aplicación.
 
 ### <a name="project"></a>Project
 
@@ -362,7 +368,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
 
-- **Puedes contar con la revisión gramatical:** Outlook marca los errores gramaticales conforme usted escribe, para que pueda aplicar sugerencias con un solo clic. [Más información](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />Ver detalles en [entrada de blog](https://insider.office.com/es-ES/blog/grammar-and-style-suggestions-available-in-outlook)
+- **Puedes contar con la revisión gramatical:** Outlook marca los errores gramaticales conforme usted escribe, para que pueda aplicar sugerencias con un solo clic. [Más información](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/grammar-and-style-suggestions-available-in-outlook)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -380,7 +386,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 ### <a name="word"></a>Word
 
-- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
@@ -664,7 +670,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 ### <a name="outlook"></a>Outlook
 
-- **Vínculos mejorados en el correo electrónico:** al incluir un vínculo a un archivo, la dirección URL se reemplaza por el nombre del archivo. Puede cambiar los permisos para que todos los destinatarios tengan acceso. [Más información](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)
+- **Vínculos mejorados en el correo electrónico:** al incluir un vínculo a un archivo, la dirección URL se reemplaza por el nombre del archivo. Puede cambiar los permisos para que todos los destinatarios tengan acceso. [Más información](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)
 
 
 
@@ -1142,7 +1148,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-2005-june-09"></a>Versión 2005: 9 de junio
 *Versión 2005 (compilación 12827.20336)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="excel"></a>Excel
@@ -1207,7 +1213,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Cuente sus historias con GIF animados:** los GIF animados ahora son compatibles con el editor de Office: sus documentos ahora son más elegantes.
 
-- **El Calendario se transforma:** vea las actualizaciones visuales que hacen que el calendario sea más fácil de examinar. [Más información](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)
+- **El Calendario se transforma:** vea las actualizaciones visuales que hacen que el calendario sea más fácil de examinar. [Más información](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)
 
 ### <a name="powerpoint"></a>PowerPoint
 
