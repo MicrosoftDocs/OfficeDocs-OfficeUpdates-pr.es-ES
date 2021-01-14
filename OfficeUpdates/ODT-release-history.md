@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Historial de versiones de la Herramienta de implementación de Office (ODT) para los profesionales de TI
-ms.openlocfilehash: df3e2d20f3355f25da37aaeb078687a1c4763993
-ms.sourcegitcommit: 8d67b1150d1818c1faa7f0ef4d7ab58a7dd653d2
+ms.openlocfilehash: b9a5966e49653a4998a0cb3f3858decbe6f820c6
+ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49725075"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "49837371"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Historial de versiones de la Herramienta de implementación de Office
 
@@ -28,6 +28,10 @@ ODT le ofrece más control de la instalación de Office. Le permite definir los 
  **Instrucciones de instalación**: Descargue y ejecute el archivo ejecutable autoextraíble de la Herramienta de implementación de Office (setup.exe) y un archivo de configuración de ejemplo (configuration.xml). 
 
 [Descargar la Herramienta de implementación de Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+## <a name="january-12-2021"></a>12 de enero de 2021
+Versión 16.0.13530.20376 (versión setup.exe 16.0.13530.20334)
+- Se ha corregido un problema por el que un registro de producto dañado o no estándar podía provocar un error en las operaciones de RemoveMSI.
 
 ## <a name="december-21-2020"></a>21 de diciembre de 2020
 Versión 16.0.13426.20370 (versión setup.exe 16.0.13426.20352)
