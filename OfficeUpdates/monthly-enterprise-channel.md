@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de empresa para Aplicaciones de Microsoft 365 en 2020
-ms.openlocfilehash: 44a77260e0e674eccf53a76a0a451a3bfa2d7566
-ms.sourcegitcommit: 244f8fded28adafd66397baee0418254db5c9de2
+ms.openlocfilehash: e4c46d64476cab52b9f4d78480dc4d4b652aae6f
+ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49623131"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "49837551"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Notas de la versión para las versiones de canal de empresa mensual en 2020
 
@@ -26,6 +26,145 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 [//]: # (NO ELIMINAR)
 
 
+
+## <a name="version-2011-january-12"></a>Versión 2011: 12 de enero
+*Versión 2011 (Compilación 13426.20526)*
+
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="access"></a>Acceso
+
+- **Cambiar los temas de Office automáticamente:** Office puede cambiar los temas automáticamente para que coincidan con la configuración de tema de Windows 10. Vaya a Archivos > Cuenta y elija "Usar la opción del sistema" en la lista desplegable Temas de Office. [Más información](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="excel"></a>Excel
+
+- **Crear variables para usar en fórmulas:** mejorar el rendimiento, la legibilidad y la composición con la función LET. Esta función le permite crear variables con nombre en fórmulas nuevas o previamente existentes. [Más información](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)
+
+- **Crear un tipo de datos personalizado en Power Query:** use cualquier origen de datos para crear un tipo de datos personalizado que le permita cargar varias piezas de información relacionadas en una columna. [Más información](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br />Ver detalles en [entrada de blog](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)
+
+- **Dele un nombre a la nueva hoja después de la consulta de origen:** cuando se carguen los datos en la nueva hoja, la hoja recibirá un nombre basado en el nombre de la consulta de origen.
+
+- **Cambiar los temas de Office automáticamente:** Office puede cambiar los temas automáticamente para que coincidan con la configuración de tema de Windows 10. Vaya a Archivos > Cuenta y elija "Usar la opción del sistema" en la lista desplegable Temas de Office. [Más información](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="onenote"></a>OneNote
+
+- **Cambiar los temas de Office automáticamente:** Office puede cambiar los temas automáticamente para que coincidan con la configuración de tema de Windows 10. Vaya a Archivos > Cuenta y elija "Usar la opción del sistema" en la lista desplegable Temas de Office. [Más información](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="outlook"></a>Outlook
+
+- **Cambiar los temas de Office automáticamente:** Office puede cambiar los temas automáticamente para que coincidan con la configuración de tema de Windows 10. Vaya a Archivos > Cuenta y elija "Usar la opción del sistema" en la lista desplegable Temas de Office. [Más información](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Biblioteca de vídeos:** Mejore sus documentos con una biblioteca de videos seleccionados y libres de regalías disponibles en la aplicación.
+
+- **Cambiar los temas de Office automáticamente:** Office puede cambiar los temas automáticamente para que coincidan con la configuración de tema de Windows 10. Vaya a Archivos > Cuenta y elija "Usar la opción del sistema" en la lista desplegable Temas de Office. [Más información](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="project"></a>Project
+
+- **Cambiar los temas de Office automáticamente:** Office puede cambiar los temas automáticamente para que coincidan con la configuración de tema de Windows 10. Vaya a Archivos > Cuenta y elija "Usar la opción del sistema" en la lista desplegable Temas de Office. [Más información](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="publisher"></a>Publisher
+
+- **Cambiar los temas de Office automáticamente:** Office puede cambiar los temas automáticamente para que coincidan con la configuración de tema de Windows 10. Vaya a Archivos > Cuenta y elija "Usar la opción del sistema" en la lista desplegable Temas de Office. [Más información](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="visio"></a>Visio
+
+- **Cambiar los temas de Office automáticamente:** Office puede cambiar los temas automáticamente para que coincidan con la configuración de tema de Windows 10. Vaya a Archivos > Cuenta y elija "Usar la opción del sistema" en la lista desplegable Temas de Office. [Más información](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="word"></a>Word
+
+- **Cambiar los temas de Office automáticamente:** Office puede cambiar los temas automáticamente para que coincidan con la configuración de tema de Windows 10. Vaya a Archivos > Cuenta y elija "Usar la opción del sistema" en la lista desplegable Temas de Office. [Más información](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema por el que Excel mostraba de forma incorrecta una barra de mensajes donde se indicaba que estaba disponible una nueva versión del archivo y obligaba al usuario a descartar los cambios o guardarlos en una copia del libro.
+
+
+- Se solucionó un problema que provocaba que Excel dejara macros deshabilitadas sin preguntar al abrir archivos de complemento de Excel que contuvieran macros Excel 4.0.
+
+
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema que causaba que algunos usuarios no vieran ninguna firma en la lista desplegable a pesar de que se configuraron una o varias firmas.
+
+
+- Se ha agregado una clave de registro que permite a los clientes deshabilitar la inclusión de hora de archivo para datos adjuntos en operaciones de IDataObject (es decir, arrastrar y soltar, portapapeles).  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments. REG_DWORD IncludeFileTimesInDataObject. 0 = se excluyen horas de archivo. 1 = (predeterminado) se incluyen horas de archivo.
+
+
+- Se ha corregido un problema que provocaba que las imágenes en línea desaparecieran al responder a un mensaje con una etiqueta de protección de Azure Information Protection.
+
+
+- Se ha corregido un problema que interrumpía el evento MailItem.BeforeAttachmentAdd.
+
+
+- Se ha corregido un problema por el que el campo "Para" quedaba vacío al enviar un informe de estado en una tarea.
+
+
+- Se ha corregido un problema por el que los asistentes originales de algunas reuniones recibían una cancelación cuando otro asistente reenviaba la reunión.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha corregido un problema por el que algunos archivos de PowerPoint corruptos no se abrían correctamente, incluso después de una operación de reparación de documento.
+
+
+- Se ha corregido un problema que provocaba un error al guardar el archivo después de duplicar una diapositiva que contuviera un audio grabado recientemente.
+
+
+- Se ha corregido un problema de VBA por el que Slide.Shapes.AddMediaObject2 se bloqueaba con formatos de vídeo heredados (MPG-1, MPEG-2).
+
+
+- Este cambio resuelve un problema con el control de errores que pueden producirse durante la carga de vídeo.
+
+
+- Se ha corregido un problema relacionado con la función de copiar y pegar una ecuación de Word a PowerPoint.
+
+
+### <a name="project"></a>Project
+
+- Se ha corregido un problema por el que algunos proyectos específicos podrían abrirse si había un problema con el archivo del proyecto en una parte específica de la carga.
+
+
+### <a name="word"></a>Word
+
+- Se ha corregido un error de aserción expuesto por puertas optimizadas que afectaba a Word.
+
+
+- Se ha corregido un problema que reemplazaba los estilos del documento con otros estilos de la plantilla.
+
+
+- Este cambio resuelve un problema con el cursor al editar un documento.
+
+
+- Se ha corregido un problema relacionado con la función de copiar y pegar una ecuación de Word a PowerPoint.
+
+
+### <a name="office-suite"></a>Conjunto de programas de Office
+
+- Se ha corregido un problema por el que la instalación de una versión más reciente de Office sobre algunas versiones anteriores podía resultar en un deterioro de la funcionalidad (por ejemplo, la imposibilidad de usar Power Query) debido a la falta de entradas del registro.
+
+
+- Se ha corregido un problema por el que un archivo se abría como NO SyncBacked cuando la dirección URL de la memoria caché y la dirección URL de OneDrive NO coincidían.
+
+
+- Se ha corregido un problema que provocaba que SaveRequestManagerCam causara que la aplicación se cerrara en lugar de devolver un error.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2010-december-08"></a>Versión 2010: 08 de diciembre
 *Versión 2010 (compilación 13328.20478)*
@@ -50,7 +189,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Exportar GIF animado en un rango:** seleccione un intervalo de diapositivas cuando exporte a GIF animado
 
-- **Crear GIF con fondos transparentes:** cuando se exporta a un GIF animado, una nueva opción permite que el fondo sea transparente.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)
+- **Crear GIF con fondos transparentes:** cuando se exporta a un GIF animado, una nueva opción permite que el fondo sea transparente.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/export-animated-gifs-transparent-backgrounds)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
@@ -295,7 +434,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 - Se ha corregido un problema que provocaba que los usuarios no pudieran conceder permisos de editor a los delegados.
 
 
-- Se ha corregido un problema por el que las experiencias opcionales conectadas bloqueaban la carga de los complementos web.<br />Ver detalles en la [entrada de blog](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
+- Se ha corregido un problema por el que las experiencias opcionales conectadas bloqueaban la carga de los complementos web.<br />Ver detalles en la [entrada de blog](https://developer.microsoft.com/es-ES/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -888,7 +1027,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - **Selección de lazo de la entrada de lápiz:** la herramienta Lazo en la pestaña Dibujar le ayuda a seleccionar objetos dibujados a mano. Seleccione trazos individuales o palabras completas. [Más información](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
-- **Elija el color perfecto:** use códigos de colores hexadecimales para elegir exactamente el color que desea para la fuente, el resaltado de texto, etc.<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)
+- **Elija el color perfecto:** use códigos de colores hexadecimales para elegir exactamente el color que desea para la fuente, el resaltado de texto, etc.<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)
 
 - **Nuevas imágenes para dar vida a sus documentos:** miles de imágenes de archivo, iconos y adhesivos sin derechos de autor que puede usar en sus documentos. Vaya a Insertar > Imágenes > Imágenes de archivo para empezar. [Más información](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
 
@@ -1129,6 +1268,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13426.20526|version-2011-january-12|)
 [//]: # (|Win32|MEC|Producción|Característica|16.0.13328.20478|versión-08-diciembre-2010|)
 [//]: # (|Win32|MEC|Producción|Característica|16.0.13231.20514|versión-10-noviembre-2009|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13127.20638|versión-13-octubre-2008|)

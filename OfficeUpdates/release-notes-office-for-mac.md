@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales de TI las notas de la versión de las versiones de Office para Mac para los suscriptores de Aplicaciones de Microsoft 365
-ms.openlocfilehash: ab5f18ee1b2deb738e5d3e6e55a78a5adf624585
-ms.sourcegitcommit: 1587fea5b37f632608fe67e28030d380aba6b781
+ms.openlocfilehash: 5e63a6441de32b956a7e25e6bc0026d6fd485f2a
+ms.sourcegitcommit: 38acc55545cbeccd16603b7f731dc41a26e4a5ea
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49684092"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "49863207"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de la versión de Office para Mac
 
@@ -49,6 +49,51 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
 
 
+
+
+
+## <a name="january-13-2021"></a>13 de enero de 2021
+*Versión 16.45 (Compilación 21011103)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Aplicar automáticamente o recomendar etiquetas de confidencialidad:** Office puede recomendar o aplicar automáticamente una etiqueta de confidencialidad basada en el contenido confidencial detectado. [Más información](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+
+### <a name="outlook"></a>Outlook
+
+- **Aplicar automáticamente o recomendar etiquetas de confidencialidad:** Office puede recomendar o aplicar automáticamente una etiqueta de confidencialidad basada en el contenido confidencial detectado. [Más información](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Aplicar automáticamente o recomendar etiquetas de confidencialidad:** Office puede recomendar o aplicar automáticamente una etiqueta de confidencialidad basada en el contenido confidencial detectado. [Más información](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+
+### <a name="word"></a>Word
+
+- **Aplicar automáticamente o recomendar etiquetas de confidencialidad:** Office puede recomendar o aplicar automáticamente una etiqueta de confidencialidad basada en el contenido confidencial detectado. [Más información](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+
+[//]: # (NO QUITAR LOS DETALLES DE SEGURIDAD INICIO DEL CONTENIDO INICIAL)
+
+
+### <a name="security-updates"></a>Actualizaciones de seguridad
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-1714](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2021-1714)
+-   [CVE-2021-1713](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2021-1713)
+
+### <a name="word"></a>Word
+
+-   [CVE-2021-1716](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2021-1716)
+-   [CVE-2021-1715](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2021-1715)
+
+[//]: # (NO ELIMINAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO FINAL)
 
 ## <a name="december-15-2020"></a>15 de diciembre de 2020
 *Versión 16.44 (compilación 20121301)*
@@ -88,7 +133,7 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
 -   [CVE-2020-17124](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-17124)
 
-[//]: # (NO QUITAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO FINAL)
+[//]: # (NO ELIMINAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO FINAL)
 
 ## <a name="november-10-2020"></a>10 de noviembre de 2020
 *Versión 16.43 (Compilación 20110804)*

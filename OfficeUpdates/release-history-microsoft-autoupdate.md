@@ -1,5 +1,5 @@
 ---
-title: Historial de versiones de Microsoft AutoUpdate (MAU)
+title: Historial de versiones de Microsoft Auto Update (MAU)
 ms.author: timda
 author: TimDavenport
 manager: TimDavenport
@@ -8,27 +8,44 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
-description: Proporciona a los profesionales informáticos un historial de versiones de Microsoft AutoUpdate (MAU).
-ms.openlocfilehash: f6b5462189fa7cf9310c3d69b8ab34474ed96c07
-ms.sourcegitcommit: 1587fea5b37f632608fe67e28030d380aba6b781
+description: Proporciona a los profesionales de TI un historial de versiones para Microsoft Auto Update (MAU)
+ms.openlocfilehash: 5250255af7fe776e7f8ed07a7d5987076fc08079
+ms.sourcegitcommit: 053560beb18fc8b527e2be661b165e0034e3b1bf
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49684082"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "49849495"
 ---
-# <a name="release-history-for-microsoft-autoupdate-mau"></a>Historial de versiones de Microsoft AutoUpdate (MAU)
+# <a name="release-history-for-microsoft-auto-update-mau"></a>Historial de versiones de Microsoft Auto Update (MAU)
  
-Le recomendamos que siempre actualice a la última versión de Microsoft AutoUpdate (MAU).
+Le recomendamos mantener siempre actualizada la última versión de Microsoft Auto Update (MAU).
 
-En la siguiente tabla, se proporciona información del historial de versiones de Microsoft AutoUpdate. La tabla está ordenada por fecha de lanzamiento, con la fecha de lanzamiento más reciente en primer lugar. Todos los paquetes de actualización son de 64 bits.
+La siguiente tabla proporciona información acerca del historial de las versiones de Microsoft Auto Update. La tabla está ordenada por fecha de lanzamiento, siendo la fecha de lanzamiento más reciente la primera en aparecer. Todos los paquetes de actualización son de 64 bits.
 
 
 > [!NOTE]
 > 
-> - Los vínculos de descarga solo se proporcionan para la versión más reciente de Microsoft AutoUpdate.
-> - Microsoft AutoUpdate ofrece actualizaciones para distintos productos de Mac de Microsoft. Por tanto, es posible que reciba una notificación para actualizar Microsoft AutoUpdate, incluso si no está ejecutando Office para Mac.
+> - Los vínculos de descarga solo son proporcionados para la versión más reciente de Microsoft Auto Update
+> - La actualización Microsoft Auto Update proporciona actualizaciones de varios productos para Mac de Microsoft. De este modo, es posible que reciba una notificación para actualizar Microsoft Auto Update a pesar de que no esté ejecutando Office para Mac.
 
 Para ver las notas de la versión, consulte [Notas de la versión.](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="january-2021-release"></a>Versión de enero de 2021
+
+**Fecha de lanzamiento:** 13 de enero de 2020
+
+*Actualización automática de Microsoft 4.31*
+
+**Correcciones de errores y mejoras:**
+- Para los dispositivos que no están en las actualizaciones automáticas, Microsoft Auto Update ahora informará sobre las nuevas actualizaciones mediante una notificación en lugar de abrir la interfaz de usuario MAU.
+
+[Descargar el paquete Microsoft Auto Update 4.31](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.31.21011103_Updater.pkg)<br/>
+<br/>
+**Hash SHA-256:**
+
+209B444D2831B879BB73C92041A1C7318C1D5BA58B4689F6C4FC842B0930B532
+
+<br/><br/>
 
 ## <a name="december-2020-release"></a>Versión de diciembre de 2020
 
@@ -41,7 +58,7 @@ Para ver las notas de la versión, consulte [Notas de la versión.](release-note
 
 **Vínculo para actualización de MAU:**
 
-[Descargar el paquete Actualización automática para Microsoft 4.30](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+[Descargar el paquete Actualización automática para Microsoft 4.30](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.30.20121301_Updater.pkg)<br/>
 <br/>
 **SHA-256 Hash:**
 
@@ -58,11 +75,11 @@ Para ver las notas de la versión, consulte [Notas de la versión.](release-note
 
 **Correcciones de errores y mejoras:**
 -   Se han actualizado los nombres de canales de Microsoft 365.
--   Se corrigió un problema que evitaba que algunas instalaciones de OneDrive reciban actualizaciones.
+-   Se ha corregido un problema que evitaba que algunas instalaciones de OneDrive recibieran actualizaciones.
 
 **Vínculo para actualización de MAU:**
 
-[Descargar el paquete Actualización automática para Microsoft 4.29](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+[Descargar el paquete Actualización automática para Microsoft 4.29](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.29.20110804_Updater.pkg)<br/>
 <br/>
 **Hash SHA-256:**
 
@@ -83,7 +100,7 @@ Para ver las notas de la versión, consulte [Notas de la versión.](release-note
 
 **Vínculo para actualización de MAU:**
 
-[Descargar el paquete de actualización automática para Microsoft 4.28](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+[Descargar el paquete de actualización automática para Microsoft 4.28](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.28.20101102_Updater.pkg)<br/>
 <br/>
 **SHA-256 Hash:**
 
@@ -102,7 +119,7 @@ Para ver las notas de la versión, consulte [Notas de la versión.](release-note
 
 **Vínculo para actualización de MAU:**
 
-[Descargar el paquete de actualización automática para Microsoft 4.27](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+[Descargar el paquete de actualización automática para Microsoft 4.27](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.27.20091302_Updater.pkg)<br/>
 <br/>
 **SHA-256 Hash:**
 
@@ -126,7 +143,7 @@ Para ver las notas de la versión, consulte [Notas de la versión.](release-note
 
 **Vínculo de actualización de MAU:**
 
-[Descargar el paquete de Microsoft AutoUpdate 4.26](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+[Descargar el paquete de Microsoft AutoUpdate 4.26](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.26.20081000_Updater.pkg)<br/>
 <br/>
 **Hash SHA-256:**
 
@@ -142,15 +159,11 @@ E81CEADF900A0C7E7D593720D08146DBC1C55868D5B21C7E7A175AA36DFE0178
 
 **Correcciones de errores y mejoras:**
 - Detecta la finalización de la aplicación y quita automáticamente el cuadro de diálogo relacionado con "abrir la aplicación".
-- Revierte la característica introducida en la versión de abril en la que los usuarios con las actualizaciones automáticas desactivadas veían la interfaz de usuario de Microsoft AutoUpdate solo una vez por semana.
+- Se ha revertido la característica introducida en la versión de abril en la que los usuarios con las actualizaciones automáticas desactivadas veían la interfaz de Microsoft Auto Update una vez por semana.
 - Soluciona un problema por el que el asistente de actualizaciones finalizaba antes del inicio de la instalación y después de la descarga de las actualizaciones.
 - Soluciona un problema por el que asistente de actualizaciones no finalizaba luego de una duración prolongada cuando había notificaciones de usuario pendientes.
 - Soluciona un problema por el que la interfaz de usuario de MAU se reabría (o no se reabría) después de la instalación. La interfaz de usuario se debe abrir después de la instalación si la actualización se inicia desde la propia interfaz de MAU, o si el usuario inicia explícitamente una actualización (a través del buscador, terminal, etc.).
 
-**Vínculo de actualización de MAU:**
-
-[Descargar el paquete de Microsoft Auto Update 4.25](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
-<br/>
 **Hash SHA-256:**
 
 B8E3D4391E48732F42217589784D8B3417F6F14489D9DE04395198A01BFDFA46
@@ -167,10 +180,6 @@ B8E3D4391E48732F42217589784D8B3417F6F14489D9DE04395198A01BFDFA46
 - Campaña de mensajería para el cliente: no habrá soporte técnico para Office para Mac 2016 en octubre de 2020. 
 - Revisión de seguridad de la conexión XPC de la herramienta auxiliar de MAU.
 
-**Vínculo de actualización de MAU:**
-
-[Descargar el paquete de Microsoft Auto Update 4.24](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
-<br/>
 **Hash SHA-256:**
 
 EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
@@ -185,12 +194,8 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 
 **Correcciones de errores y mejoras:**
 - Para los dispositivos que usan MacOS 10.13 o superior y las versiones de Office 2016, los usuarios verán notificaciones de que Office 2016 llega al final de su soporte técnico. 
-- Si las aplicaciones Word, Excel y PowerPoint no tienen una ventana abierta y el dispositivo se encuentra en modo de actualización automática de Microsoft AutoUpdate, los usuarios no necesitarán salir de estas aplicaciones para aplicar las actualizaciones. 3. Microsoft AutoUpdate ahora actualizará automáticamente su Panel de actualización con las últimas versiones en la CDN, sin que el usuario tenga que actualizarlo o iniciar una nueva sesión de AutoUpdate.
+- Si las aplicaciones Word, Excel y PowerPoint no tienen una ventana abierta y el dispositivo se encuentra en el modo automático de actualizaciones de Microsoft Auto Update, entonces los usuarios no necesitarán salir de estas aplicaciones para aplicar las actualizaciones. 3. Microsoft Auto Update ahora actualizará de forma automática su Update Dashboard con los últimos lanzamientos de la CDN, por lo que el usuario no tendrá que refrescarlo ni iniciar una nueva sesión de Auto Update. 
 
-**Vínculo para actualización de MAU:**
-
-[Descargar el paquete de actualización automática para Microsoft 4.23](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
-<br/>
 **SHA-256 Hash:**
 
 7DAB76D11427BACF30D3DBD87374CE755C618262E68FC3CA85B3FB8F3F3750AD
@@ -204,12 +209,8 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 *Actualización automática de Microsoft 4.22*
 
 **Correcciones de errores y mejoras:**
-- La interfaz de usuario de Microsoft AutoUpdate no se mostrará en los dispositivos que actualizan las aplicaciones de Office a través de Microsoft AutoUpdate en modo "Automático" ni en los dispositivos que realizan actualizaciones en modo no automático cuando no hay actualizaciones nuevas disponibles.
+- La interfaz de usuario de Microsoft Auto Update no se mostrará en los dispositivos que estén actualizando sus aplicaciones de Office a través de Microsoft Auto Update en "modo automático", como así también en los dispositivos que realicen actualizaciones en modo no automático cuando no haya nuevas actualizaciones disponibles.
 
-**Vínculo para actualización de MAU:**
-
-[Descargar el paquete de actualización automática para Microsoft 4.22](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
-<br/>
 **SHA-256 Hash:**
 
 2D672B377C6A1115FDC509E45E6AFF663D8F15412D4EB77E033085700DC1B72B
@@ -222,17 +223,13 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 
  **Actualizaciones de características:**
 
-- Corrección de seguridad: Microsoft AutoUpdate evitará cualquier conexión no segura de versiones anteriores.
-- Los usuarios con Actualizaciones automáticas desactivadas verán la interfaz de usuario de Microsoft AutoUpdate solo una vez por semana.
+- Corrección de seguridad: la actualización de Microsoft Auto Update evitará que haya cualquier conexión insegura de versiones anteriores.
+- Los usuarios con actualizaciones automáticas desactivadas verán la interfaz de usuario de Microsoft Auto Update solo una vez por semana.
 - Los equipos Mac OS con SSD experimentarán actualizaciones más rápidas y un tiempo de inactividad insignificante de la aplicación debido a las actualizaciones.
 
 
 Consulte [CVE-2020-0984](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0984)
 
-**Vínculo para actualización de MAU:**
-
-[Descargar el paquete de actualización automática para Microsoft 4.22](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
-<br/>
 **SHA-256 Hash:**
 
 2E202B0B65AC093BDBFDA47F2A62758E44E0FBC09383B121EAA76206CF2B3EAB
@@ -246,13 +243,8 @@ Consulte [CVE-2020-0984](https://portal.msrc.microsoft.com/es-ES/security-guidan
 
  **Actualizaciones de características:**
 
-- Restauración de estado habilitada para Word, Excel y PowerPoint, en ejecución sin ninguna ventana abierta o en estado Docstage, en el modo actualizaciones automáticas de Microsoft AutoUpdate. Las actualizaciones ahora serán aún más silenciosas para los usuarios finales en el modo de actualizaciones automáticas, ya que no tendrán que cerrar las aplicaciones compatibles con actualización a través de la Restauración de Estado.
+- Restauración de estado habilitada para Word, Excel y PowerPoint, en ejecución sin ninguna ventana abierta o en estado Docstage, en el modo actualizaciones automáticas de Microsoft Auto Update. Las actualizaciones ahora serán aún más silenciosas para los usuarios finales en el modo de actualizaciones automáticas, ya que no tendrán que cerrar las aplicaciones compatibles con actualización a través de la Restauración de Estado.
 
-
-**Vínculo para actualización de MAU:**
-
-[Descargar el paquete de actualización automática para Microsoft 4.21](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
-<br/>
 **SHA-256 Hash:**
 
 9AF2FAF4854BF06F33322A8530275F8D32965C91D446C45A0CD8BC4C5DF04F44
@@ -266,14 +258,9 @@ Consulte [CVE-2020-0984](https://portal.msrc.microsoft.com/es-ES/security-guidan
 
  **Actualizaciones de características:**
 
-- La interfaz de usuario de Microsoft AutoUpdate se inicia solo si hay como mínimo 1 aplicación en el dispositivo registrada con MAU
+- La interfaz de usuario de Microsoft Auto Update se inicia solo si hay como mínimo 1 aplicación en el dispositivo registrada con MAU
 - Correcciones de errores y mejoras
 
-
-**Vínculo de actualización de MAU:**
-
-[Descargar el paquete de actualización automática para Microsoft 4.20](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
-<br/>
 **SHA-256 Hash:**
 
 80DD0637AA60007310FB7B68C01926F6CA0F2771DBB42166C191626607D89B56<br/><br/>
@@ -288,11 +275,6 @@ Consulte [CVE-2020-0984](https://portal.msrc.microsoft.com/es-ES/security-guidan
 
 - Correcciones de errores y mejoras
 
-
-**Vínculo para actualización de MAU:**
-
-[Descargue el paquete de Microsoft Auto Update 4.19](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
-<br/>
 **SHA-256 Hash:**
 
 D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
@@ -307,11 +289,6 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 
 - Canal por aplicación: los administradores de equipos Mac ahora pueden suscribirse a diferentes canales o anillos de validación por aplicación. 
 
-
-**Vínculo para actualización de MAU:**
-
-[Descargar el paquete Actualización automática para Microsoft 4.18](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
-<br/>
 **SHA-256 Hash:**
 
 11D051503067DB9819C84C8D1EBE29435A781D29C6B1FE3173DB03DC88F1B4C3<br/><br/>
@@ -324,14 +301,9 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 
  **Actualizaciones de características:**
 
-- Las novedades de cada actualización principal ahora pueden verse en el panel de Microsoft AutoUpdate.
+- Las novedades de cada actualización principal ahora pueden verse en el panel de Microsoft Auto Update.
 - Los requisitos mínimos del sistema operativo para las actualizaciones de Office 2019 se han cambiado a macOS 10.13 con la versión de Catalina y estamos notificando a los usuarios que lo actualicen para recibir las últimas actualizaciones de Office.
 
-
-**Vínculo para actualización de MAU:**
-
-[Descargar el paquete de Microsoft AutoUpdate 4.17](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
-<br/>
 **SHA-256 Hash:**
 
 0F8BECB34385711F3D5E54B2944D9C30567B37352C5E59E0A7BC74B83371AB0A<br/><br/>
@@ -344,13 +316,8 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 
  **Actualizaciones de características:**
 
-- Al iniciar Microsoft AutoUpdate 4.16, la nueva y mejorada experiencia del usuario final ya está disponible para todos los clientes.
+- Al iniciar la actualización automática de Microsoft 4.16, la nueva y mejorada experiencia del usuario final ya se encuentra disponible para todos los clientes.
 
-
-**Vínculo para actualización de MAU:**
-
-[Descargar Microsoft Auto Update 4.16 Package](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
-<br/>
 **SHA-256 Hash:**
 
 5BEA94F8AA2BD4F4398B3E5EDE0EA2F406440B8ACAD46B3DACE904824B41052C<br/><br/>
@@ -366,11 +333,6 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 - El demonio MAU AU se llama ahora asistente de Microsoft Update.
 - Se ha corregido un problema que provocaba que se robara el enfoque de la aplicación en primer plano al ejecutar el comando "msupdate".
 
-
-**Vínculo para actualización de MAU:**
-
-[Descargar el paquete de actualización automática para Microsoft 4.15](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
-<br/>
 **SHA-256 Hash:**
 
 E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
@@ -385,11 +347,6 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 - Se han corregido varios problemas para mejorar las traducciones de VoiceOver, el rendimiento de las actualizaciones y la UI.
 - Se ha mejorado la telemetría y se han hecho correcciones en los servicios de solución de problemas.
 
-
-**Vínculo para actualización de MAU:**
-
-[Descargar el paquete de actualización automática para Microsoft 4.14](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
-<br/>
 **SHA-256 Hash:**
 
 76FA706E9E5B717D333B7EFB5AB95FCF9EE3E571A7FF171CA25E77CA6E9EBD97<br/><br/>
@@ -405,10 +362,6 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 - Fecha límite de actualización de MAU: los administradores de equipos Mac ahora pueden establecer la fecha límite en MAU para aplicar las actualizaciones entre los usuarios de equipos Mac. [Más información](https://docs.microsoft.com/deployoffice/mac/mau-deadline)
 - Varias correcciones de errores y rendimiento.
 
-**Vínculo de actualización de MAU:**
-
-[Descargar el paquete de actualización automática de Microsoft 4.13](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.13.19071800_Updater.pkg)<br/>
-<br/>
 **SHA-256 Hash:**
 
 9FDCEAFA05AB070531ECEE50E1E977839C1E2DE2312569F816C59F35DE162B08
@@ -421,12 +374,8 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 
  **Actualizaciones de características:**
 
-- Problema corregido con Apple OS beta que provoca errores en las actualizaciones de MAU para la actualización completa. 
+- Se ha corregido un problema con Apple OS beta que provoca errores en las actualizaciones de MAU para la actualización completa. 
 
-**Vínculo para actualización de MAU:**
-
-[Descargar el paquete de actualización automática de Microsoft 4.12](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.12.19062700_Updater.pkg)<br/>
-<br/>
 **SHA-256 Hash:**
 
 85ce26ece89a256711f082e61b313c1ed6a22bfc402d4789a78a08022a96f6fa
@@ -442,10 +391,6 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 - Soporte técnico para aplicaciones accesorio: MAU ahora admite aplicaciones accesorio, como Microsoft OneDrive.
 - Instalación de mejoras en las copias clonadas: la actualización de clones es ahora más robusta y a prueba de fallos.
 
-**Vínculo de actualización de MAU:**
-
-[Descargar el paquete de actualización automática de Microsoft 4.12](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.12.19060901_Updater.pkg)<br/>
-<br/>
 **SHA-256 Hash:**
 
 ABCC7D58DA7DB1B8B24B9B1BE6B1DB93BDC97AE487EFB615EC5695B9E1CC0FC9
@@ -464,10 +409,6 @@ ABCC7D58DA7DB1B8B24B9B1BE6B1DB93BDC97AE487EFB615EC5695B9E1CC0FC9
 - Fecha límite de actualización de MAU: los administradores de equipos Mac ahora pueden establecer la fecha límite en MAU para aplicar las actualizaciones entre los usuarios de equipos Mac. [Más información](https://docs.microsoft.com/deployoffice/mac/mau-deadline)
 - Varias correcciones de errores y rendimiento.
 
-**Vínculo para actualización de MAU:**
-
-[Descargar el paquete de actualización automática para Microsoft 4.11](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.11.19051201_Updater.pkg)<br/>
-<br/>
 **SHA-256 Hash:**
 
 EE3403B79E536191E545E70708A99D3A33B384372F65C028490AFFB551CD1EE2
@@ -484,10 +425,6 @@ EE3403B79E536191E545E70708A99D3A33B384372F65C028490AFFB551CD1EE2
 - Instalación de mejoras de características en clon: para dispositivos SSD, implementar actualizaciones en clon para aplicaciones en uso, lo que reduce el tiempo de inactividad de la aplicación debido a las actualizaciones.
 - Optimizaciones de instalación: El proceso de actualización usará clonación paralela, por lo que se reduce el tiempo de inactividad de aplicación debido a las actualizaciones.
 
-**Vínculo para actualización de MAU:**
-
-[Descargar el paquete de actualización automática para Microsoft 4.10](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.10.19041401_Updater.pkg)<br/>
-<br/>
 **SHA-256 Hash:**
 
 FF676870D5B3521202095810B85DEF36538B59E00AEA44A2ED0D7EA8B3B99D6C
