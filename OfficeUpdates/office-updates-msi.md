@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI vínculos a la información de las últimas actualizaciones de las versiones perpetuas de Office 2016, Office 2013 y Office 2010.
-ms.openlocfilehash: 2dceda111d7b5694cedba1c1fa098050343ce848
-ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
+ms.openlocfilehash: 28c84f5394cf9962a5ee0cca855fb02f043d8657
+ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49601405"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "49837547"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Últimas actualizaciones para las versiones de Office que usan Windows Installer (MSI)
 
@@ -31,13 +31,13 @@ Use los vínculos de esta página para obtener más información sobre las actua
 
 |**Versiones y productos**|**Service Pack (SP) más reciente**|**Actualización pública (AP) más reciente**|
 |:-----|:-----|:-----|
-|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |N/D  <br/> |Actualización pública de diciembre de 2020  <br/> [KB4583521](https://support.microsoft.com/help/4583521) <br/> |
+|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |N/D  <br/> |Actualización pública de enero de 2021   <br/> [KB4583559](https://support.microsoft.com/help/4583559) <br/> |
    
 ## <a name="office-2013-updates"></a>Actualizaciones de Office 2013
 
 |**Versiones y productos**|**Service Pack (SP) más reciente**|**Actualización pública (AP) más reciente**|
 |:-----|:-----|:-----|:-----|
-|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |Actualización pública de diciembre de 2020  <br/> [KB4583521](https://support.microsoft.com/help/4583521) <br/> |
+|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |Actualización pública de enero de 2021   <br/> [KB4583559](https://support.microsoft.com/help/4583559) <br/> |
    
 ## <a name="office-2010-updates"></a>Actualizaciones de Office 2010
 > [!IMPORTANT]
@@ -45,11 +45,14 @@ Use los vínculos de esta página para obtener más información sobre las actua
 
 |**Versiones y productos**|**Service Pack (SP) más reciente**|**Actualización pública (AP) más reciente**|
 |:-----|:-----|:-----|:-----|
-|**2010** <br/> Conjuntos de aplicaciones de Office 2010  <br/> Project 2010  <br/> Visio 2010  <br/> Servidores de Office 2010  <br/> Office Web Apps  <br/> Search Server 2010  <br/> Productos de SharePoint 2010  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |Actualización pública de diciembre de 2020  <br/> [KB4583521](https://support.microsoft.com/help/4583521) <br/> |
+|**2010** <br/> Conjuntos de aplicaciones de Office 2010  <br/> Project 2010  <br/> Visio 2010  <br/> Servidores de Office 2010  <br/> Office Web Apps  <br/> Search Server 2010  <br/> Productos de SharePoint 2010  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |Actualización pública de enero de 2021   <br/> [KB4583559](https://support.microsoft.com/help/4583559) <br/> |
    
 
    
 ## <a name="updates-released-in-past-12-months"></a>Actualizaciones publicadas en los últimos 12 meses
+
+[Actualizaciones de seguridad y no relacionadas con la seguridad de enero de 2021: KB4583559](https://support.microsoft.com/help/4583559)
+
 [Actualizaciones de seguridad y no relacionadas con la seguridad de diciembre de 2020: KB4583521](https://support.microsoft.com/help/4583521)
 
 [Actualizaciones de seguridad y no relacionadas con la seguridad de noviembre de 2020: KB4583503](https://support.microsoft.com/help/4583503)
@@ -72,7 +75,7 @@ Use los vínculos de esta página para obtener más información sobre las actua
 
 [Actualizaciones de seguridad y no relacionadas con la seguridad de febrero de 2020: KB4538704](https://support.microsoft.com/help/4538704)
 
-[Actualizaciones de seguridad y no seguridad para enero de 2020: KB4536554](https://support.microsoft.com/help/4536554)
+
 
 
  

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones del canal semestral (dirigido) de Aplicaciones de Microsoft 365 en 2020.
-ms.openlocfilehash: b10c08a3f2375ef3d11653d998f92b3df70a769d
-ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
+ms.openlocfilehash: 71bc9b10ba52a077ba5cb20e2ab916ef7190814c
+ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49760654"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "49837631"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>Notas de la versión para el canal semestral para empresas (vista previa)
 
@@ -23,6 +23,78 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 > [!IMPORTANT]
 > Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441) para obtener más información.
 
+
+## <a name="version-2008-january-12"></a>Versión 2008: 12 de enero
+*Versión 2008 (compilación 13127.21064)*
+
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema por el que los libros de solo lectura dejaban de actualizar los datos de las tablas dinámicas al abrirlos.
+
+
+- Este cambio corrige el siguiente problema: "Insertar objeto" de Excel no muestra el icono correcto cuando se inserta un archivo desde la carpeta de sincronización local de OneDrive.
+
+
+- Se ha corregido un problema por el que los clientes recibían una notificación incorrecta sobre una nueva versión del archivo durante la coautoría.
+
+
+- Se ha corregido un problema de edición por el que al usar IME con el modo de sobrescritura se avanzaban incorrectamente caracteres adicionales.
+
+
+- Se ha corregido un problema que se producía al usar datos en tiempo real junto con la funcionalidad de recálculo multiproceso.
+
+
+- Corrige un problema por el que Excel no se iniciaba o se cerraba inesperadamente si se estaba usando cierta configuración de protección contra vulnerabilidades de Seguridad de Windows (SimExec, CallerCheck).
+
+
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema que provocaba que SmartLinks perdiera el formato cuando se guardaba en Borradores.
+
+
+- Se ha corregido un problema para proporcionar a los usuarios una forma de personalizar el texto de justificación al anular una directiva.
+
+
+- Se ha corregido un problema que provocaba que los caracteres chinos se cambiaran a signos de interrogación al guardar como archivo OFT.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha corregido un problema de VBA por el que Slide.Shapes.AddMediaObject2 se cerraba inesperadamente con formatos de vídeo heredados (MPG-1, MPEG-2).
+
+
+- Se ha corregido un problema que evitaba que algunos archivos de PowerPoint corruptos se abrieran correctamente, incluso después de la operación de reparación de un documento.
+
+
+### <a name="project"></a>Project
+
+- Corregimos un problema por el que el Proyecto puede finalizar inesperadamente al abrir archivos en los que se especificaban los contornos de los recursos de una determinada manera.
+
+
+### <a name="skype"></a>Skype
+
+- Se ha corregido un problema por el que el certificado TLS-DSK de un usuario no se renovaba en el momento esperado, solo se renovaba cuando le quedaban menos de 12 horas de validez.
+
+
+- Se ha corregido un problema por el que la interfaz de usuario de Skype Empresarial se mostraba en blanco tras iniciar sesión si todavía no se tenía la licencia de Office.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Este cambio soluciona un problema relacionado con la apertura de archivos que contienen diagramas heredados.
+
+
+- Este cambio soluciona un problema con proxy de reserva de SVG que provocaba infracciones de acceso.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR CONTENIDO FINAL)
 
 ## <a name="version-2008-december-08"></a>Versión 2008: 08 de diciembre
 *Versión 2008 (Compilación 13127.20910)*
@@ -123,7 +195,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 
 
-[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR EL CONTENIDO FINAL DE LOS DETALLES DE LOS ERRORES)
 
 ## <a name="version-2008-november-10"></a>Versión 2008: 10 de julio
 *La versión prevista es la versión 2008 (compilación 13127.20760).*
@@ -1364,6 +1436,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|FRDC|Insiders| |16.0.13127.21064|versión-12-enero-2008|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20910|versión-08-diciembre-2008|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20760|versión-10-noviembre-2008|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20638|versión-13-octubre-2008|)
