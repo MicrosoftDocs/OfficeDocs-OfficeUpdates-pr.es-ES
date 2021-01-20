@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporcionar a los participantes del Modo aplazado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos
-ms.openlocfilehash: 318bdeb50f56102977ba51282e0bcb14458f62e7
-ms.sourcegitcommit: 73f90b5a0c22dc87f8b8d88fe23f849209f5c849
+ms.openlocfilehash: ddd84106439eace1f0566ed336a4ecc83d4d897f
+ms.sourcegitcommit: 7261f86f16c400b51d14f6fd03e81552c78a8326
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/11/2021
-ms.locfileid: "49793888"
+ms.lasthandoff: 01/19/2021
+ms.locfileid: "49903853"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notas de la versión del canal actual de Office (versión preliminar)
 
@@ -28,6 +28,31 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 > - Las características de Microsoft Teams pueden diferir de la última versión preliminar del Canal actual publicada ya que tienen una cadencia de publicación más frecuente.
 
 [//]: # (NO ELIMINAR)
+
+## <a name="version-2101-january-18"></a>Versión 2101: 18 de enero
+*Versión 2101 (compilación 13628.20158)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="project"></a>Project
+
+- Se ha corregido un problema en el que los bordes no se mostraban para las tareas en la vista Organizador de equipo.
+
+
+- Se ha corregido un problema en el que la opción de arrastrar y colocar no funcionaba para las tareas de la vista Organizador de equipo.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2101-january-09"></a>Versión 2101: 09 de enero
 *Versión 2101 (compilación 13628.20118)*
@@ -488,7 +513,7 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="outlook"></a>Outlook
 
-- Se ha corregido un problema que provocaba que los asistentes originales de algunas reuniones recibían una cancelación cuando un asistente reenviaba la reunión.
+- Se ha corregido un problema que provocaba que los asistentes originales de algunas reuniones reciban una cancelación cuando otro asistente reenviaba la reunión.
 
 
 - Se ha corregido un problema que causaba que algunos usuarios no vieran ninguna firma en la lista desplegable a pesar de que se configuraron una o varias firmas.
@@ -539,7 +564,7 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 - Se ha corregido un problema que provocaba que se interrumpiera el evento MailItem.BeforeAttachmentAdd.
 
 
-- Se ha agregado una clave de registro que permite a los clientes deshabilitar la inclusión de hora de archivo para datos adjuntos en operaciones de IDataObject (es decir, arrastrar y soltar, portapapeles). HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments. REG_DWORD IncludeFileTimesInDataObject. 0 = se excluyen filetimes. 1 = (predeterminado) filetimes se incluyen
+- Se ha agregado una clave de registro que permite a los clientes deshabilitar la inclusión de hora de archivo para los datos adjuntos en las operaciones de IDataObject (es decir, arrastrar y soltar, portapapeles). HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments. REG_DWORD IncludeFileTimesInDataObject. 0 = se excluyen filetimes. 1 = (predeterminado) filetimes se incluyen
 
 
 - Se ha corregido un problema por el que las imágenes en línea desaparecían al responder a un mensaje con una etiqueta de protección de Azure Information Protection.
@@ -791,7 +816,7 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 
 
 
-[//]: # (NO QUITAR LOS DETALLES DE ERROR DE CONTENIDO DEL FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL FIN DE CONTENIDO)
 
 ## <a name="version-2010-october-27"></a>Versión 2010: 27 de octubre
 *Versión 2010 (compilación 13328.20292)*
@@ -1468,7 +1493,7 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 
 
 
-[//]: # (NO QUITAR DETALLES DE ERROR DEL FIN DE CONTENIDO)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2008-august-17"></a>Versión 2008: 17 de agosto
 *Versión 2008 (Compilación 13127.20208)*
