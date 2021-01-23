@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365 en 2020
-ms.openlocfilehash: 90e66226abfe32aeb4097ccdfff3ec3665437c05
-ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
+ms.openlocfilehash: 2a724fbea64b9e0cc76637fbe438f94379a390eb
+ms.sourcegitcommit: 322c2ae414beb38571117d522ddc5a3abb9ecc11
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "49837511"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "49934418"
 ---
 # <a name="release-notes-for-current-channel"></a>Notas de la versión para el canal actual
 
@@ -32,6 +32,28 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+
+## <a name="version-2012-january-21"></a>Versión 2012: 21 de enero
+*Versión 2012 (compilación 13530.20440)*
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema que causaba que los usuarios que tienen buzones compartidos o delegados con jerarquías grandes en su perfil sufriesen bloqueos.
+
+
+- Se ha corregido un problema que provocaba que Outlook se cerrara de forma inesperada para algunos usuarios en ciertos escenarios de búsqueda.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Se ha corregido la secuencia de cierre de archivos para que todos los componentes interdependientes se cierren correctamente.
 
 
 
@@ -170,7 +192,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="outlook"></a>Outlook
 
-- Se ha corregido un problema que provocaba que los asistentes originales de algunas reuniones recibían una cancelación cuando un asistente reenviaba la reunión.
+- Se ha corregido un problema que provocaba que los asistentes originales de algunas reuniones reciban una cancelación cuando otro asistente reenviaba la reunión.
 
 
 - Se ha corregido un problema que causaba que algunos usuarios no vieran ninguna firma en la lista desplegable a pesar de que se configuraron una o varias firmas.
@@ -289,7 +311,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 - Se ha corregido un problema que provocaba que se interrumpiera el evento MailItem.BeforeAttachmentAdd.
 
 
-- Se ha agregado una clave de registro que permite a los clientes deshabilitar la inclusión de hora de archivo para datos adjuntos en operaciones de IDataObject (es decir, arrastrar y soltar, portapapeles).  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments. REG_DWORD IncludeFileTimesInDataObject. 0 = se excluyen horas de archivo. 1 = (predeterminado) se incluyen horas de archivo.
+- Se ha agregado una clave de registro que permite a los clientes deshabilitar la inclusión de hora de archivo para los datos adjuntos en las operaciones de IDataObject (es decir, arrastrar y soltar, portapapeles).  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments. REG_DWORD IncludeFileTimesInDataObject. 0 = se excluyen horas de archivo. 1 = (predeterminado) se incluyen horas de archivo.
 
 
 - Se ha corregido un problema que provocaba que las imágenes en línea desaparecieran al responder a un mensaje con una etiqueta de protección de Azure Information Protection.
@@ -325,7 +347,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 - Se ha corregido un problema que provocaba que se interrumpiera el evento MailItem.BeforeAttachmentAdd.
 
 
-- Se ha agregado una clave de registro que permite a los clientes deshabilitar la inclusión de hora de archivo para datos adjuntos en operaciones de IDataObject (es decir, arrastrar y soltar, portapapeles).  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments.  REG_DWORD IncludeFileTimesInDataObject.  0 = se excluyen horas de archivo.  1 = (predeterminado) se incluyen horas de archivo.
+- Se ha agregado una clave de registro que permite a los clientes deshabilitar la inclusión de hora de archivo para los datos adjuntos en las operaciones de IDataObject (es decir, arrastrar y soltar, portapapeles).  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments.  REG_DWORD IncludeFileTimesInDataObject.  0 = se excluyen horas de archivo.  1 = (predeterminado) se incluyen horas de archivo.
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -366,7 +388,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 
 
-[//]: # (NO QUITAR LOS DETALLES DE ERROR DE CONTENIDO DEL FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL FIN DE CONTENIDO)
 
 ## <a name="version-2010-october-27"></a>Versión 2010: 27 de octubre
 *Versión 2010 (compilación 13328.20292)*
@@ -1844,6 +1866,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 > Si necesita ayuda con algún problema de uso de Office, le recomendamos que publique la pregunta en el [foro de preguntas de Microsoft](https://answers.microsoft.com/) o [Tech Community](https://techcommunity.microsoft.com/), o bien puede ponerse en contacto con el [servicio de soporte técnico](https://support.microsoft.com/contactus).
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|CC|Production| |16.0.13530.20440|version-2012-january-21|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20376|version-2012-january-12|)
 [//]: # (|Win32|CC|Producción| |16.0.13530.20316|versión-05-enero-2012|)
 [//]: # (|Win32|CC|Producción| |16.0.13426.20404|versión-21-diciembre-2011|)
@@ -1853,5 +1876,4 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 [//]: # (|Win32|CC|Production| |16.0.13426.20274|versión-23-noviembre-2011|)
 [//]: # (|Win32|CC|Producción| |16.0.13328.20408|versión-17-noviembre-2010|)
 [//]: # (|Win32|CC|Producción| |16.0.13328.20356|versión-10-noviembre-2010|)
-[//]: # (|Win32|CC|Production| |16.0.13328.20292|versión-27-octubre-2010|)
 [//]: # (NO MODIFICAR EL FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
