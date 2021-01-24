@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los participantes del Modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos.
-ms.openlocfilehash: 6c96bdecd5cfc8fcfdebe4d851d29ac57e66ef72
-ms.sourcegitcommit: 4ba886bf4644bc78de9d15e25c2b338c002643e9
+ms.openlocfilehash: dfc33d79d7746d60b88b2c58fc7511e00cfe4fed
+ms.sourcegitcommit: d321589264b07388b317099e86baf327358c060e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49878743"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "49937075"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de la versión para el canal beta
 
@@ -30,6 +30,62 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 [//]: # (NO ELIMINAR)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+## <a name="version-2102-january-22"></a>Versión 2102: 22 de enero
+*Versión 2102 (compilación 13714.20000)*
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Los clientes gubernamentales pueden ya aplicar etiquetas de confidencialidad a sus documentos y correos electrónicos**: las características de las etiquetas de confidencialidad ahora están disponibles para los clientes de los entornos GCC y GCC-H. [Más información](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="outlook"></a>Outlook
+
+- **Los clientes gubernamentales pueden ya aplicar etiquetas de confidencialidad a sus documentos y correos electrónicos**: las características de las etiquetas de confidencialidad ahora están disponibles para los clientes de los entornos GCC y GCC-H. [Más información](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Los clientes gubernamentales pueden ya aplicar etiquetas de confidencialidad a sus documentos y correos electrónicos**: las características de las etiquetas de confidencialidad ahora están disponibles para los clientes de los entornos GCC y GCC-H. [Más información](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="word"></a>Word
+
+- **Los clientes gubernamentales pueden ya aplicar etiquetas de confidencialidad a sus documentos y correos electrónicos**: las características de las etiquetas de confidencialidad ahora están disponibles para los clientes de los entornos GCC y GCC-H. [Más información](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema que hace que determinados gráficos que usan rangos de celdas discontinuos no se carguen al volver a abrir los archivos.
+
+
+- Corrige un problema por el que Excel no se podía iniciar o se bloqueaba inesperadamente si se usaba determinada configuración de protección contra vulnerabilidades de Seguridad de Windows (SimExec, CallerCheck).
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha corregido un problema relacionado con la muestra de emojis con color.
+
+
+### <a name="word"></a>Word
+
+
+- Corregido un problema que impedía que la escritura en tiempo real y la presencia se restauraran tras perder la conectividad a Internet durante un período de tiempo.
+
+
+- Se ha corregido un problema con la coautoría.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2102-january-15"></a>Versión 2102: 15 de enero
 *Versión 2102 (compilación 13707.20008)*
@@ -1266,7 +1322,7 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 - Se ha corregido un problema en el que los vínculos a los documentos no se insertaban en el cuadro de comentarios a través de la lista desplegable Insertar > Vínculo.
 - Se ha corregido un problema por el que el recuento de hipervínculos en la colección de hipervínculos de VBA no realizaba correctamente la iteración después de agregar una imagen que contenía un hipervínculo.
 
-[//]: # (NO QUITAR LOS DETALLES DE ERROR DE FIN DE CONTENIDO)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2008-july-24"></a>Versión 2008: 24 de julio
 *Versión 2008 (compilación 13117.20000)*
@@ -1572,7 +1628,7 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 - Se ha corregido un problema por el que las marcas de tiempo en los paneles de comentarios no se basaban en la hora de la configuración regional del sistema.
 - Se ha corregido un problema por el que los comentarios entre la aplicación web y la aplicación de escritorio no estaban sincronizados.
 
-[//]: # (NO QUITAR EL CONTENIDO FINAL DE LOS DETALLES DE LOS ERRORES)
+[//]: # (NO QUITAR LOS DETALLES DE ERROR DE FIN DE CONTENIDO)
 
 
 ## <a name="version-2006-may-29"></a>Versión 2006: 29 de mayo
@@ -1815,7 +1871,7 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 - En la Vista web o en el lector inmersivo, al hacer clic en una sugerencia se desplazaba a la parte superior incluso aunque ya estuviera a la vista. Este error se ha corregido.
 - Se ha corregido un problema por el que al intentar guardar un archivo que contenía una macro con un nombre nuevo, este se guardaba con la extensión. docx y el nombre de archivo WRO0004.docx, independientemente de lo que el usuario escribiera, lo que hacía que el archivo no se pudiera volver a usar.
 
-[//]: # (NO ELIMINAR LOS DETALLES DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
 
 
 ## <a name="version-2005-april-24"></a>Versión 2005: 24 de abril
@@ -2333,6 +2389,7 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13714.20000|versión-2102-enero-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|versión-2102-enero-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|versión-2102-enero-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
@@ -2342,5 +2399,4 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 [//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|versión-4-diciembre-2012|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13519.20000|versión-27-noviembre-2012|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13512.20000|versión-20-noviembre-2012|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|versión-13-noviembre-2012|)
 [//]: # (NO MODIFICAR EL FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
