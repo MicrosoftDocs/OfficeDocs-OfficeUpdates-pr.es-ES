@@ -13,12 +13,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: Encuentre y administre actualizaciones de SharePoint Server 2016, SharePoint 2013 y SharePoint 2010 en una única ubicación. Use los vínculos de esta página para obtener más información sobre las actualizaciones y luego descárguelas.
-ms.openlocfilehash: f94b64d28c61d5d98c64daebd4cc406439bafcf4
-ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
+ms.openlocfilehash: b3d51cbd5990de8cf0c36f018881278b6f5989d4
+ms.sourcegitcommit: e9067730e4a7e0bd546c59642362b5f01f1aae64
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "49837581"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "49980424"
 ---
 # <a name="sharepoint-updates"></a>Actualizaciones de SharePoint
 
@@ -26,9 +26,13 @@ Encuentre y administre actualizaciones de [SharePoint Server 2019](#sharepoint-2
 
 Para obtener las actualizaciones más recientes de SharePoint Online y Microsoft 365, consulte la [Hoja de ruta de Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=529454).
 
+
+
 <a name="BKMK_2016"> </a>
   
 ## <a name="sharepoint-2019-update-history"></a>Historial de actualizaciones de SharePoint 2019
+> [!NOTE]
+>La primera actualización/KB en la lista para cada fecha de lanzamiento es el parche STS independiente del idioma. La segunda actualización es el parche WSSLOC dependiente del idioma y cubre todos los paquetes de idiomas, incluidas las instalaciones en inglés. Ambas actualizaciones son necesarias para actualizar completamente la granja de servidores, aunque el parche WSSLOC, que depende del idioma, puede no publicarse todos los meses.
 
 |**Nombre del paquete**|**Número de KB**|**Version**|**Fecha de publicación**|
 |:-----|:-----|:-----|:-----|
@@ -60,6 +64,9 @@ Para obtener las actualizaciones más recientes de SharePoint Online y Microsoft
 |SharePoint Server 2019  <br/>  |[KB 4461548](https://support.microsoft.com/help/4461548)  <br/> ||Diciembre de 2018  <br/> |
 |SharePoint Server 2019  <br/>  |[KB 4461513](https://support.microsoft.com/help/4461513)  <br/> ||Noviembre de 2018  <br/> |
 ## <a name="sharepoint-2016-update-history"></a>Historial de actualizaciones de SharePoint 2016
+
+> [!NOTE]
+>La primera actualización/KB en la lista para cada fecha de lanzamiento es el parche STS independiente del idioma. La segunda actualización es el parche WSSLOC dependiente del idioma y cubre todos los paquetes de idiomas, incluidas las instalaciones en inglés. Ambas actualizaciones son necesarias para actualizar completamente la granja de servidores, aunque el parche WSSLOC, que depende del idioma, puede no publicarse todos los meses.
 
 |**Nombre del paquete**|**Número de KB**|**Version**|**Fecha de publicación**|
 |:-----|:-----|:-----|:-----|
