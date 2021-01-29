@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365 en 2020
-ms.openlocfilehash: 2a724fbea64b9e0cc76637fbe438f94379a390eb
-ms.sourcegitcommit: 322c2ae414beb38571117d522ddc5a3abb9ecc11
+ms.openlocfilehash: 1947dcee128684821afb91cec6bb16f015015ed5
+ms.sourcegitcommit: 0e5154d937aaa5fd45f8fa79b8f0b2a614b7e5a0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49934418"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50013291"
 ---
 # <a name="release-notes-for-current-channel"></a>Notas de la versión para el canal actual
 
@@ -32,6 +32,86 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+
+## <a name="version-2101-january-26"></a>Versión 2101: 26 de enero
+*Versión 2101 (Compilación 13628.20274)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Envío de datos de auditoría sobre el etiquetado de confidencialidad a los administradores de M365:** cuando los usuarios apliquen, cambien o eliminen las etiquetas de confidencialidad en sus documentos y correos electrónicos, Office enviará datos de auditoría al back-end de auditoría de M365 para que los administradores los vean. Esta es una funcionalidad silenciosa (sin interfaz de usuario) para beneficio del administrador.
+
+- 
+  **Los clientes gubernamentales pueden ya aplicar etiquetas de confidencialidad a sus documentos y correos electrónicos**: las características de las etiquetas de confidencialidad ahora están disponibles para los clientes de los entornos GCC y GCC-H (más información: https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels).
+
+### <a name="outlook"></a>Outlook
+
+- **Eliminar conversación por propietario del mensaje:** esta característica permite eliminar una conversación por propietario del mensaje.
+
+- **Dar algo de tiempo entre reuniones consecutivas:** asigne a los asistentes el tiempo necesario para que descansen o se desplacen entre las distintas ubicaciones. Para ello haga que las reuniones empiecen de 5 a 10 minutos antes de forma predeterminada. [Más información](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
+
+- **Todas las reuniones en línea:** Actualice la configuración del calendario para que cada reunión que cree se cree sea una reunión de Teams de forma predeterminada, de modo que no tenga que recordar hacer clic en la opción Reunión de Teams
+
+- **Envío de datos de auditoría sobre el etiquetado de confidencialidad a los administradores de M365:** cuando los usuarios apliquen, cambien o eliminen las etiquetas de confidencialidad en sus documentos y correos electrónicos, Office enviará datos de auditoría al back-end de auditoría de M365 para que los administradores los vean. Esta es una funcionalidad silenciosa (sin interfaz de usuario) para beneficio del administrador.
+
+- 
+  **Los clientes gubernamentales pueden ya aplicar etiquetas de confidencialidad a sus documentos y correos electrónicos**: las características de las etiquetas de confidencialidad ahora están disponibles para los clientes de los entornos GCC y GCC-H (más información: https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels).
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Envío de datos de auditoría sobre el etiquetado de confidencialidad a los administradores de M365:** cuando los usuarios apliquen, cambien o eliminen las etiquetas de confidencialidad en sus documentos y correos electrónicos, Office enviará datos de auditoría al back-end de auditoría de M365 para que los administradores los vean. Esta es una funcionalidad silenciosa (sin interfaz de usuario) para beneficio del administrador.
+
+- 
+  **Los clientes gubernamentales pueden ya aplicar etiquetas de confidencialidad a sus documentos y correos electrónicos**: las características de las etiquetas de confidencialidad ahora están disponibles para los clientes de los entornos GCC y GCC-H (más información: https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels).
+
+### <a name="word"></a>Word
+
+- **Envío de datos de auditoría sobre el etiquetado de confidencialidad a los administradores de M365:** cuando los usuarios apliquen, cambien o eliminen las etiquetas de confidencialidad en sus documentos y correos electrónicos, Office enviará datos de auditoría al back-end de auditoría de M365 para que los administradores los vean. Esta es una funcionalidad silenciosa (sin interfaz de usuario) para beneficio del administrador.
+
+- 
+  **Los clientes gubernamentales pueden ya aplicar etiquetas de confidencialidad a sus documentos y correos electrónicos**: las características de las etiquetas de confidencialidad ahora están disponibles para los clientes de los entornos GCC y GCC-H (más información: https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels).
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Corrige un problema por el que Excel no se iniciaba o se cerraba inesperadamente si se estaba usando cierta configuración de protección contra vulnerabilidades de Seguridad de Windows (SimExec, CallerCheck).
+
+
+### <a name="excelexe"></a>excel.exe
+
+- Hemos corregido un problema que interrumpía algunas macros heredadas de Excel 4.0 y Excel 5.0, así como algunas llamadas de VBA a dialogsheets.show.
+
+
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema que provocaba que Outlook se cerrara de forma inesperada para algunos usuarios en ciertos escenarios de búsqueda.
+
+
+- Se ha corregido un problema que provocaba que los usuarios que tienen buzones compartidos o delegados con jerarquías grandes en su perfil experimentaran bloqueos.
+
+
+### <a name="project"></a>Project
+
+- Se ha corregido un problema en el que los bordes no se mostraban para las tareas en la vista Organizador de equipo.
+
+
+- Se ha corregido un problema en el que la opción de arrastrar y colocar no funcionaba para las tareas de la vista Organizador de equipo.
+
+
+- Se corrigió un problema que provocaba que, cuando se asignaba un recurso de costo a una tarea hito, el costo de línea base no se acumulara correctamente.
 
 
 
@@ -366,7 +446,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 
 
-[//]: # (NO QUITAR LOS DETALLES DE ERROR DE CONTENIDO DEL FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2010-november-10"></a>Versión 2010: 10 de noviembre
 *Versión 2010 (compilación 13328.20356)*
@@ -1737,7 +1817,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 
 
-[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR LOS DETALLES DE ERROR DE FIN DE CONTENIDO)
 
 ## <a name="version-2001-january-30"></a>Versión 2001: 30 de enero
 *Versión 2001 (compilación 12430.20184)*
@@ -1866,6 +1946,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 > Si necesita ayuda con algún problema de uso de Office, le recomendamos que publique la pregunta en el [foro de preguntas de Microsoft](https://answers.microsoft.com/) o [Tech Community](https://techcommunity.microsoft.com/), o bien puede ponerse en contacto con el [servicio de soporte técnico](https://support.microsoft.com/contactus).
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|CC|Production| |16.0.13628.20274|version-2101-january-26|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20440|version-2012-january-21|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20376|version-2012-january-12|)
 [//]: # (|Win32|CC|Producción| |16.0.13530.20316|versión-05-enero-2012|)
@@ -1875,5 +1956,4 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 [//]: # (| Win32 | CC | Producción | | 16.0.13426.20294 | versión-30-noviembre-2011 |)
 [//]: # (|Win32|CC|Production| |16.0.13426.20274|versión-23-noviembre-2011|)
 [//]: # (|Win32|CC|Producción| |16.0.13328.20408|versión-17-noviembre-2010|)
-[//]: # (|Win32|CC|Producción| |16.0.13328.20356|versión-10-noviembre-2010|)
 [//]: # (NO MODIFICAR EL FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
