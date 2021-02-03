@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI vínculos a la información de las últimas actualizaciones no relacionadas con la seguridad de las versiones perpetuas de Office 2016, Office 2013 y Office 2010.
-ms.openlocfilehash: a27f237ebfa45bc00503ae56680c3082c6e05af0
-ms.sourcegitcommit: 83279185266cdc7c628bc5092360d2914e240034
+ms.openlocfilehash: d678db0661a86e65dc8fc17b659d7339c9ad2b65
+ms.sourcegitcommit: 94cecf570c23c9f540a659820706fca049ed97ab
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49756759"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50080951"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Últimas actualizaciones no relacionadas con la seguridad para las versiones de Office que usan Windows Installer (MSI)
 
@@ -25,6 +25,19 @@ Esta página enumera las actualizaciones de Office no relacionadas con la seguri
 > - La información de este artículo no se aplica a las aplicaciones de Microsoft 365.
 > - Para obtener más información sobre la instalación de actualizaciones de Office, vea [Instalación de actualizaciones de Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
+
+## <a name="february-2-2021"></a>2 de febrero de 2021
+**Office 2016**<br/>
+Actualización para Microsoft Office 2016 ([KB4493189](https://support.microsoft.com/help/4493189)) </br> Actualización de Microsoft Outlook 2016 ([KB4493190](https://support.microsoft.com/help/4493190)) </br> Actualización para Microsoft PowerPoint 2016 ([KB4493164](https://support.microsoft.com/help/4493164)) </br> 
+
+**Office 2013**<br/>
+Actualización de Microsoft Office 2013 ([KB4486684](https://support.microsoft.com/help/4486684)) </br>
+Actualización para Microsoft PowerPoint 2013 ([KB4493169](https://support.microsoft.com/help/4493169)) </br>
+
+**Office 2010**<br/>
+Actualización para Microsoft Office 2010 ([KB4493180](https://support.microsoft.com/help/4493180)) </br>
+Actualización para Microsoft PowerPoint 2010 ([KB4493179](https://support.microsoft.com/help/4493179))</br>
+
 
 ## <a name="january-5-2021"></a>5 de enero de 2021
 **Office 2016**</br>
