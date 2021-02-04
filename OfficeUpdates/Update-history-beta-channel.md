@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a participantes del programa Insider el historial de actualizaciones de los lanzamientos del canal mensual del modo anticipado de Insider para versiones de escritorio de Windows
-ms.openlocfilehash: 688fbf17c1566e4b2c010bc59f5850c125f3b689
-ms.sourcegitcommit: 60d368ec000eb8033567974745d31c66d8d40e8e
+ms.openlocfilehash: 78b7962a2bfbf0088a50af0613271275031bcdf3
+ms.sourcegitcommit: 9d66444fa422c74db7a7908d227b58972abc188e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50072225"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "50099894"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Historial de actualizaciones del Canal Office beta
 
@@ -37,6 +37,9 @@ Para obtener las notas de la versión, vea [notas de la versión de Insider de O
 
 
 [//]: # (NO ELIMINAR)
+
+**3 de febrero de 2021**<br/>
+Versión 2102 (compilación 13801.20004)<br/>
 
 **01 de febrero de 2021**<br/>
 Versión 2102 (compilación 13729.20000)<br/>
