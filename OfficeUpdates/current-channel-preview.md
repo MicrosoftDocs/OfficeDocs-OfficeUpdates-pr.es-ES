@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporcionar a los participantes del Modo aplazado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos
-ms.openlocfilehash: 647619401b48a0770bc40c26d3ccafd11d511c91
-ms.sourcegitcommit: 596f79408a3c2db9e81ce0ef236680ead06035b6
+ms.openlocfilehash: 20c8d43321c9eb99ba667e7d9ec418de7eedf607
+ms.sourcegitcommit: 64ec3051f942003a63c28a4713f5511d85f2fa20
 ms.translationtype: HT
 ms.contentlocale: es-ES
 ms.lasthandoff: 02/04/2021
-ms.locfileid: "50101368"
+ms.locfileid: "50105222"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notas de la versión del canal actual de Office (versión preliminar)
 
@@ -78,16 +78,11 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 
 - **Los clientes gubernamentales pueden ya aplicar etiquetas de confidencialidad a sus documentos y correos electrónicos**: las características de las etiquetas de confidencialidad ahora están disponibles para los clientes de los entornos GCC y GCC-H. [Más información](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
+
 ### <a name="word"></a>Word
 
 - **Los clientes gubernamentales pueden ya aplicar etiquetas de confidencialidad a sus documentos y correos electrónicos**: las características de las etiquetas de confidencialidad ahora están disponibles para los clientes de los entornos GCC y GCC-H. [Más información](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
-
-[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
-
-<br/>
-
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="outlook"></a>Outlook
@@ -97,6 +92,8 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 
 
 [//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+
+
 
 ## <a name="version-2101-january-18"></a>Versión 2101: 18 de enero
 *Versión 2101 (compilación 13628.20158)*
@@ -122,6 +119,19 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 
 
 [//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+
+## <a name="version-2101-january-13"></a>Versión 2101: 13 de enero
+*Versión 2101 (compilación 13628.20118)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="teams"></a>Teams
+- **Más temas:** ahora hay nuevos temas disponibles para clientes web y de escritorio.
+
+- **Uso compartido de PPT:** vista Moderador en Teams. Una vez que seleccione un archivo de PowerPoint en la bandeja Compartir de Teams, la vista Moderador se abrirá automáticamente. Puede ver la diapositiva actual, las notas de las diapositivas y una franja de miniaturas de todas las diapositivas de la presentación para facilitar la navegación de diapositivas ad-hoc. Esta vista está completamente en segundo plano y es privada para el moderador que tiene el control. El público solo puede ver la diapositiva actual (resaltada en el cuadro rojo grande) o la diapositiva a la que decida navegar (si la navegación del público no está bloqueada por usted). 
+
+[//]: # (NO QUITAR DETALLES DE CARACTERÍSTICAS CONTENIDO FINAL)
+<br/>
 
 ## <a name="version-2101-january-09"></a>Versión 2101: 09 de enero
 *Versión 2101 (compilación 13628.20118)*
