@@ -9,74 +9,71 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los clientes notas de lanzamiento para el historial de actualizaciones de las aplicaciones de Microsoft 365 para Windows 7
-ms.openlocfilehash: 555cb8bd9ddeaa53e209655a9c744ed6b6eb3ddf
-ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
+ms.openlocfilehash: 26aac794e5dec7f92afff1dd020528520ce98662
+ms.sourcegitcommit: 6a32d4120b43fbedbf08362255277cebd2be11a5
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "49837576"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50118400"
 ---
-# <a name="update-history-for-microsoft-365-apps-on-windows-7"></a><span data-ttu-id="299cb-103">Historial de actualizaciones para las aplicaciones de Microsoft 365 en Windows 7</span><span class="sxs-lookup"><span data-stu-id="299cb-103">Update history for Microsoft 365 Apps on Windows 7</span></span> 
+# <a name="update-history-for-microsoft-365-apps-on-windows-7"></a><span data-ttu-id="378da-103">Historial de actualizaciones para las aplicaciones de Microsoft 365 en Windows 7</span><span class="sxs-lookup"><span data-stu-id="378da-103">Update history for Microsoft 365 Apps on Windows 7</span></span> 
 
  > [!NOTE]
 >
->- <span data-ttu-id="299cb-104">El soporte para Windows 7 terminó el 14 de enero de 2020.</span><span class="sxs-lookup"><span data-stu-id="299cb-104">Support for Windows 7 ended on January 14, 2020.</span></span> [<span data-ttu-id="299cb-105">Más información</span><span class="sxs-lookup"><span data-stu-id="299cb-105">Learn more</span></span>](https://www.microsoft.com/microsoft-365/windows/end-of-windows-7-support?rtc=1)
->- <span data-ttu-id="299cb-106">Aplicaciones de Microsoft 365 ya no es compatible con Windows 7, pero seguirá recibiendo actualizaciones de seguridad hasta enero de 2023.</span><span class="sxs-lookup"><span data-stu-id="299cb-106">Microsoft 365 Apps is no longer supported on Windows 7 but will continue to get security updates until January 2023.</span></span> [<span data-ttu-id="299cb-107">Más información</span><span class="sxs-lookup"><span data-stu-id="299cb-107">Learn more</span></span>](https://docs.microsoft.com/DeployOffice/windows-7-support)
->- <span data-ttu-id="299cb-108">Si es un usuario doméstico que ejecuta Office en Windows 7, consulte [Fin de soporte técnico de Windows 7 y Office.](https://support.office.com/en-us/article/windows-7-end-of-support-and-office-78f20fab-b57b-44d7-8368-06a8493f3cb9?ui=en-US&rs=en-US&ad=US) </span><span class="sxs-lookup"><span data-stu-id="299cb-108">If you’re a home user running Office on Windows 7, see [Windows 7 end of support and Office.](https://support.office.com/en-us/article/windows-7-end-of-support-and-office-78f20fab-b57b-44d7-8368-06a8493f3cb9?ui=en-US&rs=en-US&ad=US)</span></span>
-<span data-ttu-id="299cb-109">La versión 2002 es la última versión de las aplicaciones de Microsoft 365 que estará disponible para los dispositivos con Windows 7 después de que Windows 7 deje de ser compatible en enero de 2020.</span><span class="sxs-lookup"><span data-stu-id="299cb-109">Version 2002 is the last version of Microsoft 365 Apps that will be available for devices running Windows 7 after Windows 7 goes out of support in January 2020.</span></span>  
+>- <span data-ttu-id="378da-104">El soporte para Windows 7 terminó el 14 de enero de 2020.</span><span class="sxs-lookup"><span data-stu-id="378da-104">Support for Windows 7 ended on January 14, 2020.</span></span> [<span data-ttu-id="378da-105">Más información</span><span class="sxs-lookup"><span data-stu-id="378da-105">Learn more</span></span>](https://www.microsoft.com/microsoft-365/windows/end-of-windows-7-support)
+>- <span data-ttu-id="378da-106">Aplicaciones de Microsoft 365 ya no es compatible con Windows 7, pero seguirá recibiendo actualizaciones de seguridad hasta enero de 2023.</span><span class="sxs-lookup"><span data-stu-id="378da-106">Microsoft 365 Apps is no longer supported on Windows 7, but will continue to get security updates until January 2023.</span></span> <span data-ttu-id="378da-107">Para más información, vea [Finalización del soporte para Windows 7 y Aplicaciones de Microsoft 365](https://docs.microsoft.com/DeployOffice/endofsupport/windows-7-support).</span><span class="sxs-lookup"><span data-stu-id="378da-107">For more information, see [Windows 7 end of support and Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/endofsupport/windows-7-support).</span></span>
+>- <span data-ttu-id="378da-108">Si es un usuario particular que ejecuta Office en Windows 7, vea [Finalización del soporte de Windows 7 y Office](https://support.microsoft.com/office/78f20fab-b57b-44d7-8368-06a8493f3cb9).</span><span class="sxs-lookup"><span data-stu-id="378da-108">If you’re a home user running Office on Windows 7, see [Windows 7 end of support and Office](https://support.microsoft.com/office/78f20fab-b57b-44d7-8368-06a8493f3cb9).</span></span>
 
-<span data-ttu-id="299cb-110">Se espera que la versión 2002 esté disponible en los siguientes canales:</span><span class="sxs-lookup"><span data-stu-id="299cb-110">Version 2002 is expected to be available in the following channels:</span></span>
-- <span data-ttu-id="299cb-111">Canal mensual a finales de febrero de 2020</span><span class="sxs-lookup"><span data-stu-id="299cb-111">Monthly Channel in late February 2020</span></span>
-- <span data-ttu-id="299cb-112">Canal Semi-Anual (Dirigido) en marzo de 2020</span><span class="sxs-lookup"><span data-stu-id="299cb-112">Semi-Annual Channel (Targeted) in March 2020</span></span>
-- <span data-ttu-id="299cb-113">Canal Semestral en julio de 2020</span><span class="sxs-lookup"><span data-stu-id="299cb-113">Semi-Annual Channel in July 2020</span></span>
+<span data-ttu-id="378da-109">La versión 2002 es la última versión de Aplicaciones de Microsoft 365 disponible en dispositivos que ejecutan Windows 7.</span><span class="sxs-lookup"><span data-stu-id="378da-109">Version 2002 is the last version of Microsoft 365 Apps that is available for devices running Windows 7.</span></span> <span data-ttu-id="378da-110">La versión 2002 está disponible en todos los canales de actualización para Aplicaciones de Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="378da-110">Version 2002 is available in all update channels for Microsoft 365 Apps.</span></span>
 
-<span data-ttu-id="299cb-114">Las versiones en el canal semestral suelen estar disponibles sólo durante 14 meses, pero estamos haciendo una excepción sólo para la versión 2002 para alinearse con el tiempo de disponibilidad de las actualizaciones de seguridad extendidas (ESU) para Windows 7.</span><span class="sxs-lookup"><span data-stu-id="299cb-114">Versions on Semi-Annual Channel are usually available for only 14 months, but we're making an exception just for Version 2002 to align with how long Extended Security Updates (ESU) for Windows 7 are available.</span></span>
+<span data-ttu-id="378da-111">Las versiones del Canal semestral para empresas suelen estar disponibles solo durante 14 meses.</span><span class="sxs-lookup"><span data-stu-id="378da-111">Versions of Semi-Annual Enterprise Channel are usually available only for 14 months.</span></span> <span data-ttu-id="378da-112">Pero haremos una excepción solo en el caso de la versión 2002 para ajustarnos a la disponibilidad de las actualizaciones de seguridad extendidas (ESU) para Windows 7.</span><span class="sxs-lookup"><span data-stu-id="378da-112">But, we're making an exception just for Version 2002 to align with how long Extended Security Updates (ESU) for Windows 7 are available.</span></span>
 
-<span data-ttu-id="299cb-115">Esta disponibilidad ampliada para la versión 2002 también se aplica a otros canales de actualización, como Mensual y Semestral (Dirigido), pero sólo se aplica a los dispositivos que ejecutan Windows 7.</span><span class="sxs-lookup"><span data-stu-id="299cb-115">This extended availability for Version 2002 also applies to other update channels, such as Monthly and Semi-Annual (Targeted), but only applies to devices running Windows 7.</span></span>
+<span data-ttu-id="378da-113">Esta disponibilidad ampliada para la versión 2002 también se aplica a otros canales de actualización, como el Canal actual, pero solo se aplica a los dispositivos que ejecutan Windows 7.</span><span class="sxs-lookup"><span data-stu-id="378da-113">This extended availability for Version 2002 also applies to other update channels, such as Current Channel, but only applies to devices running Windows 7.</span></span>
 
-<span data-ttu-id="299cb-116">Puede seguir implementando versiones anteriores a la 2002 en dispositivos que ejecutan Windows 7 siempre y cuando aún se admita esa versión anterior.</span><span class="sxs-lookup"><span data-stu-id="299cb-116">You can continue to deploy versions earlier than Version 2002 on devices running Windows 7 as long as that earlier version is still supported.</span></span> <span data-ttu-id="299cb-117">Por ejemplo, puede seguir usando la versión 1908 del canal semianual en dispositivos que ejecutan Windows 7 hasta marzo de 2021, que es cuando la versión 1908 queda fuera del soporte técnico para el canal semianual.</span><span class="sxs-lookup"><span data-stu-id="299cb-117">For example, you can continue to use Version 1908 of Semi-Annual Channel on devices running Windows 7 until March 2021, which is when Version 1908 goes out of support for Semi-Annual Channel.</span></span>
+<span data-ttu-id="378da-114">El segundo martes de cada mes, se publicará una nueva compilación de la versión 2002 con las actualizaciones de seguridad, si es necesario.</span><span class="sxs-lookup"><span data-stu-id="378da-114">On the second Tuesday of each month, a new build of Version 2002 will be released with security updates, as needed.</span></span> <span data-ttu-id="378da-115">Para obtener una lista de las actualizaciones de seguridad para la versión 2002, vea [Notas de la versión de las actualizaciones de seguridad de Microsoft Office](microsoft365-apps-security-updates.md).</span><span class="sxs-lookup"><span data-stu-id="378da-115">For a list of security updates for Version 2002, see [Release notes for Microsoft Office security updates](microsoft365-apps-security-updates.md).</span></span>
 
-<span data-ttu-id="299cb-118">El segundo martes de cada mes, se publicará una nueva compilación de la versión 2002 con las actualizaciones de seguridad, si es necesario.</span><span class="sxs-lookup"><span data-stu-id="299cb-118">On the 2nd Tuesday of each month, a new build of Version 2002 will be released with security updates, as needed.</span></span> <span data-ttu-id="299cb-119">Solo habrá una compilación para cada arquitectura (x86 o x64) y se puede usar con el canal de actualización que haya implementado.</span><span class="sxs-lookup"><span data-stu-id="299cb-119">There will be only one build for each architecture (x86 or x64) and it can be used with whichever update channel you have deployed.</span></span> <span data-ttu-id="299cb-120">No habrá compilaciones independientes de la versión 2002 para cada canal.</span><span class="sxs-lookup"><span data-stu-id="299cb-120">There won't be separate builds of Version 2002 for each channel.</span></span> <span data-ttu-id="299cb-121">Por ejemplo, puede usar la misma compilación para actualizar dispositivos que ejecutan Windows 7 que usan el canal mensual o que usan el canal semianual.</span><span class="sxs-lookup"><span data-stu-id="299cb-121">For example, the same build can be used to update devices running Windows 7 that are using Monthly Channel or that are using Semi-Annual Channel.</span></span>
+<span data-ttu-id="378da-116">Si administra las actualizaciones con Microsoft Endpoint Configuration Manager, vea [Guía para usar Configuration Manager para actualizaciones](https://docs.microsoft.com/deployoffice/endofsupport/windows-7-support#guidance-when-using-configuration-manager-for-updates).</span><span class="sxs-lookup"><span data-stu-id="378da-116">If you manage updates by using Microsoft Endpoint Configuration Manager, see [Guidance when using Configuration Manager for updates](https://docs.microsoft.com/deployoffice/endofsupport/windows-7-support#guidance-when-using-configuration-manager-for-updates).</span></span>
 
-##
+
+## <a name="update-history"></a><span data-ttu-id="378da-117">Historial de actualizaciones</span><span class="sxs-lookup"><span data-stu-id="378da-117">Update history</span></span>
 
 [//]: # (NO ELIMINAR)
 
-<span data-ttu-id="299cb-123">**12 de enero de 2021**</span><span class="sxs-lookup"><span data-stu-id="299cb-123">**January 12, 2021**</span></span><br/>
-<span data-ttu-id="299cb-124">Versión 2002 (compilación 12527.21504)</span><span class="sxs-lookup"><span data-stu-id="299cb-124">Version 2002 (Build 12527.21504)</span></span><br/>
+<span data-ttu-id="378da-119">**12 de enero de 2021**</span><span class="sxs-lookup"><span data-stu-id="378da-119">**January 12, 2021**</span></span><br/>
+<span data-ttu-id="378da-120">Versión 2002 (compilación 12527.21504)</span><span class="sxs-lookup"><span data-stu-id="378da-120">Version 2002 (Build 12527.21504)</span></span><br/>
 
-<span data-ttu-id="299cb-125">**8 de diciembre de 2020**</span><span class="sxs-lookup"><span data-stu-id="299cb-125">**December 08, 2020**</span></span><br/>
-<span data-ttu-id="299cb-126">Versión 2002 (compilación 12527.21416)</span><span class="sxs-lookup"><span data-stu-id="299cb-126">Version 2002 (Build 12527.21416)</span></span><br/>
+<span data-ttu-id="378da-121">**8 de diciembre de 2020**</span><span class="sxs-lookup"><span data-stu-id="378da-121">**December 08, 2020**</span></span><br/>
+<span data-ttu-id="378da-122">Versión 2002 (compilación 12527.21416)</span><span class="sxs-lookup"><span data-stu-id="378da-122">Version 2002 (Build 12527.21416)</span></span><br/>
 
-<span data-ttu-id="299cb-127">**10 de noviembre de 2020**</span><span class="sxs-lookup"><span data-stu-id="299cb-127">**November 10, 2020**</span></span><br/>
-<span data-ttu-id="299cb-128">Versión de 2002 (compilación 12527.21330)</span><span class="sxs-lookup"><span data-stu-id="299cb-128">Version 2002 (Build 12527.21330)</span></span><br/>
+<span data-ttu-id="378da-123">**10 de noviembre de 2020**</span><span class="sxs-lookup"><span data-stu-id="378da-123">**November 10, 2020**</span></span><br/>
+<span data-ttu-id="378da-124">Versión de 2002 (compilación 12527.21330)</span><span class="sxs-lookup"><span data-stu-id="378da-124">Version 2002 (Build 12527.21330)</span></span><br/>
 
-<span data-ttu-id="299cb-129">**13 de octubre de 2020**</span><span class="sxs-lookup"><span data-stu-id="299cb-129">**October 13, 2020**</span></span><br/>
-<span data-ttu-id="299cb-130">Versión 2002 (compilación 12527.21236)</span><span class="sxs-lookup"><span data-stu-id="299cb-130">Version 2002 (Build 12527.21236)</span></span><br/>
+<span data-ttu-id="378da-125">**13 de octubre de 2020**</span><span class="sxs-lookup"><span data-stu-id="378da-125">**October 13, 2020**</span></span><br/>
+<span data-ttu-id="378da-126">Versión 2002 (compilación 12527.21236)</span><span class="sxs-lookup"><span data-stu-id="378da-126">Version 2002 (Build 12527.21236)</span></span><br/>
 
-<span data-ttu-id="299cb-131">**09 de septiembre de 2020**</span><span class="sxs-lookup"><span data-stu-id="299cb-131">**September 09, 2020**</span></span><br/>
-<span data-ttu-id="299cb-132">Versión 2002 (Compilación 12527.21104)</span><span class="sxs-lookup"><span data-stu-id="299cb-132">Version 2002 (Build 12527.21104)</span></span><br/>
+<span data-ttu-id="378da-127">**09 de septiembre de 2020**</span><span class="sxs-lookup"><span data-stu-id="378da-127">**September 09, 2020**</span></span><br/>
+<span data-ttu-id="378da-128">Versión 2002 (Compilación 12527.21104)</span><span class="sxs-lookup"><span data-stu-id="378da-128">Version 2002 (Build 12527.21104)</span></span><br/>
 
-<span data-ttu-id="299cb-133">**11 de agosto de 2020**</span><span class="sxs-lookup"><span data-stu-id="299cb-133">**August 11, 2020**</span></span><br/>
-<span data-ttu-id="299cb-134">Versión 2002 (compilación 12527.20988)</span><span class="sxs-lookup"><span data-stu-id="299cb-134">Version 2002 (Build 12527.20988)</span></span><br/>
+<span data-ttu-id="378da-129">**11 de agosto de 2020**</span><span class="sxs-lookup"><span data-stu-id="378da-129">**August 11, 2020**</span></span><br/>
+<span data-ttu-id="378da-130">Versión 2002 (compilación 12527.20988)</span><span class="sxs-lookup"><span data-stu-id="378da-130">Version 2002 (Build 12527.20988)</span></span><br/>
 
-<span data-ttu-id="299cb-135">**14 de julio de 2020**</span><span class="sxs-lookup"><span data-stu-id="299cb-135">**July 14, 2020**</span></span><br/>
-<span data-ttu-id="299cb-136">Versión 2002 (compilación 12527.20880)</span><span class="sxs-lookup"><span data-stu-id="299cb-136">Version 2002 (Build 12527.20880)</span></span><br/>
+<span data-ttu-id="378da-131">**14 de julio de 2020**</span><span class="sxs-lookup"><span data-stu-id="378da-131">**July 14, 2020**</span></span><br/>
+<span data-ttu-id="378da-132">Versión 2002 (compilación 12527.20880)</span><span class="sxs-lookup"><span data-stu-id="378da-132">Version 2002 (Build 12527.20880)</span></span><br/>
 
-<span data-ttu-id="299cb-137">**09 de junio de 2020**</span><span class="sxs-lookup"><span data-stu-id="299cb-137">**June 09, 2020**</span></span><br/>
-<span data-ttu-id="299cb-138">Versión 2002 (compilación 12527.20720)</span><span class="sxs-lookup"><span data-stu-id="299cb-138">Version 2002 (Build 12527.20720)</span></span><br/>
+<span data-ttu-id="378da-133">**09 de junio de 2020**</span><span class="sxs-lookup"><span data-stu-id="378da-133">**June 09, 2020**</span></span><br/>
+<span data-ttu-id="378da-134">Versión 2002 (compilación 12527.20720)</span><span class="sxs-lookup"><span data-stu-id="378da-134">Version 2002 (Build 12527.20720)</span></span><br/>
 
-<span data-ttu-id="299cb-139">**12 de mayo de 2020**</span><span class="sxs-lookup"><span data-stu-id="299cb-139">**May 12, 2020**</span></span><br/>
-<span data-ttu-id="299cb-140">Versión 2002 (compilación 12527.20612)</span><span class="sxs-lookup"><span data-stu-id="299cb-140">Version 2002 (Build 12527.20612)</span></span><br/>
+<span data-ttu-id="378da-135">**12 de mayo de 2020**</span><span class="sxs-lookup"><span data-stu-id="378da-135">**May 12, 2020**</span></span><br/>
+<span data-ttu-id="378da-136">Versión 2002 (compilación 12527.20612)</span><span class="sxs-lookup"><span data-stu-id="378da-136">Version 2002 (Build 12527.20612)</span></span><br/>
 
-<span data-ttu-id="299cb-141">**14 de abril de 2020**</span><span class="sxs-lookup"><span data-stu-id="299cb-141">**April 14, 2020**</span></span><br/>
-<span data-ttu-id="299cb-142">Versión 2002 (compilación 12527.20442)</span><span class="sxs-lookup"><span data-stu-id="299cb-142">Version 2002 (Build 12527.20442)</span></span><br/>
+<span data-ttu-id="378da-137">**14 de abril de 2020**</span><span class="sxs-lookup"><span data-stu-id="378da-137">**April 14, 2020**</span></span><br/>
+<span data-ttu-id="378da-138">Versión 2002 (compilación 12527.20442)</span><span class="sxs-lookup"><span data-stu-id="378da-138">Version 2002 (Build 12527.20442)</span></span><br/>
 
-<span data-ttu-id="299cb-143">**10 de marzo de 2020**</span><span class="sxs-lookup"><span data-stu-id="299cb-143">**March 10, 2020**</span></span><br/>
-<span data-ttu-id="299cb-144">Versión 2002 (compilación 12527.20278)</span><span class="sxs-lookup"><span data-stu-id="299cb-144">Version 2002 (Build 12527.20278)</span></span><br/>
+<span data-ttu-id="378da-139">**10 de marzo de 2020**</span><span class="sxs-lookup"><span data-stu-id="378da-139">**March 10, 2020**</span></span><br/>
+<span data-ttu-id="378da-140">Versión 2002 (compilación 12527.20278)</span><span class="sxs-lookup"><span data-stu-id="378da-140">Version 2002 (Build 12527.20278)</span></span><br/>
 
 
 
 
 > [!NOTE]
-> <span data-ttu-id="299cb-145">Si necesita ayuda con algún problema de uso de Office, le recomendamos que publique la pregunta en el [foro de preguntas de Microsoft](https://answers.microsoft.com/) o [Tech Community](https://techcommunity.microsoft.com/), o bien puede ponerse en contacto con el [servicio de soporte técnico](https://support.microsoft.com/contactus).</span><span class="sxs-lookup"><span data-stu-id="299cb-145">If you need help with an issue with using Office, we recommend that you post your question on [Microsoft's Answers forum](https://answers.microsoft.com/) or [Tech Community](https://techcommunity.microsoft.com/), or you can contact [support](https://support.microsoft.com/contactus).</span></span>
+> <span data-ttu-id="378da-141">Si necesita ayuda con algún problema de uso de Office, le recomendamos que publique la pregunta en el [foro de preguntas de Microsoft](https://answers.microsoft.com/) o [Tech Community](https://techcommunity.microsoft.com/), o bien puede ponerse en contacto con el [servicio de soporte técnico](https://support.microsoft.com/contactus).</span><span class="sxs-lookup"><span data-stu-id="378da-141">If you need help with an issue with using Office, we recommend that you post your question on [Microsoft's Answers forum](https://answers.microsoft.com/) or [Tech Community](https://techcommunity.microsoft.com/), or you can contact [support](https://support.microsoft.com/contactus).</span></span>
