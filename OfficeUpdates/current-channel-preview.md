@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporcionar a los participantes del Modo aplazado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos
-ms.openlocfilehash: 20c8d43321c9eb99ba667e7d9ec418de7eedf607
-ms.sourcegitcommit: 64ec3051f942003a63c28a4713f5511d85f2fa20
+ms.openlocfilehash: a225ff4079216b634a0bc113e077b4925dab158e
+ms.sourcegitcommit: 7c433a6b5cd2736a9e2ddf7a6c3bd0ea6814ac6e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "50105222"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50151968"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notas de la versión del canal actual de Office (versión preliminar)
 
@@ -28,6 +28,106 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 > - Las características de Microsoft Teams pueden diferir de la última versión preliminar del Canal actual publicada ya que tienen una cadencia de publicación más frecuente.
 
 [//]: # (NO ELIMINAR)
+
+## <a name="version-2102-february-08"></a>Versión 2102: 8 de febrero
+*Versión 2102 (Compilación 13801.20084)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="outlook"></a>Outlook
+
+- **Sugerencias de redacción con tecnología de Búsqueda de Microsoft (Para\CC\CCO):** ahora la adición de personas a la línea Para\CC usa la tecnología de Búsqueda de Microsoft.
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="access"></a>Access
+
+- Ahora verá las pestañas seleccionadas más claramente en Access.
+
+
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema que hace que determinados gráficos que usan rangos de celdas discontinuos no se carguen al volver a abrir los archivos.
+
+
+- Corrige un problema por el que Excel no se iniciaba o se cerraba inesperadamente si se estaba usando cierta configuración de protección contra vulnerabilidades de Seguridad de Windows (SimExec, CallerCheck).
+
+
+- Hemos corregido un problema por el que Excel dejaba de responder después de seleccionar una serie de datos en un gráfico.
+
+
+- Hemos corregido un problema en el que Excel se cerraba inesperadamente al agregar un nombre en el cuadro de diálogo Definir nombre.
+
+
+- Se ha corregido un problema relacionado con las imágenes que conservaban su relación de aspecto durante una operación de recorte.
+
+
+### <a name="outlook"></a>Outlook
+
+- Hemos corregido un problema por el que los mensajes de correo electrónico se enviaban como firmados digitalmente después de que el usuario desactivara esa opción.
+
+
+- Hemos corregido un problema que causaba que no se mostrara el icono de cifrado de los correos electrónicos enviados con la opción Solo cifrar.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha corregido un problema relacionado con la muestra de emojis con color.
+
+
+- Se ha corregido un problema relacionado con las imágenes que conservaban su relación de aspecto durante una operación de recorte.
+
+
+### <a name="visio"></a>Visio
+
+- Ya se ha corregido el problema con la representación de formas de galerías de símbolos de CAD. Los usuarios verán el problema resuelto en la compilación más reciente.
+
+
+### <a name="word"></a>Word
+
+- Esto corrige un problema que impedía que la escritura en tiempo real y la presencia se restauraran tras perder la conectividad a Internet durante un período de tiempo.
+
+
+- Cuando un usuario selecciona texto en un comentario, ahora Word anula la selección del texto seleccionado en otros comentarios.
+
+
+- Ahora Word permite copiar texto de comentarios en Excel.
+
+
+- Se corrigió un problema por el que, al ejecutar la macro de VBA ExportAsFixedFormat2, se produce un error que indica "Valor no válido de presentación (miembro desconocido)".
+
+
+- Se ha corregido un problema relacionado con las imágenes que conservaban su relación de aspecto durante una operación de recorte.
+
+
+- Hemos corregido un problema que podía truncar un comentario con vínculos.
+
+
+- Hemos corregido un problema relacionado con guardar archivos en SharePoint Online.
+
+
+- Hemos corregido un problema relacionado con la exportación de un documento de Word a PDF.
+
+
+- Se ha corregido un problema con la Autorrecuperación.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Solución de un error en PowerPoint que causaba que las viñetas desapareciesen al insertar viñetas como imágenes. Esta corrección hace que su representación sea más confiable.
+
+- Se ha corregido un problema por el que, en algunas circunstancias, Office presentaba etiquetas de confidencialidad para una cuenta con la que se había iniciado sesión en lugar de presentarlas para otra cuenta diferente con la que se había iniciado sesión.
+
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
 
 ## <a name="version-2101-february-03"></a>Versión 2101: 3 de febrero
 *Versión 2101 (compilación 13628.20330)*
@@ -1714,7 +1814,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 
 
-[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR LOS DETALLES DE ERROR DE FIN DE CONTENIDO)
 
 ## <a name="version-2007-august-05"></a>Versión 2007: 05 de agosto
 *Versión 2007 (compilación 13029.20344)*
@@ -2646,7 +2746,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
+[//]: # (NO ELIMINAR LOS DETALLES DEL CONTENIDO FINAL)
 
 ## <a name="version-2004-april-21"></a>Versión 2004: 21 de abril
 *Versión 2004 (compilación 12730.20182)*
