@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión de las actualizaciones de seguridad de Microsoft Office
-ms.openlocfilehash: 7f5cefd77c4639d4e06bd3974f56e070710bd2e8
-ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
+ms.openlocfilehash: 70d82af998c180290c0f826c46d0dd8f21b74243
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "49837681"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173719"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Notas de la versión para las actualizaciones de seguridad de Microsoft Office
 
@@ -31,6 +31,29 @@ Esta información se aplica a las Aplicaciones de Microsoft 365 para empresas, l
  
 
 [//]: # (NO QUITAR LA LÍNEA ANTERIOR, se usa para el espaciado)  
+
+## <a name="february-09-2021"></a>09 de febrero de 2021
+Canal mensual para empresas: versión 2012 (compilación 13530.20528)  
+Canal mensual para empresas: versión 2011 (compilación 13426.20658)  
+Canal empresarial semestral (vista previa): versión 2008 (compilación 13127.21216)  
+Canal semestral para empresas: versión 2008 (compilación 13127.21216)  
+Canal empresarial semestral: versión 2002 (compilación 12527.21594)  
+Canal empresarial semestral: versión 1908 (compilación 11929.21008)  
+Aplicaciones de Microsoft 365 en Windows 7: versión 2002 (compilación 12527.21594)  
+Licencia por volumen de Office 2019: versión 1808 (compilación 10371.20060)  
+
+[//]: # (NO QUITAR LOS DETALLES DE SEGURIDAD INICIO DEL CONTENIDO INICIAL)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-24069](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2021-24069)
+-   [CVE-2021-24070](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2021-24070)
+-   [CVE-2021-24067](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2021-24067)
+
+[//]: # (NO ELIMINAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO FINAL)
+
+
 
 ## <a name="january-12-2021"></a>12 de enero de 2021
 Canal actual: versión 2012 (compilación 13530.20376)  
@@ -99,7 +122,7 @@ Licencia por volumen de Office 2019: versión 1808 (compilación 10369.20032)
 
 -   [CVE-2020-17124](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-17124)
 
-[//]: # (NO ELIMINAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO FINAL)
 
 
 

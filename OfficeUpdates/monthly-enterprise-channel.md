@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de empresa para Aplicaciones de Microsoft 365 en 2020
-ms.openlocfilehash: e4c46d64476cab52b9f4d78480dc4d4b652aae6f
-ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
+ms.openlocfilehash: 6a5127c9b361c394196674910eabdc26cff39572
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "49837551"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173678"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Notas de la versión para las versiones de canal de empresa mensual en 2020
 
@@ -26,6 +26,125 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 [//]: # (NO ELIMINAR)
 
 
+
+## <a name="version-2012-february-09"></a>Versión 2012: 09 de febrero
+*Versión 2012 (compilación 13530.20528)*
+
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Compatibilidad con el portapapeles SVG:** ahora puede pegar contenido SVG de Office en aplicaciones de terceros. [Más información](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+- **Registro de auditoría de etiquetas de confidencialidad:** cuando los usuarios aplican, cambian o quitan etiquetas de confidencialidad en sus documentos y correos electrónicos, esa información está ahora disponible para los administradores en los registros de auditoría de Microsoft 365.
+
+- **Los clientes gubernamentales pueden ya aplicar etiquetas de confidencialidad a sus documentos y correos electrónicos**: las características de las etiquetas de confidencialidad ahora están disponibles para los clientes de los entornos GCC y GCC-H. [Más información](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="outlook"></a>Outlook
+
+- **Compatibilidad con el portapapeles SVG:** ahora puede pegar contenido SVG de Office en aplicaciones de terceros. [Más información](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+- **Dar algo de tiempo entre reuniones consecutivas:** asigne a los asistentes el tiempo necesario para que descansen o se desplacen entre las distintas ubicaciones. Para ello haga que las reuniones empiecen de 5 a 10 minutos antes de forma predeterminada. [Más información](https://support.office.com/article/ebb4c4c9-6992-4ea7-9772-8b5883df8500)
+
+- **Registro de auditoría de etiquetas de confidencialidad:** cuando los usuarios aplican, cambian o quitan etiquetas de confidencialidad en sus documentos y correos electrónicos, esa información está ahora disponible para los administradores en los registros de auditoría de Microsoft 365.
+
+- **Todas las reuniones en línea:** Actualice la configuración del calendario para que cada reunión que cree se cree sea una reunión de Teams de forma predeterminada, de modo que no tenga que recordar hacer clic en la opción Reunión de Teams
+
+- **Los clientes gubernamentales pueden ya aplicar etiquetas de confidencialidad a sus documentos y correos electrónicos**: las características de las etiquetas de confidencialidad ahora están disponibles para los clientes de los entornos GCC y GCC-H. [Más información](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+- **Todas las reuniones en línea:** Actualice la configuración del calendario para que cada reunión que cree se cree sea una reunión de Teams de forma predeterminada, de modo que no tenga que recordar hacer clic en la opción Reunión de Teams
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Compatibilidad con el portapapeles SVG:** ahora puede pegar contenido SVG de Office en aplicaciones de terceros. [Más información](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Ver detalles en [entrada de blog](https://insider.office.com/es-ES/blog/svg-content-office-third-party-apps)
+
+- **Registro de auditoría de etiquetas de confidencialidad:** cuando los usuarios aplican, cambian o quitan etiquetas de confidencialidad en sus documentos y correos electrónicos, esa información está ahora disponible para los administradores en los registros de auditoría de Microsoft 365.
+
+- **Los clientes gubernamentales pueden ya aplicar etiquetas de confidencialidad a sus documentos y correos electrónicos**: las características de las etiquetas de confidencialidad ahora están disponibles para los clientes de los entornos GCC y GCC-H. [Más información](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="word"></a>Word
+
+- **Compatibilidad con el portapapeles SVG:** ahora puede pegar contenido SVG de Office en aplicaciones de terceros. [Más información](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+- **Registro de auditoría de etiquetas de confidencialidad:** cuando los usuarios aplican, cambian o quitan etiquetas de confidencialidad en sus documentos y correos electrónicos, esa información está ahora disponible para los administradores en los registros de auditoría de Microsoft 365.
+
+- **Los clientes gubernamentales pueden ya aplicar etiquetas de confidencialidad a sus documentos y correos electrónicos**: las características de las etiquetas de confidencialidad ahora están disponibles para los clientes de los entornos GCC y GCC-H. [Más información](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Este cambio soluciona un problema que impedía mostrar correctamente fuentes en ecuaciones.
+
+
+- Se ha corregido un problema por el que algunos usuarios veían incorrectamente una barra de mensajes que les informaba de una nueva versión de un archivo durante la coautoría.
+
+
+- Se ha corregido un problema que provocaba que Excel dejara macros deshabilitadas sin preguntar al abrir archivos de complemento de Excel que contuvieran macros Excel 4.0.
+
+
+- Corrige un problema por el que Excel no se iniciaba o se cerraba inesperadamente si se estaba usando cierta configuración de protección contra vulnerabilidades de Seguridad de Windows (SimExec, CallerCheck).
+
+
+- Se ha corregido un problema que provocaba que Excel se cerrara de manera inesperada al usar el menú "Mostrar valores como" para una tabla dinámica.
+
+
+- Hemos corregido un problema que interrumpía algunas macros heredadas de Excel 4.0 y Excel 5.0, así como algunas llamadas de VBA a dialogsheets.show.
+
+
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema por el que la firma editada no podía guardarse tras pedirle al usuario que lo hiciera.
+
+
+- Se ha corregido un problema que provocaba que Outlook se cerrara de forma inesperada para algunos usuarios en ciertos escenarios de búsqueda.
+
+
+- Se ha corregido un problema que causaba que algunos clientes experimentaran un cuelgue mientras cargaban sus calendarios.
+
+
+- Se ha corregido un problema que causaba que los usuarios que tienen buzones compartidos o delegados con jerarquías grandes en su perfil sufriesen bloqueos.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha corregido un problema por el que el comando tamaño de fuente, agregado a la herramienta de acceso rápido, se completaba automáticamente al tamaño de fuente definido más cercano al actualizarse.
+
+
+- Este cambio soluciona un problema que impedía mostrar correctamente fuentes en ecuaciones.
+
+
+- Este cambio resuelve un problema con el relleno de rutas al aplicar las operaciones de Combinar formas con determinadas geometrías.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Anaheim WebView aún no es compatible con Windows Information Protection. Con esta corrección, la plataforma de complementos de Office retrocede al nivel inferior de WebView en un entorno habilitado para WIP. Según el entorno de máquina del cliente, esto puede ser Edge Spartan WebView o Trident WebView. Las vistas previas de nivel inferior son compatibles con WIP.
+
+
+- Tamaño binario optimizado.
+
+
+- Se ha corregido la secuencia de cierre de archivos para que todos los componentes interdependientes se cierren correctamente.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+
+## <a name="version-2011-february-09"></a>Versión 2011: 09 de febrero
+*Versión 2011 (compilación 13426.20658)*
+
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2011-january-12"></a>Versión 2011: 12 de enero
 *Versión 2011 (Compilación 13426.20526)*
@@ -1268,6 +1387,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13530.20528|version-2012-february-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13426.20526|version-2011-january-12|)
 [//]: # (|Win32|MEC|Producción|Característica|16.0.13328.20478|versión-08-diciembre-2010|)
 [//]: # (|Win32|MEC|Producción|Característica|16.0.13231.20514|versión-10-noviembre-2009|)

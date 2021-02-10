@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Aplicaciones de Microsoft 365 según el canal de actualización.
-ms.openlocfilehash: 85b022b5823661f2d2fed4a3cea2522e57e70075
-ms.sourcegitcommit: c3115d0acd9074ebe9be4b468f5e54361af6c582
+ms.openlocfilehash: 5e741a9bc7da8fc5476e27b88c71b2bd3e81393b
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "50108022"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173749"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tamaños de descarga de las actualizaciones de Aplicaciones de Microsoft 365 
 
@@ -36,14 +36,13 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 
 [//]: # (NO ELIMINAR)
 
-[//]: # (NO ELIMINAR INICIO DEL CONTENIDO DE PREVISIÓN)
+## <a name="february-9-2021"></a>9 de febrero de 2021
 
-## <a name="february-4-2021"></a>4 de febrero de 2021
-
+[//]: # (NO ELIMINAR EL CONTENIDO INICIAL 9 de febrero de 2021)
 
 ### <a name="monthly-enterprise-channel"></a>Canal mensual para empresas
 
-<i>La versión prevista es la versión 2012 (compilación 13530.20510).</i>
+La versión más actual es la versión 2012 (compilación 13530.20528).
 
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
@@ -53,7 +52,7 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 
 ### <a name="semi-annual-enterprise-channel-preview"></a>Canal semestral para empresas (versión preliminar)
 
-<i>La versión prevista es la versión 2008 (compilación 13127.21184).</i>
+La versión más reciente es la versión 2008 (compilación 13127.21216).
 
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
@@ -63,7 +62,7 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 
 ### <a name="semi-annual-enterprise-channel"></a>Canal empresarial semestral
 
-<i>La versión prevista es la versión 2008 (compilación 13127.21184).</i>
+La versión más reciente es la versión 2008 (compilación 13127.21216).
 
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
@@ -71,7 +70,10 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 |Versión 2002 (compilación 12527.21416) <br/> |8 de diciembre de 2020 <br/> |363<br/> |
 
 
-[//]: # (NO ELIMINAR FINAL DEL CONTENIDO PREVISTO)
+[//]: # (NO ELIMINAR EL CONTENIDO FINAL 9 de febrero de 2021)
+
+
+
 
 ## <a name="january-26-2021"></a>26 de enero de 2021
 

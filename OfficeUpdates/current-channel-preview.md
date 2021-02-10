@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporcionar a los participantes del Modo aplazado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos
-ms.openlocfilehash: a225ff4079216b634a0bc113e077b4925dab158e
-ms.sourcegitcommit: 7c433a6b5cd2736a9e2ddf7a6c3bd0ea6814ac6e
+ms.openlocfilehash: c5e674a4de1d99939daf5d42266071aa4eddfdcf
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50151968"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173639"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notas de la versión del canal actual de Office (versión preliminar)
 
@@ -117,6 +117,8 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 
 
 - Se ha corregido un problema con la Autorrecuperación.
+
+- Se ha corregido un problema al trabajar con coautoría en archivos protegidos DRM
 
 
 ### <a name="office-suite"></a>Conjunto de aplicaciones de Office
@@ -1814,7 +1816,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 
 
-[//]: # (NO QUITAR LOS DETALLES DE ERROR DE FIN DE CONTENIDO)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2007-august-05"></a>Versión 2007: 05 de agosto
 *Versión 2007 (compilación 13029.20344)*
@@ -2746,7 +2748,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 
 
-[//]: # (NO ELIMINAR LOS DETALLES DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
 
 ## <a name="version-2004-april-21"></a>Versión 2004: 21 de abril
 *Versión 2004 (compilación 12730.20182)*
