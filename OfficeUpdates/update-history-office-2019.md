@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI un historial de actualizaciones para las versiones permanentes de Office 2016 y Office 2019 que usan Hacer clic y ejecutar.
-ms.openlocfilehash: 51483c9e4f31e4ded3f277a8a5a7a16caebd0ce0
-ms.sourcegitcommit: 0e5154d937aaa5fd45f8fa79b8f0b2a614b7e5a0
+ms.openlocfilehash: 6c75ca375c3039bf5dbb11f6831cc5495fa198fc
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50013231"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173829"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Historial de actualizaciones para la versión de Hacer clic y ejecutar de Office 2016 y Office 2019
 
@@ -47,12 +47,12 @@ La siguiente información se aplica a las versiones de licencia por volumen de O
 
 |**Fecha de publicación**|**Número de versión**|
 |:-----|:-----|
+|9 de febrero de 2021|Versión 1808 (compilación 10371.20060)|
 |12 de enero de 2021|Versión 1808 (compilación 10370.20052)|
 |8 de diciembre de 2020|Versión 1808 (compilación 10369.20032)|
 |10 de noviembre de 2020|Versión 1808 (compilación 10368.20035)|
 |13 de octubre de 2020|Versión 1808 (compilación 10367.20048)|
 |8 de septiembre de 2020|Versión 1808 (compilación 10366.20016)|
-|11 de agosto de 2020|Versión 1808 (compilación 10364.20059)|
 
 
 [//]: # (NO QUITAR EL FINAL DE LA TABLA DE LICENCIAS POR VOLUMEN)
@@ -66,6 +66,7 @@ La siguiente información se aplica a las versiones de licencia por volumen de O
 
 |**Fecha de publicación**|**Número de versión**|
 |:-----|:-----|
+|11 de agosto de 2020|Versión 1808 (compilación 10364.20059)|
 |14 de julio de 2020   |Versión 1808 (Compilación 10363.20015)  |
 |9 de junio de 2020   |Versión 1808 (compilación 10361.20002)  |
 |12 de mayo de 2020   |Versión 1808 (compilación 10359.20023)  |

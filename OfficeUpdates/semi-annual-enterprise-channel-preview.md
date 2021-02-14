@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones del canal semestral (dirigido) de Aplicaciones de Microsoft 365 en 2020.
-ms.openlocfilehash: b8c02c43cc0c510bb6d64cb66c563e600961c3f7
-ms.sourcegitcommit: 34bca539ddfe0e06b772aaa294f4e992630b2a41
+ms.openlocfilehash: bc3878099fa34b75437ce800250d711cb0f5bd0c
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50032310"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173839"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>Notas de la versión para el canal semestral para empresas (vista previa)
 
@@ -23,6 +23,67 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 > [!IMPORTANT]
 > Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441) para obtener más información.
 
+
+## <a name="version-2008-february-09"></a>Versión 2008: 09 de septiembre
+*Versión 2008 (compilación 13127.21216)*
+
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema por el que Excel se cerraba inesperadamente al abrir archivos UNC con atributos de archivo no válidos (hora de creación, fecha de modificación, etc.).
+
+
+- Hemos corregido un problema por el que la configuración de los separadores decimales y de millares no se mantenía al copiar un gráfico de Excel y pegarlo en Word o PowerPoint.
+
+
+- Hemos corregido un problema por el que el rendimiento de ejecutar una macro que implicaba el formato de rango de tabla dinámica sería peor cada vez que se ejecutase la macro.
+
+
+- Hemos corregido un problema por el que se eliminaron las reglas de formato condicional al copiar o mover hojas a otro libro.
+
+
+- Hemos corregido un problema por el que los usuarios no podían aplicar etiquetas de confidencialidad a los archivos de Excel cuando la pantalla de inicio de la aplicación estaba deshabilitada.
+
+
+- Hemos corregido un problema al abrir archivos en la nube de la carpeta de sincronización de OneDrive.
+
+
+### <a name="outlook"></a>Outlook
+
+- Resuelto un problema que hacía que Outlook dejara de funcionar esporádicamente al agregar o guardar datos adjuntos.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha corregido un problema por el que el comando tamaño de fuente, agregado a la herramienta de acceso rápido, se completaba automáticamente al tamaño de fuente definido más cercano al actualizarse.
+
+
+- Se ha corregido un problema que causaba que, al copiar y pegar una diapositiva con la opción "Mantener formato de origen", a veces se copiara de forma inesperada sobre un nuevo patrón de diapositivas.
+
+
+### <a name="word"></a>Word
+
+- Corregimos un problema en control de cambios que a veces es posible que abra un documento de Word.
+
+
+- Hemos corregido un problema al abrir archivos en la nube de la carpeta de sincronización de OneDrive.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Se ha corregido un problema que impedía abrir correctamente un archivo en Office.
+
+
+- Se ha corregido un problema por el que los documentos que contenían contornos esbozados aplicados a conectores a través de Copiar formato podrían dañarse.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2008-january-12"></a>Versión 2008: 12 de enero
 *Versión 2008 (compilación 13127.21064)*
@@ -195,7 +256,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 
 
-[//]: # (NO QUITAR EL CONTENIDO FINAL DE LOS DETALLES DE LOS ERRORES)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2008-november-10"></a>Versión 2008: 10 de julio
 *La versión prevista es la versión 2008 (compilación 13127.20760).*
@@ -1436,6 +1497,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|FRDC|Insiders| |16.0.13127.21216|versión-9-febrero-2008|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.21064|versión-12-enero-2008|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20910|versión-08-diciembre-2008|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20760|versión-10-noviembre-2008|)
