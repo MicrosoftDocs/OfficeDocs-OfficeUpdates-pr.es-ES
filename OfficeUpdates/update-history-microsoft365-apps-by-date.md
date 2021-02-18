@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista completa de las versiones de las Aplicaciones de Microsoft 365, organizada por fecha, con vínculos a las notas de la versión.
-ms.openlocfilehash: 49df49e29ea96bd0c73d8238bc9e8d909b666656
-ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
+ms.openlocfilehash: 8c430193def5bacbd177630c3d61598c8ab49bdd
+ms.sourcegitcommit: 22b0fb80adf158717f43f07a1d6e18ec91618fb4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50177972"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50279827"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Historial de actualizaciones de Aplicaciones de Microsoft 365 (ordenado por fecha)
 
@@ -36,7 +36,7 @@ En la tabla siguiente se muestra la versión compatible y el número de compilac
 
 |**Canal**|**Versión**|**Compilación**|**Fecha de publicación**|**Versión admitida hasta**|
 |:-----|:-----|:-----|:-----|:-----|
-|Canal actual<br/>|2101<br/>|13628.20380<br/>|9 de febrero de 2021<br/>|Lanzamiento de la versión 2102<br/>|
+|Canal actual<br/>|2101<br/>|13628.20448<br/>|16 de febrero de 2021<br/>|Lanzamiento de la versión 2102<br/>|
 |Canal empresarial mensual<br/>|2012<br/>|13530.20528<br/>|9 de febrero de 2021<br/>|13 de abril de 2021<br/>|
 |Canal empresarial mensual<br/>|2011<br/>|13426.20658<br/>|9 de febrero de 2021<br/>|9 de marzo de 2021<br/>|
 |Canal empresarial semestral (vista previa)<br/>|2008<br/>|13127.21216<br/>|9 de febrero de 2021<br/>|9 de marzo de 2021<br/>|
@@ -56,6 +56,7 @@ La siguiente tabla proporciona una lista de los números de versión y compilaci
 
 |**Year**|**Fecha de publicación**|**Canal actual**|**Canal empresarial mensual**|**Canal empresarial semestral (vista previa)**|**Canal empresarial semestral**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2021|16 de febrero|[Versión 2101 (compilación 13628.20448)](current-channel.md#version-2101-february-17)| | | |
 |2021|9 de febrero|[Versión 2101 (Compilación 13628.20380)](current-channel.md#version-2101-february-09)|[Versión 2012 (compilación 13530.20528)](monthly-enterprise-channel.md#version-2012-february-09)<br/>[Versión 2011 (compilación 13426.20658)](monthly-enterprise-channel.md#version-2011-february-09)|[Versión 2008 (compilación 13127.21216)](semi-annual-enterprise-channel-preview.md#version-2008-february-09)|[Versión 2008 (compilación 13127.21216)](semi-annual-enterprise-channel.md#version-2008-february-09)<br/>[Versión 2002 (compilación 12527.21594)](semi-annual-enterprise-channel.md#version-2002-february-09)<br/>[Versión 1908 (compilación 11929.21008)](semi-annual-enterprise-channel.md#version-1908-february-09)|
 |2021|26 de enero|[Versión 2101 (Compilación 13628.20274)](current-channel.md#version-2101-january-26)| | | |
 |2021|21 de enero|[Versión 2012 (compilación 13530.20440)](current-channel.md#version-2012-january-21)| | | |
