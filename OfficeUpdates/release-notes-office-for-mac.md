@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales de TI las notas de la versión de las versiones de Office para Mac para los suscriptores de Aplicaciones de Microsoft 365
-ms.openlocfilehash: 38acca443d355786ddefe61329756931eb93f803
-ms.sourcegitcommit: 91cdc26b717315b6603bf75ded1347b29a84fcb6
+ms.openlocfilehash: e671d6d2520edde125287179c49c1556914b3ab8
+ms.sourcegitcommit: 75e6b1f2f564b32969be80e0594e8055a2c4f34c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50263938"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50425748"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de la versión de Office para Mac
 
@@ -76,15 +76,11 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
 - **Crear GIF con fondos transparentes:** cuando se exporta a un GIF animado, una nueva opción permite que el fondo sea transparente.
 
-- **Aplicar automáticamente o recomendar etiquetas de confidencialidad:** Office puede recomendar o aplicar automáticamente una etiqueta de confidencialidad basada en el contenido confidencial detectado. [Más información](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
-
 - **Los clientes gubernamentales pueden ya aplicar etiquetas de confidencialidad a sus documentos y correos electrónicos**: las características de las etiquetas de confidencialidad ahora están disponibles para los clientes de los entornos GCC y GCC-H. [Más información](https://docs.microsoft.com/es-ES/microsoft-365/compliance/sensitivity-labels)
 
 - **Registro de auditoría de etiquetas de confidencialidad:** cuando los usuarios aplican, cambian o quitan etiquetas de confidencialidad en sus documentos y correos electrónicos, esa información está ahora disponible para los administradores en los registros de auditoría de Microsoft 365.
 
 ### <a name="word"></a>Word
-
-- **Aplicar automáticamente o recomendar etiquetas de confidencialidad:** Office puede recomendar o aplicar automáticamente una etiqueta de confidencialidad basada en el contenido confidencial detectado.
 
 - **Los clientes gubernamentales pueden ya aplicar etiquetas de confidencialidad a sus documentos y correos electrónicos**: las características de las etiquetas de confidencialidad ahora están disponibles para los clientes de los entornos GCC y GCC-H. [Más información](https://docs.microsoft.com/es-ES/microsoft-365/compliance/sensitivity-labels)
 
@@ -102,13 +98,9 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2021-1714](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2021-1714)
--   [CVE-2021-1713](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2021-1713)
+-   [CVE-2021-24067](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2021-24067)
+-   [CVE-2021-24069](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2021-24069)
 
-### <a name="word"></a>Word
-
--   [CVE-2021-1716](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2021-1716)
--   [CVE-2021-1715](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2021-1715)
 
 [//]: # (NO ELIMINAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO FINAL)
 
@@ -193,7 +185,7 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
 -   [CVE-2020-17124](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-17124)
 
-[//]: # (NO ELIMINAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO FINAL)
 
 ## <a name="november-10-2020"></a>10 de noviembre de 2020
 *Versión 16.43 (Compilación 20110804)*

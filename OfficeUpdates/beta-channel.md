@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los participantes del Modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos.
-ms.openlocfilehash: c251fccdf8c3f370d7ed6594e0478a73bfe37411
-ms.sourcegitcommit: c8a895031a6a22d6c6dc6d5e4c73918edcfac7b7
+ms.openlocfilehash: 9906e3180c91eaa19f0c42f4703e867bb4b45d35
+ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "50242048"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50418045"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de la versión para el canal beta
 
@@ -30,6 +30,84 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 [//]: # (NO ELIMINAR)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+## <a name="version-2103-february-26"></a>Versión 2103: 26 de febrero
+*Versión 2103 (compilación 13819.20006)*
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Hemos corregido un problema que impedía a los usuarios exportar un libro de Excel a PDF.
+
+
+- Hemos corregido un problema que causaba que se perdiera algo del formato al copiar una hoja mientras se trabajaba en coautoría.
+
+
+### <a name="outlook"></a>Outlook
+
+- Hemos corregido un problema que causaba que los usuarios viesen cómo los datos adjuntos se duplicaban al quitar la protección DRM.
+
+
+### <a name="project"></a>Project
+
+- Se ha corregido un problema por el que es posible que las divisiones de tareas se creen de forma incorrecta al guardar un proyecto desde Project Web App en un archivo local. Esto sucedía al usar un calendario de tareas con horas de trabajo no estándar.
+
+
+- Se ha corregido un problema por el que, si la columna de indicador no está en el primer lugar de la columna, al cortar una tarea de resumen, no se advierte de que también se quitarán las subtareas.
+
+
+- Se ha corregido un problema por el que, si un usuario seleccionaba la opción Agregar su usuario a una función de tarea en su Timesheet, no se podrían usar correctamente las unidades de disponibilidad de recursos en la tarea creada.
+
+
+### <a name="word"></a>Word
+
+- Hemos corregido un problema con la alineación de varios comentarios.
+
+
+- Hemos corregido un problema en los métodos abreviados de teclado del panel de tareas Leer en voz alta.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Las ubicaciones de OneDrive ahora se filtran según corresponda en la configuración de directiva de grupo.
+
+
+- Soluciona un problema relacionado con la falta de respuesta que puede producirse al cargar imágenes EMF.
+
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
+
+## <a name="version-2103-february-19"></a>Versión 2103: 19 de febrero
+*Versión 2103 (compilación 13811.20002)*
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="outlook"></a>Outlook
+
+- Hemos corregido un problema que causaba que los usuarios viesen cómo los datos adjuntos se duplicaban al quitar la protección DRM.
+
+
+### <a name="project"></a>Project
+
+- Se ha corregido un problema por el que, si la columna de indicador no está en el primer lugar de la columna, al cortar una tarea de resumen, no se advierte de que también se quitarán las subtareas.
+
+
+- Se ha corregido un problema por el que, si un usuario seleccionaba la opción Agregar su usuario a una función de tarea en su Timesheet, no se podrían usar correctamente las unidades de disponibilidad de recursos en la tarea creada.
+
+
+### <a name="word"></a>Word
+
+- Hemos corregido un problema en los métodos abreviados de teclado del panel de tareas Leer en voz alta.
+
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
 
 ## <a name="version-2103-february-12"></a>Versión 2103: 12 de febrero
 *Versión 2103 (Compilación 13806.20000)*
@@ -2522,6 +2600,8 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|versión-2103-enero-26|)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|versión-2103-enero-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-enero-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13801.20004|version-2102-february-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|versión-2102-enero-29|)
@@ -2530,6 +2610,4 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 [//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|versión-2102-enero-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|versión-25-diciembre-2101|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|versión-18-diciembre-2101|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|versión-11-diciembre-2101|)
 [//]: # (NO MODIFICAR EL FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporcionar a los participantes del Modo aplazado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos
-ms.openlocfilehash: abb6b5cc2d425bf2f99a947eda622d6798e4ec56
-ms.sourcegitcommit: 91cdc26b717315b6603bf75ded1347b29a84fcb6
+ms.openlocfilehash: 734f5c159afc2621e6a4e906b2a7155c9a4801b7
+ms.sourcegitcommit: ab151c4f3172c007249a556fa02854b0765d24b9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50263958"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50421414"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notas de la versión del canal actual de Office (versión preliminar)
 
@@ -28,6 +28,88 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 > - Las características de Microsoft Teams pueden diferir de la última versión preliminar del Canal actual publicada ya que tienen una cadencia de publicación más frecuente.
 
 [//]: # (NO ELIMINAR)
+
+## <a name="version-2102-march-03"></a>Versión 2102: 03 de marzo
+*Versión 2102 (compilación 13801.20274)*
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="word"></a>Word
+
+- Soluciona un problema con la información del tema que se aplica a los iconos y a los gráficos SVG.
+
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
+
+## <a name="version-2102-march-01"></a>Versión 2102: 01 de marzo
+*Versión 2102 (compilación 13801.20266)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="outlook"></a>Outlook
+
+- **Compartir con Teams:** comparta mensajes de Outlook con una persona o canal en Teams.
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="outlook"></a>Outlook
+
+- Hemos corregido el problema que causaba que los usuarios viesen grupos de calendario duplicados después de crear un grupo.
+
+
+- Hemos corregido un problema que causaba que los usuarios de las mejoras del calendario compartido no pudieran establecer el color de un calendario en amarillo o marrón.
+
+
+- Hemos corregido un problema que causaba que la app se cerrase para algunos usuarios al cerrar las ventanas de mensaje.
+
+
+- Hemos corregido un problema que provocaba que las firmas con contenido Unicode se dañasen.
+
+
+- Hemos corregido un problema que causaba que los usuarios de traducción directa no pudieran enviar comentarios.
+
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
+
+## <a name="version-2102-february-21"></a>Versión 2102: 21 de febrero
+*Versión 2102 (compilación 13801.20182)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="outlook"></a>Outlook
+
+- **Escriba mensajes con su voz:** use la nueva barra de herramientas de dictado, los comandos de voz, la puntuación automática y mucho más para redactar mensajes.
+
+### <a name="word"></a>Word
+
+- **Escriba documentos con su voz:** use la nueva barra de herramientas de dictado, los comandos de voz, la puntuación automática para redactar documentos.
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Hemos corregido un problema que hace que las imágenes sean más pequeñas de lo esperado al usar la opción Pegar imagen vinculada.
+
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
 
 ## <a name="version-2102-february-16"></a>Versión 2102: 16 de febrero
 *Versión 2102 (compilación 13801.20160)*
@@ -67,6 +149,22 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
+
+
+## <a name="version-2102-february-11"></a>Versión 2102: 11 de febrero
+*Versión 2102 (compilación 13801.20158)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="teams"></a>Teams
+
+- **Vídeo de 2x2 en los exploradores Microsoft Edge y Chrome en equipos Windows y Mac** Los usuarios pueden ver un máximo de 4 participantes en reuniones de Teams en los exploradores Microsoft Edge y Chrome en Windows y Mac. [Obtener más información](https://support.microsoft.com/office/using-video-in-microsoft-teams-3647fc29-7b92-4c26-8c2d-8a596904cdae#bkmk_videolayout)
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
 
 ## <a name="version-2102-february-08"></a>Versión 2102: 8 de febrero
 *Versión 2102 (Compilación 13801.20084)*
@@ -270,6 +368,8 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 - **Más temas:** ahora hay nuevos temas disponibles para clientes web y de escritorio.
 
 - **Uso compartido de PPT:** vista Moderador en Teams. Una vez que seleccione un archivo de PowerPoint en la bandeja Compartir de Teams, la vista Moderador se abrirá automáticamente. Puede ver la diapositiva actual, las notas de las diapositivas y una franja de miniaturas de todas las diapositivas de la presentación para facilitar la navegación de diapositivas ad-hoc. Esta vista está completamente en segundo plano y es privada para el moderador que tiene el control. El público solo puede ver la diapositiva actual (resaltada en el cuadro rojo grande) o la diapositiva a la que decida navegar (si la navegación del público no está bloqueada por usted). 
+
+- **Incluir sonido de equipo al compartir ventanas o el escritorio en Mac** Al compartir un escritorio o ventana desde Teams en Mac, ahora puede incluir el sonido de su equipo para que las personas que se han unido a la reunión puedan escuchar el audio de reproducción del equipo.
 
 [//]: # (NO QUITAR DETALLES DE CARACTERÍSTICAS CONTENIDO FINAL)
 <br/>
@@ -1855,7 +1955,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 
 
-[//]: # (NO QUITAR LOS DETALLES DE ERROR DE FIN DE CONTENIDO)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2007-august-05"></a>Versión 2007: 05 de agosto
 *Versión 2007 (compilación 13029.20344)*
@@ -2787,7 +2887,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 
 
-[//]: # (NO ELIMINAR LOS DETALLES DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
 
 ## <a name="version-2004-april-21"></a>Versión 2004: 21 de abril
 *Versión 2004 (compilación 12730.20182)*

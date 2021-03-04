@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365 en 2020
-ms.openlocfilehash: c6b6b6b7f87257cd3e512f4b5dfd8164a2a65dec
-ms.sourcegitcommit: 4b7514025e31d2baef2082cd9cb8434646edfe82
+ms.openlocfilehash: ea8524fb21d263985793d12806c8a2e1401edf10
+ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50271793"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50418055"
 ---
 # <a name="release-notes-for-current-channel"></a>Notas de la versión para el canal actual
 
@@ -32,6 +32,104 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+
+## <a name="version-2102-march-01"></a>Versión 2102: 01 de marzo
+*Versión 2102 (compilación 13801.20266)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Mostrar varias hojas de cálculo al mismo tiempo:** no es necesario que se muestren las hojas de una en una, ya que se pueden mostrar varias hojas ocultas al mismo tiempo. [Más información](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+
+- **Cuadros de diálogo de formato condicional mejorados:** Los diálogos de formato condicional ahora son de tamaño ajustable y se puede duplicar la regla con un solo clic. [Más información](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
+
+- **Requerir que los usuarios apliquen etiquetas de confidencialidad:** Se pedirá a los usuarios que apliquen una etiqueta de confidencialidad si la directiva de su organización lo requiere.
+
+### <a name="outlook"></a>Outlook
+
+- **Vista de lista de contactos actualizada:** La lista de contactos ahora muestra las direcciones de correo electrónico y la foto y el tamaño del texto actualizados.
+
+- **Rompa la barrera del idioma con un traductor incorporado:** Los complementos para la traducción ya no son necesarios. En un mensaje, haga clic con el botón derecho para traducir palabras o frases específicas, o todo el mensaje. [Más información](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Requerir que los usuarios apliquen etiquetas de confidencialidad:** Se pedirá a los usuarios que apliquen una etiqueta de confidencialidad si la directiva de su organización lo requiere.
+
+### <a name="teams"></a>Teams
+
+- **Vista Moderador al compartir un archivo de PowerPoint:** Al compartir un archivo de PowerPoint en una reunión, el moderador puede ver ahora una franja de miniaturas de todas las diapositivas en la presentación para una navegación por diapositivas más sencilla.
+
+- **Actualizaciones de iconos y temas:** Hemos realizado actualizaciones para los colores del tema predeterminado y oscuro, así como para el icono.
+
+- **Compatibilidad con moderador de eventos en directo en iPad:** Puede presentar en un evento en directo desde su dispositivo iPad compatible.
+
+- **Hacer un sondeo a participantes de la reunión con Microsoft Forms:** Los sondeos de las reuniones de Teams son una experiencia fácil de descubrir y fluida que le ayudará a realizar reuniones más interesantes y productivas. Con los sondeos, que funcionan con tecnología de Microsoft Forms, los presentadores de reuniones pueden preparar, iniciar y evaluar sondeos antes, durante y después de las reuniones, respectivamente, todos desde un solo lugar bajo una pestaña en la reunión de Teams. Como moderador de la reunión, puede agregar la aplicación Forms como pestaña en la reunión de Teams y después crear, iniciar y evaluar los sondeos desde un solo lugar. Cree sondeos que se iniciarán durante la reunión incluso antes de que comience la reunión. Después de la reunión, puede evaluar las respuestas en la pestaña, en un libro de Excel exportado, o en la Web en la aplicación Forms. Los presentadores tienen una gran variedad de controles, como habilitar respuestas anónimas, cerrar sondeos y exportar resultados a Excel. Los asistentes desde cualquier punto de conexión (móvil, web o escritorio) pueden ver y responder a los sondeos tal y como aparecen en la pantalla de la reunión o en el chat de la reunión, así como ver los resultados de un sondeo no anónimo en tiempo real.
+
+- **Reacciones de la reunión:** Las reacciones de la reunión son una nueva forma de interactuar en las reuniones. Los participantes pueden enviar reacciones y se mostrarán como un flujo en el contenido que se comparte y en la persona que envió la reacción si se muestra en la fase de reunión.
+
+- **Menú Historial para el cliente de escritorio:** El menú Historial del cliente de escritorio de Teams le permite volver fácilmente a las ubicaciones visitadas recientemente. Simplemente mueva el puntero sobre las opciones de navegación hacia delante o hacia atrás en el cliente de escritorio y seleccione la ubicación. También hay disponible un método abreviado de teclado para abrir el menú.
+
+- **Cortana en Salas de Microsoft Teams de EE. UU.:** La asistencia de voz de Cortana en Salas de Microsoft Teams le permite tener una experiencia táctil para llamar a un número desde la sala de conferencias, unirse a una reunión o terminarla, o agregar un número a una reunión.
+
+- **Enmascaramiento de números de teléfono:** Hemos publicado una nueva configuración de administrador para enmascarar números de teléfono para los participantes de acceso telefónico cuando se unen a una reunión. Los administradores pueden elegir enmascarar los números de teléfono de todos los usuarios en la reunión (excepto el organizador), solo de personas externas o deshabilitar el enmascaramiento. Si los administradores deciden deshabilitar esta opción, los números de teléfono se mostrarán por completo en la reunión.  (Versión privada hasta finales de octubre).
+
+- **Uso compartido de calendarios:** Hemos agregado la posibilidad de agregar un canal a una pestaña del calendario.
+
+- **Incluir más escenas en el modo conferencia:** Ahora, Teams ha introducido la capacidad de los organizadores o presentadores de reuniones para cambiar la escena del modo conferencia que permite a los asistentes aparecer en distintas experiencias conjuntamente.
+
+### <a name="word"></a>Word
+
+- **Sugerencias de escritura con un solo clic:** Aplique sugerencias de escritura con un solo clic. El panel del Editor actualizado facilita la navegación entre sugerencias. [Más información](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/microsoft-editor-gets-an-upgrade)
+
+- **Requerir que los usuarios apliquen etiquetas de confidencialidad:** Se pedirá a los usuarios que apliquen una etiqueta de confidencialidad si la directiva de su organización lo requiere.
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="access"></a>Acceso
+
+- Hemos corregido un problema por el que los usuarios estaban recibiendo el cuadro de diálogo de error "Estado de cursor no válido".
+
+
+### <a name="excel"></a>Excel
+
+- Hemos corregido un problema que impedía a los usuarios exportar un libro de Excel a PDF.
+
+
+- Hemos corregido un problema que hace que las imágenes sean más pequeñas de lo esperado al usar la opción Pegar imagen vinculada.
+
+
+### <a name="outlook"></a>Outlook
+
+- Hemos corregido un problema que causaba que los usuarios de las mejoras del calendario compartido no pudieran establecer el color de un calendario en amarillo o marrón.
+
+
+- Hemos corregido el problema que causaba que los usuarios viesen grupos de calendario duplicados después de crear un grupo.
+
+
+- Hemos corregido un problema que causaba que la app se cerrase para algunos usuarios al cerrar las ventanas de mensaje.
+
+
+- Hemos corregido un problema que provocaba que las firmas con contenido Unicode se dañasen.
+
+
+- Hemos corregido un problema que causaba que los usuarios de traducción directa no pudieran enviar comentarios.
+
+
+### <a name="word"></a>Word
+
+- Hemos corregido un problema relacionado con la resolución de conflictos durante la coautoría.
 
 
 
@@ -534,7 +632,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
 
-- **Puedes contar con la revisión gramatical:** Outlook marca los errores gramaticales conforme usted escribe, para que pueda aplicar sugerencias con un solo clic. [Más información](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />Ver detalles en [entrada de blog](https://insider.office.com/es-ES/blog/grammar-and-style-suggestions-available-in-outlook)
+- **Puedes contar con la revisión gramatical:** Outlook marca los errores gramaticales conforme usted escribe, para que pueda aplicar sugerencias con un solo clic. [Más información](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/grammar-and-style-suggestions-available-in-outlook)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -552,7 +650,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 ### <a name="word"></a>Word
 
-- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
@@ -836,7 +934,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 ### <a name="outlook"></a>Outlook
 
-- **Vínculos mejorados en el correo electrónico:** al incluir un vínculo a un archivo, la dirección URL se reemplaza por el nombre del archivo. Puede cambiar los permisos para que todos los destinatarios tengan acceso. [Más información](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)
+- **Vínculos mejorados en el correo electrónico:** al incluir un vínculo a un archivo, la dirección URL se reemplaza por el nombre del archivo. Puede cambiar los permisos para que todos los destinatarios tengan acceso. [Más información](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)
 
 
 
@@ -1369,7 +1467,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Usar automáticamente los nuevos tipos de datos**: al digitar un valor de datos que se asemeja a una ubicación geográfica o cotización, Excel ofrece la posibilidad de convertirlo en el tipo de datos conectado apropiado (cotizaciones o geografía). [Más información](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
 
-- **Cuente sus historias con GIF animados:** los GIF animados ahora son compatibles con el editor de Office: sus documentos han pasado a ser más llamativos.
+- **Cuente sus historias con GIF animados:** los GIF animados ahora son compatibles con el editor de Office: sus documentos ahora son más elegantes.
 
 ### <a name="outlook"></a>Outlook
 
@@ -1379,7 +1477,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Cuente sus historias con GIF animados:** los GIF animados ahora son compatibles con el editor de Office: sus documentos ahora son más elegantes.
 
-- **El Calendario se transforma:** vea las actualizaciones visuales que hacen que el calendario sea más fácil de examinar. [Más información](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)
+- **El Calendario se transforma:** vea las actualizaciones visuales que hacen que el calendario sea más fácil de examinar. [Más información](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -1988,6 +2086,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 > Si necesita ayuda con algún problema de uso de Office, le recomendamos que publique la pregunta en el [foro de preguntas de Microsoft](https://answers.microsoft.com/) o [Tech Community](https://techcommunity.microsoft.com/), o bien puede ponerse en contacto con el [servicio de soporte técnico](https://support.microsoft.com/contactus).
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|CC|Producción| |16.0.13801.20266|versión-2102-marzo-01|)
 [//]: # (|Win32|DC|Production| |16.0.13628.20448|version-2101-february-16|)
 [//]: # (|Win32|DC|Production| |16.0.13628.20380|version-2101-february-09|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20274|version-2101-january-26|)
@@ -1997,5 +2096,4 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 [//]: # (|Win32|CC|Producción| |16.0.13426.20404|versión-21-diciembre-2011|)
 [//]: # (| Win32 | CC | Producción | | 16.0.13426.20332 | versión-08-diciembre-2011 |)
 [//]: # (| Win32 | CC | Producción | | 16.0.13426.20308 | versión-02-diciembre-2011 |)
-[//]: # (| Win32 | CC | Producción | | 16.0.13426.20294 | versión-30-noviembre-2011 |)
 [//]: # (NO MODIFICAR EL FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)

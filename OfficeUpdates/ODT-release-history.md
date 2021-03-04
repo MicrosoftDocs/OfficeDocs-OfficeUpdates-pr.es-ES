@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Historial de versiones de la Herramienta de implementación de Office (ODT) para los profesionales de TI
-ms.openlocfilehash: 1046a62a8440402e64bb25cb5ccf3dfbd84c894d
-ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
+ms.openlocfilehash: 9425577c975122e0ebeffcefed1734a9e024fa8c
+ms.sourcegitcommit: ab151c4f3172c007249a556fa02854b0765d24b9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50177962"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50421415"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Historial de versiones de la Herramienta de implementación de Office
 
@@ -28,6 +28,14 @@ ODT le ofrece más control de la instalación de Office. Le permite definir los 
  **Instrucciones de instalación**: Descargue y ejecute el archivo ejecutable autoextraíble de la Herramienta de implementación de Office (setup.exe) y un archivo de configuración de ejemplo (configuration.xml). 
 
 [Descargar la Herramienta de implementación de Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+## <a name="february-25-2021"></a>25 de febrero de 2021
+Versión 16.0.13628.20476 (versión setup.exe 16.0.13628.20462)
+- Se ha corregido un problema en el que se producían errores al validar archivos configuration.xml que especificaban docenas de idiomas
+- Se ha corregido un problema por el que no se respetaba la propiedad FORCEAPPSHUTDOWN en los escenarios de MigrateArch
+- Se ha corregido un problema por el que se producía un error al especificar 2 o más atributos PIDKEY en configuration.xml al instalar las PIDKeys
+
+
 
 ## <a name="february-9-2021"></a>9 de febrero de 2021
 Versión 16.0.13628.20274 (versión setup.exe 16.0.13628.20246)
