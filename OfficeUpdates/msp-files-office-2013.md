@@ -9,24 +9,30 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI una lista de los archivos .msp más actuales para las versiones perpetuas de Office 2013 que usan Windows Installer (MSI)
-ms.openlocfilehash: ec1808889c6cfb6ec4c8f2ba113170b9539a7826
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: 25f3534f259614703476b64c8f183afe9991bece
+ms.sourcegitcommit: 879f2edeb724cc4d2b838953df44bc776e252972
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173679"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50468374"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2013-products"></a>Lista de los archivos .msp más actuales para productos de Office 2013
 
-La siguiente información proporciona una lista de los archivos .msp más actuales que los profesionales de TI necesitan incluir al crear una imagen de instalación para un producto de Office 2013, incluidos Visio 2013 y Project 2013. Al incluir estos archivos .msp, cuando sus usuarios instalan el producto de Office 2013, las actualizaciones más recientes de seguridad y no son de seguridad se aplican automáticamente a la instalación de Office.
+La siguiente información proporciona una lista de los archivos .msp más actuales que los profesionales de TI necesitan incluir al crear una imagen de instalación para un producto de Office 2013, incluidos Visio 2013 y Project 2013. Al incluir estos archivos .msp, cuando sus usuarios instalan el producto de Office 2013, las actualizaciones de seguridad y no de seguridad más actuales se aplican automáticamente a la instalación de Office.
   
 Esta información solo se aplica a los productos de Office 2013 que usan la tecnología de instalación de Windows Installer (MSI). Por ejemplo, las ediciones de licencia por volumen de Office Professional Plus 2013 y Visio Standard 2013 usan MSI.
   
 ## <a name="most-recently-updated-msp-files"></a>Archivos .msp actualizados más recientemente
 
+[//]: # (NO ELIMINAR EL CONTENIDO INICIAL)
+
 En la tabla siguiente se enumeran los archivos .msp que se actualizaron en **febrero de 2021**. 
-  
-|Actualizaciones no de seguridad****|Actualizaciones de seguridad****|
+
+ [//]: # (NO ELIMINE EL CONTENIDO FINAL)
+
+[//]: # (NO QUITAR INICIO DE CONTENIDO MSP)
+
+|Actualizaciones que no son de seguridad****|Actualizaciones de seguridad****|
 |:-----|:-----|
 |mso-x-none<br/>|excel-x-none<br/>|
 |powerpoint-x-none<br/>||
@@ -35,18 +41,21 @@ En la tabla siguiente se enumeran los archivos .msp que se actualizaron en **feb
 
 <br/>
 
- 
+[//]: # (NO QUITAR EL FINAL DE CONTENIDO MSP)
+
 ## <a name="list-of-all-msp-files"></a>Lista de todos los archivos .msp
 
-En la tabla siguiente se enumeran todos los archivos .msp que se han publicado desde que Office 2013 Service Pack 1 (SP1) se publicó en febrero de 2014. Cuando hay una fecha de lanzamiento de seguridad para un archivo .msp que es mayor que la fecha de lanzamiento que no es de seguridad, la versión no de seguridad no es necesaria porque ha sido sustituida por la versión de seguridad.
+En la tabla siguiente se enumeran todos los archivos .msp que se han publicado desde que Office 2013 Service Pack 1 (SP1) se publicó en febrero de 2014. Cuando hay una fecha de versión de seguridad para un archivo .msp que es mayor que la fecha de lanzamiento que no es de seguridad, la versión que no es de seguridad no es necesaria porque se ha reemplazado por la versión de seguridad.
+
+[//]: # (NO ELIMINAR EL CONTENIDO INICIAL DEL HISTORIAL)
   
-|.msp filename****|Producto****|Fecha de lanzamiento no de seguridad****|Artículo de KB no relacionado con la seguridad****|Fecha de lanzamiento de seguridad****|Artículo de KB de la versión de seguridad****|Kb de seguridad reemplazado****|
+|Nombre de archivo .msp****|Producto****|Fecha de lanzamiento que no es de seguridad****|Artículo KB que no es de seguridad****|Fecha de lanzamiento de seguridad****|Artículo kb de la versión de seguridad****|KB de seguridad reemplazado****|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |access-x-none  <br/> |Access 2013  <br/> |5 de febrero de 2019  <br/> |[4032252](https://support.microsoft.com/help/4032252) <br/> |11 de agosto de 2020  <br/> |[4484366](https://support.microsoft.com/help/4484366) <br/>|[4462210](https://support.microsoft.com/help/4462210) <br/> |
 |ace-x-none  <br/> |Office 2013  <br/> |1 de noviembre de 2016  <br/> |[3039750](https://support.microsoft.com/kb/3039750) <br/> |12 de enero de 2021  <br/> |[4486762](https://support.microsoft.com/help/4486762) <br/>|[4484520](https://support.microsoft.com/help/4484520) <br/> |
 |acmserver-x-none  <br/> |Office 2013  <br/> |5 de septiembre de 2017  <br/> |[3172512](https://support.microsoft.com/help/3172512) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
 |airspacewer-x-none  <br/> |Office 2013  <br/> |9 de diciembre de 2014  <br/> |[2899522](https://support.microsoft.com/kb/2899522) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
-|lugar32-x-none  <br/> |Office 2013  <br/> |9 de febrero de 2016  <br/> |[3054819](https://support.microsoft.com/kb/3054819) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
+|analys32-x-none  <br/> |Office 2013  <br/> |9 de febrero de 2016  <br/> |[3054819](https://support.microsoft.com/kb/3054819) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
 |clview-x-none  <br/> |Office 2013  <br/> |5 de julio de 2016  <br/> |[3101503](https://support.microsoft.com/kb/3101503) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
 |conv-x-none  <br/> |Office 2013  <br/> |No aplicable  <br/> |No aplicable  <br/> |12 de septiembre de 2017  <br/> |[3213564](https://support.microsoft.com/help/3213564) <br/> |[3203392](https://support.microsoft.com/help/3203392) <br/> |
 |csi-x-none  <br/> |Office 2013  <br/> |11 de julio de 2017  <br/> |[3172545](https://support.microsoft.com/help/3172545) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
@@ -74,7 +83,7 @@ En la tabla siguiente se enumeran todos los archivos .msp que se han publicado d
 |mscomctlocx-x-none<sup>2</sup> <br/> |Office 2013  <br/> |No aplicable  <br/> |No aplicable  <br/> |12 de enero de 2016  <br/> |[3039794](https://support.microsoft.com/kb/3039794) <br/> |[2880502](https://support.microsoft.com/kb/2880502) <br/> |
 |msmipc-x-none  <br/> |Office 2013  <br/> |4 de abril de 2017  <br/> |[3172523](https://support.microsoft.com/help/3172523) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
 |mso-x-none  <br/> |Office 2013  <br/> |2 de febrero de 2021  <br/> |[4486684](https://support.microsoft.com/help/4486684) <br/> |8 de septiembre de 2020  <br/> |[4484469](https://support.microsoft.com/help/4484469) <br/> |[4484351](https://support.microsoft.com/help/4484351) <br/>|
-|msevi-x-none  <br/> |Office 2013  <br/> |No aplicable  <br/> |No aplicable  <br/> |8 de enero de 2019  <br/> |[3172522](https://support.microsoft.com/kb/3172522) <br/> |No aplicable  <br/> |
+|msohevi-x-none  <br/> |Office 2013  <br/> |No aplicable  <br/> |No aplicable  <br/> |8 de enero de 2019  <br/> |[3172522](https://support.microsoft.com/kb/3172522) <br/> |No aplicable  <br/> |
 |msptls-x-none  <br/> |Office 2013  <br/> |3 de julio de 2018  <br/> |[4018378](https://support.microsoft.com/help/4018378) <br/> |11 de agosto de 2015  <br/> |[3054816](https://support.microsoft.com/kb/3054816) <br/> |No aplicable  <br/> |
 |msqry32-x-none  <br/> |Office 2013  <br/> |9 de junio de 2015  <br/> |[2889863](https://support.microsoft.com/kb/2889863) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
 |mtextra-x-none  <br/> |Office 2013  <br/> |7 de agosto de 2018  <br/> |[4022212](https://support.microsoft.com/kb/4022212) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
@@ -109,7 +118,7 @@ En la tabla siguiente se enumeran todos los archivos .msp que se han publicado d
 |spdevsdk-x-none  <br/> |SDK de componentes de cliente de SharePoint Designer 2013  <br/> |1 de agosto de 2017  <br/> |[3213571](https://support.microsoft.com/help/3213571) <br/> |13 de mayo de 2014  <br/> |[2863854](https://support.microsoft.com/kb/2863854) <br/> |No aplicable  <br/> |
 |stslist-x-none  <br/> |Office 2013  <br/> |5 de febrero de 2019  <br/> |[3172473](https://support.microsoft.com/kb/3172473) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
 |vbe7-x-none  <br/> |Office 2013  <br/> |2 de junio de 2020  <br/> |[4484356](https://support.microsoft.com/help/4484356) <br/> |13 de octubre de 2020  <br/> |[4484435](https://support.microsoft.com/help/4484435) <br/> |[4011104](https://support.microsoft.com/help/4011104) <br/> |
-|vh-x-none<sup>2</sup> <br/> |Módulo de compatibilidad de Visio 2013  <br/> |14 de julio de 2015  <br/> |[3054828](https://support.microsoft.com/kb/3054828) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
+|visconv-x-none<sup>2</sup> <br/> |Paquete de compatibilidad de Visio 2013  <br/> |14 de julio de 2015  <br/> |[3054828](https://support.microsoft.com/kb/3054828) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
 |visio-x-none  <br/> |Visio 2013  <br/> |1 de septiembre de 2020  <br/> |[4484355](https://support.microsoft.com/help/4484355) <br/> |14 de abril de 2020  <br/> |[4464544](https://support.microsoft.com/help/4464544) <br/> |[3115020](https://support.microsoft.com/help/3115020) <br/> |
 |vviewer-x-none  <br/> |Visio Viewer 2013  <br/> |8 de abril de 2014  <br/> |[2817301](https://support.microsoft.com/kb/2817301) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
 |wec-x-none  <br/> |Office 2013  <br/> |7 de noviembre de 2015  <br/> |[3172533](https://support.microsoft.com/help/3172533) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
@@ -117,7 +126,9 @@ En la tabla siguiente se enumeran todos los archivos .msp que se han publicado d
 |wordpia-x-none  <br/> |Word 2013  <br/> |7 de noviembre de 2017  <br/> |[3162081](https://support.microsoft.com/help/3162081) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
 |wxpcore-x-none  <br/> |Office 2013  <br/> |8 de marzo de 2016  <br/> |[3114499](https://support.microsoft.com/kb/3114499) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
 |wxpnse-x-none  <br/> |Office 2013  <br/> |13 de octubre de 2015  <br/> |[3039701](https://support.microsoft.com/kb/3039701) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
-   
+
+[//]: # (NO ELIMINE EL CONTENIDO FINAL DEL HISTORIAL )
+
 <sup>1</sup> Este archivo es solo para instalaciones de 64 bits de Office 2013.
   
 <sup>2</sup> Este archivo es solo para instalaciones de 32 bits de Office 2013.

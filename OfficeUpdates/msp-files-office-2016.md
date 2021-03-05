@@ -9,24 +9,30 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI una lista de los archivos .msp más actuales para las versiones perpetuas de Office 2016 que usan Windows Installer (MSI)
-ms.openlocfilehash: 5f5b8641396990834f791b2e713e3659e619a407
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: 58fb4c28c04f165f451a333c0f592923aa563c86
+ms.sourcegitcommit: 879f2edeb724cc4d2b838953df44bc776e252972
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173819"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50468364"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2016-products"></a>Lista de los archivos .msp más actuales para productos de Office 2016
 
-La siguiente información proporciona una lista de los archivos .msp más actuales que los profesionales de TI necesitan incluir al crear una imagen de instalación para un producto de Office 2016, incluidos Visio 2016 y Project 2016. Al incluir estos archivos .msp, cuando los usuarios instalan el producto de Office 2016, las actualizaciones más recientes de seguridad y no son de seguridad se aplican automáticamente a la instalación de Office.
+La siguiente información proporciona una lista de los archivos .msp más actuales que los profesionales de TI necesitan incluir al crear una imagen de instalación para un producto de Office 2016, incluidos Visio 2016 y Project 2016. Al incluir estos archivos .msp, cuando sus usuarios instalan el producto de Office 2016, las actualizaciones de seguridad y no de seguridad más actuales se aplican automáticamente a la instalación de Office.
   
 Esta información solo se aplica a los productos de Office 2016 que usan la tecnología de instalación de Windows Installer (MSI).
   
 ## <a name="most-recently-updated-msp-files"></a>Archivos .msp actualizados más recientemente
 
+[//]: # (NO ELIMINAR EL CONTENIDO INICIAL)
+
 En la tabla siguiente se enumeran los archivos .msp que se actualizaron en **febrero de 2021**.
-  
-|Actualizaciones no de seguridad****|Actualizaciones de seguridad****|
+
+[//]: # (NO ELIMINE EL CONTENIDO FINAL)
+
+[//]: # (NO QUITAR INICIO DE CONTENIDO MSP)
+
+|Actualizaciones que no son de seguridad****|Actualizaciones de seguridad****|
 |:-----|:-----|
 |mso-x-none<br/>|excel-x-none<br/>|
 |outlook-x-none<br>||
@@ -35,11 +41,15 @@ En la tabla siguiente se enumeran los archivos .msp que se actualizaron en **feb
 
 <br/>
 
+[//]: # (NO QUITAR EL FINAL DE CONTENIDO MSP)
+
 ## <a name="list-of-all-msp-files"></a>Lista de todos los archivos .msp
 
-En la tabla siguiente se enumeran todos los archivos .msp que se han publicado desde que Office 2016 se publicó en septiembre de 2015. Cuando hay una fecha de lanzamiento de seguridad para un archivo .msp que es mayor que la fecha de lanzamiento que no es de seguridad, la versión no de seguridad no es necesaria porque ha sido sustituida por la versión de seguridad.
+En la tabla siguiente se enumeran todos los archivos .msp que se han publicado desde que Office 2016 se publicó en septiembre de 2015. Cuando hay una fecha de versión de seguridad para un archivo .msp que es mayor que la fecha de lanzamiento que no es de seguridad, la versión que no es de seguridad no es necesaria porque se ha reemplazado por la versión de seguridad.
+
+[//]: # (NO ELIMINAR EL CONTENIDO INICIAL DEL HISTORIAL)
   
-|.msp filename****|Producto****|Fecha de lanzamiento no de seguridad****|Artículo de KB no relacionado con la seguridad****|Fecha de lanzamiento de seguridad****|Artículo de KB de la versión de seguridad****|Kb de seguridad reemplazado****|
+|Nombre de archivo .msp****|Producto****|Fecha de lanzamiento que no es de seguridad****|Artículo KB que no es de seguridad****|Fecha de lanzamiento de seguridad****|Artículo kb de la versión de seguridad****|KB de seguridad reemplazado****|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |access-x-none  <br/> |Access 2016  <br/> |5 de enero de 2021  <br/> |[4484509](https://support.microsoft.com/help/4484509) <br/> |11 de agosto de 2020  <br/> |[4484340](https://support.microsoft.com/help/4484340) <br/> |[4484167](https://support.microsoft.com/help/4484167) <br/> | 
 |ace-x-none  <br/> |Office 2016  <br/> |2 de junio de 2020  <br/> |[4484394](https://support.microsoft.com/help/4484394) <br/> | 12 de enero de 2021  <br/> |[4486755](https://support.microsoft.com/help/4486755) <br/>|[4484508](https://support.microsoft.com/help/4484508) <br/> |
@@ -69,7 +79,7 @@ En la tabla siguiente se enumeran todos los archivos .msp que se han publicado d
 |msodll30-x-none  <br/> |Office 2016  <br/> |1 de diciembre de 2020  <br/> |[4486747](https://support.microsoft.com/help/4486747) <br/> |12 de septiembre de 2017  <br/> |[4011126](https://support.microsoft.com/help/4011126) <br/> |[3213545](https://support.microsoft.com/help/3213545)  <br/> |
 |msodll40ui-x-none  <br/> |Office 2016  <br/> |7 de julio de 2020  <br/> |[4484174](https://support.microsoft.com/help/4484174) <br/> |10 de mayo de 2016  <br/> |[3115103](https://support.microsoft.com/help/3115103) <br/> |No aplicable  <br/> |
 |msodll99l-x-none  <br/> |Office 2016  <br/> |1 de septiembre de 2020  <br/> |[4484395](https://support.microsoft.com/help/4484395) <br/> |9 de julio de 2019  <br/> |[4475514](https://support.microsoft.com/help/4475514) <br/> |[4011622](https://support.microsoft.com/help/4011622) <br/> |
-|msevi-x-none  <br/> |Office 2016  <br/> |1 de mayo de 2018  <br/> |[4022133](https://support.microsoft.com/help/4022133) <br/> |8 de enero de 2019  <br/> |[4022162](https://support.microsoft.com/help/4022162)  <br/> |No aplicable  <br/> |
+|msohevi-x-none  <br/> |Office 2016  <br/> |1 de mayo de 2018  <br/> |[4022133](https://support.microsoft.com/help/4022133) <br/> |8 de enero de 2019  <br/> |[4022162](https://support.microsoft.com/help/4022162)  <br/> |No aplicable  <br/> |
 |mtextra-x-none  <br/> |Office 2016  <br/> |5 de junio de 2018  <br/> |[4022193](https://support.microsoft.com/help/4022193) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
 |namectlserver-x-none  <br/> |Office 2016  <br/> |5 de noviembre de 2019  <br/> |[4484145](https://support.microsoft.com/help/4484145) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
 |nlgmsproof-x-none  <br/> |Office 2016  <br/> |7 de mayo de 2019  <br/> |[2920717](https://support.microsoft.com/help/2920717) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
@@ -103,7 +113,9 @@ En la tabla siguiente se enumeran todos los archivos .msp que se han publicado d
 |word-x-none  <br/> |Word 2016  <br/> |1 de diciembre de 2020  <br/> |[4486756](https://support.microsoft.com/help/4486756) <br/> |12 de enero de 2021  <br/> |[4493156](https://support.microsoft.com/help/4493156) <br/>|[4486719](https://support.microsoft.com/help/4486719) <br/> |
 |wxpcore-x-none  <br/> |Office 2016  <br/> |4 de octubre de 2016  <br/> |[3118263](https://support.microsoft.com/help/3118263) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
 |wxpnse-x-none  <br/> |Office 2016  <br/> |4 de octubre de 2016  <br/> |[3118262](https://support.microsoft.com/help/3118262) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
-|xxxt-x-none  <br/> |Office 2016  <br/> |1 de agosto de 2017  <br/> |[3213650](https://support.microsoft.com/help/3213650) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
-   
+|xdext-x-none  <br/> |Office 2016  <br/> |1 de agosto de 2017  <br/> |[3213650](https://support.microsoft.com/help/3213650) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |
+
+[//]: # (NO ELIMINE EL CONTENIDO FINAL DEL HISTORIAL )
+
 <sup>1</sup> *ll-cc*  representa el idioma adecuado, como eu-es o gl-es. 
   
