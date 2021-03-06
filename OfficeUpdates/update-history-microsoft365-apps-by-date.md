@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista completa de las versiones de las Aplicaciones de Microsoft 365, organizada por fecha, con vínculos a las notas de la versión.
-ms.openlocfilehash: ea386ed41e693146e6e13ffc1c6cd1ea711deba6
-ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
+ms.openlocfilehash: cccd1af67f32ebcd94de4532b7f8f553b2336218
+ms.sourcegitcommit: a602c02ef920a2f7566232f5045ace1c9dd44b8b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50418075"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "50515331"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Historial de actualizaciones de Aplicaciones de Microsoft 365 (ordenado por fecha)
 
@@ -28,7 +28,7 @@ Estos números de versión y compilación se aplican a Aplicaciones de Microsoft
 > - La tabla está ordenada por fecha de lanzamiento, con la fecha del lanzamiento más reciente en primer lugar.
 > - Para obtener más información sobre los canales de actualización, vea [Información general sobre los canales de actualización para Aplicaciones de Microsoft 365](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus).
 
-En la tabla siguiente se muestra la versión compatible y el número de compilación más actual para cada canal de actualización.
+En la tabla siguiente se muestra la versión compatible y el número de compilación más actual para cada canal de actualización. La fecha de lanzamiento indica cuándo se lanzó la versión más actual.
 
 ### <a name="supported-versions"></a>**Versiones compatibles**
 
