@@ -1,5 +1,5 @@
 ---
-title: Notas de la versión para las versiones de canal mensual en 2017
+title: Notas de la versión de las versiones mensuales del canal en 2017
 ms.author: anankani
 author: andymosten
 manager: anankani
@@ -9,24 +9,24 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: Proporciona a los profesionales de ti las notas de la versión para las versiones de canal mensual para Office 365 ProPlus en 2017
-ms.openlocfilehash: e08e53d617cf74329210e0f758b2c440995ca2f5
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+description: Proporciona a los profesionales de TI notas de la versión de las versiones mensuales del canal para Office 365 ProPlus en 2017
+ms.openlocfilehash: a41d4c959b108995e0a4d1d8601cf1635b2c594d
+ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48369908"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50735214"
 ---
-# <a name="release-notes-for-monthly-channel-releases-in-2017"></a>Notas de la versión para las versiones de canal mensual en 2017
+# <a name="release-notes-for-monthly-channel-releases-in-2017"></a>Notas de la versión de las versiones mensuales del canal en 2017
 
-Estas notas de la versión proporcionan información sobre las nuevas características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones de canal mensual para Office 365 ProPlus en 2017.
+Estas notas de la versión proporcionan información sobre las nuevas características, las actualizaciones de seguridad y las actualizaciones que no son de seguridad que se incluyen en las actualizaciones mensuales del canal de Office 365 ProPlus en 2017.
  
 > [!NOTE]
 > - Lo siguiente también proporciona información sobre características nuevas, actualizaciones de seguridad y no relacionadas con la seguridad para Visio Pro para Office 365 y el cliente de escritorio de Project Online.
 > - Esta información también se aplica a Office 365 Empresa, que es la versión de Office que viene con algunos planes de Office 365, como Empresa Premium.
-> - El canal mensual se llamaba canal actual antes de septiembre de 2017.
+> - El canal mensual se denominaba Canal actual antes de septiembre de 2017.
 
-## <a name="version-1711-december-12"></a>Versión 1711:12 de diciembre
+## <a name="version-1711-december-12"></a>Versión 1711: 12 de diciembre
 *Versión 1711 (compilación 8730.2127)*
 
 ### <a name="outlook-security-updates"></a>Outlook: Actualizaciones de seguridad
@@ -37,7 +37,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1711-december-6"></a>Versión 1711:6 de diciembre
+## <a name="version-1711-december-6"></a>Versión 1711: 6 de diciembre
 *Versión 1711 (compilación 8730.2122)*
 
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
@@ -75,7 +75,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   La opción "Actualizar ahora" está oculta en Archivo \> Cuenta \> Opciones de actualización cuando se habilita un objeto COM de Office para que Configuration Manager administre las actualizaciones de cliente de Office 365.
 
 
-## <a name="version-1710-november-27"></a>Versión 1710:27 de noviembre
+## <a name="version-1710-november-27"></a>Versión 1710: 27 de noviembre
 *Versión 1710 (compilación 8625.2139)*
 
 ### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
@@ -86,7 +86,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   Se ha solucionado un problema que causaba que la aplicación de Office se bloquease cuando el usuario intentaba activar Office con el cuadro de diálogo Activar Office.
 
 
-## <a name="version-1710-november-20"></a>Versión 1710:20 de noviembre
+## <a name="version-1710-november-20"></a>Versión 1710: 20 de noviembre
 *Versión 1710 (compilación 8625.2132)*
 
 ### <a name="access-non-security-updates"></a>Access: Actualizaciones no relacionadas con la seguridad
@@ -100,22 +100,22 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   Se ha corregido un problema que provocaba que, al supervisar elementos con Accessible Event Watcher (AccEvent.exe), Outlook se bloquea al cambiar de carpeta.
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Actualizaciones no relacionadas con la seguridad
--   Se ha solucionado un problema que provocaba que se abriera una ventana nueva para reproducir el vídeo al usar referencias a Flash Player basadas en código para insertar de YouTube. Se han actualizado los códigos para insertar antiguos con referencias a HTML5 basadas en vídeos de YouTube para que se reproduzcan correctamente en su ubicación.
+-   Se ha corregido un problema que provocaba que se abriera una ventana nueva para reproducir el vídeo al usar referencias a Flash Player basadas en código para insertar de YouTube. Se han actualizado los códigos para insertar antiguos con referencias a HTML5 basadas en vídeos de YouTube para que se reproduzcan correctamente en su ubicación.
 
 ### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones no relacionadas con la seguridad
--   Se ha solucionado un problema relacionado con el zoom y el escalado en Complementos de Office en el entorno de PPP dinámico.
+-   Se soluciona un problema relacionado con el zoom y el escalado en complementos de Office en el entorno de PPP dinámico.
 -   Se ha corregido un problema que provocaba que el nodo CurrentStatus del proveedor del servicio de configuración (CSP) de Office devolviera una cadena vacía incluso si Office 365 ProPlus está instalado.
 -   Se ha corregido un problema que provocaba cambios en los formatos de archivo .box. Esto afectaba la funcionalidad de versiones antiguas de Office instaladas en el mismo equipo, porque los archivos .box se comparten con todas las versiones de una aplicación de Office en el mismo equipo.
 
 
 
-## <a name="version-1710-november-14"></a>Versión 1710:14 de noviembre
+## <a name="version-1710-november-14"></a>Versión 1710: 14 de noviembre
 *Versión 1710 (compilación 8625.2127)*
 
 ### <a name="excel-security-updates"></a>Excel: Actualizaciones de seguridad
 -   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877): Vulnerabilidad de omisión de característica de seguridad de Microsoft Excel
 -   [CVE-2017-11878](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11878): Vulnerabilidad de los daños en la memoria de Microsoft Excel
--   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884): vulnerabilidad de los daños en la memoria de Microsoft Office
+-   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884): Vulnerabilidad de los daños en la memoria de Microsoft Office
 
 ### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
 -   Se ha corregido un problema que provocaba que un usuario no pudiera cerrar un libro en la Vista protegida cuando el nombre de archivo contenía corchetes.
@@ -128,7 +128,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1710-november-2"></a>Versión 1710:2 de noviembre
+## <a name="version-1710-november-2"></a>Versión 1710: 2 de noviembre
 *Versión 1710 (compilación 8625.2121)*
 
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
@@ -145,7 +145,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 ### <a name="project-feature-updates"></a>Project: Actualizaciones de características
 -   **Visualización Panel de tareas:** Ordene tareas en las tarjetas desde la visualización Panel de tareas. Reordene y mueva las tarjetas en las columnas del panel de la misma forma que con los proyectos ágiles.
--   **Proyectos ágiles:** Administre sus proyectos ágiles mediante trabajos pendientes, paneles de tareas, sprints y mucho más. Se admiten las metodologías de Scrum o Kanban. [Más información](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)  
+-   **Proyectos ágiles:** Administre sus proyectos ágiles mediante trabajos pendientes, paneles de tareas, sprints y mucho más. Se admiten las metodologías de Scrum o Kanban. [Más información](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)  
 
 ### <a name="project-non-security-updates"></a>Project: Actualizaciones no relacionadas con la seguridad
 -   Se ha solucionado un problema que provocaba que la disponibilidad de los recursos no se mostrara en el generador de equipos.
@@ -174,7 +174,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1709-october-25"></a>Versión 1709:25 de octubre
+## <a name="version-1709-october-25"></a>Versión 1709: 25 de octubre
 *Versión 1709 (compilación 8528.2147)*
 
 ### <a name="access-non-security-updates"></a>Access: Actualizaciones no relacionadas con la seguridad
@@ -198,7 +198,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1709-october-16"></a>Versión 1709:16 de octubre
+## <a name="version-1709-october-16"></a>Versión 1709: 16 de octubre
 *Versión 1709 (compilación 8528.2139)*
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
@@ -225,7 +225,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1708-october-10"></a>Versión 1708:10 de octubre
+## <a name="version-1708-october-10"></a>Versión 1708: 10 de octubre
 *Versión 1708 (compilación 8431.2107)*
 
 ### <a name="outlook-security-updates"></a>Outlook: Actualizaciones de seguridad
@@ -240,7 +240,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1708-october-4"></a>Versión 1708:4 de octubre
+## <a name="version-1708-october-4"></a>Versión 1708: 4 de octubre
 *Versión 1708 (compilación 8431.2094)*
 
 ### <a name="access-non-security-updates"></a>Access: Actualizaciones no relacionadas con la seguridad
@@ -278,7 +278,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1708-september-18"></a>Versión 1708:18 de septiembre
+## <a name="version-1708-september-18"></a>Versión 1708: 18 de septiembre
 *Versión 1708 (compilación 8431.2079)*
 
 ### <a name="access-feature-updates"></a>Access: Actualizaciones de características
@@ -286,7 +286,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   **Conector de Salesforce:** permite importar datos o vincular a datos almacenados en Salesforce. [Más información](https://support.office.com/article/7375ffb6-1d6a-46f1-bb0c-c6ac3c58f5a0)
 
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
--   **Modelos 3D:** Use modelos 3D para aumentar el impacto visual y creativo de los libros.Inserte fácilmente un modelo 3D y, después, podrá girarlo 360 grados. [Más información](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
+-   **Modelos 3D:** Use modelos 3D para aumentar el impacto visual y creativo de los libros.  Inserte fácilmente un modelo 3D y, después, podrá girarlo 360 grados. [Más información](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **Nuevos efectos de lápiz:** Exprese sus ideas con estilo con lápices metálicos y efectos de lápiz, como arcoíris, galaxia, lava, océano, oro, plata y más.
 -   **Mejoras de "Agregar columna a partir de los ejemplos":** admite más transformaciones de fecha y hora, matemáticas y columna de índice.
 -   **Mejora de rendimiento:** Excel abre libros complejos con varias hojas con mayor rapidez, para que pueda procesar fácilmente fórmulas con rangos extensos, filtrar un gran número de filas, o copiar y pegar más rápido. 
@@ -297,7 +297,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   Se corrigió un problema por el que se omitían los caracteres de tabulación al copiar y pegar texto delimitado por tabulaciones desde Word, lo que causaba que el texto no se dividiera en columnas.
 
 ### <a name="outlook-feature-updates"></a>Outlook: Actualizaciones de características
--   **Modelos 3D:** Use modelos 3D para aumentar el impacto visual y creativo del correo electrónico.Inserte fácilmente un modelo 3D y, después, podrá girarlo 360 grados. [Más información](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
+-   **Modelos 3D:** Use modelos 3D para aumentar el impacto visual y creativo del correo electrónico.  Inserte fácilmente un modelo 3D y, después, podrá girarlo 360 grados. [Más información](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **Tarjeta de perfil:** Muestra los detalles más relevantes sobre personas y grupos, sin importar si está en el escritorio o en la web, o si usa una aplicación móvil.
 -   **Mejoras en la accesibilidad:** realizamos cambios para facilitar la lectura y edición de texto, tablas, listas e imágenes en el correo electrónico al usar un lector de pantalla.
 -   **Agregar una cita a un calendario de grupo:** Ya puede informar de su disponibilidad a todos los miembros del grupo sin tener que enviar una convocatoria de reunión por correo electrónico.
@@ -323,7 +323,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   **Bloquear extensiones peligrosas:** de forma predeterminada, se bloquea la activación de las extensiones consideradas de riesgo elevado y que se insertan como objetos de paquete OLE. Por ejemplo, .exe, .vbs y .js. [Más información](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: Actualizaciones no relacionadas con la seguridad
--   Se agrega un cuadro de diálogo en el que se explica por qué un usuario no puede unirse a una reunión cuando determinados puertos están bloqueados o las direcciones IP no están en la lista de permitidos.
+-   Agregue un cuadro de diálogo que explique por qué un usuario no puede unirse a una reunión cuando se bloquean determinados puertos o no se permiten direcciones IP.
 -   Se ha solucionado un problema por el que los mensajes no leídos en salones de chat persistentes se marcaban como leídos cuando se hace clic en las pestañas de conversación de mensajería instantánea.
 -   Se ha solucionado un problema en la que las notificaciones de mensajería instantánea entrantes experimentaban un retraso de varios segundos.
 -   Se ha solucionado un problema en el que un contacto de AD se mostraba como un número de teléfono en lugar del nombre del contacto cuando está deshabilitada la sincronización con Exchange.
@@ -337,7 +337,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   **Bloquear extensiones peligrosas:** de forma predeterminada, se bloquea la activación de las extensiones consideradas de riesgo elevado y que se insertan como objetos de paquete OLE. Por ejemplo, .exe, .vbs y .js. [Más información](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="word-feature-updates"></a>Word: actualizaciones de características
--   **Modelos 3D:** Use modelos 3D para aumentar el impacto visual y creativo de los documentos.Inserte fácilmente un modelo 3D y, después, podrá girarlo 360 grados. [Más información](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
+-   **Modelos 3D:** Use modelos 3D para aumentar el impacto visual y creativo de los documentos.  Inserte fácilmente un modelo 3D y, después, podrá girarlo 360 grados. [Más información](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **Nuevos efectos de lápiz:** exprese sus ideas con estilo con lápices metálicos y efectos de lápiz, como arcoíris, galaxia, lava, océano, oro, plata y más.
 -   **Interfaz de usuario para compartir archivos:** en el caso de los archivos de OneDrive para la Empresa o SharePoint, haga clic en el botón Compartir que encontrará en la esquina superior derecha de la cinta de opciones o en Archivo \> Compartir. Aparecerá un cuadro de diálogo Compartir simplificado y mejorado. Para los archivos nuevos o guardados de forma local, la interfaz de usuario permite cargar los archivos fácilmente en OneDrive y empezar a colaborar.
 -   **Bloquear extensiones peligrosas:** de forma predeterminada, se bloquea la activación de las extensiones consideradas de riesgo elevado y que se insertan como objetos de paquete OLE. Por ejemplo, .exe, .vbs y .js. [Más información](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
@@ -347,7 +347,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1707-september-12"></a>Versión 1707:12 de septiembre
+## <a name="version-1707-september-12"></a>Versión 1707: 12 de septiembre
 *Versión 1707 (compilación 8326.2107)*
 
 ### <a name="excel-security-updates"></a>Excel: Actualizaciones de seguridad
@@ -376,7 +376,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1707-august-29"></a>Versión 1707:29 de agosto
+## <a name="version-1707-august-29"></a>Versión 1707: 29 de agosto
 *Versión 1707 (compilación 8326.2096)*
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Actualizaciones no relacionadas con la seguridad
@@ -384,7 +384,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1707-august-24"></a>Versión 1707:24 de agosto
+## <a name="version-1707-august-24"></a>Versión 1707: 24 de agosto
 *Versión 1707 (compilación 8326.2087)*
 
 ### <a name="visio-non-security-updates"></a>Visio: Actualizaciones no relacionadas con la seguridad
@@ -397,7 +397,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1707-august-18"></a>Versión 1707:18 de agosto
+## <a name="version-1707-august-18"></a>Versión 1707: 18 de agosto
 *Versión 1707 (compilación 8326.2076)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Actualizaciones no relacionadas con la seguridad
@@ -410,7 +410,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1707-august-11"></a>Versión 1707:11 de agosto
+## <a name="version-1707-august-11"></a>Versión 1707: 11 de agosto
 *Versión 1707 (compilación 8326.2073)*
 
 ### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
@@ -418,7 +418,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1707-august-7"></a>Versión 1707:7 de agosto
+## <a name="version-1707-august-7"></a>Versión 1707: 7 de agosto
 *Versión 1707 (compilación 8326.2070)*
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: Actualizaciones no relacionadas con la seguridad
@@ -426,7 +426,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1707-july-31"></a>Versión 1707:31 de julio
+## <a name="version-1707-july-31"></a>Versión 1707: 31 de julio
 *Versión 1707 (compilación 8326.2062)*
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: Actualizaciones no relacionadas con la seguridad
@@ -434,7 +434,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1707-july-28"></a>Versión 1707:28 de julio
+## <a name="version-1707-july-28"></a>Versión 1707: 28 de julio
 *Versión 1707 (compilación 8326.2059)*
 
 ### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones no relacionadas con la seguridad
@@ -442,7 +442,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1707-july-27"></a>Versión 1707:27 de julio
+## <a name="version-1707-july-27"></a>Versión 1707: 27 de julio
 *Versión 1707 (compilación 8326.2058)*
 
 ### <a name="access-feature-updates"></a>Access: Actualizaciones de características
@@ -451,7 +451,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
 -   **Edición colaborativa:** Trabajar con otras personas al mismo tiempo en el libro. [Más información](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
--   **Autoguardado:** Los cambios se guardan automáticamente para los libros almacenados en la nube y puede ver las actualizaciones de otros en segundos. [Más información](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
+-   **AutoGuardar:** Los cambios se guardan automáticamente para libros almacenados en la nube y puede ver las actualizaciones de otros usuarios en segundos. [Más información](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
 -   **Sonidos útiles mejoran la accesibilidad:** Active las indicaciones de audio para guiarse mientras trabaja. Las encontrará en Archivo \> Opciones \> Accesibilidad. No se necesita ningún complemento. [Más información](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
 -   **Ubicaciones de archivo por cuenta:** Al abrir o guardar un archivo, la lista de ubicaciones se organiza en función de la cuenta asociada.
 
@@ -500,7 +500,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1706-july-19"></a>Versión 1706:19 de julio
+## <a name="version-1706-july-19"></a>Versión 1706: 19 de julio
 *Versión 1706 (compilación 8229.2103)*
 
 ### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
@@ -519,7 +519,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1706-july-13"></a>Versión 1706:13 de julio
+## <a name="version-1706-july-13"></a>Versión 1706: 13 de julio
 *Versión 1706 (compilación 8229.2086)*
 
 ### <a name="excel-security-updates"></a>Excel: Actualizaciones de seguridad
@@ -531,7 +531,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1706-june-28"></a>Versión 1706:28 de junio
+## <a name="version-1706-june-28"></a>Versión 1706: 28 de junio
 *Versión 1706 (compilación 8229.2073)*
 
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
@@ -560,13 +560,13 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   Se corrige un problema que provocaba que la ventana de las conversaciones en blanco no apareciera hasta que no se había unido correctamente a una reunión.
 -   Se corrige un problema que provocaba que la información del campo del departamento de una tarjeta de contacto no apareciera en los resultados de la búsqueda si el campo del título estaba vacío.
 -   Se corrigen los errores de inicio de sesión de los usuarios migrados de un entorno local a uno en línea que se producían a causa de las reglas de firewall.
--   Se ha agregado una nueva clave del Registro DWORD para corregir un problema que provocaba que, cuando un usuario iniciaba sesión en el cliente en una red externa con LyncAutoD, el cliente restableciese la clave del Registro de OAuthUsed a false. Para solucionar el problema, establezca el valor en 1 para EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket en HKEY \_ Current \_ User \\ Software \\ Microsoft \\ Office \\ 16,0 \\ Lync \\ \<SipID\> .
+-   Se ha agregado una nueva clave del Registro DWORD para corregir un problema que provocaba que, cuando un usuario iniciaba sesión en el cliente en una red externa con LyncAutoD, el cliente restableciese la clave del Registro de OAuthUsed a false. Para solucionar el problema, establezca el valor en 1 para EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket en HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Lync\\\<SipID\>.
 
 ### <a name="word-feature-updates"></a>Word: actualizaciones de características
 - **Personalización del lápiz:** Elija un conjunto personal de lápices y marcadores de resaltado para las entradas manuscritas. Su conjunto personalizado estará disponible en todos sus equipos PC Windows.
 - **Insertar imágenes en línea:** Nueva página de destino para la selección de imágenes. Además, la información de atribución se inserta automáticamente con la imagen.
 
-## <a name="version-1705-june-13"></a>Versión 1705:13 de junio
+## <a name="version-1705-june-13"></a>Versión 1705: 13 de junio
 *Versión 1705 (compilación 8201.2102)*
 
 ### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
@@ -582,8 +582,8 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   [CVE-2017-8550](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8550): Vulnerabilidad de ejecución remota de código de Skype Empresarial
 
 ### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
--   [CVE-2017-0292](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0292): Vulnerabilidad de la ejecución remota de código de PDF de Windows 
--   [CVE-2017-8509](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8509): Vulnerabilidad de la ejecución remota de código de Microsoft Office  
+-   [CVE-2017-0292](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0292): Vulnerabilidad de la ejecución remota de código de PDF de Windows 
+-   [CVE-2017-8509](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8509): Vulnerabilidad de la ejecución remota de código de Microsoft Office  
 
 ### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones de seguridad
 -   [CVE-2017-0260](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0260): Ejecución remota de código de Microsoft Office
@@ -592,7 +592,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1705-june-7"></a>Versión 1705:7 de junio
+## <a name="version-1705-june-7"></a>Versión 1705: 7 de junio
 *Versión 1705 (compilación 8201.2075)*
 
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
@@ -601,7 +601,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   **Uso compartido de consultas**: Exporte cualquier definición de consulta en un archivo de conexión de base de datos de Office (ODC) y, a continuación, compártalo en libros o con otros usuarios.
 -   **Carga de datos** Cargue datos desde una consulta directamente en tablas dinámicas o gráficos dinámicos sin tener que guardar los datos en el modelo de datos.
 -   **Mejora de Obtener y transformar:** En el Editor de consultas, cree una columna nueva proporcionando valores de ejemplo. A medida que escribe, Excel detecta las transformaciones necesarias y muestra una vista previa de la columna nueva.
--   **Compatibilidad con Windows Information Protection (WIP):**    Excel ahora es una aplicación habilitada y puede diferenciar entre los datos personales y los corporativos, ya que determina correctamente qué proteger, en función de las directivas configuradas.   [Más información](https://aka.ms/wiptechnet)
+-   **Compatibilidad con Windows Information Protection (WIP):**   La aplicación Excel ahora puede diferenciar entre los datos personales y los datos corporativos, y determinar correctamente cuáles se deben proteger basándose en las directivas configuradas.  [Más información](https://aka.ms/wiptechnet)
 
 ### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
 -   Se corrige un problema que provocaba que Combinar y centrar no funcionara en hojas de cálculo agrupadas.
@@ -616,7 +616,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Actualizaciones de características
 -   **Subtítulos para los vídeos:** Agregue subtítulos a los vídeos para que sean más accesibles. [Más información](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
 -   **Mejora del servicio Diseñador:** Ahora, Diseñador recomienda ideas de diseño para los gráficos que se agregan a las diapositivas.
--   **Compatibilidad con Windows Information Protection (WIP):**    PowerPoint ahora es una aplicación habilitada y puede diferenciar entre los datos personales y los corporativos, ya que determina correctamente qué proteger, en función de las directivas configuradas.   [Más información](https://aka.ms/wiptechnet)
+-   **Compatibilidad con Windows Information Protection (WIP):**   La aplicación PowerPoint ahora puede diferenciar entre los datos personales y los datos corporativos, y determinar correctamente cuáles se deben proteger basándose en las directivas configuradas.  [Más información](https://aka.ms/wiptechnet)
 
 ### <a name="project-non-security-updates"></a>Project: Actualizaciones no relacionadas con la seguridad
 -   Se corrige el cuadro de diálogo Crear sitio de proyecto para que muestre la ubicación correcta del sitio ahora que cada plantilla de proyecto empresarial (EPT) tendrá su propia URL para los sitios de proyecto en Project Online.
@@ -631,7 +631,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="skype-for-business-feature-updates"></a>Skype Empresarial: Actualizaciones de características
 -   **Inserción de vínculos** Agregue un vínculo a la mensajería instantánea y a los chats de grupo y proporcione un texto descriptivo para el vínculo en lugar de la dirección URL completa.
 -   **Screen sharing notification:** A notification displays in the conversation window when you’re sharing a screen in an IM conversation or when screen sharing continues after you leave a meeting. The notification reminds you that you are still sharing your screen and makes it easy to stop sharing by using the “Stop Sharing” button.
--   **Compatibilidad con Windows Information Protection (WIP):** Skype empresarial ahora es compatible como una aplicación de trabajo en curso.Al agregar Skype a la lista de aplicaciones permitidas, indica a Windows que no administra los datos personales.Windows protegerá los datos en nombre de Skype empresarial.   [Más información](https://aka.ms/wiptechnet)
+-   **Compatibilidad con Windows Information Protection (WIP):** Skype Empresarial ahora se admite como aplicación de solo trabajo protegida con WIP.  Si se agrega Skype a la lista de aplicaciones permitidas, Windows reconocerá que la aplicación no procesa datos personales y protegerá los datos en nombre de Skype Empresarial.  [Más información](https://aka.ms/wiptechnet)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: Actualizaciones no relacionadas con la seguridad
 -   Change message for attempted calls to users with audio disabled by policy from "Cannot complete the call" to "Cannot call because an IT administrator has restricted audio. Try using instant messaging or email instead and ask to check with their IT administrator."
@@ -646,9 +646,9 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="word-feature-updates"></a>Word: Actualizaciones de características
 -   **Ayuda de escritura mejorada con el panel Editor:** Use el panel Editor para recomendaciones de estilo avanzadas de escritura, gramática y ortografía. Se crea para ser accesible con compatibilidad mejorada a las tecnologías de asistencia.
 -   **Creación de texto alternativo:** Un servicio basado en la nube genera automáticamente texto alternativo (alt text) para las imágenes de un documento.
--   **Compatibilidad con Windows Information Protection (WIP):**    Word es ahora una aplicación habilitada y puede diferenciar entre los datos personales y los datos corporativos, y determinar correctamente qué proteger, en función de las directivas configuradas.   [Más información](https://aka.ms/wiptechnet)
+-   **Compatibilidad con Windows Information Protection (WIP):**   La aplicación Word ahora puede diferenciar entre los datos personales y los datos corporativos, y determinar correctamente cuáles se deben proteger basándose en las directivas configuradas.  [Más información](https://aka.ms/wiptechnet)
 
-## <a name="version-1704-june-1"></a>Versión 1704:1 de junio
+## <a name="version-1704-june-1"></a>Versión 1704: 1 de junio
 *Versión 1704 (compilación 8067.2157)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: actualizaciones no relacionadas con la seguridad
@@ -659,7 +659,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1704-may-18"></a>Versión 1704:18 de mayo
+## <a name="version-1704-may-18"></a>Versión 1704: 18 de mayo
 *Versión 1704 (compilación 8067.2115)*
 
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
@@ -676,9 +676,9 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   **Insertar vínculos recientes:** Adjunte hipervínculos a sitios web o archivos basados en la nube recientes y cree nombres para mostrar significativos para los usuarios que usen lectores de pantalla. [Más información](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **Mensajes accionables:** los desarrolladores pueden crear mensajes para facilitar a los usuarios la realización de acciones simples o rápidas y sin tener que cambiar a un sitio web externo o a otra aplicación, directamente desde Outlook. [Más información](https://dev.office.com/blogs/create-more-engaging-conversations-with-new-actionable-messages-updates-announced-at-microsoft-build)
 -   **Compatibilidad con archivos adjuntos locales:** Los archivos de la versión local de SharePoint Server se muestran como archivos recientes en Mensaje \> Adjuntar archivo. Los sitios de grupo de las versiones locales de OneDrive para la Empresa y SharePoint aparecen en Adjuntar archivo \> Explorar sitios web. Además, es posible cargar archivos locales en los sitios de la versión local de OneDrive para la Empresa.
--   **Clasificaciones empresariales de los grupos:**  al crear o editar un grupo, se le puede asignar un nivel de clasificación empresarial definido por el administrador del espacio empresarial (por ejemplo, Confidencial). La clasificación en cuestión aparecerá en el encabezado de grupo.
+-   **Clasificaciones empresariales de los grupos:**  Al crear o editar un grupo, se le puede asignar un nivel de clasificación empresarial definido por el administrador del espacio empresarial (por ejemplo, Confidencial). La clasificación en cuestión aparecerá en el encabezado de grupo.
 
-### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
+### <a name="powerpoint-feature-updates"></a>PowerPoint: Actualizaciones de características
 -   **Incluir comentarios en una grabación:** Incluya un vídeo con sus propios comentarios cuando grabe una presentación. Las grabaciones pueden incluir animaciones, entradas de lápiz, audio y vídeo.
 -   **Insertar vínculos recientes:** Adjunte hipervínculos a sitios web o archivos basados en la nube recientes y cree nombres para mostrar significativos para los usuarios que usen lectores de pantalla. [Más información](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **Implementación centralizada de los complementos**: Los administradores pueden implementar y actualizar complementos para los usuarios o grupos desde el Centro de administración de Office 365. [Más información](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
@@ -715,14 +715,14 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 ### <a name="word-feature-updates"></a>Word: Actualizaciones de características
 -   **Insertar vínculos recientes:** Adjunte hipervínculos a sitios web o archivos basados en la nube recientes y cree nombres para mostrar significativos para los usuarios que usen lectores de pantalla. [Más información](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
--   **Implementación centralizada de complementos**: los administradores pueden implementar y actualizar complementos a usuarios o grupos desde el centro de administración de Office 365.   [Más información](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
+-   **Implementación centralizada de los complementos**: Los administradores pueden implementar y actualizar complementos para los usuarios o grupos desde el Centro de administración de Office 365.  [Más información](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
 
 
 
-## <a name="version-1703-may-9"></a>Versión 1703:9 de mayo
+## <a name="version-1703-may-9"></a>Versión 1703: 9 de mayo
 *Versión 1703 (compilación 7967.2161)*
 
-### <a name="skype-for-business-security-updates"></a>Skype Empresarial: actualizaciones de seguridad
+### <a name="skype-for-business-security-updates"></a>Skype Empresarial: Actualizaciones de seguridad
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): Vulnerabilidad de la ejecución remota de código de Microsoft Office
 
 ### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
@@ -736,7 +736,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1703-april-21"></a>Versión 1703:21 de abril
+## <a name="version-1703-april-21"></a>Versión 1703: 21 de abril
 *Versión 1703 (compilación 7967.2139)*
 
 ### <a name="access-feature-updates"></a>Access: Actualizaciones de características
@@ -777,7 +777,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   Se pone el tiempo invertido en espera de la ventana de transferencia de consulta a disposición de los lectores de pantalla, como el Narrador.
 -   Agregar la posibilidad de elegir entre mensajería instantánea o llamadas como preferencia predeterminada para la transferencia de consulta.
 
-### <a name="visio-feature-updates"></a>Visio: Actualizaciones de características
+### <a name="visio-feature-updates"></a>Visio: actualizaciones de características
 -   **Crear diagramas de los datos de Excel:** Se crea automáticamente un diagrama de flujo básico o un diagrama de flujo de funciones cruzadas a partir de datos de Excel mediante plantillas de visualizador de datos nuevos. [Más información](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 -   **Vínculos seguros:** Cuando un usuario hace clic en un vínculo, Protección contra amenazas avanzada de Office 365 (ATP) lo inspecciona para comprobar si es malintencionado o no. Si el vínculo se considera malintencionado, se redirige al usuario a una página de advertencia en lugar de redirigirlo a la URL de destino original. [Más información](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 
@@ -791,7 +791,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1702-april-11"></a>Versión 1702:11 de abril
+## <a name="version-1702-april-11"></a>Versión 1702: 11 de abril
 *Versión 1702 (compilación 7870.2038)*
 
 ### <a name="outlook-security-updates"></a>Outlook: Actualizaciones de seguridad
@@ -803,7 +803,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1702-march-27"></a>Versión 1702:27 de marzo
+## <a name="version-1702-march-27"></a>Versión 1702: 27 de marzo
 *Versión 1702 (compilación 7870.2031)*
 
 ### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
@@ -817,7 +817,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1702-march-14"></a>Versión 1702:14 de marzo
+## <a name="version-1702-march-14"></a>Versión 1702: 14 de marzo
 *Versión 1702 (compilación 7870.2024)*
 
 ### <a name="excel-security-updates"></a>Excel: Actualizaciones de seguridad
@@ -831,7 +831,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1702-march-9"></a>Versión 1702:9 de marzo
+## <a name="version-1702-march-9"></a>Versión 1702: 9 de marzo
 *Versión 1702 (compilación 7870.2020)*
 
 ### <a name="access-feature-updates"></a>Access: Actualizaciones de características
@@ -866,7 +866,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   Se soluciona un problema por el que el botón de comando de un complemento no funciona después de actualizar el complemento o después de quitar y descargar el complemento de nuevo desde la Tienda Office.
 
 ### <a name="project-feature-updates"></a>Project: Actualizaciones de características
--   **Nombre de Resumen de tareas:**   Campo de tarea de solo lectura que muestra el nombre de la tarea de Resumen de la tarea.  
+-   **Nombre de resumen de la tarea:**  Campo de tarea de solo lectura en el que se muestra el nombre de la tarea de resumen de la tarea.  
 
 ### <a name="project-non-security-updates"></a>Project: Actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema por el que la información de línea de base se pierde al guardar un proyecto.
@@ -910,7 +910,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1701-february-23"></a>Versión 1701:23 de febrero
+## <a name="version-1701-february-23"></a>Versión 1701: 23 de febrero
 *Versión 1701 (compilación 7766.2060)*
 
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
@@ -934,8 +934,8 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   Se soluciona un problema producido cuando se volvía a numerar la estructura de descomposición de trabajo (WBS).
 
 ### <a name="skype-for-business-feature-updates"></a>Skype Empresarial: Actualizaciones de características
--   **Estilo de notificación de Windows:** Cambios en la apariencia de las notificaciones para las llamadas entrantes y las conversaciones. [Más información](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/New-Skype-for-Business-2016-on-Windows-Notifications-look-and/ba-p/39885)
--   **Transferencia Consultiva:** Desde una llamada, consulte con otro usuario a través de un mensaje instantáneo o una llamada antes de transferir la llamada a ese usuario. [Más información](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
+-   **Estilo de notificación de Windows:** Cambios en la apariencia de las notificaciones de las llamadas y conversaciones entrantes. [Más información](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/New-Skype-for-Business-2016-on-Windows-Notifications-look-and/ba-p/39885)
+-   **Transferencia consultiva:** Desde dentro de una llamada, consulte con otro usuario a través de una mensajería instantánea o una llamada antes de transferir la llamada a ese usuario. [Más información](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
 -   **Notificaciones de micrófono:** Establezca que se muestre una notificación en la ventana de conversación cuando el micrófono esté silenciado en el sistema operativo o si el micrófono no está recibiendo ningún audio.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: Actualizaciones no relacionadas con la seguridad
@@ -972,7 +972,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1612-january-31"></a>Versión 1612:31 de enero
+## <a name="version-1612-january-31"></a>Versión 1612: 31 de enero
 *Versión 1612 (compilación 7668.2074)*
 
 ### <a name="onedrive-for-business-non-security-updates"></a>OneDrive para la Empresa: Actualizaciones no relacionadas con la seguridad
@@ -983,7 +983,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1612-january-25"></a>Versión 1612:25 de enero
+## <a name="version-1612-january-25"></a>Versión 1612: 25 de enero
 *Versión 1612 (compilación 7668.2066)*
 
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
@@ -1043,7 +1043,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   Se soluciona un problema en el que no se detecta ningún micrófono en una llamada al usar un dispositivo Polycom CX100.
 -   Fix an issue where choosing a link such as \\\\servername or file:// in an IM message results in an error message instead of opening the location.
 -   Se soluciona un problema en el que, en un entorno de Infraestructura de escritorio virtual (VDI) que usa enrutamiento basado en ubicación, el usuario no puede realizar o recibir llamadas RTC porque el servidor cree que la ubicación del usuario no es válida para las llamadas RTC.
--   Cambiar la línea de asunto del correo electrónico que se ha enviado para un mensaje perdido, cuando el estado del usuario se establece en no molestar o presentar, desde "conversación perdida con \<name\> " a " \<Name\> enviado un mensaje en Skype empresarial."
+-   Cambie la línea de asunto del correo electrónico enviado para un mensaje perdido, cuando el estado del usuario esté establecido en No molestar o Presentar, de "Conversación perdida con " a " le envió un mensaje en \<name\> \<Name\> Skype Empresarial".
 -   Para empezar, capture la marca de tiempo de la primera vez que inicie sesión en el dispositivo como parte de los [datos del censo](https://docs.microsoft.com/skypeforbusiness/legal-and-regulatory/data-collection-practices) para que sea más fácil identificar las tendencias de confiabilidad de inicio de sesión.
 
 ### <a name="visio-feature-updates"></a>Visio: Actualizaciones de características
@@ -1062,10 +1062,10 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1611-january-4"></a>Versión 1611:4 de enero
+## <a name="version-1611-january-4"></a>Versión 1611: 4 de enero
 *Versión 1611 (compilación 7571.2109)*
 
-Nota: las actualizaciones de seguridad descritas en el boletín de seguridad Microsoft [MS17-002](https://technet.microsoft.com/library/security/ms17-002) no se aplican a la versión de Word en esta versión de canal.
+Nota: Las actualizaciones de seguridad que se tratan en el Boletín de seguridad de Microsoft [MS17-002](https://technet.microsoft.com/library/security/ms17-002) no se aplican a la versión de Word en esta versión de canal.
 
 ### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
 -   Se ha solucionado un problema que impedía que los valores de celda con texto y comillas dobles se exportasen correctamente al guardar como archivo csv. o csv. UTF-8.

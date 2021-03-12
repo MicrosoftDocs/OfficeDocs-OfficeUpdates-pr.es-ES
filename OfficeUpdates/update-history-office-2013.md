@@ -9,19 +9,19 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI un historial de actualizaciones para las versiones perpetuas de Office 2013 que usan Hacer clic y ejecutar.
-ms.openlocfilehash: 3b0ab99bdc4360ddc7600e5983c7fc4000124d1d
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: 328507ff0e8c118eb2a701116b0da34de765d91d
+ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173789"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50595494"
 ---
 # <a name="update-history-for-office-2013"></a>Historial de actualizaciones para Office 2013
 
 Algunos productos de Office 2013 se actualizan automáticamente mediante una tecnología denominada hacer clic y ejecutar. Si desea comprobar que está actualizado, compruebe su número de versión de Office y actualice Office manualmente si es necesario.
   
 > [!NOTE]
-> La versión más reciente de Office 2013 es la **15.0.5319.1000**, que se publicó el 9 de febrero de 2021.
+> La versión más reciente de Office 2013 es la **15.0.5327.1000**, que se publicó el 9 de marzo de 2021.
   
 Para comprobar su versión de Office, siga estos pasos:
   
@@ -45,7 +45,8 @@ Las versiones nuevas incluyen todas las actualizaciones de versiones anteriores.
   
 |**Año de publicación**|**Fecha de publicación**|**Número de versión**|**Más información**|
 |:-----|:-----|:-----|:-----|
-|2021|9 de febrero|15.0.5319.1000|[KB 5000653](https://support.microsoft.com/help/5000653)|
+|2021| 9 de marzo|15.0.5327.1000|[KB 5000635](https://support.microsoft.com/help/5000635)|
+||9 de febrero|15.0.5319.1000|[KB 5000653](https://support.microsoft.com/help/5000653)|
 ||12 de enero|15.0.5311.1000|[KB 4583559](https://support.microsoft.com/help/4583559)|
 |2020| 8 de diciembre|15.0.5301.1000 |[KB 4583521](https://support.microsoft.com/help/4583521)|
 ||10 de noviembre|15.0.5293.1000|[KB 4583503](https://support.microsoft.com/help/4583503)|

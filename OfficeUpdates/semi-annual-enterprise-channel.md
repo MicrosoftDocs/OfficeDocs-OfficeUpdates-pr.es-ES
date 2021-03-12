@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones del canal semestral de Aplicaciones de Microsoft 365 en 2020.
-ms.openlocfilehash: 6b50195e2e84292b0b4b1e259254592f2c4a591b
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: 9e642912dd77ac1e61683ce3021a2d5ee2c5ec56
+ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173659"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50595703"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>Notas de la versión para el canal semestral para empresas
 
@@ -30,7 +30,47 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 [//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
-## <a name="version-2008-february-09"></a>Versión 2008: 09 de febrero
+## <a name="version-2008-march-09"></a>Versión 2008: 09 de marzo
+*Versión 2008 (compilación 13127.21348)*
+
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Hemos corregido un problema por el que Excel dejaba de responder después de seleccionar una serie de datos en un gráfico.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha corregido un problema que podía provocar que la aplicación se cerrara de forma inesperada cuando se producía un error al guardar un documento.
+
+
+- Corrige un problema que hacía que, en algunos casos, se eliminara la etiqueta de Clasificación de datos al seleccionar una idea de diseño.
+
+
+### <a name="word"></a>Word
+
+- Se ha corregido un problema que podía provocar que la aplicación se cerrara de forma inesperada cuando se producía un error al guardar un documento.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Se ha corregido un problema que hacía que copiar y pegar en los mensajes de Skype Empresarial hacía que se mostrara el siguiente aviso: "Se ha producido un error al pegar el contenido".
+
+
+
+[//]: # (NO QUITAR EL CONTENIDO FINAL DE LOS DETALLES DE LOS ERRORES)
+
+## <a name="version-2002-march-09"></a>Versión 2002: 09 de marzo
+*Versión 2002 (compilación 12527.21686)*
+
+Las actualizaciones de seguridad se muestran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+## <a name="version-2008-february-09"></a>Versión 2008: 09 de septiembre
 *Versión 2008 (compilación 13127.21216)*
 
 Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
@@ -2649,6 +2689,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|DC|Producción| |16.0.13127.21348|versión-2008-marzo-09|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21216|version-2008-february-09|)
 [//]: # (| Win32 | CC | Producción | | 16.0.13127.21064 | versión-2008-enero-12 |)
 [//]: # (| Win32 | DC | Producción | | 16.0.12527.21416 | versión-2002-diciembre-08 |)
