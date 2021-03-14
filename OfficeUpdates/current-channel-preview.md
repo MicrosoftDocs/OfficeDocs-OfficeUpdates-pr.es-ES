@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporcionar a los participantes del Modo aplazado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos
-ms.openlocfilehash: 734f5c159afc2621e6a4e906b2a7155c9a4801b7
-ms.sourcegitcommit: ab151c4f3172c007249a556fa02854b0765d24b9
+ms.openlocfilehash: 64fa879f8279057f7e768c6743568516cb8046dc
+ms.sourcegitcommit: d7b61837c922993e563c83df547d865c6715517b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50421414"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "50741643"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notas de la versión del canal actual de Office (versión preliminar)
 
@@ -28,6 +28,238 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 > - Las características de Microsoft Teams pueden diferir de la última versión preliminar del Canal actual publicada ya que tienen una cadencia de publicación más frecuente.
 
 [//]: # (NO ELIMINAR)
+
+## <a name="version-2103-march-11"></a>Versión 2103: 11 de marzo
+*Versión 2103 (compilación 13901.20148)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Autoguardado y coautoría en documentos cifrados confidenciales:** no elija entre productividad y seguridad. Con Microsoft Information Protection, los documentos que se cifran con etiquetas de confidencialidad ahora permiten el autoguardado y la coautoría con otras personas en tiempo real, igual que los documentos sin cifrar. Requiere que el espacio empresarial opte por participar (más información: https://aka.ms/mipcoauth).
+
+### <a name="outlook"></a>Outlook
+
+- **Nueva experiencia de reserva de sala de conferencias y área de trabajo:** se ha actualizado la experiencia de reserva de la sala de conferencias y, con ella, hemos agregado funcionalidades para permitirle programar áreas de trabajo individuales.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Autoguardado y coautoría en documentos cifrados confidenciales:** no elija entre productividad y seguridad. Con Microsoft Information Protection, los documentos que se cifran con etiquetas de confidencialidad ahora permiten el autoguardado y la coautoría con otras personas en tiempo real, igual que los documentos sin cifrar. Requiere que el espacio empresarial opte por participar (más información: https://aka.ms/mipcoauth).
+
+### <a name="visio"></a>Visio
+
+- **Los iconos de Office tienen un nuevo aspecto:** los iconos de producto se han rediseñado para reflejar las sencillas, inteligentes y eficaces experiencias de Office. [Más información](https://support.office.com/article/a6cdf19a-b2bd-4be1-9515-d74a37aa59bf)
+
+### <a name="word"></a>Word
+
+- **Modo oscuro para documentos de Word:** el modo oscuro puede ayudar a reducir la carga visual y adaptar la sensibilidad a la luz mientras trabaja en sus documentos.
+
+- **Autoguardado y coautoría en documentos cifrados confidenciales:** no elija entre productividad y seguridad. Con Microsoft Information Protection, los documentos que se cifran con etiquetas de confidencialidad ahora permiten el autoguardado y la coautoría con otras personas en tiempo real, igual que los documentos sin cifrar. Requiere que el espacio empresarial opte por participar (más información: https://aka.ms/mipcoauth).
+
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="access"></a>Access
+
+- Hemos corregido un problema que podría provocar que la aplicación se cerrara de forma inesperada al quitar una unidad externa.
+
+
+- Hemos corregido un problema por el que, cuando una aplicación externa solicitaba una interfaz de accesibilidad, nos impedía cerrar hasta que se liberaba su referencia.
+
+
+### <a name="excel"></a>Excel
+
+- Hemos corregido un problema que podría provocar que la aplicación se cerrara de forma inesperada al quitar una unidad externa.
+
+
+- Se ha corregido un problema que causaba que Excel se cerrara de forma inesperada al intentar mostrar la tarjeta tipos de datos porque una imagen no se podía recuperar.
+
+
+- Hemos corregido un problema por el que la fuente cambiaría de forma inesperada al usar un signo de multiplicación o división con una fuente japonesa. Ahora continuamos usando la misma fuente si admite el carácter.
+
+
+- Hemos corregido un problema que impedía a los usuarios exportar un libro de Excel a PDF.
+
+
+- Hemos corregido un problema que hace que las imágenes fueran más pequeñas de lo esperado al usar la opción Pegar imagen vinculada.
+
+
+- Hemos corregido un problema por el que se podía perder parte del formato al copiar una hoja mientras se trabajaba en autoría.
+
+
+- Hemos corregido un problema por el que algunas notas se mostraban de forma inesperada al abrir un libro.
+
+
+- Hemos corregido un problema que causaba que algunos formatos de tabla dinámica dañaran el libro al guardar en formato .xls o .xlt.
+
+
+### <a name="outlook"></a>Outlook
+
+- Hemos corregido un problema que podría provocar que la aplicación se cerrara de forma inesperada al quitar una unidad externa.
+
+
+- Hemos corregido el problema que causaba que los usuarios viesen grupos de calendario duplicados después de crear un grupo.
+
+
+- Hemos corregido un problema que causaba que los usuarios de las mejoras del calendario compartido no pudieran establecer el color de un calendario en amarillo o marrón.
+
+
+- Hemos corregido un problema por el que los usuarios no veían los calendarios agregados recientemente en el panel de navegación si no reiniciaban Outlook.
+
+
+- Hemos corregido un problema que causaba que los caracteres que no eran ASCII se exportaran de forma incorrecta al exportar a un archivo CSV.
+
+
+- Hemos corregido un problema que causaba que algunos usuarios no pudieran tener acceso a las firmas asociadas con cuentas de correo secundarias.
+
+
+- Hemos corregido un problema que causaba que los usuarios de la característica Configuración de la nube vieran que se reemplazaba la configuración personalizada por la configuración predeterminada después de configurar Outlook en un nuevo dispositivo.
+
+
+- Hemos corregido un problema que provocaba que las firmas con contenido Unicode se dañasen.
+
+
+- Hemos corregido un problema que causaba que los usuarios de traducción directa no pudieran enviar comentarios.
+
+
+- Hemos corregido un problema que provocaba que los usuarios vieran archivos adjuntos duplicados al quitar la protección de DRM.
+
+
+- Hemos corregido un problema que causaba que los usuarios no pudieran buscar un grupo de contactos con Comprobar nombres al redactar un correo.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Hemos corregido un problema que podría provocar que la aplicación se cerrara de forma inesperada al quitar una unidad externa.
+
+
+- Hemos corregido un problema que hacía que las flechas de los gráficos de líneas no aparecieran tal como se esperaba en el modo de presentación de PowerPoint.
+
+
+- Corregido un problema con la reproducción de animaciones y marcadores de audio.
+
+
+### <a name="project"></a>Project
+
+- Se ha corregido un problema que provocaba que Visio dejara de funcionar durante el cierre.
+
+
+- Hemos corregido un problema que podría provocar que la aplicación se cerrara de forma inesperada al quitar una unidad externa.
+
+
+- Se ha corregido un problema por el que una tarea completada al 100 % podía aparecer como completada al 99 %.
+
+
+- Se ha corregido un problema por el que Project se cerraba inesperadamente si ejecutaba JAWS e iba al diálogo de información de la tarea.
+
+
+- Se ha corregido un problema por el que, si la columna de indicador no está en el primer lugar de la columna, al cortar una tarea de resumen, no se advierte de que también se quitarán las subtareas.
+
+
+- Se ha corregido un problema por el que, si un usuario seleccionaba la opción Agregar su usuario a una función de tarea en su Timesheet, no se podrían usar correctamente las unidades de disponibilidad de recursos en la tarea creada.
+
+
+- Se ha corregido un problema por el que es posible que las divisiones de tareas se creen de forma incorrecta al guardar un proyecto desde Project Web App en un archivo local. Esto sucedía al usar un calendario de tareas con horas de trabajo no estándar.
+
+
+### <a name="publisher"></a>Publisher
+
+- Hemos corregido un problema que podría provocar que la aplicación se cerrara de forma inesperada al quitar una unidad externa.
+
+
+### <a name="visio"></a>Visio
+
+- Se ha corregido un problema que provocaba que Visio dejara de funcionar durante el cierre.
+
+
+- Hemos corregido un problema que podría provocar que la aplicación se cerrara de forma inesperada al quitar una unidad externa.
+
+
+### <a name="word"></a>Word
+
+- Hemos corregido un problema por el que, al abrir un archivo protegido con una etiqueta de Microsoft Information Protection (MIP), se puede colgar de forma indefinida si el usuario no ha iniciado sesión en una identidad que tiene acceso a la etiqueta protegida de MIP. El usuario no puede cancelar la apertura para mostrar la solicitud de inicio de sesión yno se puede completar correctamente gasta entonces. Para solucionar este problema, permita que se muestre la solicitud de inicio de sesión durante la apertura o descarga.
+
+
+- Hemos corregido un problema que podría provocar que la aplicación se cerrara de forma inesperada al quitar una unidad externa.
+
+
+- Hemos corregido un problema al usar Dictado en el nuevo Comentarios de Word. Ahora, el botón de dictado de la tarjeta Comentarios se activa y desactivada correctamente.
+
+
+- Al crear un documento en coautoría, el borrador activo no se borraba cuando cambiaba el orden de los comentarios.
+
+
+- Se ha corregido un problema por el que no se insertaba ningún espacio entre palabras cuando los usuarios dictaban en su documento.
+
+
+- Se ha corregido un problema en la canalización de representación relacionado con las capas de desplazamiento que contienen animaciones de desplazamiento o zoom.
+
+
+- Se ha corregido un problema con los colores aplicados a los iconos y a los gráficos SVG con efectos 3D.
+
+
+- Hemos corregido un problema con el Autoguardado.
+
+
+- Hemos corregido un problema con la nota al pie.
+
+
+- Hemos corregido un problema al publicar comentarios de varias líneas escritos en RTL que causaba que las líneas 2 en adelante se alineasen a la izquierda en lugar de a la derecha.
+
+
+- Hemos corregido un problema con la alineación de varios comentarios.
+
+
+- Hemos corregido un problema en los métodos abreviados de teclado del panel de tareas Leer en voz alta.
+
+
+- Hemos corregido un problema por el que el Narrador podía omitir un párrafo.
+
+
+- Hemos corregido un problema que hacía que la revisión ortográfica cambiara entre dos menús contextuales de corrección ortográfica diferentes.
+
+
+- Hemos corregido un problema con los controles de contenido de texto enriquecido.
+
+
+- Hemos corregido un problema con la escritura al final de un párrafo oculto que podía provocar que la aplicación dejara de funcionar.
+
+
+- Hemos corregido un problema en el que las columnas podían tener texto superpuesto.
+
+
+- Hemos corregido un problema relacionado con el marcador.
+
+
+- Hemos corregido un problema relacionado con la resolución de conflictos durante la coautoría.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Las ubicaciones de OneDrive ahora se filtran según corresponda en la configuración de directiva de grupo.
+
+
+- Se ha corregido un problema al usar Narrador en un texto que contiene ecuaciones matemáticas.
+
+
+- Se ha corregido un problema de confiabilidad relacionado con la compatibilidad de las aplicaciones de Office que se ejecutan en la sesión 0.
+
+
+- Se ha corregido un problema de confiabilidad relacionado con la compatibilidad de las aplicaciones de Office que se ejecutan en la sesión 0.
+
+
+- Soluciona un problema relacionado con la falta de respuesta que puede producirse al cargar imágenes EMF.
+
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
 
 ## <a name="version-2102-march-03"></a>Versión 2102: 03 de marzo
 *Versión 2102 (compilación 13801.20274)*
@@ -2887,7 +3119,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
+[//]: # (NO ELIMINAR LOS DETALLES DEL CONTENIDO FINAL)
 
 ## <a name="version-2004-april-21"></a>Versión 2004: 21 de abril
 *Versión 2004 (compilación 12730.20182)*
