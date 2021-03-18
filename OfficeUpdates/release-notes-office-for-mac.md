@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales de TI las notas de la versión de las versiones de Office para Mac para los suscriptores de Aplicaciones de Microsoft 365
-ms.openlocfilehash: e671d6d2520edde125287179c49c1556914b3ab8
-ms.sourcegitcommit: 75e6b1f2f564b32969be80e0594e8055a2c4f34c
+ms.openlocfilehash: 556b790add09ff23d2a3c885ddd6c0a49e534a02
+ms.sourcegitcommit: 39d26fb1a6f01b0a2da9c33530de5479fbac1084
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50425748"
+ms.lasthandoff: 03/17/2021
+ms.locfileid: "50837528"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de la versión de Office para Mac
 
@@ -53,6 +53,45 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
 
 
+
+
+
+## <a name="march-16-2021"></a>16 de marzo de 2021
+*Versión 16.47 (Compilación 21031401)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Mostrar varias hojas de cálculo al mismo tiempo:** no es necesario que se muestren las hojas de una en una, mostrar varias hojas ocultas al mismo tiempo. [Más información](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+
+- **Obtener datos de la organización desde Power BI mediante tipos de datos de Excel:** puede insertar datos de su organización mediante tipos de datos de Excel. Convierta una celda en su libro, obtenga información adicional y actualice los datos siempre que necesite.
+
+### <a name="powerpoint-mac"></a>PowerPoint en Mac
+
+- **Grabe sus presentaciones con Grabar presentación con diapositivas, que ha sido renovado y mejorado:** Grabar presentación con diapositivas ahora admite grabación del vídeo del presentador, grabación de entrada de lápiz y grabación del puntero láser.<br />Ver detalles en [entrada de blog](https://insider.office.com/es-ES/blog/record-slide-show-updates-powerpoint-mac)
+
+### <a name="word"></a>Word
+
+- **Dicte sus documentos con comandos de voz:** la nueva barra de herramientas de dictado, comandos de voz y autopuntuación hacen que crear contenido con la voz resulte fácil y rápido. [Obtener más información](https://support.office.com/article/3876e05f-3fcc-418f-b8ab-db7ce0d11d3c)
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+
+[//]: # (NO QUITAR LOS DETALLES DE SEGURIDAD INICIO DEL CONTENIDO INICIAL)
+
+
+### <a name="security-updates"></a>Actualizaciones de seguridad
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-27054](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2021-27054)
+-   [CVE-2021-27057](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2021-27057)
+
+[//]: # (NO QUITAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO FINAL)
 
 ## <a name="february-16-2021"></a>16 de febrero de 2021
 *Versión 16.46 (compilación 21021202)*
@@ -185,7 +224,7 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
 -   [CVE-2020-17124](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-17124)
 
-[//]: # (NO QUITAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO FINAL)
+[//]: # (NO ELIMINAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO FINAL)
 
 ## <a name="november-10-2020"></a>10 de noviembre de 2020
 *Versión 16.43 (Compilación 20110804)*
@@ -437,7 +476,7 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
 - **Encuentre lo que busca:** use el cuadro de búsqueda para buscar texto, comandos, ayuda y mucho más. [Más información](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
 
-- **Una manera más rápida de agregar celdas**: **habilite el modo Hacer clic para agregar**, luego escriba = y seleccione algunas celdas para crear rápidamente una fórmula que sume los valores de las celdas. Encuentre esta opción en **Menú** > **Preferencias** > **Editar**.  [Más información](https://support.office.com/es-ES/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/04/21/click-to-add-mode-feedback-in-action/)
+- **Una manera más rápida de agregar celdas**: **habilite el modo Hacer clic para agregar**, luego escriba = y seleccione algunas celdas para crear rápidamente una fórmula que sume los valores de las celdas. Encuentre esta opción en **Menú** > **Preferencias** > **Editar**.  [Más información](https://support.office.com/es-ES/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/04/21/click-to-add-mode-feedback-in-action/)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -445,14 +484,14 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
 - **Vínculo a la diapositiva:** pídale a un compañero que participe en la presentación de diapositivas y llévele directamente a la diapositiva con la que necesita ayuda. [Más información](https://support.office.com/article/4f5f3d5e-1674-4742-8cf1-9623050c19ef)
 
-- **Encuentre lo que busca:** use el cuadro de búsqueda para buscar texto, comandos, ayuda y mucho más. [Más información](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
+- **Encuentre lo que busca:** use el cuadro de búsqueda para buscar texto, comandos, ayuda y mucho más. [Más información](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
 
 ### <a name="word"></a>Word
 
 - **Escriba sin manos:** ¿tiene un micrófono? Haga clic en Dictar y vea cómo Word escribe mientras habla.  [Más información](https://support.office.com/article/3876e05f-3fcc-418f-b8ab-db7ce0d11d3c)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/01/24/dictate-your-documents-in-word-on-mac/)
 
 
-- **Encuentre lo que busca:** use el cuadro de búsqueda para buscar texto, comandos, ayuda y mucho más. [Más información](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
+- **Encuentre lo que busca:** use el cuadro de búsqueda para buscar texto, comandos, ayuda y mucho más. [Más información](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
