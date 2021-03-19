@@ -52,7 +52,7 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="excel"></a>Excel
 
-- Hemos corregido un problema por el que los hipervínculos creados con la función HIPERVINCULO no funcionaba si el archivo se guardaba como un documento PDF.
+- Hemos corregido un problema por el que los hipervínculos creados con la función HIPERVINCULO no funcionaban si el archivo se guardaba como un documento PDF.
 
 
 ### <a name="word"></a>Word
