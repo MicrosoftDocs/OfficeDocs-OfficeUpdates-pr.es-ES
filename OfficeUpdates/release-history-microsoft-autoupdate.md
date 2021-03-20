@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales informáticos un historial de versiones de Microsoft AutoUpdate (MAU).
-ms.openlocfilehash: 3ce9f8f366510103d47ae34dad4dffa060d5dccd
-ms.sourcegitcommit: ab151c4f3172c007249a556fa02854b0765d24b9
+ms.openlocfilehash: be0b124f22f53cb26742242ac48a62adf75d93f7
+ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50421375"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902205"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historial de versiones de Microsoft AutoUpdate (MAU)
  
@@ -29,6 +29,22 @@ En la siguiente tabla, se proporciona información del historial de versiones de
 > - Microsoft AutoUpdate ofrece actualizaciones para distintos productos de Mac de Microsoft. Por tanto, es posible que reciba una notificación para actualizar Microsoft AutoUpdate, incluso si no está ejecutando Office para Mac.
 
 Para ver las notas de la versión, consulte [Notas de la versión.](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="march-2021-release"></a>Versión de marzo de 2021.
+
+**Fecha de lanzamiento:** 17 de marzo de 2021
+
+*Microsoft AutoUpdate 4.33*
+
+**Correcciones de errores y mejoras:**
+- El botón "Comprobando.." de la GUI de MAU ahora está deshabilitado cuando MAU está buscando actualizaciones.
+- El mensaje "Una actualización ya está en curso" ahora tiene información adicional.
+- La interfaz de usuario de MAU muestra los tamaños de actualización correctos al descargar actualizaciones.
+- MAU ahora se puede instalar en dispositivos macOS con M1 sin Rosetta.
+
+[Descargar el paquete de Microsoft AutoUpdate 4.33](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.33.21031401_Updater.pkg)<br/>
+<br/>
+**Hash SHA-256:** 8B851FD35B8172AB3220592E68ABCD6C302A55336FD7E9F8B5511683B372E7E1
 
 ## <a name="february-2021-release"></a>Versión de febrero de 2021
 
@@ -178,8 +194,8 @@ E81CEADF900A0C7E7D593720D08146DBC1C55868D5B21C7E7A175AA36DFE0178
 **Correcciones de errores y mejoras:**
 - Detecta la finalización de la aplicación y quita automáticamente el cuadro de diálogo relacionado con "abrir la aplicación".
 - Revierte la característica introducida en la versión de abril en la que los usuarios con las actualizaciones automáticas desactivadas veían la interfaz de usuario de Microsoft AutoUpdate solo una vez por semana.
-- Soluciona un problema por el que el asistente de actualizaciones finalizaba antes del inicio de la instalación y después de la descarga de las actualizaciones.
-- Soluciona un problema por el que asistente de actualizaciones no finalizaba luego de una duración prolongada cuando había notificaciones de usuario pendientes.
+- Soluciona un problema por el que el asistente de actualizaciones se cerraba de forma inesperada antes del inicio de la instalación y después de la descarga de las actualizaciones.
+- Se ha corregido un problema en el que el Asistente para actualización no se cerraba tras una duración prolongada de notificaciones de usuario pendientes.
 - Soluciona un problema por el que la interfaz de usuario de MAU se reabría (o no se reabría) después de la instalación. La interfaz de usuario se debe abrir después de la instalación si la actualización se inicia desde la propia interfaz de MAU, o si el usuario inicia explícitamente una actualización (a través del buscador, terminal, etc.).
 
 **Hash SHA-256:**
