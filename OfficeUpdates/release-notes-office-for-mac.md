@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales de TI las notas de la versión de las versiones de Office para Mac para los suscriptores de Aplicaciones de Microsoft 365
-ms.openlocfilehash: 556b790add09ff23d2a3c885ddd6c0a49e534a02
-ms.sourcegitcommit: 39d26fb1a6f01b0a2da9c33530de5479fbac1084
+ms.openlocfilehash: d62ae78e877444b44b16b7107a1417ad2c68b286
+ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50837528"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902200"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de la versión de Office para Mac
 
@@ -68,7 +68,7 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
 - **Obtener datos de la organización desde Power BI mediante tipos de datos de Excel:** puede insertar datos de su organización mediante tipos de datos de Excel. Convierta una celda en su libro, obtenga información adicional y actualice los datos siempre que necesite.
 
-### <a name="powerpoint-mac"></a>PowerPoint en Mac
+### <a name="powerpoint"></a>PowerPoint
 
 - **Grabe sus presentaciones con Grabar presentación con diapositivas, que ha sido renovado y mejorado:** Grabar presentación con diapositivas ahora admite grabación del vídeo del presentador, grabación de entrada de lápiz y grabación del puntero láser.<br />Ver detalles en [entrada de blog](https://insider.office.com/es-ES/blog/record-slide-show-updates-powerpoint-mac)
 
@@ -224,7 +224,7 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
 -   [CVE-2020-17124](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-17124)
 
-[//]: # (NO ELIMINAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO FINAL)
 
 ## <a name="november-10-2020"></a>10 de noviembre de 2020
 *Versión 16.43 (Compilación 20110804)*
@@ -383,7 +383,7 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
 - **Agregue etiquetas de gráfico desde los valores de celda:** use los valores de celdas como etiquetas en los datos del gráfico. [Más información](https://support.office.com/article/884bf2f1-2e29-454e-8b42-f467c9f4eb2d)
 
-- **Cuente sus historias con GIF animados:** los GIF animados ahora son compatibles con el editor de Office: sus documentos ahora son más elegantes.
+- **Cuente sus historias con GIF animados:** los GIF animados ahora son compatibles con el editor de Office: sus documentos han pasado a ser más llamativos.
 
 ### <a name="outlook"></a>Outlook
 
@@ -476,7 +476,7 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
 - **Encuentre lo que busca:** use el cuadro de búsqueda para buscar texto, comandos, ayuda y mucho más. [Más información](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
 
-- **Una manera más rápida de agregar celdas**: **habilite el modo Hacer clic para agregar**, luego escriba = y seleccione algunas celdas para crear rápidamente una fórmula que sume los valores de las celdas. Encuentre esta opción en **Menú** > **Preferencias** > **Editar**.  [Más información](https://support.office.com/es-ES/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/04/21/click-to-add-mode-feedback-in-action/)
+- **Una manera más rápida de agregar celdas**: **habilite el modo Hacer clic para agregar**, luego escriba = y seleccione algunas celdas para crear rápidamente una fórmula que sume los valores de las celdas. Encuentre esta opción en **Menú** > **Preferencias** > **Editar**.  [Más información](https://support.office.com/es-ES/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/04/21/click-to-add-mode-feedback-in-action/)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -484,14 +484,14 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
 - **Vínculo a la diapositiva:** pídale a un compañero que participe en la presentación de diapositivas y llévele directamente a la diapositiva con la que necesita ayuda. [Más información](https://support.office.com/article/4f5f3d5e-1674-4742-8cf1-9623050c19ef)
 
-- **Encuentre lo que busca:** use el cuadro de búsqueda para buscar texto, comandos, ayuda y mucho más. [Más información](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
+- **Encuentre lo que busca:** use el cuadro de búsqueda para buscar texto, comandos, ayuda y mucho más. [Más información](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
 
 ### <a name="word"></a>Word
 
 - **Escriba sin manos:** ¿tiene un micrófono? Haga clic en Dictar y vea cómo Word escribe mientras habla.  [Más información](https://support.office.com/article/3876e05f-3fcc-418f-b8ab-db7ce0d11d3c)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/01/24/dictate-your-documents-in-word-on-mac/)
 
 
-- **Encuentre lo que busca:** use el cuadro de búsqueda para buscar texto, comandos, ayuda y mucho más. [Más información](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
+- **Encuentre lo que busca:** use el cuadro de búsqueda para buscar texto, comandos, ayuda y mucho más. [Más información](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
