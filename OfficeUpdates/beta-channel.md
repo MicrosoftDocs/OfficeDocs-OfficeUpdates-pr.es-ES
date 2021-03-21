@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los participantes del Modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos.
-ms.openlocfilehash: 2fccb4fde69a5755ca114baf6536ed0e8722f426
-ms.sourcegitcommit: 8491216d5901156e5e158f6eac33141882c53e8f
+ms.openlocfilehash: de8740891378ab34cb7944fff94aaf204d27e43c
+ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50756266"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902145"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de la versión para el canal beta
 
@@ -30,6 +30,36 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 [//]: # (NO ELIMINAR)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+## <a name="version-2104-march-19"></a>Versión 2104: 19 de marzo
+*Versión 2104 (Compilación 13913.20000)*
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="access"></a>Access
+
+- Este cambio corrige un problema por el que al ejecutar una consulta que pasara por SQL Server, se mostraba en algunos casos un mensaje de error que alertaba de un "estado de cursor no válido".
+
+
+### <a name="excel"></a>Excel
+
+- Hemos corregido un problema que bloqueaba la capacidad de pegar como fórmulas en una hoja protegida.
+
+
+### <a name="project"></a>Project
+
+- Se ha corregido un problema por el que, si el formato de fecha es W4/4, el selector de fecha puede mostrar un día y un año incorrectos.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Soluciona un problema con el soporte técnico de GDI+ LineJoinMiterClipped en Office.
+
+
+
+[//]: # (NO QUITAR EL CONTENIDO FINAL DE LOS DETALLES DE LOS ERRORES)
 
 ## <a name="version-2104-march-12"></a>Versión 2104: 12 de marzo
 *Versión 2104 (Compilación 13906.20000)*
@@ -1639,7 +1669,7 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 - Se ha corregido un problema en el que los vínculos a los documentos no se insertaban en el cuadro de comentarios a través de la lista desplegable Insertar > Vínculo.
 - Se ha corregido un problema por el que el recuento de hipervínculos en la colección de hipervínculos de VBA no realizaba correctamente la iteración después de agregar una imagen que contenía un hipervínculo.
 
-[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR LOS DETALLES DE ERROR DE FIN DE CONTENIDO)
 
 ## <a name="version-2008-july-24"></a>Versión 2008: 24 de julio
 *Versión 2008 (compilación 13117.20000)*
@@ -2188,7 +2218,7 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 - En la Vista web o en el lector inmersivo, al hacer clic en una sugerencia se desplazaba a la parte superior incluso aunque ya estuviera a la vista. Este error se ha corregido.
 - Se ha corregido un problema por el que al intentar guardar un archivo que contenía una macro con un nombre nuevo, este se guardaba con la extensión. docx y el nombre de archivo WRO0004.docx, independientemente de lo que el usuario escribiera, lo que hacía que el archivo no se pudiera volver a usar.
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
+[//]: # (NO ELIMINAR LOS DETALLES DEL CONTENIDO FINAL)
 
 
 ## <a name="version-2005-april-24"></a>Versión 2005: 24 de abril
@@ -2706,6 +2736,7 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|versión-2104-marzo-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13906.20000|version-2104-march-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|version-2103-marzo-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|versión-2103-enero-26|)
@@ -2715,5 +2746,4 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 [//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|versión-2102-enero-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13714.20000|versión-2102-enero-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|versión-2102-enero-15|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|versión-2102-enero-08|)
 [//]: # (NO MODIFICAR EL FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
