@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI un historial de actualizaciones para las versiones permanentes de Office 2016 y Office 2019 que usan Hacer clic y ejecutar.
-ms.openlocfilehash: 32c769a8c7c365dd1562fb89cc1d628968e0dbfb
-ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
+ms.openlocfilehash: 5c6326711323caf1e4eb170bd0d636fff5e2eb40
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902185"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169489"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Historial de actualizaciones para la versión de Hacer clic y ejecutar de Office 2016 y Office 2019
 
@@ -35,8 +35,8 @@ Las versiones nuevas incluyen todas las actualizaciones de versiones anteriores.
 
 
  > [!NOTE]
-> - A partir del 11 de agosto de 2020, las actualizaciones de seguridad (artículos CVE) para Office 2016 y 2019 se muestran en la página [actualización de seguridad](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates), en lugar de esta página. 
-> - Office 2016 y 2019 tienen soporte en la [Directiva fija de ciclo de vida](https://docs.microsoft.com/lifecycle/policies/fixed). Solo se admiten las versiones comerciales y con licencia de volumen más recientes que se indican a continuación.
+> - A partir del 11 de agosto de 2020, las actualizaciones de seguridad (artículos CVE) para Office 2016 y 2019 se muestran en la página [actualización de seguridad](./microsoft365-apps-security-updates.md), en lugar de esta página. 
+> - Office 2016 y 2019 tienen soporte en la [Directiva fija de ciclo de vida](/lifecycle/policies/fixed). Solo se admiten las versiones comerciales y con licencia de volumen más recientes que se indican a continuación.
 
 
 ## <a name="volume-licensed-versions-of-office-2019"></a>Versiones de licencia por volumen de Office de 2019
@@ -153,9 +153,3 @@ La siguiente información se aplica a las versiones comerciales de Hacer clic y 
 
 
 </details>
-
-
-
-
-
-
