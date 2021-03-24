@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de Canal mensual de Office 365 ProPlus en 2018.
-ms.openlocfilehash: bcf8417d7dfe8796f3e67e6cf1950320e5c9019a
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+ms.openlocfilehash: d4cca950f63a31f9f57583c62781893bf6e6fbf3
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48369898"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169789"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de la versión para las versiones de Canal mensual en 2018
 
@@ -106,7 +106,7 @@ En estas notas de la versión, se proporciona información sobre característica
 ## <a name="version-1810-october-29"></a>Versión 1810: 29 de octubre
 *Versión 1810 (compilación 11001.20074)* 
 
-### <a name="excel-feature-updates"></a>Excel: actualizaciones de características 
+### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características 
 
 - **Colaborar con comentarios:** mantenga la conversación activa directamente en la hoja de cálculo con el cuadro de respuesta integrado. [Más información](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)
 - **Cifras de cotizaciones a su alcance:** recupere los precios de las últimas acciones, cambios en los precios y mucho más con el nuevo tipo de datos Acciones. También hay un nuevo tipo de datos para Geografía. [Más información](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
@@ -130,13 +130,13 @@ En estas notas de la versión, se proporciona información sobre característica
 - **Mostrar lo que esconde una imagen:** coloque una imagen en un documento, elija el valor predeterminado y vea cómo cambia la transparencia. [Más información](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
 - **Vea cómo los documentos cobran vida:** inserte gráficos 3D animados para ver corazones que laten, planetas en órbita y dinosaurios a toda velocidad por la página. [Más información](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 
-### <a name="access-feature-updates"></a>Access: actualizaciones de características 
+### <a name="access-feature-updates"></a>Access: Actualizaciones de características 
 - **Los iconos de la cinta tienen un aspecto nuevo** No se preocupe, todo funciona de la misma forma. Además, tendrán un aspecto excelente en pantallas de todos los tamaños. [Más información](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="publisher-feature-updates"></a>Publisher: actualizaciones de características 
 - **Los iconos de la cinta tienen un aspecto nuevo** No se preocupe, todo funciona de la misma forma. Además, tendrán un aspecto excelente en pantallas de todos los tamaños. [Más información](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
-### <a name="project-feature-updates"></a>Project: actualizaciones de características 
+### <a name="project-feature-updates"></a>Project: Actualizaciones de características 
 - **Los iconos de la cinta tienen un aspecto nuevo** No se preocupe, todo funciona de la misma forma. Además, tendrán un aspecto excelente en pantallas de todos los tamaños. [Más información](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="visio-feature-updates"></a>Visio: actualizaciones de características 
@@ -189,7 +189,7 @@ En estas notas de la versión, se proporciona información sobre característica
 - **Los iconos de la cinta tienen un aspecto nuevo** No se preocupe, todo funciona de la misma forma. Además, tendrán un aspecto excelente en pantallas de todos los tamaños. [Más información](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="word-feature-updates"></a>Word: actualizaciones de características
-- **Llame su atención con \@menciones**Use @menciones en los comentarios para avisar a los compañeros de trabajo cuándo necesita sus entradas. [Más información](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **Llame su atención con \@menciones** Use @menciones en los comentarios para avisar a los compañeros de trabajo cuándo necesita sus entradas. [Más información](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **Los iconos de la cinta tienen un aspecto nuevo** No se preocupe, todo funciona de la misma forma. Además, tendrán un aspecto excelente en pantallas de todos los tamaños. [Más información](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 - **Conversor del Editor de ecuaciones** El conversor permite a los usuarios convertir las ecuaciones creadas con el Editor de ecuaciones de Microsoft en el formato ML de Office Math para habilitar la edición.
 - **Su documento: de estático a mágico** Transforme el documento en una página web interactiva y fácil de compartir con un aspecto fantástico en cualquier dispositivo. [Más información](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
@@ -225,7 +225,7 @@ En estas notas de la versión, se proporciona información sobre característica
  ### <a name="project-feature-updates"></a>Project: actualizaciones de características
  - **Ver más información en las tarjetas del Panel de tareas** Cuando no se pueda contar la historia solo con el título, personalice las tarjetas del Panel de tareas para mostrar los detalles más importantes. [Más información](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
 
-### <a name="excel-non-security-updates"></a>Excel: actualizaciones no relacionadas con la seguridad
+### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
 -  Se ha corregido un problema en Excel en el que la línea de puntos que marca el rango de celdas que un usuario ha seleccionado para copiar no desaparece y permanece en el Portapapeles, incluso después de una operación posterior del usuario, como pegar. 
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Actualizaciones no relacionadas con la seguridad
@@ -295,12 +295,12 @@ En estas notas de la versión, se proporciona información sobre característica
 ## <a name="version-1806-june-25"></a>Versión 1806: 25 de junio
 *Versión 1806 (compilación 10228.20080)*
 
-### <a name="excel-feature-updates"></a>Excel: actualizaciones de características
+### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
 - **Edición de la barra de fórmulas y las celdas mejorada:** ahora, puede usar CTRL + A para seleccionar el texto de una celda o de la barra de fórmulas. También se ha mejorado la compatibilidad con los emojis y otros caracteres complejos. [Más información](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **Compatibilidad con el formato SVG mejorada:** puede insertar imágenes SVG que tengan filtros aplicados. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-feature-updates"></a>Outlook: Actualizaciones de características
-- **Valor predeterminado de periodicidad: ** en el cuadro de diálogo Periodicidad de citas (en “Rango de periodicidad”), “Finalizar antes de” es la opción de configuración predeterminada (en lugar de “Sin fecha de finalización”) y es la primera opción de la lista; además, se establece una fecha de finalización predeterminada.
+- **Valor predeterminado de periodicidad:** en el cuadro de diálogo Periodicidad de citas (en “Rango de periodicidad”), “Finalizar antes de” es la opción de configuración predeterminada (en lugar de “Sin fecha de finalización”) y es la primera opción de la lista; además, se establece una fecha de finalización predeterminada.
 - **Mejoras del Comprobador de accesibilidad:** el Comprobador de accesibilidad ha actualizado la asistencia técnica para las normas internacionales y recomendaciones para que los mensajes sean más accesibles. [Más información](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 
 
@@ -364,7 +364,7 @@ En estas notas de la versión, se proporciona información sobre característica
 ### <a name="access-feature-updates"></a>Access: Actualizaciones de características
  - **Visualizar datos con nuevos gráficos:** elija entre 11 gráficos y agregue uno a los formularios e informes para visualizar mejor los datos y tomar decisiones fundamentadas. [Más información](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
 
-### <a name="excel-feature-updates"></a>Excel: actualizaciones de características
+### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
  - **Chat con coautores al editar:** colabore de forma más eficaz al chatear con los coautores sin salir de Excel. Tenga en cuenta que esta característica no está disponible en algunas regiones. [Más información](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
 
 ### <a name="outlook-feature-updates"></a>Outlook: actualizaciones de características
@@ -426,7 +426,7 @@ En estas notas de la versión, se proporciona información sobre característica
 -   **Escuchar sus correos electrónicos:** Outlook puede leer el correo electrónico en voz alta y resaltar texto a medida que se lee. [Más información](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
 -   **Nunca pierda un aviso:** establezca avisos para que aparezcan elementos emergentes en las ventanas mientras está trabajando. En caso contrario, Outlook parpadeará en la barra de tareas para llamar su atención. [Más información](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 -   **Marcar los elementos eliminados como leído:** ahora puede establecer como leídos los mensajes que elimine. Para hacerlo, vaya a Archivo \> Opciones \> Correo \> Otros.
--   **Opción de cifrar:** los usuarios de cifrado de mensajes de Office 365 pueden cifrar un mensaje y enviarlo a cualquier usuario dentro o fuera de su organización. La opción Cifrar aparece en Opciones \> Permisos al crear un mensaje. [Más información](https://aka.ms/omeoverview)
+-   **Opción de cifrar:** los usuarios de cifrado de mensajes de Office 365 pueden cifrar un mensaje y enviarlo a cualquier usuario dentro o fuera de su organización. La opción Cifrar aparece en Opciones \> Permisos al crear un mensaje. [Más información](/microsoft-365/compliance/ome)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Actualizaciones de características
 -   **Convertir la entrada de lápiz:** dibuje y tome notas con garabatos y conviértalos en texto leíble y formas nítidas para crear una presentación elegante. [Más información](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
@@ -459,8 +459,8 @@ En estas notas de la versión, se proporciona información sobre característica
 ### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones de seguridad
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950): Vulnerabilidad de divulgación de información de Microsoft Office
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026): Vulnerabilidad de la ejecución remota de código de Microsoft Office
--   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030): vulnerabilidad de la ejecución remota de código de Microsoft Office
--   **Bloqueo de la activación de controles de Flash, Silverlight y Shockwave en Office por motivos de seguridad:** por motivos de seguridad, las nuevas compilaciones de Microsoft Office para Office 365 en Windows bloquean la activación de controles de Silverlight, Flash y Shockwave. Más información[aquí](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) y [aquí](https://support.office.com/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1)
+-   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030): Vulnerabilidad de la ejecución remota de código de Microsoft Office
+-   **Bloqueo de la activación de controles de Flash, Silverlight y Shockwave en Office por motivos de seguridad:** por motivos de seguridad, las nuevas compilaciones de Microsoft Office para Office 365 en Windows bloquean la activación de controles de Silverlight, Flash y Shockwave. Más información [aquí](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) y [aquí](https://support.office.com/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1)
 
 ## <a name="version-1803-march-27"></a>Versión 1803: 27 de marzo
 *Versión 1803 (compilación 9126.2116)*
@@ -601,7 +601,7 @@ En estas notas de la versión, se proporciona información sobre característica
 -   Se ha agregado el botón "Transferir llamada" a la interfaz de usuario de notificaciones del sistema para llamadas RTC entrantes.
 -   Se notifica a los usuarios que las llamadas y el chat se envían a Teams cuando ChatDefaultClient y CallDefaultClient se establecen en Teams.
 -   Se muestra la presencia del usuario como “Sin conexión” cuando este no se encuentra en una reunión, se deshabilitó de Skype Empresarial y la experiencia de unirse a una reunión se establece en Cliente limitado nativo.
--   Se deshabilitan todas las opciones, excepto Abrir y Salir, cuando Skype Empresarial se minimiza en el área de notificación. 
+-   Se deshabilitan todas las opciones, excepto Abrir y Salir, cuando Skype Empresarial se minimiza en el área de notificación. 
 -   Se eliminan las nuevas llamadas y conversaciones cuando se empareja con teléfonos Aries y se habilita RedirectClient.
 -   Se soluciona un problema por el que, al buscar mensajes en pChat por fecha, se produce un error cuando el formato de fecha es distinto del estadounidense (mm/dd/aa).
 -   Se soluciona un problema por el que, al establecer la directiva EnableExternalP2PFileTransfer en falso, los usuarios aún pueden adjuntar archivos a las reuniones.

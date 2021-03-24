@@ -9,24 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista completa de las versiones de las Aplicaciones de Microsoft 365, organizada por fecha, con vínculos a las notas de la versión.
-ms.openlocfilehash: d993a73632974765870844af68ecb0d0591e9f36
-ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
+ms.openlocfilehash: c1e99728c8928e7f014f46fc5598102f8f92f72d
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902155"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170209"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Historial de actualizaciones de Aplicaciones de Microsoft 365 (ordenado por fecha)
 
 Estos números de versión y compilación se aplican a Aplicaciones de Microsoft 365 para empresas, Aplicaciones de Microsoft 365 para negocios y a las versiones de suscripción de las aplicaciones de escritorio de Project y Visio.
 
 > [!IMPORTANT]
-> - Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441) para obtener más información.
-> - A partir de la versión 2004, el nombre de Office 365 ProPlus cambiará a Aplicaciones de Microsoft 365 para empresas. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2123420) para obtener más información. Por lo general, en nuestra documentación solo haremos referencia al producto como Aplicaciones de Microsoft 365.
+> - Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](/DeployOffice/update-channels-changes) para obtener más información.
+> - A partir de la versión 2004, el nombre de Office 365 ProPlus cambiará a Aplicaciones de Microsoft 365 para empresas. [Lea este artículo](/deployoffice/name-change) para obtener más información. Por lo general, en nuestra documentación solo haremos referencia al producto como Aplicaciones de Microsoft 365.
 
 > [!NOTE]
 > - La tabla está ordenada por fecha de lanzamiento, con la fecha del lanzamiento más reciente en primer lugar.
-> - Para obtener más información sobre los canales de actualización, vea [Información general sobre los canales de actualización para Aplicaciones de Microsoft 365](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus).
+> - Para obtener más información sobre los canales de actualización, vea [Información general sobre los canales de actualización para Aplicaciones de Microsoft 365](/DeployOffice/overview-of-update-channels-for-office-365-proplus).
 
 En la tabla siguiente se muestra la versión compatible y el número de compilación más actual para cada canal de actualización. La fecha de lanzamiento indica cuándo se lanzó la versión más actual.
 
@@ -45,7 +45,7 @@ En la tabla siguiente se muestra la versión compatible y el número de compilac
 
 [//]: # (EOSTABLEEND)
 
-Para obtener más información sobre los tamaños de descarga aproximados de las actualizaciones desde versiones anteriores de Aplicaciones de Microsoft 365 a la versión más reciente, vea [Tamaños de descarga de actualizaciones de Aplicaciones de Microsoft 365](download-sizes-office365-proplus-updates.md).
+Para obtener más información sobre los tamaños de descarga aproximados de las actualizaciones desde versiones anteriores de Aplicaciones de Microsoft 365 a la versión más reciente, vea [Tamaños de descarga de actualizaciones de Aplicaciones de Microsoft 365](./download-sizes-microsoft365-apps-updates.md).
 
 La siguiente tabla proporciona una lista de los números de versión y compilación para cada actualización de Aplicaciones de Microsoft 365 publicada en los siguientes canales de actualización: actual, empresarial mensual, empresarial semestral (vista previa) y empresarial semestral. Cada entrada de la tabla se vincula directamente con las notas de versión de dicha versión. Estas notas de versión proporcionan información sobre las características, las actualizaciones de seguridad y las actualizaciones no relacionadas con la seguridad que se incluyen en la actualización de Aplicaciones de Microsoft 365.
 
@@ -139,10 +139,10 @@ La siguiente tabla proporciona una lista de los números de versión y compilaci
 |2019|25 de marzo |[Versión 1902 (compilación 11328.20222)](monthly-channel-archived.md#version-1902-march-25)| | | |
 |2019|12 de marzo |[Versión 1902 (compilación 11328.20158)](monthly-channel-archived.md#version-1902-march-12)| |[Versión 1902 (compilación 11328.20158)](semi-annual-enterprise-channel-preview-archived.md#version-1902-march-12) |[Versión 1808 (compilación 10730.20304)](semi-annual-enterprise-channel-archived.md#version-1808-march-12)  <br/> | |
 |2019|4 de marzo  |[Versión 1902 (compilación 11328.20146)](monthly-channel-archived.md#version-1902-march-4)| | | |
-|2019|12 de febrero |[Versión 1901 (compilación 11231.20174)](monthly-channel-archived.md#version-1901-february-12)| |[Versión 1808 (compilación 10730.20280)](semi-annual-enterprise-channel-preview-archived.md#version-1808-february-12) |[Versión 1808 (compilación 10730.20280)](semi-annual-enterprise-channel-archived.md#version-1808-february-12)  <br/>  [Versión 1803 (compilación 9126.2356)](semi-annual-enterprise-channel-archived.md#version-1803-february-12)  <br/> [Versión 1708 (compilación 8431.2372)](office365-proplus-security-updates.md#february-12-2019) |
+|2019|12 de febrero |[Versión 1901 (compilación 11231.20174)](monthly-channel-archived.md#version-1901-february-12)| |[Versión 1808 (compilación 10730.20280)](semi-annual-enterprise-channel-preview-archived.md#version-1808-february-12) |[Versión 1808 (compilación 10730.20280)](semi-annual-enterprise-channel-archived.md#version-1808-february-12)  <br/>  [Versión 1803 (compilación 9126.2356)](semi-annual-enterprise-channel-archived.md#version-1803-february-12)  <br/> [Versión 1708 (compilación 8431.2372)](./microsoft365-apps-security-updates.md#february-12-2019) |
 |2019|31 de enero   |[Versión 1901 (compilación 11231.20130)](monthly-channel-archived.md#version-1901-january-31)| | | |
 |2019|14 de enero   |[Versión 1812 (compilación 11126.20266)](monthly-channel-archived.md#version-1812-january-14)| | | |
-|2019|8 de enero |[Versión 1812 (compilación 11126.20196)](monthly-channel-archived.md#version-1812-january-8)| |[Versión 1808 (compilación 10730.20264)](semi-annual-enterprise-channel-preview-archived.md#version-1808-january-8) |[Versión 1808 (compilación 10730.20264)](semi-annual-enterprise-channel-archived.md#version-1808-january-8)  <br/>  [Versión 1803 (compilación 9126.2351)](semi-annual-enterprise-channel-archived.md#version-1803-january-8)  <br/> [Versión 1708 (compilación 8431.2366)](office365-proplus-security-updates.md#january-8-2019) |
+|2019|8 de enero |[Versión 1812 (compilación 11126.20196)](monthly-channel-archived.md#version-1812-january-8)| |[Versión 1808 (compilación 10730.20264)](semi-annual-enterprise-channel-preview-archived.md#version-1808-january-8) |[Versión 1808 (compilación 10730.20264)](semi-annual-enterprise-channel-archived.md#version-1808-january-8)  <br/>  [Versión 1803 (compilación 9126.2351)](semi-annual-enterprise-channel-archived.md#version-1803-january-8)  <br/> [Versión 1708 (compilación 8431.2366)](./microsoft365-apps-security-updates.md#january-8-2019) |
 |2019|3 de enero   |[Versión 1812 (compilación 11126.20188)](monthly-channel-archived.md#version-1812-january-3)| | | |
 |2018|11 de diciembre |[Versión 1811 (compilación 11029.20108)](monthly-channel-2018.md#version-1811-december-11)| |[Versión 1808 (compilación 10730.20262)](semi-annual-channel-targeted-2018.md#version-1808-december-11) |[Versión 1803 (compilación 9126.2336)](semi-annual-channel-2018.md#version-1803-december-11)  <br/>  [Versión 1708 (compilación 8431.2351)](semi-annual-channel-2018.md#version-1708-december-11)   |
 |2018|27 de noviembre   |[Versión 1811 (compilación 11029.20079)](monthly-channel-2018.md#version-1811-november-27)| | | |
@@ -225,9 +225,9 @@ La siguiente tabla proporciona una lista de los números de versión y compilaci
 
 ## <a name="related-topics"></a>Temas relacionados
 
-- [Información general sobre los canales de actualización de Aplicaciones de Microsoft 365](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
-- [Información de publicación de actualizaciones para Aplicaciones de Microsoft 365](release-notes-office365-proplus.md)
-- [Tamaños de descarga de las actualizaciones de Aplicaciones de Microsoft 365](download-sizes-office365-proplus-updates.md)
+- [Información general sobre los canales de actualización de Aplicaciones de Microsoft 365](/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Información de publicación de actualizaciones para Aplicaciones de Microsoft 365](./release-notes-microsoft365-apps.md)
+- [Tamaños de descarga de las actualizaciones de Aplicaciones de Microsoft 365](./download-sizes-microsoft365-apps-updates.md)
 
 > [!NOTE]
 > Si necesita ayuda con algún problema de uso de Office, le recomendamos que publique la pregunta en el [foro de preguntas de Microsoft](https://answers.microsoft.com/) o [Tech Community](https://techcommunity.microsoft.com/), o bien puede ponerse en contacto con el [servicio de soporte técnico](https://support.microsoft.com/contactus).

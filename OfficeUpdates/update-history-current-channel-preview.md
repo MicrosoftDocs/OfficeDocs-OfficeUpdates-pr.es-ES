@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los participantes del programa Insider el historial de actualizaciones de los lanzamientos del canal mensual dirigido de Office para versiones de escritorio de Windows
-ms.openlocfilehash: 139b25287695c0147c36e5766f0a2127fffb74eb
-ms.sourcegitcommit: 19494c5169cf2027145ba9ae930bfb5f3bc5375b
+ms.openlocfilehash: e897f5cbe2f4533b4a357ece4a4c412f5f63ba01
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51030780"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170239"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Historial de actualización del canal actual de Office (versión preliminar) para Windows
 
@@ -24,12 +24,12 @@ Haga clic [aquí](https://insider.office.com/) para obtener más información so
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Compilaciones y versiones del canal actual de Office (versión preliminar)
 
 Si está inscrito en el nivel Canal actual (versión preliminar), que anteriormente era llamado Modo aplazado de Insider, obtendrá una nueva actualización de características de Office una vez al mes aproximadamente, además de las compilaciones subsiguientes que contengan correcciones importantes o actualizaciones de seguridad. En la siguiente lista se muestran las versiones y las compilaciones recientes del Canal actual (versión preliminar), con **las compilaciones más recientes en primer lugar**. Las compilaciones nuevas incluyen todas las actualizaciones de las compilaciones anteriores.
-Para buscar notas de la versión, [vea](https://docs.microsoft.com/OfficeUpdates/current-channel-preview). También, puede ver [Novedades para participantes de Office Insider](https://insider.office.com/es-ES/releasenotes/windows/slow).
+Para buscar notas de la versión, [vea](./current-channel-preview.md). También, puede ver [Novedades para participantes de Office Insider](https://insider.office.com/en-us/releasenotes/windows/slow).
 
 
 > [!IMPORTANT]
-> - Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441) para obtener más información.
-> - A partir de la versión 2004, el nombre de Office 365 ProPlus cambiará a Aplicaciones de Microsoft 365 para empresas. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2123420) para obtener más información. Por lo general, en nuestra documentación solo haremos referencia al producto como Aplicaciones de Microsoft 365.
+> - Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](/DeployOffice/update-channels-changes) para obtener más información.
+> - A partir de la versión 2004, el nombre de Office 365 ProPlus cambiará a Aplicaciones de Microsoft 365 para empresas. [Lea este artículo](/deployoffice/name-change) para obtener más información. Por lo general, en nuestra documentación solo haremos referencia al producto como Aplicaciones de Microsoft 365.
 
 > [!NOTE]
 > - A continuación, se muestra el historial de actualizaciones con todas las compilaciones publicadas

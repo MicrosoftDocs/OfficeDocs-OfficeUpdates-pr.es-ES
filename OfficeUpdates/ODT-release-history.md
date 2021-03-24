@@ -9,25 +9,32 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Historial de versiones de la Herramienta de implementación de Office (ODT) para los profesionales de TI
-ms.openlocfilehash: 9425577c975122e0ebeffcefed1734a9e024fa8c
-ms.sourcegitcommit: ab151c4f3172c007249a556fa02854b0765d24b9
+ms.openlocfilehash: 046054dfb781c3cd19ca6505e5ae5f2f362f6a86
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50421415"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169969"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Historial de versiones de la Herramienta de implementación de Office
 
 La Herramienta de implementación de Office (ODT) es una herramienta de línea de comandos que puede usar para descargar e implementar versiones de hacer clic y ejecutar de Office, como aplicaciones de Microsoft 365, en sus equipos cliente. 
 
 
-ODT le ofrece más control de la instalación de Office. Le permite definir los productos e idiomas que se instalarán, cómo se actualizarán esos productos y si quiere o no mostrar la experiencia de instalación a los usuarios. Para obtener información sobre cómo usar la ODT, vea [Información general sobre la herramienta de implementación de Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool).
+ODT le ofrece más control de la instalación de Office. Le permite definir los productos e idiomas que se instalarán, cómo se actualizarán esos productos y si quiere o no mostrar la experiencia de instalación a los usuarios. Para obtener información sobre cómo usar la ODT, vea [Información general sobre la herramienta de implementación de Office](/deployoffice/overview-of-the-office-2016-deployment-tool).
 
  **Sistema operativo compatible**: Windows 10, Windows 8.1, Windows Server 2019, Windows Server 2016 
  
  **Instrucciones de instalación**: Descargue y ejecute el archivo ejecutable autoextraíble de la Herramienta de implementación de Office (setup.exe) y un archivo de configuración de ejemplo (configuration.xml). 
 
 [Descargar la Herramienta de implementación de Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+
+## <a name="march-23-2021"></a>23 de marzo de 2021
+Versión 16.0.13801.20360 (versión setup.exe 16.0.13801.20340)
+- Cambios para dar soporte a próximas versiones de productos de Office
+- Correcciones de confiabilidad para plataformas ARM
+
 
 ## <a name="february-25-2021"></a>25 de febrero de 2021
 Versión 16.0.13628.20476 (versión setup.exe 16.0.13628.20462)
@@ -104,7 +111,7 @@ Versión 16.0.12624.20320 (setup.exe versión 16.0.12624.20290)
 Versión 16.0.12325.20288
 - Corrige un problema que causaba que la interfaz de usuario de instalación de Office aparezca en un idioma incorrecto al instalar varios idiomas.
 - Corrige un problema que causaba que la instalación de Office falle inesperadamente cuando se instalaban determinados paquetes de herramientas de corrección
-- Agrega soporte para controlar, opcionalmente, la implementación inicial de la [ característica Búsqueda de Microsoft en Bing](https://go.microsoft.com/fwlink/p/?linkid=2109345)
+- Agrega soporte para controlar, opcionalmente, la implementación inicial de la [ característica Búsqueda de Microsoft en Bing](/deployoffice/microsoft-search-bing)
 
 
 ## <a name="october-31-2019"></a>31 de octubre de 2019

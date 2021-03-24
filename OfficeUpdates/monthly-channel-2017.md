@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI notas de la versión de las versiones mensuales del canal para Office 365 ProPlus en 2017
-ms.openlocfilehash: a41d4c959b108995e0a4d1d8601cf1635b2c594d
-ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
+ms.openlocfilehash: c8e653782d812013ce6eb9791977d6f52c908c1f
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735214"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169819"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>Notas de la versión de las versiones mensuales del canal en 2017
 
@@ -323,7 +323,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   **Bloquear extensiones peligrosas:** de forma predeterminada, se bloquea la activación de las extensiones consideradas de riesgo elevado y que se insertan como objetos de paquete OLE. Por ejemplo, .exe, .vbs y .js. [Más información](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: Actualizaciones no relacionadas con la seguridad
--   Agregue un cuadro de diálogo que explique por qué un usuario no puede unirse a una reunión cuando se bloquean determinados puertos o no se permiten direcciones IP.
+-   Se agrega un cuadro de diálogo en el que se explica por qué un usuario no puede unirse a una reunión cuando determinados puertos están bloqueados o las direcciones IP no están permitidos.
 -   Se ha solucionado un problema por el que los mensajes no leídos en salones de chat persistentes se marcaban como leídos cuando se hace clic en las pestañas de conversación de mensajería instantánea.
 -   Se ha solucionado un problema en la que las notificaciones de mensajería instantánea entrantes experimentaban un retraso de varios segundos.
 -   Se ha solucionado un problema en el que un contacto de AD se mostraba como un número de teléfono en lugar del nombre del contacto cuando está deshabilitada la sincronización con Exchange.
@@ -601,22 +601,22 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   **Uso compartido de consultas**: Exporte cualquier definición de consulta en un archivo de conexión de base de datos de Office (ODC) y, a continuación, compártalo en libros o con otros usuarios.
 -   **Carga de datos** Cargue datos desde una consulta directamente en tablas dinámicas o gráficos dinámicos sin tener que guardar los datos en el modelo de datos.
 -   **Mejora de Obtener y transformar:** En el Editor de consultas, cree una columna nueva proporcionando valores de ejemplo. A medida que escribe, Excel detecta las transformaciones necesarias y muestra una vista previa de la columna nueva.
--   **Compatibilidad con Windows Information Protection (WIP):**   La aplicación Excel ahora puede diferenciar entre los datos personales y los datos corporativos, y determinar correctamente cuáles se deben proteger basándose en las directivas configuradas.  [Más información](https://aka.ms/wiptechnet)
+-   **Compatibilidad con Windows Information Protection (WIP):**   La aplicación Excel ahora puede diferenciar entre los datos personales y los datos corporativos, y determinar correctamente cuáles se deben proteger basándose en las directivas configuradas.  [Más información](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
 -   Se corrige un problema que provocaba que Combinar y centrar no funcionara en hojas de cálculo agrupadas.
 
 ### <a name="onenote-feature-updates"></a>OneNote: Actualizaciones de características
--   **Compatibilidad con Windows Information Protection (WIP):** La aplicación OneNote ahora puede diferenciar entre los datos personales y los datos corporativos, y determinar correctamente cuáles se deben proteger basándose en las directivas configuradas. [Más información](https://aka.ms/wiptechnet)
+-   **Compatibilidad con Windows Information Protection (WIP):** La aplicación OneNote ahora puede diferenciar entre los datos personales y los datos corporativos, y determinar correctamente cuáles se deben proteger basándose en las directivas configuradas. [Más información](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ### <a name="outlook-feature-updates"></a>Outlook: Actualizaciones de características
--   **Compatibilidad con Windows Information Protection (WIP):** La aplicación Outlook ahora puede diferenciar entre los datos personales y los datos corporativos, y determinar correctamente cuáles se deben proteger basándose en las directivas configuradas. [Más información](https://aka.ms/wiptechnet)
+-   **Compatibilidad con Windows Information Protection (WIP):** La aplicación Outlook ahora puede diferenciar entre los datos personales y los datos corporativos, y determinar correctamente cuáles se deben proteger basándose en las directivas configuradas. [Más información](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 -   **Cuadro de diálogo de adjuntar vínculos:** Al adjuntar un vínculo mediante Adjuntar archivo en la cinta de opciones, puede seleccionar si desea agregarlo como un vínculo o como un archivo adjunto. Si no quiere ver este cuadro de diálogo cada vez, vaya a Archivo \> Opciones \> General y especifique cómo desea que los vínculos se asocien en “Opciones de datos adjuntos”.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Actualizaciones de características
 -   **Subtítulos para los vídeos:** Agregue subtítulos a los vídeos para que sean más accesibles. [Más información](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
 -   **Mejora del servicio Diseñador:** Ahora, Diseñador recomienda ideas de diseño para los gráficos que se agregan a las diapositivas.
--   **Compatibilidad con Windows Information Protection (WIP):**   La aplicación PowerPoint ahora puede diferenciar entre los datos personales y los datos corporativos, y determinar correctamente cuáles se deben proteger basándose en las directivas configuradas.  [Más información](https://aka.ms/wiptechnet)
+-   **Compatibilidad con Windows Information Protection (WIP):**   La aplicación PowerPoint ahora puede diferenciar entre los datos personales y los datos corporativos, y determinar correctamente cuáles se deben proteger basándose en las directivas configuradas.  [Más información](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ### <a name="project-non-security-updates"></a>Project: Actualizaciones no relacionadas con la seguridad
 -   Se corrige el cuadro de diálogo Crear sitio de proyecto para que muestre la ubicación correcta del sitio ahora que cada plantilla de proyecto empresarial (EPT) tendrá su propia URL para los sitios de proyecto en Project Online.
@@ -631,7 +631,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="skype-for-business-feature-updates"></a>Skype Empresarial: Actualizaciones de características
 -   **Inserción de vínculos** Agregue un vínculo a la mensajería instantánea y a los chats de grupo y proporcione un texto descriptivo para el vínculo en lugar de la dirección URL completa.
 -   **Screen sharing notification:** A notification displays in the conversation window when you’re sharing a screen in an IM conversation or when screen sharing continues after you leave a meeting. The notification reminds you that you are still sharing your screen and makes it easy to stop sharing by using the “Stop Sharing” button.
--   **Compatibilidad con Windows Information Protection (WIP):** Skype Empresarial ahora se admite como aplicación de solo trabajo protegida con WIP.  Si se agrega Skype a la lista de aplicaciones permitidas, Windows reconocerá que la aplicación no procesa datos personales y protegerá los datos en nombre de Skype Empresarial.  [Más información](https://aka.ms/wiptechnet)
+-   **Compatibilidad con Windows Information Protection (WIP):** Skype Empresarial ahora se admite como aplicación de solo trabajo protegida con WIP.  Si se agrega Skype a la lista de aplicaciones permitidas, Windows reconocerá que la aplicación no procesa datos personales y protegerá los datos en nombre de Skype Empresarial.  [Más información](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: Actualizaciones no relacionadas con la seguridad
 -   Change message for attempted calls to users with audio disabled by policy from "Cannot complete the call" to "Cannot call because an IT administrator has restricted audio. Try using instant messaging or email instead and ask to check with their IT administrator."
@@ -646,7 +646,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="word-feature-updates"></a>Word: Actualizaciones de características
 -   **Ayuda de escritura mejorada con el panel Editor:** Use el panel Editor para recomendaciones de estilo avanzadas de escritura, gramática y ortografía. Se crea para ser accesible con compatibilidad mejorada a las tecnologías de asistencia.
 -   **Creación de texto alternativo:** Un servicio basado en la nube genera automáticamente texto alternativo (alt text) para las imágenes de un documento.
--   **Compatibilidad con Windows Information Protection (WIP):**   La aplicación Word ahora puede diferenciar entre los datos personales y los datos corporativos, y determinar correctamente cuáles se deben proteger basándose en las directivas configuradas.  [Más información](https://aka.ms/wiptechnet)
+-   **Compatibilidad con Windows Information Protection (WIP):**   La aplicación Word ahora puede diferenciar entre los datos personales y los datos corporativos, y determinar correctamente cuáles se deben proteger basándose en las directivas configuradas.  [Más información](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ## <a name="version-1704-june-1"></a>Versión 1704: 1 de junio
 *Versión 1704 (compilación 8067.2157)*
@@ -821,13 +821,13 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 *Versión 1702 (compilación 7870.2024)*
 
 ### <a name="excel-security-updates"></a>Excel: Actualizaciones de seguridad
--   Boletín de seguridad Microsoft [MS17-014](https://technet.microsoft.com/library/security/ms17-014): Actualización de seguridad para Microsoft Office (3217868)
+-   Boletín de seguridad Microsoft [MS17-014](/security-updates/SecurityBulletins/2017/ms17-014): Actualización de seguridad para Microsoft Office (3217868)
 
 ### <a name="skype-for-business-security-updates"></a>Skype Empresarial: Actualizaciones de seguridad
--   Boletín de seguridad Microsoft [MS17-013](https://technet.microsoft.com/library/security/ms17-013): Actualización de seguridad para el componente de gráficos de Microsoft (4013075)
+-   Boletín de seguridad Microsoft [MS17-013](/security-updates/SecurityBulletins/2017/ms17-013): Actualización de seguridad para el componente de gráficos de Microsoft (4013075)
 
 ### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
--   Boletín de seguridad Microsoft [MS17-014](https://technet.microsoft.com/library/security/ms17-014): Actualización de seguridad para Microsoft Office (3217868)
+-   Boletín de seguridad Microsoft [MS17-014](/security-updates/SecurityBulletins/2017/ms17-014): Actualización de seguridad para Microsoft Office (3217868)
 
 
 
@@ -1007,7 +1007,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   Se soluciona un problema en el que OneNote se bloquea al imprimir una imagen más grande que la página.
 
 ### <a name="outlook-feature-updates"></a>Outlook: Actualizaciones de características
--   **Panel de tareas anclable:** Deje el panel de tareas de complementos abierto mientras cambia entre los diferentes mensajes de un buzón. [Más información](https://blogs.msdn.microsoft.com/exchangedev/2017/01/26/pinnable-taskpane-in-outlook-2016/)
+-   **Panel de tareas anclable:** Deje el panel de tareas de complementos abierto mientras cambia entre los diferentes mensajes de un buzón. [Más información](/archive/blogs/exchangedev/pinnable-taskpane-in-outlook-2016)
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que, cuando se hace clic con el botón secundario en un archivo adjunto en la lista de archivos adjuntos de una conversación, todos los elementos de menú contextual están visibles, en lugar de solo los elementos de menú correspondientes.
@@ -1044,7 +1044,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   Fix an issue where choosing a link such as \\\\servername or file:// in an IM message results in an error message instead of opening the location.
 -   Se soluciona un problema en el que, en un entorno de Infraestructura de escritorio virtual (VDI) que usa enrutamiento basado en ubicación, el usuario no puede realizar o recibir llamadas RTC porque el servidor cree que la ubicación del usuario no es válida para las llamadas RTC.
 -   Cambie la línea de asunto del correo electrónico enviado para un mensaje perdido, cuando el estado del usuario esté establecido en No molestar o Presentar, de "Conversación perdida con " a " le envió un mensaje en \<name\> \<Name\> Skype Empresarial".
--   Para empezar, capture la marca de tiempo de la primera vez que inicie sesión en el dispositivo como parte de los [datos del censo](https://docs.microsoft.com/skypeforbusiness/legal-and-regulatory/data-collection-practices) para que sea más fácil identificar las tendencias de confiabilidad de inicio de sesión.
+-   Para empezar, capture la marca de tiempo de la primera vez que inicie sesión en el dispositivo como parte de los [datos del censo](/skypeforbusiness/legal-and-regulatory/data-collection-practices) para que sea más fácil identificar las tendencias de confiabilidad de inicio de sesión.
 
 ### <a name="visio-feature-updates"></a>Visio: Actualizaciones de características
 -   **Mejoras en la accesibilidad:** Compatibilidad mejorada para usar el teclado, Narrador y otra tecnología de asistencia para trabajar con formas, editar con otros usuarios y más.
@@ -1065,7 +1065,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ## <a name="version-1611-january-4"></a>Versión 1611: 4 de enero
 *Versión 1611 (compilación 7571.2109)*
 
-Nota: Las actualizaciones de seguridad que se tratan en el Boletín de seguridad de Microsoft [MS17-002](https://technet.microsoft.com/library/security/ms17-002) no se aplican a la versión de Word en esta versión de canal.
+Nota: Las actualizaciones de seguridad que se tratan en el Boletín de seguridad de Microsoft [MS17-002](/security-updates/SecurityBulletins/2017/ms17-002) no se aplican a la versión de Word en esta versión de canal.
 
 ### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
 -   Se ha solucionado un problema que impedía que los valores de celda con texto y comillas dobles se exportasen correctamente al guardar como archivo csv. o csv. UTF-8.

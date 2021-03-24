@@ -9,20 +9,20 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a participantes del programa Insider el historial de actualizaciones de los lanzamientos del canal mensual del modo anticipado de Insider para versiones de escritorio de Windows
-ms.openlocfilehash: c29090ba68f60cbe6d04637523a66e908a0e2b21
-ms.sourcegitcommit: 39d26fb1a6f01b0a2da9c33530de5479fbac1084
+ms.openlocfilehash: e35fc3607b6f2c6fa3888207bb53790882e26a7a
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50837508"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169999"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Historial de actualizaciones del Canal Office beta
 
 Hola, participantes de Insider. Si os estáis preguntando si tenéis instalada la actualización más reciente o buscáis una lista de las compilaciones recientes de Insider, estáis en el lugar adecuado. Haced clic [aquí](https://insider.office.com/) para obtener más información sobre el programa Insider.
 
 > [!IMPORTANT]
-> - Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441) para obtener más información.
-> - A partir de la versión 2004, el nombre de Office 365 ProPlus cambiará a Aplicaciones de Microsoft 365 para empresas. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2123420) para obtener más información. Por lo general, en nuestra documentación solo haremos referencia al producto como Aplicaciones de Microsoft 365.
+> - Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](/DeployOffice/update-channels-changes) para obtener más información.
+> - A partir de la versión 2004, el nombre de Office 365 ProPlus cambiará a Aplicaciones de Microsoft 365 para empresas. [Lea este artículo](/deployoffice/name-change) para obtener más información. Por lo general, en nuestra documentación solo haremos referencia al producto como Aplicaciones de Microsoft 365.
 
 > [!NOTE]
 >
@@ -33,10 +33,16 @@ Hola, participantes de Insider. Si os estáis preguntando si tenéis instalada l
 
 Si se ha inscrito en el nivel de Insider, obtendrá actualizaciones frecuentes con nuevas características y mejoras. En la lista siguiente, se muestra un historial de versiones y compilaciones recientes del Canal beta, con **las compilaciones más nuevas en primer lugar**. Las compilaciones nuevas incluyen todas las actualizaciones de las compilaciones anteriores.
 
-Para obtener las notas de la versión, vea [notas de la versión de Insider de Office para escritorio de Windows](https://docs.microsoft.com/OfficeUpdates/beta-channel).
+Para obtener las notas de la versión, vea [notas de la versión de Insider de Office para escritorio de Windows](./beta-channel.md).
 
 
 [//]: # (NO ELIMINAR)
+
+**23 de marzo de 2021**<br/>
+Versión 2104 (compilación 13919.20002)<br/>
+
+**23 de marzo de 2021**<br/>
+Versión 2104 (compilación 13919.20000)<br/>
 
 **16 de marzo de 2021**<br/>
 Versión 2104 (Compilación 13913.20000)<br/>

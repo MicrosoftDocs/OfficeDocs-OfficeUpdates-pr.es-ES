@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de empresa para Aplicaciones de Microsoft 365 en 2020
-ms.openlocfilehash: 729d6b9bd7d549522386c8f2b11c4d3b6761d117
-ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
+ms.openlocfilehash: 34bbcb4700033ba2668b9766d053362424dcf356
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735195"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169729"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Notas de la versión para las versiones de canal de empresa mensual en 2020
 
 Estas notas de la versión proporcionan información sobre las nuevas características y las actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones del Canal de empresa mensual en 2020 para Aplicaciones de Microsoft 365 para empresas, Aplicaciones de Microsoft 365 para negocios y las versiones de suscripción de las aplicaciones de escritorio de Project y Visio.
 
 > [!IMPORTANT]
-> Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441) para obtener más información.
+> Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](/DeployOffice/update-channels-changes) para obtener más información.
 
 [//]: # (NO ELIMINAR)
 
@@ -30,7 +30,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ## <a name="version-2101-march-09"></a>Versión 2101: 9 de enero
 *Versión 2101 (Compilación 13628.20528)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -89,12 +89,12 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-2012-march-09"></a>Versión 2012: 09 de febrero
 *Versión 2012 (compilación 13530.20628)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2012-february-09"></a>Versión 2012: 09 de febrero
 *Versión 2012 (compilación 13530.20528)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
@@ -106,7 +106,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Registro de auditoría de etiquetas de confidencialidad:** cuando los usuarios aplican, cambian o quitan etiquetas de confidencialidad en sus documentos y correos electrónicos, esa información está ahora disponible para los administradores en los registros de auditoría de Microsoft 365.
 
-- **Los clientes gubernamentales pueden ya aplicar etiquetas de confidencialidad a sus documentos y correos electrónicos**: las características de las etiquetas de confidencialidad ahora están disponibles para los clientes de los entornos GCC y GCC-H. [Más información](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Los clientes gubernamentales pueden ya aplicar etiquetas de confidencialidad a sus documentos y correos electrónicos**: las características de las etiquetas de confidencialidad ahora están disponibles para los clientes de los entornos GCC y GCC-H. [Más información](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
@@ -118,7 +118,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Todas las reuniones en línea:** Actualice la configuración del calendario para que cada reunión que cree se cree sea una reunión de Teams de forma predeterminada, de modo que no tenga que recordar hacer clic en la opción Reunión de Teams
 
-- **Los clientes gubernamentales pueden ya aplicar etiquetas de confidencialidad a sus documentos y correos electrónicos**: las características de las etiquetas de confidencialidad ahora están disponibles para los clientes de los entornos GCC y GCC-H. [Más información](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Los clientes gubernamentales pueden ya aplicar etiquetas de confidencialidad a sus documentos y correos electrónicos**: las características de las etiquetas de confidencialidad ahora están disponibles para los clientes de los entornos GCC y GCC-H. [Más información](/microsoft-365/compliance/sensitivity-labels)
 
 - **Todas las reuniones en línea:** Actualice la configuración del calendario para que cada reunión que cree se cree sea una reunión de Teams de forma predeterminada, de modo que no tenga que recordar hacer clic en la opción Reunión de Teams
 
@@ -126,11 +126,11 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Compatibilidad con el portapapeles SVG:** ahora puede pegar contenido SVG de Office en aplicaciones de terceros. [Más información](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Ver detalles en [entrada de blog](https://insider.office.com/es-ES/blog/svg-content-office-third-party-apps)
+- **Compatibilidad con el portapapeles SVG:** ahora puede pegar contenido SVG de Office en aplicaciones de terceros. [Más información](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Ver detalles en [entrada de blog](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)
 
 - **Registro de auditoría de etiquetas de confidencialidad:** cuando los usuarios aplican, cambian o quitan etiquetas de confidencialidad en sus documentos y correos electrónicos, esa información está ahora disponible para los administradores en los registros de auditoría de Microsoft 365.
 
-- **Los clientes gubernamentales pueden ya aplicar etiquetas de confidencialidad a sus documentos y correos electrónicos**: las características de las etiquetas de confidencialidad ahora están disponibles para los clientes de los entornos GCC y GCC-H. [Más información](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Los clientes gubernamentales pueden ya aplicar etiquetas de confidencialidad a sus documentos y correos electrónicos**: las características de las etiquetas de confidencialidad ahora están disponibles para los clientes de los entornos GCC y GCC-H. [Más información](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="visio"></a>Visio
 
@@ -142,7 +142,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Registro de auditoría de etiquetas de confidencialidad:** cuando los usuarios aplican, cambian o quitan etiquetas de confidencialidad en sus documentos y correos electrónicos, esa información está ahora disponible para los administradores en los registros de auditoría de Microsoft 365.
 
-- **Los clientes gubernamentales pueden ya aplicar etiquetas de confidencialidad a sus documentos y correos electrónicos**: las características de las etiquetas de confidencialidad ahora están disponibles para los clientes de los entornos GCC y GCC-H. [Más información](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Los clientes gubernamentales pueden ya aplicar etiquetas de confidencialidad a sus documentos y correos electrónicos**: las características de las etiquetas de confidencialidad ahora están disponibles para los clientes de los entornos GCC y GCC-H. [Más información](/microsoft-365/compliance/sensitivity-labels)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
@@ -214,12 +214,12 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-2011-february-09"></a>Versión 2011: 09 de febrero
 *Versión 2011 (compilación 13426.20658)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2011-january-12"></a>Versión 2011: 12 de enero
 *Versión 2011 (Compilación 13426.20526)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
@@ -359,12 +359,12 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-2010-january-12"></a>Versión 2010: 12 de enero
 *Versión 2010 (compilación 13328.20550)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2010-december-08"></a>Versión 2010: 08 de diciembre
 *Versión 2010 (compilación 13328.20478)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
@@ -384,7 +384,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Exportar GIF animado en un rango:** seleccione un intervalo de diapositivas cuando exporte a GIF animado
 
-- **Crear GIF con fondos transparentes:** cuando se exporta a un GIF animado, una nueva opción permite que el fondo sea transparente.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/export-animated-gifs-transparent-backgrounds)
+- **Crear GIF con fondos transparentes:** cuando se exporta a un GIF animado, una nueva opción permite que el fondo sea transparente.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
@@ -483,12 +483,12 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-2009-december-08"></a>Versión 2009: 08 de diciembre
 *Versión 2009 (compilación 13231.20620)*
 
-Las actualizaciones de seguridad se muestran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se muestran [aquí](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2009-november-10"></a>Versión 2009:10 de noviembre
 *Versión 2009 (compilación 13231.20514)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
@@ -581,7 +581,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-2008-november-10"></a>Versión 2008: 10 de julio
 *La versión prevista es la versión 2008 (compilación 13127.20760).*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -629,7 +629,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 - Se ha corregido un problema que provocaba que los usuarios no pudieran conceder permisos de editor a los delegados.
 
 
-- Se ha corregido un problema por el que las experiencias opcionales conectadas bloqueaban la carga de los complementos web.<br />Ver detalles en la [entrada de blog](https://developer.microsoft.com/es-ES/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
+- Se ha corregido un problema por el que las experiencias opcionales conectadas bloqueaban la carga de los complementos web.<br />Ver detalles en la [entrada de blog](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -653,7 +653,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-2008-october-13"></a>Versión 2008: 13 de octubre
 *Versión 2008 (compilación 13127.20638)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
@@ -679,11 +679,11 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Guardar en carpetas fijadas:** anclar las carpetas facilita el almacenamiento de archivos de Office.  Recibimos un comentario en el que se nos informa de que los usuarios desean tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. [Más información](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Guardar en carpetas fijadas:** anclar las carpetas facilita el almacenamiento de archivos de Office.  Recibimos un comentario en el que se nos informa de que los usuarios desean tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. [Más información](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 ### <a name="word"></a>Word
 
-- **Guardar en carpetas fijadas:** anclar las carpetas facilita el almacenamiento de archivos de Office.  Recibimos un comentario en el que se nos informa de que los usuarios desean tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. [Más información](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Guardar en carpetas fijadas:** anclar las carpetas facilita el almacenamiento de archivos de Office.  Recibimos un comentario en el que se nos informa de que los usuarios desean tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. [Más información](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
@@ -842,7 +842,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-2007-october-13"></a>Versión 2007: 13 de octubre
 *Versión 2007 (compilación 13029.20708)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -859,7 +859,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-2007-september-08"></a>Versión 2007: 08 de septiembre
 *Versión 2007 (compilación 13029.20534)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
@@ -968,12 +968,12 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-2006-september-08"></a>Versión 2006: 08 de septiembre
 *Versión 2006 (compilación 13001.20648)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2006-august-11"></a>Versión 2006: 11 de agosto
 *Versión 2006 (compilación 13001.20520)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
 
@@ -1076,12 +1076,12 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-2005-august-11"></a>Versión 2005: 11 de agosto
 *Versión 2005 (compilación 12827.20656)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2005-july-14"></a>Versión 2005: 14 de julio
 *Versión 2005 (compilación 12827.20538)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
@@ -1179,12 +1179,12 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-2004-july-14"></a>Versión 2004: 14 de julio
 *Versión 2004 (compilación 12730.20602)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2004-june-09"></a>Versión 2004: 09 de junio
 *Versión 2004 (compilación 12730.20430)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
@@ -1210,7 +1210,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - **El calendario se transforma:** vea las actualizaciones visuales que hacen que el calendario sea más fácil de examinar. [Más información](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)
 
-- **Nuevas imágenes para dar vida a sus mensajes:** miles de imágenes de archivo, iconos y adhesivos sin derechos de autor que puede usar en sus mensajes de correo electrónico. Vaya a Insertar > Imágenes > Imágenes de archivo para empezar. [Más información](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
+- **Nuevas imágenes para dar vida a sus mensajes:** miles de imágenes de archivo, iconos y adhesivos sin derechos de autor que puede usar en sus mensajes de correo electrónico. Vaya a Insertar > Imágenes > Imágenes de archivo para empezar. [Más información](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -1218,13 +1218,13 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - **Sincronice los cambios mientras realiza la presentación:** sincronice los cambios cuando se hagan aunque la presentación esté en el modo de presentación con diapositivas. [Más información](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)
 
-- **Nuevas imágenes para dar vida a sus diapositivas:** miles de imágenes de archivo, iconos y adhesivos sin derechos de autor que puede usar en sus diapositivas. Vaya a Insertar > Imágenes > Imágenes de archivo para empezar. [Más información](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
+- **Nuevas imágenes para dar vida a sus diapositivas:** miles de imágenes de archivo, iconos y adhesivos sin derechos de autor que puede usar en sus diapositivas. Vaya a Insertar > Imágenes > Imágenes de archivo para empezar. [Más información](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
 
 ### <a name="word"></a>Word
 
 - **Selección de lazo de la entrada de lápiz:** la herramienta Lazo en la pestaña Dibujar le ayuda a seleccionar objetos dibujados a mano. Seleccione trazos individuales o palabras completas. [Más información](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
-- **Elija el color perfecto:** use códigos de colores hexadecimales para elegir exactamente el color que desea para la fuente, el resaltado de texto, etc.<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)
+- **Elija el color perfecto:** use códigos de colores hexadecimales para elegir exactamente el color que desea para la fuente, el resaltado de texto, etc.<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)
 
 - **Nuevas imágenes para dar vida a sus documentos:** miles de imágenes de archivo, iconos y adhesivos sin derechos de autor que puede usar en sus documentos. Vaya a Insertar > Imágenes > Imágenes de archivo para empezar. [Más información](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
 
@@ -1289,7 +1289,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-2003-june-09"></a>Versión 2003: 09 de junio
 *Versión 2003 (compilación 12624.20708)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -1304,7 +1304,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-2003-may-12"></a>Versión 2003: 12 de mayo
 *Versión 2003 (compilación 12624.20588)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)

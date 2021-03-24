@@ -1,5 +1,5 @@
 ---
-title: Notas de la versión para las versiones de canal mensual en 2016
+title: Notas de la versión de las versiones mensuales del canal en 2016
 ms.author: anankani
 author: andymosten
 manager: anankani
@@ -9,40 +9,40 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: Proporciona a los profesionales de ti las notas de la versión para las versiones de canal mensual para Office 365 ProPlus en 2016
-ms.openlocfilehash: 11e672280c3a41e9d73782b13c43d286171de7b1
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+description: Proporciona a los profesionales de TI notas de la versión de las versiones mensuales del canal para Office 365 ProPlus en 2016
+ms.openlocfilehash: 9d51cecc870d48f0e6659dde1c6714d2c49c0e43
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48369928"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169879"
 ---
-# <a name="release-notes-for-monthly-channel-releases-in-2016"></a>Notas de la versión para las versiones de canal mensual en 2016
+# <a name="release-notes-for-monthly-channel-releases-in-2016"></a>Notas de la versión de las versiones mensuales del canal en 2016
 
-Estas notas de la versión proporcionan información sobre las nuevas características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones de canal mensual para Office 365 ProPlus en 2016.
+Estas notas de la versión proporcionan información sobre las nuevas características, las actualizaciones de seguridad y las actualizaciones que no son de seguridad que se incluyen en las actualizaciones mensuales del canal de Office 365 ProPlus en 2016.
  
 > [!NOTE]
 > - Lo siguiente también proporciona información sobre características nuevas, actualizaciones de seguridad y no relacionadas con la seguridad para Visio Pro para Office 365 y el cliente de escritorio de Project Online.
 > - Esta información también se aplica a Office 365 Empresa, que es la versión de Office que viene con algunos planes de Office 365, como Empresa Premium.
-> - El canal mensual se llamaba canal actual antes de septiembre de 2017.
+> - El canal mensual se denominaba Canal actual antes de septiembre de 2017.
 
-## <a name="version-1611-december-13"></a>Versión 1611:13 de diciembre
+## <a name="version-1611-december-13"></a>Versión 1611: 13 de diciembre
 *Versión 1611 (compilación 7571.2075)*
 
 ### <a name="excel-security-updates"></a>Excel: Actualizaciones de seguridad
--   Boletín de seguridad Microsoft [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Actualización de seguridad para Microsoft Office (3204068)
+-   Boletín de seguridad Microsoft [MS16-148](/security-updates/SecurityBulletins/2016/ms16-148): Actualización de seguridad para Microsoft Office (3204068)
 
 ### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones de seguridad
--   Boletín de seguridad Microsoft [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Actualización de seguridad para Microsoft Office (3204068)
+-   Boletín de seguridad Microsoft [MS16-148](/security-updates/SecurityBulletins/2016/ms16-148): Actualización de seguridad para Microsoft Office (3204068)
 
 
-## <a name="version-1611-december-6"></a>Versión 1611:6 de diciembre
+## <a name="version-1611-december-6"></a>Versión 1611: 6 de diciembre
 *Versión 1611 (compilación 7571.2072)*
 
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
 -   **Gráfico de mapa:** compare valores y muestre categorías en regiones geográficas. [Más información](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 -   **Imágenes SVG:** inserte y edite Scalable Vector Graphics (SVG) en libros. [Más información](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Insertar iconos:**   Use iconos de una biblioteca estándar de archivos de Scalable Vector Graphics (SVG) yendo a insertar \> iconos de ilustraciones \> . [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Insertar iconos:** Use iconos de una biblioteca estándar de archivos Scalable Vector Graphics (SVG) seleccionando Insertar \> Ilustraciones \> Iconos. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **Guardar en carpetas recientes:** guarde un libro en una carpeta que se ha usado recientemente mediante la pestaña Reciente cuando seleccione Archivo \> Guardar como.
 -   **Mejoras en la accesibilidad:** compatibilidad mejorada para usar el teclado, Narrador y otra tecnología de asistencia para leer y editar libros. [Más información](https://support.office.com/article/51fcb17a-b15b-4b13-ae04-d4f38ece3f78)
 
@@ -54,13 +54,13 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 ### <a name="outlook-feature-updates"></a>Outlook: Actualizaciones de características
 -   **Imágenes SVG:** inserte y edite Scalable Vector Graphics (SVG) en correos electrónicos. [Más información](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Insertar iconos:**   Use iconos de una biblioteca estándar de archivos de Scalable Vector Graphics (SVG) yendo a insertar \> iconos de ilustraciones \> .  [ Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Insertar iconos:** Use iconos de una biblioteca estándar de archivos Scalable Vector Graphics (SVG) seleccionando Insertar \> Ilustraciones \> Iconos. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **Pulse:** Buscar y reutilizar contenido de los documentos pertinentes de la organización. [Más información](https://support.office.com/article/860118fc-1f61-41f6-922f-40084a284658)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: actualizaciones de características
 -   **Imágenes SVG:** inserte y edite Scalable Vector Graphics (SVG) en presentaciones. [Más información](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Insertar iconos:**   Use iconos de una biblioteca estándar de archivos de Scalable Vector Graphics (SVG) yendo a insertar \> iconos de ilustraciones \> . [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
--   **Escritura en tiempo real durante la co-autoría:** Compruebe dónde están trabajando otros en la presentación y vea los cambios a medida que escriben. [Más información](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
+-   **Insertar iconos:** Use iconos de una biblioteca estándar de archivos Scalable Vector Graphics (SVG) seleccionando Insertar \> Ilustraciones \> Iconos. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Escritura en tiempo real al co-autoría:** Vea dónde trabajan otros usuarios en la presentación y vea los cambios a medida que escriben. [Más información](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **Guardar en carpetas recientes:** guarde una presentación en una carpeta que se ha usado recientemente mediante la pestaña Reciente cuando seleccione Archivo \> Guardar como.
 -   **Crear formas de lápiz precisas:** arrastre el borrador de segmentos para quitar el exceso de bits de lápiz, hasta la línea más cercana.
 -   **Seleccionar y manipular objetos con un lápiz:** Utilice un lápiz digital para cambiar el tamaño de objetos, moverlos o girarlos usando sus controladores, o utilice los botones de un lápiz admitido para la selección de lazo de lápiz.
@@ -81,7 +81,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 ### <a name="skype-for-business-feature-updates"></a>Skype Empresarial: Actualizaciones de características
 
--   **Actualizar la interfaz de usuario a "compartir":**   Cambie "presente" por "compartir" en elementos de la interfaz de usuario, como el cambio de "presentar escritorio" a "compartir pantalla" y "presentar programa" a "compartir ventana".
+-   **Update UI to “Share”:** Change "Present" to "Share" in UI elements, such as changing "Present Desktop" to "Share Screen" and "Present Program" to "Share Window."
 -   **Deshabilitar "Mi número":** Use la entrada del Registro DisableDisplayMyNumber para deshabilitar "Mi número" en el teclado de marcado.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Empresarial: Actualizaciones no relacionadas con la seguridad
@@ -119,7 +119,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 ### <a name="word-feature-updates"></a>Word: Actualizaciones de características
 -   **Imágenes SVG:** inserte y edite Scalable Vector Graphics (SVG) en documentos. [Más información](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Insertar iconos:**   Use iconos de una biblioteca estándar de archivos de Scalable Vector Graphics (SVG) yendo a insertar \> iconos de ilustraciones \> .  [ Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Insertar iconos:** Use iconos de una biblioteca estándar de archivos Scalable Vector Graphics (SVG) seleccionando Insertar \> Ilustraciones \> Iconos. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **Guardar en carpetas recientes:** guarde un documento en una carpeta que se ha usado recientemente mediante la pestaña Reciente cuando seleccione Archivo \> Guardar como.
 -   **Lectura mejorada con Herramientas de aprendizaje:** los nuevos comandos en el modo Lectura mejoran las habilidades de lectura ajustando el espaciado de texto, mostrando los saltos entre sílabas y resaltando cada palabra a medida que el documento se lee en voz alta. [Más información](https://support.office.com/article/29efa413-e2da-4cac-b2a5-2defc6d34fd9)
 -   **Mejoras en la accesibilidad:** compatibilidad mejorada para usar el teclado, Narrador y otra tecnología de asistencia para leer y editar documentos. [Más información](https://support.office.com/article/69aed572-336e-4722-a97e-23393cc481b2)
@@ -131,11 +131,11 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 ### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que los formularios VBA que pueden provocar el orden Z de marcos dejan de funcionar o no se muestran correctamente.
--   Se soluciona un problema en el que una actualización activada por el administrador de configuración cambia el valor UpdateChannel en el registro por algo que no es un canal de actualización válido.
+-   Se ha corregido un problema por el que una actualización de Configuration Manager cambia la configuración UpdateChannel en el Registro a algo que no es un canal de actualización válido.
 
 
 
-## <a name="version-1610-november-10"></a>Versión 1610:10 de noviembre
+## <a name="version-1610-november-10"></a>Versión 1610: 10 de noviembre
 *Versión 1610 (compilación 7466.2038)*
 
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
@@ -198,18 +198,18 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1609-november-8"></a>Versión 1609:8 de noviembre
+## <a name="version-1609-november-8"></a>Versión 1609: 8 de noviembre
 *Versión 1609 (compilación 7369.2055)*
 
 ### <a name="excel-security-updates"></a>Excel: Actualizaciones de seguridad
--   Boletín de seguridad Microsoft [MS16-133](https://technet.microsoft.com/library/security/ms16-133): Actualización de seguridad para Microsoft Office (3199168)
+-   Boletín de seguridad Microsoft [MS16-133](/security-updates/SecurityBulletins/2016/ms16-133): Actualización de seguridad para Microsoft Office (3199168)
 
 ### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones de seguridad
--   Boletín de seguridad Microsoft [MS16-133](https://technet.microsoft.com/library/security/ms16-133): Actualización de seguridad para Microsoft Office (3199168)
+-   Boletín de seguridad Microsoft [MS16-133](/security-updates/SecurityBulletins/2016/ms16-133): Actualización de seguridad para Microsoft Office (3199168)
 
 
 
-## <a name="version-1609-november-2"></a>Versión 1609:2 de noviembre
+## <a name="version-1609-november-2"></a>Versión 1609: 2 de noviembre
 *Versión 1609 (compilación 7369.2054)*
 
 ### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
@@ -245,7 +245,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1609-october-11"></a>Versión 1609:11 de octubre
+## <a name="version-1609-october-11"></a>Versión 1609: 11 de octubre
 *Versión 1609 (compilación 7369.2038)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: actualizaciones no relacionadas con la seguridad
@@ -255,14 +255,14 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   Se soluciona un problema que provocaba que se perdieran los datos adjuntos de un mensaje de correo al firmarlo digitalmente o cifrarlo.
 
 ### <a name="skype-for-business-security-updates"></a>Skype Empresarial: Actualizaciones de seguridad
--   Boletín de seguridad Microsoft [MS16-120](https://technet.microsoft.com/library/security/ms16-120): Actualización de seguridad para el componente de gráficos de Microsoft (3192884)
+-   Boletín de seguridad Microsoft [MS16-120](/security-updates/SecurityBulletins/2016/ms16-120): Actualización de seguridad para el componente de gráficos de Microsoft (3192884)
 
 ### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
--   Boletín de seguridad Microsoft [MS16-121](https://technet.microsoft.com/library/security/ms16-121): Actualización de seguridad para Microsoft Office (3194063)
+-   Boletín de seguridad Microsoft [MS16-121](/security-updates/SecurityBulletins/2016/ms16-121): Actualización de seguridad para Microsoft Office (3194063)
 
 
 
-## <a name="version-1609-october-4"></a>Versión 1609:4 de octubre
+## <a name="version-1609-october-4"></a>Versión 1609: 4 de octubre
 *Versión 1609 (compilación 7369.2024)*
 
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
@@ -279,7 +279,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   Se ha corregido un problema que provocaba que solo se mostrara la primera etiqueta de varias etiquetas para una línea de texto en el panel Resumen de etiquetas cuando se buscan etiquetas.
 
 ### <a name="outlook-feature-updates"></a>Outlook: Actualizaciones de características
--   ** \@ menciones:** Asegúrese de que los destinatarios saben que se les pide entrada o acción; para ello, incluya el símbolo @ seguido del nombre de la persona en el cuerpo de un elemento de correo electrónico o calendario. Esto también los agregará automáticamente a la línea Para. [Más información](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   **\@ menciones:** asegúrese de que los destinatarios sepan que se les pide entrada o acción al incluir el símbolo @ seguido del nombre de la persona en el cuerpo de un correo electrónico o elemento de calendario. Esto también los agregará automáticamente a la línea Para. [Más información](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Actualizaciones no relacionadas con la seguridad
 -   Se ha corregido un problema que provocaba que al usar diseños de fondo personalizados como tema predeterminado, se agregaran saltos de línea adicionales en mensajes de correo nuevos y se estableciera la fuente en Calibri.
@@ -330,7 +330,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1608-september-26"></a>Versión 1608:26 de septiembre
+## <a name="version-1608-september-26"></a>Versión 1608: 26 de septiembre
 *Versión 1608 (compilación 7341.2035)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: actualizaciones no relacionadas con la seguridad
@@ -342,7 +342,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1608-september-21"></a>Versión 1608:21 de septiembre
+## <a name="version-1608-september-21"></a>Versión 1608: 21 de septiembre
 *Versión 1608 (compilación 7341.2032)*
 
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
@@ -389,24 +389,24 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1607-september-13"></a>Versión 1607:13 de septiembre
+## <a name="version-1607-september-13"></a>Versión 1607: 13 de septiembre
 *Versión 1607 (compilación 7167.2060)*
 
 ### <a name="excel-security-updates"></a>Excel: Actualizaciones de seguridad
--   Boletín de seguridad Microsoft [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Actualización de seguridad para Microsoft Office (3185852)
+-   Boletín de seguridad Microsoft [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107): Actualización de seguridad para Microsoft Office (3185852)
 
 ### <a name="outlook-security-updates"></a>Outlook: Actualizaciones de seguridad
--   Boletín de seguridad Microsoft [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Actualización de seguridad para Microsoft Office (3185852)
+-   Boletín de seguridad Microsoft [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107): Actualización de seguridad para Microsoft Office (3185852)
 
 ### <a name="visio-security-updates"></a>Visio: Actualizaciones de seguridad
--   Boletín de seguridad Microsoft [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Actualización de seguridad para Microsoft Office (3185852)
+-   Boletín de seguridad Microsoft [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107): Actualización de seguridad para Microsoft Office (3185852)
 
 ### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones de seguridad
--   Boletín de seguridad Microsoft [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Actualización de seguridad para Microsoft Office (3185852)
+-   Boletín de seguridad Microsoft [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107): Actualización de seguridad para Microsoft Office (3185852)
 
 
 
-## <a name="version-1607-september-6"></a>Versión 1607:6 de septiembre
+## <a name="version-1607-september-6"></a>Versión 1607: 6 de septiembre
 *Versión 1607 (compilación 7167.2055)*
 
 ### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones no relacionadas con la seguridad
@@ -414,7 +414,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1607-august-31"></a>Versión 1607:31 de agosto
+## <a name="version-1607-august-31"></a>Versión 1607: 31 de agosto
 *Versión 1607 (compilación 7167.2047)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Actualizaciones no relacionadas con la seguridad
@@ -425,7 +425,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1607-august-16"></a>Versión 1607:16 de agosto
+## <a name="version-1607-august-16"></a>Versión 1607: 16 de agosto
 *Versión 1607 (compilación 7167.2040)*
 
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
@@ -465,33 +465,33 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1606-august-9"></a>Versión 1606:9 de agosto
+## <a name="version-1606-august-9"></a>Versión 1606: 9 de agosto
 *Versión 1606 (compilación 7070.2036)*
 
 ### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
 -   Corrección de un problema causado por una actualización de seguridad reciente que producía que, al abrir un archivo HTML desde una ubicación que no es de confianza, se abriese Excel con una pantalla en blanco (vacía) sin errores, en vez de permitir al usuario abrir el archivo en Vista protegida.
 
 ### <a name="onenote-security-updates"></a>OneNote: Actualizaciones de seguridad
--   Boletín de seguridad Microsoft [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Actualización de seguridad para Microsoft Office (3177451)
+-   Boletín de seguridad Microsoft [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099): Actualización de seguridad para Microsoft Office (3177451)
 
 ### <a name="outlook-security-updates"></a>Outlook: Actualizaciones de seguridad
--   Boletín de seguridad Microsoft [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Actualización de seguridad para Microsoft Office (3177451)
+-   Boletín de seguridad Microsoft [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099): Actualización de seguridad para Microsoft Office (3177451)
 
 ### <a name="skype-for-business-security-updates"></a>Skype Empresarial: Actualizaciones de seguridad
--   Boletín de seguridad Microsoft [MS16-097](https://technet.microsoft.com/library/security/ms16-097): Actualización de seguridad para el componente de gráficos de Microsoft (3177393)
+-   Boletín de seguridad Microsoft [MS16-097](/security-updates/SecurityBulletins/2016/ms16-097): Actualización de seguridad para el componente de gráficos de Microsoft (3177393)
 
 ### <a name="visio-non-security-updates"></a>Visio: Actualizaciones no relacionadas con la seguridad
 -   Movimiento de la ubicación de la pestaña Dibujar de la cinta y movimiento de la ubicación de la opción “Dibujar con la función táctil” en la pestaña Dibujar.
 
 ### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
--   Boletín de seguridad Microsoft [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Actualización de seguridad para Microsoft Office (3177451)
+-   Boletín de seguridad Microsoft [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099): Actualización de seguridad para Microsoft Office (3177451)
 
 ### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones de seguridad
--   Boletín de seguridad Microsoft [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Actualización de seguridad para Microsoft Office (3177451)
+-   Boletín de seguridad Microsoft [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099): Actualización de seguridad para Microsoft Office (3177451)
 
 
 
-## <a name="version-1606-july-26"></a>Versión 1606:26 de julio
+## <a name="version-1606-july-26"></a>Versión 1606: 26 de julio
 *Versión 1606 (compilación 7070.2033)*
 
 ### <a name="access-non-security-updates"></a>Access: Actualizaciones no relacionadas con la seguridad
@@ -510,7 +510,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1606-july-20"></a>Versión 1606:20 de julio
+## <a name="version-1606-july-20"></a>Versión 1606: 20 de julio
 *Versión 1606 (compilación 7070.2028)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: actualizaciones no relacionadas con la seguridad
@@ -525,20 +525,20 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1606-july-12"></a>Versión 1606:12 de julio
+## <a name="version-1606-july-12"></a>Versión 1606: 12 de julio
 *Versión 1606 (compilación 7070.2026)*
 
 ### <a name="excel-security-updates"></a>Excel: Actualizaciones de seguridad
--   Boletín de seguridad Microsoft [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Actualización de seguridad para Microsoft Office (3170008)
+-   Boletín de seguridad Microsoft [MS16-088](/security-updates/SecurityBulletins/2016/ms16-088): Actualización de seguridad para Microsoft Office (3170008)
 
 ### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
 -   Se ha corregido un problema que provocaba que Excel no informara al Narrador de los cambios en los valores de las celdas en algunas condiciones.
 
 ### <a name="outlook-security-updates"></a>Outlook: Actualizaciones de seguridad
--   Boletín de seguridad Microsoft [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Actualización de seguridad para Microsoft Office (3170008)
+-   Boletín de seguridad Microsoft [MS16-088](/security-updates/SecurityBulletins/2016/ms16-088): Actualización de seguridad para Microsoft Office (3170008)
 
 ### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
--   Boletín de seguridad Microsoft [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Actualización de seguridad para Microsoft Office (3170008)
+-   Boletín de seguridad Microsoft [MS16-088](/security-updates/SecurityBulletins/2016/ms16-088): Actualización de seguridad para Microsoft Office (3170008)
 
 ### <a name="word-non-security-updates"></a>Word: Actualizaciones no relacionadas con la seguridad
 -   Se ha corregido un problema que provocaba que Word se bloqueara al abrir un documento en un servidor que necesitase autenticación basada en formularios.
@@ -548,7 +548,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1606-july-5"></a>Versión 1606:5 de julio
+## <a name="version-1606-july-5"></a>Versión 1606: 5 de julio
 *Versión 1606 (compilación 7070.2022)*
 
 ### <a name="access-feature-updates"></a>Access: Actualizaciones de características
@@ -575,7 +575,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1605-june-30"></a>Versión 1605:30 de junio
+## <a name="version-1605-june-30"></a>Versión 1605: 30 de junio
 *Versión 1605 (compilación 6965.2063)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Actualizaciones no relacionadas con la seguridad
@@ -597,7 +597,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1605-june-14"></a>Versión 1605:14 de junio
+## <a name="version-1605-june-14"></a>Versión 1605: 14 de junio
 *Versión 1605 (compilación 6965.2058)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: actualizaciones no relacionadas con la seguridad
@@ -615,24 +615,24 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   Se soluciona un problema en el que el usuario recibe un mensaje de error al intentar usar las características de conferencia, como la pizarra o el uso compartido de notas. [Más información sobre este problema](https://support.microsoft.com/kb/3165438)
 
 ### <a name="visio-security-updates"></a>Visio: Actualizaciones de seguridad
--   Boletín de seguridad Microsoft [MS16-070](https://technet.microsoft.com/library/security/ms16-070): Actualización de seguridad para Microsoft Office (3163610)
+-   Boletín de seguridad Microsoft [MS16-070](/security-updates/SecurityBulletins/2016/ms16-070): Actualización de seguridad para Microsoft Office (3163610)
 
 ### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
--   Boletín de seguridad Microsoft [MS16-070](https://technet.microsoft.com/library/security/ms16-070): Actualización de seguridad para Microsoft Office (3163610)
+-   Boletín de seguridad Microsoft [MS16-070](/security-updates/SecurityBulletins/2016/ms16-070): Actualización de seguridad para Microsoft Office (3163610)
 
 ### <a name="word-non-security-updates"></a>Word: Actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que Word se bloquea si el usuario elige la opción "Mantener formato de origen" al pegar un elemento gráfico SmartArt.
 
 ### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones de seguridad
--   Boletín de seguridad Microsoft [MS16-070](https://technet.microsoft.com/library/security/ms16-070): Actualización de seguridad para Microsoft Office (3163610)
+-   Boletín de seguridad Microsoft [MS16-070](/security-updates/SecurityBulletins/2016/ms16-070): Actualización de seguridad para Microsoft Office (3163610)
 
 
 
-## <a name="version-1605-june-6"></a>Versión 1605:6 de junio
+## <a name="version-1605-june-6"></a>Versión 1605: 6 de junio
 *Versión 1605 (compilación 6965.2053)*
 
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
--   **Obtener mejoras de transformación de &:** Características de conectividad de datos y de transformación de datos nuevas o mejoradas para Power Query. [Más información](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
+-   **Obtenga & de transformación:** Características nuevas o mejoradas de transformación de datos y conectividad de datos para Power Query. [Más información](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 
 ### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que las listas desplegables de validación de datos se dañan y se duplican en los libros con varias hojas de cálculo.
@@ -678,7 +678,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1604-may-23"></a>Versión 1604:23 de mayo
+## <a name="version-1604-may-23"></a>Versión 1604: 23 de mayo
 *Versión 1604 (compilación 6868.2067)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Actualizaciones no relacionadas con la seguridad
@@ -702,18 +702,18 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1604-may-10"></a>Versión 1604:10 de mayo
+## <a name="version-1604-may-10"></a>Versión 1604: 10 de mayo
 *Versión 1604 (compilación 6868.2062)*
 
 ### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
--   Boletín de seguridad Microsoft [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Actualización de seguridad para Microsoft Office (3155544)
+-   Boletín de seguridad Microsoft [MS16-054](/security-updates/SecurityBulletins/2016/ms16-054): Actualización de seguridad para Microsoft Office (3155544)
 
 ### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones de seguridad
--   Boletín de seguridad Microsoft [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Actualización de seguridad para Microsoft Office (3155544)
+-   Boletín de seguridad Microsoft [MS16-054](/security-updates/SecurityBulletins/2016/ms16-054): Actualización de seguridad para Microsoft Office (3155544)
 
 
 
-## <a name="version-1604-may-4"></a>Versión 1604:4 de mayo
+## <a name="version-1604-may-4"></a>Versión 1604: 4 de mayo
 *Versión 1604 (compilación 6868.2060)*
 
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
@@ -737,7 +737,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1603-april-28"></a>Versión 1603:28 de abril
+## <a name="version-1603-april-28"></a>Versión 1603: 28 de abril
 *Versión 1603 (compilación 6769.2040)*
 
 ### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
@@ -746,18 +746,18 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1603-april-12"></a>Versión 1603:12 de abril
+## <a name="version-1603-april-12"></a>Versión 1603: 12 de abril
 *Versión 1603 (compilación 6769.2017)*
 
 ### <a name="excel-security-updates"></a>Excel: Actualizaciones de seguridad
--   Boletín de seguridad Microsoft [MS16-042](https://technet.microsoft.com/library/security/ms16-042): Actualización de seguridad para Microsoft Office (3148775)
+-   Boletín de seguridad Microsoft [MS16-042](/security-updates/SecurityBulletins/2016/ms16-042): Actualización de seguridad para Microsoft Office (3148775)
 
 ### <a name="skype-for-business-security-updates"></a>Skype Empresarial: Actualizaciones de seguridad
--   Boletín de seguridad Microsoft [MS16-039](https://technet.microsoft.com/library/security/ms16-039): Actualización de seguridad para el componente de gráficos de Microsoft (3148522)
+-   Boletín de seguridad Microsoft [MS16-039](/security-updates/SecurityBulletins/2016/ms16-039): Actualización de seguridad para el componente de gráficos de Microsoft (3148522)
 
 
 
-## <a name="version-1603-april-4"></a>Versión 1603:4 de abril
+## <a name="version-1603-april-4"></a>Versión 1603: 4 de abril
 *Versión 1603 (compilación 6769.2015)*
 
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
@@ -785,7 +785,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1602-march-24"></a>Versión 1602:24 de marzo
+## <a name="version-1602-march-24"></a>Versión 1602: 24 de marzo
 *Versión 1602 (compilación 6741.2021)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Actualizaciones no relacionadas con la seguridad
@@ -793,7 +793,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1602-march-17"></a>Versión 1602:17 de marzo
+## <a name="version-1602-march-17"></a>Versión 1602: 17 de marzo
 *Versión 1602 (compilación 6741.2017)*
 
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
@@ -834,30 +834,30 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1601-march-4"></a>Versión 1601:4 de marzo
+## <a name="version-1601-march-4"></a>Versión 1601: 4 de marzo
 *Versión 1601 (compilación 6568.2036)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que, si un servidor está configurado para usar POP3, todos los mensajes de correo que contiene dicho servidor se suprimen de la Bandeja de entrada después de que Outlook los descargue. [Más información sobre este problema](https://support.microsoft.com/kb/3145116)
--   Se soluciona un problema en el que, cuando se configura para usar POP3, los mensajes de correo se descargan varias veces, lo que provoca elementos duplicados. [Más información sobre este problema](https://support.microsoft.com/kb/3145116)
+-   Se soluciona un problema por el que, cuando se configura para usar POP3, los mensajes de correo se descargan varias veces, lo que provoca elementos duplicados. [Más información sobre este problema](https://support.microsoft.com/kb/3145116)
 
 
 
-## <a name="version-1601-march-3"></a>Versión 1601:3 de marzo
+## <a name="version-1601-march-3"></a>Versión 1601: 3 de marzo
 *Versión 1601 (compilación 6568.2034)*
 
 ### <a name="word-security-updates"></a>Word: actualizaciones de seguridad
--   Boletín de seguridad Microsoft [MS16-029](https://technet.microsoft.com/library/security/ms16-029): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3141806)
+-   Boletín de seguridad Microsoft [MS16-029](/security-updates/SecurityBulletins/2016/ms16-029): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3141806)
 
 ### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones de seguridad
--   Boletín de seguridad Microsoft [MS16-029](https://technet.microsoft.com/library/security/ms16-029): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3141806)
+-   Boletín de seguridad Microsoft [MS16-029](/security-updates/SecurityBulletins/2016/ms16-029): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3141806)
 
 ### <a name="office-suite-non-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones no relacionadas con la seguridad
 -   Se soluciona un problema en el que la aplicación se bloquea si un usuario intenta convertir el archivo al formato PDF mediante Adobe Acrobat PDFMaker.
 
 
 
-## <a name="version-1601-february-16"></a>Versión 1601:16 de febrero
+## <a name="version-1601-february-16"></a>Versión 1601: 16 de febrero
 *Versión 1601 (compilación 6568.2025)*
 
 ### <a name="excel-feature-updates"></a>Excel: Actualizaciones de características
@@ -865,7 +865,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 -   **Fórmula mejorada de autocompletar:** Ahora Excel devuelve todas las coincidencias parciales al escribir un nombre de función, no solo las coincidencias exactas desde el principio de la cadena.
 -   **Funciones de texto nuevas:** Ahora hay disponibles dos nuevas funciones de texto: [CONCAT](https://support.office.com/article/9b1a9a3f-94ff-41af-9736-694cbd6b4ca2)y [UNIRCADENAS](https://support.office.com/article/357b449a-ec91-49d0-80c3-0e8fc845691c).
 -   **Nuevas funciones lógicas:** Ahora hay disponibles dos nuevas funciones lógicas: [SI.CONJUNTO](https://support.office.com/article/36329a26-37b2-467c-972b-4a39bd951d45)y [CAMBIAR](https://support.office.com/article/47ab33c0-28ce-4530-8a45-d532ec4aa25e).
--   **Nuevas funciones estadísticas:** Ahora hay disponibles dos nuevas funciones estadísticas: [MAX.SI.CONJUNTO](https://support.office.com/article/dfd611e6-da2c-488a-919b-9b6376b28883)y[MIN.SI.CONJUNTO](https://support.office.com/article/6ca1ddaa-079b-4e74-80cc-72eef32e6599).
+-   **Nuevas funciones estadísticas:** Ahora hay disponibles dos nuevas funciones estadísticas: [MAX.SI.CONJUNTO](https://support.office.com/article/dfd611e6-da2c-488a-919b-9b6376b28883)y [MIN.SI.CONJUNTO](https://support.office.com/article/6ca1ddaa-079b-4e74-80cc-72eef32e6599).
 -   **Opciones de Enviar como:** Envíe un documento como datos adjuntos o como un archivo PDF desde el panel Compartir.[Más información](https://support.office.com/article/8d8a52bb-03c3-4933-ab6c-330aabf1e589)
 
 ### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
@@ -913,18 +913,18 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1511-february-9"></a>Versión 1511:9 de febrero
+## <a name="version-1511-february-9"></a>Versión 1511: 9 de febrero
 *Versión 1511 (compilación 6366.2068)*
 
 ### <a name="excel-security-updates"></a>Excel: Actualizaciones de seguridad
--   Boletín de seguridad Microsoft MS [16-015](https://go.microsoft.com/fwlink/?LinkId=722214): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3134226)
+-   Boletín de seguridad Microsoft MS [16-015](/security-updates/SecurityBulletins/2016/ms16-015): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3134226)
 
 ### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
--   Boletín de seguridad Microsoft MS [16-015](https://go.microsoft.com/fwlink/?LinkId=722214): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3134226)
+-   Boletín de seguridad Microsoft MS [16-015](/security-updates/SecurityBulletins/2016/ms16-015): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3134226)
 
 
 
-## <a name="version-1511-january-25"></a>Versión 1511:25 de enero
+## <a name="version-1511-january-25"></a>Versión 1511: 25 de enero
 *Versión 1511 (compilación 6366.2062)*
 
 ### <a name="excel-non-security-updates"></a>Excel: Actualizaciones no relacionadas con la seguridad
@@ -935,20 +935,20 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 
-## <a name="version-1511-january-12"></a>Versión 1511:12 de enero
+## <a name="version-1511-january-12"></a>Versión 1511: 12 de enero
 *Versión 1511 (compilación 6366.2056)*
 
 ### <a name="excel-security-updates"></a>Excel: Actualizaciones de seguridad
--   Boletín de seguridad Microsoft [MS16-004](https://go.microsoft.com/fwlink/?LinkId=717998): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3124585)
+-   Boletín de seguridad Microsoft [MS16-004](/security-updates/SecurityBulletins/2016/ms16-004): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3124585)
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: Actualizaciones de seguridad
--   Boletín de seguridad Microsoft [MS16-004](https://go.microsoft.com/fwlink/?LinkId=717998): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3124585)
+-   Boletín de seguridad Microsoft [MS16-004](/security-updates/SecurityBulletins/2016/ms16-004): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3124585)
 
 ### <a name="visio-security-updates"></a>Visio: Actualizaciones de seguridad
--   Boletín de seguridad Microsoft [MS16-004](https://go.microsoft.com/fwlink/?LinkId=717998): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3124585)
+-   Boletín de seguridad Microsoft [MS16-004](/security-updates/SecurityBulletins/2016/ms16-004): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3124585)
 
 ### <a name="word-security-updates"></a>Word: Actualizaciones de seguridad
--   Boletín de seguridad Microsoft [MS16-004](https://go.microsoft.com/fwlink/?LinkId=717998): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3124585)
+-   Boletín de seguridad Microsoft [MS16-004](/security-updates/SecurityBulletins/2016/ms16-004): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3124585)
 
 ### <a name="office-suite-security-updates"></a>Conjunto de aplicaciones de Office: Actualizaciones de seguridad
--   Boletín de seguridad Microsoft [MS16-004](https://go.microsoft.com/fwlink/?LinkId=717998): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3124585)
+-   Boletín de seguridad Microsoft [MS16-004](/security-updates/SecurityBulletins/2016/ms16-004): actualizaciones de seguridad de Microsoft Office para solucionar la ejecución remota de código (3124585)

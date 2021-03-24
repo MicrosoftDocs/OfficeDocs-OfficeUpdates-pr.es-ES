@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales de TI las notas de la versión de las versiones de Office 2016 para Mac a partir de septiembre de 2018
-ms.openlocfilehash: 91fc351da222e00c442e82c1de3284680db4f76c
-ms.sourcegitcommit: 6da2dfccc63a75bf36d2660b770a62e61e8463be
+ms.openlocfilehash: e6552bcebfbc2247c91ef8fb5fb023c597060aaa
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "48944184"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169679"
 ---
 # <a name="update-history-for-office-2016-for-mac"></a>Historial de actualización de Office 2016 para Mac
 
@@ -24,7 +24,7 @@ Office 2016 para Mac es una versión de Office que está disponible como una com
 > - El soporte técnico de Office 2016 para Mac finalizó el 13 de octubre de 2020. Si aún no ha empezado a actualizar a una versión más reciente, le recomendamos que comience ahora. Para más información, vea [Finalización del soporte para Office 2016 para Mac](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsupport.office.com%2Farticle%2Fe944a907-bbc8-4be5-918d-a514068d0056%3F&data=02%7C01%7Cv-lislo%40microsoft.com%7C6d81b3b1d6144587d18f08d7dfdff720%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637224025336277242&sdata=RkN3lJa%2BWIbzIk1PC08EhXOuI1RvYuyGYJfaVlYxU2U%3D&reserved=0).
 
 > [!NOTE]
-> - Por motivos de seguridad, Microsoft ha descartado el uso de SHA-1. [Más información](https://docs.microsoft.com/security-updates/SecurityAdvisories/2017/4010323)
+> - Por motivos de seguridad, Microsoft ha descartado el uso de SHA-1. [Más información](/security-updates/SecurityAdvisories/2017/4010323)
 > - Para obtener las notas de versión de las versiones de Office 2016 para Mac anteriores a septiembre de 2018, vea [Notas de la versión de Office para Mac](release-notes-office-for-mac.md).  
 > - Para obtener información de versiones de Office para Mac, que es la versión que viene con las suscripciones a Office 365, vea las [notas de la versión](release-notes-office-for-mac.md) y el [historial de actualizaciones](update-history-office-for-mac.md) de Office para Mac.
 > - Office 2019 para Mac es la versión más actual que está disponible como una compra de pago única. Para obtener información de la versión de Office 2019 para Mac, vea las [notas de la versión](release-notes-office-for-mac.md) y el [historial de actualizaciones](update-history-office-for-mac.md) de Office para Mac.
@@ -56,7 +56,7 @@ En esta versión se incluyen las actualizaciones siguientes.
 ### <a name="october-13-2020"></a>13 de octubre de 2020
 Versión 16.16.27 (20101200)
 
-|**Application**|**Vínculos de descarga**|**Hashes SHA256 para el paquete de instalación**|
+|**Aplicación**|**Vínculos de descarga**|**Hashes SHA256 para el paquete de instalación**|
 |:-----|:-----|:-----|:-----|
 |Conjunto de aplicaciones de Office (todas las aplicaciones)<br/>|[Paquete de instalación](https://go.microsoft.com/fwlink/p/?linkid=871743)<br/>| F108918241DA7BD1442B97E42C6F9C3D9241202461C2F8EA0FC4E8ABB2A1C581 <br/>|
 |Word<br/>|[Paquete de instalación](https://go.microsoft.com/fwlink/p/?linkid=871748)<br/><br/>[Paquete de actualización](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.20101200_Updater.pkg) <br/> |0C61B7DB7A6A13653270795C085A909AA54668E8DE2F2CA749257CE6AA5957D1<br/>|

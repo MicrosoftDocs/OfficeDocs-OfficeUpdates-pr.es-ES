@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365 en 2020
-ms.openlocfilehash: 95d8c91b0456919fc32bdfe5482d1be830b86c06
-ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
+ms.openlocfilehash: 901b51893436270a39d6977eaa6c9f5ffcdc643e
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902175"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169949"
 ---
 # <a name="release-notes-for-current-channel"></a>Notas de la versión para el canal actual
 
 Estas notas de la versión proporcionan información sobre las nuevas características y las actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones del canal actual para las Aplicaciones de Microsoft 365 para empresas, las Aplicaciones de Microsoft 365 para negocios, y las versiones de suscripción de las aplicaciones de escritorio de Project y Visio.
 
 > [!IMPORTANT]
-> Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441) para obtener más información.
+> Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](/DeployOffice/update-channels-changes) para obtener más información.
 
  > [!NOTE]
 >
@@ -76,7 +76,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ## <a name="version-2102-march-09"></a>Versión 2102: 9 de marzo
 *Versión 2102 (compilación 13801.20294)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -155,7 +155,7 @@ También puede hacer clic con el botón derecho para traducir palabras específi
 
 ### <a name="word"></a>Word
 
-- **Sugerencias de escritura con un solo clic:** Aplique sugerencias de escritura con un solo clic. El panel del Editor actualizado facilita la navegación entre sugerencias. [Más información](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/microsoft-editor-gets-an-upgrade)
+- **Sugerencias de escritura con un solo clic:** Aplique sugerencias de escritura con un solo clic. El panel del Editor actualizado facilita la navegación entre sugerencias. [Más información](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/microsoft-editor-gets-an-upgrade)
 
 - **Requerir que los usuarios apliquen etiquetas de confidencialidad:** Se pedirá a los usuarios que apliquen una etiqueta de confidencialidad si la directiva de su organización lo requiere.
 
@@ -233,7 +233,7 @@ También puede hacer clic con el botón derecho para traducir palabras específi
 ## <a name="version-2101-february-09"></a>Versión 2101: 09 de septiembre
 *Versión 2101 (Compilación 13628.20380)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -263,7 +263,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - **Envío de datos de auditoría sobre el etiquetado de confidencialidad a los administradores de M365:** cuando los usuarios apliquen, cambien o eliminen las etiquetas de confidencialidad en sus documentos y correos electrónicos, Office enviará datos de auditoría al back-end de auditoría de M365 para que los administradores los vean. Esta es una funcionalidad silenciosa (sin interfaz de usuario) para beneficio del administrador.
 
-- **Los clientes gubernamentales pueden ya aplicar etiquetas de confidencialidad a sus documentos y correos electrónicos**: las características de las etiquetas de confidencialidad ahora están disponibles para los clientes de los entornos GCC y GCC-H. [Más información](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Los clientes gubernamentales pueden ya aplicar etiquetas de confidencialidad a sus documentos y correos electrónicos**: las características de las etiquetas de confidencialidad ahora están disponibles para los clientes de los entornos GCC y GCC-H. [Más información](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
@@ -275,19 +275,19 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - **Envío de datos de auditoría sobre el etiquetado de confidencialidad a los administradores de M365:** cuando los usuarios apliquen, cambien o eliminen las etiquetas de confidencialidad en sus documentos y correos electrónicos, Office enviará datos de auditoría al back-end de auditoría de M365 para que los administradores los vean. Esta es una funcionalidad silenciosa (sin interfaz de usuario) para beneficio del administrador.
 
-- **Los clientes gubernamentales pueden ya aplicar etiquetas de confidencialidad a sus documentos y correos electrónicos**: las características de las etiquetas de confidencialidad ahora están disponibles para los clientes de los entornos GCC y GCC-H. [Más información](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Los clientes gubernamentales pueden ya aplicar etiquetas de confidencialidad a sus documentos y correos electrónicos**: las características de las etiquetas de confidencialidad ahora están disponibles para los clientes de los entornos GCC y GCC-H. [Más información](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="powerpoint"></a>PowerPoint
 
 - **Envío de datos de auditoría sobre el etiquetado de confidencialidad a los administradores de M365:** cuando los usuarios apliquen, cambien o eliminen las etiquetas de confidencialidad en sus documentos y correos electrónicos, Office enviará datos de auditoría al back-end de auditoría de M365 para que los administradores los vean. Esta es una funcionalidad silenciosa (sin interfaz de usuario) para beneficio del administrador.
 
-- **Los clientes gubernamentales pueden ya aplicar etiquetas de confidencialidad a sus documentos y correos electrónicos**: las características de las etiquetas de confidencialidad ahora están disponibles para los clientes de los entornos GCC y GCC-H. [Más información](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Los clientes gubernamentales pueden ya aplicar etiquetas de confidencialidad a sus documentos y correos electrónicos**: las características de las etiquetas de confidencialidad ahora están disponibles para los clientes de los entornos GCC y GCC-H. [Más información](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="word"></a>Word
 
 - **Envío de datos de auditoría sobre el etiquetado de confidencialidad a los administradores de M365:** cuando los usuarios apliquen, cambien o eliminen las etiquetas de confidencialidad en sus documentos y correos electrónicos, Office enviará datos de auditoría al back-end de auditoría de M365 para que los administradores los vean. Esta es una funcionalidad silenciosa (sin interfaz de usuario) para beneficio del administrador.
 
-- **Los clientes gubernamentales pueden ya aplicar etiquetas de confidencialidad a sus documentos y correos electrónicos**: las características de las etiquetas de confidencialidad ahora están disponibles para los clientes de los entornos GCC y GCC-H. [Más información](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Los clientes gubernamentales pueden ya aplicar etiquetas de confidencialidad a sus documentos y correos electrónicos**: las características de las etiquetas de confidencialidad ahora están disponibles para los clientes de los entornos GCC y GCC-H. [Más información](/microsoft-365/compliance/sensitivity-labels)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
@@ -352,7 +352,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-2012-january-12"></a>Versión 2012: 12 de enero
 *Versión 2012 (compilación 13530.20376)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -465,7 +465,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-2011-december-08"></a>Versión 2011: 08 de diciembre
 *Versión 2011 (compilación 13426.20332)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -563,9 +563,9 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Compatibilidad con el portapapeles SVG:** ahora puede pegar contenido SVG de Office en aplicaciones de terceros. [Más información](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/svg-content-office-third-party-apps)
+- **Compatibilidad con el portapapeles SVG:** ahora puede pegar contenido SVG de Office en aplicaciones de terceros. [Más información](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)
 
-- **Crear GIF con fondos transparentes:** cuando se exporta a un GIF animado, una nueva opción permite que el fondo sea transparente.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/export-animated-gifs-transparent-backgrounds)
+- **Crear GIF con fondos transparentes:** cuando se exporta a un GIF animado, una nueva opción permite que el fondo sea transparente.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)
 
 - **Cambiar los temas de Office automáticamente:** Office puede cambiar los temas automáticamente para que coincidan con la configuración de tema de Windows 10. Vaya a Archivos > Cuenta y elija "Usar la opción del sistema" en la lista desplegable Temas de Office. [Más información](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -667,7 +667,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-2010-november-10"></a>Versión 2010: 10 de noviembre
 *Versión 2010 (compilación 13328.20356)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -700,19 +700,19 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Crear tipos de datos con Power Query:** crear tipos de datos enriquecidos con Power Query desde cualquier origen de datos. [Más información](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br />Ver detalles en la [entrada de blog](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)
 
-- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 - **Realice ediciones rápidas con el lápiz de acción:** con el lápiz de acción, puede escribir a mano directamente en las celdas y apuntar datos con entradas de lápiz que se convierten automáticamente en datos de Excel.
 
 ### <a name="outlook"></a>Outlook
 
-- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
-- **Puedes contar con la revisión gramatical:** Outlook marca los errores gramaticales conforme usted escribe, para que pueda aplicar sugerencias con un solo clic. [Más información](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/grammar-and-style-suggestions-available-in-outlook)
+- **Puedes contar con la revisión gramatical:** Outlook marca los errores gramaticales conforme usted escribe, para que pueda aplicar sugerencias con un solo clic. [Más información](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />Ver detalles en [entrada de blog](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="teams"></a>Teams
 
@@ -726,7 +726,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 ### <a name="word"></a>Word
 
-- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en [entrada de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
@@ -814,7 +814,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-2009-october-13"></a>Versión 2009:13 de octubre
 *Versión 2009 (compilación 13231.20390)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -880,7 +880,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 ### <a name="teams"></a>Teams
 
-- **Compartir archivos en Microsoft Teams:** [Obtener más información](https://docs.microsoft.com/MicrosoftTeams/sharing-files-in-teams)
+- **Compartir archivos en Microsoft Teams:** [Obtener más información](/MicrosoftTeams/sharing-files-in-teams)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
@@ -1012,7 +1012,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 ### <a name="outlook"></a>Outlook
 
-- **Vínculos mejorados en el correo electrónico:** al incluir un vínculo a un archivo, la dirección URL se reemplaza por el nombre del archivo. Puede cambiar los permisos para que todos los destinatarios tengan acceso. [Más información](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)
+- **Vínculos mejorados en el correo electrónico:** al incluir un vínculo a un archivo, la dirección URL se reemplaza por el nombre del archivo. Puede cambiar los permisos para que todos los destinatarios tengan acceso. [Más información](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)
 
 
 
@@ -1145,7 +1145,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-2007-august-11"></a>Versión 2007: 11 de agosto
 *Versión 2007 (compilación 13029.20344)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -1296,7 +1296,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-2006-july-14"></a>Versión 2006: 14 de julio
 *Versión 2006 (compilación 13001.20384)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -1490,7 +1490,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-2005-june-09"></a>Versión 2005: 9 de junio
 *Versión 2005 (compilación 12827.20336)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="excel"></a>Excel
@@ -1545,7 +1545,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Usar automáticamente los nuevos tipos de datos**: al digitar un valor de datos que se asemeja a una ubicación geográfica o cotización, Excel ofrece la posibilidad de convertirlo en el tipo de datos conectado apropiado (cotizaciones o geografía). [Más información](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
 
-- **Cuente sus historias con GIF animados:** los GIF animados ahora son compatibles con el editor de Office: sus documentos han pasado a ser más llamativos.
+- **Cuente sus historias con GIF animados:** los GIF animados ahora son compatibles con el editor de Office: sus documentos ahora son más elegantes.
 
 ### <a name="outlook"></a>Outlook
 
@@ -1555,7 +1555,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Cuente sus historias con GIF animados:** los GIF animados ahora son compatibles con el editor de Office: sus documentos ahora son más elegantes.
 
-- **El Calendario se transforma:** vea las actualizaciones visuales que hacen que el calendario sea más fácil de examinar. [Más información](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)
+- **El Calendario se transforma:** vea las actualizaciones visuales que hacen que el calendario sea más fácil de examinar. [Más información](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -1661,7 +1661,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-2004-may-12"></a>Versión 2004: 12 de mayo
 *Versión 2004 (compilación 12730.20270)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -1791,7 +1791,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-2003-april-14"></a>Versión 2003: 14 de abril
 *Versión 2003 (compilación 12624.20442)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -1909,7 +1909,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-2002-march-10"></a>Versión 2002: 10 de marzo
 *Versión 2002 (compilación 12527.20278)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
 
@@ -1999,7 +1999,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-2001-february-11"></a>Versión 2001: 11 de febrero
 *Versión 2001 (compilación 12430.20264)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -2035,7 +2035,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 
 
-[//]: # (NO QUITAR LOS DETALLES DE ERROR DE FIN DE CONTENIDO)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2001-january-30"></a>Versión 2001: 30 de enero
 *Versión 2001 (compilación 12430.20184)*
@@ -2110,7 +2110,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-1912-january-14"></a>Versión 1912: 14 de enero
 *Versión 1912 (compilación 12325.20298)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-1912-january-08"></a>Versión 1912: 8 de enero
 *Versión 1912 (compilación 12325.20288)*
@@ -2127,7 +2127,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Optimizar la presentación para todos:** El comprobador de accesibilidad le ayuda a organizar los objetos de las diapositivas pensando en los lectores de pantalla.
 
-- **GIF en un instante:** una diapositiva, un marco. Cree fácilmente archivos GIF en bucle en PowerPoint. [Más información](https://support.office.com/es-ES/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **GIF en un instante:** una diapositiva, un marco. Cree fácilmente archivos GIF en bucle en PowerPoint. [Más información](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 

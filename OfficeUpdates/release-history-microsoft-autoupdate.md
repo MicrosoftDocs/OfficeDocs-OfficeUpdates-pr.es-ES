@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales informáticos un historial de versiones de Microsoft AutoUpdate (MAU).
-ms.openlocfilehash: be0b124f22f53cb26742242ac48a62adf75d93f7
-ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
+ms.openlocfilehash: c9d16f2c221612969ec5a7cfb08c2022d287ea7c
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902205"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169719"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historial de versiones de Microsoft AutoUpdate (MAU)
  
@@ -262,7 +262,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 - Los equipos Mac OS con SSD experimentarán actualizaciones más rápidas y un tiempo de inactividad insignificante de la aplicación debido a las actualizaciones.
 
 
-Consulte [CVE-2020-0984](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0984)
+Consulte [CVE-2020-0984](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0984)
 
 **SHA-256 Hash:**
 
@@ -393,7 +393,7 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
  **Actualizaciones de características:**
 
 - Cambios en la privacidad para MAU: se mostrará una notificación de recopilación de datos a los usuarios finales como parte del cumplimiento.
-- Fecha límite de actualización de MAU: los administradores de equipos Mac ahora pueden establecer la fecha límite en MAU para aplicar las actualizaciones entre los usuarios de equipos Mac. [Más información](https://docs.microsoft.com/deployoffice/mac/mau-deadline)
+- Fecha límite de actualización de MAU: los administradores de equipos Mac ahora pueden establecer la fecha límite en MAU para aplicar las actualizaciones entre los usuarios de equipos Mac. [Más información](/deployoffice/mac/mau-deadline)
 - Varias correcciones de errores y rendimiento.
 
 **SHA-256 Hash:**
@@ -440,7 +440,7 @@ ABCC7D58DA7DB1B8B24B9B1BE6B1DB93BDC97AE487EFB615EC5695B9E1CC0FC9
  **Actualizaciones de características:**
 
 - Cambios en la privacidad para MAU: se mostrará una notificación de recopilación de datos a los usuarios finales como parte del cumplimiento.
-- Fecha límite de actualización de MAU: los administradores de equipos Mac ahora pueden establecer la fecha límite en MAU para aplicar las actualizaciones entre los usuarios de equipos Mac. [Más información](https://docs.microsoft.com/deployoffice/mac/mau-deadline)
+- Fecha límite de actualización de MAU: los administradores de equipos Mac ahora pueden establecer la fecha límite en MAU para aplicar las actualizaciones entre los usuarios de equipos Mac. [Más información](/deployoffice/mac/mau-deadline)
 - Varias correcciones de errores y rendimiento.
 
 **SHA-256 Hash:**
@@ -512,4 +512,4 @@ FF676870D5B3521202095810B85DEF36538B59E00AEA44A2ED0D7EA8B3B99D6C
 ## <a name="related-articles"></a>Artículos relacionados
 
 - [Historial de actualizaciones de Office para Mac](update-history-office-for-mac.md)
-- [Notas de la versión de Office para Mac](release-notes-office-for-mac.md) 
+- [Notas de la versión de Office para Mac](release-notes-office-for-mac.md)

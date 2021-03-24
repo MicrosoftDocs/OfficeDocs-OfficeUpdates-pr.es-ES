@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones del canal semestral de Aplicaciones de Microsoft 365 en 2020.
-ms.openlocfilehash: 99828dc0f08c9fb065a92620acee2a1b5e856b9e
-ms.sourcegitcommit: d7b61837c922993e563c83df547d865c6715517b
+ms.openlocfilehash: 547700388de93effd6e2d1ced5c5b1d6a570bdc3
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50741653"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169619"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>Notas de la versión para el canal semestral para empresas
 
 Estas notas de la versión proporcionan información sobre las nuevas características y las actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones del canal semestral para empresas para las Aplicaciones de Microsoft 365 para empresas, las Aplicaciones de Microsoft 365 para negocios, y las versiones de suscripción de las aplicaciones de escritorio de Project y Visio.
 
 > [!IMPORTANT]
-> Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](https://go.microsoft.com/fwlink/p/?linkid=2127441) para obtener más información.
+> Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](/DeployOffice/update-channels-changes) para obtener más información.
 
 > [!NOTE]
 >
@@ -33,7 +33,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ## <a name="version-2008-march-09"></a>Versión 2008: 09 de marzo
 *Versión 2008 (compilación 13127.21348)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -68,12 +68,12 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-2002-march-09"></a>Versión 2002: 09 de marzo
 *Versión 2002 (compilación 12527.21686)*
 
-Las actualizaciones de seguridad se muestran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se muestran [aquí](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2008-february-09"></a>Versión 2008: 09 de septiembre
 *Versión 2008 (compilación 13127.21216)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -134,7 +134,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-2002-february-09"></a>Versión 2002: 09 de febrero
 *Versión 2002 (compilación 12527.21594)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -151,12 +151,12 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-1908-february-09"></a>Versión 1908: 09 de febrero
 *Versión 1908 (compilación 11929.21008)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2008-january-12"></a>Versión 2008: 12 de enero
 *Versión 2008 (compilación 13127.21064)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
@@ -192,7 +192,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 
 - **Unirse a reuniones sin salir de la bandeja de entrada:** no es necesario cambiar al calendario para unirse a reuniones en línea. Con el calendario anclado en el panel de To-Do, las cuentas de usuario hospedadas en Exchange Server 2019 o Exchange Online pueden unirse a cualquier reunión con un solo clic. [Más información](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
-- **Nueva experiencia para redes WiFi cautivas:** ¿alguna vez se ha unido a una red WiFi que requiere una página web para iniciar sesión? Outlook ahora lo detecta y le ayuda a estar conectado.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/outlook-on-public-wi-fi-networks-just-got-easier)
+- **Nueva experiencia para redes WiFi cautivas:** ¿alguna vez se ha unido a una red WiFi que requiere una página web para iniciar sesión? Outlook ahora lo detecta y le ayuda a estar conectado.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)
 
 - **Obtener sugerencias de correo electrónico cuando busca un contacto:** cuando escriba el nombre de una persona en el cuadro de búsqueda, se incluirán los mensajes de correo electrónico más relevantes con las sugerencias de búsqueda. [Más información](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
@@ -839,7 +839,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-2002-january-12"></a>Versión 2002: 12 de enero
 *Versión 2002 (compilación 12527.21504)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -864,7 +864,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-1908-january-12"></a>Versión 1908: 12 de enero
 *Versión 1908 (compilación 11929.20994)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -881,7 +881,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-2002-december-08"></a>Versión 2002: 08 de diciembre
 *Versión 2002 (compilación 12527.21416)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -925,12 +925,12 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-1908-december-08"></a>Versión 1908: 08 de diciembre
 *Versión 1908 (compilación 11929.20984)*
 
-Las actualizaciones de seguridad se muestran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se muestran [aquí](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2002-november-10"></a>Versión 2002: 10 de noviembre
 *Versión 2002 (compilación 12527.20720)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -967,12 +967,12 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-1908-november-10"></a>Versión 1908: 12 de noviembre
 *Versión 1908 (Build 11929,20300)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2002-october-13"></a>Versión 2002: 13 de octubre
 *Versión 2002 (Compilación 12527.21104)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -1012,7 +1012,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-1908-october-13"></a>Versión 1908: 8 de octubre
 *Versión 1908 (compilación 11929.20516)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -1029,7 +1029,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-2002-september-08"></a>Versión 2002: 08 de septiembre
 *Versión 2002 (Compilación 12527.21104)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -1059,12 +1059,12 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-1908-september-08"></a>Versión 1908: 08 de septiembre
 *Versión 1908 (compilación 11929.20946)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2002-august-11"></a>Versión 2002: 11 de agosto
 *Versión 2002 (compilación 12527.20988)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -1099,12 +1099,12 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-1908-august-11"></a>Versión 1908: 11 de agosto
 *Versión 1908 (compilación 11929.20934)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-1902-august-11"></a>Versión 1902: 11 de agosto
 *Versión 1902 (compilación 11328.20644)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -1115,7 +1115,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-2002-july-14"></a>Versión 2002: 14 de julio
 *Versión 2002 (compilación 12527.20880)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
@@ -1631,7 +1631,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-1908-july-14"></a>Versión 1908: 14 de julio
 *Versión 1908 (Compilación 11929.20904)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -1811,7 +1811,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - Corrige un problema que provocaba que los usuarios tuvieran problemas al intentar sincronizar carpetas del calendario compartido con el OST, lo que producía errores en los permisos al tratar de interactuar con estas carpetas.
 
-- Se ha corregido un problema que causaba que los usuarios sufrieran un error al visualizar más de 30 calendarios en un entorno Citrix. Aquí está el [KB individual, donde se ha documentado esto para versiones anteriores](https://support.microsoft.com/es-ES/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
+- Se ha corregido un problema que causaba que los usuarios sufrieran un error al visualizar más de 30 calendarios en un entorno Citrix. Aquí está el [KB individual, donde se ha documentado esto para versiones anteriores](https://support.microsoft.com/en-us/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
 
 - Corrige un problema con la selección de algoritmos SMIME.
 
@@ -1969,12 +1969,12 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-1902-july-14"></a>Versión 1902: 14 de julio
 *Versión 1902 (compilación 11328.20624)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-1908-june-09"></a>Versión 1908: 09 de junio
 *Versión 1908 (compilación 11929.20838)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -2002,7 +2002,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-1902-june-09"></a>Versión 1902: 09 de junio
 *Versión 1902 (compilación 11328.20602)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -2021,7 +2021,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-1908-may-12"></a>Versión 1908: 12 de mayo
 *Versión 1908 (compilación 11929.20776)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -2046,7 +2046,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-1902-may-12"></a>Versión 1902:12 de mayo
 *Versión 1902 (compilación 11328.20586)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -2064,7 +2064,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-1908-may-04"></a>Versión 1908: 4 de mayo
 *Versión 1908 (Compilación 11929.20752)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-security-updates.md)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="outlook"></a>Outlook
@@ -2090,7 +2090,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-1908-april-26"></a>Versión 1908: 26 de abril
 *Versión 1908 (Compilación 11929.20736)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-security-updates.md)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="excel"></a>Excel
@@ -2112,7 +2112,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-1908-april-14"></a>Versión 1908: 14 de abril
 *Versión 1908 (compilación 11929.20708)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-security-updates.md)
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
@@ -2145,14 +2145,14 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-1902-april-14"></a>Versión 1902: 14 de abril
 *Versión 1902 (compilación 11328.20564)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-security-updates.md)
 
 [//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-1908-march-10"></a>Versión 1908: 10 de marzo
 *Versión 1908 (compilación 11929.20648)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -2186,14 +2186,14 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-1902-march-10"></a>Versión 1902: 10 de marzo
 *Versión 1902 (compilación 11328.20554)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 [//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-1908-february-11"></a>Versión 1908: 11 de febrero
 *Versión 1908 (Compilación 11929.20606)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -2261,7 +2261,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-1902-february-11"></a>Versión 1902: 11 de febrero
 *Versión 1902 (Compilación 11328.20526)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -2283,14 +2283,14 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-1808-february-11"></a>Versión 1808: 11 de febrero
 *Versión 1808 (compilación 10730.20438)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
 [//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-1908-january-14"></a>Versión 1908: 14 de enero
 *Versión 1908 (compilación 11929.20562)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-security-updates.md)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
 
@@ -2409,11 +2409,11 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 
 - **Guardar los cambios a medida que los realiza:** cargue el archivo en OneDrive para asegurarse de que todas las actualizaciones se guardan automáticamente.
 
-- **Controles de privacidad:** nuevos controles para datos de diagnóstico y experiencias conectadas, actualizados y mejorados. [Más información](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
+- **Controles de privacidad:** nuevos controles para datos de diagnóstico y experiencias conectadas, actualizados y mejorados. [Más información](/DeployOffice/privacy/overview-privacy-controls?toc=%2fdeployoffice%2ftoc.json)
 
 - **Los iconos de Office tienen un nuevo aspecto:** los iconos de Office se han rediseñado para reflejar las sencillas, inteligentes y eficaces experiencias de Office.
 
-- **Instalación de Microsoft Teams:** Microsoft Teams se instala de forma predeterminada en las instalaciones existentes de Office 365 ProPlus. [Más información](https://docs.microsoft.com/DeployOffice/teams-install)
+- **Instalación de Microsoft Teams:** Microsoft Teams se instala de forma predeterminada en las instalaciones existentes de Office 365 ProPlus. [Más información](/DeployOffice/teams-install)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
@@ -2652,7 +2652,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-1902-january-14"></a>Versión 1902: 14 de enero
 *VVersión 1902 (compilación 11328.20512)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -2680,7 +2680,7 @@ Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/
 ## <a name="version-1808-january-14"></a>Versión 1808: 14 de enero
 *Versión 1808 (compilación 10730.20432)*
 
-Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-security-updates.md)
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 

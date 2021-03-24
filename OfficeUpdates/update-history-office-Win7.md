@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los clientes notas de lanzamiento para el historial de actualizaciones de las aplicaciones de Microsoft 365 para Windows 7
-ms.openlocfilehash: a2815cc08784277532f16a1e5d4f81aa491edfb4
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: 06a5467d0ea72650d5696f56ba637e385d6be4f2
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595464"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170169"
 ---
 # <a name="update-history-for-microsoft-365-apps-on-windows-7"></a>Historial de actualizaciones para las aplicaciones de Microsoft 365 en Windows 7 
 
  > [!NOTE]
 >
 >- El soporte para Windows 7 terminó el 14 de enero de 2020. [Más información](https://www.microsoft.com/microsoft-365/windows/end-of-windows-7-support)
->- Aplicaciones de Microsoft 365 ya no es compatible con Windows 7, pero seguirá recibiendo actualizaciones de seguridad hasta enero de 2023. Para más información, vea [Finalización del soporte para Windows 7 y Aplicaciones de Microsoft 365](https://docs.microsoft.com/DeployOffice/endofsupport/windows-7-support).
+>- Aplicaciones de Microsoft 365 ya no es compatible con Windows 7, pero seguirá recibiendo actualizaciones de seguridad hasta enero de 2023. Para más información, vea [Finalización del soporte para Windows 7 y Aplicaciones de Microsoft 365](/DeployOffice/endofsupport/windows-7-support).
 >- Si es un usuario particular que ejecuta Office en Windows 7, vea [Finalización del soporte de Windows 7 y Office](https://support.microsoft.com/office/78f20fab-b57b-44d7-8368-06a8493f3cb9).
 
 La versión 2002 es la última versión de Aplicaciones de Microsoft 365 disponible en dispositivos que ejecutan Windows 7. La versión 2002 está disponible en todos los canales de actualización para Aplicaciones de Microsoft 365.
@@ -32,7 +32,7 @@ Esta disponibilidad ampliada para la versión 2002 también se aplica a otros ca
 
 El segundo martes de cada mes, se publicará una nueva compilación de la versión 2002 con las actualizaciones de seguridad, si es necesario. Para obtener una lista de las actualizaciones de seguridad para la versión 2002, vea [Notas de la versión de las actualizaciones de seguridad de Microsoft Office](microsoft365-apps-security-updates.md).
 
-Si administra las actualizaciones con Microsoft Endpoint Configuration Manager, vea [Guía para usar Configuration Manager para actualizaciones](https://docs.microsoft.com/deployoffice/endofsupport/windows-7-support#guidance-when-using-configuration-manager-for-updates).
+Si administra las actualizaciones con Microsoft Endpoint Configuration Manager, vea [Guía para usar Configuration Manager para actualizaciones](/deployoffice/endofsupport/windows-7-support#guidance-when-using-configuration-manager-for-updates).
 
 
 ## <a name="update-history"></a>Historial de actualizaciones
