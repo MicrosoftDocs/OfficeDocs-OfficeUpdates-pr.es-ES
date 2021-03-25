@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones del canal semestral (dirigido) de Aplicaciones de Microsoft 365 en 2020.
-ms.openlocfilehash: a99f40b0eb74c4a97ae4aeb77af7d3632d5b563c
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: 6fdea7518be03546ba6bd761c88634da3b29d071
+ms.sourcegitcommit: 63637fc22e4a2df0000612e8b4d51a29af7fb6e5
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51170219"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51196739"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>Notas de la versión para el canal semestral para empresas (vista previa)
 
@@ -25,7 +25,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 ## <a name="version-2102-march-09"></a>Versión 2102: 09 de marzo
-*Versión 2102 (compilación 13801.20294)*
+*Versión 2102 (Compilación 13801.20294)*
 
 Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
 
@@ -80,8 +80,6 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 ### <a name="word"></a>Word
 
 - **Lazo y borrador en el Cuadro de herramientas de entrada de lápiz:** al usar las herramientas de dibujo, el lazo y el borrador están ahora disponibles en Cuadro de herramientas de entrada de lápiz.<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/04/10/meet-the-new-action-pen/)
-
-- **Tenga a mano las herramientas:** en el cuadro de herramientas de dibujo, busque el lápiz inteligente que le permite agregar gestos de entrada de lápiz al texto. [Más información](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/04/10/meet-the-new-action-pen/)
 
 - **Guardar en carpetas fijadas:** anclar las carpetas facilita el almacenamiento de archivos de Office.  Recibimos un comentario en el que se nos informa de que los usuarios desean tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. [Más información](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
