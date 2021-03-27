@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los participantes del Modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos.
-ms.openlocfilehash: f8d234b83d6b08b1f6fd15630055bb150441322b
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: 1ee65ac506208e6c4005b40ad50fdeebf044d917
+ms.sourcegitcommit: 856b82b3d51fd4bcee3ecf516dc30e05d5ba0921
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169968"
+ms.lasthandoff: 03/26/2021
+ms.locfileid: "51383780"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de la versión para el canal beta
 
@@ -30,6 +30,31 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 [//]: # (NO ELIMINAR)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+## <a name="version-2104-march-26"></a>Versión 2104: 26 de marzo
+*Versión 2104 (compilación 13919.20002)*
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="outlook"></a>Outlook
+
+- Hemos corregido un problema que causaba que algunos usuarios experimentasen un cierre inesperado de Outlook al sincronizar los cambios en la jerarquía de carpetas.
+
+
+### <a name="word"></a>Word
+
+- Hemos corregido un problema por el cual los estilos de copiar y pegar pueden no ser iguales en el texto pegado.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Se ha corregido un problema de rendimiento relacionado con la iteración de texto.
+
+
+
+[//]: # (NO QUITAR EL CONTENIDO FINAL DE LOS DETALLES DE LOS ERRORES)
 
 ## <a name="version-2104-march-19"></a>Versión 2104: 19 de marzo
 *Versión 2104 (Compilación 13913.20000)*
@@ -675,7 +700,7 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 
 ### <a name="word"></a>Word
 
-- **Mejor colaboración con comentarios modernos:** Agregue comentarios a objetos, @mencione compañeros y resuelva hilos de comentarios para disfrutar de una mejor experiencia de colaboración. [Más información](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />Ver detalles en [entrada de blog](https://insider.office.com/en-us/blog/modern-commenting-in-word)
+- **Mejor colaboración con comentarios modernos:** Agregue comentarios a objetos, @mencione compañeros y resuelva hilos de comentarios para disfrutar de una mejor experiencia de colaboración. [Más información](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />Ver detalles en [entrada de blog](https://insider.office.com/es-ES/blog/modern-commenting-in-word)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
@@ -1618,19 +1643,19 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="excel"></a>Excel
 
-- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="outlook"></a>Outlook
 
-- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en [entrada de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en [entrada de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="word"></a>Word
 
-- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en [entrada de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
@@ -2736,6 +2761,7 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|versión-2104-marzo-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13906.20000|version-2104-march-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|version-2103-marzo-05|)
@@ -2745,5 +2771,4 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 [//]: # (|Win32|DevMain|Insiders| |16.0.13801.20004|version-2102-february-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|versión-2102-enero-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13714.20000|versión-2102-enero-22|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|versión-2102-enero-15|)
 [//]: # (NO MODIFICAR EL FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
