@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los participantes del Modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos.
-ms.openlocfilehash: 78d200b4d33693aa0092fe9a7c768fef67e6721e
-ms.sourcegitcommit: 5863f79973406ef27d5904509c0aef059e25c17b
+ms.openlocfilehash: faa58be6a03ca68e8ee7bfe625b47c52befab241
+ms.sourcegitcommit: c98d5985df2d2a3079a995b4226f19145430898f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51506787"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51662334"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de la versión para el canal beta
 
@@ -30,6 +30,24 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 [//]: # (NO ELIMINAR)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+## <a name="version-2105-april-09"></a>Versión 2105: 09 de abril
+*Versión 2105 (compilación 14002.20000)*
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Cinta de opciones de accesibilidad:** encuentre todas las herramientas que necesita para crear contenido accesible en un solo lugar, la cinta de opciones de accesibilidad.
+
+### <a name="word"></a>Word
+
+- **Ahora la corrección está disponible para el texto seleccionado dentro del documento:** con estos cambios, ahora puede revisar la ortografía, la gramática y otras sugerencias de escritura inteligente solo para el texto seleccionado. Además, también puede revisar sugerencias para todo el documento.
+
+
+[//]: # (NO QUITAR LAS CARACTERÍSTICAS DEL CONTENIDO FINAL)
 
 ## <a name="version-2104-april-02"></a>Versión 2104: 02 de abril
 *Versión 2104 (Compilación 13929.20016)*
@@ -2801,6 +2819,7 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14002.20000|version-2105-april-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13929.20016|version-2104-april-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|versión-2104-marzo-19|)
@@ -2810,5 +2829,4 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 [//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|versión-2103-enero-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-enero-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13801.20004|version-2102-february-05|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|versión-2102-enero-29|)
 [//]: # (NO MODIFICAR EL FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)

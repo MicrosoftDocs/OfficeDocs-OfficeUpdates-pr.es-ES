@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Aplicaciones de Microsoft 365 según el canal de actualización.
-ms.openlocfilehash: 710af3f6cfb276732812490957d22cd40fd9c737
-ms.sourcegitcommit: 149b8409a33ff4411d296f8668f6da387f84f6bf
+ms.openlocfilehash: fd0201ce7ec5cb64809556c01ed27fabfd461f62
+ms.sourcegitcommit: 94b7247497c7498627f408aa6d08ea32b4af7eb0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "51589882"
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "51645042"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tamaños de descarga de las actualizaciones de Aplicaciones de Microsoft 365 
 
@@ -35,6 +35,43 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 > - Se muestran las versiones de los últimos cuatro meses.
 
 [//]: # (NO ELIMINAR)
+
+[//]: # (NO ELIMINAR INICIO DEL CONTENIDO DE PREVISIÓN)
+
+## <a name="april-8-2021"></a>8 de abril de 2021
+
+
+### <a name="monthly-enterprise-channel"></a>Canal mensual para empresas
+
+<i>La versión prevista es la versión 2102 (compilación 13801.20490).</i>
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 2101 (Compilación 13628.20528) <br/> |9 de marzo de 2021 <br/> |190<br/> |
+
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>Canal semestral para empresas (versión preliminar)
+
+<i>La versión prevista es la versión 2102 (compilación 13801.20454).</i>
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 2102 (compilación 13801.20294) <br/> |9 de marzo de 2021 <br/> |63<br/> |
+|Versión 2008 (compilación 13127.21216) <br/> |9 de febrero de 2021 <br/> |444<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>Canal semestral para empresas
+
+<i>La versión prevista es la versión 2008 (compilación 13127.21474).</i>
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 2008 (Compilación 13127.21348) <br/> |9 de marzo de 2021 <br/> |61<br/> |
+|Versión 2008 (compilación 13127.21216) <br/> |9 de febrero de 2021 <br/> |62<br/> |
+
+
+[//]: # (NO ELIMINAR EL FINAL DEL CONTENIDO PREVISTO)
 
 ## <a name="april-2-2021"></a>2 de abril de 2021
 
