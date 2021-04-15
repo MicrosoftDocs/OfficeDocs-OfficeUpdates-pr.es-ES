@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI vínculos a la información de las últimas actualizaciones de las versiones perpetuas de Outlook 2016, Outlook 2013 y Outlook 2010.
-ms.openlocfilehash: a5ff9d2142b1aefb64f40ad4a775ef4cf07919b4
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: 370d3235a8c02d98c5ae038d13c1ed1c2f7d625e
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169739"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749208"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Últimas actualizaciones para las versiones de Outlook que usan Windows Installer (MSI)
 
@@ -43,13 +43,13 @@ La compatibilidad de Outlook con Microsoft 365 y el entorno local depende de los
 
 |**Service Pack (SP) más reciente**|**Actualización mínima necesaria**|**Actualización pública (AP) más reciente**|
 |:-----|:-----|:-----|
-|N/D  <br/> |Actualización pública de marzo de 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Actualización pública de marzo de 2021 <br/>[KB4493226](https://support.microsoft.com/help/4493226) 
+|N/D  <br/> |Actualización pública de marzo de 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Actualización pública de abril de 2021 <br/>[KB4504712](https://support.microsoft.com/help/4504712) 
 
 ## <a name="outlook-2013-updates"></a>Actualizaciones de Outlook 2013
 
 |**Service Pack (SP) más reciente**|**Actualización mínima necesaria**|**Actualización pública (AP) más reciente**|
 |:-----|:-----|:-----|
-|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |Actualización pública de diciembre de 2015 <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |Actualización pública de marzo de 2021 <br/>[KB4493174 ](https://support.microsoft.com/help/4493174 )  |
+|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |Actualización pública de diciembre de 2015 <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |Actualización pública de abril de 2021 <br/>[KB4504733](https://support.microsoft.com/help/4504733)  |
    
 ## <a name="outlook-2010-updates"></a>Actualizaciones de Outlook 2010
 > [!IMPORTANT]
@@ -57,4 +57,4 @@ La compatibilidad de Outlook con Microsoft 365 y el entorno local depende de los
 
 |**Service Pack (SP) más reciente**|**Actualización mínima necesaria**|**Actualización pública (AP) más reciente**|
 |:-----|:-----|:-----|
-|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |Actualización pública de octubre de 2015 <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Actualización pública de abril de 2015 de Office 2010 para MAPI/HTTP <br/> [KB2956191](https://support.microsoft.com/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |Actualización pública de diciembre de 2020 <br/>[KB4486742](https://support.microsoft.com/help/4486742) <br><br><br><br/>|
+|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |Actualización pública de octubre de 2015 <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Actualización pública de abril de 2015 de Office 2010 para MAPI/HTTP <br/> [KB2956191](https://support.microsoft.com/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |Actualización pública de abril de 2021 <br/>[KB4493185](https://support.microsoft.com/help/4493185) <br><br><br><br/>|

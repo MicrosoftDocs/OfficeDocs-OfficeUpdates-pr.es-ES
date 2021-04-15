@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI vínculos a la información de las últimas actualizaciones de las versiones perpetuas de Office 2016, Office 2013 y Office 2010.
-ms.openlocfilehash: a0bc255deaf46ffab63899468deaab9289689d47
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: 12a6b6d73decddbb9df5769b2961d4a3257857d4
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169699"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51748978"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Últimas actualizaciones para las versiones de Office que usan Windows Installer (MSI)
 
@@ -31,25 +31,27 @@ Use los vínculos de esta página para obtener más información sobre las actua
 
 |**Versiones y productos**|**Service Pack (SP) más reciente**|**Actualización pública (AP) más reciente**|
 |:-----|:-----|:-----|
-|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |N/D  <br/> |Actualización pública de marzo de 2021  <br/> [KB5000635](https://support.microsoft.com/help/5000635) <br/> |
-   
+|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |N/D  <br/> |Actualización pública de abril de 2021  <br/> [KB5001778](https://support.microsoft.com/help/5001778) <br/> |
+
 ## <a name="office-2013-updates"></a>Actualizaciones de Office 2013
 
 |**Versiones y productos**|**Service Pack (SP) más reciente**|**Actualización pública (AP) más reciente**|
-|:-----|:-----|:-----|:-----|
-|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |Actualización pública de marzo de 2021  <br/> [KB5000635](https://support.microsoft.com/help/5000635) <br/> |
+|:-----|:-----|:-----|
+|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |Actualización pública de abril de 2021  <br/> [KB5001778](https://support.microsoft.com/help/5001778) <br/> |
    
 ## <a name="office-2010-updates"></a>Actualizaciones de Office 2010
 > [!IMPORTANT]
 > El soporte técnico para Office 2010 finaliza el 13 de octubre de 2020. Si todavía no ha empezado a actualizar su entorno de Office 2010, se recomienda que empiece ahora. Para más información, vea [Guía de finalización del soporte para Office 2010](/DeployOffice/office-2010-end-support-roadmap). 
 
 |**Versiones y productos**|**Service Pack (SP) más reciente**|**Actualización pública (AP) más reciente**|
-|:-----|:-----|:-----|:-----|
-|**2010** <br/> Conjuntos de aplicaciones de Office 2010  <br/> Project 2010  <br/> Visio 2010  <br/> Servidores de Office 2010  <br/> Office Web Apps  <br/> Search Server 2010  <br/> Productos de SharePoint 2010  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |Actualización pública de marzo de 2021  <br/> [KB5000635](https://support.microsoft.com/help/5000635) <br/> |
+|:-----|:-----|:-----|
+|**2010** <br/> Conjuntos de aplicaciones de Office 2010  <br/> Project 2010  <br/> Visio 2010  <br/> Servidores de Office 2010  <br/> Office Web Apps  <br/> Search Server 2010  <br/> Productos de SharePoint 2010  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |Actualización pública de abril de 2021  <br/> [KB5001778](https://support.microsoft.com/help/5001778) <br/> |
    
 
    
 ## <a name="updates-released-in-past-12-months"></a>Actualizaciones publicadas en los últimos 12 meses
+
+[ Actualizaciones de seguridad y no seguridad para abril de 2021: KB5001778](https://support.microsoft.com/help/5001778)
 
 [Actualizaciones de seguridad y no relacionadas con la seguridad de marzo de 2021: KB5000635](https://support.microsoft.com/help/5000635)
 
@@ -72,8 +74,6 @@ Use los vínculos de esta página para obtener más información sobre las actua
 [Actualizaciones de seguridad y no seguridad para junio de 2020: KB4559448](https://support.microsoft.com/help/4559448)
 
 [Actualizaciones de seguridad y no relacionadas con la seguridad de mayo de 2020: KB4549680](https://support.microsoft.com/help/4549680)
-
-[Actualizaciones de seguridad y no relacionadas con la seguridad de abril de 2020: KB4549670](https://support.microsoft.com/help/4549670)
 
 
 

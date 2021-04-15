@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Aplicaciones de Microsoft 365 según el canal de actualización.
-ms.openlocfilehash: fd0201ce7ec5cb64809556c01ed27fabfd461f62
-ms.sourcegitcommit: 94b7247497c7498627f408aa6d08ea32b4af7eb0
+ms.openlocfilehash: cfd36039c62847e317eecfd5d66f1b26dfab75b5
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "51645042"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749098"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tamaños de descarga de las actualizaciones de Aplicaciones de Microsoft 365 
 
@@ -36,14 +36,23 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 
 [//]: # (NO ELIMINAR)
 
-[//]: # (NO ELIMINAR INICIO DEL CONTENIDO DE PREVISIÓN)
+## <a name="april-13-2021"></a>13 de abril de 2021
 
-## <a name="april-8-2021"></a>8 de abril de 2021
+[//]: # (NO ELIMINAR INFORMACIÓN DE CONTENIDO DE 13 de 2021)
+
+### <a name="current-channel"></a>Canal actual
+
+La versión más reciente es la versión 2103 (Compilación 13901.20400).
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 2103 (Compilación 13901.20336) <br/> |2 de abril de 2021 <br/> |65<br/> |
+|Versión 2103 (compilación 13901.20312) <br/> |30 de marzo de 2021 <br/> |284<br/> |
 
 
 ### <a name="monthly-enterprise-channel"></a>Canal mensual para empresas
 
-<i>La versión prevista es la versión 2102 (compilación 13801.20490).</i>
+La versión más reciente es la versión 2102 (Compilación 13801.20506).
 
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
@@ -53,7 +62,7 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 
 ### <a name="semi-annual-enterprise-channel-preview"></a>Canal semestral para empresas (versión preliminar)
 
-<i>La versión prevista es la versión 2102 (compilación 13801.20454).</i>
+La versión más reciente es la versión 2102 (Compilación 13801.20506).
 
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
@@ -63,7 +72,7 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 
 ### <a name="semi-annual-enterprise-channel"></a>Canal semestral para empresas
 
-<i>La versión prevista es la versión 2008 (compilación 13127.21474).</i>
+La versión más reciente es la versión 2008 (Compilación 13127.21506).
 
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
@@ -71,7 +80,10 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 |Versión 2008 (compilación 13127.21216) <br/> |9 de febrero de 2021 <br/> |62<br/> |
 
 
-[//]: # (NO ELIMINAR EL FINAL DEL CONTENIDO PREVISTO)
+[//]: # (NO QUITAR CONTENIDO ENDAp con información 13, 2021)
+
+
+
 
 ## <a name="april-2-2021"></a>2 de abril de 2021
 
