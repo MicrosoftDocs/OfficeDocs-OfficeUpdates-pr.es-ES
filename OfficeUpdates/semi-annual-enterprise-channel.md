@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones del canal semestral de Aplicaciones de Microsoft 365 en 2020.
-ms.openlocfilehash: 547700388de93effd6e2d1ced5c5b1d6a570bdc3
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: 3a6494983603abca6e2dceec2abe3001b07b54a3
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169619"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51748898"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>Notas de la versión para el canal semestral para empresas
 
@@ -29,6 +29,49 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 [//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+
+## <a name="version-2008-april-13"></a>Versión 2008: 13 de abril
+*Versión 2008 (compilación 13127.21506)*
+
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Hemos corregido un problema que causaba que algunos formatos de tabla dinámica dañaran el libro al guardar en formato .xls o .xlt.
+
+
+- Hemos corregido un problema por el que se muestran de forma inesperada algunas notas al abrir un libro.
+
+
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema que causaba que los usuarios que tienen buzones compartidos o delegados con jerarquías grandes en su perfil sufriesen bloqueos.
+
+
+- Hemos corregido un problema por el que algunos usuarios experimentaban un cierre inesperado al sincronizar su buzón.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Hemos corregido un problema por el que las aplicaciones de Office no respondían después de crear una tarjeta personal y navegar a otra aplicación.
+
+
+### <a name="word"></a>Word
+
+- Solucionado un problema por el que el botón integrado Etiqueta de confidencialidad aparecía atenuado al guardar un documento de Word y volver a abrirlo.
+
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL )
+
+## <a name="version-2002-april-13"></a>Versión 2002: 13 de abril
+*Versión 2002 (compilación 12527.21814)*
+
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2008-march-09"></a>Versión 2008: 09 de marzo
 *Versión 2008 (compilación 13127.21348)*
@@ -192,7 +235,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 
 - **Unirse a reuniones sin salir de la bandeja de entrada:** no es necesario cambiar al calendario para unirse a reuniones en línea. Con el calendario anclado en el panel de To-Do, las cuentas de usuario hospedadas en Exchange Server 2019 o Exchange Online pueden unirse a cualquier reunión con un solo clic. [Más información](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
-- **Nueva experiencia para redes WiFi cautivas:** ¿alguna vez se ha unido a una red WiFi que requiere una página web para iniciar sesión? Outlook ahora lo detecta y le ayuda a estar conectado.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)
+- **Nueva experiencia para redes WiFi cautivas:** ¿alguna vez se ha unido a una red WiFi que requiere una página web para iniciar sesión? Outlook ahora lo detecta y le ayuda a estar conectado.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/outlook-on-public-wi-fi-networks-just-got-easier)
 
 - **Obtener sugerencias de correo electrónico cuando busca un contacto:** cuando escriba el nombre de una persona en el cuadro de búsqueda, se incluirán los mensajes de correo electrónico más relevantes con las sugerencias de búsqueda. [Más información](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
@@ -1811,7 +1854,7 @@ Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-securit
 
 - Corrige un problema que provocaba que los usuarios tuvieran problemas al intentar sincronizar carpetas del calendario compartido con el OST, lo que producía errores en los permisos al tratar de interactuar con estas carpetas.
 
-- Se ha corregido un problema que causaba que los usuarios sufrieran un error al visualizar más de 30 calendarios en un entorno Citrix. Aquí está el [KB individual, donde se ha documentado esto para versiones anteriores](https://support.microsoft.com/en-us/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
+- Se ha corregido un problema que causaba que los usuarios sufrieran un error al visualizar más de 30 calendarios en un entorno Citrix. Aquí está el [KB individual, donde se ha documentado esto para versiones anteriores](https://support.microsoft.com/es-ES/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
 
 - Corrige un problema con la selección de algoritmos SMIME.
 
@@ -2689,6 +2732,7 @@ Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-securit
 
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|DC|Producción| |16.0.13127.21506|versión-2008-abril-13|)
 [//]: # (|Win32|DC|Producción| |16.0.13127.21348|versión-2008-marzo-09|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21216|version-2008-february-09|)
 [//]: # (| Win32 | CC | Producción | | 16.0.13127.21064 | versión-2008-enero-12 |)
