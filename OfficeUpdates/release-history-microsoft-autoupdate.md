@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales informáticos un historial de versiones de Microsoft AutoUpdate (MAU).
-ms.openlocfilehash: c9d16f2c221612969ec5a7cfb08c2022d287ea7c
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: f2b3bd46a71708c9444265c5dbf33fbe3b9b5cb2
+ms.sourcegitcommit: cf8d286b8fb825e19d8730c011d53e98156b6646
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169719"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51755412"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historial de versiones de Microsoft AutoUpdate (MAU)
  
@@ -30,6 +30,23 @@ En la siguiente tabla, se proporciona información del historial de versiones de
 
 Para ver las notas de la versión, consulte [Notas de la versión.](release-notes-office-for-mac.md)<br/><br/>
 
+## <a name="april-2021-release"></a>Versión de abril de 2021
+
+**Fecha de lanzamiento:** 13 de abril de 2021
+
+*Microsoft AutoUpdate 4.34*
+
+**Correcciones de errores y mejoras:**
+- Las sutiles "Notificaciones de insignia" ahora indicarán la disponibilidad de actualización, en lugar de la típica notificación del sistema operativo, para los usuarios en modo de actualización manual.
+
+[Descargar el paquete de Microsoft AutoUpdate 4.34](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.34.21041102_Updater.pkg)<br/>
+<br/>
+**SHA-256 Hash:**
+
+98C6821D939A3FA78BE21B11919625A48EAE2A3CC87CB104BF06637D9B850D9C
+
+<br/><br/>
+
 ## <a name="march-2021-release"></a>Versión de marzo de 2021.
 
 **Fecha de lanzamiento:** 17 de marzo de 2021
@@ -44,7 +61,11 @@ Para ver las notas de la versión, consulte [Notas de la versión.](release-note
 
 [Descargar el paquete de Microsoft AutoUpdate 4.33](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.33.21031401_Updater.pkg)<br/>
 <br/>
-**Hash SHA-256:** 8B851FD35B8172AB3220592E68ABCD6C302A55336FD7E9F8B5511683B372E7E1
+**SHA-256 Hash:**
+
+ 8B851FD35B8172AB3220592E68ABCD6C302A55336FD7E9F8B5511683B372E7E1
+
+<br/><br/>
 
 ## <a name="february-2021-release"></a>Versión de febrero de 2021
 
@@ -63,6 +84,8 @@ Para ver las notas de la versión, consulte [Notas de la versión.](release-note
 **Hash SHA-256:**
 
 CCB758531B295848620C703957FD8CF3C7F1555C334FB320C4BB682ABA0261D6
+
+<br/><br/>
 
 ## <a name="january-2021-release"></a>Versión de enero de 2021
 
@@ -262,7 +285,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 - Los equipos Mac OS con SSD experimentarán actualizaciones más rápidas y un tiempo de inactividad insignificante de la aplicación debido a las actualizaciones.
 
 
-Consulte [CVE-2020-0984](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0984)
+Consulte [CVE-2020-0984](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-0984)
 
 **SHA-256 Hash:**
 

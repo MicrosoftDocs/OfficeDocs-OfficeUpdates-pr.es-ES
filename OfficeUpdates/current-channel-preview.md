@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporcionar a los participantes del Modo aplazado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos
-ms.openlocfilehash: 3a4c7fc2424a4a2d0c05beab9a7c874096247029
-ms.sourcegitcommit: 9151363a4105d6d5b3e1cd79ec9e6bc9b6a8e44c
+ms.openlocfilehash: 33c05c859974d8ce27d3c21960b89b4fde20ee4b
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/03/2021
-ms.locfileid: "51582086"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749068"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notas de la versión del canal actual de Office (versión preliminar)
 
@@ -30,6 +30,44 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 [//]: # (NO ELIMINAR)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+## <a name="version-2103-april-10"></a>Versión 2103: 10 de abril
+*Versión 2103 (Compilación 13901.20400)*
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Se ha corregido un posible problema de contención de recursos en palabras mientras se dibujaba una imagen.
+
+### <a name="outlook"></a>Outlook
+
+- Hemos corregido un problema que causaba que los usuarios vieran por error un mensaje de "Esto puede tardar un poco" mientras añadían algún elemento a un calendario.
+
+- Hemos solucionado un problema que hacía que los delegados aparecieran como organizadores de reuniones creadas en calendarios recién añadidos.  Las reuniones en este estado no aparecían en el calendario del principal.
+
+- Se ha corregido un posible problema de contención de recursos en palabras mientras se dibujaba una imagen.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha corregido un posible problema de contención de recursos en palabras mientras se dibujaba una imagen.
+
+### <a name="word"></a>Word
+
+- Se ha corregido un posible problema de contención de recursos en palabras mientras se dibujaba una imagen.
+
+- Se ha corregido un problema no dinámico en la vista previa de impresión.
+
+- Texto actualizado en la llamada de autoguardado para los archivos guardados localmente.
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Se ha corregido el problema del cambio de nombre cuando se abría un archivo SyncBacked fuera de línea y se le cambiaba el nombre en la aplicación antes de guardarlo.
+
+
+
+[//]: # (NO QUITAR LOS DETALLES DE ERROR DE FIN DE CONTENIDO)
 
 ## <a name="version-2103-april-02"></a>Versión 2103: 02 de abril
 *Versión 2103 (Compilación 13901.20336)*
@@ -2257,7 +2295,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 
 
 
-[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR LOS DETALLES DE ERROR DE FIN DE CONTENIDO)
 
 ## <a name="version-2007-august-05"></a>Versión 2007: 05 de agosto
 *Versión 2007 (compilación 13029.20344)*
@@ -3189,7 +3227,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 
 
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
+[//]: # (NO ELIMINAR LOS DETALLES DEL CONTENIDO FINAL)
 
 ## <a name="version-2004-april-21"></a>Versión 2004: 21 de abril
 *Versión 2004 (compilación 12730.20182)*

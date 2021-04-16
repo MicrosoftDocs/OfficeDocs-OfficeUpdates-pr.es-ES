@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones del canal semestral (dirigido) de Aplicaciones de Microsoft 365 en 2020.
-ms.openlocfilehash: 6fdea7518be03546ba6bd761c88634da3b29d071
-ms.sourcegitcommit: 63637fc22e4a2df0000612e8b4d51a29af7fb6e5
+ms.openlocfilehash: d6c48db35445d15503c246506bc7d03da3ca0548
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51196739"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51748968"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>Notas de la versión para el canal semestral para empresas (vista previa)
 
@@ -24,7 +24,75 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 > Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](/DeployOffice/update-channels-changes) para más información.
 
 
-## <a name="version-2102-march-09"></a>Versión 2102: 09 de marzo
+## <a name="version-2102-april-13"></a>Versión 2102: 13 de abril
+*Versión 2102 (Compilación 13801.20506)*
+
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="access"></a>Access
+
+- Se ha corregido un problema por el que al ejecutar una consulta que pasara por SQL Server, se mostraba en algunos casos un mensaje de error que alertaba de un "estado de cursor no válido".
+
+
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema por el que los comandos deshabilitados de la cinta de opciones de Office tenían el icono (pero no el texto) atenuado en el tema de Office Gris oscuro.
+
+
+- Hemos corregido un problema en el que la validación de datos se podía aplicar a celdas de forma inesperada después de añadir filas a una tabla o a otra hoja.
+
+
+- Hemos corregido un problema donde la función de mostrar DialogSheets no funcionaba en la versión de 32 bit de Excel.
+
+
+### <a name="outlook"></a>Outlook
+
+- Hemos corregido un problema que provocaba que Outlook se bloquease cuando estaba inactivo.
+
+
+- Hemos corregido un problema que causaba que los usuarios de la característica Configuración de la nube vieran que se reemplazaba la configuración personalizada por la configuración predeterminada después de configurar Outlook en un nuevo dispositivo.
+
+
+- Hemos corregido un problema que provocaba que los usuarios vieran más firmas de las esperadas.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha corregido un problema por el que los comandos deshabilitados de la cinta de opciones de Office tenían el icono (pero no el texto) atenuado en el tema de Office Gris oscuro.
+
+
+### <a name="word"></a>Word
+
+- Se ha corregido un problema por el que los comandos deshabilitados de la cinta de opciones de Office tenían el icono (pero no el texto) atenuado en el tema de Office Gris oscuro.
+
+
+- Se ha corregido un problema con copiar y pegar.
+
+
+- Hemos corregido un problema con la escritura al final de un párrafo oculto que podía provocar que la aplicación dejara de funcionar.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Se ha corregido un problema por el que los usuarios no podían guardar un archivo al abrirlo, realizar modificaciones sin guardar y eliminarlo. Después de la corrección, los usuarios recibirán un mensaje descriptivo para informarles de que el archivo se ha eliminado, de modo que podrán descartar cambios o usar la opción Guardar como.
+
+
+- Se ha corregido el problema del cambio de nombre cuando se abría un archivo SyncBacked fuera de línea y se le cambiaba el nombre en la aplicación antes de guardarlo.
+
+
+- Se ha corregido un problema que impedía la opción Dictado para usuarios de GCC.
+
+
+- Se ha corregido un problema que a veces provocaba que el texto en Outlook se viera transparente y no fuera legible.
+
+
+[//]: # (NO QUITAR LOS DETALLES DE ERROR DE FIN DE CONTENIDO)
+
+## <a name="version-2102-march-09"></a>Versión 2102: 9 de marzo
 *Versión 2102 (Compilación 13801.20294)*
 
 Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
@@ -45,7 +113,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 
 - **Obtenga datos de organización de Power BI mediante tipos de datos:** los tipos de datos de Excel de Power BI se están publicando ahora para participantes de Insider en las organizaciones con Office 365 o Microsoft 365 y el plan de servicio Power BI Pro. Obtener la información que necesita y actualizarla fácilmente es fundamental para muchos de los flujos de trabajo diarios. Le proporcionamos acceso a la información de Power BI de su empresa u organización como un tipo de datos en Excel, lo que amplía su capacidad de incorporar a las hojas de cálculo información vinculada. [Más información](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
-- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
 
 - **Crear diagramas de Visio elegantes en Excel:** cree diagramas basados en datos como diagramas de flujo u organigramas a partir de datos en una hoja de cálculo. [Más información](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
@@ -57,13 +125,13 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 
 - **Crear sondeos en Outlook con Sondeo rápido:** cree sondeos, recopile votos y vea los resultados rápidamente en un solo correo electrónico [Más información](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
-- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
 
 - **Nuevo buscador de salas:** búsqueda de salas de conferencias por distintas funcionalidades.
 
 - **Búscalo tal y como tú lo dirías:** Usa un lenguaje cotidiano como "cita con el veterinario de la semana pasada" para filtrar y limitar la búsqueda.
 
-- **Opción para volver a abrir rápidamente los elementos de la sesión anterior de Outlook:** hemos agregado una opción para volver a abrir rápidamente los elementos de una sesión anterior de Outlook.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/automatically-restore-windows-in-outlook)
+- **Opción para volver a abrir rápidamente los elementos de la sesión anterior de Outlook:** hemos agregado una opción para volver a abrir rápidamente los elementos de una sesión anterior de Outlook.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/automatically-restore-windows-in-outlook)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -71,7 +139,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 
 - **Guardar en carpetas fijadas:** anclar las carpetas facilita el almacenamiento de archivos de Office.  Recibimos un comentario en el que se nos informa de que los usuarios desean tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. [Más información](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
-- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="visio"></a>Visio
 
@@ -83,7 +151,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 
 - **Guardar en carpetas fijadas:** anclar las carpetas facilita el almacenamiento de archivos de Office.  Recibimos un comentario en el que se nos informa de que los usuarios desean tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. [Más información](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
-- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="office-suite"></a>Conjunto de aplicaciones de Office
 
@@ -689,7 +757,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 
 - Se ha corregido un problema que provocaba que los encabezados de mensajes en chino fueran ilegibles al responder o reenviar.
 
-- Se ha corregido un problema por el que las experiencias opcionales conectadas bloqueaban la carga de los complementos web.  <br />Ver detalles en la [entrada de blog](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
+- Se ha corregido un problema por el que las experiencias opcionales conectadas bloqueaban la carga de los complementos web.  <br />Ver detalles en la [entrada de blog](https://developer.microsoft.com/es-ES/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -827,7 +895,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 
 - **Unirse a reuniones sin salir de la bandeja de entrada:** no es necesario cambiar al calendario para unirse a reuniones en línea. Con el Calendario de Outlook anclado en el panel de tareas pendientes, únase a una reunión con un solo clic. [Más información](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
-- **Nueva experiencia para redes WiFi cautivas:** ¿alguna vez se ha unido a una red WiFi que requiere una página web para iniciar sesión? Outlook ahora lo detecta y le ayuda a estar conectado.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)
+- **Nueva experiencia para redes WiFi cautivas:** ¿alguna vez se ha unido a una red WiFi que requiere una página web para iniciar sesión? Outlook ahora lo detecta y le ayuda a estar conectado.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/outlook-on-public-wi-fi-networks-just-got-easier)
 
 - **Obtener sugerencias de correo electrónico cuando busca un contacto:** cuando escriba el nombre de una persona en el cuadro de búsqueda, se incluirán los mensajes de correo electrónico más relevantes con las sugerencias de búsqueda. [Más información](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
@@ -1395,7 +1463,8 @@ Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-securit
 
 - **Escriba una fórmula que devuelva varios valores:** Escriba rápidamente una fórmula que devuelva múltiples valores y se derramarán automáticamente en las celdas vecinas. [Más información](https://support.microsoft.com/en-us/office/new-array-functions-003df6c7-1dcb-4388-8e2e-0fe77a0887bc?ui=en-us&rs=en-us&ad=us)
 - **Seis potentes funciones:** Seis potentes funciones: Hemos agregado seis nuevas funciones para mejorar las hojas de cálculo: FILTRAR, ORDENAR, ORDENARPOR, UNICOS, SECUENCIA y MATRIZALEAT.  [Más información](https://support.microsoft.com/en-us/office/easier-array-formulas-5c2c9cbb-def8-409a-b380-2fbf91b20aa3?ui=en-us&rs=en-us&ad=us)
-- **Busque a la izquierda, busque a la derecha... BUSCARX ya está aquí**: fila por fila, busque lo que necesite en una tabla o un rango con BUSCARX.  [Más información](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
+- **Busque a la izquierda, busque a la derecha... BUSCARX ya está aquí**: fila por fila, busque lo que necesite en una tabla o un rango con BUSCARX.  
+  [Más información](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
@@ -1876,6 +1945,7 @@ Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-securit
 
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|FRDC|Insiders| |16.0.13801.20506|version-2102-abril-13|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20294|versión-2102-marzo-09|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.21216|versión-9-febrero-2008|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.21064|versión-12-enero-2008|)

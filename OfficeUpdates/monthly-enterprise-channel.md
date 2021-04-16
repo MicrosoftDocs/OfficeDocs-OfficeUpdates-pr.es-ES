@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de empresa para Aplicaciones de Microsoft 365 en 2020
-ms.openlocfilehash: 34bbcb4700033ba2668b9766d053362424dcf356
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: a421baae65ac9b6b6858da370b64fe18a11995af
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169729"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749178"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Notas de la versión para las versiones de canal de empresa mensual en 2020
 
@@ -26,6 +26,157 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 [//]: # (NO ELIMINAR)
 
 
+
+## <a name="version-2102-april-13"></a>Versión 2102: 13 de abril
+*Versión 2102 (Compilación 13801.20506)*
+
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Usar el cuadro de diálogo Opciones avanzadas para crear tipos de datos:** el cuadro de diálogo Opciones avanzadas le permite seleccionar manualmente las columnas que combinan el tipo de datos que está creando.
+
+- **Mostrar varias hojas de cálculo al mismo tiempo:** no es necesario que se muestren las hojas de una en una, ya que se pueden mostrar varias hojas ocultas al mismo tiempo. [Más información](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+
+
+### <a name="outlook"></a>Outlook
+
+- **La configuración de la bandeja de entrada prioritaria permanece igual en todos los dispositivos:** ahora, las preferencias de la Bandeja de entrada Prioritarios se almacenan en la nube. Disfrute de la misma experiencia al usar Outlook para Windows en cualquier equipo y Outlook en la Web. [Más información](https://support.office.com/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
+
+- **Su configuración de Outlook en la nube:** elija la configuración de Outlook para Windows, como Respuestas automáticas, la Bandeja de entrada Prioritarios y Privacidad, y acceda a ellos desde cualquier PC.
+
+- **Elija dónde buscar:** La nueva lista desplegable del ámbito de búsqueda le permite modificar de manera más sencilla su búsqueda y cambiar entre la carpeta actual y el buzón actual. Gracias a todos los usuarios de Próximamente, quienes brindaron comentarios acerca de la nueva experiencia de búsqueda Search at Top. ¡Este diseño y actualización son el resultado de sus comentarios!
+
+- **Escriba mensajes con su voz:** use la nueva barra de herramientas de dictado, los comandos de voz, la puntuación automática y mucho más para redactar mensajes.
+
+### <a name="word"></a>Word
+
+- **Escriba documentos con su voz:** use la nueva barra de herramientas de dictado, los comandos de voz, la puntuación automática para redactar documentos.
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="access"></a>Access
+
+- Se ha corregido un problema por el que al ejecutar una consulta que pasara por SQL Server, se mostraba en algunos casos un mensaje de error que alertaba de un "estado de cursor no válido".
+
+
+- Hemos corregido un problema por el que los usuarios estaban recibiendo el cuadro de diálogo de error "Estado de cursor no válido".
+
+
+### <a name="excel"></a>Excel
+
+- Hemos corregido un error en el que la validación de datos se podía aplicar a celdas de forma inesperada después de añadir filas a una tabla o a otra hoja.
+
+
+- Hemos corregido un problema donde la función de mostrar DialogSheets no funcionaba en la versión de 32 bit de Excel.
+
+
+- Hemos corregido un problema que hace que las imágenes fueran más pequeñas de lo esperado al usar la opción Pegar imagen vinculada.
+
+
+- Hemos corregido un problema que causaba que algunos formatos de tabla dinámica dañaran el libro al guardar en formato .xls o .xlt.
+
+
+- Hemos corregido un problema que impedía a los usuarios exportar un libro de Excel a PDF.
+
+
+- Se ha corregido un problema por el que los comandos deshabilitados de la cinta de opciones de Office tenían el icono (pero no el texto) atenuado en el tema de Office Gris oscuro.
+
+
+### <a name="outlook"></a>Outlook
+
+- Hemos corregido un problema que causaba que los usuarios de traducción directa no pudieran enviar comentarios.
+
+
+- Hemos corregido un problema que provocaba que las firmas con contenido Unicode se dañasen.
+
+
+- Hemos corregido un problema que provocaba que los usuarios vieran más firmas de las esperadas.
+
+
+- Hemos corregido un problema que provocaba que Outlook se bloquease cuando estaba inactivo.
+
+
+- Hemos corregido un problema que causaba que la app se cerrase para algunos usuarios al cerrar las ventanas de mensaje.
+
+
+- Hemos corregido un problema que causaba que los usuarios de las mejoras del calendario compartido no pudieran establecer el color de un calendario en amarillo o marrón.
+
+
+- Hemos corregido el problema que causaba que los usuarios viesen grupos de calendario duplicados después de crear un grupo.
+
+
+- Hemos corregido un problema por el que los usuarios no veían los calendarios agregados recientemente en el panel de navegación si no reiniciaban Outlook.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha corregido un problema por el que los comandos deshabilitados de la cinta de opciones de Office tenían el icono (pero no el texto) atenuado en el tema de Office Gris oscuro.
+
+
+### <a name="word"></a>Word
+
+- Hemos corregido un problema relacionado con la resolución de conflictos durante la coautoría.
+
+
+- Hemos corregido un problema con los controles de contenido de texto enriquecido.
+
+
+- Hemos corregido un problema con la escritura al final de un párrafo oculto que podía provocar que la aplicación dejara de funcionar.
+
+
+- Hemos corregido un problema por el que el Narrador podía omitir un párrafo.
+
+
+- Se ha corregido un problema con copiar y pegar.
+
+
+- Se ha corregido un problema con los colores aplicados a los iconos y a los gráficos SVG con efectos 3D.
+
+
+- Se ha corregido un problema por el que los comandos deshabilitados de la cinta de opciones de Office tenían el icono (pero no el texto) atenuado en el tema de Office Gris oscuro.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Se ha corregido un problema de confiabilidad relacionado con la compatibilidad de las aplicaciones de Office que se ejecutan en la sesión 0.
+
+
+- Se ha corregido un problema que a veces provocaba que el texto en Outlook se viera transparente y no fuera legible.
+
+
+- Se ha corregido un problema al usar Narrador en un texto que contiene ecuaciones matemáticas.
+
+
+- Se ha corregido un problema al usar Narrador en un texto que contiene ecuaciones matemáticas.
+
+
+- Se ha corregido un problema que impedía la opción Dictado para usuarios de GCC.
+
+
+- Se ha corregido un problema por el que los usuarios no podían guardar un archivo al abrirlo, realizar modificaciones sin guardar y eliminarlo. Después de la corrección, los usuarios recibirán un mensaje descriptivo para informarles de que el archivo se ha eliminado, de modo que podrán descartar cambios o usar la opción Guardar como.
+
+
+- Se ha corregido el problema del cambio de nombre cuando se abría un archivo SyncBacked fuera de línea y se le cambiaba el nombre en la aplicación antes de guardarlo.
+
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL )
+
+## <a name="version-2101-april-13"></a>Versión 2101: 13 de abril
+*Versión 2101 (Compilación 13628.20664)*
+
+Las actualizaciones de seguridad se enumeran [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2101-march-09"></a>Versión 2101: 9 de enero
 *Versión 2101 (Compilación 13628.20528)*
@@ -91,6 +242,22 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 
 Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-security-updates.md)
 
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Requerir que los usuarios apliquen etiquetas de confidencialidad:** Se pedirá a los usuarios que apliquen una etiqueta de confidencialidad si la directiva de su organización lo requiere.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Requerir que los usuarios apliquen etiquetas de confidencialidad:** Se pedirá a los usuarios que apliquen una etiqueta de confidencialidad si la directiva de su organización lo requiere.
+
+### <a name="word"></a>Word
+
+- **Requerir que los usuarios apliquen etiquetas de confidencialidad:** Se pedirá a los usuarios que apliquen una etiqueta de confidencialidad si la directiva de su organización lo requiere.
+
+
 ## <a name="version-2012-february-09"></a>Versión 2012: 09 de febrero
 *Versión 2012 (compilación 13530.20528)*
 
@@ -124,9 +291,12 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 
 - **Nuevo buscador de salas:** búsqueda de salas de conferencias por distintas funcionalidades.
 
+- **Nueva experiencia de reserva de sala de conferencias y área de trabajo:** se ha actualizado la experiencia de reserva de la sala de conferencias y, con ella, hemos agregado funcionalidades para permitirle programar áreas de trabajo individuales.
+
+
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Compatibilidad con el portapapeles SVG:** ahora puede pegar contenido SVG de Office en aplicaciones de terceros. [Más información](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Ver detalles en [entrada de blog](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)
+- **Compatibilidad con el portapapeles SVG:** ahora puede pegar contenido SVG de Office en aplicaciones de terceros. [Más información](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Ver detalles en [entrada de blog](https://insider.office.com/es-ES/blog/svg-content-office-third-party-apps)
 
 - **Registro de auditoría de etiquetas de confidencialidad:** cuando los usuarios aplican, cambian o quitan etiquetas de confidencialidad en sus documentos y correos electrónicos, esa información está ahora disponible para los administradores en los registros de auditoría de Microsoft 365.
 
@@ -384,7 +554,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 
 - **Exportar GIF animado en un rango:** seleccione un intervalo de diapositivas cuando exporte a GIF animado
 
-- **Crear GIF con fondos transparentes:** cuando se exporta a un GIF animado, una nueva opción permite que el fondo sea transparente.<br />Ver detalles en la [entrada de blog](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)
+- **Crear GIF con fondos transparentes:** cuando se exporta a un GIF animado, una nueva opción permite que el fondo sea transparente.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/export-animated-gifs-transparent-backgrounds)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
@@ -629,7 +799,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 - Se ha corregido un problema que provocaba que los usuarios no pudieran conceder permisos de editor a los delegados.
 
 
-- Se ha corregido un problema por el que las experiencias opcionales conectadas bloqueaban la carga de los complementos web.<br />Ver detalles en la [entrada de blog](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
+- Se ha corregido un problema por el que las experiencias opcionales conectadas bloqueaban la carga de los complementos web.<br />Ver detalles en la [entrada de blog](https://developer.microsoft.com/es-ES/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -679,11 +849,11 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Guardar en carpetas fijadas:** anclar las carpetas facilita el almacenamiento de archivos de Office.  Recibimos un comentario en el que se nos informa de que los usuarios desean tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. [Más información](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Guardar en carpetas fijadas:** anclar las carpetas facilita el almacenamiento de archivos de Office.  Recibimos un comentario en el que se nos informa de que los usuarios desean tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. [Más información](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 ### <a name="word"></a>Word
 
-- **Guardar en carpetas fijadas:** anclar las carpetas facilita el almacenamiento de archivos de Office.  Recibimos un comentario en el que se nos informa de que los usuarios desean tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. [Más información](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Guardar en carpetas fijadas:** anclar las carpetas facilita el almacenamiento de archivos de Office.  Recibimos un comentario en el que se nos informa de que los usuarios desean tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. [Más información](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
@@ -1210,7 +1380,7 @@ Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-securit
 
 - **El calendario se transforma:** vea las actualizaciones visuales que hacen que el calendario sea más fácil de examinar. [Más información](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)
 
-- **Nuevas imágenes para dar vida a sus mensajes:** miles de imágenes de archivo, iconos y adhesivos sin derechos de autor que puede usar en sus mensajes de correo electrónico. Vaya a Insertar > Imágenes > Imágenes de archivo para empezar. [Más información](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
+- **Nuevas imágenes para dar vida a sus mensajes:** miles de imágenes de archivo, iconos y adhesivos sin derechos de autor que puede usar en sus mensajes de correo electrónico. Vaya a Insertar > Imágenes > Imágenes de archivo para empezar. [Más información](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -1218,13 +1388,13 @@ Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-securit
 
 - **Sincronice los cambios mientras realiza la presentación:** sincronice los cambios cuando se hagan aunque la presentación esté en el modo de presentación con diapositivas. [Más información](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)
 
-- **Nuevas imágenes para dar vida a sus diapositivas:** miles de imágenes de archivo, iconos y adhesivos sin derechos de autor que puede usar en sus diapositivas. Vaya a Insertar > Imágenes > Imágenes de archivo para empezar. [Más información](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
+- **Nuevas imágenes para dar vida a sus diapositivas:** miles de imágenes de archivo, iconos y adhesivos sin derechos de autor que puede usar en sus diapositivas. Vaya a Insertar > Imágenes > Imágenes de archivo para empezar. [Más información](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
 
 ### <a name="word"></a>Word
 
 - **Selección de lazo de la entrada de lápiz:** la herramienta Lazo en la pestaña Dibujar le ayuda a seleccionar objetos dibujados a mano. Seleccione trazos individuales o palabras completas. [Más información](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
-- **Elija el color perfecto:** use códigos de colores hexadecimales para elegir exactamente el color que desea para la fuente, el resaltado de texto, etc.<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)
+- **Elija el color perfecto:** use códigos de colores hexadecimales para elegir exactamente el color que desea para la fuente, el resaltado de texto, etc.<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)
 
 - **Nuevas imágenes para dar vida a sus documentos:** miles de imágenes de archivo, iconos y adhesivos sin derechos de autor que puede usar en sus documentos. Vaya a Insertar > Imágenes > Imágenes de archivo para empezar. [Más información](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
 
@@ -1242,7 +1412,7 @@ Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-securit
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="excel"></a>Excel
 
-- Se ha corregido un problema que hacía que el vínculo externo dejara de funcionar después de que se volviera a abrir el archivo si su ruta de acceso era demasiado larga.
+- Se ha corregido un problema que hacía que el vínculo externo dejara de funcionar después de que se volviera a abrir un archivo si su ruta de acceso era demasiado larga.
 
 - Application.Evaluate (VBA) no funcionaba para funciones definidas por el usuario en algunos casos.
 
@@ -1433,7 +1603,7 @@ Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-securit
 - Corregido un problema que hace que el evento ProjectBeforeTaskChange no detecte cuándo se ha desactivado o activado una tarea mediante el botón Desactivar.
 
 
-- Corregido un problema por el que Project puede bloquearse al guardar proyectos creados con versiones anteriores de Project.
+- Corregido un problema por el que Project podía bloquearse al guardar proyectos creados con versiones anteriores de Project.
 
 
 - Se corrigió un problema por el que el usuario no podía especificar el trabajo previsto con fases temporales al activar la configuración para proteger el trabajo real.
@@ -1465,6 +1635,7 @@ Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-securit
 
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13801.20506|versión-2102-13-abril|)
 [//]: # (|Win32|MEC|Producción|Característica|16.0.13628.20528|version-2101-marzo-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13530.20528|version-2012-february-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13426.20526|version-2011-january-12|)

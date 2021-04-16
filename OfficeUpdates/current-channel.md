@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365 en 2020
-ms.openlocfilehash: e7f673d8a3fdee500c117e695103d27f6b3799e9
-ms.sourcegitcommit: 149b8409a33ff4411d296f8668f6da387f84f6bf
+ms.openlocfilehash: 6ee106d57832dbe2584c771f3b8eebc82f79aa97
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "51589892"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749088"
 ---
 # <a name="release-notes-for-current-channel"></a>Notas de la versión para el canal actual
 
@@ -32,6 +32,51 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+
+
+[//]: # (NO QUITAR LOS DETALLES DE ERROR DE FIN DE CONTENIDO)
+
+## <a name="version-2103-april-13"></a>Versión 2103: 13 de abril
+*Versión 2103 (Compilación 13901.20400)*
+
+Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Se ha corregido un posible problema de contención de recursos en palabras mientras se dibujaba una imagen.
+
+
+### <a name="outlook"></a>Outlook
+
+- Hemos corregido un problema que causaba que los usuarios vieran por error un mensaje de "Esto puede tardar un poco" mientras añadían algún elemento a un calendario.
+
+- Hemos solucionado un problema que hacía que los delegados aparecieran como organizadores de reuniones creadas en calendarios recién añadidos.  Las reuniones en este estado no aparecían en el calendario del principal.
+
+- Se ha corregido un posible problema de contención de recursos en palabras mientras se dibujaba una imagen.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha corregido un posible problema de contención de recursos en palabras mientras se dibujaba una imagen.
+
+
+### <a name="word"></a>Word
+
+- Se ha corregido un posible problema de contención de recursos en palabras mientras se dibujaba una imagen.
+
+- Se ha corregido un problema no dinámico en la vista previa de impresión.
+
+- Texto actualizado en la llamada de autoguardado para los archivos guardados localmente.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Se ha corregido el problema del cambio de nombre cuando se abría un archivo SyncBacked fuera de línea y se le cambiaba el nombre en la aplicación antes de guardarlo.
 
 
 
@@ -2293,6 +2338,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 > Si necesita ayuda con algún problema de uso de Office, le recomendamos que publique la pregunta en el [foro de preguntas de Microsoft](https://answers.microsoft.com/) o [Tech Community](https://techcommunity.microsoft.com/), o bien puede ponerse en contacto con el [servicio de soporte técnico](https://support.microsoft.com/contactus).
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|CC|Producción| |16.0.13901.20400|versión-2103-abril-13|)
 [//]: # (|Win32|CC|Producción| |16.0.13901.20336|versión-2103-marzo-30|)
 [//]: # (|Win32|CC|Producción| |16.0.13901.20312|versión-2103-marzo-30|)
 [//]: # (|Win32|CC|Producción| |16.0.13801.20360|versión-2102-marzo-18|)
@@ -2302,5 +2348,4 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 [//]: # (|Win32|DC|Production| |16.0.13628.20380|version-2101-february-09|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20274|version-2101-january-26|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20440|version-2012-january-21|)
-[//]: # (|Win32|CC|Production| |16.0.13530.20376|version-2012-january-12|)
 [//]: # (NO MODIFICAR EL FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
