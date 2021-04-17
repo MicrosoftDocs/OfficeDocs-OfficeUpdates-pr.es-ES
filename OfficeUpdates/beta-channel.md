@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los participantes del Modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos.
-ms.openlocfilehash: faa58be6a03ca68e8ee7bfe625b47c52befab241
-ms.sourcegitcommit: c98d5985df2d2a3079a995b4226f19145430898f
+ms.openlocfilehash: 41de7aa0968dedc82cf1dc9a3e1ebb2421ac53c0
+ms.sourcegitcommit: 674a79c70a4d83b9eddadaa70c56c0c4fb37fb5c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51662334"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "51875731"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de la versión para el canal beta
 
@@ -30,6 +30,29 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 [//]: # (NO ELIMINAR)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+## <a name="version-2105-april-16"></a>Versión 2105: 16 de abril
+*Versión 2105 (compilación 14007.20002)*
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Hemos corregido un problema que causaba que Excel se bloqueara al usar Office de 32 bits en Windows de 64 bits.
+
+
+- Hemos corregido un problema que causaba que Narrador leyese incorrectamente las propiedades de dos botones de la pestaña Encabezado y pie de página del cuadro de diálogo Configurar página.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Hemos corregido un problema relacionado con las imágenes vinculadas.
+
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
 
 ## <a name="version-2105-april-09"></a>Versión 2105: 09 de abril
 *Versión 2105 (compilación 14002.20000)*
@@ -2058,7 +2081,7 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 - Se ha corregido un problema por el que las marcas de tiempo en los paneles de comentarios no se basaban en la hora de la configuración regional del sistema.
 - Se ha corregido un problema por el que los comentarios entre la aplicación web y la aplicación de escritorio no estaban sincronizados.
 
-[//]: # (NO QUITAR LOS DETALLES DE ERROR DE FIN DE CONTENIDO)
+[//]: # (NO QUITAR EL CONTENIDO FINAL DE LOS DETALLES DE LOS ERRORES)
 
 
 ## <a name="version-2006-may-29"></a>Versión 2006: 29 de mayo
@@ -2819,6 +2842,7 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14007.20002|version-2105-april-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14002.20000|version-2105-april-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13929.20016|version-2104-april-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
@@ -2828,5 +2852,4 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 [//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|versión-2103-enero-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|versión-2103-enero-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-enero-12|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13801.20004|version-2102-february-05|)
 [//]: # (NO MODIFICAR EL FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
