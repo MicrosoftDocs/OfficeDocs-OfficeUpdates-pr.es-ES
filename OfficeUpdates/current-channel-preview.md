@@ -1,7 +1,7 @@
 ---
 title: Notas de la versión del canal actual (versión preliminar)
 ms.author: anankani
-author: v-lislo
+author: anankani
 manager: anankani
 ms.audience: Win32 Fast
 ms.topic: reference
@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporcionar a los participantes del Modo aplazado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos
-ms.openlocfilehash: 13bf5ee8022f586e051a49834c0a758b6e79dd92
-ms.sourcegitcommit: 674a79c70a4d83b9eddadaa70c56c0c4fb37fb5c
+ms.openlocfilehash: f269044898a11ba6f6a213c04c44261381c3fd9d
+ms.sourcegitcommit: ef9add331ddb9a0feef38ed54add52c6f891fa1a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "51875741"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "51887323"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notas de la versión del canal actual de Office (versión preliminar)
 
@@ -30,6 +30,154 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 [//]: # (NO ELIMINAR)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+## <a name="version-2104-april-19"></a>Versión 2104: 19 de abril
+*Versión 2104 (compilación 13929.20216)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Importar datos de matrices dinámicas:** ahora puede importar, dar forma y actualizar datos de matrices dinámicas en el libro actual. [Más información](https://support.office.com/article/205c6b06-03ba-4151-89a1-87a7eb36e531)
+
+### <a name="outlook"></a>Outlook
+
+- **Búsqueda de Calendario mejorada:** mejoras en la búsqueda de Calendario, la mayor de las cuales es la capacidad de encontrar más fácilmente la siguiente repetición de una serie en los resultados de búsqueda.
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="access"></a>Access
+
+- Este cambio corrige un problema por el que al ejecutar una consulta que pasara por SQL Server, se mostraba en algunos casos un mensaje de error que alertaba de un "estado de cursor no válido".
+
+
+- Hemos corregido un problema por el que, cuando una aplicación externa solicitaba una interfaz de accesibilidad, nos impedía cerrar hasta que se liberaba su referencia.
+
+
+### <a name="excel"></a>Excel
+
+- Hemos corregido un problema que bloqueaba la capacidad de pegar como fórmulas en una hoja protegida.
+
+
+- Hemos corregido un problema por el que los hipervínculos creados con la función HIPERVINCULO no funcionaban si el archivo se guardaba como un documento PDF.
+
+
+- Hemos corregido un problema que causaba que se agregara un símbolo de operador implícito (@) a la fórmula con una referencia a un intervalo vacío y proporcionara potencialmente un resultado incorrecto.
+
+
+### <a name="outlook"></a>Outlook
+
+- Hemos corregido un problema que causaba que algunos usuarios experimentasen un cierre inesperado de Outlook al sincronizar los cambios en la jerarquía de carpetas.
+
+
+- Hemos corregido un problema que causaba que los usuarios vieran por error un mensaje de "Esto puede tardar un poco" mientras añadían algún elemento a un calendario.
+
+
+- Hemos solucionado un problema que hacía que los delegados aparecieran como organizadores de reuniones creadas en calendarios recién añadidos.  Las reuniones en este estado no aparecían en el calendario del principal.
+
+
+- Hemos corregido un problema que provocaba que los usuarios experimentaran un bloqueo al buscar.
+
+
+- Hemos corregido un bloqueo relacionado con la búsqueda.
+
+
+- Hemos corregido un problema que provocaba que los usuarios vieran desaparecer las firmas de forma inesperada.
+
+
+- Hemos corregido un problema que podía provocar que los usuarios vieran el mensaje que indica que están redactando perder el foco de la interfaz de usuario.
+
+
+- Hemos corregido un problema que causaba que Outlook anulara las preferencias de la Bandeja de entrada Prioritarios configuradas en OWA.
+
+
+- Hemos corregido un problema que causaba que los usuarios de la característica Configuración de la nube vieran que se reemplazaba la configuración personalizada por la configuración predeterminada después de configurar Outlook en un nuevo dispositivo.
+
+
+- Hemos corregido un problema que causaba que algunas personas no pudieran tener acceso a las firmas asociadas con cuentas de correo secundarias.
+
+
+- Hemos corregido un problema que provocaba errores en la resolución de nombres al enviar en nombre de otro usuario y al resolver en una libreta de direcciones que no es la Lista global de direcciones.
+
+
+- Hemos corregido un problema que provocaba errores en la resolución de nombres al enviar en nombre de otro usuario y al resolver en una libreta de direcciones que no es la Lista global de direcciones.
+
+
+### <a name="project"></a>Project
+
+- Se ha corregido un problema por el que, si el formato de fecha es W4/4, el selector de fecha puede mostrar un día y un año incorrectos.
+
+
+### <a name="visio"></a>Visio
+
+- Se ha corregido un problema que provocaba que Visio dejara de funcionar durante el cierre.
+
+
+- Se ha corregido la característica "Buscar forma" para que se muestren todos los resultados
+
+
+
+### <a name="word"></a>Word
+
+- Con este error, Office no estaba respetando las directivas específicas (se mostraba un grupo de plantillas en la página principal cuando debían haber estado deshabilitadas). Con esta corrección, se respetan las directivas.
+
+
+- Al crear con coautoría un documento, el borrador activo no se borrará cuando se realicen cambios en el orden de los comentarios.
+
+
+- Se ha corregido un error en Comentarios modernos en el que los signos de puntuación y los números se mostraban en el lado incorrecto en algunos idiomas internacionales.
+
+
+- Se ha corregido un problema por el que la combinación de "B" y ")" se convertía automáticamente en el emoji con gafas de sol, y ahora permanecerá como los caracteres individuales
+
+
+- Texto actualizado en la llamada de autoguardado para los archivos guardados localmente.
+
+
+- Hemos corregido un problema con los comentarios durante la coautoría.
+
+
+- Hemos corregido un problema relacionado con el icono de comentario.
+
+
+- Se ha corregido un problema que hacía que los estilos copiados y pegados pudieran no ser iguales en el texto pegado.
+
+
+- Optimiza las condiciones para ofrecer previsiones de texto.
+
+
+- Hemos corregido un problema relacionado con los hipervínculos.
+
+
+- Algunos textos seleccionados no eran visibles al usar el tema modo oscuro en el modo Lectura.
+
+
+- Hemos corregido un problema con el Autoguardado.
+
+
+- Hemos corregido Application.OnTime donde puede que no se desencadene correctamente.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Se ha corregido un problema de rendimiento relacionado con la iteración de texto.
+
+
+- Soluciona un problema con el soporte técnico de GDI+ LineJoinMiterClipped en Office.
+
+
+- Esta versión mejora el control del contenido confidencial de línea cuando la palabra clave está en la primera línea de un documento.
+
+
+
+[//]: # (NO QUITAR LOS DETALLES DE ERROR DE FIN DE CONTENIDO)
 
 ## <a name="version-2103-april-13"></a>Versión 2103: 13 de abril
 *Versión 2103 (Compilación 13901.20400)*
@@ -2305,7 +2453,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 
 
 
-[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR LOS DETALLES DE ERROR DE FIN DE CONTENIDO)
 
 ## <a name="version-2007-august-05"></a>Versión 2007: 05 de agosto
 *Versión 2007 (compilación 13029.20344)*
@@ -3188,7 +3336,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 
 
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2004-april-29"></a>Versión 2004: 29 de abril
 *Versión 2004 (compilación 12730.20236)*
@@ -3237,7 +3385,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 
 
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
+[//]: # (NO ELIMINAR LOS DETALLES DEL CONTENIDO FINAL)
 
 ## <a name="version-2004-april-21"></a>Versión 2004: 21 de abril
 *Versión 2004 (compilación 12730.20182)*
