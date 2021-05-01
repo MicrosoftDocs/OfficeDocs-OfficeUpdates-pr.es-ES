@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los participantes del Modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos.
-ms.openlocfilehash: 3bd18b5fb95701778c948732cc506df182369f21
-ms.sourcegitcommit: 28baeef0385cacaa71288b5d0a00fb37b724b71b
+ms.openlocfilehash: bb14136d385d11187c26552bd61c321338ce2f36
+ms.sourcegitcommit: 544a3557e8dc8e332b9132a3219a6ca8e0306d19
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/24/2021
-ms.locfileid: "51995737"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "52108242"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de la versión para el canal beta
 
@@ -30,6 +30,92 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 [//]: # (NO ELIMINAR)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+## <a name="version-2105-april-30"></a>Versión 2105: 30 de abril
+*Versión 2105 (Compilación 14026.20000)*
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="outlook"></a>Outlook
+
+- **Sugerencia de productividad del Comprobador de accesibilidad al enviar correos electrónicos a usuarios externos de listas de distribución de gran tamaño:** Hemos agregado la funcionalidad para que mostrar automáticamente una notificación, mediante una información sobre correo, ante una infracción de accesibilidad al redactar un correo electrónico para grandes audiencias, usuarios externos, etc. Esta configuración se encuentra en Accesibilidad
+
+### <a name="visio"></a>Visio
+
+- **Formas y galerías de símbolos de AWS:** ahora tenemos galerías de símbolos con las formas de AWS más recientes para ayudarle a crear diagramas. [Más información](https://support.office.com/article/138206bf-d10f-4583-9f31-885ce706af49)
+
+### <a name="word"></a>Word
+
+- **Objetivos de escritura:** objetivos de escritura para WinWord
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Hemos corregido un problema que hacía que Excel se cerrara inesperadamente al desplazarse por los comentarios del panel Comentarios.
+
+
+- Hemos corregido un problema que causaba que el formato de fecha se mostrara de forma incorrecta en algunos idiomas al usar complementos.
+
+
+- Hemos corregido un problema que podía provocar que Excel se cerrara de forma inesperada al usar Pegado especial con formatos en determinadas situaciones.
+
+
+### <a name="project"></a>Project
+
+- Hemos corregido un problema que provocaba que los cambios realizados con los Asistentes para planificación no siempre se capturaran con eventos de cambio.
+
+
+- Hemos corregido un problema en el que los usuarios no podían quitar proyectos del grupo de recursos.
+
+
+### <a name="word"></a>Word
+
+- Hemos corregido un problema por el cual se conservaba el formato de texto después de quitar los hipervínculos.
+
+
+- Hemos corregido un problema que hacía que los comentarios no se mostraran después de filtrar por usuario.
+
+
+- Hemos corregido un problema que impedía a Word combinar correspondencia con una base de datos de Access.
+
+
+- Hemos corregido un problema que hacía que estuviera disponible la capacidad de contraer los márgenes de los documentos que contuvieran varias columnas.
+
+
+- Hemos corregido un problema que impedía que algunos caracteres se mostraran correctamente en las celdas de la tabla cuando había comentarios en el documento.
+
+
+- Hemos corregido un problema por el cual se producían los cambios en el formato de archivo al guardar documentos con el complemento AIP habilitado.
+
+
+- Hemos corregido un problema que hacía que Word no respondiera al editar campos.
+
+
+- Hemos corregido un problema por el cual no se solicitaba a los usuarios guardar documentos al usar un comando (en lugar del método abreviado de teclado CTRL+S).
+
+
+- Hemos corregido un problema por el que la etiqueta de confidencialidad desaparecía de un archivo en Word después de cargar el archivo en SharePoint Online.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Hemos corregido un problema que causaba que el botón de dictado estuviera mal alineado al agregar comentarios a un documento.
+
+
+- Hemos corregido un problema que causaba que Outlook se cerrara de forma inesperada al usar el modo de contraste alto durante largos períodos de tiempo.
+
+
+
+[//]: # (NO QUITAR FINAL DE CONTENIDO CON DETALLES DE ERROR)
 
 ## <a name="version-2105-april-23"></a>Versión 2105: 23 de abril
 *Versión 2105 (compilación 14014.20002)*
@@ -52,7 +138,7 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="excel"></a>Excel
 
-- Hemos corregido un problema para garantizar la compatibilidad con versiones anteriores de Excel. El problema puede provocar que un archivo que se guarda en una versión más reciente de Excel no se cargue correctamente en versiones anteriores de Excel debido a funciones como SI.ERROR y BUSCARX agregadas a Excel desde Office 2007.
+- Hemos corregido un problema para ofrecer compatibilidad con versiones anteriores de Excel. El problema puede provocar que un archivo que se guarda en una versión más reciente de Excel no se cargue correctamente en versiones anteriores de Excel debido a funciones como SI.ERROR y BUSCARX agregado a Excel desde Office 2007.
 
 
 - Hemos corregido un problema que en ocasiones producía errores al abrir algunos archivos en la Vista protegida.
@@ -1299,7 +1385,7 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 
 ### <a name="outlook"></a>Outlook
 
-- Se ha corregido un problema por el que la impresión rápida de los datos adjuntos de imagen provocaba un error "Windows no puede encontrar esta imagen. Compruebe la ubicación y vuelva a intentarlo ".
+- Se ha corregido un problema por el que la impresión rápida de los datos adjuntos de imagen provocaba un error “Windows no puede encontrar esta imagen. Compruebe la ubicación y vuelva a intentarlo”.
 
 
 - Se ha corregido un problema que provocaba que algunos usuarios vieran que Outlook se iniciaba en un estado sin conexión hasta que optaban manualmente por trabajar en línea.
@@ -1627,7 +1713,7 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 - Se corrigió un problema por el cual si abría un archivo que contiene la función LET, mostraba la alerta: "Encontramos un problema con el contenido en "su archivo.xlsx". ¿Quiere que intentemos recuperar todo lo que podamos? Si confía en el origen de este libro, haga clic en Sí".
 - Se corrigió un bloqueo relacionado con las referencias de complementos XLAM y los rangos con nombre.
 - Se corrigió un problema por el cual los usuarios no podían modificar un filtro de tabla dinámica porque estaba configurado en un valor que ya no estaba presente en una base de datos de Analysis Services.
-- Se corrigió un problema por el que si un usuario aplicaba un estilo personalizado a una matriz dinámica, obtenía el error: "No se puede cambiar parte de una matriz". Esta era una restricción heredada que se ha eliminado.
+- Se corrigió un problema por el que si un usuario aplicaba un estilo personalizado a una matriz dinámica, obtenía el error: "No se puede cambiar parte de una matriz". Se ha eliminado una restricción heredada.
 - Se corrigió un problema por el cual la barra de fórmulas de Excel no se mostraba completamente después de que se perdiera la conexión a un dispositivo, como una conexión o desconexión de sesión remota o un cambio de monitor.
 
 ### <a name="outlook"></a>Outlook
@@ -2014,7 +2100,7 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 ### <a name="outlook"></a>Outlook
 
 - Se ha corregido un problema por el que la ventana del Editor de métodos de entrada (IME) se superponía al texto subyacente escrito mediante el IME al utilizar varios monitores con resoluciones diferentes.
-- Se ha corregido un problema que provocaba que los usuarios vieran el siguiente error al cerrar una cita guardada previamente: "No se puede guardar el elemento porque otro usuario lo modificó o se modificó en otra ventana. ¿Quiere realizar una copia en la carpeta predeterminada del elemento?"
+- Se ha corregido un problema que provocaba que los usuarios vieran el siguiente error al cerrar una cita guardada previamente: "No se puede guardar el elemento porque otro usuario lo modificó o se modificó en otra ventana. ¿Quiere realizar una copia en la carpeta predeterminada del elemento?".
 - Se ha corregido un problema por el que las fechas del minicalendario no se podían mostrar en negrita para los usuarios de Japón.
 - Se ha corregido un problema que impedía que los avisos del calendario mostraran la hora exacta de las reuniones programadas para tener lugar en menos de una semana.
 
@@ -2305,7 +2391,7 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Cuente sus historias con GIF animados:** los GIF animados ahora son compatibles con el editor de Office: sus documentos han pasado a ser más elegantes. [Más información](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+- **Cuente sus historias con GIF animados:** los GIF animados ahora son compatibles con el editor de Office: sus documentos ahora son más elegantes. [Más información](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01).
 
 ### <a name="word"></a>Word
 
@@ -2396,7 +2482,7 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 - Se ha solucionado un problema por el que al pasar el ratón por encima del símbolo del asterisco (*) no aparecía el nombre de usuario y la fecha de la última persona que actualizó el documento.
 
 ### <a name="word"></a>Word
-- Al habilitar la opción "Mostrar marcadores" no se mostrarán los marcadores. Este error se ha corregido.
+- Al habilitar la opción "Mostrar marcadores" no se mostraban los marcadores. Este error se ha corregido.
 - Este cambio arregla un problema por el que el texto con hipervínculos puede no aparecer si la opción "Mostrar códigos de campo en lugar de sus valores" estaba activada.
 
 [//]: # (NO ELIMINAR LOS DETALLES DEL CONTENIDO FINAL)
@@ -2780,7 +2866,7 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 
 ### <a name="word"></a>Word
 - Se ha corregido un problema en el que las tarjetas con comentario no siempre se resaltan cuando se desplaza el puntero del mouse sobre la tarjeta del comentario.
-- Durante una sesión de coautoría de documentos activos, agregar una imagen directamente en una tarjeta de comentario puede dar como resultado la adición de una etiqueta. Este problema se ha corregido.
+- Durante una sesión de coautoría de documentos activos, puede que agregar una imagen directamente en una tarjeta de comentario dé como resultado la adición de una etiqueta. Este problema se ha corregido.
 
 ### <a name="office-suite"></a>Conjunto de aplicaciones de Office
 - Al usar las propiedades Multichoice/Lookup/Managed-metadata con documentos de Word/Excel/PowerPoint y guardar en una biblioteca de documentos de SharePoint, estas propiedades se limitaban anteriormente a 255 caracteres. Cuando estas propiedades superaban 255 caracteres, estos documentos no se podían guardar. Con este cambio, este límite se ha aumentado a 2048 caracteres.
@@ -2849,9 +2935,9 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
-### <a name="access"></a>Access
+### <a name="access"></a>Acceso
 
-- Esta actualización corrige un problema por el que al usar un objeto de grabación de ADODB en el código de VB, se puede notificar un error incorrectamente.
+- Esta actualización corrige un problema por el que al usar un objeto ADODB. Recorder en código de VB podía notificarse un error incorrectamente.
 
 - Esta actualización corrige un problema que puede hacer que Microsoft Access no identifique una Columna de identidad en una tabla vinculada de SQL Server, lo que puede provocar que las filas aparezcan como eliminadas de forma incorrecta.
 
@@ -2893,6 +2979,7 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14007.20002|version-2105-april-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14002.20000|version-2105-april-09|)
@@ -2902,5 +2989,4 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 [//]: # (|Win32|DevMain|Insiders| |16.0.13906.20000|version-2104-march-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|version-2103-marzo-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|versión-2103-enero-26|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|versión-2103-enero-19|)
 [//]: # (NO MODIFICAR EL FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)

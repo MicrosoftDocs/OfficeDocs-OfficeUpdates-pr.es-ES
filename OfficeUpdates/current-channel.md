@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365
-ms.openlocfilehash: da560e6b74afa2861304210c9c409510ffee1792
-ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
+ms.openlocfilehash: f187b3f58c9917470fdff4fe0ca2fd87e58fb8f0
+ms.sourcegitcommit: 544a3557e8dc8e332b9132a3219a6ca8e0306d19
 ms.translationtype: HT
 ms.contentlocale: es-ES
 ms.lasthandoff: 04/30/2021
-ms.locfileid: "52091799"
+ms.locfileid: "52108222"
 ---
 # <a name="release-notes-for-current-channel"></a>Notas de la versión para el canal actual
 
@@ -51,7 +51,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 - **Vista dinámica** la vista dinámica optimiza automáticamente el contenido compartido y los participantes de vídeo en las reuniones de Teams. Los nuevos controles le permiten personalizar la vista para adaptarla a sus preferencias y necesidades, como la capacidad de mostrar el contenido compartido y participantes específicos en paralelo.
 
-- **Fuera de la oficina:** configure un mensaje para avisar a otras personas de que no está trabajando o de que está de vacaciones, y que por lo tanto no está disponible para responder si le envían un mensaje de chat. Su estado Fuera de la oficina también se sincronizará con las Respuestas automáticas de su calendario de Outlook.
+- **Fuera de la oficina:** configure un mensaje para avisar a otras personas de que no está trabajando o de que está de vacaciones, y que por lo tanto no está disponible para responder si le envían un mensaje de chat. Su estado fuera de la oficina también se sincronizará con las Respuestas automáticas de su calendario de Outlook.
 
 ### <a name="visio"></a>Visio
 
