@@ -9,26 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los participantes del programa Insider el historial de actualizaciones de los lanzamientos del canal mensual dirigido de Office para versiones de escritorio de Windows
-ms.openlocfilehash: 1e09ae86978e5c0c9fa5ab54a560b51773ff2995
-ms.sourcegitcommit: 6a6a10d50664c552f2aea560d521265d2b0677d2
+ms.openlocfilehash: c64b0ec90f075b979d9af44e3be044c1b1874caa
+ms.sourcegitcommit: 6094aae42629433b8b7336cb2f6ac3bfa8dab834
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "52058764"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "52081243"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Historial de actualización del canal actual de Office (versión preliminar) para Windows
 
-Hola, participantes de Office Insider. Si se está preguntando si tiene la última actualización instalada o busca una lista de compilaciones recientes del Canal actual (vista previa), se encuentra en la página correcta.
-Haga clic [aquí](https://insider.office.com/) para obtener más información sobre el programa Insider.
+Hola, participantes de Insider. Si os estáis preguntando si tenéis instalada la actualización más reciente o buscáis una lista de compilaciones recientes del Canal actual (versión preliminar), estáis en el lugar adecuado. Haced clic [aquí](https://insider.office.com/) para obtener más información sobre el programa Insider.
 
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Compilaciones y versiones del canal actual de Office (versión preliminar)
 
-Si está inscrito en el nivel Canal actual (versión preliminar), que anteriormente era llamado Modo aplazado de Insider, obtendrá una nueva actualización de características de Office una vez al mes aproximadamente, además de las compilaciones subsiguientes que contengan correcciones importantes o actualizaciones de seguridad. En la siguiente lista se muestran las versiones y las compilaciones recientes del Canal actual (versión preliminar), con **las compilaciones más recientes en primer lugar**. Las compilaciones nuevas incluyen todas las actualizaciones de las compilaciones anteriores.
-Para buscar notas de la versión, [vea](./current-channel-preview.md). También, puede ver [Novedades para participantes de Office Insider](https://insider.office.com/es-ES/releasenotes/windows/slow).
+Si está inscrito en el nivel del Canal actual (versión preliminar), anteriormente denominado Modo aplazado de Insider, obtendrá una nueva actualización de características de Office aproximadamente una vez al mes, además de las compilaciones subsiguientes que contengan correcciones importantes o actualizaciones de seguridad. La siguiente lista muestra versiones y compilaciones recientes del Canal actual (versión preliminar), con **la compilación publicada más recientemente en primer lugar**. Las compilaciones nuevas incluyen todas las actualizaciones de compilaciones anteriores. Para obtener las notas de la versión, [vea](./current-channel-preview.md). Además, puede consultar las [Novedades para participantes de Office Insider](https://insider.office.com/es-ES/releasenotes/windows/slow).
 
 
 > [!IMPORTANT]
-> - Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](/DeployOffice/update-channels-changes) para obtener más información.
+> - Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. Para más información, [lea este artículo](/DeployOffice/update-channels-changes).
 > - A partir de la versión 2004, el nombre de Office 365 ProPlus cambiará a Aplicaciones de Microsoft 365 para empresas. [Lea este artículo](/deployoffice/name-change) para obtener más información. Por lo general, en nuestra documentación solo haremos referencia al producto como Aplicaciones de Microsoft 365.
 
 > [!NOTE]
@@ -38,6 +36,9 @@ Para buscar notas de la versión, [vea](./current-channel-preview.md). También,
 
 
 [//]: # (NO ELIMINAR)
+
+**28 de abril de 2021**<br/>
+Versión 2104 (Compilación 13929.20296)<br/>
 
 **26 de abril de 2021**<br/>
 Versión 2104 (Compilación 13929.20254)<br/>

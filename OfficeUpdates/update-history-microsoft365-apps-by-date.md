@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista completa de las versiones de las Aplicaciones de Microsoft 365, organizada por fecha, con vínculos a las notas de la versión.
-ms.openlocfilehash: 31722e81217a1bf079635d1fd3ff8ccaca34b6c9
-ms.sourcegitcommit: 28baeef0385cacaa71288b5d0a00fb37b724b71b
+ms.openlocfilehash: 0a55dc787f393d498ddba627daad2b91bcb789c1
+ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/24/2021
-ms.locfileid: "51995717"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "52091829"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Historial de actualizaciones de Aplicaciones de Microsoft 365 (ordenado por fecha)
 
@@ -36,7 +36,7 @@ En la tabla siguiente se muestra la versión compatible y el número de compilac
 
 |**Canal**|**Versión**|**Compilación**|**Fecha de publicación**|**Versión admitida hasta**|
 |:-----|:-----|:-----|:-----|:-----|
-|Canal actual<br/>|2103<br/>|13901.20462<br/>|23 de abril de 2021<br/>|Lanzamiento de la versión 2104<br/>|
+|Canal actual<br/>|2104<br/>|13929.20296<br/>|29 de abril de 2021<br/>|Lanzamiento de la versión 2105<br/>|
 |Canal empresarial mensual<br/>|2102<br/>|13801.20506<br/>|13 de abril de 2021<br/>|8 de junio de 2021<br/>|
 |Canal empresarial mensual<br/>|2101<br/>|13628.20664<br/>|13 de abril de 2021<br/>|11 de mayo de 2021<br/>|
 |Canal semestral para empresas (versión preliminar)<br/>|2102<br/>|13801.20506<br/>|13 de abril de 2021<br/>|14 de septiembre de 2021<br/>|
@@ -47,7 +47,7 @@ En la tabla siguiente se muestra la versión compatible y el número de compilac
 
 Para obtener más información sobre los tamaños de descarga aproximados de las actualizaciones desde versiones anteriores de Aplicaciones de Microsoft 365 a la versión más reciente, vea [Tamaños de descarga de actualizaciones de Aplicaciones de Microsoft 365](./download-sizes-microsoft365-apps-updates.md).
 
-La siguiente tabla proporciona una lista de los números de versión y compilación para cada actualización de Aplicaciones de Microsoft 365 publicada en los siguientes canales de actualización: actual, empresarial mensual, empresarial semestral (vista previa) y empresarial semestral. Cada entrada de la tabla se vincula directamente con las notas de versión de dicha versión. Estas notas de versión proporcionan información sobre las características, las actualizaciones de seguridad y las actualizaciones no relacionadas con la seguridad que se incluyen en la actualización de Aplicaciones de Microsoft 365.
+En la tabla siguiente, se muestra una lista de los números de versión y compilación para todas las actualizaciones de Aplicaciones de Microsoft 365 publicadas en los siguientes canales de actualización: actual, mensual para empresas, semestral para empresas (vista previa) y semestral para empresas. Cada entrada en la tabla contiene un vínculo directo a las notas de esa versión. Las notas de la versión proporcionan información sobre características, actualizaciones de seguridad y actualizaciones no relacionadas con la seguridad que se incluyen en la actualización de Aplicaciones de Microsoft 365.
 
 ### <a name="version-history"></a>**Historial de versiones**
 
@@ -55,6 +55,7 @@ La siguiente tabla proporciona una lista de los números de versión y compilaci
 
 |**Year**|**Fecha de publicación**|**Canal actual**|**Canal empresarial mensual**|**Canal empresarial semestral (vista previa)**|**Canal empresarial semestral**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2021|29 de abril|[Versión 2104 (compilación 13929.20296)](current-channel.md#version-2104-april-29)| | | |
 |2021|23 de abril|[Versión 2103 (Compilación 13901.20462)](current-channel.md#version-2103-april-23)| | | |
 |2021|13 de abril|[Versión 2103 (Compilación 13901.20400)](current-channel.md#version-2103-april-13)|[Versión 2102 (Compilación 13801.20506)](monthly-enterprise-channel.md#version-2102-april-13)<br/>[Versión 2101 (Compilación 13628.20664)](monthly-enterprise-channel.md#version-2101-april-13)|[Versión 2102 (Compilación 13801.20506)](semi-annual-enterprise-channel-preview.md#version-2102-april-13)|[Versión 2008 (Compilación 13127.21506)](semi-annual-enterprise-channel.md#version-2008-april-13)<br/>[Versión 2002 (Compilación 12527.21814)](semi-annual-enterprise-channel.md#version-2002-april-13)|
 |2021|2 de abril|[Versión 2103 (Compilación 13901.20336)](current-channel.md#version-2103-april-02)| | | |

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365
-ms.openlocfilehash: 392523dca2dd2f0c0078747e1d25a93b9d0a85b2
-ms.sourcegitcommit: 5f72a0e94cda2cb64636380605806c29bbcdc53f
+ms.openlocfilehash: 3148b1744d6df9108f2a8beda7ca7c6f160fb5fa
+ms.sourcegitcommit: 8de8bc2772a282e08ce583dc2b4869f67330febc
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "52026275"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "52079304"
 ---
 # <a name="release-notes-for-current-channel"></a>Notas de la versión para el canal actual
 
@@ -45,7 +45,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="excel"></a>Excel
 
-- Se ha corregido un problema por el que algunos complementos de automatización de Excel no se cargan.
+- Los complementos de automatización para Excel no se cargan después de instalar la actualización de seguridad de abril de 2021. Utilice la solución alternativa que se ofrece a los usuarios que no están en el Canal actual. [Más información](https://support.microsoft.com/es-ES/office/automation-add-ins-for-excel-are-not-loading-after-installing-april-2021-security-update-8b2927a1-4a24-4ae6-8855-60827b7632fb). 
 
 
 ### <a name="outlook"></a>Outlook

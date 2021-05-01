@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales de TI las notas de la versión de las versiones de Office para Mac para los suscriptores de Aplicaciones de Microsoft 365
-ms.openlocfilehash: dc4b8459637d0e285d8b5b9e5f40fa3c49aabea2
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: fee8802ab607b3b93d0932e6aca5d07eb267f2ba
+ms.sourcegitcommit: 8de8bc2772a282e08ce583dc2b4869f67330febc
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749198"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "52079294"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de la versión de Office para Mac
 
@@ -68,9 +68,16 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
 - **Mostrar varias hojas de cálculo al mismo tiempo:** no es necesario que se muestren las hojas de una en una, mostrar varias hojas ocultas al mismo tiempo. [Más información](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
 
+
+### <a name="msteams"></a>MSTeams
+
+- **Vista dinámica** Vista dinámica optimiza automáticamente el contenido compartido y los participantes de vídeo en las reuniones de Teams. Los nuevos controles le permiten personalizar la vista para adaptarla a sus preferencias y necesidades, como la capacidad de mostrar el contenido compartido y participantes específicos en paralelo.
+
+- **Fuera de la oficina:** configure un mensaje para avisar a otras personas de que no está trabajando o de que está de vacaciones, y que por lo tanto no está disponible para responder si le envían un mensaje de chat. Su estado fuera de la oficina también se sincronizará con las Respuestas automáticas de su calendario de Outlook.
+
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Ensaye las presentaciones con el Asesor para moderadores:** El Asesor para moderadores le ayuda a ensayar sus presentaciones para que pueda captar a su público de una manera más eficaz. Te comenta el ritmo, el tono, el uso de palabras de relleno y mucho más. [Más información](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/presenter-coach-now-in-powerpoint-on-mac)
+- **Ensaye las presentaciones con el Asesor para moderadores:** El Asesor para moderadores le ayuda a ensayar sus presentaciones para que pueda captar a su público de una manera más eficaz. Te comenta el ritmo, el tono, el uso de palabras de relleno y mucho más. [Más información](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)<br />Ver detalles en [entrada de blog](https://insider.office.com/es-ES/blog/presenter-coach-now-in-powerpoint-on-mac)
 
 ### <a name="word"></a>Word
 
@@ -517,7 +524,7 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
 - **Encuentre lo que busca:** use el cuadro de búsqueda para buscar texto, comandos, ayuda y mucho más. [Más información](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
 
-- **Una manera más rápida de agregar celdas**: **habilite el modo Hacer clic para agregar**, luego escriba = y seleccione algunas celdas para crear rápidamente una fórmula que sume los valores de las celdas. Encuentre esta opción en **Menú** > **Preferencias** > **Editar**.  [Más información](https://support.office.com/es-ES/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/04/21/click-to-add-mode-feedback-in-action/)
+- **Una manera más rápida de agregar celdas**: **habilite el modo Hacer clic para agregar**, luego escriba = y seleccione algunas celdas para crear rápidamente una fórmula que sume los valores de las celdas. Encuentre esta opción en **Menú** > **Preferencias** > **Editar**.  [Más información](https://support.office.com/es-ES/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/04/21/click-to-add-mode-feedback-in-action/)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -525,14 +532,14 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
 - **Vínculo a la diapositiva:** pídale a un compañero que participe en la presentación de diapositivas y llévele directamente a la diapositiva con la que necesita ayuda. [Más información](https://support.office.com/article/4f5f3d5e-1674-4742-8cf1-9623050c19ef)
 
-- **Encuentre lo que busca:** use el cuadro de búsqueda para buscar texto, comandos, ayuda y mucho más. [Más información](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
+- **Encuentre lo que busca:** use el cuadro de búsqueda para buscar texto, comandos, ayuda y mucho más. [Más información](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
 
 ### <a name="word"></a>Word
 
 - **Escriba sin manos:** ¿tiene un micrófono? Haga clic en Dictar y vea cómo Word escribe mientras habla.  [Más información](https://support.office.com/article/3876e05f-3fcc-418f-b8ab-db7ce0d11d3c)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/01/24/dictate-your-documents-in-word-on-mac/)
 
 
-- **Encuentre lo que busca:** use el cuadro de búsqueda para buscar texto, comandos, ayuda y mucho más. [Más información](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
+- **Encuentre lo que busca:** use el cuadro de búsqueda para buscar texto, comandos, ayuda y mucho más. [Más información](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
@@ -937,7 +944,7 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
  En esta versión se incluyen las siguientes actualizaciones:
 
-|**Application**|**Actualizaciones de características**|**Actualizaciones de seguridad**|**Vínculo de descarga para el paquete de actualización**|
+|**Aplicación**|**Actualizaciones de características**|**Actualizaciones de seguridad**|**Vínculo de descarga para el paquete de actualización**|
 |:-----|:-----|:-----|:-----|
 |Word<br/>|Paquete de fuentes actualizado para incluir nuevos glifos de la era japonesa.<br/>|<br/>|[Paquete de actualización de Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.24.19042400_Updater.pkg)<br/>|
 |Excel<br/>|Paquete de fuentes actualizado para incluir nuevos glifos de la era japonesa.<br/>|<br/>|[Paquete de actualización de Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.24.19042400_Updater.pkg)<br/>|
@@ -954,7 +961,7 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
  En esta versión se incluyen las siguientes actualizaciones:
 
-|**Application**|**Actualizaciones de características**|**Actualizaciones de seguridad**|**Vínculo de descarga para el paquete de actualización**|
+|**Aplicación**|**Actualizaciones de características**|**Actualizaciones de seguridad**|**Vínculo de descarga para el paquete de actualización**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>|**Nuevos iconos de aplicación de Office**: nuevo diseño de iconos de la aplicación para reflejar las sencillas, eficaces e inteligentes experiencias de Office. <br/><br/>**Comience más rápido:**: obtenga recomendaciones basadas en su actividad y en la de sus compañeros.<br/><br/>**Vea cómo los documentos cobran vida:** inserte gráficos 3D animados para ver corazones que laten, planetas en órbita y dinosaurios a toda velocidad por la página. [Más información](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)<br/>|<br/><br/> |[Paquete de actualización de Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.24.19041401_Updater.pkg) <br/>|
 |Excel  <br/>|**Nuevos iconos de aplicación de Office**: nuevo diseño de iconos de la aplicación para reflejar las sencillas, eficaces e inteligentes experiencias de Office.<br/> <br/>**Llamada a todos los usuarios de macros:** grabe una macro con referencias relativas. Cuando se reproduce, funciona en relación a la celda activa, no las celdas que se utilizan para la grabación. [Más información](https://support.office.com/article/f0cac51a-7449-4d6d-bb10-24561edbc785)<br/><br/>**Los comandos favoritos a su alcance:** obtenga acceso rápido y fácil a acciones comunes, como Buscar y seleccionar, Zoom a la selección, Organizar todo y más. Puede encontrarlas en la cinta de opciones. [Más información](https://support.office.com/article/22db33e7-3e10-4406-9cad-ad9f2ce4f642)<br/><br/>**Comience más rápido:**: obtenga recomendaciones basadas en su actividad y en la de sus compañeros.<br/><br/>**Vea cómo la hoja de cálculo cobra vida**: inserte gráficos 3D animados para ver corazones que laten, planetas en órbita y dinosaurios a toda velocidad por el libro. [Más información](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)|[CVE-2019-0828](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-0828): vulnerabilidad de la ejecución remota de código de Microsoft Excel |[Paquete de actualización de Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.24.19041401_Updater.pkg) <br/>|
@@ -980,7 +987,7 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
  En esta versión se incluyen las siguientes actualizaciones:
 
-|**Application**|**Actualizaciones de características**|**Actualizaciones de seguridad**|**Vínculo de descarga para el paquete de actualización**|
+|**Aplicación**|**Actualizaciones de características**|**Actualizaciones de seguridad**|**Vínculo de descarga para el paquete de actualización**|
 |:-----|:-----|:-----|:-----|
 |Microsoft AutoUpdate 4.9 <br/>| Correcciones de errores y mejoras de rendimiento de la instalación de la actualización. <br/>|<br/> | [Paquete de actualización de Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.9.19030902_Updater.pkg)
 
@@ -988,7 +995,7 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
  En esta versión se incluyen las actualizaciones siguientes:
 
-|**Application**|**Actualizaciones de características**|**Actualizaciones de seguridad**|**Vínculo de descarga para el paquete de actualización**|
+|**Aplicación**|**Actualizaciones de características**|**Actualizaciones de seguridad**|**Vínculo de descarga para el paquete de actualización**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| **Llamar la atención con @menciones:** use @menciones en los comentarios para avisar a los compañeros de trabajo cuando necesite su participación. [Más información](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)<br/><br/>**Edición de ecuaciones de LaTeX:** ahora Word permite la sintaxis matemática de LaTeX para crear ecuaciones matemáticas. [Más información](https://support.office.com/article/2e00618d-b1fd-49d8-8cb4-8d17f25754f8) | |[Paquete de actualización de Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.23.19030902_Updater.pkg) <br/>|
 |Excel  <br/>|**Llamar la atención con @menciones:** use @menciones en los comentarios para avisar a los compañeros de trabajo cuando necesite su participación. [Más información](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)  <br/><br/>**Obtener más información sobre los datos:** el nuevo botón Ideas busca patrones en sus datos y los utiliza para crear sugerencias inteligentes y personalizadas. [Más información](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4) |  <br/>  |[Paquete de actualización de Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.23.19030902_Updater.pkg) <br/>|
@@ -1001,7 +1008,7 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
  En esta versión se incluyen las actualizaciones siguientes:
 
-|**Application**|**Actualizaciones de características**|**Actualizaciones de seguridad**|**Vínculo de descarga para el paquete de actualización**|
+|**Aplicación**|**Actualizaciones de características**|**Actualizaciones de seguridad**|**Vínculo de descarga para el paquete de actualización**|
 |:-----|:-----|:-----|:-----|
 |Microsoft Auto Update 4.8 <br/>| Se ha corregido un problema con el aviso Elegir actualizaciones automáticas de MAU para MacOS 10.10 <br/><br/> Se ha actualizado el ApplicationID de MAU de "MSau03" a "MSau04" <br/><br/> Se ha corregido un problema con la aplicación auxiliar privilegiada de MAU para la instalación mientras se está ejecutando otra versión <br/>|<br/> | [Paquete de actualización de Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.8.19022003_Updater.pkg)|
 
@@ -1011,7 +1018,7 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
  En esta versión se incluyen las actualizaciones siguientes:
 
-|**Application**|**Actualizaciones de características**|**Actualizaciones de seguridad**|**Vínculo de descarga para el paquete de actualización**|
+|**Aplicación**|**Actualizaciones de características**|**Actualizaciones de seguridad**|**Vínculo de descarga para el paquete de actualización**|
 |:-----|:-----|:-----|:-----|
 |Outlook  <br/>| Se ha corregido un problema con la autenticación de cuentas de Google.<br/><br/> Se ha corregido un problema con la sincronización de calendario. <br/>  | |[Paquete de actualización de Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.22.19022000_Updater.pkg) <br/>|
  
@@ -1021,7 +1028,7 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
  En esta versión se incluyen las actualizaciones siguientes:
 
-|**Application**|**Actualizaciones de características**|**Actualizaciones de seguridad**|**Vínculo de descarga para el paquete de actualización**|
+|**Aplicación**|**Actualizaciones de características**|**Actualizaciones de seguridad**|**Vínculo de descarga para el paquete de actualización**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| **Hacer esbozos con el panel táctil:** Mueva el dedo en el panel táctil y vea la entrada de lápiz fluir por la pantalla. [Más información](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>**Hacer accesibles sus imágenes:** al insertar una imagen, Office sugiere títulos que las personas con deficiencias visuales pueden leer. | |[Paquete de actualización de Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.22.19021100_Updater.pkg) <br/>|
 |Excel  <br/>| **Hacer esbozos con el panel táctil:** Mueva el dedo en el panel táctil y vea la entrada de lápiz fluir por la pantalla. [Más información](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>  | [CVE-2019-0669](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-0669) <br/><br/>  |[Paquete de actualización de Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.22.19021100_Updater.pkg) <br/>|
@@ -1039,7 +1046,7 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
  En esta versión se incluyen las actualizaciones siguientes:
 
-|**Application**|**Actualizaciones de características**|**Actualizaciones de seguridad**|**Vínculo de descarga para el paquete de actualización**|
+|**Aplicación**|**Actualizaciones de características**|**Actualizaciones de seguridad**|**Vínculo de descarga para el paquete de actualización**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| Se ha corregido un problema con la localización en chino.<br/><br/>**Romper la barrera del idioma:** traduzca palabras, frases o todo el documento a otro idioma con Microsoft Translator. Haga esto en la pestaña Revisar de la cinta de opciones.| |[Paquete de actualización de Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011700_Updater.pkg) <br/>|
 |Outlook  <br/>| Se ha corregido un problema con la localización en chino.<br/><br/>**Optimizar la sincronización en función del estado de la red y la fuente de alimentación:** Outlook ahora optimiza la sincronización de las cuentas de Exchange cuando se está usando la batería y en una red limitada, como en wi-fi de aviones.<br/><br/>**Todos los detalles de la reunión de un vistazo:** haga clic en el evento en su calendario para ver todos los detalles de la reunión. Vea quién estaba invitado, edite la respuesta o únase a la reunión, todo desde un único lugar. [Más información](https://support.office.com/article/3b3b0575-36e2-4632-a982-1e6977870658)  | |[Paquete de actualización de Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011700_Updater.pkg) <br/>|
@@ -1058,7 +1065,7 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
   
 En esta versión se incluyen las actualizaciones siguientes:
 
-|**Application**|**Actualizaciones de características**|**Actualizaciones de seguridad**|**Vínculo de descarga para el paquete de actualización**|
+|**Aplicación**|**Actualizaciones de características**|**Actualizaciones de seguridad**|**Vínculo de descarga para el paquete de actualización**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| **Desde el iPhone a Word en un momento:** use la continuidad de cámara de Apple para insertar una foto desde su iPhone en el documento. Requiere macOS Mojave. [Más información](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> **Aplicar etiquetas de confidencialidad a los documentos**: aplique etiquetas de confidencialidad a sus documentos para que cumplan las directivas de protección de la información de su organización. [Más información](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**Capacidad de insertar SVG con filtros aplicados:** ahora, los usuarios de Office tienen la capacidad de insertar SVG con filtros aplicados. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>| [CVE-2019-0561](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-0561): vulnerabilidad de divulgación de información de Microsoft Word  <br/><br/> [CVE-2019-0585](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-0585): vulnerabilidad de la ejecución remota de código de Microsoft Word |[Paquete de actualización de Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011500_Updater.pkg) <br/>|
 |Excel  <br/>| **Colaborar con comentarios:** mantenga la conversación activa directamente en la hoja de cálculo con el cuadro de respuesta integrado. [Más información](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)<br/><br/> **Aplicar etiquetas de confidencialidad a las hojas de cálculo**: aplique etiquetas de confidencialidad a sus hojas de cálculo para que cumplan las directivas de protección de la información de su organización. [Más información](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**Capacidad de insertar SVG con filtros aplicados:** ahora, los usuarios de Office tienen la capacidad de insertar SVG con filtros aplicados. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Compatibilidad con SVG:** inserte y edite SVG en los libros para agregar impacto visual. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Más opciones de formato para los gráficos de Histograma, Cascada, Rectángulos, Proyección solar, Embudo y Mapa:** tiene más control de las opciones de formato para los nuevos tipos de gráficos mediante el panel de formato.|[Paquete de actualización de Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19011500_Updater.pkg) <br/>|
@@ -1078,7 +1085,7 @@ En esta versión se incluyen las actualizaciones siguientes:
   
 En esta versión se incluyen las actualizaciones siguientes:
 
-|**Application**|**Actualizaciones de características**|**Actualizaciones de seguridad**|**Vínculo de descarga para el paquete de actualización**|
+|**Aplicación**|**Actualizaciones de características**|**Actualizaciones de seguridad**|**Vínculo de descarga para el paquete de actualización**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| **Descansar los ojos con el modo oscuro:** un fondo oscuro es menos dañino para la vista en entornos de poca luz. Requiere macOS Mojave. <br/><br/>  **Conservar el aspecto del texto:** incruste fuentes para asegurarse de que texto del documento tiene el mismo aspecto en cualquier equipo. No más sorpresas. [Más información](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/><br/>**Ver las fuentes incrustadas en los documentos:** permite que las fuentes incrustadas en un archivo se representen en Word para Mac.<br/><br/>**Barra de estado invocable del modo de enfoque:** en el modo de enfoque, vea más fácilmente el recuento de palabras y acceda a los controles de zoom con la barra de estado invocable.<br/><br/>**Obtenga más ayuda con el modo de enfoque:** le hemos oído. Ahora, el Modo Enfoque se abre en el nivel de zoom establecido y muestra además el número de página mientras se desplaza.| |[Paquete de actualización de Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg) <br/>|
 |Excel  <br/>|  **Descansar los ojos con el modo oscuro:** un fondo oscuro es menos dañino para la vista en entornos de poca luz. Requiere macOS Mojave. <br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8597): Vulnerabilidad de la ejecución remota de código de Microsoft Excel <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8627): vulnerabilidad de divulgación de información de Microsoft Excel |[Paquete de actualización de Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
@@ -1096,7 +1103,7 @@ En esta versión se incluyen las actualizaciones siguientes:
   
 En esta versión se incluyen las actualizaciones siguientes:
 
-|**Application**|**Actualizaciones de características**|**Actualizaciones de seguridad**|**Vínculo de descarga para el paquete de actualización**|
+|**Aplicación**|**Actualizaciones de características**|**Actualizaciones de seguridad**|**Vínculo de descarga para el paquete de actualización**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| **¿Descargar la imagen?** Busque imágenes en línea desde dentro de las aplicaciones de Office. Seleccione Insertar > Imágenes en línea para empezar. [Más información](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d) <br/><br/>  **¿Qué hay en un nombre de archivo? Herramientas útiles:** haga clic en el nombre de un archivo para mover, cambiar el nombre o examinar el historial de versiones de los documentos de nube rápidamente. [Más información](https://support.office.com/article/baea7aab-760b-4ee0-af58-06e940d505a4) <br/><br/>||[Paquete de actualización de Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.19.18110915_Updater.pkg) <br/>|
 |Excel  <br/>| **¿Descargar la imagen?** Busque imágenes en línea desde dentro de las aplicaciones de Office. Seleccione Insertar > Imágenes en línea para empezar. [Más información](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d) <br/><br/> **¿Qué hay en un nombre de archivo? Herramientas útiles:** haga clic en el nombre de un archivo para mover, cambiar el nombre o examinar el historial de versiones de los documentos de nube rápidamente. [Más información](https://support.office.com/article/baea7aab-760b-4ee0-af58-06e940d505a4) <br/><br/>|[CVE-2018-8574](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8574): vulnerabilidad de la ejecución remota de código de Microsoft Excel <br/>[CVE-2018-8577](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8577): vulnerabilidad de la ejecución remota de código de Microsoft Excel <br/><br/>|[Paquete de actualización de Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.19.18110915_Updater.pkg) <br/>|
@@ -1113,7 +1120,7 @@ En esta versión se incluyen las actualizaciones siguientes:
   
 En esta versión se incluyen las actualizaciones siguientes:
 
-|**Application**|**Actualizaciones de características**|**Actualizaciones de seguridad**|**Vínculo de descarga para el paquete de actualización**|
+|**Aplicación**|**Actualizaciones de características**|**Actualizaciones de seguridad**|**Vínculo de descarga para el paquete de actualización**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>|||[Paquete de actualización de Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.18.18101400_Updater.pkg) <br/>|
 |Excel  <br/>|**Colaborar con comentarios:** mantenga la conversación activa directamente en la hoja de cálculo con el cuadro de respuesta integrado. [Más información](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8 ) <br/> <br/>  **Más "auto" en Autocompletar:** al escribir una fórmula, aparecerá el menú de ayuda Autocompletar, que mostrará opciones de argumento entre las que elegir.  <br/><br/> **Mejorado: navegación de VoiceOver:** ¿usa VoiceOver en Excel? Desplacese por las hojas de cálculo presionando VO + U. También puede habilitar los comandos del trackpad de macOS para realizar esta acción. <br/> ||[Paquete de actualización de Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.18.18101400_Updater.pkg) <br/>|
@@ -1130,7 +1137,7 @@ En esta versión se incluyen las actualizaciones siguientes:
   
 En esta versión se incluyen las actualizaciones siguientes:
   
-|**Application**|**Actualizaciones de características**|**Actualizaciones de seguridad**|**Vínculo de descarga para el paquete de actualización**|
+|**Aplicación**|**Actualizaciones de características**|**Actualizaciones de seguridad**|**Vínculo de descarga para el paquete de actualización**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/> |<br/>**Dibujar con entrada de lápiz:** Use el ratón o el panel táctil y los lápices en la pestaña Dibujar para escribir, dibujar y resaltar. [Más información](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>**Insertar modelos 3D para ver todos los ángulos:** inserte fácilmente un modelo 3D y gírelo 360 grados. [Más información](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/>||[Paquete de actualización de Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.17.18090901_Updater.pkg) <br/>|
 |Excel  <br/> |**Dibujar con entrada de lápiz:** Use el ratón o el panel táctil y los lápices en la pestaña Dibujar para escribir, dibujar y resaltar. [Más información](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**Insertar modelos 3D para ver todos los ángulos:** inserte fácilmente un modelo 3D y gírelo 360 grados. [Más información](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**Vuelven los métodos abreviados personalizados:** les hemos escuchado. A petición, hemos recuperado los métodos abreviados personalizados. [Más información](https://support.office.com/article/6bbeb90e-96d9-4e03-b199-fc026ebdc321) <br/>|[CVE-2018-8429](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8429): vulnerabilidad de divulgación de información de Microsoft Excel <br/><br/>[CVE-2018-8331](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2018-8331): Vulnerabilidad de la ejecución remota de código de Microsoft Excel <br/>  |[Paquete de actualización de Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg) <br/>|

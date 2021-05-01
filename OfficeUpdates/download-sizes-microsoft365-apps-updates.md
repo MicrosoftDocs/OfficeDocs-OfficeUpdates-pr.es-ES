@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Aplicaciones de Microsoft 365 según el canal de actualización.
-ms.openlocfilehash: 5d0deee8e9a4aaefc31cedbeb1f4209bd5204c9e
-ms.sourcegitcommit: 28baeef0385cacaa71288b5d0a00fb37b724b71b
+ms.openlocfilehash: e19570304d9f041536626ebe867bd3b8b3226cf4
+ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/24/2021
-ms.locfileid: "51995761"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "52091859"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tamaños de descarga de las actualizaciones de Aplicaciones de Microsoft 365 
 
@@ -22,7 +22,7 @@ Cuando sea posible, queremos dar información sobre el tamaño de las actualizac
 
 En las siguientes tablas se muestran los tamaños de descarga aproximados de las actualizaciones desde versiones anteriores recientes de Aplicaciones de Microsoft 365 a la versión más reciente. Los tamaños de descarga reales pueden variar unos 50 MB como máximo. Si va a realizar la actualización desde una versión más antigua a la más actual, el tamaño de descarga podría ser mayor.
 
-Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal semianual, el tamaño de actualización será considerablemente mayor que el que se muestra en la tabla. Puede comportar una descarga completa, que podría ser de un 1 GB o más.
+Si va a cambiar de canal, por ejemplo, del Canal semestral (dirigido) al Canal semestral, el tamaño de actualización será considerablemente mayor que el que se muestra en la tabla, ya que puede comportar una descarga completa, con un mínimo de 1 GB.
 
 
 > [!IMPORTANT]
@@ -35,6 +35,22 @@ Si va a cambiar de canal, por ejemplo, del canal semianual (dirigido) al camal s
 > - Se muestran las versiones de los últimos cuatro meses.
 
 [//]: # (NO ELIMINAR)
+
+## <a name="april-29-2021"></a>29 de abril de 2021
+
+[//]: # (NO ELIMINAR EL INICIO DE CONTENIDO29 de abril de 2021)
+
+### <a name="current-channel"></a>Canal actual
+
+La versión más reciente es la versión 2104 (compilación 13929.20296).
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 2103 (Compilación 13901.20462) <br/> |23 de abril de 2021 <br/> |167<br/> |
+|Versión 2103 (Compilación 13901.20400) <br/> |13 de abril de 2021 <br/> |167<br/> |
+
+
+[//]: # (NO ELIMINAR EL FINAL DE CONTENIDO29 de abril de 2021)
 
 ## <a name="april-23-2021"></a>23 de abril de 2021
 
