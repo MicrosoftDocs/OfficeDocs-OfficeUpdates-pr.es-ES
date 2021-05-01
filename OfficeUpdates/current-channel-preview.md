@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporcionar a los participantes del Modo aplazado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos
-ms.openlocfilehash: 81b0fd214752a3218809f860db9ad97f34d3ad0c
-ms.sourcegitcommit: 6a6a10d50664c552f2aea560d521265d2b0677d2
+ms.openlocfilehash: 059b95f05ba9f91466dd02e56663f4c3e9631d7e
+ms.sourcegitcommit: 6094aae42629433b8b7336cb2f6ac3bfa8dab834
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "52058744"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "52081233"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notas de la versión del canal actual de Office (versión preliminar)
 
@@ -30,6 +30,54 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 [//]: # (NO ELIMINAR)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+## <a name="version-2104-april-28"></a>Versión 2104: 28 de abril
+*Versión 2104 (compilación 13929.20296)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="teams"></a>Teams
+
+- **Selector de emojis expandido:** La actualización de emojis expandida ofrece a los usuarios un lugar más divertido y expresivo en Teams. También introduce una mayor variedad en términos de diversidad y representación. El conjunto de emojis se ha expandido de 85 a más de 800 emojis, con selector de categorías, selector de tono de piel y selector de código abreviado.
+
+- **Microsoft Teams: Experiencia de Compartir en reuniones revisada:** La interfaz de usuario de la característica Compartir en reuniones de Microsoft Teams se ha rediseñado para ayudar a los presentadores a encontrar más rápido y fácilmente el contenido deseado.
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema por el que algunos complementos de automatización de Excel no se cargan.
+
+
+### <a name="outlook"></a>Outlook
+
+- Hemos corregido un problema que provocaba que los usuarios experimentaran bloqueos.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Hemos corregido un problema relacionado con las imágenes vinculadas.
+
+
+### <a name="project"></a>Project
+
+- Se ha corregido un problema en el que los usuarios no podían quitar proyectos del grupo de recursos.
+
+
+### <a name="word"></a>Word
+
+- Hemos realizado un cambio en la edición del objeto OLE.
+
+
+
+[//]: # (NO QUITAR FINAL DE CONTENIDO CON DETALLES DE ERROR)
 
 ## <a name="version-2104-april-26"></a>Versión 2104: 26 de abril
 *Versión 2104 (Compilación 13929.20254)*
@@ -1514,7 +1562,7 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 - Resuelto un problema que hacía que Outlook dejara de funcionar esporádicamente al agregar o guardar datos adjuntos.
 
 
-- Se ha corregido un problema por el que la impresión rápida de los datos adjuntos de imagen provocaba un error "Windows no puede encontrar esta imagen. Compruebe la ubicación y vuelva a intentarlo".
+- Se ha corregido un problema por el que la impresión rápida de los datos adjuntos de imagen provocaba un error “Windows no puede encontrar esta imagen. Compruebe la ubicación y vuelva a intentarlo”.
 
 
 - Se corrigió un problema que hacía que algunos usuarios vieran que Outlook se iniciaba en un estado sin conexión hasta que optaban manualmente por trabajar en línea.
@@ -1920,7 +1968,7 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 
 ### <a name="office-suite"></a>Conjunto de aplicaciones de Office
 
-- Cuando el usuario imprime cualquier documento o archivo en las impresoras de inyección de tinta de Office y la tinta de la impresora es poco visible, el mensaje "tóner bajo" o "sin tóner" se mostrará, aunque las impresoras de inyección de tinta no tengan toners Cambiar mensaje para mostrar "tóner/Ink Low" & "no tóner/tinta".
+- Cuando el usuario imprime cualquier documento o archivo en las impresoras de inyección de tinta de Office y la tinta de la impresora es poco visible, el mensaje "tóner bajo" o "sin tóner" se mostrará, aunque las impresoras de inyección de tinta no tengan tóners. Cambiar mensaje para mostrar "tóner/tinta bajos" & "no tóner/tinta".
 
 
 
@@ -1966,7 +2014,7 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 
 ### <a name="office-suite"></a>Conjunto de aplicaciones de Office
 
-- Cuando el usuario imprime cualquier documento o archivo en las impresoras de inyección de tinta de Office y la tinta de la impresora es poco visible, el mensaje "tóner bajo" o "sin tóner" se mostrará, aunque las impresoras de inyección de tinta no tengan toners Cambiar mensaje para mostrar "tóner/Ink Low" & "no tóner/tinta".
+- Cuando el usuario imprime cualquier documento o archivo en las impresoras de inyección de tinta de Office y la tinta de la impresora es poco visible, el mensaje "tóner bajo" o "sin tóner" se mostrará, aunque las impresoras de inyección de tinta no tengan tóners. Cambiar mensaje para mostrar "tóner/tinta bajos" & "no tóner/tinta".
 
 
 
@@ -2099,7 +2147,7 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 - Se corrigió un bloqueo relacionado con las referencias de complementos XLAM y los rangos con nombre.
 
 
-- Se corrigió un problema por el que si un usuario aplicaba un estilo personalizado a una matriz dinámica, obtenía el error: "No se puede cambiar parte de una matriz". Esta era una restricción heredada que se ha eliminado.
+- Se corrigió un problema por el que si un usuario aplicaba un estilo personalizado a una matriz dinámica, obtenía el error: "No se puede cambiar parte de una matriz". Se ha eliminado una restricción heredada.
 
 
 - Se corrigió un problema que provocaba que los macros asignados a los botones no funcionen después de restaurar una versión anterior del archivo.
@@ -2643,7 +2691,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 - Se ha corregido un problema que causaba que los delegados reciban un error al editar una cita de calendario existente en el calendario de un administrador.
 
 
-- Se ha corregido un problema que provocaba que los usuarios vieran el siguiente error al cerrar una cita guardada previamente: "No se puede guardar el elemento, porque lo cambió otro usuario o se modificó en otra ventana. ¿Desea copiarlo en la carpeta predeterminada del elemento?
+- Se ha corregido un problema que provocaba que los usuarios vieran el siguiente error al cerrar una cita guardada previamente: "No se puede guardar el elemento porque otro usuario lo modificó o se modificó en otra ventana. ¿Quiere realizar una copia en la carpeta predeterminada del elemento?".
 
 
 - Se ha corregido un problema que causaba que faltara la opción "Permitir reenvío" en las "Opciones de respuesta" de la reunión de calendario compartida cuando NO está marcado Descargar carpeta compartida.
@@ -3119,7 +3167,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 
 ### <a name="office-suite"></a>Conjunto de aplicaciones de Office
 
-- El host de Office se bloqueaba en Windows, cuando se activaba un complemento si la clave del registro HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main\TabProcGrowth estaba establecida en cero. Este cambio arreglaría el problema.
+- El host de Office se bloqueaba en Windows, cuando se activaba un complemento si la clave del registro HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main\TabProcGrowth estaba establecida en cero. Este cambio solucionaría el problema.
 
 
 [//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
@@ -3319,7 +3367,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Cuente sus historias con GIF animados:** los GIF animados ahora son compatibles con el editor de Office: sus documentos han pasado a ser más elegantes.  [Más información](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+- **Cuente sus historias con GIF animados:** los GIF animados ahora son compatibles con el editor de Office: sus documentos ahora son más elegantes. [Más información](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01).
 
 ### <a name="word"></a>Word
 
@@ -3536,7 +3584,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 
 - Este cambio corrige un problema que provocaba que la búsqueda de caracteres especiales con "Buscar solo palabras completas" no siempre funcionase como se esperaba.
 
-### <a name="project"></a>Proyecto
+### <a name="project"></a>Project
 
 - Se corrigió un problema en el que las fechas de las tareas de resumen se calculaban siempre correctamente.
 
@@ -4025,7 +4073,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 
 - Las plantillas de Access ya no deberían causar errores en columnas de datos adjuntos en una base de datos. Después de crear la instancia de una plantilla, ahora debería poder agregar un campo de datos adjuntos a la base de datos.
 
-- Esta actualización corrige un problema por el que al usar un objeto de grabación de ADODB en el código de VB, se puede notificar un error incorrectamente.
+- Esta actualización corrige un problema por el que al usar un objeto ADODB. Recorder en código de VB podría notificarse un error incorrectamente.
 
 - Esta actualización corrige un problema que puede hacer que Microsoft Access no identifique una Columna de identidad en una tabla vinculada de SQL Server, lo que puede provocar que las filas aparezcan como eliminadas de forma incorrecta.
 
