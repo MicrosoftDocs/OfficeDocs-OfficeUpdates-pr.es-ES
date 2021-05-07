@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporcionar a los participantes del Modo aplazado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos
-ms.openlocfilehash: 059b95f05ba9f91466dd02e56663f4c3e9631d7e
-ms.sourcegitcommit: 6094aae42629433b8b7336cb2f6ac3bfa8dab834
+ms.openlocfilehash: fdb00cda7c1eb30a470843c4637e8cae1828d7f3
+ms.sourcegitcommit: e4d02f3245d41beb8a9cfc9e386c1f81d0f5e7a0
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/29/2021
-ms.locfileid: "52081233"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52236960"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notas de la versión del canal actual de Office (versión preliminar)
 
 En este artículo hay notas de la versión para las compilaciones del Canal actual (versión preliminar) de las versiones de escritorio de Word, Excel, PowerPoint, Outlook, Access, Project Y Teams para Windows. Todas las semanas se incluyen las nuevas características, correcciones importantes y los problemas principales de mayor interés para usted. Tenga en cuenta que a menudo publicamos características (y a veces incluso correcciones) para el Canal actual (versión preliminar) durante un período de tiempo. Esto nos permite asegurarnos de que todo funciona correctamente antes de publicar la característica para un público más amplio. Por tanto, si a continuación no ve algo descrito, no se preocupe, lo recibirá con el tiempo.  
 
 > [!IMPORTANT]
-> Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](/DeployOffice/update-channels-changes) para obtener más información.
+> Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. Para más información, [lea este artículo](/DeployOffice/update-channels-changes).
 
 > [!NOTE]
 > - La fecha de publicación de las notas de versión pueden no coincidir con la fecha real de lanzamiento de la compilación.
@@ -30,6 +30,160 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 [//]: # (NO ELIMINAR)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+## <a name="version-2105-may-03"></a>Versión 2105: 03 de mayo
+*Versión 2105 (Compilación 14026.20052)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="teams"></a>Teams
+
+- **Poner en primer plano varios usuarios al mismo tiempo en una reunión:** Ahora los organizadores y los presentadores pueden poner en primer plano varios participantes simultáneamente durante las reuniones. El espacio de reunión mostrará a esos participantes en primer plano, con sus vídeos o avatares, para todos los demás participantes de la reunión.
+
+- **Presentar desde PowerPoint en Teams:** Presente las diapositivas directamente desde la aplicación de PowerPoint en una reunión de Teams a través de PowerPoint Live.
+
+- **Nueva experiencia de administración de etiquetas y otras mejoras:** Las Etiquetas en Teams permiten a los usuarios llegar rápidamente a un grupo de usuarios sin tener que @mencionar o escribir cada uno. La experiencia de administración de etiquetas ahora es una Pestaña. Las etiquetas ahora también tienen un campo de descripción para que pueda agregar más detalles a una etiqueta. La nueva Pestaña Etiquetas será la página de inicio de las notificaciones y la búsqueda de etiquetas, que también estará disponible próximamente.
+
+- **Oradores inteligentes:** Los oradores inteligentes son periféricos inteligentes para las salas de Microsoft Teams en Windows. Mostrarán una transcripción del orador correspondiente a los participantes de la sala de reuniones, lo que permitirá a los asistentes dedicar menos tiempo a tomar notas y seguir fácilmente lo que se dice en la sala.
+
+- **Cambiar la notificación nativa predeterminada para equipos púrpuras para nuevos usuarios:** Las notificaciones nativas ofrecen una serie de ventajas, como el soporte para el centro de acción, la accesibilidad, el soporte para el modo de asistencia de foco, etc. Actualmente el estilo de notificación predeterminado para un nuevo usuario en Microsoft Teams es el Equipo Púrpura. Con este cambio, el valor predeterminado para el nuevo usuario cambiará a Notificación nativa.
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Hemos corregido un problema que causaba que Excel se cerrara de forma inesperada al usar Office de 32 bits en Windows de 64 bits.
+
+
+- Hemos corregido un problema que hacía que Excel se cerrara inesperadamente al desplazarse por los comentarios del panel Comentarios.
+
+
+- Se ha corregido un problema por el que algunos complementos de automatización para Excel no se podían cargar.
+
+
+- Hemos corregido un problema que causaba que Narrador leyese incorrectamente las propiedades de dos botones de la pestaña Encabezado y pie de página del cuadro de diálogo Configurar página.
+
+
+- Hemos corregido un problema que causaba que algunos libros vinculados en otras aplicaciones de Office se cerraran sin guardar los cambios al ejecutar el Vínculo de actualización.
+
+
+- Se ha corregido un problema en el que el complemento de Herramientas para análisis no funcionaba para algunos usuarios.
+
+
+- Hemos corregido un problema que en ocasiones producía errores al abrir algunos archivos en la Vista protegida.
+
+
+- Hemos corregido un problema que causaba que el formato de fecha se mostrara de forma incorrecta en algunos idiomas al usar complementos.
+
+
+- Hemos corregido un problema que causaba que la barra de estado no indicara el estado de Listo para algunos usuarios.
+
+
+- Hemos realizado un cambio para permitir que el Administrador de nombres se abra en libros con un gran número de nombres ocultos.
+
+
+- Hemos corregido un problema para ofrecer compatibilidad con versiones anteriores de Excel. El problema podía provocar que un archivo que se guardaba en una versión más reciente de Excel no se cargara correctamente en versiones anteriores de Excel debido a  funciones como SI.ERROR y BUSCARX agregadas a Excel desde Office 2007.
+
+
+- Hemos corregido un problema que podía provocar que Excel se cerrara de forma inesperada al usar Pegado especial con formatos en determinadas situaciones.
+
+
+### <a name="outlook"></a>Outlook
+
+- Hemos corregido un problema que causaba que Outlook anulara las preferencias de la Bandeja de entrada Prioritarios configuradas en OWA.
+
+
+- Hemos corregido un problema que provocaba que los usuarios de la configuración de itinerancia experimentaran bloqueos.
+
+
+- Hemos corregido un problema que provocaba que se deshabilitara la resolución de nombres al enviar en nombre de otro usuario y al resolver en una libreta de direcciones que no era la Lista global de direcciones.
+
+
+- Hemos corregido un problema que provocaba que algunos usuarios de la característica de uso compartido del calendario experimentaran problemas al interactuar con su calendario en el panel de navegación.
+
+
+- Hemos corregido un problema que causaba que Outlook se cerrara de forma inesperada al usar el modo de Contraste alto durante largos períodos de tiempo.
+
+
+- Hemos corregido un problema en el que los hipervínculos que incluyen dígitos se deshabilitarían al redactar un mensaje en Outlook en un idioma de derecha a izquierda.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha corregido un problema relacionado con las imágenes vinculadas.
+
+
+### <a name="project"></a>Project
+
+- Hemos corregido un problema que provocaba que los cambios realizados con los Asistentes para planificación no siempre se capturaran con eventos de cambio.
+
+
+- Hemos corregido un problema en el que los usuarios no podían quitar proyectos del grupo de recursos.
+
+
+### <a name="visio"></a>Visio
+
+- Hemos corregido un problema que ha provocado que Visio se cerrara de forma inesperada con la compilación reciente.
+
+
+### <a name="word"></a>Word
+
+- Hemos corregido un problema por el cual se conservaba el formato de texto después de quitar los hipervínculos.
+
+
+- Hemos corregido un problema que hacía que el texto de marcador de posición se recortara en los comentarios al usar idiomas de derecha a izquierda.
+
+
+- Hemos corregido un problema que hacía que los comentarios no se mostraran después de filtrar por usuario.
+
+
+- Hemos corregido un problema que impedía a Word combinar correspondencia con una base de datos de Access.
+
+
+- Hemos corregido un problema que hacía que estuviera disponible la capacidad de contraer los márgenes de los documentos que contuvieran varias columnas.
+
+
+- Hemos corregido un problema que impedía que algunos caracteres se mostraran correctamente en las celdas de la tabla cuando había comentarios en el documento.
+
+
+- Hemos corregido un problema por el cual se producían los cambios en el formato de archivo al guardar documentos con el complemento AIP habilitado.
+
+
+- Hemos corregido un problema que hacía que Word no respondiera al editar campos.
+
+
+- Hemos corregido un problema por el que la etiqueta de confidencialidad desaparecía de un archivo en Word después de cargar el archivo en SharePoint Online.
+
+
+- Hemos corregido un problema por el cual no se solicitaba a los usuarios guardar documentos al usar un comando (en lugar del método abreviado de teclado CTRL+S).
+
+
+- Corregido un problema que podría provocar el cierre inesperado de Word al desconectarse debido a que el usuario cerraba o reiniciaba su equipo.
+
+
+- Hemos corregido un problema por el cual se conservaba el formato de texto después de quitar los hipervínculos.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Hemos corregido un problema que causaba que el botón de dictado estuviera mal alineado al agregar comentarios a un documento.
+
+
+- Se ha corregido un problema al analizar una cadena de procesamiento de emojis que hacía que la aplicación se cerrara inesperadamente al leer fuera de los límites de una matriz
+
+
+- Hemos corregido un problema que hacía que algunos Scalable Vector Graphics (SVG) no se representasen correctamente.
+
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
 
 ## <a name="version-2104-april-28"></a>Versión 2104: 28 de abril
 *Versión 2104 (compilación 13929.20296)*
@@ -2532,7 +2686,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 
 
 
-[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR LOS DETALLES DE ERROR DE FIN DE CONTENIDO)
 
 ## <a name="version-2007-august-05"></a>Versión 2007: 05 de agosto
 *Versión 2007 (compilación 13029.20344)*
@@ -3464,7 +3618,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 
 
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
+[//]: # (NO ELIMINAR LOS DETALLES DEL CONTENIDO FINAL)
 
 ## <a name="version-2004-april-21"></a>Versión 2004: 21 de abril
 *Versión 2004 (compilación 12730.20182)*
@@ -4073,7 +4227,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 
 - Las plantillas de Access ya no deberían causar errores en columnas de datos adjuntos en una base de datos. Después de crear la instancia de una plantilla, ahora debería poder agregar un campo de datos adjuntos a la base de datos.
 
-- Esta actualización corrige un problema por el que al usar un objeto ADODB. Recorder en código de VB podría notificarse un error incorrectamente.
+- Esta actualización corrige un problema por el que al usar un objeto ADODB. Recorder en código de VB podía notificarse un error incorrectamente.
 
 - Esta actualización corrige un problema que puede hacer que Microsoft Access no identifique una Columna de identidad en una tabla vinculada de SQL Server, lo que puede provocar que las filas aparezcan como eliminadas de forma incorrecta.
 

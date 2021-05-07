@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Aplicaciones de Microsoft 365 según el canal de actualización.
-ms.openlocfilehash: e19570304d9f041536626ebe867bd3b8b3226cf4
-ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
+ms.openlocfilehash: ed59e962bd4767dbded3801ec18c4c329a4cb1b3
+ms.sourcegitcommit: 42db2bd4c66e90f3a425f9d9f4d0b769b900d08a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52091859"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52264758"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tamaños de descarga de las actualizaciones de Aplicaciones de Microsoft 365 
 
@@ -26,7 +26,7 @@ Si va a cambiar de canal, por ejemplo, del Canal semestral (dirigido) al Canal s
 
 
 > [!IMPORTANT]
-> - Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. [Lea este artículo](/DeployOffice/update-channels-changes) para obtener más información.
+> - Estamos realizando algunos cambios en los canales de actualización de las Aplicaciones de Microsoft 365, incluida la adición de un nuevo canal de actualización (canal empresarial mensual) y el cambio de los nombres de los canales de actualización existentes. Para más información, [lea este artículo](/DeployOffice/update-channels-changes).
 > - A partir de la versión 2004, el nombre de Office 365 ProPlus cambiará a Aplicaciones de Microsoft 365 para empresas. [Lea este artículo](/deployoffice/name-change) para obtener más información. Por lo general, en nuestra documentación solo haremos referencia al producto como Aplicaciones de Microsoft 365.
 
 
@@ -35,6 +35,43 @@ Si va a cambiar de canal, por ejemplo, del Canal semestral (dirigido) al Canal s
 > - Se muestran las versiones de los últimos cuatro meses.
 
 [//]: # (NO ELIMINAR)
+
+[//]: # (NO ELIMINAR INICIO DEL CONTENIDO DE PREVISIÓN)
+
+## <a name="may-6-2021"></a>6 de mayo de 2021
+
+
+### <a name="monthly-enterprise-channel"></a>Canal mensual para empresas
+
+<i>La versión prevista es la versión 2103 (compilación 13901.20506).</i>
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 2102 (compilación 13801.20506) <br/> |13 de abril de 2021 <br/> |137<br/> |
+
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>Canal semestral para empresas (versión preliminar)
+
+<i>La versión prevista es la versión 2102 (compilación 13801.20626).</i>
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 2102 (compilación 13801.20506) <br/> |13 de abril de 2021 <br/> |45<br/> |
+|Versión 2102 (compilación 13801.20294) <br/> |9 de marzo de 2021 <br/> |72<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>Canal semestral para empresas
+
+<i>La versión prevista es la versión 2008 (compilación 13127.21614).</i>
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 2008 (compilación 13127.21506) <br/> |13 de abril de 2021 <br/> |55<br/> |
+|Versión 2008 (Compilación 13127.21348) <br/> |9 de marzo de 2021 <br/> |61<br/> |
+
+
+[//]: # (NO ELIMINAR FINAL DEL CONTENIDO PREVISTO)
 
 ## <a name="april-29-2021"></a>29 de abril de 2021
 
