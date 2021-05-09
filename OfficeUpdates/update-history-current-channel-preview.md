@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los participantes del programa Insider el historial de actualizaciones de los lanzamientos del canal mensual dirigido de Office para versiones de escritorio de Windows
-ms.openlocfilehash: ff7bb864ac52a6d5b0adde4f8f80cb296645aabf
-ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
+ms.openlocfilehash: f8b50148f80bd9e77ec274722b3590cd9894ec5d
+ms.sourcegitcommit: f82c2d42402aa11741482a0f2795caf55d1d000e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52278097"
+ms.lasthandoff: 05/08/2021
+ms.locfileid: "52285991"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Historial de actualización del canal actual de Office (versión preliminar) para Windows
 
@@ -22,7 +22,7 @@ Hola, participantes de Insider. Si os estáis preguntando si tenéis instalada l
 
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Compilaciones y versiones del canal actual de Office (versión preliminar)
 
-Si está inscrito en el nivel del Canal actual (versión preliminar), anteriormente denominado Modo aplazado de Insider, obtendrá una nueva actualización de características de Office aproximadamente una vez al mes, además de las compilaciones subsiguientes que contengan correcciones importantes o actualizaciones de seguridad. La siguiente lista muestra versiones y compilaciones recientes del Canal actual (versión preliminar), con **la compilación publicada más recientemente en primer lugar**. Las compilaciones nuevas incluyen todas las actualizaciones de compilaciones anteriores. Para obtener las notas de la versión, [vea](./current-channel-preview.md). Además, puede consultar las [Novedades para participantes de Office Insider](https://insider.office.com/en-us/releasenotes/windows/slow).
+Si está inscrito en el nivel del Canal actual (versión preliminar), anteriormente denominado Modo aplazado de Insider, obtendrá una nueva actualización de características de Office aproximadamente una vez al mes, además de las compilaciones subsiguientes que contengan correcciones importantes o actualizaciones de seguridad. La siguiente lista muestra versiones y compilaciones recientes del Canal actual (versión preliminar), con **la compilación publicada más recientemente en primer lugar**. Las compilaciones nuevas incluyen todas las actualizaciones de compilaciones anteriores. Para obtener las notas de la versión, [vea](./current-channel-preview.md). Además, puede consultar las [Novedades para participantes de Office Insider](https://insider.office.com/es-ES/releasenotes/windows/slow).
 
 > [!NOTE]
 > - A continuación, se muestra el historial de actualizaciones con todas las compilaciones publicadas
@@ -31,6 +31,9 @@ Si está inscrito en el nivel del Canal actual (versión preliminar), anteriorme
 
 
 [//]: # (NO ELIMINAR)
+
+**07 de mayo de 2021**<br/>
+Versión 2105 (Compilación 14026.20138)<br/>
 
 **03 de mayo de 2021**<br/>
 Versión 2105 (Compilación 14026.20052)<br/>
