@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales de TI las notas de la versión de las versiones de Office para Mac para los suscriptores de Aplicaciones de Microsoft 365
-ms.openlocfilehash: feae6e5fbc6d3fd9d969eb0ccea108f9b62b7717
-ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
+ms.openlocfilehash: b3ed9dd7482dbb0e08fda7611727f7fedbf71c09
+ms.sourcegitcommit: 555e92127b0922cf09d5c2cc1dba836336bcbf5b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52091854"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52330517"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de la versión de Office para Mac
 
@@ -57,6 +57,58 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
 
 
+
+
+
+## <a name="may-11-2021"></a>11 de mayo de 2021
+*Versión 16.49 (compilación 21050901)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="apex-shared"></a>Apex Shared
+
+- **Disfrute de un aspecto renovado de la pantalla de inicio de Office en Mac:** un aspecto renovado que usa nuestro kit de herramientas de Fluent para adaptarse al nuevo lenguaje de diseño de Apple en Big Sur.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/visual-updates-to-start-experience-in-office-for-mac)
+
+### <a name="excel"></a>Excel
+
+- **Tipos de datos vinculados: datos reales para la vida real:** los nuevos tipos de datos vinculados le aportan hechos y datos sobre cientos de temas para ayudarle a lograr sus objetivos directamente en Excel. [Más información](https://support.office.com/article/973d28d9-c51d-4dde-83be-898ecdf3efab)
+
+### <a name="outlook"></a>Outlook
+
+- **Abra buzones compartidos y configure la delegación:** ahora puede configurar escenarios de delegación y abrir buzones compartidos en el nuevo Outlook para Mac.
+
+- **El editor hace sugerencias de escritura con un solo clic:** obtenga sugerencias ortográficas, gramaticales y otras sugerencias inteligentes haciendo clic con el botón derecho (Alt+Flecha abajo). Haga clic con el botón izquierdo para ver el nuevo diseño de tarjeta y descubrir otras opciones, como, por ejemplo, Añadir al diccionario, Mostrar contexto y Sinónimos. [Más información](https://support.office.com/article/c6b1283d-81a2-47f1-bc85-9e8dfc0cbf15)
+
+- **Dicte los mensajes con comandos de voz:** la nueva barra de herramientas de dictado, comandos de voz y puntuación automática permiten redactar mensajes con la voz de forma fácil y rápida.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog)
+
+### <a name="teams"></a>Teams
+
+- **Eliminación de ruidos basada en IA para usuarios de Mac:** cuando el micrófono está activado en una reunión o llamada de Teams, el ruido de fondo (ruidos de papeles, portazos, ladridos de perros, etc.) puede distraer a otras personas. Teams proporciona cuatro niveles de eliminación de ruido (automático, bajo, alto y desactivado) para ayudar a mantener la concentración de los participantes de la reunión. Esta característica está ahora disponible para todos los usuarios de Mac excepto para los que tienen los nuevos MAC con procesador M1 ARM.
+
+- **Atribución del orador de los subtítulos en directo y la transcripción en directo en las reuniones de Teams en GCC:** las reuniones de Teams en las nubes GCC ahora tienen expresiones de subtítulos en directo atribuidos al orador de la expresión.
+
+- **Responda en el chat:** posibilidad de responder a un mensaje específico en el chat.
+
+- **Personalice aplicaciones en Microsoft Teams:** la característica de personalización de aplicaciones permite a los desarrolladores especificar que determinadas propiedades de las aplicaciones de Teams puedan personalizarse y permite a los administradores de TI volver a personalizar cualquiera de estas propiedades en el Centro de administración de Microsoft Teams. Como ejemplo, los administradores de TI pueden personalizar el nombre, la descripción y los iconos de la aplicación Now Virtual Agent desde ServiceNow para satisfacer las necesidades únicas de su organización.
+
+- **Tarjeta de perfil de M365 en Teams:** al seleccionar el nombre o la imagen de un usuario en Teams, la tarjeta de perfil abrirá y mostrará información relacionada con esa persona, como su puesto, su información de contacto y su administrador. La tarjeta de perfil también se conoce como tarjeta de contacto o tarjeta personal.
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+
+[//]: # (NO QUITAR LOS DETALLES DE SEGURIDAD INICIO DEL CONTENIDO INICIAL)
+
+
+### <a name="security-updates"></a>Actualizaciones de seguridad
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-31177](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2021-31177)
+
+[//]: # (NO QUITAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO FINAL)
 
 ## <a name="april-13-2021"></a>13 de abril de 2021
 *Versión 16.48 (Compilación 21041102)*
@@ -1070,7 +1122,7 @@ En esta versión se incluyen las actualizaciones siguientes:
 |Word  <br/>| **Desde el iPhone a Word en un momento:** use la continuidad de cámara de Apple para insertar una foto desde su iPhone en el documento. Requiere macOS Mojave. [Más información](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> **Aplicar etiquetas de confidencialidad a los documentos**: aplique etiquetas de confidencialidad a sus documentos para que cumplan las directivas de protección de la información de su organización. [Más información](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**Capacidad de insertar SVG con filtros aplicados:** ahora, los usuarios de Office tienen la capacidad de insertar SVG con filtros aplicados. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>| [CVE-2019-0561](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-0561): vulnerabilidad de divulgación de información de Microsoft Word  <br/><br/> [CVE-2019-0585](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-0585): vulnerabilidad de la ejecución remota de código de Microsoft Word |[Paquete de actualización de Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011500_Updater.pkg) <br/>|
 |Excel  <br/>| **Colaborar con comentarios:** mantenga la conversación activa directamente en la hoja de cálculo con el cuadro de respuesta integrado. [Más información](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)<br/><br/> **Aplicar etiquetas de confidencialidad a las hojas de cálculo**: aplique etiquetas de confidencialidad a sus hojas de cálculo para que cumplan las directivas de protección de la información de su organización. [Más información](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**Capacidad de insertar SVG con filtros aplicados:** ahora, los usuarios de Office tienen la capacidad de insertar SVG con filtros aplicados. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Compatibilidad con SVG:** inserte y edite SVG en los libros para agregar impacto visual. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Más opciones de formato para los gráficos de Histograma, Cascada, Rectángulos, Proyección solar, Embudo y Mapa:** tiene más control de las opciones de formato para los nuevos tipos de gráficos mediante el panel de formato.|[Paquete de actualización de Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19011500_Updater.pkg) <br/>|
 |PowerPoint  <br/>| **Imprimir números de diapositiva en documentos:** al imprimir una presentación en documentos, en cada diapositiva aparecerá el número de diapositiva correspondiente. <br/><br/> **Aplicar etiquetas de confidencialidad a las presentaciones**: aplique etiquetas de confidencialidad a sus presentaciones para que cumplan las directivas de protección de la información de su organización. [Más información](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**Capacidad de insertar SVG con filtros aplicados:** ahora, los usuarios de Office tienen la capacidad de insertar SVG con filtros aplicados. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Insertar un subconjunto de las fuentes:** inserte solo los caracteres que se usan en la presentación.  [Más información](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3)|[Paquete de actualización de PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.21.19011500_Updater.pkg) <br/>|
-|Outlook  <br/>| **Aplicar etiquetas de confidencialidad a los mensajes**: aplique etiquetas de confidencialidad a sus mensajes para que cumplan las directivas de protección de la información de su organización. [Más información](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**Capacidad de insertar SVG con filtros aplicados:** ahora, los usuarios de Office tienen la capacidad de insertar SVG con filtros aplicados. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Encontrar correo rápidamente en el buzón actual:** seleccione el cuadro de búsqueda para obtener sugerencias rápidas basadas en su historial de búsqueda reciente. No hace falta escribir. [Más información](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1)<br/><br/>**Agregar cuentas de Gmail es ahora más fácil:** con las mejoras de seguridad, ya no necesita permitir el acceso a "aplicaciones menos seguras" ni establecer una contraseña de aplicación para agregar su cuenta de Gmail a Outlook.<br/><br/>**Outlook para Mac ahora resalta los términos de búsqueda:** ¿ha intentado buscar algo y ha deseado que Outlook resaltara el término de búsqueda en la lista de elementos y en el panel de vista previa? Pues esta función ya está aquí.||[Paquete de actualización de Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg) <br/>|
+|Outlook  <br/>| **Aplicar etiquetas de confidencialidad a los mensajes**: aplique etiquetas de confidencialidad a sus mensajes para que cumplan las directivas de protección de la información de su organización. [Más información](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**Capacidad de insertar SVG con filtros aplicados:** ahora, los usuarios de Office tienen la capacidad de insertar SVG con filtros aplicados. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Encontrar correo rápidamente en el buzón actual:** seleccione el cuadro de búsqueda para obtener sugerencias rápidas basadas en su historial de búsqueda reciente. No hace falta escribir. [Más información](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1)<br/><br/>**Agregar cuentas de Gmail es ahora más fácil:** con las mejoras de seguridad, ya no necesita permitir el acceso a "aplicaciones menos seguras" ni establecer una contraseña de aplicación para agregar su cuenta de Gmail a Outlook.<br/><br/>**Outlook para Mac ahora resalta los términos de búsqueda:** ¿ha intentado buscar algo y ha deseado que Outlook resaltara el término de búsqueda en la lista de elementos y en el panel de vista previa? Bien, pues esta función ya está aquí.||[Paquete de actualización de Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg) <br/>|
 |Microsoft Auto Update 4.7 <br/>| Ahora se inicia el AutoUpdate Daemon como parte del proceso de instalación. Esto elimina los confusos cuadros de diálogo de seguridad que se mostraban anteriormente a los usuarios. <br/><br/> Se han mejorado las características de seguridad de Microsoft AutoUpdate para que sea compatible con los certificados SHA256. <br/>|<br/> | [Paquete de actualización de Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
 
 > [!NOTE]
