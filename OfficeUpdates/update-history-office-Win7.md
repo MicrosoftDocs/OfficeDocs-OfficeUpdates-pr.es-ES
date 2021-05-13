@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los clientes notas de lanzamiento para el historial de actualizaciones de las aplicaciones de Microsoft 365 para Windows 7
-ms.openlocfilehash: 2def2d0901a5c1759c39e4f366b5bb16669a5132
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: cf4273fa79e76c1861a83a552c45afd3026380cf
+ms.sourcegitcommit: 555e92127b0922cf09d5c2cc1dba836336bcbf5b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749138"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52330457"
 ---
 # <a name="update-history-for-microsoft-365-apps-on-windows-7"></a>Historial de actualizaciones para las aplicaciones de Microsoft 365 en Windows 7 
 
@@ -26,7 +26,7 @@ ms.locfileid: "51749138"
 
 La versión 2002 es la última versión de Aplicaciones de Microsoft 365 disponible en dispositivos que ejecutan Windows 7. La versión 2002 está disponible en todos los canales de actualización para Aplicaciones de Microsoft 365.
 
-Las versiones del Canal semestral para empresas suelen estar disponibles solo durante 14 meses. Pero haremos una excepción solo en el caso de la versión 2002 para ajustarnos a la disponibilidad de las actualizaciones de seguridad extendidas (ESU) para Windows 7.
+Las versiones del Canal semianual para empresas suelen estar disponibles solo durante 14 meses. Pero realizaremos una excepción solo en el caso de la versión 2002 con el tiempo que estarán disponibles las actualizaciones de seguridad ampliada (ESU) para Windows 7.
 
 Esta disponibilidad ampliada para la versión 2002 también se aplica a otros canales de actualización, como el Canal actual, pero solo se aplica a los dispositivos que ejecutan Windows 7.
 
@@ -38,6 +38,9 @@ Si administra las actualizaciones con Microsoft Endpoint Configuration Manager, 
 ## <a name="update-history"></a>Historial de actualizaciones
 
 [//]: # (NO ELIMINAR)
+
+**11 de mayo de 2021**<br/>
+Versión 2002 (Compilación 12527.21912)<br/>
 
 **13 de abril de 2021**<br/>
 Versión 2002 (Compilación 12527.21814)<br/>

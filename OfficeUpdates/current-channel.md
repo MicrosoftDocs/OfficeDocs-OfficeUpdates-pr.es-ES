@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365
-ms.openlocfilehash: c80fc6be7ba427eb11cc1e141d44e12ed30cdb2c
-ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
+ms.openlocfilehash: b13e3ebfee9edcaaa0e703180fa734cc8efb2f8e
+ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52277917"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52322450"
 ---
 # <a name="release-notes-for-current-channel"></a>Notas de la versión para el canal actual
 
@@ -29,6 +29,55 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+
+## <a name="version-2104-may-11"></a>Versión 2104: 11 de mayo
+*Versión 2104 (Compilación 13929.20372)*
+
+Lista de actualizaciones de seguridad [aquí](microsoft365-apps-security-updates.md)
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Corrección de un problema que causaba que se bloqueara el archivo al abrir una versión principal de la reversión de compilación.
+
+
+- Se ha corregido un problema en el que el complemento de Herramientas para análisis no funcionaba para algunos usuarios.
+
+
+- Hemos corregido un problema que causaba que el formato de fecha se mostrara de forma incorrecta en algunos idiomas al usar complementos.
+
+
+### <a name="outlook"></a>Outlook
+
+- Hemos corregido un problema que provocaba que algunos usuarios de la característica de uso compartido del calendario experimentaran problemas al interactuar con su calendario en el panel de navegación.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrección de un problema que causaba que se bloqueara el archivo al abrir una versión principal de la reversión de compilación.
+
+
+- Se ha corregido un problema que no era necesario para algunos usuarios cuando la opción Reutilizar diapositivas no estaba disponible.
+
+
+### <a name="word"></a>Word
+
+- Corrección de un problema que causaba que se bloqueara el archivo al abrir una versión principal de la reversión de compilación.
+
+
+- Se ha corregido un problema que puede provocar que Word se cierre inesperadamente al cerrarse debido a que el usuario cierra o reinicia su equipo.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Este cambio analiza el nuevo atributo TenantId enviado a través de las respuestas de Cobalt y lo almacena en la Tabla Central.
 
 
 
@@ -746,6 +795,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 > Si necesita ayuda con algún problema de uso de Office, le recomendamos que publique la pregunta en el [foro de preguntas de Microsoft](https://answers.microsoft.com/) o [Tech Community](https://techcommunity.microsoft.com/), o bien puede ponerse en contacto con el [servicio de soporte técnico](https://support.microsoft.com/contactus).
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (| Win32| CC|Producto| |16.0.13929.20372|version-2104-may-11|)
 [//]: # (|Win32|CC|Producción| |16.0.13929.20296|versión-2104-abril-29|)
 [//]: # (|Win32|CC|Producción| |16.0.13901.20462|versión-2103-abril-23|)
 [//]: # (|Win32|CC|Producción| |16.0.13901.20400|versión-2103-abril-13|)
@@ -755,5 +805,4 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 [//]: # (|Win32|CC|Producción| |16.0.13801.20294|versión-2102-marzo-09|)
 [//]: # (|Win32|CC|Producción| |16.0.13801.20266|versión-2102-marzo-01|)
 [//]: # (|Win32|DC|Production| |16.0.13628.20448|version-2101-february-16|)
-[//]: # (|Win32|DC|Production| |16.0.13628.20380|version-2101-february-09|)
 [//]: # (NO MODIFICAR EL FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)

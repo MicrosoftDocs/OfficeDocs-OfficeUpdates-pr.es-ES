@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones del canal semestral de Aplicaciones de Microsoft 365
-ms.openlocfilehash: 15a5b7073da11a3dc177027ca92385a47a999e38
-ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
+ms.openlocfilehash: a6fa2fbc2e872e099800a3ca1c8ec421d14fef3d
+ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52278107"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52322350"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>Notas de la versión para el canal semestral para empresas
 
@@ -23,6 +23,59 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 > [!NOTE]
 >
 >- OneNote 2016 ahora se incluirá de forma predeterminada cuando un usuario en el canal empresarial semestral descargue e instale las Aplicaciones de Microsoft 365 en Windows 10 desde el Portal de Office.
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+
+## <a name="version-2008-may-11"></a>Versión 2008: 11 de mayo
+*Versión 2008 (Compilación 13127.21624)*
+
+Lista de actualizaciones de seguridad [aquí](microsoft365-apps-security-updates.md)
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema por el que algunos complementos de automatización para Excel no se podían cargar.
+
+
+- Hemos corregido un problema que bloqueaba la capacidad de pegar como fórmulas en una hoja protegida.
+
+
+- Hemos hecho una corrección para mejorar el rendimiento al cambiar entre hojas o al desplazarse con el seguimiento de la accesibilidad activado.
+
+
+- Se corrigió un problema por el cual las entradas manuscritas podrían hacer que Excel dejara de responder.
+
+
+### <a name="outlook"></a>Outlook
+
+- Hemos corregido un problema por el que los mensajes de correo electrónico se enviaban como firmados digitalmente después de que el usuario desactivara esa opción.
+
+
+### <a name="word"></a>Word
+
+- Se ha corregido un problema que impedía exportar algunos archivos como PDF.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+
+## <a name="version-2002-may-11"></a>Versión 2002: 11 de mayo
+*Versión 2002 (Compilación 12527.21912)*
+
+Lista de actualizaciones de seguridad [aquí](microsoft365-apps-security-updates.md)
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema por el que algunos complementos de automatización para Excel no se podían cargar.
+
 
 
 [//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
@@ -927,6 +980,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|DC|Production| |16.0.13127.21624|version-2008-may-11|)
 [//]: # (|Win32|DC|Producción| |16.0.13127.21506|versión-2008-abril-13|)
 [//]: # (|Win32|DC|Producción| |16.0.13127.21348|versión-2008-marzo-09|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21216|version-2008-february-09|)
@@ -936,5 +990,4 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 [//]: # (| Win32 | CC | Producción | | 16.0.12527.20880 | versión-2002-julio-14 |)
 [//]: # (|Win32|DC|Producción| |16.0.12527.21104|versión-2002-08-agosto|)
 [//]: # (|Win32|DC|Producción| |16.0.12527.20988|versión-2002-11-agosto|)
-[//]: # (| Win32 | CC | Producción | | 16.0.12527.20880 | versión-2002-julio-14 |)
 [//]: # (NO MODIFICAR EL FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
