@@ -9,19 +9,19 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI un historial de actualizaciones para las versiones perpetuas de Office 2013 que usan Hacer clic y ejecutar.
-ms.openlocfilehash: bb94b8247c1df7427b21911fcffaed6a5a623b69
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: 0edbfbabe81e8c379489fa15bfc3f54942f6aeb6
+ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749128"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52322300"
 ---
 # <a name="update-history-for-office-2013"></a>Historial de actualizaciones para Office 2013
 
 Algunos productos de Office 2013 se actualizan automáticamente mediante una tecnología denominada hacer clic y ejecutar. Si desea comprobar que está actualizado, compruebe su número de versión de Office y actualice Office manualmente si es necesario.
   
 > [!NOTE]
-> La versión más reciente de Office 2013 es la **15.0.5337.1001**, que se publicó el 13 de abril de 2021.
+> La versión más reciente de Office 2013 es la **15.0.5345.1002**, que se publicó el 11 de mayo de 2021.
   
 Para comprobar su versión de Office, siga estos pasos:
   
@@ -45,7 +45,8 @@ Las versiones nuevas incluyen todas las actualizaciones de versiones anteriores.
   
 |**Año de publicación**|**Fecha de publicación**|**Número de versión**|**Más información**|
 |:-----|:-----|:-----|:-----|
-|2021|13 de abril|15.0.5337.1001|[KB 5001778](https://support.microsoft.com/help/5001778)|
+|2021|11 de mayo|15.0.5345.1002|[KB 5003427](https://support.microsoft.com/help/5003427)|
+||13 de abril|15.0.5337.1001|[KB 5001778](https://support.microsoft.com/help/5001778)|
 ||9 de marzo|15.0.5327.1000|[KB 5000635](https://support.microsoft.com/help/5000635)|
 ||9 de febrero|15.0.5319.1000|[KB 5000653](https://support.microsoft.com/help/5000653)|
 ||12 de enero|15.0.5311.1000|[KB 4583559](https://support.microsoft.com/help/4583559)|

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales de TI las notas de la versión de las versiones de Office para Mac para los suscriptores de Aplicaciones de Microsoft 365
-ms.openlocfilehash: b3ed9dd7482dbb0e08fda7611727f7fedbf71c09
-ms.sourcegitcommit: 555e92127b0922cf09d5c2cc1dba836336bcbf5b
+ms.openlocfilehash: 84cf474575a5d5a4568b752336e9ea763f7af574
+ms.sourcegitcommit: 556c7532cd820796db244f0949205c75c013d9fc
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "52330517"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470764"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de la versión de Office para Mac
 
@@ -84,7 +84,7 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
 ### <a name="teams"></a>Teams
 
-- **Eliminación de ruidos basada en IA para usuarios de Mac:** cuando el micrófono está activado en una reunión o llamada de Teams, el ruido de fondo (ruidos de papeles, portazos, ladridos de perros, etc.) puede distraer a otras personas. Teams proporciona cuatro niveles de eliminación de ruido (automático, bajo, alto y desactivado) para ayudar a mantener la concentración de los participantes de la reunión. Esta característica está ahora disponible para todos los usuarios de Mac excepto para los que tienen los nuevos MAC con procesador M1 ARM.
+- **Eliminación de ruidos basada en IA para usuarios de Mac:** cuando el micrófono está activado en una reunión o llamada de Teams, el ruido de fondo (ruidos de papeles, portazos, ladridos de perros, etc.) puede distraer a otras personas. Teams proporciona cuatro niveles de eliminación de ruido (automático, bajo, alto y desactivado) para ayudar a mantener la concentración de los participantes de la reunión. Esta característica está ahora disponible para todos los usuarios de Mac excepto para aquellos con equipos Mac nuevos con Mac con Apple Silicon.
 
 - **Atribución del orador de los subtítulos en directo y la transcripción en directo en las reuniones de Teams en GCC:** las reuniones de Teams en las nubes GCC ahora tienen expresiones de subtítulos en directo atribuidos al orador de la expresión.
 
@@ -483,7 +483,7 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
 - **Agregue etiquetas de gráfico desde los valores de celda:** use los valores de celdas como etiquetas en los datos del gráfico. [Más información](https://support.office.com/article/884bf2f1-2e29-454e-8b42-f467c9f4eb2d)
 
-- **Cuente sus historias con GIF animados:** los GIF animados ahora son compatibles con el editor de Office: sus documentos ahora son más elegantes.
+- **Cuente sus historias con GIF animados:** los GIF animados ahora son compatibles con el editor de Office: sus documentos han pasado a ser más llamativos.
 
 ### <a name="outlook"></a>Outlook
 
