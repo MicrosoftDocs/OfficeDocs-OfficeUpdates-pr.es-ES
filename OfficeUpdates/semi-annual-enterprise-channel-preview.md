@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones del canal semestral (dirigido) de Aplicaciones de Microsoft 365 en 2021.
-ms.openlocfilehash: e602a1e45b465ff40b034098a118ed75466c03f0
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: 89c71d3aae644cf5d77a0568643a82175806a468
+ms.sourcegitcommit: 556c7532cd820796db244f0949205c75c013d9fc
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322490"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470784"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>Notas de la versión para el canal semestral para empresas (vista previa)
 
@@ -24,7 +24,7 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 ## <a name="version-2102-may-11"></a>Versión 2102: 11 de mayo
 *Versión 2102 (compilación 13801.20638)*
 
-Lista de actualizaciones de seguridad [aquí](microsoft365-apps-security-updates.md)
+Las actualizaciones de seguridad se muestran aquí: [Notas de la versión de las actualizaciones de seguridad de Microsoft Office](microsoft365-apps-security-updates.md).
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -35,10 +35,10 @@ Lista de actualizaciones de seguridad [aquí](microsoft365-apps-security-updates
 - Se ha corregido un problema por el que algunos complementos de automatización para Excel no se podían cargar.
 
 
-- Hemos corregido un problema que causaba que el formato de fecha se mostrara de forma incorrecta en algunos idiomas al usar complementos.
+- Se ha corregido un problema que causaba que el formato de fecha se mostrara de forma incorrecta en algunos idiomas al usar complementos.
 
 
-- Hemos corregido un problema que bloqueaba la capacidad de pegar como fórmulas en una hoja protegida.
+- Se ha corregido un problema que impedía pegar como fórmula en una hoja protegida.
 
 
 ### <a name="outlook"></a>Outlook
@@ -70,7 +70,7 @@ Lista de actualizaciones de seguridad [aquí](microsoft365-apps-security-updates
 ## <a name="version-2102-april-13"></a>Versión 2102: 13 de abril
 *Versión 2102 (Compilación 13801.20506)*
 
-Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Las actualizaciones de seguridad se muestran aquí: [Notas de la versión de las actualizaciones de seguridad de Microsoft Office](microsoft365-apps-security-updates.md).
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -138,7 +138,7 @@ Lista de actualizaciones de seguridad [aquí](https://docs.microsoft.com/officeu
 ## <a name="version-2102-march-09"></a>Versión 2102: 9 de marzo
 *Versión 2102 (Compilación 13801.20294)*
 
-Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
+Las actualizaciones de seguridad se muestran aquí: [Notas de la versión de las actualizaciones de seguridad de Microsoft Office](microsoft365-apps-security-updates.md).
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
@@ -518,7 +518,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 ## <a name="version-2008-february-09"></a>Versión 2008: 09 de febrero
 *Versión 2008 (compilación 13127.21216)*
 
-Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
+Las actualizaciones de seguridad se muestran aquí: [Notas de la versión de las actualizaciones de seguridad de Microsoft Office](microsoft365-apps-security-updates.md).
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
@@ -579,7 +579,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 ## <a name="version-2008-january-12"></a>Versión 2008: 12 de enero
 *Versión 2008 (compilación 13127.21064)*
 
-Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updates.md)
+Las actualizaciones de seguridad se muestran aquí: [Notas de la versión de las actualizaciones de seguridad de Microsoft Office](microsoft365-apps-security-updates.md).
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
