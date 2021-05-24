@@ -8,17 +8,17 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365
-ms.openlocfilehash: b13e3ebfee9edcaaa0e703180fa734cc8efb2f8e
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365
+ms.openlocfilehash: 6caa57d57ded20a070ce8af5dc8725115081317a
+ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322450"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52563376"
 ---
 # <a name="release-notes-for-current-channel"></a>Notas de la versión para el canal actual
 
-Estas notas de la versión proporcionan información sobre las nuevas características y las actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones del canal actual para las Aplicaciones de Microsoft 365 para empresas, las Aplicaciones de Microsoft 365 para negocios, y las versiones de suscripción de las aplicaciones de escritorio de Project y Visio.
+Estas notas de la versión proporcionan información sobre las nuevas características y las actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones del canal actual para las Aplicaciones de Microsoft 365 para empresas, las Aplicaciones de Microsoft 365 para negocios, y las versiones de suscripción de las aplicaciones de escritorio de Project y Visio.
 
  > [!NOTE]
 >
@@ -29,6 +29,23 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+
+## <a name="version-2104-may-18"></a>Versión 2104: 18 de mayo
+*Versión 2104 (Compilación 13929.20386)*
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="outlook"></a>Outlook
+
+- Hemos corregido un problema que provocaba que el selector de usuarios en Outlook se expandiera hacia arriba en lugar de hacia abajo para los usuarios con una licencia permanente.
+
+
+- Hemos corregido un problema que causaba que la opción de comentarios no se mostrara a los usuarios de la versión preliminar de Office Perpetual 2021.
 
 
 
@@ -101,7 +118,7 @@ Lista de actualizaciones de seguridad [aquí](microsoft365-apps-security-updates
 
 ### <a name="visio"></a>Visio
 
-- **Gráficos preparados para los diagramas:** elija entre una gran biblioteca de íconos, imágenes de fotografías de archivo, personas recortadas y adhesivos que puede agregar a sus dibujos de Visio. [Más información](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)<br />Ver detalles en [entrada de blog](https://insider.office.com/es-ES/blog/access-illustrations-icons-in-visio)
+- **Gráficos preparados para los diagramas:** elija entre una gran biblioteca de íconos, imágenes de fotografías de archivo, personas recortadas y adhesivos que puede agregar a sus dibujos de Visio. [Más información](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/access-illustrations-icons-in-visio)
 
 ### <a name="word"></a>Word
 
@@ -118,9 +135,6 @@ Lista de actualizaciones de seguridad [aquí](microsoft365-apps-security-updates
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="excel"></a>Excel
-
-- Se ha corregido un problema por el que algunos complementos de automatización de Excel no se cargan.
-
 
 - Hemos corregido un problema por el que a veces algunos archivos no se podían abrir en Vista protegida.
 
@@ -795,6 +809,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 > Si necesita ayuda con algún problema de uso de Office, le recomendamos que publique la pregunta en el [foro de preguntas de Microsoft](https://answers.microsoft.com/) o [Tech Community](https://techcommunity.microsoft.com/), o bien puede ponerse en contacto con el [servicio de soporte técnico](https://support.microsoft.com/contactus).
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|CC|Production| |16.0.13929.20386|version-2104-may-18|)
 [//]: # (| Win32| CC|Producto| |16.0.13929.20372|version-2104-may-11|)
 [//]: # (|Win32|CC|Producción| |16.0.13929.20296|versión-2104-abril-29|)
 [//]: # (|Win32|CC|Producción| |16.0.13901.20462|versión-2103-abril-23|)
@@ -804,5 +819,4 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 [//]: # (|Win32|CC|Producción| |16.0.13801.20360|versión-2102-marzo-18|)
 [//]: # (|Win32|CC|Producción| |16.0.13801.20294|versión-2102-marzo-09|)
 [//]: # (|Win32|CC|Producción| |16.0.13801.20266|versión-2102-marzo-01|)
-[//]: # (|Win32|DC|Production| |16.0.13628.20448|version-2101-february-16|)
 [//]: # (NO MODIFICAR EL FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)

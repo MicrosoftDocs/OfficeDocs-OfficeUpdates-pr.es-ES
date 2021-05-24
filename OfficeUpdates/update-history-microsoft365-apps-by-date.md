@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista completa de las versiones de las Aplicaciones de Microsoft 365, organizada por fecha, con vínculos a las notas de la versión.
-ms.openlocfilehash: d0a956126459c81ebb4147fd052dcc1a62661eab
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: 818e8a5f528dc4eeb71f39e8f03f5d580351daf8
+ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322310"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52563396"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Historial de actualizaciones de Aplicaciones de Microsoft 365 (ordenado por fecha)
 
@@ -33,7 +33,7 @@ En la tabla siguiente se muestra la versión compatible y el número de compilac
 
 |**Canal**|**Versión**|**Compilación**|**Fecha de publicación**|**Versión admitida hasta**|
 |:-----|:-----|:-----|:-----|:-----|
-|Canal actual<br/>|2104<br/>|13929.20372<br/>|11 de mayo de 2021<br/>|Lanzamiento de la versión 2105<br/>|
+|Canal actual<br/>|2104<br/>|13929.20386<br/>|18 de mayo de 2021<br/>|Lanzamiento de la versión 2105<br/>|
 |Canal empresarial mensual<br/>|2103<br/>|13901.20516<br/>|11 de mayo de 2021<br/>|13 de julio de 2021<br/>|
 |Canal empresarial mensual<br/>|2102<br/>|13801.20638<br/>|11 de mayo de 2021<br/>|8 de junio de 2021<br/>|
 |Canal semestral para empresas (versión preliminar)<br/>|2102<br/>|13801.20638<br/>|11 de mayo de 2021<br/>|14 de septiembre de 2021<br/>|
@@ -52,6 +52,7 @@ En la tabla siguiente, se muestra una lista de los números de versión y compil
 
 |**Year**|**Fecha de publicación**|**Canal actual**|**Canal empresarial mensual**|**Canal empresarial semestral (vista previa)**|**Canal empresarial semestral**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2021|18 de mayo|[Versión 2104 (Compilación 13929.20386)](current-channel.md#version-2104-may-18)| | | |
 |2021|11 de mayo|[Versión 2104 (Compilación 13929.20372)](current-channel.md#version-2104-may-11)|[Versión 2103 (Compilación 13901.20516)](monthly-enterprise-channel.md#version-2103-may-11)<br/>[Versión 2102 (Compilación 13801.20638)](monthly-enterprise-channel.md#version-2102-may-11)|[Versión 2102 (Compilación 13801.20638)](semi-annual-enterprise-channel-preview.md#version-2102-may-11)|[Versión 2008 (Compilación 13127.21624)](semi-annual-enterprise-channel.md#version-2008-may-11)<br/>[Versión 2002 (Compilación 12527.21912)](semi-annual-enterprise-channel.md#version-2002-may-11)|
 |2021|29 de abril|[Versión 2104 (compilación 13929.20296)](current-channel.md#version-2104-april-29)| | | |
 |2021|23 de abril|[Versión 2103 (Compilación 13901.20462)](current-channel.md#version-2103-april-23)| | | |
@@ -111,7 +112,7 @@ En la tabla siguiente, se muestra una lista de los números de versión y compil
 |2020|8 de enero|[Versión 1912 (compilación 12325.20288)](current-channel.md#version-1912-january-08)| | | |
 |2019|10 de diciembre|[Versión 1911 (compilación 12228.20364)](monthly-channel-archived.md#version-1911-december-10)| |[Versión 1908 (compilación 11929.20516)](semi-annual-enterprise-channel-archived.md#version-1902-december-10)  |[Versión 1902 (compilación 11328.20492)](semi-annual-enterprise-channel-archived.md#version-1902-december-10)<br/>[Versión 1808 (compilación 10730.20426)](semi-annual-enterprise-channel-archived.md#version-1808-december-10)|
 |2019|3 de diciembre |[Versión 1911 (compilación 12228.20332)](monthly-channel-archived.md#version-1911-december-03)| | | |
-|2019|22 de noviembre|[Versión 1910 (compilación 12130.20410)](monthly-channel-archived.md#version-1910-november-22)| |[Versión 1908 (compilación 11929.20494)](semi-annual-enterprise-channel-preview-archived.md#version-1908-november-22)|[Versión 1902 (compilación 11328.20480)](semi-annual-enterprise-channel-archived.md#version-1902-november-22)<br/>[Versión 1808 (compilación 10730.20422)](semi-annual-enterprise-channel-archived.md#version-1808-november-22)|
+|2019|22 de noviembre|[Versión 1910 (compilación 12130.20410)](monthly-channel-archived.md#version-1910-november-22)| |[Versión 1908 (compilación 11929.20494)](semi-annual-enterprise-channel-preview-archived.md#version-1908-november-22)|[Versión 1902 (compilación 11328.20480)](semi-annual-enterprise-channel-archived.md#version-1902-november-22)<br/>[Versión 1808 (compilación 10730.20422)](semi-annual-enterprise-channel-archived.md#version-1808-november-22)|
 |2019|18 de noviembre|[Versión 1910 (compilación 12130.20390)](monthly-channel-archived.md#version-1910-november-18)| | | |
 |2019|12 de noviembre|[Versión 1910 (compilación 12130.20344)](monthly-channel-archived.md#version-1910-november-12) | |[Versión 1908 (compilación 11929.20436)](semi-annual-enterprise-channel-preview-archived.md#version-1908-november-12)|[Versión 1902 (compilación 11328.20468)](semi-annual-enterprise-channel-archived.md#version-1902-november-12)<br/>[Versión 1808 (compilación 10730.20416)](semi-annual-enterprise-channel-archived.md#version-1808-november-12)|
 |2019|30 de octubre|[Versión 1910 (compilación 12130.20272)](monthly-channel-archived.md#version-1910-october-30)| | | |

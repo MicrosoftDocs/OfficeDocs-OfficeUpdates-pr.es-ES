@@ -8,13 +8,13 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
-description: Proporciona a los profesionales de TI las notas de la versión de las versiones de Office para Mac para los suscriptores de Aplicaciones de Microsoft 365
-ms.openlocfilehash: 84cf474575a5d5a4568b752336e9ea763f7af574
-ms.sourcegitcommit: 556c7532cd820796db244f0949205c75c013d9fc
+description: Proporciona a los profesionales de TI las notas de la versión de las versiones de Office para Mac para los suscriptores de Aplicaciones de Microsoft 365
+ms.openlocfilehash: 067ef80e03b19a040c0af5463f18d6a4af5f8094
+ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470764"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52563406"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de la versión de Office para Mac
 
@@ -81,6 +81,9 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 - **El editor hace sugerencias de escritura con un solo clic:** obtenga sugerencias ortográficas, gramaticales y otras sugerencias inteligentes haciendo clic con el botón derecho (Alt+Flecha abajo). Haga clic con el botón izquierdo para ver el nuevo diseño de tarjeta y descubrir otras opciones, como, por ejemplo, Añadir al diccionario, Mostrar contexto y Sinónimos. [Más información](https://support.office.com/article/c6b1283d-81a2-47f1-bc85-9e8dfc0cbf15)
 
 - **Dicte los mensajes con comandos de voz:** la nueva barra de herramientas de dictado, comandos de voz y puntuación automática permiten redactar mensajes con la voz de forma fácil y rápida.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog)
+
+- **Compartir en Microsoft Teams:** Enviar una copia de los mensajes de correo electrónico o iniciar un chat de Teams relacionado con un mensaje de correo electrónico específico. Al compartir con Teams desde Outlook para Mac, aparecerá una ventana emergente para confirmar con qué canal o persona desea compartir, también puede seleccionar si desea incluir datos adjuntos o no.
+
 
 ### <a name="teams"></a>Teams
 
@@ -324,7 +327,7 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
 -   [CVE-2020-17124](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-17124)
 
-[//]: # (NO QUITAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO FINAL)
+[//]: # (NO ELIMINAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO FINAL)
 
 ## <a name="november-10-2020"></a>10 de noviembre de 2020
 *Versión 16.43 (Compilación 20110804)*
@@ -576,7 +579,7 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
 - **Encuentre lo que busca:** use el cuadro de búsqueda para buscar texto, comandos, ayuda y mucho más. [Más información](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
 
-- **Una manera más rápida de agregar celdas**: **habilite el modo Hacer clic para agregar**, luego escriba = y seleccione algunas celdas para crear rápidamente una fórmula que sume los valores de las celdas. Encuentre esta opción en **Menú** > **Preferencias** > **Editar**.  [Más información](https://support.office.com/es-ES/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/04/21/click-to-add-mode-feedback-in-action/)
+- **Una manera más rápida de agregar celdas**: **habilite el modo Hacer clic para agregar**, luego escriba = y seleccione algunas celdas para crear rápidamente una fórmula que sume los valores de las celdas. Encuentre esta opción en **Menú** > **Preferencias** > **Editar**.  [Más información](https://support.office.com/es-ES/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/04/21/click-to-add-mode-feedback-in-action/)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -584,14 +587,14 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
 - **Vínculo a la diapositiva:** pídale a un compañero que participe en la presentación de diapositivas y llévele directamente a la diapositiva con la que necesita ayuda. [Más información](https://support.office.com/article/4f5f3d5e-1674-4742-8cf1-9623050c19ef)
 
-- **Encuentre lo que busca:** use el cuadro de búsqueda para buscar texto, comandos, ayuda y mucho más. [Más información](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
+- **Encuentre lo que busca:** use el cuadro de búsqueda para buscar texto, comandos, ayuda y mucho más. [Más información](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
 
 ### <a name="word"></a>Word
 
 - **Escriba sin manos:** ¿tiene un micrófono? Haga clic en Dictar y vea cómo Word escribe mientras habla.  [Más información](https://support.office.com/article/3876e05f-3fcc-418f-b8ab-db7ce0d11d3c)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/01/24/dictate-your-documents-in-word-on-mac/)
 
 
-- **Encuentre lo que busca:** use el cuadro de búsqueda para buscar texto, comandos, ayuda y mucho más. [Más información](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
+- **Encuentre lo que busca:** use el cuadro de búsqueda para buscar texto, comandos, ayuda y mucho más. [Más información](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
@@ -1121,7 +1124,7 @@ En esta versión se incluyen las actualizaciones siguientes:
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| **Desde el iPhone a Word en un momento:** use la continuidad de cámara de Apple para insertar una foto desde su iPhone en el documento. Requiere macOS Mojave. [Más información](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> **Aplicar etiquetas de confidencialidad a los documentos**: aplique etiquetas de confidencialidad a sus documentos para que cumplan las directivas de protección de la información de su organización. [Más información](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**Capacidad de insertar SVG con filtros aplicados:** ahora, los usuarios de Office tienen la capacidad de insertar SVG con filtros aplicados. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>| [CVE-2019-0561](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-0561): vulnerabilidad de divulgación de información de Microsoft Word  <br/><br/> [CVE-2019-0585](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2019-0585): vulnerabilidad de la ejecución remota de código de Microsoft Word |[Paquete de actualización de Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011500_Updater.pkg) <br/>|
 |Excel  <br/>| **Colaborar con comentarios:** mantenga la conversación activa directamente en la hoja de cálculo con el cuadro de respuesta integrado. [Más información](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)<br/><br/> **Aplicar etiquetas de confidencialidad a las hojas de cálculo**: aplique etiquetas de confidencialidad a sus hojas de cálculo para que cumplan las directivas de protección de la información de su organización. [Más información](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**Capacidad de insertar SVG con filtros aplicados:** ahora, los usuarios de Office tienen la capacidad de insertar SVG con filtros aplicados. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Compatibilidad con SVG:** inserte y edite SVG en los libros para agregar impacto visual. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Más opciones de formato para los gráficos de Histograma, Cascada, Rectángulos, Proyección solar, Embudo y Mapa:** tiene más control de las opciones de formato para los nuevos tipos de gráficos mediante el panel de formato.|[Paquete de actualización de Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19011500_Updater.pkg) <br/>|
-|PowerPoint  <br/>| **Imprimir números de diapositiva en documentos:** al imprimir una presentación en documentos, en cada diapositiva aparecerá el número de diapositiva correspondiente. <br/><br/> **Aplicar etiquetas de confidencialidad a las presentaciones**: aplique etiquetas de confidencialidad a sus presentaciones para que cumplan las directivas de protección de la información de su organización. [Más información](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**Capacidad de insertar SVG con filtros aplicados:** ahora, los usuarios de Office tienen la capacidad de insertar SVG con filtros aplicados. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Insertar un subconjunto de las fuentes:** inserte solo los caracteres que se usan en la presentación.  [Más información](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3)|[Paquete de actualización de PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.21.19011500_Updater.pkg) <br/>|
+|PowerPoint  <br/>| **Imprimir números de diapositiva en documentos:** al imprimir una presentación en documentos, en cada diapositiva aparecerá el número de diapositiva correspondiente. <br/><br/> **Aplicar etiquetas de confidencialidad a las presentaciones**: aplique etiquetas de confidencialidad a sus presentaciones para que cumplan las directivas de protección de la información de su organización. [Más información](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**Capacidad de insertar SVG con filtros aplicados:** ahora, los usuarios de Office tienen la capacidad de insertar SVG con filtros aplicados. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Insertar un subconjunto de las fuentes:** Inserte solo los caracteres que se usan en la presentación. [Más información](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3)|[Paquete de actualización de PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.21.19011500_Updater.pkg) <br/>|
 |Outlook  <br/>| **Aplicar etiquetas de confidencialidad a los mensajes**: aplique etiquetas de confidencialidad a sus mensajes para que cumplan las directivas de protección de la información de su organización. [Más información](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**Capacidad de insertar SVG con filtros aplicados:** ahora, los usuarios de Office tienen la capacidad de insertar SVG con filtros aplicados. [Más información](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Encontrar correo rápidamente en el buzón actual:** seleccione el cuadro de búsqueda para obtener sugerencias rápidas basadas en su historial de búsqueda reciente. No hace falta escribir. [Más información](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1)<br/><br/>**Agregar cuentas de Gmail es ahora más fácil:** con las mejoras de seguridad, ya no necesita permitir el acceso a "aplicaciones menos seguras" ni establecer una contraseña de aplicación para agregar su cuenta de Gmail a Outlook.<br/><br/>**Outlook para Mac ahora resalta los términos de búsqueda:** ¿ha intentado buscar algo y ha deseado que Outlook resaltara el término de búsqueda en la lista de elementos y en el panel de vista previa? Bien, pues esta función ya está aquí.||[Paquete de actualización de Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg) <br/>|
 |Microsoft Auto Update 4.7 <br/>| Ahora se inicia el AutoUpdate Daemon como parte del proceso de instalación. Esto elimina los confusos cuadros de diálogo de seguridad que se mostraban anteriormente a los usuarios. <br/><br/> Se han mejorado las características de seguridad de Microsoft AutoUpdate para que sea compatible con los certificados SHA256. <br/>|<br/> | [Paquete de actualización de Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
 

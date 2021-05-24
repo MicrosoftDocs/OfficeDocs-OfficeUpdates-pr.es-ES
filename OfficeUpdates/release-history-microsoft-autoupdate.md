@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales informáticos un historial de versiones de Microsoft AutoUpdate (MAU).
-ms.openlocfilehash: f2b3bd46a71708c9444265c5dbf33fbe3b9b5cb2
-ms.sourcegitcommit: cf8d286b8fb825e19d8730c011d53e98156b6646
+ms.openlocfilehash: 783ae03e77060c91a02e98e88e3d1570c1cdaf11
+ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51755412"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52563386"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historial de versiones de Microsoft AutoUpdate (MAU)
  
@@ -29,6 +29,25 @@ En la siguiente tabla, se proporciona información del historial de versiones de
 > - Microsoft AutoUpdate ofrece actualizaciones para distintos productos de Mac de Microsoft. Por tanto, es posible que reciba una notificación para actualizar Microsoft AutoUpdate, incluso si no está ejecutando Office para Mac.
 
 Para ver las notas de la versión, consulte [Notas de la versión.](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="may-2021-release"></a>Versión de mayo de 2021
+
+**Fecha de publicación:** 13 de mayo de 2021
+
+*Microsoft AutoUpdate 4.35*
+
+**Correcciones de errores y mejoras:**
+- Se han solucionado los posibles problemas con las actualizaciones simultáneas que provocaban que se mostrara el mensaje "Ya hay una actualización en curso".
+- Corrección de errores en el cuadro de diálogo Omitir que se muestra dos veces.
+- Corrección de errores al mostrar varias notificaciones para la misma actualización.
+- Reducción del tamaño en el paquete de actualización/instalación de Microsoft AutoUpdate.
+- Ahora, la interfaz de línea de comandos (CLI) usa xpc nativo para comunicarse con el Asistente de Microsoft Update en lugar de los eventos de Apple.
+
+[Descargar el paquete de Microsoft AutoUpdate 4.35](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.35.21050901_Updater.pkg)<br/>
+<br/>
+**SHA-256 Hash:**
+
+1F6CAB8CCAF52743EFEEA908D0F26E2AE1A1F171C877F7B8057D00CDA7727733
 
 ## <a name="april-2021-release"></a>Versión de abril de 2021
 
@@ -359,7 +378,7 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
  **Actualizaciones de características:**
 
 - Las novedades de cada actualización principal ahora pueden verse en el panel de Microsoft AutoUpdate.
-- Los requisitos mínimos del sistema operativo para las actualizaciones de Office 2019 se han cambiado a macOS 10.13 con la versión de Catalina y estamos notificando a los usuarios que lo actualicen para recibir las últimas actualizaciones de Office. Los usuarios recibirán una notificación para actualizar a las últimas actualizaciones de Office.
+- Los requisitos mínimos del sistema operativo para las actualizaciones de Office 2019 se han cambiado a macOS 10.13 con la versión de Catalina. Los usuarios recibirán una notificación para actualizar a las últimas actualizaciones de Office.
 
 **SHA-256 Hash:**
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Aplicaciones de Microsoft 365 según el canal de actualización.
-ms.openlocfilehash: f9a6e6f59593677910766785b0a42a551277c44c
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: d16050d5873de88a8ac9d709d097c447f6ab553c
+ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322460"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52563366"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tamaños de descarga de las actualizaciones de Aplicaciones de Microsoft 365 
 
@@ -30,6 +30,22 @@ Si va a cambiar de canal, por ejemplo, del Canal semestral (dirigido) al Canal s
 > - Se muestran las versiones de los últimos cuatro meses.
 
 [//]: # (NO ELIMINAR)
+
+## <a name="may-18-2021"></a>18 de mayo de 2021
+
+[//]: # (NO QUITAR EL CONTENIDO A PARTIR DEL 18 de mayo de 2021)
+
+### <a name="current-channel"></a>Canal actual
+
+La versión más reciente es la versión 2104 (compilación 13929.20386).
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 2104 (compilación 13929.20372) <br/> |11 de mayo de 2021 <br/> |50<br/> |
+|Versión 2104 (Compilación 13929.20296) <br/> |29 de abril de 2021 <br/> |60<br/> |
+
+
+[//]: # (NO QUITAR EL FINAL DEL CONTENIDO EL 18 de mayo de 2021)
 
 ## <a name="may-11-2021"></a>11 de mayo de 2021
 

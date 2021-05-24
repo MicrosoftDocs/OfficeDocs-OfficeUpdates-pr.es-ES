@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporcionar a los participantes del Modo aplazado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos
-ms.openlocfilehash: 4f88b65e310f4b5992638e6901b3f0ad3d4f6576
-ms.sourcegitcommit: 556c7532cd820796db244f0949205c75c013d9fc
+ms.openlocfilehash: 82132e7f0862e2027fa518120341e530a2879aa5
+ms.sourcegitcommit: 11b24bf6e62e75f32ba8842e00fd146fe0d95959
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470774"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52574305"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notas de la versión del canal actual de Office (versión preliminar)
 
@@ -29,6 +29,42 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
 
+## <a name="version-2105-may-19"></a>Versión 2105: 19 de mayo
+*Versión 2105 (Compilación 14026.20202)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="teams"></a>Teams
+
+- **Los seminarios web de Teams se integran con Dynamics 365 Marketing para consolidar clientes potenciales:** Con esta característica, los organizadores de seminarios web pueden fomentar la participación posterior al evento con los asistentes al usar D365 Marketing. Los datos de participación de los asistentes se sincronizan con la organización de D365 Marketing y habilitan recorridos de usuario automatizados
+
+- **Oradores inteligentes:** Los oradores inteligentes son periféricos inteligentes para las salas de Microsoft Teams en Windows. Mostrarán una transcripción del orador correspondiente a los participantes de la sala de reuniones, lo que permitirá a los asistentes dedicar menos tiempo a tomar notas y seguir fácilmente lo que se dice en la sala.
+
+- **Permitir a los usuarios de Teams comprar aplicaciones de Teams a través del cliente de Teams:** Los usuarios de Teams ahora tienen la posibilidad de comprar suscripciones de la aplicación de Teams desde la tienda de Teams.
+
+- **Crear Teams con plantillas de equipo:** Con plantillas en Teams, los usuarios pueden elegir entre una variedad de plantillas personalizables al crear un nuevo equipo, lo que les ayuda a empezar con rapidez. Asimismo, los administradores de TI pueden crear plantillas personalizadas para su organización, lo que les permite normalizar estructuras de equipo, preinstalar aplicaciones relevantes y escalar procedimientos recomendados. Los administradores de TI pueden elegir qué plantillas de Teams se mostrarán a los usuarios finales en el Centro de administración de Teams y, además, preconfigurar las pestañas del sitio web agregando direcciones URL a una pestaña del sitio web en una plantilla de equipo.
+
+- **Usar anotaciones de lápiz y puntero láser en PowerPoint Live en Teams:** Estamos introduciendo el puntero láser virtual y las anotaciones para que los presentadores puedan compartir contenido de forma eficaz y atraer la atención del público hacia determinadas secciones de la presentación de PowerPoint. De la misma forma que usaría un punto láser físico en una sala, PowerPoint Live le permite apuntar de forma eficaz a diferentes lugares para que el público pueda seguir fácilmente lo que hay en la diapositiva.
+
+- **Recomendaciones de flujo de Power Automate con plantillas de equipo 1P:** Plantillas de flujo de Power Automate para Surface para equipos creados a partir de plantillas de equipo 1P
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="outlook"></a>Outlook
+
+- Hemos corregido un problema que causaba que la opción de comentarios no se mostrara a los usuarios de la versión preliminar de Office Perpetual 2021.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+
 ## <a name="version-2105-may-12"></a>Versión 2105: 12 de mayo
 *Versión 2105 (compilación 14026.20164)*
 
@@ -41,7 +77,7 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 
 - **Modo en paralelo y reportero en reuniones de Teams:** ahora puede aparecer junto al contenido para obtener una presentación y una experiencia de consumo más atractivas.
 
-- **Disponibilidad general de las capacidades de seminario web de Teams:** programe y realice seminarios web de 1 000 personas con la misma aplicación de Teams que usa para reuniones. Las funcionalidades de seminario web admiten la creación de páginas de registro, confirmación de correo electrónico para los solicitantes de registro, administración del host para audio y vídeo de asistentes, informes de asistentes y características interactivas, como sondeos, chat y reacciones.
+- **Disponibilidad general de las capacidades de seminario web de Teams:** programe y realice seminarios web de 1 000 personas con la misma aplicación de Teams que usa para reuniones. Las funcionalidades de seminario web admiten la creación de páginas de registro, confirmación de correo electrónico para los solicitantes de registro, administración del host para audio y vídeo de asistentes, informes de asistentes y características interactivas, como sondeos, chat y reacciones.
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
@@ -1182,7 +1218,7 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="outlook"></a>Outlook
 
-- **Sugerencias de escritura con un solo clic:** Aplique sugerencias de escritura con un solo clic. El editor corrige la ortografía y la gramática y le da ideas para refinar su escritura. [Más información](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Ver detalles en [entrada de blog](https://insider.office.com/es-ES/blog/microsoft-editor-gets-an-upgrade)
+- **Sugerencias de escritura con un solo clic:** Aplique sugerencias de escritura con un solo clic. El editor corrige la ortografía y la gramática y le da ideas para refinar su escritura. [Más información](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/microsoft-editor-gets-an-upgrade)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
@@ -1684,7 +1720,7 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 - Se ha corregido un problema que provocaba que se interrumpiera el evento MailItem.BeforeAttachmentAdd.
 
 
-- Se ha agregado una clave de registro que permite a los clientes deshabilitar la inclusión de hora de archivo para datos adjuntos en operaciones de IDataObject (es decir, arrastrar y soltar, portapapeles). HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments. REG_DWORD IncludeFileTimesInDataObject. 0 = se excluyen filetimes. 1 = (predeterminado) filetimes se incluyen
+- Se ha agregado una clave de registro que permite a los clientes deshabilitar la inclusión de hora de archivo para los datos adjuntos en las operaciones de IDataObject (es decir, arrastrar y soltar, portapapeles). HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments. REG_DWORD IncludeFileTimesInDataObject. 0 = se excluyen filetimes. 1 = (predeterminado) filetimes se incluyen
 
 
 - Se ha corregido un problema por el que las imágenes en línea desaparecían al responder a un mensaje con una etiqueta de protección de Azure Information Protection.
@@ -2393,7 +2429,7 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 - Se corrigió un problema por el cual ejecutar el código VBA ActiveInspector.CommandBars.ExecuteMso("ShowSchedulingPage") después de habilitar Cinta de opciones de una línea (SLR) daba como resultado un error de tiempo de ejecución.
 
 
-- Se corrigió un problema por el cual los botones 'Aceptar' y 'Cancelar' en el cuadro de diálogo Respuestas automáticas no eran visibles en un sistema con una resolución alta (como 1750 x 1920) combinada con un tamaño de texto grande (como 175 %).
+- Se corrigió un problema por el cual los botones 'Aceptar' y 'Cancelar' en el cuadro de diálogo Respuestas automáticas no eran visibles en un sistema con una resolución alta (como 1750 x 1920) combinada con un tamaño de texto grande (como 175 %).
 
 
 - Se corrigió una condición por la que enviar una convocatoria de reunión desde un grupo de contactos vacío a otro grupo de contactos provocaba un bloqueo.
@@ -2461,7 +2497,7 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 - Se corrigió un problema por el cual si un usuario creaba un borrador de comentario anclado a una línea que ya contenía comentarios comprometidos, el borrador se organizaba en el orden incorrecto en relación con el comentario comprometido en SideTrack.
 
 
-- Se corrigió un problema por el cual el foco no iba al panel de comentarios si el documento se ampliaba al 160 % o más y el panel de comentarios no estaba visible.
+- Se corrigió un problema por el cual el foco no iba al panel de comentarios si el documento se ampliaba al 160 % o más y el panel de comentarios no estaba visible.
 
 
 - Hemos corregido un problema que impedía a los usuarios ver los hilos de comentarios que superaran el límite de la barra de los comentarios, porque el desplazamiento por dicha barra no funcionaba.
@@ -2972,7 +3008,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 - Se ha corregido un problema que provocaba que el evento ProjectBeforeTaskChange no se activara al tener lugar un cambio en la tarea de resumen del proyecto, ya fuera en el campo de inicio o de tarea del proyecto.
 
 
-- Se ha corregido un problema por el que, si las tareas de duración fija estaban completas al 100 %, pero no se especificaba la fecha de finalización real, el porcentaje de finalización de la tarea se mostraba como inferior al 100 %.
+- Se ha corregido un problema por el que, si las tareas de duración fija estaban completas al 100 %, pero no se especificaba la fecha de finalización real, el porcentaje de finalización de la tarea se mostraba como inferior al 100 %.
 
 - Se ha corregido un problema por el que una actualización o un restablecimiento de la línea base podía cambiar los recursos de trabajo o el costo presupuestado con fases temporales, y la línea base podía reflejar valores de presupuesto incorrectos.
 
@@ -3121,15 +3157,15 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 
 
 
-- **Guardar en Carpetas ancladas:** anclar tus carpetas hace que el almacenamiento de archivos de Office sea más fácil. Nuestros usuarios nos dijeron que querían tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. <br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Guardar en Carpetas ancladas:** anclar tus carpetas hace que el almacenamiento de archivos de Office sea más fácil. Nuestros usuarios nos dijeron que querían tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. <br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Guardar en Carpetas ancladas:** anclar tus carpetas hace que el almacenamiento de archivos de Office sea más fácil. Nuestros usuarios nos dijeron que querían tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil.<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Guardar en Carpetas ancladas:** anclar tus carpetas hace que el almacenamiento de archivos de Office sea más fácil. Nuestros usuarios nos dijeron que querían tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil.<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 ### <a name="word"></a>Word
 
-- **Guardar en Carpetas ancladas:** anclar tus carpetas hace que el almacenamiento de archivos de Office sea más fácil. Nuestros usuarios nos dijeron que querían tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. <br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Guardar en Carpetas ancladas:** anclar tus carpetas hace que el almacenamiento de archivos de Office sea más fácil. Nuestros usuarios nos dijeron que querían tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. <br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
@@ -3638,7 +3674,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 
 
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2004-april-29"></a>Versión 2004: 29 de abril
 *Versión 2004 (compilación 12730.20236)*
