@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporcionar a los participantes del Modo aplazado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos
-ms.openlocfilehash: 82132e7f0862e2027fa518120341e530a2879aa5
-ms.sourcegitcommit: 11b24bf6e62e75f32ba8842e00fd146fe0d95959
+ms.openlocfilehash: 03e3b8b6d89cf5373c5243e79fb308edb668abf3
+ms.sourcegitcommit: 79c85ce398cdedeaac46ece812626eec0f05a61b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52574305"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52636534"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notas de la versión del canal actual de Office (versión preliminar)
 
@@ -28,6 +28,55 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 [//]: # (NO ELIMINAR)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+## <a name="version-2105-may-23"></a>Versión 2105: 23 de mayo
+*Versión 2105 (Compilación 14026.20246)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="teams"></a>Teams
+
+- **Anuncio de las vistas del panel de datos de asistencia:** Ya no es necesario descargar manualmente los informes, ahora Teams le permite ver todos los datos agregados en la vista del panel con un solo clic.
+
+- **Funciones de seguridad, cumplimiento y protección de datos para aplicaciones:** para las aplicaciones de Microsoft 365 Certified Teams, los administradores pueden ver las funciones de seguridad, cumplimiento y protección de datos en una nueva pestaña de la página de detalles de la aplicación en el Centro de administración de Teams. Esta transparencia ofrece a los clientes de Microsoft confianza en las aplicaciones que ejecutan sus organizaciones.
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema que causaba que algunas instrucciones de la característica "Acortar reuniones" no estuvieran disponibles a través de las tecnologías de lector de pantalla.
+
+
+- Se ha corregido un problema que causaba que algunos usuarios se cerraran de forma inesperada al cargar tarjetas de persona.
+
+
+- Hemos corregido un problema que bloqueaba la capacidad de pegar como fórmulas en una hoja protegida.
+
+    - Regkey:
+
+    > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+
+    > REG_DWORD “ShowLegacyRoomFinder” 0 </br>
+
+    > (predeterminado) - Outlook usa la nueva tecnología eXperience del Buscador de salas OWA cuando el usuario hace clic en el botón "Buscador de salas" para buscar salas disponibles.  </br>
+
+    > 1: Outlook usa la interfaz de usuario del Buscador de salas heredada para buscar salas disponibles </br>
+
+
+### <a name="project"></a>Project
+
+- Se ha corregido un problema que hacía que las tareas de las tareas programadas manualmente se movieran a una fecha incorrecta.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2105-may-19"></a>Versión 2105: 19 de mayo
 *Versión 2105 (Compilación 14026.20202)*
@@ -1218,7 +1267,7 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="outlook"></a>Outlook
 
-- **Sugerencias de escritura con un solo clic:** Aplique sugerencias de escritura con un solo clic. El editor corrige la ortografía y la gramática y le da ideas para refinar su escritura. [Más información](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/microsoft-editor-gets-an-upgrade)
+- **Sugerencias de escritura con un solo clic:** Aplique sugerencias de escritura con un solo clic. El editor corrige la ortografía y la gramática y le da ideas para refinar su escritura. [Más información](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Ver detalles en [entrada de blog](https://insider.office.com/es-ES/blog/microsoft-editor-gets-an-upgrade)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
@@ -3157,15 +3206,15 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 
 
 
-- **Guardar en Carpetas ancladas:** anclar tus carpetas hace que el almacenamiento de archivos de Office sea más fácil. Nuestros usuarios nos dijeron que querían tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. <br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Guardar en Carpetas ancladas:** anclar tus carpetas hace que el almacenamiento de archivos de Office sea más fácil. Nuestros usuarios nos dijeron que querían tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. <br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Guardar en Carpetas ancladas:** anclar tus carpetas hace que el almacenamiento de archivos de Office sea más fácil. Nuestros usuarios nos dijeron que querían tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil.<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Guardar en Carpetas ancladas:** anclar tus carpetas hace que el almacenamiento de archivos de Office sea más fácil. Nuestros usuarios nos dijeron que querían tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil.<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 ### <a name="word"></a>Word
 
-- **Guardar en Carpetas ancladas:** anclar tus carpetas hace que el almacenamiento de archivos de Office sea más fácil. Nuestros usuarios nos dijeron que querían tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. <br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Guardar en Carpetas ancladas:** anclar tus carpetas hace que el almacenamiento de archivos de Office sea más fácil. Nuestros usuarios nos dijeron que querían tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. <br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
