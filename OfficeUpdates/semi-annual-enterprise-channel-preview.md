@@ -8,17 +8,17 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Proporciona a los profesionales de TI las notas de la versión para las versiones del canal semestral (dirigido) de Aplicaciones de Microsoft 365 en 2021.
-ms.openlocfilehash: 89c71d3aae644cf5d77a0568643a82175806a468
-ms.sourcegitcommit: 556c7532cd820796db244f0949205c75c013d9fc
+description: Proporciona a los profesionales de TI las notas de la versión para las versiones del canal semestral (dirigido) de Aplicaciones de Microsoft 365 en 2021.
+ms.openlocfilehash: ca32e509ccce9a52e1efb67fe05275eb65a2b64e
+ms.sourcegitcommit: c615a8b353e967222e6a75121fa6aea3d673b28b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470784"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52625935"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>Notas de la versión para el canal semestral para empresas (vista previa)
 
-Estas notas de la versión proporcionan información sobre las nuevas características y las actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones del canal semestral para empresas (vista previa) para las Aplicaciones de Microsoft 365 para empresas, las Aplicaciones de Microsoft 365 para negocios, y las versiones de suscripción de las aplicaciones de escritorio de Project y Visio.
+Estas notas de la versión proporcionan información sobre las nuevas características y las actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones del canal semestral para empresas (vista previa) para las Aplicaciones de Microsoft 365 para empresas, las Aplicaciones de Microsoft 365 para negocios, y las versiones de suscripción de las aplicaciones de escritorio de Project y Visio.
 
 
 ## <a name="version-2102-may-11"></a>Versión 2102: 11 de mayo
@@ -159,6 +159,9 @@ Las actualizaciones de seguridad se muestran aquí: [Notas de la versión de las
 - **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
 
 - **Crear diagramas de Visio elegantes en Excel:** cree diagramas basados en datos como diagramas de flujo u organigramas a partir de datos en una hoja de cálculo. [Más información](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+
+- **Integración AMSI con Office para macros XLM:** AMSI es una interfaz abierta disponible en Windows 10 para que las aplicaciones soliciten, en el tiempo de ejecución, un análisis sincrónico de un búfer de memoria mediante un antivirus o una solución de seguridad instalado. Cuando se detecta actividad malintencionada, Excel notificará al usuario y la sesión de la aplicación se cerrará para evitar cualquier daño adicional. Esto puede detener los ataques en su seguimiento, protegiendo tanto el dispositivo como al usuario. Ver detalles en [entrada de blog](https://www.microsoft.com/security/blog/2021/03/03/xlm-amsi-new-runtime-defense-against-excel-4-0-macro-malware/).
 
 ### <a name="outlook"></a>Outlook
 
