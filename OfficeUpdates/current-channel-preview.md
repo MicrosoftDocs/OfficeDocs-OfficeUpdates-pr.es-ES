@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporcionar a los participantes del Modo aplazado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos
-ms.openlocfilehash: 03e3b8b6d89cf5373c5243e79fb308edb668abf3
-ms.sourcegitcommit: 79c85ce398cdedeaac46ece812626eec0f05a61b
+ms.openlocfilehash: 38567a461e655f43701e9d68da85e3dff50c779d
+ms.sourcegitcommit: 6a11bb97b0dbc14d2cd6c68e9d5ae7bd3e1a576f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52636534"
+ms.lasthandoff: 05/26/2021
+ms.locfileid: "52662826"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notas de la versión del canal actual de Office (versión preliminar)
 
@@ -57,17 +57,13 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 - Se ha corregido un problema que causaba que algunos usuarios se cerraran de forma inesperada al cargar tarjetas de persona.
 
 
-- Hemos corregido un problema que bloqueaba la capacidad de pegar como fórmulas en una hoja protegida.
+- Hemos agregado una clave del Registro que deshabilita la nueva experiencia del Buscador de salas (la misma experiencia que en Outlook para Web) y habilita el Buscador de salas heredado con Horas sugeridas.
+    - Clave del Registro:
 
-    - Regkey:
-
-    > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
-
-    > REG_DWORD “ShowLegacyRoomFinder” 0 </br>
-
-    > (predeterminado) - Outlook usa la nueva tecnología eXperience del Buscador de salas OWA cuando el usuario hace clic en el botón "Buscador de salas" para buscar salas disponibles.  </br>
-
-    > 1: Outlook usa la interfaz de usuario del Buscador de salas heredada para buscar salas disponibles </br>
+        > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+        > REG_DWORD “ShowLegacyRoomFinder”</br></br>
+        > 0 (predeterminado): Outlook usa la nueva experiencia con tecnología del Buscador de salas de OWA cuando el usuario hace clic en el botón "Buscador de salas" para buscar salas disponibles.  </br>
+        > 1: Outlook usa la interfaz de usuario del Buscador de salas heredada para buscar salas disponibles </br>
 
 
 ### <a name="project"></a>Project
