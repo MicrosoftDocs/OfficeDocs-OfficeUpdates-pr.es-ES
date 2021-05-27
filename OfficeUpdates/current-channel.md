@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365
-ms.openlocfilehash: 6caa57d57ded20a070ce8af5dc8725115081317a
-ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
+ms.openlocfilehash: abc506af5bb0ff1ea4a4632f72a9c1889e78fac7
+ms.sourcegitcommit: 8e2e7ccf20bb01f9eff692ff93bdcf8fe44e9148
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52563376"
+ms.lasthandoff: 05/26/2021
+ms.locfileid: "52657973"
 ---
 # <a name="release-notes-for-current-channel"></a>Notas de la versión para el canal actual
 
@@ -30,6 +30,119 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+
+## <a name="version-2105-may-24"></a>Versión 2105: 24 de mayo
+*Versión 2105 (Compilación 14026.20246)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Autoguardado y coautoría en documentos cifrados confidenciales:** no elija entre productividad y seguridad. Con Microsoft Information Protection, los documentos que se cifran con etiquetas de confidencialidad ahora permiten el autoguardado y la coautoría con otras personas en tiempo real, igual que los documentos sin cifrar. Requiere que el espacio empresarial opte por participar.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Autoguardado y coautoría en documentos cifrados confidenciales:** no elija entre productividad y seguridad. Con Microsoft Information Protection, los documentos que se cifran con etiquetas de confidencialidad ahora permiten el autoguardado y la coautoría con otras personas en tiempo real, igual que los documentos sin cifrar. Requiere que el espacio empresarial opte por participar.
+
+### <a name="teams"></a>Teams
+
+- **Salida de secuencias de vídeo a través de hardware de Blackmagic Design o AJA:** las secuencias de vídeo aisladas se pueden enviar fuera de las reuniones de Teams a través de dispositivos de hardware de diseño de Blackmagic Design y AJA.
+
+- **Los usuarios anónimos pueden presentar:** al hospedar un evento en directo de Teams, hemos agregado la capacidad de que los usuarios anónimos se unan a un evento en directo para que también puedan presentar durante el evento.
+
+- **Aprobaciones: soporte para reasignaciones:** ahora los aprobadores podrán delegar o reasignar una solicitud de aprobación a otro usuario.
+
+- **Complemento de la aplicación de aprobación en Microsoft Word:** los usuarios podrán crear una solicitud de aprobación para todo un documento o una sección de un documento dentro de Microsoft Word mediante complementos.
+
+- **Modo conferencia para VDI:** el modo conferencia en VDI usa tecnología de segmentación de IA en las reuniones para colocar digitalmente a los participantes en un fondo compartido, de forma que sentirá que está sentado en la misma sala con los demás.
+
+- **Chat supervisado:** use la directiva administrativa de Teams para asegurarse de que un formador supervise a los alumnos durante los chats privados o de grupo. Con el chat supervisado, los alumnos no podrán participar en chats sin que esté presente un formador.
+
+- **Microsoft Teams: Experiencia de Compartir en reuniones revisada:** La interfaz de usuario de la característica Compartir en reuniones de Microsoft Teams se ha rediseñado para ayudar a los presentadores a encontrar más rápido y fácilmente el contenido deseado.
+
+- **Deshabilitar la cámara para asistentes específicos:** los organizadores de la reunión y los presentadores pueden deshabilitar las cámaras de asistentes específicos de una reunión de Teams para asegurarse de que no comparten el vídeo en la reunión.
+
+- **Deshabilitar la cámara para todos los asistentes:** los organizadores de la reunión y los presentadores pueden deshabilitar las cámaras de todos los asistentes de una reunión de Teams para asegurarse de que no comparten el vídeo en la reunión.
+
+- **Disponibilidad general de las capacidades de seminario web de Teams:** programe y realice seminarios web de 1 000 personas con la misma aplicación de Teams que usa para reuniones. Las funcionalidades de seminario web admiten la creación de páginas de registro, confirmación de correo electrónico para los solicitantes de registro, administración del host para audio y vídeo de asistentes, informes de asistentes y características interactivas, como sondeos, chat y reacciones.
+
+- **Crear Teams con plantillas de equipo:** Con plantillas en Teams, los usuarios pueden elegir entre una variedad de plantillas personalizables al crear un nuevo equipo, lo que les ayuda a empezar con rapidez. Asimismo, los administradores de TI pueden crear plantillas personalizadas para su organización, lo que les permite normalizar estructuras de equipo, preinstalar aplicaciones relevantes y escalar procedimientos recomendados. Los administradores de TI pueden elegir qué plantillas de Teams se mostrarán a los usuarios finales en el Centro de administración de Teams y, además, preconfigurar las pestañas del sitio web agregando direcciones URL a una pestaña del sitio web en una plantilla de equipo.
+
+- **Presentar desde PowerPoint en Teams:** presente las diapositivas directamente desde la aplicación de PowerPoint en una reunión de Teams a través de PowerPoint Live.
+
+- **Selector de emojis expandido:** La actualización de emojis expandida ofrece a los usuarios un lugar más divertido y expresivo en Teams. También introduce una mayor variedad en términos de diversidad y representación. El conjunto de emojis se ha expandido de 85 a más de 800 emojis, con selector de categorías, selector de tono de piel y selector de código abreviado.
+
+- **Chatear con usuarios externos en chats de grupo:** con esta característica, los usuarios pueden crear chats de grupo que incluyan a personas externas a su organización con Teams (requiere que todos los usuarios tengan habilitadas las capacidades de acceso externo).
+
+- **Actualización de la herramienta de Planeamiento de red para la estimación de ancho de banda:** la herramienta Planeamiento de red se actualizará para reflejar los últimos requisitos de ancho de banda del cliente de Teams. Esto ayudará a los administradores de TI a calcular mejor y a planear sus necesidades de ancho de banda de Office.
+
+- **Configuración de preferencias de usuario para abrir archivos de forma predeterminada en Escritorio (o) Explorador (o) Teams:** los usuarios pueden establecer su preferencia predeterminada como Explorador, Escritorio o Teams al abrir archivos de Office (Word, Excel y Power Point) que se comparten en Teams. La configuración de Escritorio puede seleccionarse si están instalados y activados los clientes de Office más recientes.
+
+- **Poner en primer plano varios usuarios al mismo tiempo en una reunión:** Ahora los organizadores y los presentadores pueden poner en primer plano varios participantes simultáneamente durante las reuniones. El espacio de reunión mostrará a esos participantes en primer plano, con sus vídeos o avatares, para todos los demás participantes de la reunión.
+
+### <a name="word"></a>Word
+
+- **Autoguardado y coautoría en documentos cifrados confidenciales:** no elija entre productividad y seguridad. Con Microsoft Information Protection, los documentos que se cifran con etiquetas de confidencialidad ahora permiten el autoguardado y la coautoría con otras personas en tiempo real, igual que los documentos sin cifrar. Requiere que el espacio empresarial opte por participar.
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema en el que el complemento de Herramientas para análisis no funcionaba para algunos usuarios.
+
+
+- Hemos corregido un problema para permitir que el Administrador de nombres se abra en libros con un gran número de nombres ocultos.
+
+
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema que causaba que algunas instrucciones de la característica "Acortar reuniones" estuvieran deshabilitadas a través de las tecnologías de lector de pantalla.
+
+
+- Se ha corregido un problema que causaba que algunos usuarios experimentasen cierres inesperados al cargar tarjetas de persona.
+
+
+- Hemos corregido un problema que causaba que la opción de comentarios no se mostrara a los usuarios de la versión preliminar de Office Perpetual 2021.
+
+
+- Hemos agregado una clave del Registro que deshabilita la nueva experiencia del Buscador de salas (la misma experiencia que en Outlook para Web) y habilita el Buscador de salas heredado con Horas sugeridas.
+    - Clave del Registro:
+
+        > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+        > REG_DWORD “ShowLegacyRoomFinder”</br></br>
+        > 0 (predeterminado): Outlook usa la nueva experiencia con tecnología del Buscador de salas de OWA cuando el usuario hace clic en el botón "Buscador de salas" para buscar salas disponibles.  </br>
+        > 1: Outlook usa la interfaz de usuario del Buscador de salas heredada para buscar salas disponibles </br>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha corregido un problema por el que la opción de Reutilizar diapositivas no estaba disponible para unos pocos usuarios.
+
+
+### <a name="project"></a>Project
+
+- Se ha corregido un problema que hacía que las tareas de las tareas programadas manualmente se movieran a una fecha incorrecta.
+
+
+- Se ha corregido un problema por el que, si crea una fórmula de campo personalizada que usa las funciones ProjectDate */ProjectDur* y si el segundo parámetro son las funciones Fecha(), Ahora() u Hora() de fecha y hora, se genera un #ERROR.
+
+
+### <a name="word"></a>Word
+
+- Se ha corregido un problema por el que las tarjetas contextuales de lienzo de ortografía y gramática mostraban botones de iconos, pero esos botones no tenían información sobre herramientas.
+
+
+- Se ha corregido un problema por el que no se abre el panel del Editor.
 
 
 [//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
@@ -114,11 +227,11 @@ Lista de actualizaciones de seguridad [aquí](microsoft365-apps-security-updates
 
 - **Vista dinámica** la vista dinámica optimiza automáticamente el contenido compartido y los participantes de vídeo en las reuniones de Teams. Los nuevos controles le permiten personalizar la vista para adaptarla a sus preferencias y necesidades, como la capacidad de mostrar el contenido compartido y participantes específicos en paralelo.
 
-- **Fuera de la oficina:** configure un mensaje para avisar a otras personas de que no está trabajando o de que está de vacaciones, y que por lo tanto no está disponible para responder si le envían un mensaje de chat. Su estado fuera de la oficina también se sincronizará con las Respuestas automáticas de su calendario de Outlook.
+- **Fuera de la oficina:** configure un mensaje para avisar a otras personas de que no está trabajando o de que está de vacaciones, y que por lo tanto no está disponible para responder si le envían un mensaje de chat. Su estado Fuera de la oficina también se sincronizará con las Respuestas automáticas de su calendario de Outlook.
 
 ### <a name="visio"></a>Visio
 
-- **Gráficos preparados para los diagramas:** elija entre una gran biblioteca de íconos, imágenes de fotografías de archivo, personas recortadas y adhesivos que puede agregar a sus dibujos de Visio. [Más información](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/access-illustrations-icons-in-visio)
+- **Gráficos preparados para los diagramas:** elija entre una gran biblioteca de íconos, imágenes de fotografías de archivo, personas recortadas y adhesivos que puede agregar a sus dibujos de Visio. [Más información](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)<br />Ver detalles en [entrada de blog](https://insider.office.com/es-ES/blog/access-illustrations-icons-in-visio)
 
 ### <a name="word"></a>Word
 
@@ -809,6 +922,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 > Si necesita ayuda con algún problema de uso de Office, le recomendamos que publique la pregunta en el [foro de preguntas de Microsoft](https://answers.microsoft.com/) o [Tech Community](https://techcommunity.microsoft.com/), o bien puede ponerse en contacto con el [servicio de soporte técnico](https://support.microsoft.com/contactus).
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|CC|Production| |16.0.14026.20246|version-2105-may-24|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20386|version-2104-may-18|)
 [//]: # (| Win32| CC|Producto| |16.0.13929.20372|version-2104-may-11|)
 [//]: # (|Win32|CC|Producción| |16.0.13929.20296|versión-2104-abril-29|)
@@ -818,5 +932,4 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 [//]: # (|Win32|CC|Producción| |16.0.13901.20312|versión-2103-marzo-30|)
 [//]: # (|Win32|CC|Producción| |16.0.13801.20360|versión-2102-marzo-18|)
 [//]: # (|Win32|CC|Producción| |16.0.13801.20294|versión-2102-marzo-09|)
-[//]: # (|Win32|CC|Producción| |16.0.13801.20266|versión-2102-marzo-01|)
 [//]: # (NO MODIFICAR EL FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
