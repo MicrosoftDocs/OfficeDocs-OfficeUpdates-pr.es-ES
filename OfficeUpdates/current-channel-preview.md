@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporcionar a los participantes del Modo aplazado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos
-ms.openlocfilehash: a06b009c006645b9effb686be7f7b0d8a9286609
-ms.sourcegitcommit: d08938d8d38c545afc40f3e4316990d916e0ba91
+ms.openlocfilehash: df5abe158a0abaf1a962d1bd3bba97036175c9e4
+ms.sourcegitcommit: 7f52ea9d1051a8102d9d16129855833c5b9638a1
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "52742229"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52790515"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notas de la versión del canal actual de Office (versión preliminar)
 
@@ -28,6 +28,36 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 [//]: # (NO ELIMINAR)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+## <a name="version-2105-june-04"></a>Versión 2105: 4 de junio
+*Versión 2105 (Compilación 14026.20264)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Configuración de detección de tipos de datos:** Configura cómo se detectan diferentes tipos de datos cuando se importan al Excel datos de orígenes no estructurados con Power Query.
+
+### <a name="word"></a>Word
+
+- **Estilos de escritura:** Estilos de escritura mantiene el criterio según el nivel de formalidad que ha seleccionado el usuario.
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Corrige un problema que hacía que a algunos usuarios les aparecieran entradas adicionales en la lista del complemento de Excel.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2105-june-01"></a>Versión 2105: 1 de junio
 *Versión 2105 (Compilación 14026.20254)*
@@ -1300,7 +1330,7 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="outlook"></a>Outlook
 
-- **Sugerencias de escritura con un solo clic:** Aplique sugerencias de escritura con un solo clic. El editor corrige la ortografía y la gramática y le da ideas para refinar su escritura. [Más información](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/microsoft-editor-gets-an-upgrade)
+- **Sugerencias de escritura con un solo clic:** Aplique sugerencias de escritura con un solo clic. El editor corrige la ortografía y la gramática y le da ideas para refinar su escritura. [Más información](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Ver detalles en [entrada de blog](https://insider.office.com/es-ES/blog/microsoft-editor-gets-an-upgrade)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
@@ -2873,7 +2903,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 
 
 
-[//]: # (NO QUITAR LOS DETALLES DE ERROR DE FIN DE CONTENIDO)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2007-august-05"></a>Versión 2007: 05 de agosto
 *Versión 2007 (compilación 13029.20344)*
@@ -3239,15 +3269,15 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 
 
 
-- **Guardar en Carpetas ancladas:** anclar tus carpetas hace que el almacenamiento de archivos de Office sea más fácil. Nuestros usuarios nos dijeron que querían tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. <br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Guardar en Carpetas ancladas:** anclar tus carpetas hace que el almacenamiento de archivos de Office sea más fácil. Nuestros usuarios nos dijeron que querían tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. <br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Guardar en Carpetas ancladas:** anclar tus carpetas hace que el almacenamiento de archivos de Office sea más fácil. Nuestros usuarios nos dijeron que querían tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil.<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Guardar en Carpetas ancladas:** anclar tus carpetas hace que el almacenamiento de archivos de Office sea más fácil. Nuestros usuarios nos dijeron que querían tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil.<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 ### <a name="word"></a>Word
 
-- **Guardar en Carpetas ancladas:** anclar tus carpetas hace que el almacenamiento de archivos de Office sea más fácil. Nuestros usuarios nos dijeron que querían tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. <br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Guardar en Carpetas ancladas:** anclar tus carpetas hace que el almacenamiento de archivos de Office sea más fácil. Nuestros usuarios nos dijeron que querían tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil. <br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
@@ -3805,7 +3835,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 
 
 
-[//]: # (NO ELIMINAR LOS DETALLES DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
 
 ## <a name="version-2004-april-21"></a>Versión 2004: 21 de abril
 *Versión 2004 (compilación 12730.20182)*

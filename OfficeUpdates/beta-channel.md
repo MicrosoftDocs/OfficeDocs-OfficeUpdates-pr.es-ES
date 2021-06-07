@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los participantes del Modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos.
-ms.openlocfilehash: 576d74fd51952ddcdd693095fe77f09e4fc70830
-ms.sourcegitcommit: 984872782b13ecd329fb8e8809de923148b77255
+ms.openlocfilehash: 88823cb9d26a86d5c726139c3b7f5ea0b5483b9d
+ms.sourcegitcommit: 7f52ea9d1051a8102d9d16129855833c5b9638a1
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52699136"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52790505"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de la versión para el canal beta
 
@@ -30,6 +30,49 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 [//]: # (NO ELIMINAR)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+## <a name="version-2106-june-04"></a>Versión 2106: 4 de junio
+*Versión 2106 (Compilación 14131.20008)*
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Configuración de detección de tipos de datos:** Configura cómo se detectan diferentes tipos de datos cuando se importan a Excel datos de orígenes no estructurados con Power Query.
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="powerpoint"></a>PowerPoint
+
+- Corregimos un problema para garantizar que los archivos guardados con el botón "Reintentar guardar" en la barra de bus se agreguen a la lista Archivos recientes.
+
+
+### <a name="word"></a>Word
+
+- Corregimos un problema por el que se aumentaba el espaciado entre caracteres para fuentes específicas al girarlas 90 grados.
+
+
+- Corregimos un problema que causaba que las respuestas a comentarios se perdieran en ocasiones al trabajar en coautoría con varios usuarios.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Corregimos un problema por el que la característica CLP causaba guardados sin avisar en el archivo SyncBacked (archivo sincronizado por OneDrive).
+
+
+- Corregimos un problema por el que los usuarios no podían editar los archivos almacenados en servidores OnPrem.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2106-may-28"></a>Versión 2106: 28 de mayo
 *Versión 2106 (Compilación 14122.20004)*
@@ -1124,7 +1167,7 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 
 ### <a name="word"></a>Word
 
-- **Mejor colaboración con comentarios modernos:** Agregue comentarios a objetos, @mencione compañeros y resuelva hilos de comentarios para disfrutar de una mejor experiencia de colaboración. [Más información](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/modern-commenting-in-word)
+- **Mejor colaboración con comentarios modernos:** Agregue comentarios a objetos, @mencione compañeros y resuelva hilos de comentarios para disfrutar de una mejor experiencia de colaboración. [Más información](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />Ver detalles en [entrada de blog](https://insider.office.com/es-ES/blog/modern-commenting-in-word)
 
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
@@ -2071,15 +2114,15 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 
 ### <a name="outlook"></a>Outlook
 
-- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="word"></a>Word
 
-- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en la [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
+- **Inserte las fotos de su iPhone directamente en Office:** las imágenes HEIC de su teléfono ahora se insertan sin problemas en Office. No es necesario realizar ninguna conversión.<br />Ver detalles en [entrada de blog](https://insider.office.com/es-ES/blog/insert-apple-photos-into-office-easily)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
@@ -2336,7 +2379,7 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="excel"></a>Excel
 
-- **Obtenga datos de organización de Power BI mediante Tipos de datos:** los tipos de datos de Excel de Power BI se están publicando ahora para participantes de Office Insider en las organizaciones con Office 365 E5/A5 o Microsoft 365 E5/A5. Obtener la información que necesita y actualizarla fácilmente es fundamental para muchos de los flujos de trabajo diarios. Le proporcionamos acceso a la información de Power BI de su empresa u organización como un tipo de datos en Excel, lo que amplía su capacidad de incorporar a las hojas de cálculo información vinculada. [Más información](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+- **Obtenga datos de organización de Power BI mediante Tipos de datos:** los tipos de datos de Excel de Power BI se están publicando ahora para participantes de Office Insider en las organizaciones con Office 365 E5/A5 o Microsoft 365 E5/A5. Obtener la información que necesita y actualizarla fácilmente es fundamental para muchos de los flujos de trabajo diarios. Le proporcionamos acceso a la información de Power BI de su empresa u organización como un tipo de datos en Excel, lo que amplía su capacidad de incorporar a las hojas de cálculo información vinculada. [Más información](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
@@ -2476,15 +2519,15 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 ### <a name="feature-updates"></a>Actualizaciones de características
 ### <a name="excel"></a>Excel
 
-- **Guardar en carpetas fijadas:** anclar las carpetas facilita el almacenamiento de archivos de Office. Recibimos un comentario en el que se nos informa de que los usuarios desean tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil.<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Guardar en carpetas fijadas:** anclar las carpetas facilita el almacenamiento de archivos de Office. Recibimos un comentario en el que se nos informa de que los usuarios desean tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil.<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Guardar en carpetas fijadas:** anclar las carpetas facilita el almacenamiento de archivos de Office. Recibimos un comentario en el que se nos informa de que los usuarios desean tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil.<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Guardar en carpetas fijadas:** anclar las carpetas facilita el almacenamiento de archivos de Office. Recibimos un comentario en el que se nos informa de que los usuarios desean tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil.<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 ### <a name="word"></a>Word
 
-- **Guardar en carpetas fijadas:** anclar las carpetas facilita el almacenamiento de archivos de Office. Recibimos un comentario en el que se nos informa de que los usuarios desean tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil.<br />Ver detalles en la [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Guardar en carpetas fijadas:** anclar las carpetas facilita el almacenamiento de archivos de Office. Recibimos un comentario en el que se nos informa de que los usuarios desean tener más control sobre las carpetas disponibles al guardar un archivo nuevo. Nos complace ofrecerles una nueva funcionalidad: anclar sus carpetas en el cuadro de diálogo Guardar. Esta nueva función hará que el almacenamiento de archivos de Word, Excel y PowerPoint resulte más fácil.<br />Ver detalles en [entrada de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
 
@@ -3185,6 +3228,7 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14131.20008|version-2106-june-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14122.20004|version-2106-may-28|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14117.20000|version-2106-may-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
@@ -3194,5 +3238,4 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 [//]: # (|Win32|DevMain|Insiders| |16.0.14007.20002|version-2105-april-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14002.20000|version-2105-april-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13929.20016|version-2104-april-02|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
 [//]: # (NO MODIFICAR EL FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
