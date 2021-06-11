@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión de las actualizaciones de seguridad de Microsoft Office
-ms.openlocfilehash: 609a90e81dd90867858b7902c4f0363a2abca514
-ms.sourcegitcommit: 555e92127b0922cf09d5c2cc1dba836336bcbf5b
+ms.openlocfilehash: 5ab2db770141e34fa8fd3d38411e77acef4d4235
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "52330507"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851840"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Notas de la versión para las actualizaciones de seguridad de Microsoft Office
 
@@ -24,6 +24,42 @@ Esta información se aplica a las Aplicaciones de Microsoft 365 para empresas, l
  
 
 [//]: # (NO QUITAR LA LÍNEA ANTERIOR, se usa para el espaciado)  
+
+## <a name="june-08-2021"></a>8 de junio de 2021
+Canal actual: versión 2105 (compilación 14026.20270)  
+Canal mensual para empresas: versión 2104 (compilación 13929.20408)  
+Canal mensual para empresas: versión 2103 (compilación 13901.20554)  
+Canal semestral para empresas (versión preliminar): versión 2102 (compilación 13801.20738)  
+Canal semestral para empresas: versión 2008 (compilación 13127.21668)  
+Canal semestral para empresas: versión 2002 (compilación 12527.21952)  
+Aplicaciones de Microsoft 365 en Windows 7: versión 2002 (compilación 12527.21952)  
+Office 2019 Retail: versión 2105 (compilación 14026.20270)  
+Office 2016 Retail: versión 2105 (compilación 14026.20270)  
+Licencia por volumen de Office 2019: versión 1808 (compilación 10375.20036)  
+
+[//]: # (NO QUITAR LOS DETALLES DE SEGURIDAD INICIO DEL CONTENIDO INICIAL)
+
+
+### <a name="access"></a>Access
+
+-   [CVE-2021-28455](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2021-28455)
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-31939](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2021-31939)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2021-31949](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2021-31949)
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+-   [CVE-2021-31941](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2021-31941)
+-   [CVE-2021-31940](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2021-31940)
+
+[//]: # (NO QUITAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO FINAL)
+
+
 
 ## <a name="may-11-2021"></a>11 de mayo de 2021
 Canal actual: versión 2104 (compilación 13929.20372)  
