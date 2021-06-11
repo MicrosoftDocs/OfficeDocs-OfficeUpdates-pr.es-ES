@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365
-ms.openlocfilehash: abc506af5bb0ff1ea4a4632f72a9c1889e78fac7
-ms.sourcegitcommit: 8e2e7ccf20bb01f9eff692ff93bdcf8fe44e9148
+ms.openlocfilehash: d34f57010c92943ed8665159172f7732e5db715b
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/26/2021
-ms.locfileid: "52657973"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851880"
 ---
 # <a name="release-notes-for-current-channel"></a>Notas de la versión para el canal actual
 
@@ -29,6 +29,36 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+
+
+[//]: # (NO QUITAR LOS DETALLES DE ERROR DE FIN DE CONTENIDO)
+
+## <a name="version-2105-june-08"></a>Versión 2105: 8 de junio
+*Versión 2105 (Compilación 14026.20270)*
+
+Lista de actualizaciones de seguridad [aquí](microsoft365-apps-security-updates.md)
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Hemos corregido un problema que hacía que a algunos usuarios les aparecieran entradas adicionales en la lista del complemento de Excel.
+
+
+### <a name="outlook"></a>Outlook
+
+- Hemos solucionado un problema que podía provocar un cierre inesperado al interactuar con el Correo de Outlook o las Vistas de Calendario.
+
+
+- Hemos corregido un problema que causaba que los usuarios experimentasen un cierre inesperado al quitar carpetas de un almacén de archivos.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Se ha corregido una regresión de rendimiento al abrir archivos SyncBacked.
 
 
 
@@ -116,12 +146,13 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 - Hemos agregado una clave del Registro que deshabilita la nueva experiencia del Buscador de salas (la misma experiencia que en Outlook para Web) y habilita el Buscador de salas heredado con Horas sugeridas.
-    - Clave del Registro:
 
-        > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
-        > REG_DWORD “ShowLegacyRoomFinder”</br></br>
-        > 0 (predeterminado): Outlook usa la nueva experiencia con tecnología del Buscador de salas de OWA cuando el usuario hace clic en el botón "Buscador de salas" para buscar salas disponibles.  </br>
-        > 1: Outlook usa la interfaz de usuario del Buscador de salas heredada para buscar salas disponibles </br>
+    Clave del Registro:
+
+    >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+    >REG_DWORD “ShowLegacyRoomFinder”</br></br>
+    >0 (predeterminado): Outlook usa la nueva experiencia con tecnología del Buscador de salas de OWA cuando el usuario hace clic en el botón "Buscador de salas" para buscar salas disponibles.  </br>
+    >1: Outlook usa la interfaz de usuario del Buscador de salas heredada para buscar salas disponibles </br>
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -922,6 +953,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 > Si necesita ayuda con algún problema de uso de Office, le recomendamos que publique la pregunta en el [foro de preguntas de Microsoft](https://answers.microsoft.com/) o [Tech Community](https://techcommunity.microsoft.com/), o bien puede ponerse en contacto con el [servicio de soporte técnico](https://support.microsoft.com/contactus).
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|CC|Producción| |16.0.14026.20270|versión-2105-junio-08|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20246|version-2105-may-24|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20386|version-2104-may-18|)
 [//]: # (| Win32| CC|Producto| |16.0.13929.20372|version-2104-may-11|)
@@ -931,5 +963,4 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 [//]: # (|Win32|CC|Producción| |16.0.13901.20336|versión-2103-marzo-30|)
 [//]: # (|Win32|CC|Producción| |16.0.13901.20312|versión-2103-marzo-30|)
 [//]: # (|Win32|CC|Producción| |16.0.13801.20360|versión-2102-marzo-18|)
-[//]: # (|Win32|CC|Producción| |16.0.13801.20294|versión-2102-marzo-09|)
 [//]: # (NO MODIFICAR EL FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)

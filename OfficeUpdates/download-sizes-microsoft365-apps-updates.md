@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI información acerca de los tamaños de descarga aproximados de las actualizaciones para Aplicaciones de Microsoft 365 según el canal de actualización.
-ms.openlocfilehash: b5d6ce1ddbc9004858d7078f9c942ce996d90989
-ms.sourcegitcommit: 869978fef16222d8c86af40239712b4f153dcfbb
+ms.openlocfilehash: ea81d4fc37d224d8b291ae95f2a1da8c49b0fb6a
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "52776670"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851810"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tamaños de descarga de las actualizaciones de Aplicaciones de Microsoft 365 
 
@@ -31,42 +31,54 @@ Si va a cambiar de canal, por ejemplo, del Canal semestral (dirigido) al Canal s
 
 [//]: # (NO ELIMINAR)
 
-[//]: # (NO ELIMINAR INICIO DEL CONTENIDO DE PREVISIÓN)
+## <a name="june-8-2021"></a>8 de junio de 2021
 
-## <a name="june-3-2021"></a>3 de junio de 2021
+[//]: # (NO ELIMINAR COMIENZO DEL CONTENIDO 8 de junio de 2021)
+
+### <a name="current-channel"></a>Canal actual
+
+La versión más reciente es la versión 2105 (compilación 14026.20270).
+
+|**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
+|:-----|:-----|:-----|
+|Versión 2105 (compilación 14026.20246) <br/> |24 de mayo de 2021 <br/> |59<br/> |
+|Versión 2104 (compilación 13929.20386) <br/> |18 de mayo de 2021 <br/> |215<br/> |
 
 
 ### <a name="monthly-enterprise-channel"></a>Canal mensual para empresas
 
-<i>La versión prevista es la versión 2104 (compilación 13929.20404).</i>
+La versión más reciente es la versión 2104 (compilación 13929.20408).
 
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
-|Versión 2103 (compilación 13901.20516) <br/> |11 de mayo de 2021 <br/> |172<br/> |
+|Versión 2103 (compilación 13901.20516) <br/> |11 de mayo de 2021 <br/> |171<br/> |
 
 
 
 ### <a name="semi-annual-enterprise-channel-preview"></a>Canal semestral para empresas (versión preliminar)
 
-<i>La versión prevista es la versión 2102 (compilación 13801.20720).</i>
+La versión más reciente es la versión 2102 (compilación 13801.20738).
 
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
-|Versión 2102 (Compilación 13801.20638) <br/> |11 de mayo de 2021 <br/> |47<br/> |
-|Versión 2102 (compilación 13801.20506) <br/> |13 de abril de 2021 <br/> |50<br/> |
+|Versión 2102 (Compilación 13801.20638) <br/> |11 de mayo de 2021 <br/> |48<br/> |
+|Versión 2102 (compilación 13801.20506) <br/> |13 de abril de 2021 <br/> |51<br/> |
 
 
-### <a name="semi-annual-enterprise-channel"></a>Canal empresarial semianual
+### <a name="semi-annual-enterprise-channel"></a>Canal semestral para empresas
 
-<i>La versión prevista es la versión 2008 (compilación 13127.21650).</i>
+La versión más reciente es la versión 2008 (compilación 13127.21668).
 
 |**Esta versión se actualiza a partir de**|**Fecha de publicación**|**Tamaño de descarga aproximado (en MB)**|
 |:-----|:-----|:-----|
-|Versión 2008 (compilación 13127.21624) <br/> |11 de mayo de 2021 <br/> |56<br/> |
-|Versión 2008 (compilación 13127.21506) <br/> |13 de abril de 2021 <br/> |57<br/> |
+|Versión 2008 (compilación 13127.21624) <br/> |11 de mayo de 2021 <br/> |62<br/> |
+|Versión 2008 (compilación 13127.21506) <br/> |13 de abril de 2021 <br/> |62<br/> |
 
 
-[//]: # (NO ELIMINAR EL FINAL DEL CONTENIDO PREVISTO)
+[//]: # (NO ELIMINAR FINAL DEL CONTENIDO 8 de junio de 2021)
+
+
+
 
 ## <a name="may-24-2021"></a>24 de mayo de 2021
 

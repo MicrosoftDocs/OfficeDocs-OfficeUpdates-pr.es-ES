@@ -9,17 +9,110 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones del canal semestral (dirigido) de Aplicaciones de Microsoft 365 en 2021.
-ms.openlocfilehash: ca32e509ccce9a52e1efb67fe05275eb65a2b64e
-ms.sourcegitcommit: c615a8b353e967222e6a75121fa6aea3d673b28b
+ms.openlocfilehash: 95bdd111e041dd07689ad84254dde5b95a8efebe
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52625935"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52852010"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>Notas de la versión para el canal semestral para empresas (vista previa)
 
 Estas notas de la versión proporcionan información sobre las nuevas características y las actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones del canal semestral para empresas (vista previa) para las Aplicaciones de Microsoft 365 para empresas, las Aplicaciones de Microsoft 365 para negocios, y las versiones de suscripción de las aplicaciones de escritorio de Project y Visio.
 
+
+## <a name="version-2102-june-08"></a>Versión 2102: 8 de junio
+*Versión 2102 (Compilación 13801.20738)*
+
+Lista de actualizaciones de seguridad [aquí](microsoft365-apps-security-updates.md)
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Hemos corregido un problema por el que se quitaba el espaciado adicional que aparecía en los diagramas de Pareto y reducía el espacio de gráficos disponible.
+
+
+- Se ha corregido un problema que hacía que a algunos usuarios les aparecieran entradas adicionales en la lista del complemento de Excel.
+
+
+- Hemos corregido un problema que causaba que la Barra de estado no indicara el estado de Listo para algunos usuarios.
+
+
+- Hemos corregido un problema mediante mejoras en el mensaje de error que aparece al actualizar los tipos de datos de Power BI cuando el usuario no tiene acceso a algunos tipos de datos.
+
+
+- Para corregir un problema, hemos aumentado a 256 el número de propiedades que se pueden mostrar en la lista desplegable de propiedades Autocompletar.
+
+
+### <a name="outlook"></a>Outlook
+
+- Hemos corregido un problema que provocaba que los usuarios recibieran errores de conectividad cuando los puntos de conexión de EWS internos y externos eran diferentes y se producía un error en la llamada al punto de conexión interno.
+
+
+- Hemos corregido un problema que causaba que la dirección del remitente se mostrara como LegacyExchangeDN al reenviar un correo electrónico.
+
+
+- Se ha corregido un problema por el que los usuarios finales y los administradores no podían activar la configuración de la nube.
+
+
+- Hemos corregido un problema que causaba que ZeroConfigExchange no funcionara correctamente en equipos unidos a Azure AD híbrido y conectados a una red externa.
+
+
+- Hemos corregido un problema que causaba que los usuarios de dominios personalizados vean un mensaje de advertencia sobre los permisos al pegar un vínculo en un mensaje de correo electrónico.
+</br>
+
+- Hemos agregado una clave del Registro que deshabilita la nueva experiencia del Buscador de salas (la misma experiencia que en Outlook para Web) y habilita el Buscador de salas heredado con Horas sugeridas.
+
+    Clave del Registro:
+
+    >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+    >REG_DWORD “ShowLegacyRoomFinder”</br></br>
+    >0 (predeterminado): Outlook usa la nueva experiencia con tecnología del Buscador de salas de OWA cuando el usuario hace clic en el botón "Buscador de salas" para buscar salas disponibles.  </br>
+    >1: Outlook usa la interfaz de usuario del Buscador de salas heredada para buscar salas disponibles </br>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Hemos corregido un problema por el que se actualizaba la tienda a la versión 1.0.0.2 para admitir la implementación central. El usuario tendrá que actualizar la información de versión en PowerPoint para tener acceso a la tienda.
+
+
+### <a name="project"></a>Project
+
+- Se ha corregido un problema por el que, si crea una fórmula de campo personalizada que usa las funciones ProjectDate */ProjectDur* y si el segundo parámetro son las funciones Fecha(), Ahora() u Hora() de fecha y hora, se genera un #ERROR.
+
+
+- Se ha corregido un problema por el que el grupo de recursos no respondía y no se podía abrir.
+
+
+### <a name="visio"></a>Visio
+
+- Hemos corregido un problema relacionado con resultados que no aparecían al escribir palabras clave de búsqueda en Buscar forma.
+
+
+### <a name="word"></a>Word
+
+- Se ha corregido un problema relacionado con la falta de respuesta de la aplicación al insertar imágenes en línea.
+
+
+- Se ha corregido un problema que hacía que los estilos copiados y pegados pudieran no ser iguales en el texto pegado.
+
+
+- Hemos corregido un problema que eliminaba el límite de tamaño de las cadenas permitidas para los controles de contenido.
+
+
+- Hemos corregido un problema relacionado con la edición de Objetos OLE.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Se ha corregido un problema al abrir archivos de marcador de posición. Office no respondía al abrir el archivo con copia de sincronización.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2102-may-11"></a>Versión 2102: 11 de mayo
 *Versión 2102 (compilación 13801.20638)*
@@ -660,6 +753,7 @@ Las actualizaciones de seguridad se muestran aquí: [Notas de la versión de las
 
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|FRDC|Insiders| |16.0.13801.20738|version-2102-junio-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20638|version-2102-may-11|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20506|version-2102-abril-13|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20294|versión-2102-marzo-09|)
@@ -669,5 +763,4 @@ Las actualizaciones de seguridad se muestran aquí: [Notas de la versión de las
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20760|versión-10-noviembre-2008|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20638|versión-13-octubre-2008|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20408|version-2008-septiembre-08|)
-[//]: # (|Win32|FRDC|Insiders| |16.0.12527.20988|version-2002-11-agosto|)
 [//]: # (NO MODIFICAR EL FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)

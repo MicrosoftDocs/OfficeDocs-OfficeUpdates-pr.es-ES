@@ -8,22 +8,176 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Proporciona a los profesionales de TI las notas de la versión para las versiones del Canal mensual para empresas para Aplicaciones de Microsoft 365
-ms.openlocfilehash: 97275c74ed91f91cd6a307cb87bbdc83ffcdf49e
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+description: Proporciona a los profesionales de TI las notas de la versión para las versiones del Canal mensual para empresas para Aplicaciones de Microsoft 365
+ms.openlocfilehash: 1795f0a150b8b18d50e462cd6d30a285c055f8b1
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322330"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851870"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>Notas de la versión para el Canal mensual para empresas
 
-Estas notas de la versión proporcionan información sobre las nuevas características y las actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones del Canal de empresa mensual para Aplicaciones de Microsoft 365 para empresas, Aplicaciones de Microsoft 365 para negocios y las versiones de suscripción de las aplicaciones de escritorio de Project y Visio.
+Estas notas de la versión proporcionan información sobre las nuevas características y las actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones del Canal de empresa mensual para Aplicaciones de Microsoft 365 para empresas, Aplicaciones de Microsoft 365 para negocios y las versiones de suscripción de las aplicaciones de escritorio de Project y Visio.
 
 
 [//]: # (NO ELIMINAR)
 
 
+
+## <a name="version-2104-june-08"></a>Versión 2104: 8 de junio
+*Versión 2104 (Compilación 13929.20408)*
+
+Lista de actualizaciones de seguridad [aquí](microsoft365-apps-security-updates.md)
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Autoguardado y coautoría en documentos cifrados confidenciales:** no elija entre productividad y seguridad. Con Microsoft Information Protection, los documentos que se cifran con etiquetas de confidencialidad ahora permiten el autoguardado y la coautoría con otras personas en tiempo real, igual que los documentos sin cifrar. Requiere que el espacio empresarial opte por participar (más información: https://aka.ms/mipcoauth).
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Autoguardado y coautoría en documentos cifrados confidenciales:** no elija entre productividad y seguridad. Con Microsoft Information Protection, los documentos que se cifran con etiquetas de confidencialidad ahora permiten el autoguardado y la coautoría con otras personas en tiempo real, igual que los documentos sin cifrar. Requiere que el espacio empresarial opte por participar (más información: https://aka.ms/mipcoauth).
+
+### <a name="word"></a>Word
+
+- **Autoguardado y coautoría en documentos cifrados confidenciales:** no elija entre productividad y seguridad. Con Microsoft Information Protection, los documentos que se cifran con etiquetas de confidencialidad ahora permiten el autoguardado y la coautoría con otras personas en tiempo real, igual que los documentos sin cifrar. Requiere que el espacio empresarial opte por participar (más información: https://aka.ms/mipcoauth).
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema que en ocasiones producía errores al abrir algunos archivos en la Vista protegida.
+
+
+- Se ha corregido un problema que causaba que el formato de fecha se mostrara de forma incorrecta en algunos idiomas al usar complementos.
+
+
+- Se ha corregido un problema por el que el complemento de Herramientas para análisis no funcionaba para algunos usuarios.
+
+
+- Se ha corregido un problema que hacía que a algunos usuarios les aparecieran entradas adicionales en la lista del complemento de Excel.
+
+
+- Corrección de un problema por el que una reversión de compilación de versión principal podía provocar la finalización de la aplicación al abrir el archivo.
+
+
+### <a name="outlook"></a>Outlook
+
+- Hemos corregido un problema que provocaba que algunos usuarios de la característica de uso compartido del calendario experimentaran problemas al interactuar con su calendario en el panel de navegación.
+
+
+- Hemos agregado una clave del Registro que deshabilita la nueva experiencia del Buscador de salas (la misma experiencia que en Outlook para Web) y habilita el Buscador de salas heredado con Horas sugeridas.
+    
+    Clave del Registro:
+
+    >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+    >REG_DWORD “ShowLegacyRoomFinder”</br></br>
+    > 0 (predeterminado): Outlook usa la nueva experiencia con tecnología del Buscador de salas de OWA cuando el usuario hace clic en el botón "Buscador de salas" para buscar salas disponibles.  </br>
+    > 1: Outlook usa la interfaz de usuario del Buscador de salas heredada para buscar salas disponibles </br>
+
+
+- Hemos corregido un problema que provocaba errores en la resolución de nombres al enviar en nombre de otro usuario y al resolver en una libreta de direcciones que no es la Lista global de direcciones.
+
+
+- Hemos corregido un problema que causaba que la opción de comentarios no se mostrara a los usuarios de la versión preliminar de Office Perpetual 2021.
+
+
+- Hemos corregido un problema que podía provocar que los usuarios vieran el mensaje que indica que están redactando perder el foco de la interfaz de usuario.
+
+
+- Hemos corregido un problema que causaba que Outlook anulara las preferencias de la Bandeja de entrada Prioritarios configuradas en OWA.
+
+
+- Hemos corregido un problema que provocaba que los usuarios vieran desaparecer las firmas de forma inesperada.
+
+
+- Hemos corregido un problema que provocaba que los usuarios de la configuración de itinerancia experimentaran falta de respuesta.
+
+
+- Hemos corregido un problema que causaba que los usuarios experimentaran la finalización inesperada del proceso durante una búsqueda.
+
+
+- Hemos corregido un cierre inesperado relacionado con la búsqueda.
+
+
+- Hemos corregido un problema que provocaba que el selector de usuarios en Outlook se expandiera hacia arriba en lugar de hacia abajo para los usuarios con una licencia permanente.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha corregido un problema por el que la opción de Reutilizar diapositivas no estaba disponible para unos pocos usuarios.
+
+
+- Hemos corregido un problema relacionado con las imágenes vinculadas.
+
+
+- Se ha corregido un problema por el que una reversión de compilación de versión principal podía provocar un cierre inesperado al abrir el archivo.
+
+
+### <a name="project"></a>Project
+
+- Se ha corregido un problema en el que los usuarios no podían quitar proyectos del grupo de recursos.
+
+
+### <a name="word"></a>Word
+
+- Hemos corregido un problema que requería un cambio en la edición de Objeto OLE.
+
+
+- Se ha corregido un problema por el que algunos textos de selección no se veían al usar el tema del modo oscuro en el modo lectura.
+
+
+- Se ha corregido un problema que puede provocar que Word se cierre inesperadamente al cerrarse debido a que el usuario cierra o reinicia el equipo.
+
+
+- Se ha corregido un problema que actualiza el texto en la llamada de autoguardado para los archivos guardados localmente.
+
+
+- Se ha corregido un problema por el que una reversión de compilación de versión principal podía provocar un cierre inesperado al abrir el archivo.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Se ha corregido un problema que causaba que no se pudiera abrir el documento en la nube.
+
+
+- Este cambio analiza el nuevo atributo TenantId enviado a través de las respuestas de Cobalt y lo almacena en la Tabla Central.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+
+## <a name="version-2103-june-08"></a>Versión 2103: 8 de junio
+*Versión 2103 (Compilación 13901.20554)*
+
+Lista de actualizaciones de seguridad [aquí](microsoft365-apps-security-updates.md)
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Corrige un problema que hacía que a algunos usuarios les aparecieran entradas adicionales en la lista del complemento de Excel.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Se ha corregido un problema por el cual Word, PowerPoint y Excel no podían abrir un documento en la nube al revertir a una compilación anterior
+
+
+
+[//]: # (NO QUITAR FINAL DE CONTENIDO CON DETALLES DE ERROR)
 
 ## <a name="version-2103-may-11"></a>Versión 2103: 11 de mayo
 *Versión 2103 (compilación 13901.20516)*
@@ -711,6 +865,7 @@ Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-securit
 
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|MEC|Producción|Característica|16.0.13929.20408|version-2104-junio-08|)
 [//]: # (|Win32|MEC|Producción|Característica|16.0.13901.20516|version-11-marzo-2103|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13801.20506|versión-2102-13-abril|)
 [//]: # (|Win32|MEC|Producción|Característica|16.0.13628.20528|version-2101-marzo-09|)
@@ -720,5 +875,4 @@ Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-securit
 [//]: # (|Win32|MEC|Producción|Característica|16.0.13231.20514|versión-10-noviembre-2009|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13127.20638|versión-13-octubre-2008|)
 [//]: # (| Win32 | MEC | Producción | Característica | 16.0.13029.20534 | versión-2007-septiembre-08 |)
-[//]: # (|Win32|MEC|Producción|Característica|16.0.13001.20520|versión-2006-11-agosto|)
 [//]: # (NO MODIFICAR EL FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
