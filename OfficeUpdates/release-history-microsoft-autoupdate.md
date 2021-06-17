@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales informáticos un historial de versiones de Microsoft AutoUpdate (MAU).
-ms.openlocfilehash: 783ae03e77060c91a02e98e88e3d1570c1cdaf11
-ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
+ms.openlocfilehash: 10336f30469104b93c24d6f40f091d47c4b20d81
+ms.sourcegitcommit: 4ab7d229662f7c8334e6c70aca4932bc62394a65
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52563386"
+ms.lasthandoff: 06/15/2021
+ms.locfileid: "52949840"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historial de versiones de Microsoft AutoUpdate (MAU)
  
@@ -29,6 +29,22 @@ En la siguiente tabla, se proporciona información del historial de versiones de
 > - Microsoft AutoUpdate ofrece actualizaciones para distintos productos de Mac de Microsoft. Por tanto, es posible que reciba una notificación para actualizar Microsoft AutoUpdate, incluso si no está ejecutando Office para Mac.
 
 Para ver las notas de la versión, consulte [Notas de la versión.](release-notes-office-for-mac.md)<br/><br/>
+## <a name="june-2021-release"></a>Versión de junio de 2021
+
+**Fecha de publicación:** 15 de junio de 2021
+
+*Microsoft AutoUpdate 4.36*
+
+**Correcciones de errores y mejoras:**
+- Indicador de progreso del acoplamiento: MAU ahora muestra la indicación de progreso en el icono que se muestra en la base.
+- Finalización oportunista de la actualización: MAU intentará aplicar actualizaciones retrasadas durante el apagado o reinicio del dispositivo.
+
+[Descargar el paquete de Microsoft AutoUpdate 4.36](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.36.21061301_Updater.pkg)<br/>
+<br/>
+**SHA-256 Hash:**
+
+0680414EA9553FEF6198B8414CFABABB6ED5B22A571138B98F6F3E4190630DB3
+
 
 ## <a name="may-2021-release"></a>Versión de mayo de 2021
 
