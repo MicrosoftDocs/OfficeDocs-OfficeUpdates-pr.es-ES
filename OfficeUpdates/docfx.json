@@ -14,7 +14,8 @@
           "README.md",
           "LICENSE",
           "LICENSE-CODE",
-          "ThirdPartyNotices"
+          "ThirdPartyNotices",
+          "**/common/**"
         ]
       }
     ],
@@ -31,21 +32,25 @@
           "**/obj/**",
           "**/includes/**",
           "_themes/**",
-          "_themes.pdf/**"
+          "_themes.pdf/**",
+          "**/common/**"
         ]
       }
     ],
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "ocv-translation-feedback": true,
+     "ocv-translation-feedback": true,
       "breadcrumb_path": "/OfficeUpdates/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "searchScope": ["Office Updates"],
+      "searchScope": [
+        "Office Updates"
+      ],
       "feedback_system": "GitHub",
       "feedback_github_repo": "MicrosoftDocs/OfficeDocs-OfficeUpdates",
-      "feedback_product_url": "https://github.com/MicrosoftDocs/OfficeDocs-OfficeUpdates/issues"
-    }, 
+      "feedback_product_url": "https://answers.microsoft.com",
+      "titleSuffix": "Office release notes"
+    },
     "fileMetadata": {},
     "template": [],
     "dest": "OfficeUpdates",
