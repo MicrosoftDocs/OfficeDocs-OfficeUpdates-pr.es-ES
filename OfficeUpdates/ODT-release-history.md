@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Historial de versiones de la Herramienta de implementación de Office (ODT) para los profesionales de TI
-ms.openlocfilehash: 163c358c39c4f1953a153ebc52bf909dedd49955
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: ef130b3602d1f7d8c664167655cba09eb45b8e52
+ms.sourcegitcommit: b7b3ebab7fc6b8424482107f650f6bb528afd8f7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851650"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53022103"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Historial de versiones de la Herramienta de implementación de Office
 
@@ -28,6 +28,11 @@ ODT le ofrece más control de la instalación de Office. Le permite definir los 
  **Instrucciones de instalación**: Descargue y ejecute el archivo ejecutable autoextraíble de la Herramienta de implementación de Office (setup.exe) y un archivo de configuración de ejemplo (configuration.xml). 
 
 [Descargar la Herramienta de implementación de Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+## <a name="june-17-2021"></a>17 de junio de 2021
+Versión 16.0.14026.20306 (versión setup.exe 16.0.14026.20306)
+- Corrige un problema que provocaba un error en las operaciones que usaban la opción de idioma MatchOS para algunas configuraciones del sistema operativo.
+
 
 ## <a name="june-7-2021"></a>7 de junio de 2021
 Versión 16.0.14026.20254 (versión setup.exe 16.0.14026.20252)

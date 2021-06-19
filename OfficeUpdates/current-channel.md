@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365
-ms.openlocfilehash: d34f57010c92943ed8665159172f7732e5db715b
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: 699d96a400bf09df793c789b5046c8febe6bf8e3
+ms.sourcegitcommit: b7b3ebab7fc6b8424482107f650f6bb528afd8f7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851880"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53022123"
 ---
 # <a name="release-notes-for-current-channel"></a>Notas de la versión para el canal actual
 
@@ -29,6 +29,34 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+
+## <a name="version-2105-june-18"></a>Versión 2105: 18 de junio
+*Versión 2105 (compilación 14026.20308)*
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="outlook"></a>Outlook
+
+- Hemos corregido un problema que provocaba que los usuarios experimentaran un aviso de cambio de propiedad inesperado al cerrar un mensaje al que habían respondido o que habían reenviado.
+
+
+- Este cambio permite a los usuarios enviar comentarios a través de nuestro nuevo sistema de comentarios.
+
+
+- Hemos corregido un problema que causaba que ZeroConfigExchange no funcionara correctamente en equipos unidos a Azure AD híbrido y conectados a una red externa.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Se ha corregido un problema que provocaba que el usuario no pudiera editar determinados documentos almacenados en servidores locales de SharePoint.
+
+
+- Se ha corregido un cierre inesperado al volver a abrir determinados archivos.
 
 
 
@@ -953,6 +981,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 > Si necesita ayuda con algún problema de uso de Office, le recomendamos que publique la pregunta en el [foro de preguntas de Microsoft](https://answers.microsoft.com/) o [Tech Community](https://techcommunity.microsoft.com/), o bien puede ponerse en contacto con el [servicio de soporte técnico](https://support.microsoft.com/contactus).
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|CC|Production| |16.0.14026.20308|version-2105-june-18|)
 [//]: # (|Win32|CC|Producción| |16.0.14026.20270|versión-2105-junio-08|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20246|version-2105-may-24|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20386|version-2104-may-18|)
@@ -962,5 +991,4 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 [//]: # (|Win32|CC|Producción| |16.0.13901.20400|versión-2103-abril-13|)
 [//]: # (|Win32|CC|Producción| |16.0.13901.20336|versión-2103-marzo-30|)
 [//]: # (|Win32|CC|Producción| |16.0.13901.20312|versión-2103-marzo-30|)
-[//]: # (|Win32|CC|Producción| |16.0.13801.20360|versión-2102-marzo-18|)
 [//]: # (NO MODIFICAR EL FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)

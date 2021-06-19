@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI un historial de actualizaciones para las versiones permanentes de Office 2016 y Office 2019 que usan Hacer clic y ejecutar.
-ms.openlocfilehash: 6518279d34468bc7c02042430e91ee10c59ea905
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: 9ec887d011b572029decedfc4dfb8b55c2344411
+ms.sourcegitcommit: b7b3ebab7fc6b8424482107f650f6bb528afd8f7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851920"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53022073"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Historial de actualizaciones para la versión de Hacer clic y ejecutar de Office 2016 y Office 2019
 
@@ -94,12 +94,12 @@ La siguiente información se aplica a las versiones comerciales de Hacer clic y 
 
 |**Fecha de publicación**|**Número de versión**|
 |:-----|:-----|
+|18 de junio de 2021|Versión 2105 (compilación 14026.20308)|
 |8 de junio de 2021|Versión 2105 (Compilación 14026.20270)|
 |24 de mayo de 2021|Versión 2105 (compilación 14026.20246)|
 |18 de mayo de 2021|Versión 2104 (Compilación 13929.20386)|
 |11 de mayo de 2021|Versión 2104 (compilación 13929.20372)|
 |29 de abril de 2021|Versión 2104 (Compilación 13929.20296)|
-|23 de abril de 2021|Versión 2103 (Compilación 13901.20462)|
 
 
 [//]: # (NO QUITAR EL FINAL DE LA TABLA DE VENTAS AL POR MENOR)
@@ -113,6 +113,7 @@ La siguiente información se aplica a las versiones comerciales de Hacer clic y 
 
 |**Fecha de publicación**|**Número de versión**|
 |:-----|:-----|
+|23 de abril de 2021|Versión 2103 (Compilación 13901.20462)|
 |13 de abril de 2021|Versión 2103 (Compilación 13901.20400)|
 |2 de abril de 2021|Versión 2103 (Compilación 13901.20336)|
 |30 de marzo de 2021|Versión 2103 (compilación 13901.20312)|
