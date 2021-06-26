@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los participantes del Modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos.
-ms.openlocfilehash: be309ede1f540e995ea977feff91267b0ad6c0ad
-ms.sourcegitcommit: d248e36e346915194ca383f5da161790681a87e6
+ms.openlocfilehash: 2273f10ccacb56ee4cbd5132103d3ccdbd5c01d4
+ms.sourcegitcommit: 31e92bb72da4b394fc4d46701dbf3027eb5a9b3b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53025116"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "53132840"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de la versión para el canal beta
 
@@ -30,6 +30,62 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 [//]: # (NO ELIMINAR)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+## <a name="version-2107-june-25"></a>Versión 2107: 25 de junio
+*Versión 2107 (compilación 14217.20002)*
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema por el que los valores del eje del gráfico no se podían cambiar si los separadores de miles y decimales usaban el mismo símbolo.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha corregido un problema relacionado con los nodos de SmartArt que tenían la opción Cambiar forma deshabilitada.
+
+
+### <a name="project"></a>Project
+
+- Se ha corregido un problema por el que las interacciones creadas en Project Web App podían no cargarse correctamente en el cliente de escritorio de Project si el nombre del recurso tenía caracteres especiales, como un punto y coma.
+
+
+- Se ha corregido un problema por el que, cuando la opción de proyecto "El proyecto debería calcular los costes" está deshabilitada, los valores de coste por fases temporales podrían no haberse establecido en la línea base correctamente para los recursos de tipo de coste.
+
+
+- Se ha corregido un problema por el que los campos personalizados de empresa de nivel de proyecto con tablas de búsqueda no mostraban un valor en el cliente de escritorio de Project.
+
+
+- Se ha corregido un problema por el que, al guardar un proyecto local en Project Web App, se podía cambiar una línea base guardada anteriormente.
+
+
+### <a name="word"></a>Word
+
+- Se ha corregido un problema que provocaba que, al habilitar el guardado automático, las ediciones recientes desaparecieran temporalmente.
+
+
+- Se ha corregido un problema con el desplazamiento en el panel de comentarios.
+
+
+- Se ha corregido un problema por el que el texto de encabezado o pie de página no era claramente visible en la vista previa de impresión cuando el tema de Office estaba establecido en negro.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Hemos corregido un problema en el que los hipervínculos que incluyen dígitos se rompen al redactar un mensaje en Outlook en un idioma de derecha a izquierda.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2107-june-18"></a>Versión 2107: 18 de junio
 *Versión 2107 (compilación 14210.20004)*
@@ -3296,6 +3352,7 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14217.20002|version-2107-june-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14210.20004|version-2107-june-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14204.20006|version-2107-june-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14131.20008|version-2106-june-04|)
@@ -3305,5 +3362,4 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|version-2106-may-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14007.20002|version-2105-april-16|)
 [//]: # (NO MODIFICAR EL FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)

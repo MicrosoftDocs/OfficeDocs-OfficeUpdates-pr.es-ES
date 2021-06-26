@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporcionar a los participantes del Modo aplazado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos
-ms.openlocfilehash: 9bfde779a103f3cc66e5965f2a3398ceaf7f1e3e
-ms.sourcegitcommit: 9c4a3b3e231d9ba0aeeaf345d3da858da825284a
+ms.openlocfilehash: af25cceb21f31d2e77f06e25baa7aa139c5900f6
+ms.sourcegitcommit: 2525d26142a14b2fa2a3b6c1ae250cb62b12a09f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "53068042"
+ms.lasthandoff: 06/26/2021
+ms.locfileid: "53150185"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notas de la versión del canal actual de Office (versión preliminar)
 
@@ -28,6 +28,38 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 [//]: # (NO ELIMINAR)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+## <a name="version-2106-june-25"></a>Versión 2106: 25 de junio
+*Versión 2106 (compilación 14131.20250)*
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema que provocaba que las opciones de traducción se deshabilitaran para algunos usuarios.  Los clientes que experimentaron este error habrían visto sus opciones de traducción deshabilitadas al navegar a Archivo -> Opciones -> Idioma. Debido a esto, no habrían podido cambiar su idioma de traducción preferido y otras opciones relacionadas con la traducción.
+
+
+- Se ha corregido un problema que provocaba que los usuarios de la opción Mejoras de calendario compartido que tuvieran muchos calendarios compartidos experimentaran algunos problemas de rendimiento.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha corregido un problema por el que un usuario no podía escribir credenciales en un cuadro de diálogo de Seguridad de Windows para abrir un archivo, debido a un diálogo específico de PowerPoint.
+
+
+### <a name="visio"></a>Visio
+
+- Ahora funcionarán los vínculos de SPO/ODB con acceso de invitado.
+
+
+### <a name="word"></a>Word
+
+- Se ha corregido un problema para conservar citas en un archivo docx protegido con contraseña.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2106-june-21"></a>Versión 2106: 21 de junio
 *Versión 2106 (Compilación 14131.20194)*
@@ -3136,7 +3168,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 
 
 
-[//]: # (NO QUITAR LOS DETALLES DE ERROR DE FIN DE CONTENIDO)
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2007-august-05"></a>Versión 2007: 05 de agosto
 *Versión 2007 (compilación 13029.20344)*
@@ -4068,7 +4100,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 
 
 
-[//]: # (NO ELIMINAR LOS DETALLES DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
 
 ## <a name="version-2004-april-21"></a>Versión 2004: 21 de abril
 *Versión 2004 (compilación 12730.20182)*
