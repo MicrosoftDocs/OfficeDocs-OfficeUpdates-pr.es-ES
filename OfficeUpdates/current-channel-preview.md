@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporcionar a los participantes del Modo aplazado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos
-ms.openlocfilehash: af25cceb21f31d2e77f06e25baa7aa139c5900f6
-ms.sourcegitcommit: 2525d26142a14b2fa2a3b6c1ae250cb62b12a09f
+ms.openlocfilehash: 42886131f7552d2ccf3f9d698e11cae099773d0e
+ms.sourcegitcommit: 6e83413f758b812493be7ae126748c38c674be19
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/26/2021
-ms.locfileid: "53150185"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53204705"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notas de la versión del canal actual de Office (versión preliminar)
 
@@ -28,6 +28,20 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 [//]: # (NO ELIMINAR)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+## <a name="version-2106-june-29"></a>Versión 2106: 29 de junio
+*Versión 2106 (Compilación 14131.20278)*
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema que provocaba problemas de rendimiento en dispositivos ARM64.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2106-june-25"></a>Versión 2106: 25 de junio
 *Versión 2106 (compilación 14131.20250)*
