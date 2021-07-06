@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los participantes del Modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos.
-ms.openlocfilehash: 2273f10ccacb56ee4cbd5132103d3ccdbd5c01d4
-ms.sourcegitcommit: 31e92bb72da4b394fc4d46701dbf3027eb5a9b3b
+ms.openlocfilehash: 211744660c0cbd3a7a35906689a143492e3197e3
+ms.sourcegitcommit: e8fc768b8c5b4183796d62a0969a01a3537f1ff7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53132840"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53278753"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de la versión para el canal beta
 
@@ -30,6 +30,87 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 [//]: # (NO ELIMINAR)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+## <a name="version-2107-july-02"></a>Versión 2107: 2 de julio
+*Versión 2107 (Compilación 14228.20044)*
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Tipos de archivo adicionales admitidos para el escenario de guardar como:** Además de guardar archivos, puede guardar archivos en otros tipos de archivo.
+
+### <a name="outlook"></a>Outlook
+
+- **Solicitud de reunión REST reenviada:** Permite a los usuarios reenviar una reunión rechazada previamente para calendarios compartidos REST.
+
+- **Leer en voz alta ahora es mejor:** La barra de herramientas Leer en voz alta ofrece nuevas opciones de voz naturales
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Tipos de archivo adicionales admitidos para el escenario de guardar como:** Además de guardar archivos, puede guardar archivos en otros tipos de archivo.
+
+### <a name="word"></a>Word
+
+- **Buscar con la voz:** Pulse o haga clic en el micrófono de la barra de búsqueda para usar su voz en Word para buscar comandos, contenido y mucho más.
+
+- **Opciones de voz más naturales para Leer en voz alta:** Pruebe una nueva voz con un sonido más natural en la barra de herramientas Leer en voz alta. [Más información](https://support.office.com/article/5a2de7f3-1ef4-4795-b24e-64fc2731b001)
+
+- **Tipos de archivo adicionales admitidos para el escenario de guardar como:** Además de guardar archivos, puede guardar archivos en otros tipos de archivo.
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema por el que se producía una excepción de una ejecución de CFR.
+
+
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema que provocaba que las opciones de traducción se deshabilitaran para algunos usuarios.  Los clientes que experimentaron este error habrían visto sus opciones de traducción deshabilitadas al navegar a Archivo -> Opciones -> Idioma. Debido a esto, no habrían podido cambiar su idioma de traducción preferido y otras opciones relacionadas con la traducción.
+
+
+- Se ha corregido un problema relacionado con el estado de respuesta "no se pudo cargar". La marca de respuesta predeterminada se estableció en "None". No mostramos ninguna cadena en la interfaz de usuario al desplazar el puntero sobre un calendario en el que no teníamos permisos de edición.
+
+
+- Se ha corregido un problema por el que el aumento de texto predeterminado incluye el escalado de texto, por lo que no es necesario usar otra llamada de LayoutChanged.
+
+
+- Se ha corregido un problema por el que las sugerencias de correo electrónico no se mostraban para las direcciones con definición.
+
+
+- Hemos agregado una clave de registro para permitir que el formulario de Correo de voz se muestre en la interfaz de usuario en el escritorio de Outlook, debido a la retirada de la mensajería unificada en Exchange Online (https://techcommunity.microsoft.com/t5/exchange-team-blog/retiring-unified-messaging-in-exchange-online/ba-p/608991). Para los usuarios, empresas y organizaciones que desean que aparezca el formulario de Correo de voz, debe establecerse la siguiente clave de registro: [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\Outlook\Addins] "AllowVoicemailForm"=dword:00000001
+
+
+### <a name="word"></a>Word
+
+- Se ha corregido un problema que mejora la integración con el nuevo panel de comentarios en Word y JAWS, un popular software de lectura de pantalla.
+
+
+- Se ha corregido un problema relacionado con el uso de un CommentId diferente de lTagNil para la selección y el resaltado borrados.
+
+
+- Se ha corregido un problema que provocaba que la cola de descarga dejara de responder.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Se ha corregido un problema de localización por el que ahora en-gb, fr-ca y es-mx coincidirán con sus respectivas versiones primarias.
+
+
+- Se ha corregido un problema por el que la configuración de uso compartido entre OOID y ExCatalog ya no era posible, por ejemplo, para las actualizaciones de configuración de complementos web para webextension.xml, ya que se crea un nuevo archivo webextension. Solo se tuvo acceso al anterior cuando el complemento se implementó en el método original o se desactivó la nueva comparación de referencias de la solución.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2107-june-25"></a>Versión 2107: 25 de junio
 *Versión 2107 (compilación 14217.20002)*
@@ -3352,6 +3433,7 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14228.20044|version-2107-july-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14217.20002|version-2107-june-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14210.20004|version-2107-june-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14204.20006|version-2107-june-11|)
@@ -3361,5 +3443,4 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 [//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|version-2106-may-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
 [//]: # (NO MODIFICAR EL FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
