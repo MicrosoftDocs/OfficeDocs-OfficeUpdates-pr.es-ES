@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI vínculos a la información de las últimas actualizaciones no relacionadas con la seguridad de las versiones perpetuas de Office 2016, Office 2013 y Office 2010.
-ms.openlocfilehash: 0ea47845b4efc2783c835459853545a000f37e96
-ms.sourcegitcommit: 05bff52afd0c2f4dd8c5fe128e24a048596f5a05
+ms.openlocfilehash: 4d2df73c3e73040e9be0ccac02d31977bb1a74b8
+ms.sourcegitcommit: 96056ede205e1d10d7e8665931d309684bb5fb79
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/03/2021
-ms.locfileid: "52736868"
+ms.lasthandoff: 07/06/2021
+ms.locfileid: "53303305"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Últimas actualizaciones no relacionadas con la seguridad para las versiones de Office que usan Windows Installer (MSI)
 
@@ -25,6 +25,11 @@ Esta página enumera las actualizaciones de Office no relacionadas con la seguri
 > - La información de este artículo no se aplica a las aplicaciones de Microsoft 365.
 > - Para obtener más información sobre la instalación de actualizaciones de Office, vea [Instalación de actualizaciones de Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
+
+## <a name="july-6-2021"></a>6 de julio de 2021
+**Office 2016**<br/>
+Actualización de Microsoft Office 2016 ([KB5001971](https://support.microsoft.com/help/5001971)) </br>
+Actualización de Microsoft Outlook 2016 ([KB5001980](https://support.microsoft.com/help/5001980)) </br>
 
 ## <a name="june-1-2021"></a>1 de junio de 2021
 **Office 2016**<br/>
@@ -61,15 +66,6 @@ Actualización para Microsoft PowerPoint 2013 ([KB4493169](https://support.micro
 **Office 2010**<br/>
 Actualización para Microsoft Office 2010 ([KB4493180](https://support.microsoft.com/help/4493180)) </br>
 Actualización para Microsoft PowerPoint 2010 ([KB4493179](https://support.microsoft.com/help/4493179))</br>
-
-
-## <a name="january-5-2021"></a>5 de enero de 2021
-**Office 2016**</br>
-Actualización de Microsoft Access 2016 ([KB4484509](https://support.microsoft.com/help/4484509)) </br>
-Actualización de Microsoft Office 2016 ([KB4493157](https://support.microsoft.com/help/4493157)) </br>
-Actualización de Microsoft Outlook 2016 ([KB4493166](https://support.microsoft.com/help/4493166)) </br>
-Actualización de Microsoft Project 2016 ([KB4493159](https://support.microsoft.com/help/4493159)) </br>
-
 
 
 </br>
