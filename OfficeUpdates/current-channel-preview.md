@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporcionar a los participantes del Modo aplazado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos
-ms.openlocfilehash: 42886131f7552d2ccf3f9d698e11cae099773d0e
-ms.sourcegitcommit: 6e83413f758b812493be7ae126748c38c674be19
+ms.openlocfilehash: f7d8583cdfc7c361711985850e158e55f81ad925
+ms.sourcegitcommit: c23381603284717673fac8cbbda7a4272e2f48eb
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53204705"
+ms.lasthandoff: 07/06/2021
+ms.locfileid: "53309193"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notas de la versión del canal actual de Office (versión preliminar)
 
@@ -28,6 +28,156 @@ En este artículo hay notas de la versión para las compilaciones del Canal actu
 [//]: # (NO ELIMINAR)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+## <a name="version-2107-july-06"></a>Versión 2107: 06 de julio
+*Versión 2107 (Compilación 14228.20044)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="excel"></a>Excel
+
+- **Tipos de archivo adicionales admitidos para el escenario de guardar como:** Además de guardar archivos, puede guardar archivos en otros tipos de archivo.
+
+- **Administración pública: envío de datos de auditoría sobre el etiquetado de confidencialidad a los administradores de M365.** Cuando los usuarios apliquen, cambien o eliminen las etiquetas de confidencialidad en sus documentos y correos electrónicos, Office enviará datos de auditoría al back-end de auditoría de M365 para que los administradores los vean. Esta es una funcionalidad silenciosa (sin interfaz de usuario) para beneficio del administrador.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Tipos de archivo adicionales admitidos para el escenario de guardar como:** Además de guardar archivos, puede guardar archivos en otros tipos de archivo.
+
+- **Administración pública: envío de datos de auditoría sobre el etiquetado de confidencialidad a los administradores de M365.** Cuando los usuarios apliquen, cambien o eliminen las etiquetas de confidencialidad en sus documentos y correos electrónicos, Office enviará datos de auditoría al back-end de auditoría de M365 para que los administradores los vean. Esta es una funcionalidad silenciosa (sin interfaz de usuario) para beneficio del administrador.
+
+### <a name="word"></a>Word
+
+- **Tipos de archivo adicionales admitidos para el escenario de guardar como:** Además de guardar archivos, puede guardar archivos en otros tipos de archivo.
+
+- **Administración pública: envío de datos de auditoría sobre el etiquetado de confidencialidad a los administradores de M365.** Cuando los usuarios apliquen, cambien o eliminen las etiquetas de confidencialidad en sus documentos y correos electrónicos, Office enviará datos de auditoría al back-end de auditoría de M365 para que los administradores los vean. Esta es una funcionalidad silenciosa (sin interfaz de usuario) para beneficio del administrador.
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="access"></a>Acceso
+
+- Se ha corregido un problema que podía hacer que las aplicaciones que usan la API de ODBC de motor de base de datos de Access se cerraran de forma inesperada.
+
+
+- Se ha corregido un problema que podía hacer que las aplicaciones que usan la API de OLEDB de motor de base de datos de Access con una base de datos que contiene vínculos a listas de SharePoint se cerraran de forma inesperada.
+
+
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema por el que se producía una excepción de una ejecución de CFR.
+
+
+- Se ha corregido un problema por el que los valores del eje del gráfico no se podían cambiar si los separadores de miles y decimales usaban el mismo símbolo.
+
+
+- Hemos corregido un problema que hacía que a algunos usuarios les aparecieran entradas adicionales en la lista del complemento de Excel.
+
+
+- Hemos corregido un problema que causaba que el libro apareciera en la parte superior de la lista Recientes al guardar en una biblioteca de documentos SPO.
+
+
+- Se ha corregido un problema por el que se abría una ventana duplicada en blanco cuando se habilitaban los complementos heredados.
+
+
+### <a name="onenote"></a>OneNote
+
+- Hemos corregido un problema que provocaba que copiar un vínculo a un párrafo no siempre redirigiera a la página correcta.
+
+
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema que provocaba que las opciones de traducción se deshabilitaran para algunos usuarios.  Los clientes que experimentaron este error habrían visto sus opciones de traducción deshabilitadas al navegar a Archivo -> Opciones -> Idioma. Debido a esto, no habrían podido cambiar su idioma de traducción preferido y otras opciones relacionadas con la traducción.
+
+
+- Se ha corregido un problema relacionado con el estado de respuesta "no se pudo cargar". La marca de respuesta predeterminada se estableció en "None". No mostramos ninguna cadena en la interfaz de usuario al desplazar el puntero sobre un calendario en el que no teníamos permisos de edición.
+
+
+- Se ha corregido un problema por el que el aumento de texto predeterminado incluye el escalado de texto, por lo que no es necesario usar otra llamada de LayoutChanged.
+
+
+- Se ha corregido un problema por el que las sugerencias de correo electrónico no se mostraban para las direcciones con definición.
+
+
+- Hemos agregado una clave de registro para permitir que el formulario de Correo de voz se muestre en la interfaz de usuario en el escritorio de Outlook, debido a la retirada de la mensajería unificada en Exchange Online (https://techcommunity.microsoft.com/t5/exchange-team-blog/retiring-unified-messaging-in-exchange-online/ba-p/608991). Para los usuarios, empresas y organizaciones que desean que aparezca el formulario de Correo de voz, debe establecerse la siguiente clave de registro: [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\Outlook\Addins] "AllowVoicemailForm"=dword:00000001
+
+
+- Se ha corregido un problema por el que los usuarios con un gran número de grupos experimentaban una falta de respuesta al iniciar Outlook.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha corregido un problema relacionado con los nodos de SmartArt que tenían la opción Cambiar forma deshabilitada.
+
+
+### <a name="project"></a>Project
+
+- Se ha corregido un problema por el que las interacciones creadas en Project Web App podían no cargarse correctamente en el cliente de escritorio de Project si el nombre del recurso tenía caracteres especiales, como un punto y coma.
+
+
+- Se ha corregido un problema por el que, cuando la opción de proyecto "El proyecto debería calcular los costes" está deshabilitada, los valores de coste por fases temporales podrían no haberse establecido en la línea base correctamente para los recursos de tipo de coste.
+
+
+- Se ha corregido un problema por el que los campos personalizados de empresa de nivel de proyecto con tablas de búsqueda no mostraban un valor en el cliente de escritorio de Project.
+
+
+- Se ha corregido un problema por el que, al guardar un proyecto local en Project Web App, se podía cambiar una línea base guardada anteriormente.
+
+
+### <a name="visio"></a>Visio
+
+- Este problema de navegación de hipervínculo se ha corregido en la compilación más reciente. Los usuarios pueden seguir teniendo acceso a los hipervínculos sin problemas para navegar al archivo vinculado deseado ubicado en su OneDrive para la Empresa, usando <CTRL> + clic en la forma con el hipervínculo.
+
+
+### <a name="word"></a>Word
+
+- Se ha corregido un problema que provocaba que, al habilitar el guardado automático, las ediciones recientes desaparecieran temporalmente.
+
+
+- Se ha corregido un problema que mejora la integración con el nuevo panel de comentarios en Word y JAWS, un popular software de lectura de pantalla.
+
+
+- Se ha corregido un problema relacionado con el uso de un CommentId diferente de lTagNil para la selección y el resaltado borrados.
+
+
+- Se ha corregido un problema por el que los comentarios pasaban a ser de solo lectura durante la colaboración.
+
+
+- Se ha corregido un problema de desplazamiento en el panel de comentarios.
+
+
+- Se ha corregido un problema por el que la cola de descarga dejaba de responder.
+
+
+- Se ha corregido un problema por el que el texto de encabezado o pie de página no era claramente visible en la vista previa de impresión cuando el tema de Office estaba establecido en negro.
+
+
+- Hemos corregido un problema por el cual aparecían cuadros al usar el complemento Manuscript Paper de Microsoft Word.
+
+
+- Hemos corregido un problema que causaba que algunas páginas aparecieran en blanco en la vista previa de impresión.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+
+- Hemos corregido un problema en el que los hipervínculos que incluyen dígitos se rompen al redactar un mensaje en Outlook en un idioma de derecha a izquierda.
+
+
+- Se ha corregido un problema de localización por el que ahora en-gb, fr-ca y es-mx coincidirán con sus respectivas versiones primarias.
+
+
+- Se ha corregido un problema por el que la configuración de uso compartido entre OOID y ExCatalog ya no era posible, por ejemplo, para las actualizaciones de configuración de complementos web para webextension.xml, ya que se crea un nuevo archivo webextension. Solo se tuvo acceso al anterior cuando el complemento se implementó en el método original o se desactivó la nueva comparación de referencias de la solución.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
 
 ## <a name="version-2106-june-29"></a>Versión 2106: 29 de junio
 *Versión 2106 (Compilación 14131.20278)*
@@ -3182,7 +3332,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 
 
 
-[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR LOS DETALLES DE ERROR DE FIN DE CONTENIDO)
 
 ## <a name="version-2007-august-05"></a>Versión 2007: 05 de agosto
 *Versión 2007 (compilación 13029.20344)*
@@ -4114,7 +4264,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 
 
 
-[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
+[//]: # (NO ELIMINAR LOS DETALLES DEL CONTENIDO FINAL)
 
 ## <a name="version-2004-april-21"></a>Versión 2004: 21 de abril
 *Versión 2004 (compilación 12730.20182)*
