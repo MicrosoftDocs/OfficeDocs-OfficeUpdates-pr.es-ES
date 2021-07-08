@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365
-ms.openlocfilehash: f5b3552684ba964fc57ca405d261ba4e2cb341f5
-ms.sourcegitcommit: bd700dedc0c80ae72fa5611665ad6d321127a531
+ms.openlocfilehash: b3f83cf76fe29f739da9ce18160a5de76a90118f
+ms.sourcegitcommit: 11c8b2e40f9058a6e6f0451736b0b05627789b9d
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53206312"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53323567"
 ---
 # <a name="release-notes-for-current-channel"></a>Notas de la versión para el canal actual
 
@@ -63,8 +63,9 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 ### <a name="outlook"></a>Outlook
 
-- Se ha corregido un problema que provocaba problemas de rendimiento en dispositivos ARM64.
+- Se ha corregido un problema por el que se mostraba una directiva de retención para Skype Empresarial o Microsoft Teams como directiva de carpeta predeterminada al ver las propiedades de una carpeta de buzón, en lugar de la directiva de retención de buzones que se aplica a la carpeta.
 
+- Se ha corregido un problema que provocaba problemas de rendimiento en dispositivos ARM64.
 
 - Se ha corregido un problema que provocaba que las opciones de traducción se deshabilitaran para algunos usuarios.  Los clientes que experimentaron este error habrían visto sus opciones de traducción deshabilitadas al navegar a Archivo -> Opciones -> Idioma. Debido a esto, no habrían podido cambiar su idioma de traducción preferido y otras opciones relacionadas con la traducción.
 

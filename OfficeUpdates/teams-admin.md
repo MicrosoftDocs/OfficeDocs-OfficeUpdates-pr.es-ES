@@ -15,12 +15,12 @@ ms.collection:
 appliesto:
 - Microsoft Teams
 description: Notas de la versión Microsoft Teams características de administración.
-ms.openlocfilehash: a47bdbb3a9ae39c670cbbb1230248054c1be573e
-ms.sourcegitcommit: 7f52ea9d1051a8102d9d16129855833c5b9638a1
+ms.openlocfilehash: d1b2561633fc52bac88e3f41c814cefa01cc9a50
+ms.sourcegitcommit: ad3cdcae422e3253cff8974fc053024ca5bf4f2a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52790543"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "53330923"
 ---
 # <a name="release-notes-for-microsoft-teams-admin-features"></a>Notas de la versión para Microsoft Teams de administración
 
@@ -48,7 +48,7 @@ Los administradores de TI pueden aprovisionar e iniciar sesión de forma remota 
 
 ### <a name="enable-live-transcripts-in-teams"></a>Habilitar transcripciones en directo en Teams
 
-Se trata de una directiva por usuario y se aplica durante una reunión. Esta configuración controla si la opción Activar títulos en directo está disponible para que el usuario active y desactive los títulos en directo en las reuniones a las que asiste el usuario. [Más información](/microsoftteams/meeting-policies-participants-and-guests#enable-live-captions).
+Se trata de una directiva por usuario y se aplica durante una reunión. Esta configuración proporciona el control a un usuario para activar o desactivar los títulos en directo durante la reunión a la que asisten. [Más información](/microsoftteams/meeting-policies-participants-and-guests#enable-live-captions).
 
 ## <a name="march-23-2021"></a>23 de marzo de 2021
 
@@ -139,11 +139,11 @@ Un centro de tasas es el término del sector para un área geográfica que tradi
 
 ## <a name="december-9-2020"></a>9 de diciembre de 2020
 
-### <a name="advisor-for-teams-with-microsoft-365-learning-pathways"></a>Asesor para Teams con Microsoft 365 de aprendizaje
+### <a name="advisor-for-teams-with-microsoft-365-learning-pathways"></a>Asesor para Teams con Microsoft 365 Learning pathways
 
 Microsoft 365 de aprendizaje es una solución de aprendizaje a petición que puede personalizar para formar a los usuarios y aumentar el uso y la adopción de Teams en su organización. Use las rutas de aprendizaje junto con el Asesor Teams para que los usuarios se ejecuten rápidamente e impulsen la adopción.
 
-Las rutas de aprendizaje le dan una SharePoint de sitio en línea y la capacidad de crear fácilmente un sitio de aprendizaje para los usuarios. Puede personalizar el portal de aprendizaje de caminos de aprendizaje para incluir contenido de formación y soporte técnico específico para las necesidades de los usuarios. Usa las Teams listas de reproducción del catálogo en línea de Microsoft y agrega las tuyas propias. [Más información](/microsoftteams/use-advisor-teams-roll-out#advisor-for-teams-and-microsoft-365-learning-pathways).
+Learning rutas de acceso le ofrece una SharePoint de sitio en línea y la capacidad de crear fácilmente un sitio de aprendizaje para los usuarios. Puede personalizar el portal de aprendizaje de caminos de aprendizaje para incluir contenido de formación y soporte técnico específico para las necesidades de los usuarios. Usa las Teams listas de reproducción del catálogo en línea de Microsoft y agrega las tuyas propias. [Más información](/microsoftteams/use-advisor-teams-roll-out#advisor-for-teams-and-microsoft-365-learning-pathways).
 
 ## <a name="october-28-2020"></a>28 de octubre de 2020
 
@@ -163,7 +163,7 @@ Esta funcionalidad forma parte de Microsoft Cloud for Healthcare. [Más informac
 
 ### <a name="teams-displays"></a>Teams muestra
 
-Microsoft Teams pantallas son una categoría de dispositivos de Teams dedicados todo en uno que cuentan con una pantalla táctil ambiental y una experiencia de manos libres con tecnología de Cortana. [Más información](/microsoftteams/devices/teams-displays).
+Microsoft Teams pantallas son una categoría de dispositivos de Teams dedicados todo en uno que cuentan con una pantalla táctil ambiental y una experiencia de manos libres con tecnología Cortana. [Más información](/microsoftteams/devices/teams-displays).
 
 ## <a name="october-22-2020"></a>22 de octubre de 2020
 
@@ -291,9 +291,9 @@ Con esta característica, las personas tienen asignadas automáticamente etiquet
 
 ## <a name="august-14-2020"></a>14 de agosto de 2020
 
-### <a name="cortana-voice-skills-in-teams"></a>Habilidades de voz de Cortana en Teams
+### <a name="cortana-voice-skills-in-teams"></a>Cortana de voz en Teams
 
-Las habilidades de voz de Cortana Teams aplicaciones móviles ayudan a los usuarios a realizar tareas de reunión, comunicación y colaboración simplemente con el lenguaje natural hablado. Los usuarios pueden hablarle a Cortana al hacer clic en el botón de micrófono en la aplicación Teams y hacer solicitudes, como "Llamar a Megan" o "Enviar un mensaje para mi próxima reunión", si necesitan contactar a otras personas mientras hacen las tareas del hogar, pasean al perro o, en general, sobre la marcha. Los usuarios pueden unirse a las reuniones con tan solo decir "Unirme a mi próxima reunión" o bien, comprobar su calendario al preguntar "¿Qué tengo que hacer esta mañana?". Una vez en la reunión o llamada, pueden invocar a Cortana desde el menú de desbordamiento en la fase de reunión y realizar tareas habituales de la reunión como agregar personas por nombre o número ("Agrega a Megan a la llamada"), presentar conjuntos de diapositivas ("Presentar el conjunto de diapositivas de la revisión trimestral") o desplazarse por las diapositivas ("Ir a la diapositiva de apéndice"). Otras cosas que admite la característica son buscar y compartir archivos, buscar y navegar dentro de la aplicación de Teams ("Abrir mi chat con John, Ir a mi actividad no leída, Ir a mis menciones, etc.).
+Cortana de voz en Teams aplicación móvil ayudan a los usuarios a realizar tareas de reunión, comunicación y colaboración simplemente con el lenguaje natural hablado. Los usuarios pueden hablarle a Cortana al hacer clic en el botón de micrófono en la aplicación Teams y hacer solicitudes, como "Llamar a Megan" o "Enviar un mensaje para mi próxima reunión", si necesitan contactar a otras personas mientras hacen las tareas del hogar, pasean al perro o, en general, sobre la marcha. Los usuarios pueden unirse a las reuniones con tan solo decir "Unirme a mi próxima reunión" o bien, comprobar su calendario al preguntar "¿Qué tengo que hacer esta mañana?". Una vez en la reunión o llamada, pueden invocar a Cortana desde el menú de desbordamiento en la fase de reunión y realizar tareas habituales de la reunión como agregar personas por nombre o número ("Agrega a Megan a la llamada"), presentar conjuntos de diapositivas ("Presentar el conjunto de diapositivas de la revisión trimestral") o desplazarse por las diapositivas ("Ir a la diapositiva de apéndice"). Otras cosas que admite la característica son buscar y compartir archivos, buscar y navegar dentro de la aplicación de Teams ("Abrir mi chat con John, Ir a mi actividad no leída, Ir a mis menciones, etc.).
 
 Cortana en Teams cumple las mismas promesas de privacidad, seguridad y cumplimiento de nivel empresarial para los servicios de empresas de Cortana, tal como se refleja en el los [Términos de los servicios en línea (OST)](https://www.microsoft.com/licensing/product-licensing/products?rtc=1). [Más información](/microsoftteams/cortana-in-teams).
 
