@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los participantes del Modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos.
-ms.openlocfilehash: 405b9bd4f9dc15fd3e4ed2233d59df431b0c4244
-ms.sourcegitcommit: 268322e5705199bb27cd07ab6e3fdabd1e20e334
+ms.openlocfilehash: 06051d34b4c3537f0b6f957cdb4d681297390cc5
+ms.sourcegitcommit: 387e4010f06f33bc9b100ed4fa2ced2598d3b167
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/09/2021
-ms.locfileid: "53347973"
+ms.lasthandoff: 07/10/2021
+ms.locfileid: "53364087"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de la versión para el canal beta
 
@@ -30,6 +30,52 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 [//]: # (NO ELIMINAR)
 
 [//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+## <a name="version-2108-july-09"></a>Versión 2108: 9 de julio
+*Versión 2108 (Compilación 14301.20004)*
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="outlook"></a>Outlook
+
+- **Desactivar respuestas sugeridas:** las breves respuestas sugeridas de Outlook [le permiten responder rápidamente](https://insider.office.com/blog/reply-faster-using-suggested-replies-in-outlook) a aquellos correos electrónicos que se puedan contestar con tan solo unas pocas palabras. Es posible que algunos usuarios no quieran ver esta opción, por lo que ahora se permite desactivarla. Para ello, seleccione Archivo > Opciones > Correo, vaya a la sección Respuestas y reenvíos y desactive la casilla Mostrar respuestas sugeridas.
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Se ha corregido un problema que provocaba que un archivo vinculado a PowerPoint dejara de estar disponible cuando el archivo .xlsx de origen ya se estaba ejecutando en segundo plano y ambos archivos se abrían desde la carpeta sincronizada local de ODB.
+
+
+- Se ha corregido un problema por el que ahora se reconocerán los nombres de funciones localizadas al abrir archivos CSV.
+
+
+### <a name="word"></a>Word
+
+- Se ha corregido un problema relacionado con tamaños de impresión demasiado pequeños en Word Mobile.
+
+
+- Se ha corregido un problema por el que un archivo agregado a una biblioteca de documentos de SharePoint heredaba la configuración "Panel de información de ShowDocument" inmediatamente después de abrirse y se conservaba si el archivo se quitaba de SharePoint.
+
+
+- Se ha corregido un problema por el que el analizador de direcciones URL interpretaba incorrectamente un nombre de carpeta que no terminaba con "/".
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Se ha corregido un problema que provocaba que las propiedades DropShadow agregadas en el cuadro de búsqueda fueran demasiado altas, lo que creaba errores de diseño.
+
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
 
 ## <a name="version-2107-july-02"></a>Versión 2107: 2 de julio
 *Versión 2107 (Compilación 14228.20044)*
@@ -297,7 +343,7 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 
 ### <a name="resolved-issues"></a>Problemas corregidos
 ### <a name="excel"></a>Excel
-- Hemos quitado "RichValue" de Range.valueTypes. Los tipos de datos vinculados devolverán ahora "Error" para que coincida con el valor de "#VALUE!" devuelto por Range.values.
+- Hemos quitado "RichValue" de Range.valueTypes. Los tipos de datos vinculados devolverán ahora «Error» para que coincida con el valor de "#VALUE!" devuelto por Range.values.
 ### <a name="outlook"></a>Outlook
 
 - Hemos corregido un problema por el que los usuarios no podían mover elementos entre carpetas en versiones de Outlook con licencia "no comercial".
@@ -3435,6 +3481,7 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14301.20004|version-2108-july-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14228.20044|version-2107-july-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14217.20002|version-2107-june-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14210.20004|version-2107-june-18|)
@@ -3444,5 +3491,4 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 [//]: # (|Win32|DevMain|Insiders| |16.0.14117.20000|version-2106-may-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|version-2106-may-07|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
 [//]: # (NO MODIFICAR EL FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
