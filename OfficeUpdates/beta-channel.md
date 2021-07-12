@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los participantes del Modo anticipado de Insider la lista más reciente de las nuevas características, correcciones o problemas conocidos.
-ms.openlocfilehash: 211744660c0cbd3a7a35906689a143492e3197e3
-ms.sourcegitcommit: e8fc768b8c5b4183796d62a0969a01a3537f1ff7
+ms.openlocfilehash: 405b9bd4f9dc15fd3e4ed2233d59df431b0c4244
+ms.sourcegitcommit: 268322e5705199bb27cd07ab6e3fdabd1e20e334
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53278753"
+ms.lasthandoff: 07/09/2021
+ms.locfileid: "53347973"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de la versión para el canal beta
 
@@ -296,6 +296,8 @@ El presente artículo contiene notas de la versión para las compilaciones del c
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
 
 ### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+- Hemos quitado "RichValue" de Range.valueTypes. Los tipos de datos vinculados devolverán ahora "Error" para que coincida con el valor de "#VALUE!" devuelto por Range.values.
 ### <a name="outlook"></a>Outlook
 
 - Hemos corregido un problema por el que los usuarios no podían mover elementos entre carpetas en versiones de Outlook con licencia "no comercial".
