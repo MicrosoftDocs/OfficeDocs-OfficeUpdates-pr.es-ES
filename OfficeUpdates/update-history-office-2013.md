@@ -9,19 +9,19 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI un historial de actualizaciones para las versiones perpetuas de Office 2013 que usan Hacer clic y ejecutar.
-ms.openlocfilehash: 9961d57aca84cf1cd8ea81b69cbcaf92c1c629c9
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: 841f9eb6d683fe7d198c402bd45ba955e81ff892
+ms.sourcegitcommit: 53e1e371f9782d973d664e24793c3abd709581e1
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851930"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53411748"
 ---
 # <a name="update-history-for-office-2013"></a>Historial de actualizaciones para Office 2013
 
 Algunos productos de Office 2013 se actualizan automáticamente mediante una tecnología denominada hacer clic y ejecutar. Si desea comprobar que está actualizado, compruebe su número de versión de Office y actualice Office manualmente si es necesario.
   
 > [!NOTE]
-> La versión más reciente de Office 2013 es la **15.0.5357.1000**, que se publicó el 8 de junio de 2021.
+> La versión más actual de Office 2013 es la **15.0.5363.1000**, que fue lanzada el 13 de julio de 2021.
   
 Para comprobar su versión de Office, siga estos pasos:
   
@@ -45,7 +45,8 @@ Las versiones nuevas incluyen todas las actualizaciones de versiones anteriores.
   
 |**Año de publicación**|**Fecha de publicación**|**Número de versión**|**Más información**|
 |:-----|:-----|:-----|:-----|
-|2021|8 de junio|15.0.5357.1000|[KB 5004001](https://support.microsoft.com/help/5004001)|
+|2021|13 de julio|15.0.5363.1000|[KB 5001964](https://support.microsoft.com/help/5001964)|
+||8 de junio|15.0.5357.1000|[KB 5004001](https://support.microsoft.com/help/5004001)|
 ||11 de mayo|15.0.5345.1002|[KB 5003427](https://support.microsoft.com/help/5003427)|
 ||13 de abril|15.0.5337.1001|[KB 5001778](https://support.microsoft.com/help/5001778)|
 ||9 de marzo|15.0.5327.1000|[KB 5000635](https://support.microsoft.com/help/5000635)|

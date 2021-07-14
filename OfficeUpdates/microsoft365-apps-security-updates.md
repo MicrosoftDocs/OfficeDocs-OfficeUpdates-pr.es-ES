@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión de las actualizaciones de seguridad de Microsoft Office
-ms.openlocfilehash: 5ab2db770141e34fa8fd3d38411e77acef4d4235
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: 6dece74c6156c1a3e8a0ca22fce7e94337cbcf75
+ms.sourcegitcommit: 4f5536e809f58462d81c708c153390ebfd1abc4e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851840"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409425"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Notas de la versión para las actualizaciones de seguridad de Microsoft Office
 
@@ -24,6 +24,39 @@ Esta información se aplica a las Aplicaciones de Microsoft 365 para empresas, l
  
 
 [//]: # (NO QUITAR LA LÍNEA ANTERIOR, se usa para el espaciado)  
+
+## <a name="july-13-2021"></a>13 de julio de 2021
+Canal actual: versión 2106 (compilación 14131.20320)  
+Canal mensual para empresas: versión 2105 (compilación 14026.20334)  
+Canal mensual para empresas: versión 2104 (compilación 13929.20434)  
+Canal semestral para empresas (versión preliminar) versión 2102 (compilación 13801.20808)  
+Canal semestral para empresas (versión preliminar): versión 2102 (compilación 13801.20808)  
+Canal semestral para empresas: versión 2008 (compilación 13127.21704)  
+Canal semestral para empresas: versión 2002 (compilación 12527.21986)   
+Aplicaciones de Microsoft 365 en Windows 7: versión 2002 (compilación 12527.21986)  
+Office 2019 Retail: versión 2106 (compilación 14131.20320)  
+Office 2016 Retail: versión 2106 (compilación 14131.20320)  
+Licencia por volumen de Office 2019: versión 1808 (compilación 10376.20033)  
+
+[//]: # (NO QUITAR LOS DETALLES DE SEGURIDAD INICIO DEL CONTENIDO INICIAL)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-34501](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2021-34501)
+
+### <a name="word"></a>Word
+
+-   [CVE-2021-34452](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2021-34452)
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+-   [CVE-2021-34469](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2021-34469)
+
+
+[//]: # (NO QUITAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO FINAL)
+
+
 
 ## <a name="june-08-2021"></a>8 de junio de 2021
 Canal actual: versión 2105 (compilación 14026.20270)  

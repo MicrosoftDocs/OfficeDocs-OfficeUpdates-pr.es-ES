@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Historial de versiones de la Herramienta de implementación de Office (ODT) para los profesionales de TI
-ms.openlocfilehash: ef130b3602d1f7d8c664167655cba09eb45b8e52
-ms.sourcegitcommit: b7b3ebab7fc6b8424482107f650f6bb528afd8f7
+ms.openlocfilehash: f6df62267f7f2035f610867721b3dc1b9f65a1bd
+ms.sourcegitcommit: 4f5536e809f58462d81c708c153390ebfd1abc4e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53022103"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409586"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Historial de versiones de la Herramienta de implementación de Office
 
@@ -28,6 +28,14 @@ ODT le ofrece más control de la instalación de Office. Le permite definir los 
  **Instrucciones de instalación**: Descargue y ejecute el archivo ejecutable autoextraíble de la Herramienta de implementación de Office (setup.exe) y un archivo de configuración de ejemplo (configuration.xml). 
 
 [Descargar la Herramienta de implementación de Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+
+## <a name="july-12-2021"></a>12 de julio de 2021
+Versión 16.0.14131.20278 (versión setup.exe 16.0.14131.20278)
+- Se ha corregido un problema que provocaba un error de RemoveMSI en determinados casos.
+- Se ha corregido un problema al detectar ejecuciones simultáneas de setup.exe
+- Correcciones de confiabilidad para plataformas ARM
+
 
 ## <a name="june-17-2021"></a>17 de junio de 2021
 Versión 16.0.14026.20306 (versión setup.exe 16.0.14026.20306)

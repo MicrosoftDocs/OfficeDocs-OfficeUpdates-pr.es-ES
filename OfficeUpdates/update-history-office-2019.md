@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Proporciona a los profesionales de TI un historial de actualizaciones para las versiones permanentes de Office 2016 y Office 2019 que usan Hacer clic y ejecutar.
-ms.openlocfilehash: f16e13ba33531ffaeae309606a953fcdfe5fbe2b
-ms.sourcegitcommit: bd700dedc0c80ae72fa5611665ad6d321127a531
+ms.openlocfilehash: 8de4961a4cfc6e4b2b3caf2c5d3a49b296b15da9
+ms.sourcegitcommit: 4f5536e809f58462d81c708c153390ebfd1abc4e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53206332"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409476"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Historial de actualizaciones para la versión de Hacer clic y ejecutar de Office 2016 y Office 2019
 
@@ -47,12 +47,12 @@ La siguiente información se aplica a las versiones de licencia por volumen de O
 
 |**Fecha de publicación**|**Número de versión**|
 |:-----|:-----|
+|13 de julio de 2021|Versión 1808 (compilación 10376.20033)|
 |8 de junio de 2021|Versión 1808 (Compilación 10375.20036)|
 |11 de mayo de 2021|Versión 1808 (compilación 10374.20040)|
 |13 de abril de 2021|Versión 1808 (Compilación 10373.20050)|
 |9 de marzo de 2021|Versión 1808 (compilación 10372.20060)|
 |9 de febrero de 2021|Versión 1808 (compilación 10371.20060)|
-|12 de enero de 2021|Versión 1808 (compilación 10370.20052)|
 
 
 [//]: # (NO QUITAR EL FINAL DE LA TABLA DE LICENCIAS POR VOLUMEN)
@@ -66,6 +66,7 @@ La siguiente información se aplica a las versiones de licencia por volumen de O
 
 |**Fecha de publicación**|**Número de versión**|
 |:-----|:-----|
+|12 de enero de 2021|Versión 1808 (compilación 10370.20052)|
 |8 de diciembre de 2020|Versión 1808 (compilación 10369.20032)|
 |10 de noviembre de 2020|Versión 1808 (compilación 10368.20035)|
 |13 de octubre de 2020|Versión 1808 (compilación 10367.20048)|
@@ -94,12 +95,12 @@ La siguiente información se aplica a las versiones comerciales de Hacer clic y 
 
 |**Fecha de publicación**|**Número de versión**|
 |:-----|:-----|
+|13 de julio de 2021|Versión 2106 (compilación 14131.20320)|
 |29 de junio de 2021|Versión 2106 (Compilación 14131.20278)|
 |18 de junio de 2021|Versión 2105 (compilación 14026.20308)|
 |8 de junio de 2021|Versión 2105 (Compilación 14026.20270)|
 |24 de mayo de 2021|Versión 2105 (compilación 14026.20246)|
 |18 de mayo de 2021|Versión 2104 (Compilación 13929.20386)|
-|11 de mayo de 2021|Versión 2104 (compilación 13929.20372)|
 
 
 [//]: # (NO QUITAR EL FINAL DE LA TABLA DE VENTAS AL POR MENOR)
@@ -113,6 +114,7 @@ La siguiente información se aplica a las versiones comerciales de Hacer clic y 
 
 |**Fecha de publicación**|**Número de versión**|
 |:-----|:-----|
+|11 de mayo de 2021|Versión 2104 (compilación 13929.20372)|
 |29 de abril de 2021|Versión 2104 (Compilación 13929.20296)|
 |23 de abril de 2021|Versión 2103 (Compilación 13901.20462)|
 |13 de abril de 2021|Versión 2103 (Compilación 13901.20400)|

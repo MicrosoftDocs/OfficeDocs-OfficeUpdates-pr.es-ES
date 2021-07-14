@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones del Canal mensual para empresas para Aplicaciones de Microsoft 365
-ms.openlocfilehash: 1795f0a150b8b18d50e462cd6d30a285c055f8b1
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: 96a76ed1ed1849753422dae92626484a77cec2a4
+ms.sourcegitcommit: 4f5536e809f58462d81c708c153390ebfd1abc4e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851870"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409566"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>Notas de la versión para el Canal mensual para empresas
 
@@ -24,6 +24,120 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 [//]: # (NO ELIMINAR)
 
 
+
+## <a name="version-2105-july-13"></a>Versión 2105: 13 de julio
+*Versión 2105 (compilación 14026.20334)*
+
+Lista de actualizaciones de seguridad [aquí](microsoft365-apps-security-updates.md)
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="outlook"></a>Outlook
+
+- **Obtenga sugerencias relevantes de archivo al buscar:** Al escribir en el cuadro de búsqueda, los archivos más relevantes relacionados con la búsqueda se incluirán en sus sugerencias.
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+<br/>
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="excel"></a>Excel
+
+- Hemos corregido un problema para permitir que el Administrador de nombres se abra en libros con un gran número de nombres ocultos.
+
+
+- Hemos corregido un problema que hacía que a algunos usuarios les aparecieran entradas adicionales en la lista del complemento de Excel.
+
+
+- Se ha corregido un problema en el que el complemento de Herramientas para análisis no funcionaba para algunos usuarios.
+
+
+### <a name="outlook"></a>Outlook
+
+- El cambio se está realizando en segundo plano y bajo una puerta de cambio, por lo que, si hay problemas, se puede desactivar rápidamente.
+
+
+- Hemos agregado una clave del Registro que deshabilita la nueva experiencia del Buscador de salas (la misma experiencia que en Outlook para Web) y habilita el Buscador de salas heredado con Horas sugeridas.
+
+   Clave del Registro:
+
+    >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar REG_DWORD “ShowLegacyRoomFinder”
+
+    >0 (predeterminado): Outlook usa la nueva experiencia con tecnología del Buscador de salas de OWA cuando el usuario hace clic en el botón "Buscador de salas" para buscar salas disponibles.</br>
+    >1: Outlook usa la interfaz de usuario del Buscador de salas heredada para buscar salas disponibles
+
+
+- Este cambio permite a los usuarios enviar comentarios a través de nuestro nuevo sistema de comentarios.
+
+
+- Hemos corregido un problema que causaba que la opción de comentarios no estuviese habilitada para los usuarios de la versión preliminar de Office Perpetual 2021.
+
+
+- Se ha corregido un problema que provocaba que los usuarios reciban un error al seleccionar "Abrir propiedades de Outlook" en el menú contextual del botón derecho de un destinatario en un correo electrónico.
+
+
+- Se ha corregido un problema que causaba que algunos usuarios experimentasen un cierre inesperado de la app al cargar tarjetas de persona.
+
+
+- Hemos corregido un problema que causaba que los usuarios experimentasen un cierre inesperado al quitar carpetas de un almacén de archivos.
+
+
+- Se ha corregido un problema que causaba que algunas instrucciones de la característica "Acortar reuniones" estuvieran deshabilitadas a través de las tecnologías de lector de pantalla.
+
+
+- Hemos corregido un problema que provocaba que los usuarios experimentaran un aviso de cambio de propiedad inesperado al cerrar un mensaje al que habían respondido o que habían reenviado.
+
+
+- Hemos solucionado un problema que podía provocar un cierre inesperado al interactuar con el Correo de Outlook o las Vistas de Calendario.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se ha corregido un problema por el que la opción de Reutilizar diapositivas no estaba disponible para unos pocos usuarios.
+
+
+### <a name="project"></a>Project
+
+- Se ha corregido un problema que hacía que las tareas de las tareas programadas manualmente se movieran a una fecha incorrecta.
+
+
+- Se ha corregido un problema por el que, si crea una fórmula de campo personalizada que usa las funciones ProjectDate */ProjectDur* y si el segundo parámetro son las funciones Fecha(), Ahora() u Hora() de fecha y hora, se genera un #ERROR.
+
+
+### <a name="word"></a>Word
+
+- Corrige un problema con el que no se abre en el panel del Editor.
+
+
+- Se ha corregido un problema por el que las tarjetas contextuales de lienzo de ortografía y gramática mostraban botones de iconos, pero esos botones no tenían información sobre herramientas.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Se ha corregido un problema de localización por el que ahora en-gb, fr-ca y es-mx coincidirán con sus respectivas versiones primarias.
+
+
+- Se ha corregido un cierre inesperado al volver a abrir determinados archivos.
+
+
+- Se ha corregido una regresión de rendimiento al abrir archivos SyncBacked.
+
+
+- Se ha corregido un problema que provocaba que el usuario no pudiera editar determinados documentos almacenados en servidores locales de SharePoint.
+
+
+
+[//]: # (NO QUITAR DETALLES DE ERROR DEL CONTENIDO FINAL)
+
+## <a name="version-2104-july-13"></a>Versión 2104: 13 de julio
+*Versión 2104 (compilación 13929.20434)*
+
+Las actualizaciones de seguridad se enumeran [aquí](microsoft365-apps-security-updates.md)
 
 ## <a name="version-2104-june-08"></a>Versión 2104: 8 de junio
 *Versión 2104 (Compilación 13929.20408)*
@@ -323,7 +437,7 @@ Lista de actualizaciones de seguridad [aquí](microsoft365-apps-security-updates
 - Se ha corregido un problema que causaba que el formato de fecha se mostrara de forma incorrecta en algunos idiomas al usar complementos.
 
 
-- Se ha corregido un problema que impedía pegar como fórmula en una hoja protegida.
+- Hemos corregido un problema que bloqueaba la capacidad de pegar como fórmulas en una hoja protegida.
 
 
 ### <a name="outlook"></a>Outlook
@@ -865,6 +979,7 @@ Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-securit
 
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|MEC|Production|Feature|16.0.14026.20334|version-2105-july-13|)
 [//]: # (|Win32|MEC|Producción|Característica|16.0.13929.20408|version-2104-junio-08|)
 [//]: # (|Win32|MEC|Producción|Característica|16.0.13901.20516|version-11-marzo-2103|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13801.20506|versión-2102-13-abril|)
@@ -874,5 +989,4 @@ Las actualizaciones de seguridad se enumeran [aquí](./microsoft365-apps-securit
 [//]: # (|Win32|MEC|Producción|Característica|16.0.13328.20478|versión-08-diciembre-2010|)
 [//]: # (|Win32|MEC|Producción|Característica|16.0.13231.20514|versión-10-noviembre-2009|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13127.20638|versión-13-octubre-2008|)
-[//]: # (| Win32 | MEC | Producción | Característica | 16.0.13029.20534 | versión-2007-septiembre-08 |)
 [//]: # (NO MODIFICAR EL FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)

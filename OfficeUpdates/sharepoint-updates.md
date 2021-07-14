@@ -13,12 +13,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: Encuentre y administre actualizaciones de SharePoint Server 2016, SharePoint 2013 y SharePoint 2010 en una única ubicación. Use los vínculos de esta página para obtener más información sobre las actualizaciones y luego descárguelas.
-ms.openlocfilehash: 309ae6ea429fdf6dfa2d958de82d67018ba50f25
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: 8d346feb92ed55998e1e9d60eb8157392c8eefc3
+ms.sourcegitcommit: 53e1e371f9782d973d664e24793c3abd709581e1
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851970"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53411758"
 ---
 # <a name="sharepoint-updates"></a>Actualizaciones de SharePoint
 
@@ -36,6 +36,7 @@ Para obtener las actualizaciones más recientes de SharePoint Online y Microsoft
 
 |**Nombre del paquete**|**Número de KB**|**Version**|**Fecha de publicación**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Server 2019 <br/> Revisión de idioma/MUI de SharePoint Server 2019  <br/>|[KB 5001975](https://support.microsoft.com/help/5001975)<br/>[KB 5001974](https://support.microsoft.com/help/5001974)<br/>|16.0.10376.20001|Julio de 2021|
 |SharePoint Server 2019 <br/> Revisión de idioma/MUI de SharePoint Server 2019  <br/>|[KB 5001944](https://support.microsoft.com/help/5001944)<br/>[KB 5001945](https://support.microsoft.com/help/5001945)<br/>|16.0.10375.20000|Junio de 2021|
 |SharePoint Server 2019 <br/> Revisión de idioma/MUI de SharePoint Server 2019  <br/>|[KB 5001916](https://support.microsoft.com/help/5001916)<br/>[KB 5001915](https://support.microsoft.com/help/5001915)<br/>|16.0.10374.20000|Mayo de 2021|
 |SharePoint Server 2019 <br/> Revisión de idioma/MUI de SharePoint Server 2019  <br/>|[KB 4504716](https://support.microsoft.com/help/4504716)<br/>[KB 4504715](https://support.microsoft.com/help/4504715)<br/>|16.0.10373.20000|Abril de 2021|
@@ -75,6 +76,7 @@ Para obtener las actualizaciones más recientes de SharePoint Online y Microsoft
 
 |**Nombre del paquete**|**Número de KB**|**Version**|**Fecha de publicación**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Server 2016  <br/>Revisión de idioma/MUI de SharePoint Server 2016  <br/> |[KB 5001976](https://support.microsoft.com/help/5001976) <br/>[KB 5001981](https://support.microsoft.com/help/5001981) <br/>|16.0.5188.1000 <br/>|Julio de 2021|
 |SharePoint Server 2016  <br/>Revisión de idioma/MUI de SharePoint Server 2016  <br/> |[KB 5001946](https://support.microsoft.com/help/5001946) <br/>[KB 5001922](https://support.microsoft.com/help/5001922) <br/>|16.0.5173.1000 <br/>|Junio de 2021|
 |SharePoint Server 2016  <br/>|[KB 5001917](https://support.microsoft.com/help/5001917) <br/>|16.0.5161.1000 <br/>|Mayo de 2021|
 |SharePoint Server 2016  <br/>Revisión de idioma/MUI de SharePoint Server 2016  <br/> |[KB 4504719](https://support.microsoft.com/help/4504719) <br/>[KB 4504723](https://support.microsoft.com/help/4504723) <br/>|16.0.5149.1000 <br/>|Abril de 2021|
@@ -153,6 +155,7 @@ Se proporcionan los siguientes paquetes para actualizaciones acumulativas:
     
 |**Nombre del paquete**|**Número de KB**|**Version**|**Fecha de publicación**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 5001987](https://support.microsoft.com/help/5001987) <br/>[KB 5001989](https://support.microsoft.com/help/5001989) <br/>|15.0.5363.1000|Julio de 2021|
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 5001957](https://support.microsoft.com/help/5001957) <br/>[KB 5001961](https://support.microsoft.com/help/5001961) <br/>|15.0.5353.1000|Junio de 2021|
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 5001929](https://support.microsoft.com/help/5001929) <br/>[KB 5001933](https://support.microsoft.com/help/5001933) <br/>|15.0.5345.1000|Mayo de 2021|
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 4504730](https://support.microsoft.com/help/4504730) <br/>[KB 4504732](https://support.microsoft.com/help/4504732) <br/>|15.0.5337.1000|Abril de 2021|
