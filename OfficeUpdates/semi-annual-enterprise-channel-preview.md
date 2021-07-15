@@ -9,17 +9,44 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones del canal semestral (dirigido) de Aplicaciones de Microsoft 365 en 2021.
-ms.openlocfilehash: 95bdd111e041dd07689ad84254dde5b95a8efebe
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: 7ccc68f004285105f9567fb761edf80516fb1f32
+ms.sourcegitcommit: 4f5536e809f58462d81c708c153390ebfd1abc4e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52852010"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409495"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>Notas de la versión para el canal semestral para empresas (vista previa)
 
 Estas notas de la versión proporcionan información sobre las nuevas características y las actualizaciones no relacionadas con la seguridad que se incluyen en las actualizaciones del canal semestral para empresas (vista previa) para las Aplicaciones de Microsoft 365 para empresas, las Aplicaciones de Microsoft 365 para negocios, y las versiones de suscripción de las aplicaciones de escritorio de Project y Visio.
 
+
+## <a name="version-2102-july-13"></a>Versión 2102: 13 de julio
+*Versión 2102 (compilación 13801.20808)*
+
+Lista de actualizaciones de seguridad [aquí](microsoft365-apps-security-updates.md)
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="outlook"></a>Outlook
+
+- Se ha corregido un problema que impedía que la opción de configuración de la nube se habilitara cuando un usuario la seleccionaba.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Hemos corregido un problema por el que, en algunos casos, el objeto de Excel incrustado en la presentación de PowerPoint no se mostraba como se esperaba.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Hemos hecho una corrección en el escenario de datos de cambio de usuario, cuando el usuario cambia entre las identidades de Active Directory desde el Control de medios en las aplicaciones de Office.
+
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO FINAL)
 
 ## <a name="version-2102-june-08"></a>Versión 2102: 8 de junio
 *Versión 2102 (Compilación 13801.20738)*
@@ -131,7 +158,7 @@ Las actualizaciones de seguridad se muestran aquí: [Notas de la versión de las
 - Se ha corregido un problema que causaba que el formato de fecha se mostrara de forma incorrecta en algunos idiomas al usar complementos.
 
 
-- Se ha corregido un problema que impedía pegar como fórmula en una hoja protegida.
+- Hemos corregido un problema que bloqueaba la capacidad de pegar como fórmulas en una hoja protegida.
 
 
 ### <a name="outlook"></a>Outlook
@@ -255,6 +282,8 @@ Las actualizaciones de seguridad se muestran aquí: [Notas de la versión de las
 
 
 - **Integración AMSI con Office para macros XLM:** AMSI es una interfaz abierta disponible en Windows 10 para que las aplicaciones soliciten, en el tiempo de ejecución, un análisis sincrónico de un búfer de memoria mediante un antivirus o una solución de seguridad instalado. Cuando se detecta actividad malintencionada, Excel notificará al usuario y la sesión de la aplicación se cerrará para evitar cualquier daño adicional. Esto puede detener los ataques en su seguimiento, protegiendo tanto el dispositivo como al usuario. Ver detalles en [entrada de blog](https://www.microsoft.com/security/blog/2021/03/03/xlm-amsi-new-runtime-defense-against-excel-4-0-macro-malware/).
+
+- **Crear tablas dinámicas de conjuntos de datos en Power BI en Excel:** puede crear tablas dinámicas en Excel conectadas a los conjuntos de datos almacenados en Power BI con tan solo unos clics. Así, podrá obtener lo mejor de las tablas dinámicas y de Power BI. Calcule, resuma y analice sus datos con tablas dinámicas desde sus conjuntos de datos seguros de Power BI. [Más información](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
 
 ### <a name="outlook"></a>Outlook
 
@@ -753,6 +782,7 @@ Las actualizaciones de seguridad se muestran aquí: [Notas de la versión de las
 
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|FRDC|Insiders| |16.0.13801.20808|version-2102-july-13|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20738|version-2102-junio-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20638|version-2102-may-11|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20506|version-2102-abril-13|)
@@ -762,5 +792,4 @@ Las actualizaciones de seguridad se muestran aquí: [Notas de la versión de las
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20910|versión-08-diciembre-2008|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20760|versión-10-noviembre-2008|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20638|versión-13-octubre-2008|)
-[//]: # (|Win32|FRDC|Insiders| |16.0.13127.20408|version-2008-septiembre-08|)
 [//]: # (NO MODIFICAR EL FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)

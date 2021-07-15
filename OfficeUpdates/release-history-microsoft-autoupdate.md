@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales informáticos un historial de versiones de Microsoft AutoUpdate (MAU).
-ms.openlocfilehash: 10336f30469104b93c24d6f40f091d47c4b20d81
-ms.sourcegitcommit: 4ab7d229662f7c8334e6c70aca4932bc62394a65
+ms.openlocfilehash: b71c9156bcabdab976418d15394f82012b20ba04
+ms.sourcegitcommit: a23fad65b58ecdc75e2c7b5f5ba04b73061987d1
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/15/2021
-ms.locfileid: "52949840"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53417561"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historial de versiones de Microsoft AutoUpdate (MAU)
  
@@ -29,6 +29,23 @@ En la siguiente tabla, se proporciona información del historial de versiones de
 > - Microsoft AutoUpdate ofrece actualizaciones para distintos productos de Mac de Microsoft. Por tanto, es posible que reciba una notificación para actualizar Microsoft AutoUpdate, incluso si no está ejecutando Office para Mac.
 
 Para ver las notas de la versión, consulte [Notas de la versión.](release-notes-office-for-mac.md)<br/><br/>
+## <a name="july-2021-release"></a>Versión de julio de 2021
+
+**Fecha de publicación**: 13 de julio de 2021
+
+*Microsoft AutoUpdate 4.37*
+
+**Correcciones de errores y mejoras:**
+- Cambio a la notificación de msupdate: MAU ahora descargará y almacenará las actualizaciones antes de mostrar la notificación de los administradores de TI.
+- Corrección para MAU que muestra la versión anterior de la aplicación después de aplicar las actualizaciones.
+- Corrección para la notificación de fecha límite MAU no descartada al iniciar las actualizaciones.
+
+[Descargar el paquete de Microsoft AutoUpdate 4.37](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.37.21071101_Updater.pkg)<br/>
+<br/>
+**SHA-256 Hash:**
+
+2352BA7722ABCC92E9C05E2D50B1B6F71FEF7D91306D6E4EF765F042688F2BC4
+
 ## <a name="june-2021-release"></a>Versión de junio de 2021
 
 **Fecha de publicación:** 15 de junio de 2021

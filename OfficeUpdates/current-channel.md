@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI las notas de la versión para las versiones de canal mensual de Aplicaciones de Microsoft 365
-ms.openlocfilehash: b3f83cf76fe29f739da9ce18160a5de76a90118f
-ms.sourcegitcommit: 11c8b2e40f9058a6e6f0451736b0b05627789b9d
+ms.openlocfilehash: ca88e77309c90216039fa65bd06d00d9c2f45d42
+ms.sourcegitcommit: 4f5536e809f58462d81c708c153390ebfd1abc4e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "53323567"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409596"
 ---
 # <a name="release-notes-for-current-channel"></a>Notas de la versión para el canal actual
 
@@ -29,6 +29,37 @@ Estas notas de la versión proporcionan información sobre las nuevas caracterí
 
 
 [//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+
+
+[//]: # (NO QUITAR LOS DETALLES DE ERROR DE FIN DE CONTENIDO)
+
+## <a name="version-2106-july-13"></a>Versión 2106: 13 de julio
+*Versión 2106 (Compilación 14131.20320)*
+
+Lista de actualizaciones de seguridad [aquí](microsoft365-apps-security-updates.md)
+
+
+[//]: # (NO QUITAR ERRORES DETALLES CONTENIDO INICIO)
+
+### <a name="resolved-issues"></a>Problemas corregidos
+### <a name="outlook"></a>Outlook
+
+- Hemos corregido un problema que provocaba que algunos usuarios experimentaran un cierre inesperado al recuperar sugerencias de búsqueda con tecnología de servicio.
+
+
+- Hemos corregido un problema que provocaba que la configuración de la nube no usara un perfil itinerante correctamente cuando se producía un conflicto.
+
+
+- Se ha corregido un problema que provocaba que la dirección SMTP dejara de funcionar para mostrarse junto al calendario principal del usuario en un perfil de varias cuentas después de habilitar la opción "Mejoras de calendario compartido".
+
+
+- Se ha corregido un problema que provocaba que los usuarios vieran elementos de calendario duplicados creados al responder a la convocatoria de reunión a través del menú contextual del botón derecho.
+
+
+### <a name="office-suite"></a>Conjunto de aplicaciones de Office
+
+- Se ha corregido un problema relacionado con la inestabilidad durante las situaciones de recuperación y pérdida de dispositivos en DirectX.
 
 
 
@@ -1042,6 +1073,7 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 > Si necesita ayuda con algún problema de uso de Office, le recomendamos que publique la pregunta en el [foro de preguntas de Microsoft](https://answers.microsoft.com/) o [Tech Community](https://techcommunity.microsoft.com/), o bien puede ponerse en contacto con el [servicio de soporte técnico](https://support.microsoft.com/contactus).
 
 [//]: # (NO MODIFICAR EL INICIO DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)
+[//]: # (|Win32|CC|Production| |16.0.14131.20320|version-2106-july-13|)
 [//]: # (|Win32|CC|Production| |16.0.14131.20278|version-2106-june-29|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20308|version-2105-june-18|)
 [//]: # (|Win32|CC|Producción| |16.0.14026.20270|versión-2105-junio-08|)
@@ -1051,5 +1083,4 @@ Lista de actualizaciones de seguridad [aquí](./microsoft365-apps-security-updat
 [//]: # (|Win32|CC|Producción| |16.0.13929.20296|versión-2104-abril-29|)
 [//]: # (|Win32|CC|Producción| |16.0.13901.20462|versión-2103-abril-23|)
 [//]: # (|Win32|CC|Producción| |16.0.13901.20400|versión-2103-abril-13|)
-[//]: # (|Win32|CC|Producción| |16.0.13901.20336|versión-2103-marzo-30|)
 [//]: # (NO MODIFICAR EL FIN DE CONTENIDO DE METADATOS DEL CENTRO DE ADMINISTRACIÓN)

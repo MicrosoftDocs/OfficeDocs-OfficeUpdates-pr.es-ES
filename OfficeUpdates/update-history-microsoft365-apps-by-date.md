@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Proporciona a los profesionales de TI una lista completa de las versiones de las Aplicaciones de Microsoft 365, organizada por fecha, con vínculos a las notas de la versión.
-ms.openlocfilehash: 1a923758800f5a0adbf9f6fb670ffa90522bb51e
-ms.sourcegitcommit: bd700dedc0c80ae72fa5611665ad6d321127a531
+ms.openlocfilehash: 1e888c9ab617b817d22cb0e828ce8acda19aab4b
+ms.sourcegitcommit: 4f5536e809f58462d81c708c153390ebfd1abc4e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53206342"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409445"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Historial de actualizaciones de Aplicaciones de Microsoft 365 (ordenado por fecha)
 
@@ -33,12 +33,13 @@ En la tabla siguiente se muestra la versión compatible y el número de compilac
 
 |**Canal**|**Versión**|**Compilación**|**Fecha de publicación**|**Versión admitida hasta**|
 |:-----|:-----|:-----|:-----|:-----|
-|Canal actual<br/>|2106<br/>|14131.20278<br/>|29 de junio de 2021<br/>|Lanzamiento de la versión 2107<br/>|
-|Canal empresarial mensual<br/>|2104<br/>|13929.20408<br/>|8 de junio de 2021<br/>|10 de agosto de 2021<br/>|
-|Canal empresarial mensual<br/>|2103<br/>|13901.20554<br/>|8 de junio de 2021<br/>|13 de julio de 2021<br/>|
-|Canal semestral para empresas (versión preliminar)<br/>|2102<br/>|13801.20738<br/>|8 de junio de 2021<br/>|14 de septiembre de 2021<br/>|
-|Canal empresarial semestral<br/>|2008<br/>|13127.21668<br/>|8 de junio de 2021<br/>|8 de marzo de 2022<br/>|
-|Canal empresarial semestral<br/>|2002<br/>|12527.21952<br/>|8 de junio de 2021<br/>|14 de septiembre de 2021<br/>|
+|Canal actual<br/>|2106<br/>|14131.20320<br/>|13 de julio de 2021<br/>|Lanzamiento de la versión 2107<br/>|
+|Canal empresarial mensual<br/>|2105<br/>|14026.20334<br/>|13 de julio de 2021<br/>|14 de septiembre de 2021<br/>|
+|Canal empresarial mensual<br/>|2104<br/>|13929.20434<br/>|13 de julio de 2021<br/>|10 de agosto de 2021<br/>|
+|Canal semestral para empresas (versión preliminar)<br/>|2102<br/>|13801.20808<br/>|13 de julio de 2021<br/>|14 de septiembre de 2021<br/>|
+|Canal empresarial semestral<br/>|2102<br/>|13801.20808<br/>|13 de julio de 2021<br/>|13 de septiembre de 2022<br/>|
+|Canal empresarial semestral<br/>|2008<br/>|13127.21704<br/>|13 de julio de 2021<br/>|8 de marzo de 2022<br/>|
+|Canal empresarial semestral<br/>|2002<br/>|12527.21986<br/>|13 de julio de 2021<br/>|14 de septiembre de 2021<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -52,6 +53,7 @@ En la tabla siguiente, se muestra una lista de los números de versión y compil
 
 |**Year**|**Fecha de publicación**|**Canal actual**|**Canal empresarial mensual**|**Canal empresarial semestral (vista previa)**|**Canal empresarial semestral**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2021|13 de julio|[Versión 2106 (Compilación 14131.20320)](current-channel.md#version-2106-july-13)|[Versión 2105 (compilación 14026.20334)](monthly-enterprise-channel.md#version-2105-july-13)<br/>[Versión 2104 (compilación 13929.20434)](monthly-enterprise-channel.md#version-2104-july-13)|[Versión 2102 (compilación 13801.20808)](semi-annual-enterprise-channel-preview.md#version-2102-july-13)|[Versión 2102 (compilación 13801.20808)](semi-annual-enterprise-channel.md#version-2102-july-13)<br/>[Versión 2008 (compilación 13127.21704)](semi-annual-enterprise-channel.md#version-2008-july-13)<br/>[Versión 2002 (compilación 12527.21986)](semi-annual-enterprise-channel.md#version-2002-july-13)|
 |2021|29 de junio|[Versión 2106 (Compilación 14131.20278)](current-channel.md#version-2106-june-29)| | | |
 |2021|18 de junio|[Versión 2105 (compilación 14026.20308)](current-channel.md#version-2105-june-18)| | | |
 |2021|8 de junio|[Versión 2105 (Compilación 14026.20270)](current-channel.md#version-2105-june-08)|[Versión 2104 (Compilación 13929.20408)](monthly-enterprise-channel.md#version-2104-june-08)<br/>[Versión 2103 (Compilación 13901.20554)](monthly-enterprise-channel.md#version-2103-june-08)|[Versión 2102 (Compilación 13801.20738)](semi-annual-enterprise-channel-preview.md#version-2102-june-08)|[Versión 2008 (Compilación 13127.21668)](semi-annual-enterprise-channel.md#version-2008-june-08)<br/>[Versión 2002 (Compilación 12527.21952)](semi-annual-enterprise-channel.md#version-2002-june-08)|

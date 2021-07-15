@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Proporciona a los profesionales de TI las notas de la versión de las versiones de Office para Mac para los suscriptores de Aplicaciones de Microsoft 365
-ms.openlocfilehash: abd134da7bdc7ab5524bb3e7b69e7f57d24f6522
-ms.sourcegitcommit: 4ab7d229662f7c8334e6c70aca4932bc62394a65
+ms.openlocfilehash: aeb91ea6072c4f0714f225de559f5d54e6c4e85a
+ms.sourcegitcommit: 4f5536e809f58462d81c708c153390ebfd1abc4e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/15/2021
-ms.locfileid: "52949850"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409545"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de la versión de Office para Mac
 
@@ -61,6 +61,38 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
 
 
+
+
+
+## <a name="july-13-2021"></a>13 de julio de 2021
+*Versión 16.51 (Compilación 21071101)*
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO INICIO)
+
+### <a name="feature-updates"></a>Actualizaciones de características
+### <a name="outlook"></a>Outlook
+
+- **Establezca valores predeterminados de programación para acortar las reuniones de toda la organización:** nuestros clientes comerciales pueden establecer valores predeterminados a nivel de toda la organización para acortar las reuniones y ofrecer un descanso a todos los usuarios de la empresa.
+
+### <a name="word"></a>Word
+
+- **Vea sus documentos con una luz diferente:** haga un cambio radical en la apariencia de los documentos para dar un alivio a sus ojos y centrarse en su trabajo.<br />Ver detalles en [entrada de blog](https://insider.office.com/es-ES/blog/dark-mode-in-word-for-mac)
+
+
+[//]: # (NO QUITAR OPCIONES DETALLES CONTENIDO FINAL)
+
+
+[//]: # (NO QUITAR LOS DETALLES DE SEGURIDAD INICIO DEL CONTENIDO INICIAL)
+
+
+### <a name="security-updates"></a>Actualizaciones de seguridad
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-34501](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2021-34501)
+
+[//]: # (NO QUITAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO FINAL)
 
 ## <a name="june-15-2021"></a>15 de junio de 2021
 *Versión 16.50 (Compilación 21061301)*
@@ -373,7 +405,7 @@ Las actualizaciones están disponibles desde Microsoft AutoUpdate (MAU). Para us
 
 -   [CVE-2020-17124](https://portal.msrc.microsoft.com/es-ES/security-guidance/advisory/CVE-2020-17124)
 
-[//]: # (NO ELIMINAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO FINAL)
+[//]: # (NO QUITAR LOS DETALLES DE SEGURIDAD DEL CONTENIDO FINAL)
 
 ## <a name="november-10-2020"></a>10 de noviembre de 2020
 *Versión 16.43 (Compilación 20110804)*
